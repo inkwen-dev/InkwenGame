@@ -21,4 +21,4 @@ Puzzline is an easy yet exciting way to exercise your brain and relax your mind 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Board, Boys, Cool, Girls, Puzzle
+- Tags: 1 Player, 2D, Arcade, Board, Boys, cool, Girls, Puzzle

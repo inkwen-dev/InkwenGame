@@ -19,6 +19,6 @@ Pony Color Fun is a relaxing and creative coloring adventure set in a magical wo
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Educational, Fun, Hypercasual, Kids, Mobile, New, painting, School
+- Tags: Coloring, educational, Fun, Hypercasual, Kids, Mobile, New, painting, School

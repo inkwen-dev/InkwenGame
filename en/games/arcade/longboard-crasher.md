@@ -19,6 +19,6 @@ It is an informal puzzle game where your objective is to descend safely. It may 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, HTML5, Hypercasual, iPad, iPhone, Mentolatux, Mobile, Skill

@@ -21,4 +21,4 @@ This is a Christmas game where you can test your memory and have a challenge to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, HTML5, Kids, Memory, Puzzle
+- Tags: Christmas, HTML5, Kids, memory, Puzzle

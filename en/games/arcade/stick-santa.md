@@ -21,4 +21,4 @@ stick santa is html5 arcade game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, HTML5, Ice, Snow, Stickman
+- Tags: 1 Player, Arcade, HTML5, Ice, Snow, stickman

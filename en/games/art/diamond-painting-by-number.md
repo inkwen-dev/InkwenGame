@@ -23,4 +23,4 @@ Diamond Painting by Number is a coloring game in which you can draw, color and c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Color, Decoration, Drawing, Mobile
+- Tags: Color, Decoration, drawing, Mobile

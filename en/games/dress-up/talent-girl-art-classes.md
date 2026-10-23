@@ -21,4 +21,4 @@ Today is the 1st day of Zoe to Art College. There are two different classes for 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Decorate, Design, Dress Up, Educational, Fashion, Girl, Girls, Kid, Kids, Makeover
+- Tags: Coloring, Decorate, Design, Dress Up, educational, Fashion, Girl, Girls, Kid, Kids, Makeover

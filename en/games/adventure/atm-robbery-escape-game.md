@@ -19,6 +19,6 @@ Get ready for an intense and thrilling experience in ATM Robbery Escape Game! St
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, amazing, Casual, Fun, Skill

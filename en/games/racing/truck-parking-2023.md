@@ -21,4 +21,4 @@ You may get your feet wet in the game's beginner level, "Euro Truck Parking," an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Driving, Parking, Simulator, Truck
+- Tags: 3D Games, Driving, parking, Simulator, truck

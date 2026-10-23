@@ -21,4 +21,4 @@ Hey girls! Get ready to host the most amazing pajama party ever with Girls Pajam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: amazing, Educational, Fun
+- Tags: amazing, educational, Fun

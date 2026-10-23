@@ -21,4 +21,4 @@ Ready for super awesome Motor Bike Stunts Sky 2020 ? Enjoy of stunt drive on the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Motorcycle, Stunts, Unity3D, WebGL
+- Tags: bike, Motorcycle, Stunts, Unity3D, WebGL

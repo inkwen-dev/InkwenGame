@@ -19,6 +19,6 @@ Hey, All of the Impostors entered the museum. Unless museum guard catch the all 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 3D, 3D Games, Casual, Fun, HTML5, Unity3D, WebGL

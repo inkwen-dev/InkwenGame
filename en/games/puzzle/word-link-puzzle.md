@@ -21,4 +21,4 @@ You want to prove your vocabulary and Enjoy the excitement of classic word game?
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Letters, Puzzle, Word
+- Tags: Brain, Letters, Puzzle, word

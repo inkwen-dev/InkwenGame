@@ -21,4 +21,4 @@ Prepare yourself to encounter a wonderful kitty game where you actually get to k
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cute, Decorate, Design, Dress Up, Educational, Fashion, Girl, Girls, Kids, Makeover, Simulation
+- Tags: Animal, Baby, Cute, Decorate, Design, Dress Up, educational, Fashion, Girl, Girls, Kids, Makeover, Simulation

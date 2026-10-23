@@ -21,4 +21,4 @@ Catch the robber 3D game. you mission: chase them, catch them, earn money & upgr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Battle, Stickman
+- Tags: Arcade, battle, stickman

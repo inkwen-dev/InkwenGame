@@ -21,4 +21,4 @@ Players must construct and demolish complete lines on both the vertical and hori
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, Arcade, Block, HTML5, Mobile, Puzzle
+- Tags: 2D, Android, Arcade, block, HTML5, Mobile, Puzzle

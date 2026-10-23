@@ -27,4 +27,4 @@ Use the left mouse button to interact with in-game UI.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, cards, Magic, pve, Solitaire
+- Tags: Adventure, cards, Magic, pve, solitaire

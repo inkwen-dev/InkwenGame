@@ -21,4 +21,4 @@ Bird Flying is a fun skill game where you control a small bird to jump over land
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Casual, Clicker, Hypercasual, Jumping
+- Tags: Animal, Casual, Clicker, Hypercasual, jumping

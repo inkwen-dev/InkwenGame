@@ -21,4 +21,4 @@ Cat Strapped is an off-the-wall word puzzler that will keep you coming back for 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bomb, Cat, Girl, Girls, Hello Kitty, HTML, HTML5, Letters, Number, Puzzle, Word
+- Tags: Bomb, Cat, Girl, Girls, Hello Kitty, HTML, HTML5, Letters, Number, Puzzle, word

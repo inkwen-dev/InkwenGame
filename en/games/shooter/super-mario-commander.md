@@ -19,6 +19,6 @@ Super Mario Commander is an attractive action game for you. This game is suitabl
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Mario, Shoot, Shooting, Super
+- Tags: Action, mario, Shoot, Shooting, Super

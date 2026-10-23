@@ -21,4 +21,4 @@ M2 Blocks is an addictive and strategic puzzle game that challenges your logic, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2048, Block, Brain, mapi games, Number, Puzzle, puzzleblock, Tetris
+- Tags: 2048, block, Brain, mapi games, Number, Puzzle, puzzleblock, tetris

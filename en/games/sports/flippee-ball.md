@@ -72,4 +72,4 @@ A HYBRID ARCADE GAME OF PINBALL & BASKETBALL
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Ball, Basketball, Skill, Sports, two-player
+- Tags: Arcade, Ball, basketball, Skill, sports, two-player

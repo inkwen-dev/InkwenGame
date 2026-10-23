@@ -19,6 +19,6 @@ Welcome to Candy Drops, a Fun and amazing Match3 candy Game. Enjoy Tons of amazi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Candy, Casual, Color, HTML, HTML5, Hypercasual, Match 3, Match3, Matching

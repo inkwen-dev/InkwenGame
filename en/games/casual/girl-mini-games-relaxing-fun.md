@@ -19,6 +19,6 @@ Are you a lover of toys and games? Want to unlock more fun minigames all at once
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, Collection, Girls, Relaxation

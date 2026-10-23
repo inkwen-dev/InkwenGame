@@ -21,4 +21,4 @@ Are you a basketball serial shooter ? you can raise the challenge now ! Your goa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Basketball, Casual, Shoot, Sport
+- Tags: Action, Arcade, basketball, Casual, Shoot, Sport

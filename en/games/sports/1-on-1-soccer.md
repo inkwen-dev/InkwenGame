@@ -19,6 +19,6 @@ Player 1 arrow keys - Player 2 WASD
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, Football, Game, Games, HTML, HTML5, Online, Soccer, Sport, Sports
+- Tags: 1 Player, 2 Player, 2 Player Games, Football, Game, Games, HTML, HTML5, Online, Soccer, Sport, sports

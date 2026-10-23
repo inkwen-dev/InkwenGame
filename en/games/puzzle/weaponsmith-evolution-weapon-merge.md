@@ -27,4 +27,4 @@ Dive into the captivating universe of Weaponsmith Evolution - Weapon Merge, star
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Crafting, merge, Mobile, RPG
+- Tags: Crafting, merge, Mobile, rpg

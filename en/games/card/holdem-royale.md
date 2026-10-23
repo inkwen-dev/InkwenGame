@@ -21,4 +21,4 @@ Holdem Royale is Texas Holdem poker with real players, live. Pull up a chair in 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Multiplayer, Poker
+- Tags: card, Multiplayer, Poker

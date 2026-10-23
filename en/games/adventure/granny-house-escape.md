@@ -21,4 +21,4 @@ Enter the spine-chilling world of Granny House Escape, a 3D horror game where yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Escape, Granny, Horror, House
+- Tags: 3D Games, Escape, granny, Horror, House

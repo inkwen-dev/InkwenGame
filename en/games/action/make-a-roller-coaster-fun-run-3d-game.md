@@ -19,6 +19,6 @@ Designing the route of the roller coaster is undoubtedly a very important task. 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Boy, Boys, Fun, H5, HTML5, Kid, Kids

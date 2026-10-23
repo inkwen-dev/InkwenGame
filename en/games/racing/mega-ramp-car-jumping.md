@@ -21,4 +21,4 @@ Summer Games like you’ve never seen before! Imagine your favorite sporting eve
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, drift, drifting, jump, Jumping, Race, Racing, Supercars
+- Tags: Car, Cars, drift, drifting, jump, jumping, Race, Racing, Supercars

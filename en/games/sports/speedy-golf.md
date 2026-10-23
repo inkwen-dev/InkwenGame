@@ -21,4 +21,4 @@ Shoot Incredible Scores! - easy one button three tap play control - caddy does t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Golf, Sports
+- Tags: 1 Player, 3D, golf, sports

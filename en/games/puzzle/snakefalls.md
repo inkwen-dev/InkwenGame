@@ -21,4 +21,4 @@ Snake falls is a very fun puzzle game with beautiful bird heads and snake bodies
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Avoid, Boy, Brain, Fruit, Fun, HTML5, Kid, Mobile, Obstacle, Puzzle, Snake
+- Tags: Android, Avoid, Boy, Brain, Fruit, Fun, HTML5, Kid, Mobile, Obstacle, Puzzle, snake

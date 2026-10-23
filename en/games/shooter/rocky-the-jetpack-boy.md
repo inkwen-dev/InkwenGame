@@ -21,4 +21,4 @@ Rocky the jetpack boy is a side-scrolling endless runner, action html5 game This
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Arcade, Boy, endless, fly, Gun, HTML, HTML5, Monster, Shooter
+- Tags: 1 Player, 2D, Action, Adventure, Arcade, Boy, endless, fly, Gun, HTML, HTML5, monster, Shooter

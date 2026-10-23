@@ -19,6 +19,6 @@ You will race against time with characters that only move up and down. The platf
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, 2D, Adventure, Arcade, Hypercasual, Mobile, Platform, Superhero

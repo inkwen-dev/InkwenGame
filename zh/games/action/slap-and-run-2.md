@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 街机, 避开, 高分, 移动, 障碍, 跑步, Unity3D
+- 标签: 3D, 街机, 躲避, 高分, 移动设备, 障碍, 奔跑, Unity3D

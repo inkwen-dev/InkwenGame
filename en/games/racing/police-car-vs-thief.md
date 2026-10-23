@@ -19,6 +19,6 @@ Police car vs Thief is a 3d action game which you need to escape from policecars
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Car, Cars, drift, drifting, Escape, Parking, Police, Race, Racing, run, Supercars
+- Tags: Action, Car, Cars, drift, drifting, Escape, parking, police, Race, Racing, run, Supercars

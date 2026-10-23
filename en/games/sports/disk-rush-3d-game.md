@@ -21,4 +21,4 @@ Disk Rush & 3D Game is a fast-paced 3D arcade game, you need to react really fas
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Avoid, Puzzle, Sports
+- Tags: 3D Games, Avoid, Puzzle, sports

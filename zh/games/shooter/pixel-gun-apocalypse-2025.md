@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2025年游戏, 有趣, 枪械, Mentolatux, 多人游戏, 像素, 射击, unity, WebGL
+- 标签: 2025年游戏, 有趣, 枪械, Mentolatux, 多人, 像素, 射击, unity, WebGL

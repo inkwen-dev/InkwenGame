@@ -21,4 +21,4 @@ Here is an online game about a fearless adventurer and treasure seeker, a brave 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Battle, Battlegrounds, Best, Fight, Fighting, H5, Hot, HTML, HTML5, Kill, Killing, Shooting, Strategy, War
+- Tags: Action, Adventure, battle, Battlegrounds, Best, Fight, fighting, H5, Hot, HTML, HTML5, Kill, Killing, Shooting, strategy, War

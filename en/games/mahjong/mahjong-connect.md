@@ -21,4 +21,4 @@ In MAHJONG CONNECT game, your goal is to find all matching pairs. It's a kind of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Mahjong, Puzzle
+- Tags: Arcade, mahjong, Puzzle

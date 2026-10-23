@@ -19,6 +19,6 @@ Try to score as many points by destroying the yellow balls in the middle of the 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Bounce, Casual, HTML5, Hypercasual, Puzzle

@@ -21,4 +21,4 @@ Swipe the screen to make the bouncing note fall through the piano loops! Move th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Hypercasual, Music
+- Tags: 3D, Hypercasual, music

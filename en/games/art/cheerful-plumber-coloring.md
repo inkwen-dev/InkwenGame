@@ -21,4 +21,4 @@ Hello, young artist. Do you love video games and creativity? Then this game is f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cartoon, Color, Coloring, Cute, Design, Draw, Drawing, Girl, HTML5, Monster, Princess
+- Tags: Baby, Cartoon, Color, Coloring, Cute, Design, Draw, drawing, Girl, HTML5, monster, Princess

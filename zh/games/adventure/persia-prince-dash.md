@@ -21,4 +21,4 @@ W - 向上移动 A - 向左移动 S - 向下移动 D - 向右移动 或使用鼠
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 马里奥, 超级英雄
+- 标签: mario, 超级英雄

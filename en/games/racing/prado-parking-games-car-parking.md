@@ -19,6 +19,6 @@ Prado Parking Games provides you real dr parking and you will learn how to car p
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Car, Cars, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, Interactive, jump, Jumping, Race, Racing
+- Tags: Action, Arcade, Car, Cars, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, Interactive, jump, jumping, Race, Racing

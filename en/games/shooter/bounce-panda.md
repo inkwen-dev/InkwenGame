@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Android, Arcade, Baby, Baby Hazel, Casual, Classic, Fun, Funny, Girl, Girls, Hypercasual, jump, Jumping, Kid, Kids, Kill, Killing, Mobile, run, running, Shooter, Shooting
+- Tags: Action, Adventure, Android, Arcade, Baby, Baby Hazel, Casual, Classic, Fun, Funny, Girl, Girls, Hypercasual, jump, jumping, Kid, Kids, Kill, Killing, Mobile, run, running, Shooter, Shooting

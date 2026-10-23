@@ -21,4 +21,4 @@ Jungle Cafe is a time management game with a jungle restaurant theme. You have t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Casual, Food, Forest, Fruits, Fun, HTML5, jungle, Kids, Management, Monkey, Restaurant, Timing
+- Tags: Animal, Casual, Food, Forest, Fruits, Fun, HTML5, jungle, Kids, management, Monkey, restaurant, Timing

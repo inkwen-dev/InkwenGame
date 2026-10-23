@@ -19,6 +19,6 @@ Have you ever heard of the game of cutting fruit, this is a very new version, in
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Animal, Casual, Fish

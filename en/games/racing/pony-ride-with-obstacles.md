@@ -21,4 +21,4 @@ Do you want to ride a pony in a race with obstacles ? Well now you can make it w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Family, Games, Girls, Horse, Obstacle, Racing
+- Tags: Casual, Family, Games, Girls, horse, Obstacle, Racing

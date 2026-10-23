@@ -19,6 +19,6 @@ Welcome to DragonBall Jump Choose your Favorite Character " Vegeta or Brolly " a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Arcade, Casual, Dragon Ball Z

@@ -21,4 +21,4 @@ Follow the colors or pictures that light up in sequence and tap in the same orde
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Game, Games, Girl, Girls, HTML5, Memory, Puzzle
+- Tags: Board, Game, Games, Girl, Girls, HTML5, memory, Puzzle

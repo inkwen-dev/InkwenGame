@@ -19,6 +19,6 @@ Labo Brick Train is a game for kids that can stimulate their imagination and cre
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Car, Cars, Casual, Educational, H5, HTML5, run, running, Traffic, Train, Truck
+- Tags: Boy, Boys, Car, Cars, Casual, educational, H5, HTML5, run, running, Traffic, Train, truck

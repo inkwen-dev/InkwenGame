@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 搞笑, 跑步, 车辆
+- 标签: 单人, 搞笑, 奔跑, 车辆

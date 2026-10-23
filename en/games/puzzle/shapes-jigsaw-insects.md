@@ -21,4 +21,4 @@ It is a jigsaw shape puzzle game. Drag and drop the different shaped picture pie
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, HTML5, Jigsaw, Kids, Mobile, Puzzle
+- Tags: educational, HTML5, Jigsaw, Kids, Mobile, Puzzle

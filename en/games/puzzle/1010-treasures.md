@@ -19,6 +19,6 @@ Drag and Drop the Blocks using mouse or touch
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Collecting, HTML5, Mobile, Puzzle, Skill, Tetris
+- Tags: block, Collecting, HTML5, Mobile, Puzzle, Skill, tetris

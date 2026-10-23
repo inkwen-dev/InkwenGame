@@ -19,6 +19,6 @@ Office Guy is an epic fighting game about an office guy who wants to overthrow h
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, H5, Hot, HTML, HTML5, Hypercasual, Puzzle

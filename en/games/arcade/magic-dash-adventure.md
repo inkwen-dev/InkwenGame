@@ -21,4 +21,4 @@ Magic Dash is an endless runner game which has awesome graphics! Swipe up or Tap
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arcade, jump, Jumping
+- Tags: 2D, Adventure, Arcade, jump, jumping

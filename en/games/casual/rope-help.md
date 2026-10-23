@@ -21,4 +21,4 @@ Help all stickmen from a big fire by the rope. Control the rope, overcome the ob
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Hypercasual, Skill, Stickman
+- Tags: HTML5, Hypercasual, Skill, stickman

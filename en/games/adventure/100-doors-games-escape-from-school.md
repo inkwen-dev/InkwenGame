@@ -15,6 +15,6 @@ Navigate a transformed school maze in "100 Doors Games: Escape from School." Sol
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Memory
+- Tags: memory

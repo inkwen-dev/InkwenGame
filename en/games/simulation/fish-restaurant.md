@@ -21,4 +21,4 @@ Build your own cafe empire. There are multiple levels of bosses that you can exp
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fish, Fishing, Game, Restaurant, Strategy
+- Tags: Fish, Fishing, Game, restaurant, strategy

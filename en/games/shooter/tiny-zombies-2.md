@@ -19,6 +19,6 @@ Tiny Zombies 2 is an exciting zombie-killing game and you have to defend your ar
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Monster, Shooter, Shooting, weapons, Zombie
+- Tags: Boys, monster, Shooter, Shooting, weapons, Zombie

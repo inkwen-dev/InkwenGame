@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 冒险, PVE, 角色扮演, 生存
+- 标签: 冒险, PVE, rpg, 生存

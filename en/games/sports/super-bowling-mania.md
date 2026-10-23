@@ -87,4 +87,4 @@ A: Not applicable.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: bowling, Skill, Sports
+- Tags: bowling, Skill, sports

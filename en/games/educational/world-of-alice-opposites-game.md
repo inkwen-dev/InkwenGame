@@ -19,6 +19,6 @@ World of Alice - Opposites World of Alice - Opposites is an educational game dev
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kids, Puzzle, School
+- Tags: educational, Kids, Puzzle, School

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 最佳, 点击器, 热门, HTML5, 超休闲, 怪物, 植物, 策略, 僵尸
+- 标签: 最佳, 点击器, 热门, HTML5, 超休闲, monster, 植物, 策略, 僵尸

@@ -19,6 +19,6 @@ Roll Ball: Hole Puzzle is a fun 3D ball rolling game! Guide your ball across flo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Ball, Casual, Holiday, Kids, Levels, Maze, Obstacle, onetouch, Physics, Platform, Puzzle, Skill

@@ -21,4 +21,4 @@ Stickman Fighting 2 Player! A fun, addictive and Multiplayer warriors with reali
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, Action, Boxing, Boys, Fight, Fighting, HTML5, Physics, WebGL
+- Tags: 1 Player, 2 Player, Action, Boxing, Boys, Fight, fighting, HTML5, Physics, WebGL

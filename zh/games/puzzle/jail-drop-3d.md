@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 方块, 休闲, 免费HTML5游戏供您的网站使用, 儿童, 地图游戏, 物理
+- 标签: 方块, 休闲, 免费HTML5游戏供您的网站使用, 儿童, mapi games, 物理

@@ -19,6 +19,6 @@ Get ready for a challenging and yet fun game against your friend or artificial i
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, Arcade, Fight, Fighting, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Play, Street Fighting
+- Tags: 1 Player, 2 Player, Arcade, Fight, fighting, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Play, Street Fighting

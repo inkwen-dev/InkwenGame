@@ -19,6 +19,6 @@ Memory Frames tests your brain memory. The Elements, Water, Earth, Wind, Fire, c
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Family, HTML, HTML5, Kid, Kids, Math, Memory, Puzzle
+- Tags: 1 Player, Family, HTML, HTML5, Kid, Kids, math, memory, Puzzle

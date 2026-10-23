@@ -19,6 +19,6 @@ Become the Real Savior: Defend the City in This Action-Packed Shooter! The city 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Hypercasual, Physics
+- Tags: Action, battle, Hypercasual, Physics

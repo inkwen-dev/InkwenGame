@@ -21,4 +21,4 @@ CREATED ESPECIALLY FOR KIDS Feed the Monster uses an exciting and proven play-to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Cartoon, Unity3D, WebGL, Word
+- Tags: .io Games, Cartoon, Unity3D, WebGL, word

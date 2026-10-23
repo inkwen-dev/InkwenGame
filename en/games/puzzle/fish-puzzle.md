@@ -21,4 +21,4 @@ Fish Puzzlegame has a lot of success review and player this MONTH that significa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Bubble Shooter, Car, Cars, Cartoon, Interactive, Interactive Fiction, Road, Shoot, Shoot 'Em Up, Shooter, Shooting, Sport, Sports
+- Tags: Action, Bubble Shooter, Car, Cars, Cartoon, Interactive, Interactive Fiction, Road, Shoot, Shoot 'Em Up, Shooter, Shooting, Sport, sports

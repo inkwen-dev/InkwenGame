@@ -19,6 +19,6 @@ Santa Claus Xmas Run is a fun and free online game for kids! Help Santa collect 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Christmas, Collecting, html5 games, jump, Platform, Santa, Santa Claus, Skill

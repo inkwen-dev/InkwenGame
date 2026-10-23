@@ -19,6 +19,6 @@ Test your memory with this memory game. First select the difficulty level. The h
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Card, Match 3, Matching, Puzzle
+- Tags: Brain, card, Match 3, Matching, Puzzle

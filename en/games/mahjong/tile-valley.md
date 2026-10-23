@@ -32,4 +32,4 @@ Give it a try and immerse yourself in the world of Tile Valley!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, cozy, Mahjong, mini, Puzzle
+- Tags: Brain, cozy, mahjong, mini, Puzzle

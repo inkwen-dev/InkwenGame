@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 汽车, 儿童, 移动, WebGL
+- 标签: 2D, 汽车, 儿童, 移动设备, WebGL

@@ -21,4 +21,4 @@ The Lovable BFF Mia and Bella are going to set the trends for summer outfits. Le
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Barbie, Boys, Dress Up, Fashion, Girls, Kids, Mario
+- Tags: Barbie, Boys, Dress Up, Fashion, Girls, Kids, mario

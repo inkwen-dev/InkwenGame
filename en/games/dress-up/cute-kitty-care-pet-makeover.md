@@ -21,4 +21,4 @@ Do you like kittens? Do you want to know how to take care of kittens? Come and t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Baby, Cat, Doctor, Educational, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: 2D, Animal, Baby, Cat, Doctor, educational, Girl, Girls, H5, HTML5, Kid, Kids

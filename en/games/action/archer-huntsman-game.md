@@ -21,4 +21,4 @@ Archer Huntsman is a fun confrontation arcade game. You can either choose the pa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Avoid, Fighting, Kid, Killing, Skill
+- Tags: 3D, Arcade, Avoid, fighting, Kid, Killing, Skill

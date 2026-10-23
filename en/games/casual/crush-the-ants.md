@@ -15,6 +15,6 @@ In Crush the Ants, unleash your reflexes by tapping or clicking swarms of ants b
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Animal

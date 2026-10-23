@@ -19,6 +19,6 @@ Play store is full of parking and car parking games but none quite as realistic 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Arcade, Car, Cars, Hot, Hypercasual, Parking, Race, Racing, Supercars
+- Tags: 3D, 3D Games, Action, Adventure, Arcade, Car, Cars, Hot, Hypercasual, parking, Race, Racing, Supercars

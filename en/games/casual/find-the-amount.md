@@ -17,4 +17,4 @@ Embark on a serene quest in Find the Amount, where leisure meets arithmetic intr
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Math
+- Tags: math

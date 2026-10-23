@@ -21,4 +21,4 @@ The goal is to resist the more you can and after you can sign your personal reco
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, endless, Gun, Knight, Machine, Monster, Shooter, weapons, Zombie
+- Tags: Boy, Boys, endless, Gun, knight, Machine, monster, Shooter, weapons, Zombie

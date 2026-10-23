@@ -19,6 +19,6 @@ This is a recreational shooting game. The player will play a cowboy and gallop t
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Casual, Collecting, Collection, Fun, Funny, Game, Games, Girl, Girls, Google, H5, Horse, HTML5, Hypercasual, jump, Jumping, Kid, Kids, Knight, Mobile, run, Shoot, Shoot 'Em Up, Shooter, Shooting, Skill, Skills, Sport
+- Tags: 3D Games, Action, Casual, Collecting, Collection, Fun, Funny, Game, Games, Girl, Girls, Google, H5, horse, HTML5, Hypercasual, jump, jumping, Kid, Kids, knight, Mobile, run, Shoot, Shoot 'Em Up, Shooter, Shooting, Skill, Skills, Sport

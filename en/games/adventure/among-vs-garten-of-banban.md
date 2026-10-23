@@ -21,4 +21,4 @@ Among Us vs Garten Of Banban plays the role of an antagonist who will always sca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Best Games, Casual, Crazy, HTML5, Hypercasual, Unity3D
+- Tags: 1 Player, 2D, Action, Adventure, Best Games, Casual, crazy, HTML5, Hypercasual, Unity3D

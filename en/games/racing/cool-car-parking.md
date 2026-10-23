@@ -21,4 +21,4 @@ Do you want to be a car parking master? This game is for you. You can practice p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Boys, Car, Cars, Classic, Fun, Game, HTML5, Parking
+- Tags: Action, Boys, Car, Cars, Classic, Fun, Game, HTML5, parking

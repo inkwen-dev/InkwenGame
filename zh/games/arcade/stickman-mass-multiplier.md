@@ -21,4 +21,4 @@ Stickman Mass Multiplier 邀请您带领大量木偶人军队进入史诗般的�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 街机, HTML5, iPad, iPhone, Mobile, Stickman, Unity3D, WebGL
+- 标签: 安卓, 街机, HTML5, iPad, iPhone, 移动设备, 木偶人, Unity3D, WebGL

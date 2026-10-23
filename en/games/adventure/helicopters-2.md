@@ -19,6 +19,6 @@ Helicopters – this is a great adventure game with very beautiful graphics. The
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, fly, Game, Helicopter, Hypercasual, Mobile, Physics
+- Tags: 2D, Android, fly, Game, helicopter, Hypercasual, Mobile, Physics

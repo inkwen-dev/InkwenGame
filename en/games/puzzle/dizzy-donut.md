@@ -21,4 +21,4 @@ It’s Dizzy Donut the hottest game on the charts at the moment! Tap To Match Th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boy, Brain, Cake, Cute, Family, Girl, Girls, HTML, HTML5, Matching, Memory, Puzzle
+- Tags: 2D, Boy, Brain, Cake, Cute, Family, Girl, Girls, HTML, HTML5, Matching, memory, Puzzle

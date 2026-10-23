@@ -19,6 +19,6 @@ Manage your airline and expand to every corner of the world! - 50+ cities across
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Air, Business, Management, Simulation, Simulator
+- Tags: Air, Business, management, Simulation, Simulator

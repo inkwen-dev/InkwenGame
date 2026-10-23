@@ -19,6 +19,6 @@ Bounce & Roll! is pretty simple. You need to lead your cute character, bounce an
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Ball, Ballon, Boys, Fun, Funny, Girl, Girls, jump, Jumping, Kids
+- Tags: 1 Player, Animal, Ball, Ballon, Boys, Fun, Funny, Girl, Girls, jump, jumping, Kids

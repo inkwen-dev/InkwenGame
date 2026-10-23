@@ -19,6 +19,6 @@ Find your way to escape from the Tsunami. Each level is a challenge. Are you rea
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Boy, Boys, Cool, HTML5, run, running, Skill, WebGL
+- Tags: 3D, Arcade, Boy, Boys, cool, HTML5, run, running, Skill, WebGL

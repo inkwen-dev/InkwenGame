@@ -21,4 +21,4 @@ Steve and Alex, the stick figure characters, want to escape from the Nether worl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Minecraft, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Minecraft, pixel

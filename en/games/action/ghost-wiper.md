@@ -19,6 +19,6 @@ Two brothers who have opened an office to examine and search mysterious events, 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Action, Adventure, Fun, Funny, Ghost, Maze, Platform, Puzzle

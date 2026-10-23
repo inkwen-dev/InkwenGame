@@ -19,6 +19,6 @@ The jumping bunny is hungry. It needs to jump across the platforms to reach the 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bounce, HTML5, Jumping, Kids, Platform, Puzzle
+- Tags: Bounce, HTML5, jumping, Kids, Platform, Puzzle

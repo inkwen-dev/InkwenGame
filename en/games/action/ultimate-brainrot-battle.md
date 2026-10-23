@@ -33,4 +33,4 @@ Fight. Upgrade. Repeat. Become the strongest brainrot ever!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 1v1, Fighting
+- Tags: 1v1, fighting

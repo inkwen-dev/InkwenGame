@@ -19,6 +19,6 @@ Embark on an exciting journey to the pinnacle of cricket glory in the Cricket Wo
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, amazing, Arcade, free games for your website, free html5 games for your website, HTML, html games for your website, HTML5, html5 games, html5 games for your site, NapTech Games, Online, Sport, Sports
+- Tags: 1 Player, amazing, Arcade, free games for your website, free html5 games for your website, HTML, html games for your website, HTML5, html5 games, html5 games for your site, NapTech Games, Online, Sport, sports

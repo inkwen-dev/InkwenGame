@@ -21,4 +21,4 @@ Here is a rocket-transport simulation game with 3D military vehicles. Before dri
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, Driving, HTML5, Matching, Mobile, Simulation, Truck, War
+- Tags: 3D, Car, Driving, HTML5, Matching, Mobile, Simulation, truck, War

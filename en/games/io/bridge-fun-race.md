@@ -19,6 +19,6 @@ Bridge Fun Race is an IO battle arcade game like Mr Bean series. With 3D cute ro
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Battle
+- Tags: .io Games, battle

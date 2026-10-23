@@ -15,6 +15,6 @@ Step into the cinematic spotlight with Cinema Empire Idle Tycoon! Transform a sm
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Simulation

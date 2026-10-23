@@ -21,4 +21,4 @@ All ages can enjoy playing the straightforward educational word-building game Am
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Brain, Educational, Fruits, Kids, Puzzle, Timing, Word
+- Tags: 1 Player, Brain, educational, Fruits, Kids, Puzzle, Timing, word

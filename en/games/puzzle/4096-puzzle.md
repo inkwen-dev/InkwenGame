@@ -21,4 +21,4 @@ Join the numbers and get to the 4096 tile! Swipe to move all tiles. When two til
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Matching, Math, Number, Puzzle
+- Tags: Matching, math, Number, Puzzle

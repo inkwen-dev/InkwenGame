@@ -19,6 +19,6 @@ Play the new and exciting puzzle game and blast the cubes to rescue the little c
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bejeweled, Block, Candy, Casual, Hypercasual, Jewel, Match 3, Matching, Puzzle
+- Tags: Bejeweled, block, Candy, Casual, Hypercasual, Jewel, Match 3, Matching, Puzzle

@@ -19,6 +19,6 @@ A 3D MMA FIGHTING GAME CURRENTLY BEING DEVELOPED AND COMING SOON TO ANDROID AND 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Android, Boxing, Fight, Fighting, HTML5, Mobile, Sport, Sports, Street Fighting, WebGL
+- Tags: 3D, Action, Android, Boxing, Fight, fighting, HTML5, Mobile, Sport, sports, Street Fighting, WebGL

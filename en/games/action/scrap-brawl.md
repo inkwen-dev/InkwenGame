@@ -21,4 +21,4 @@ Scrap Brawl is a fun 2d papercraft fighting game with many fun twists and poweru
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2026 games, 2D, Action, Flight
+- Tags: 2 Player, 2 Player Games, 2026 games, 2D, Action, flight

@@ -19,6 +19,6 @@ Pregnant Mommy Care is a very fun caring game. Lisa is very tired recently. Prob
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cook, Cooking, Cute, Decorate, Decoration, Family, Fruit, Fun, Girls, HTML5, Kids, Makeover, Mobile

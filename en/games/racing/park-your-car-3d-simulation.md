@@ -21,4 +21,4 @@ BMW Car parking is back in the sequel to the biggest mobile parking simulation g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Best, Boy, Boys, Car, Cars, Collection, Creation, Decoration, drift, drifting, Driving, Educational, Parking, Supercars, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Best, Boy, Boys, Car, Cars, Collection, Creation, Decoration, drift, drifting, Driving, educational, parking, Supercars, Unity3D

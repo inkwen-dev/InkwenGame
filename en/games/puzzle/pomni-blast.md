@@ -19,6 +19,6 @@ Hey Pomni needs Your help to escape from this Digital Circus world! The main goa
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: digital circus, HTML, html games for your website, HTML5, html5 games, html5 games for your site, Pomni, Puzzle

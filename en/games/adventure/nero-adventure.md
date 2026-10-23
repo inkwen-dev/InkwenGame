@@ -19,6 +19,6 @@ Incredible hero adventures it's a running adventurer game. the perfect to pass y
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, 8 Ball Pool

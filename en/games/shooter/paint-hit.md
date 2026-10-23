@@ -21,4 +21,4 @@ Paint Hit in html version Enjoy painting and color balls shooting simulation Spl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Color, Coloring, Draw, Drawing, Shoot, Shooter, Shooting, Skills
+- Tags: Ball, Color, Coloring, Draw, drawing, Shoot, Shooter, Shooting, Skills

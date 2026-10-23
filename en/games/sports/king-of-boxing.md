@@ -21,4 +21,4 @@ Punchers is a 3D boxing game with ragdoll physics. Use move keys to dodge from e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, Boxing, Fighting, Simulation, Sport, Sports
+- Tags: 2 Player, 2 Player Games, 3D, Boxing, fighting, Simulation, Sport, sports

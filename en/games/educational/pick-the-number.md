@@ -19,6 +19,6 @@ Pick The Number is an educational and addictive puzzle game designed to boost yo
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Educational, HTML5, html5 games, Kid, Kids, NapTech Games
+- Tags: Brain, educational, HTML5, html5 games, Kid, Kids, NapTech Games

@@ -21,4 +21,4 @@ f your kids love all things monster trucks, Then they will love this game! Monst
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, drifting, Driving, Monster, Racing, Truck
+- Tags: Car, drifting, Driving, monster, Racing, truck

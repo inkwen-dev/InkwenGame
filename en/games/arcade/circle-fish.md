@@ -19,6 +19,6 @@ Circle Fish is an online tap tap jump fish game that is free to play. The object
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Crazy, endless, Fish, Fun, Funny, Game, Games, HTML5, Hypercasual
+- Tags: Arcade, crazy, endless, Fish, Fun, Funny, Game, Games, HTML5, Hypercasual

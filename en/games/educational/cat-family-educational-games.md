@@ -21,4 +21,4 @@ Cat Family Educational Games is specially designed for preschoolers. The happy a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Educational, Family, Fun, Girls, HTML5, Kid, Mobile, Puzzle
+- Tags: Animal, educational, Family, Fun, Girls, HTML5, Kid, Mobile, Puzzle

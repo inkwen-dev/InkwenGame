@@ -21,4 +21,4 @@ Indulge in a doubly soothing experience with a mesmerizing combination of gaming
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fashion, Fun, Girls, Hair, HTML, Kids, Makeover, Mobile, Relaxation, Surgery
+- Tags: Fashion, Fun, Girls, Hair, HTML, Kids, Makeover, Mobile, Relaxation, surgery

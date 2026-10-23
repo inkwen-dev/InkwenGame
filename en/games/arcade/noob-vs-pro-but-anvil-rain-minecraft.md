@@ -19,6 +19,6 @@ Noob and Pro decided to sit down and relax, but a sudden anvil rain ruined their
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2025 games, Brain, Brainrot, destroy, Fight, Fun, Funny, Hot, Jumping, Mine, mineblock, Minecraft
+- Tags: 2 Player, 2 Player Games, 2025 games, Brain, Brainrot, destroy, Fight, Fun, Funny, Hot, jumping, Mine, mineblock, Minecraft

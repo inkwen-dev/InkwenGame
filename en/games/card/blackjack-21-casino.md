@@ -19,6 +19,6 @@ BlackJack 21 Casino offers an exhilarating gaming experience, combining the thri
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Card, Mobile
+- Tags: Android, card, Mobile

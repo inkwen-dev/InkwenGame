@@ -21,4 +21,4 @@ This is a type of Spot the Difference puzzle in which players must find 5 differ
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Clicker, Difference, Drawing, Fun, Hidden, HTML5, Mobile, Puzzle
+- Tags: Click, Clicker, Difference, drawing, Fun, Hidden, HTML5, Mobile, Puzzle

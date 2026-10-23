@@ -19,6 +19,6 @@ Cube Endless Jumping is fun platform jumping game suitable for all ages. Jump as
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Adventure, Arcade, Fun, HTML5, jump, Jumping, Kids, Platform
+- Tags: Adult, Adventure, Arcade, Fun, HTML5, jump, jumping, Kids, Platform

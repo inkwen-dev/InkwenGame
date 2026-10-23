@@ -21,4 +21,4 @@ Save the hostage! Use the Helicopter's maximum Firepower to Destroy the enemies 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Anime, Arcade, Best, Boys, Cartoon, Cartoon Network, Casual, Escape, Games, Girl, Girls, Helicopter, Hot, Hypercasual, Sport, Sports
+- Tags: 3D, Action, Adventure, Anime, Arcade, Best, Boys, Cartoon, Cartoon Network, Casual, Escape, Games, Girl, Girls, helicopter, Hot, Hypercasual, Sport, sports

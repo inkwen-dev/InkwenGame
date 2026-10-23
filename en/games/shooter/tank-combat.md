@@ -19,6 +19,6 @@ In this top-down arcade-style game, take out the enemy tank as you battle it out
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Shooting, Tank, Tanks
+- Tags: Action, Arcade, Shooting, Tank, tanks

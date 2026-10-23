@@ -21,4 +21,4 @@ MathPup loves golf and algebra. This educational golf game combines both of thos
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Educational, Golf, Math
+- Tags: 1 Player, educational, golf, math

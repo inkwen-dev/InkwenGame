@@ -19,6 +19,6 @@ Ultimate Disk - Frisbee Throwing Disc is fun flying disc game. All you have to d
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Adventure, Arcade, Casual, Sport, Sports
+- Tags: 3D Games, Action, Adventure, Arcade, Casual, Sport, sports

@@ -19,6 +19,6 @@ A basic racing game wherein you drive a buggy on a seaside track and must travel
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Driving, HTML, HTML5, Mobile, Racing

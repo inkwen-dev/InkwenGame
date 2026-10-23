@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 冒险, 动物, 街机, 猫, HTML, HTML5, 手机, 体育
+- 标签: .io 游戏, 冒险, 动物, 街机, 猫, HTML, HTML5, 移动设备, 运动

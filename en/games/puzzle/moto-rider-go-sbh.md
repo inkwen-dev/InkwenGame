@@ -19,6 +19,6 @@ Head out and race as fast as you can to become the new moto rider in the world! 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Adult, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Fun, Funny, Game, Games, Moto, Motorcycle, Parking, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Adult, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Fun, Funny, Game, Games, Moto, Motorcycle, parking, truck

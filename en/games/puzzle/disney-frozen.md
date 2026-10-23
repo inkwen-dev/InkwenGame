@@ -19,6 +19,6 @@ Get ready for an epic puzzle matching adventure in the Kingdom of Arendelle, ins
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, Frozen, Girl, Girls, H5, Hot, HTML, HTML5, Hypercasual, Match 3, Match3, Puzzle

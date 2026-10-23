@@ -21,4 +21,4 @@ Rexo is a 2D Platformer where you play as a Cube and your aim is to collect all 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Cartoon, Collecting, Funny, HTML5, Mobile, Pixel, Platform
+- Tags: 2D, Adventure, Cartoon, Collecting, Funny, HTML5, Mobile, pixel, Platform

@@ -19,6 +19,6 @@ Are you a fan of maze games? You want to challenge yourself to get out of the ma
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Best, Best Games, Maze, Skibidi, Skibidi Toilet
+- Tags: 1 Player, 2D, Best, Best Games, Maze, Skibidi, skibidi-toilet

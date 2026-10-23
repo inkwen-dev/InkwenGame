@@ -21,4 +21,4 @@ Beauty Coloring is a captivating mobile game that allows players to unleash thei
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Drawing, HTML5, iPad, iPhone, Mobile, Unity3D, WebGL
+- Tags: Adventure, Arcade, drawing, HTML5, iPad, iPhone, Mobile, Unity3D, WebGL

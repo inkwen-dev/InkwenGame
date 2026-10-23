@@ -21,4 +21,4 @@ Get a new experience in 3d blocks building! Build with Cubes 2 is a voxel minecr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Block, Bricks, Creation, Minecraft, Physics, Sandbox, WebGL, World
+- Tags: 3D Games, block, Bricks, Creation, Minecraft, Physics, Sandbox, WebGL, World

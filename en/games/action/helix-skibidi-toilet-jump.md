@@ -21,4 +21,4 @@ Helix Skibidi Toilet Jump is a whimsical and unique mobile game that blends the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Helix, HTML5, iPad, iPhone, jump, Mobile, Skibidi, Skibidi Toilet
+- Tags: Android, Helix, HTML5, iPad, iPhone, jump, Mobile, Skibidi, skibidi-toilet

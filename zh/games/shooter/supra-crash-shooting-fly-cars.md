@@ -21,4 +21,4 @@ wasd 和方向键 - 驾驶 r - 飞行 空格键 - 手刹 b - 向后看 f - 氮�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车们, 飞行, 多人游戏, 射击, 超级跑车, Unity3D, WebGL
+- 标签: 汽车, 飞, 多人, 射击, 超跑, Unity3D, WebGL

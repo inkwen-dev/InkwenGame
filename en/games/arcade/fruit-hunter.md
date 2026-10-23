@@ -19,6 +19,6 @@ fruit hunter is an html5 arcade game for websites, mobile, mac and ect. You will
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, HTML5, Pixel, run
+- Tags: 2D, Arcade, HTML5, pixel, run

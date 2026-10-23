@@ -21,4 +21,4 @@ So let's get down to shots on goal. In principle, everyone is ready, the goalkee
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Ball, Ballon, Football, Game, Games, H5, HTML, HTML5, Matching, Shoot, Shooting, Sport, Sports
+- Tags: 1 Player, Ball, Ballon, Football, Game, Games, H5, HTML, HTML5, Matching, Shoot, Shooting, Sport, sports

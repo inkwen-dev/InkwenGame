@@ -19,6 +19,6 @@ Animal Cargo Transporter Truck Games 3D Game Grip Studios is proud to present yo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Animal, Driving, HTML, HTML5, Simulation, Simulator, Truck
+- Tags: 3D Games, Animal, Driving, HTML, HTML5, Simulation, Simulator, truck

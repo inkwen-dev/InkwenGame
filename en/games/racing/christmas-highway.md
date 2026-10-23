@@ -19,6 +19,6 @@ The Christmas Highway Online Santa Clause game is a great way to get into the ho
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, endless, Game, Games, HTML5, Online, Race, Racing

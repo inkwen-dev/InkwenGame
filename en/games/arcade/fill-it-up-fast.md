@@ -21,4 +21,4 @@ Fill the empty area with appropriate shapes. Press ENTER to shoot the active sha
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Casual, HTML5, Matching, Puzzle, Strategy, Timing
+- Tags: Arcade, block, Casual, HTML5, Matching, Puzzle, strategy, Timing

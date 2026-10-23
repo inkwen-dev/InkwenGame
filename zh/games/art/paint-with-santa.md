@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 圣诞, 颜色, 涂色, 绘画, 繪畫, 教育, mapi games, 圣诞老人
+- 标签: 圣诞节, 颜色, 着色, 绘画, 绘画, 教育, mapi games, 圣诞老人

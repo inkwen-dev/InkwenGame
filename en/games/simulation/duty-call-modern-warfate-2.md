@@ -21,4 +21,4 @@ Your country is in trouble as you have been heavily influenced by militaries, yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Battle, Boys, Fire, Killing, Shoot, Shooter, Simulator, Sniper, War
+- Tags: Army, battle, Boys, Fire, Killing, Shoot, Shooter, Simulator, sniper, War

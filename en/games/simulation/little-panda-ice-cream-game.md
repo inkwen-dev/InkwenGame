@@ -19,6 +19,6 @@ Little Panda Ice Cream Game is a cute cooking game at yiv.com. Come and make del
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cook, Cooking, Educational, Food, Fruit, Fun, HTML5, Ice, Mobile, Panda, Summer
+- Tags: Animal, Cook, Cooking, educational, Food, Fruit, Fun, HTML5, Ice, Mobile, Panda, Summer

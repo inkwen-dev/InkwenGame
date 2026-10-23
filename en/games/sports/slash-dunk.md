@@ -21,4 +21,4 @@ Splash Dunk is a captivating basketball puzzle game where players must strategic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, cut, Fun, Games, HTML5, Kid, Kids, Sport, Sports
+- Tags: basketball, cut, Fun, Games, HTML5, Kid, Kids, Sport, sports

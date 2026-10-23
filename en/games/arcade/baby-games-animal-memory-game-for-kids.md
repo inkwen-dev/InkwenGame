@@ -21,4 +21,4 @@ Baby Games Animal Memory Game for Kids &ndash; a delightful and educational mobi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Baby Games, Kids, Memory, Puzzle
+- Tags: Arcade, Baby Games, Kids, memory, Puzzle

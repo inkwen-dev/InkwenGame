@@ -19,6 +19,6 @@ Bubble Pop Fairyland is an exciting bubble shooter game that&rsquo;s very highly
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Ballon, Bricks, Bubble, Bubble Shooter, dino, Dinosaur, egg, free games for your site, free html5 games for your website, Shooter

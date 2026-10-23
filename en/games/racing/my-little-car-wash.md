@@ -19,6 +19,6 @@ Wash and shine with Car Washing Game, a 2D cartoon game that lets you clean diff
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boys, Car, Casual, Educational, Girls, Kids, Skill
+- Tags: 2D, Boys, Car, Casual, educational, Girls, Kids, Skill

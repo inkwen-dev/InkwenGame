@@ -19,6 +19,6 @@ Blocky Fish is a fun and addicting online game that you can play for free! The o
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Fish, Game, Games, Hypercasual, Online, Platform

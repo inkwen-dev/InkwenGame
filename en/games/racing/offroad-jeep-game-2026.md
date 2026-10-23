@@ -21,4 +21,4 @@ Get ready for an extreme Offroad Jeep Game 2026 adventure! Drive powerful 4x4 je
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, amazing, Best Games, Car, Driving, jeep, Parking
+- Tags: 2026 games, Adventure, amazing, Best Games, Car, Driving, jeep, parking

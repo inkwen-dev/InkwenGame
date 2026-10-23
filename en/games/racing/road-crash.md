@@ -19,6 +19,6 @@ Crash all the cars on the road while driving to the finish line! Bump them off t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Best, Casual, Fun, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Race, Racing

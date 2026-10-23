@@ -19,6 +19,6 @@ This game consists 4 different game. Those are Coloring Game,Jigsaw Puzzle Game,
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Anime, Cartoon Network, Coloring, Draw, Drawing, Puzzle
+- Tags: 1 Player, 2D, Action, Adventure, Anime, Cartoon Network, Coloring, Draw, drawing, Puzzle

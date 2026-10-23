@@ -21,4 +21,4 @@ Help the cat jump higher on moving platforms! Platforms slide in from different 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Cat, Jumping
+- Tags: Arcade, Cat, jumping

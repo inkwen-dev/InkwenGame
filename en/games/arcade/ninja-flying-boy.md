@@ -21,4 +21,4 @@ Ninja flying Boy Adventure is a very fun and action side scrolling game! Help th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Air, Arcade, Boys, Collection, fly, Ninja, Skills
+- Tags: 1 Player, 2D, Air, Arcade, Boys, Collection, fly, ninja, Skills

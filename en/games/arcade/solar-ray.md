@@ -19,6 +19,6 @@ You are a planet that has to absorb solar rays to don't turn off and avoid meteo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Hypercasual, Mobile, Planet, Space

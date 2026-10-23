@@ -21,4 +21,4 @@ This game will offer you to collect your own squad of zombie hunters and clear t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Battle, Battlegrounds, Gun, H5, HTML, HTML5, Hypercasual, Kill, Killing, Shoot, Shooting, War
+- Tags: Action, Adventure, Arcade, battle, Battlegrounds, Gun, H5, HTML, HTML5, Hypercasual, Kill, Killing, Shoot, Shooting, War

@@ -19,6 +19,6 @@ Tap or click any card to reveal its icon. Memorize it and try to find its pair i
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, HTML5, Matching, Memory, Mobile, Puzzle
+- Tags: Arcade, HTML5, Matching, memory, Mobile, Puzzle

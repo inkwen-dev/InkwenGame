@@ -21,4 +21,4 @@ NARUTO vs BLEACH is a side-scrolling ACT anime fighting mobile game with smooth 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Battle, Boxing, Hypercasual
+- Tags: Adventure, battle, Boxing, Hypercasual

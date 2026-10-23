@@ -21,4 +21,4 @@ WASD - 移动 左键 - 射击 右键 - 手雷 空格键 - 跳跃 Shift键 - 时�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 男孩, 汽车, 驾驶, HTML5, 射击游戏, 战争, WebGL
+- 标签: 3D, 男孩们, 汽车, 驾驶, HTML5, 射击类, 战争, WebGL

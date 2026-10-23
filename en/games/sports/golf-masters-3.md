@@ -21,4 +21,4 @@ Pass Levels Using Golf Ball!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2D, 8 Ball Pool, Ball, Golf, Sport, Sports
+- Tags: .io, .io Games, 1 Player, 2D, 8 Ball Pool, Ball, golf, Sport, sports

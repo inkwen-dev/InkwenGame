@@ -21,4 +21,4 @@ How good and fast is your mathematics skills?
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Kid, Kids, Math
+- Tags: Arcade, Kid, Kids, math

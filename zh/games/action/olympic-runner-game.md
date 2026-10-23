@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 人游戏, 2026 年游戏, 动作, 街机, crazygamesunblocked, 无尽, 跑, 跑步, 无屏蔽, unblockedgames66, unblockedgames76
+- 标签: 单人, 2026 游戏, 动作, 街机, crazygamesunblocked, 无尽, 跑, 奔跑, 无限制, unblockedgames66, unblockedgames76

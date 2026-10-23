@@ -19,6 +19,6 @@ Drive and operate realistic 3D construction vehicles in Excavator Simulator 3D, 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Car, Driving, Kids, Simulator

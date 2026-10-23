@@ -19,6 +19,6 @@ Run with your skate and avoid swords who want to kill you. Tap on the screen to 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Platform, Puzzle, Skateboard
+- Tags: Platform, Puzzle, skateboard

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人模式, Android, HTML5, iPad, iPhone, 孩子们, Mentolatux, 移动设备, 益智, 忍者, 窃贼
+- 标签: 单人, 安卓, HTML5, iPad, iPhone, 儿童, Mentolatux, 移动设备, 益智, 木偶人, 小偷

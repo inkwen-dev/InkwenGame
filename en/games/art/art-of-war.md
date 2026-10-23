@@ -21,4 +21,4 @@ A funny game with huge amount of spectacular battles. You will be the commander 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Strategy
+- Tags: Action, strategy

@@ -19,6 +19,6 @@ The game Mouse is an innovative and popular puzzle game. This is a game in which
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Avoid, Boy, Brain, Drawing, Fun, HTML, HTML5, Kid, Mobile, Puzzle
+- Tags: Animal, Avoid, Boy, Brain, drawing, Fun, HTML, HTML5, Kid, Mobile, Puzzle

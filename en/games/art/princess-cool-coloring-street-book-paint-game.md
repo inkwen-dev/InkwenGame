@@ -19,6 +19,6 @@ Well designed collections♈️: A set of pictures can only be found in Fun Colo
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Crafting, Draw, Drawing
+- Tags: Color, Coloring, Crafting, Draw, drawing

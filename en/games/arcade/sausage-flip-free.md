@@ -19,6 +19,6 @@ In Sausage Flip Free, youre not just any sausage. You&rsquo;re a daring, bouncy 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Cute, Funny, jump

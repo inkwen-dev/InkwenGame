@@ -21,4 +21,4 @@ It&rsquo;s time to have the finest experience of Golf Games. There is lot of fun
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Golf, Sports
+- Tags: golf, sports

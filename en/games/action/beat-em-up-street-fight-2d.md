@@ -19,6 +19,6 @@ Beat Em Up Street fight 2D is and awesome fight where you will face with bad ene
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Street Fighting

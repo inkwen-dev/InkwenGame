@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Android, Arcade, Casual, Classic, Fun, Funny, Halloween, Hypercasual, jump, Jumping, Kid, Kids, Kill, Killing, Mobile, Puzzle, run, running, Shark, Skill, Skills
+- Tags: Action, Android, Arcade, Casual, Classic, Fun, Funny, Halloween, Hypercasual, jump, jumping, Kid, Kids, Kill, Killing, Mobile, Puzzle, run, running, Shark, Skill, Skills

@@ -19,6 +19,6 @@ A minimalist golf challenge drawn in a hand-made paper style. Flick the tiny pap
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Golf, HTML5, Hypercasual, Mobile, Puzzle, Sports
+- Tags: 1 Player, Arcade, golf, HTML5, Hypercasual, Mobile, Puzzle, sports

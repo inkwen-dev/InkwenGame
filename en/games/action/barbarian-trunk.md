@@ -21,4 +21,4 @@ Barbarian Trunk is an oldschool arcade style casual game. Become a Barbarian, cu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Android, Boy, Boys, Fight, Fighting, Hot, Kid, Kids, New
+- Tags: Action, Adventure, Android, Boy, Boys, Fight, fighting, Hot, Kid, Kids, New

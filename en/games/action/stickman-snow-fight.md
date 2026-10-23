@@ -19,6 +19,6 @@ Welcome to Stickman-Snow Fight Move Up and Down to Dodge enemies snow balls. Col
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Fight, Fighting, Highscore, Snow, Stickman
+- Tags: Action, Adventure, Fight, fighting, Highscore, Snow, stickman

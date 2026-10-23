@@ -19,6 +19,6 @@ Both girls love beauty, recently they find their weight is growing, so they deci
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cooking, Dress Up, Educational, Fashion, Girl, Girls, Kids, Simulation
+- Tags: Cooking, Dress Up, educational, Fashion, Girl, Girls, Kids, Simulation

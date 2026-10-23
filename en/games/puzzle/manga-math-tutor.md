@@ -21,4 +21,4 @@ Manga Math Tutor is a puzzle game that challenges you to do some math calculatio
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Hypercasual, Logical, Math, Puzzle
+- Tags: Brain, Casual, Hypercasual, Logical, math, Puzzle

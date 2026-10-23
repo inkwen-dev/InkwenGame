@@ -15,6 +15,6 @@ Guide HatGuy through a perilous forest in this fast-paced auto runner. Jump to d
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: runner

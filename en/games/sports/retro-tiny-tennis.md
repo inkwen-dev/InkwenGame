@@ -21,4 +21,4 @@ In this great arcade sports game may be simple to play but it’s a challenge to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Sport, Sports, Tennis
+- Tags: Arcade, Ball, Sport, sports, Tennis

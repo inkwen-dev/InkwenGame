@@ -21,4 +21,4 @@ How about fishing in the depths of the Pacific ocean? You must fight against sha
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Bubble, Fish, Fishing, Pixel, survival
+- Tags: 1 Player, 2D, Action, Adventure, Bubble, Fish, Fishing, pixel, survival

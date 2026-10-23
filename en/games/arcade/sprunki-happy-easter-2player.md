@@ -21,4 +21,4 @@ The Sprunki brothers are competing against each other this Easter. The player wh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Arcade, Easter, Pixel, Sprunki
+- Tags: 2 Player, 2 Player Games, 2D, Arcade, Easter, pixel, Sprunki

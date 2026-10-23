@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, Adventure, 城市, 越野, 道路, 出租车, TukTuk
+- 标签: 动作, 冒险, 城市, 越野, 道路, 出租车, 突突

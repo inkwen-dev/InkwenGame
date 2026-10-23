@@ -21,4 +21,4 @@ Welcome to Blocks Drop. This is a new high score puzzle game. Tap to Drop block 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Casual, Highscore, Puzzle
+- Tags: Arcade, block, Casual, Highscore, Puzzle

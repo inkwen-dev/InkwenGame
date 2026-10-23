@@ -15,6 +15,6 @@ Dive into the thrilling 2D platformer adventure of Hoona, where you'll conquer 8
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

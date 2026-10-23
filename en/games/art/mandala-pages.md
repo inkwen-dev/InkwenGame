@@ -19,6 +19,6 @@ Mandala Coloring Book has a large collection of beautiful mandala coloring pages
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Color, Coloring, Educational, Kids, School
+- Tags: Boy, Color, Coloring, educational, Kids, School

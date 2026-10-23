@@ -21,4 +21,4 @@ In this action-packed platform game, there are cross groups of enemies with hack
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Collecting, Dungeon, Knight, Mobile, weapons
+- Tags: Avoid, Collecting, Dungeon, knight, Mobile, weapons

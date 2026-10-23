@@ -21,4 +21,4 @@ Bike Racing 3D is easy to pick up but hard to master which will keep you in the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Adventure, Alien, Arcade, Arena, Bike, Bridge, endless, Race, Racing, Stunts
+- Tags: 3D Games, Adventure, Alien, Arcade, Arena, bike, Bridge, endless, Race, Racing, Stunts

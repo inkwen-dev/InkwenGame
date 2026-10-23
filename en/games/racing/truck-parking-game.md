@@ -19,6 +19,6 @@ Game Play: Use arrows for moving truck: To Front: Press Up Arrow to move forward
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Truck, trucks
+- Tags: 3D, Action, truck, trucks

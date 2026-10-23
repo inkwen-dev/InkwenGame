@@ -21,4 +21,4 @@ The power is in your finger! Tap the screen to hit the monsters and click the sp
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dragon, Fun, Funny, Kill, Killing, Monster, Skill, Skills
+- Tags: Dragon, Fun, Funny, Kill, Killing, monster, Skill, Skills

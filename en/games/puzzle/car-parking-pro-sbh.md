@@ -19,6 +19,6 @@ From the creators of the legendary driving and drifting game Drift Max Pro comes
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Batman, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Fun, Game, Games, Race, Racing, Sim, Simulation, Simulator, Sofia, Spiderman, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Batman, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Fun, Game, Games, Race, Racing, Sim, Simulation, Simulator, Sofia, Spiderman, truck

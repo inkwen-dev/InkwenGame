@@ -15,6 +15,6 @@ Navigate a sprawling hazardous Zone, teeming with danger and mystery. Form allia
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: War

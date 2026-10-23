@@ -15,6 +15,6 @@ Boost your child's brainpower with Animal Kids Memory! Uncover matching animal p
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Puzzle

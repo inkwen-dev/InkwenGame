@@ -19,6 +19,6 @@ Take a Top Drive on the snow ice track in this Super-Fast City Racing Game . Sno
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Car, drift, drifting, Driving, Race, Snow, Stunts

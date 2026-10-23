@@ -19,6 +19,6 @@ Brain Hack is an addictive free tricky puzzle game with a series of tricky brain
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Brain, Casual, Game, Hypercasual, Online, Puzzle, Quiz

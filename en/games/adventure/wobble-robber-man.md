@@ -21,4 +21,4 @@ Wobble Man is a casual game where your objective is to help a suit-clad man navi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Escape, Mentolatux, Police, Skills, sneak, Unity3D, WebGL
+- Tags: 1 Player, Escape, Mentolatux, police, Skills, sneak, Unity3D, WebGL

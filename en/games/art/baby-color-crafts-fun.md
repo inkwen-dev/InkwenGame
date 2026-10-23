@@ -21,4 +21,4 @@ Let's decorate the crystal ball! Start the machine and fill the crystal ball wit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Color, Coloring, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Panda
+- Tags: Animal, Baby, Color, Coloring, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Panda

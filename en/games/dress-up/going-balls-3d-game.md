@@ -21,4 +21,4 @@ You love ball games. Join the fun and test your ability to master Rolling Ball 3
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, 8 Ball Pool, Action, Adult, Adventure, Ballon, Bike, Boy, Boys, Candy, Car, Cars, Color, Fashion, Fun, Games, Girls, Hair, Mario, Side Scrolling, Spiderman, Sport, Superhero, Traffic, Train
+- Tags: 3D Games, 8 Ball Pool, Action, Adult, Adventure, Ballon, bike, Boy, Boys, Candy, Car, Cars, Color, Fashion, Fun, Games, Girls, Hair, mario, Side Scrolling, Spiderman, Sport, Superhero, Traffic, Train

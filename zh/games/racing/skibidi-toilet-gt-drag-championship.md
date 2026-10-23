@@ -21,4 +21,4 @@ Skibidi Toilet GT 拖车锦标赛是一款令人肾上腺素飙升的拖车竞�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Skibidi, Skibidi 厕所, 技巧, 技能, 体育, Sprunki, 交通
+- 标签: Skibidi, skibidi-toilet, 技巧, 技能, 体育, 斯普朗基, 交通

@@ -21,4 +21,4 @@ GT Mega Ramp Stunts Free tests you driving controls through the performance of m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Best, Car, Cars, drift, drifting, Interactive, jump, Jumping, Online, Parking, Supercars
+- Tags: Adventure, Best, Car, Cars, drift, drifting, Interactive, jump, jumping, Online, parking, Supercars

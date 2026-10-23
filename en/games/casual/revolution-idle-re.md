@@ -21,4 +21,4 @@ Revolution Idle RE is the remastered edition of Revolution Idle, a circling idle
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Math
+- Tags: Clicker, math

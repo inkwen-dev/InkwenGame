@@ -19,6 +19,6 @@ Puzzle Blocks is a fun puzzle game. It's simple yet addictive gameplay that chal
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Color, HTML5, Hypercasual, Kid, Logic, Mobile, Puzzle

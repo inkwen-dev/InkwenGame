@@ -21,4 +21,4 @@ Have you ever been dreamed of being a skater and do many difficult stunts? Now y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, jump, Jumping, Obstacle, Skateboard, Skating
+- Tags: Avoid, jump, jumping, Obstacle, skateboard, Skating

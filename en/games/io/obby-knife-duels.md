@@ -19,6 +19,6 @@ Obby Knife Duels &mdash; overcome challenging obstacle courses, battle your oppo
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 2026 games, 3D, 3D Games, Action, Adventure, Arcade, Knight, roblox
+- Tags: .io, 2026 games, 3D, 3D Games, Action, Adventure, Arcade, knight, roblox

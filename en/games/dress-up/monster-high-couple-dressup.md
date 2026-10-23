@@ -21,4 +21,4 @@ Monster High cartoon characters Draculaura and Clawd wolf are a very sweet coupl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Cartoon, Decorate, Dress Up, Fashion, Game, Girl, Girls, HTML5, Monster
+- Tags: Boy, Cartoon, Decorate, Dress Up, Fashion, Game, Girl, Girls, HTML5, monster

@@ -21,4 +21,4 @@ FNF Skibidi Invasion introduces a unique musical challenge for Boyfriend as he f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Memory, Movie, New, Point And Click, Puzzle
+- Tags: memory, Movie, New, Point And Click, Puzzle

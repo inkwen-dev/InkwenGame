@@ -21,4 +21,4 @@ US Army Car Transport Truck Game is an exhilarating virtual experience that puts
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Car, Helicopter, HTML5, Parking, Stunts, transport, WebGL
+- Tags: Army, Car, helicopter, HTML5, parking, Stunts, transport, WebGL

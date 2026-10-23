@@ -23,4 +23,4 @@ A fast-paced retro run-and-gun action game inspired by classic arcade shooters. 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Adventure, Arcade, Platform, Retro, Shooting, War
+- Tags: Action, Adventure, Arcade, Platform, retro, Shooting, War

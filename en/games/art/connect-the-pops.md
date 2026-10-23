@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Color, Coloring, Fun, Funny, Girls, Hypercasual, Kid, Kids, Math, Mind, Puzzle
+- Tags: Casual, Color, Coloring, Fun, Funny, Girls, Hypercasual, Kid, Kids, math, Mind, Puzzle

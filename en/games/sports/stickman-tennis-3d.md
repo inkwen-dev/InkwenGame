@@ -21,4 +21,4 @@ Control your stickman player and compete in various challenging tennis competiti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Sport, Stickman, Tennis, Unity3D
+- Tags: 1 Player, 3D Games, Sport, stickman, Tennis, Unity3D

@@ -19,6 +19,6 @@ Minecraft Lava Chicken is a fun, fast-paced hidden object game set in the pixela
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, Adventure, angrybirds, Batman, mineblock, Minecraft, Puzzle, puzzleblock

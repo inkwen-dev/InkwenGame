@@ -19,6 +19,6 @@ The apocalypse engulfed the whole world. Everywhere there are crowds of running 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cars, Race, Stickman, weapons, Zombie
+- Tags: Cars, Race, stickman, weapons, Zombie

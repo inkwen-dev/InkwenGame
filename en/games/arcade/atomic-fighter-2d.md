@@ -19,6 +19,6 @@ Defend the base and engage in combat with the adversary! The release of a new 2D
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, HTML5, Mobile, Skill, War, WebGL

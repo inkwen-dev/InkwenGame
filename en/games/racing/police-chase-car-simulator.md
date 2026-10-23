@@ -21,4 +21,4 @@ Step into the role of a powerful cop car chase police simulator officer and expe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2026 games, 3D Games, Best Games, Car, city, Driving, Game, Hypercasual, Police, Simulation, Traffic
+- Tags: 2 Player, 2026 games, 3D Games, Best Games, Car, city, Driving, Game, Hypercasual, police, Simulation, Traffic

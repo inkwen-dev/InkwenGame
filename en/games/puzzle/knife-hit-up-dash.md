@@ -19,6 +19,6 @@ Tap to hit the target, avoid all other knives! Aim to hit the spinning circle, p
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Arcade, Bubble Shooter, Game, Games, Shoot, Shoot 'Em Up, Shooter, Shooting

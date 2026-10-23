@@ -19,6 +19,6 @@ Wolfoos Town Dream City is a bright, friendly pretend-play world for young child
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: building, city

@@ -19,6 +19,6 @@ Fond of the rat race? It's time to grab some cheese. The rats are hungry! So mak
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, endless, running

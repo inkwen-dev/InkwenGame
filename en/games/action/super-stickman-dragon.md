@@ -21,4 +21,4 @@ Find the truest and most powerful warrior with the Dragon ball z characters in t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Dragon Ball Z, Fighting, free html5 games for your website, Hypercasual, kiz10, Physics, Stickman
+- Tags: Action, Dragon Ball Z, fighting, free html5 games for your website, Hypercasual, kiz10, Physics, stickman

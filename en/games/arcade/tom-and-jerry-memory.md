@@ -19,6 +19,6 @@ Tom and Jerry Memory is fun game for kids. A great memory game online and free f
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Boys, Girls, HTML5, Kids, Memory, Mobile, Skill
+- Tags: Android, Arcade, Boys, Girls, HTML5, Kids, memory, Mobile, Skill

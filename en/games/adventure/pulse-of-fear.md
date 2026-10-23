@@ -44,4 +44,4 @@ Light the way. Fix the system. Start the elevator. Most importantly, stay in the
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Adventure, Ghost, Horror, RPG, scary, survival
+- Tags: 3D, Adventure, Ghost, Horror, rpg, scary, survival

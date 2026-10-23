@@ -21,4 +21,4 @@ Challenge your rivals in the most famous soccer international tournaments. Are y
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Soccer, Sports, world-cup
+- Tags: Arcade, Soccer, sports, world-cup

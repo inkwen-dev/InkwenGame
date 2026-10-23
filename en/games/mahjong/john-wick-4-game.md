@@ -19,6 +19,6 @@ Dodge the bullet, shoot and kill them all in this epic killing shooter game! For
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Anime, Arcade, Best, Boys, Cartoon, Casual, Design, Game, Games, Girls, Hot, HTML5, Hypercasual, Kids, Mahjong, Mobile
+- Tags: 3D, Action, Adventure, Anime, Arcade, Best, Boys, Cartoon, Casual, Design, Game, Games, Girls, Hot, HTML5, Hypercasual, Kids, mahjong, Mobile

@@ -19,6 +19,6 @@ Lolipop Candy Rush is a connect match game on html5, connecting the candy to mat
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Bejeweled, Candy, Casual, Click, Color, HTML5, Hypercasual, Match 3

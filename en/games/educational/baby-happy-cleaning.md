@@ -21,4 +21,4 @@ The doll is dirty! Let’s help! Can you clean the dirt bike? [Happy Clean], mak
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cleaning, Decorate, Decoration, Educational, Fun, Girls, HTML5, Kid, Mobile, Panda
+- Tags: Animal, Baby, Cleaning, Decorate, Decoration, educational, Fun, Girls, HTML5, Kid, Mobile, Panda

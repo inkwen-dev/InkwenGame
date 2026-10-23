@@ -19,6 +19,6 @@ This is a caring unicorn game for girls. We have a lot of fun activities in this
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Educational, Girls
+- Tags: Car, educational, Girls

@@ -21,4 +21,4 @@ Are you ready for driving Big wheel 4x4 Cargo truck on dangerous off-roads in th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Adventure, Android, Driving, Sim, Simulation, Simulator, Truck
+- Tags: 3D Games, Adventure, Android, Driving, Sim, Simulation, Simulator, truck

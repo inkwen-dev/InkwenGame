@@ -19,6 +19,6 @@ Friends, today we want to present to your attention a set of puzzles with the pa
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, HTML5, Mobile

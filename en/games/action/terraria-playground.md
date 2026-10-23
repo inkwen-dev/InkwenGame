@@ -19,6 +19,6 @@ Immerse yourself in the amazing world of Terraria Playground right now! The game
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Battle, Classic, Cute, destroy, destruction, free games for your website, free html5 games for your website, Funny, Games, Pixel, Sandbox, unity games
+- Tags: 2D, Arcade, battle, Classic, Cute, destroy, destruction, free games for your website, free html5 games for your website, Funny, Games, pixel, Sandbox, unity games

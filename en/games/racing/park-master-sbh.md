@@ -19,6 +19,6 @@ This is the best puzzle game you will ever play! This car-parking puzzle game is
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, Boy, Boys, Car, Cars, drift, drifting, Driving, Fun, Funny, Game, Games, Moto, Motorcycle, Simulation, Simulator, Supercars, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, Boy, Boys, Car, Cars, drift, drifting, Driving, Fun, Funny, Game, Games, Moto, Motorcycle, Simulation, Simulator, Supercars, truck

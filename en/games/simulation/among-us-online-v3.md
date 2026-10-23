@@ -19,6 +19,6 @@ Welcome to Among Us Online v3 game. In this game you can play only solo as impos
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Arcade, Multiplayer, Shooter, Simulation

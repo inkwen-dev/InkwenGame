@@ -19,6 +19,6 @@ From the creators of the legendary driving and drifting game Drift Max Pro comes
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D, Adventure, Arcade, Best, Brain, Cars, Casual, gta, Parking, Race
+- Tags: .io Games, 1 Player, 3D, Adventure, Arcade, Best, Brain, Cars, Casual, gta, parking, Race

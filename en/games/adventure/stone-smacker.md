@@ -19,6 +19,6 @@ On Desktop W-A-S-D to Move Spacebar to Attack Gamepad Compatible On Mobile Devic
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Best, HTML5, Pixel, Pokemon, Puzzle
+- Tags: 1 Player, 2D, Adventure, Best, HTML5, pixel, Pokemon, Puzzle

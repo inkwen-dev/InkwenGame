@@ -19,6 +19,6 @@ Are you a die-hard K-pop fan? Then get ready to show off your style in BFFs K-po
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Dress Up, Fashion, Girl

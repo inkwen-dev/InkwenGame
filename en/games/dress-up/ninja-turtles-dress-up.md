@@ -21,4 +21,4 @@ Mutant Ninja turtles are the most popular cartoon heroes.Teenage Mutant Ninja Tu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Decorate, Dress Up, Fun, Game, HTML5, Ninja, Superhero
+- Tags: Cartoon, Decorate, Dress Up, Fun, Game, HTML5, ninja, Superhero

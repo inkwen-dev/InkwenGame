@@ -17,4 +17,4 @@ Unleash your memory skills in Pairs by Astra, where fun visuals hide secrets. Pa
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Memory
+- Tags: memory

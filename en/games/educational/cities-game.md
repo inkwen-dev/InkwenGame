@@ -19,6 +19,6 @@ Cities game is a timeless game that puts your knowledge and vocabulary to the te
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, 2D, Best, Brain, city, Classic, Educational, free html5 games for your website, Guessing, Hypercasual, Letters, Puzzle, Word
+- Tags: 1 Player, 2025 games, 2D, Best, Brain, city, Classic, educational, free html5 games for your website, Guessing, Hypercasual, Letters, Puzzle, word

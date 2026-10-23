@@ -19,6 +19,6 @@ Mobile-friendly Fullscreen Gameplay The zombie buster's got the grenade launcher
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Best, Blood, Boy, Crazy, Fire, Girl, Halloween, HTML, HTML5, Hypercasual, Kid, Kids, Kill, Killing, New, Shoot, Shooter, Shooting, Skill, Zombie
+- Tags: Action, Adventure, Arcade, Best, Blood, Boy, crazy, Fire, Girl, Halloween, HTML, HTML5, Hypercasual, Kid, Kids, Kill, Killing, New, Shoot, Shooter, Shooting, Skill, Zombie

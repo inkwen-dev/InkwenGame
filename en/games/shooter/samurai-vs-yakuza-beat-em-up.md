@@ -21,4 +21,4 @@ Yakuzas have captured hidden treasures and ruins. Take action to save the places
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Fight, Fighting, Hot, Shoot 'Em Up, Street Fighting
+- Tags: Action, Adventure, Arcade, Fight, fighting, Hot, Shoot 'Em Up, Street Fighting

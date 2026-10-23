@@ -19,6 +19,6 @@ Run Forrest Run is the game where Forrest Gump is running away from some weird c
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Police, run, Thief
+- Tags: Best Games, police, run, Thief

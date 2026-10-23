@@ -21,4 +21,4 @@ Enter a world where existence itself is eliminate you! You are a bowman or a sti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dragon Ball Z, Stickman
+- Tags: Dragon Ball Z, stickman

@@ -19,6 +19,6 @@ Welcome to Jewel Sliding Puzzle Game. You will have more fun by eliminating thes
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bejeweled, Block, Jewel
+- Tags: Bejeweled, block, Jewel

@@ -19,6 +19,6 @@ Role in today's game is to make tasty burgers in your restaurant. The beginning 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Baby, Baby Hazel, Burger, Cook, Cooking, Girl, Girls

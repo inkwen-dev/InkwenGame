@@ -19,6 +19,6 @@ Here is a crazy car adventure game that is made of 2D cartoon game art animation
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Boy, Car, Collecting, HTML5, Kid, Mobile, Side Scrolling

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 方块, 休閒, HTML, HTML5, 超休闲, 逻辑, 逻辑, 解谜
+- 标签: 2D, 方块, 休闲, HTML, HTML5, 超休闲, 逻辑, 逻辑性, 益智

@@ -21,4 +21,4 @@ The most effective technique to engage young brains is educational games for tod
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Educational, HTML5, Kid, Kids, Math, Mobile
+- Tags: 1 Player, 2D, Android, educational, HTML5, Kid, Kids, math, Mobile

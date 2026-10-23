@@ -21,4 +21,4 @@ Welcome to Stickman Restaurant Rush Game, a fast-paced restaurant management adv
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, amazing, Best Games, Casual, Hypercasual, Restaurant
+- Tags: 2026 games, Adventure, amazing, Best Games, Casual, Hypercasual, restaurant

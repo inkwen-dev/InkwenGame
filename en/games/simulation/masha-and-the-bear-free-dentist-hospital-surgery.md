@@ -21,4 +21,4 @@ Masha, Bear are asking your baby for help for the animals to continue eating swe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Baby Hazel, Cartoon, Cartoon Network, Disney, Doctor, Kids, Simulation, Surgery
+- Tags: Animal, Baby, Baby Hazel, Cartoon, Cartoon Network, Disney, Doctor, Kids, Simulation, surgery

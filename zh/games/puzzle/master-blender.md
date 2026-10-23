@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 谜题, 任务, 红色, 分拣
+- 标签: 益智, 任务, 红色, 整理

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D游戏, 体育, 小人, 网球, Unity3D
+- 标签: 单人, 3D游戏, 运动, 木偶人, 网球, Unity3D

@@ -19,6 +19,6 @@ Feather Dash - The ultimate bird-flying adventure! GAME MODES: Classic - Endless
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, 2026 games, 2D, Ai Games

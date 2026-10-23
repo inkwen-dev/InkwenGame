@@ -21,4 +21,4 @@ Help climber in challenging mountain adventure and protect her from obstacles
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Monster
+- Tags: Action, Adventure, Arcade, monster

@@ -21,4 +21,4 @@ Fruit Monster Match is a crazy fruit matching game made by kizgame.com All you h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bejeweled, Fruit, Fruits, Match 3, Match3, Matching, Monster, Puzzle
+- Tags: Bejeweled, Fruit, Fruits, Match 3, Match3, Matching, monster, Puzzle

@@ -21,4 +21,4 @@ Z - 普通投掷 X - 高强度投掷 C - 低强度投掷
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 男孩, 战斗, 格斗游戏, HTML5, 战争, WebGL
+- 标签: 2D, 男孩, 格斗, 格斗, HTML5, 战争, WebGL

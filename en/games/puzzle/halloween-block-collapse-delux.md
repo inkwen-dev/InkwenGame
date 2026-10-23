@@ -19,6 +19,6 @@ Collapse halloween blocks by connecting 2 or more similar blocks. Make large cha
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Halloween, Puzzle
+- Tags: block, Halloween, Puzzle

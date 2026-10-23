@@ -21,4 +21,4 @@ Stick War: Tower Mighty Defense 是一款激动人心的救援冒险游戏，你
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 防御, 数学, 木人, 塔防
+- 标签: 动作, 防御, 数学, 木偶人, 塔防

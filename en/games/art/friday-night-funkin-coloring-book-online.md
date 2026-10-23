@@ -19,6 +19,6 @@ FNF Coloring Book, also known as Friday Night Funkin Coloring Book, is an exciti
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Educational
+- Tags: Coloring, educational

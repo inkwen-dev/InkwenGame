@@ -21,4 +21,4 @@ The Shadow Fighters took their places on the field. The fight will only have 1 w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Fight, Fighting, Street Fighting
+- Tags: 2 Player, 2 Player Games, 2D, Fight, fighting, Street Fighting

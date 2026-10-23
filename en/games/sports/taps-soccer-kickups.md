@@ -19,6 +19,6 @@ Taps Soccer Kickups is an addictive soccer juggling game where players time, and
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Ball, Ballon, Football, Game, Games, HTML, HTML5, Kid, Kids, Sports
+- Tags: 1 Player, Ball, Ballon, Football, Game, Games, HTML, HTML5, Kid, Kids, sports

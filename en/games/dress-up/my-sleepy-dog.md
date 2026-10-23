@@ -19,6 +19,6 @@ My cute and fancy dog ​​Yuki loves playing in the garden and sleeping in the
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Decorate, Dress Up, Fashion, Fun, Funny, Game, Games, Girls, HTML5

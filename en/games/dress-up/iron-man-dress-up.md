@@ -19,6 +19,6 @@ Iron man is very strong. Thanks to the robotic features in his special suit, he 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Cartoon, Dress Up, Game, Games, HTML5, Robot

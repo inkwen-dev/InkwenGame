@@ -21,4 +21,4 @@ green chick jumper game has a lot of success review and player this MONTH that s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bubble Shooter, Clash, Click, Clicker, jump, Jumping, Point And Click, Shoot, Shoot 'Em Up, Shooter, Shooting
+- Tags: Bubble Shooter, Clash, Click, Clicker, jump, jumping, Point And Click, Shoot, Shoot 'Em Up, Shooter, Shooting

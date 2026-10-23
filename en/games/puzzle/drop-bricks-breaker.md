@@ -19,6 +19,6 @@ Drop Bricks Breaker is an interesting casual puzzle game. You can relax yourself
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Bricks, Casual, Kids, Launch, Mobile, Skill

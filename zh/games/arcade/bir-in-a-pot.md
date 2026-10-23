@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 休闲, Family, 万圣节, HTML5, mapi games, 解谜
+- 标签: 街机, 休闲, 家庭, 万圣节, HTML5, mapi games, 益智

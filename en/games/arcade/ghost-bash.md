@@ -19,6 +19,6 @@ The Ghosts are escaping and it's up to you to stop them. Bash them on the head t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Boy, Casual, Click, Clicker, Family, Ghost, HTML, HTML5, Hypercasual, Mobile

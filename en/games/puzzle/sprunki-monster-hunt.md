@@ -19,6 +19,6 @@ Dive into the exciting world of Sprunki monsters with our game, Sprunki Memory M
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dancing, Fun, Funny, Kids, Memory, Puzzle
+- Tags: Dancing, Fun, Funny, Kids, memory, Puzzle

@@ -19,6 +19,6 @@ Unroll Ball is a simple addictive unblock puzzle game, it makes you keep playing
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Puzzle, Strategy
+- Tags: Arcade, Ball, Puzzle, strategy

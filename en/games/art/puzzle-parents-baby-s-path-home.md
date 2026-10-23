@@ -35,4 +35,4 @@ In the additional mode, you have to find and give your favorite toy to the baby!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing, Kids, Logic, Puzzle
+- Tags: drawing, Kids, Logic, Puzzle

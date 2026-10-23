@@ -21,4 +21,4 @@ Summer is coming! Adella wants to go to the beach on holiday. But she ate a lot 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cooking, Dress Up, Educational, Fashion, Food, Girl, Girls, Kids, Makeover, Simulation
+- Tags: Cooking, Dress Up, educational, Fashion, Food, Girl, Girls, Kids, Makeover, Simulation

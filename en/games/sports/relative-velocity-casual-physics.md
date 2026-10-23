@@ -19,6 +19,6 @@ Relative Velocity is a casual 3D navigation game where you control a boat in an 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Casual, Educational, HTML5, Hypercasual, Physics, Science, ships, Simulation, Simulator, Summer, touch
+- Tags: 1 Player, 3D, 3D Games, Casual, educational, HTML5, Hypercasual, Physics, Science, ships, Simulation, Simulator, Summer, touch

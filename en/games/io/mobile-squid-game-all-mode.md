@@ -19,6 +19,6 @@ Squid Game is a game survival shooting games based upon Red Light, Green Light. 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, 3D Games, Best, Crazy, Games, HTML, HTML5, Mobile, run, running, Unity3D, WebGL
+- Tags: .io Games, 3D, 3D Games, Best, crazy, Games, HTML, HTML5, Mobile, run, running, Unity3D, WebGL

@@ -42,4 +42,4 @@ So if you're ready to take on the ultimate animal battle and emerge as the king 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, Mobile, Strategy
+- Tags: animals, Mobile, strategy

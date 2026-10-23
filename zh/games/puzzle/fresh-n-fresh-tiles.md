@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 水果, 麻将, 三消, 三消
+- 标签: 水果, mahjong, 三消, 三消游戏

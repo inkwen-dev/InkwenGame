@@ -21,4 +21,4 @@ Memory game with fun 3d effects. Find pairs of tiles with the same pictures. Mat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Brain, Bricks, Casual, Cool, Logic, Memory, Puzzle
+- Tags: 3D Games, Brain, Bricks, Casual, cool, Logic, memory, Puzzle

@@ -19,6 +19,6 @@ Smoke Man Runner 2D is an action-packed endless runner game where every jump cou
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player Games, Action, Adventure, Android, Arena, atv, Baby Games, Best, blocky, Bridge, Collecting

@@ -21,4 +21,4 @@ Jump your little boy. And collect the golds on your road.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping, run
+- Tags: jump, jumping, run

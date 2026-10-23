@@ -21,4 +21,4 @@ FPS Shooter 3D City Wars is the most exciting and challenging first-person shoot
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Battle, Boys, HTML5, Shoot, Shoot 'Em Up, Shooter, WebGL
+- Tags: 3D, battle, Boys, HTML5, Shoot, Shoot 'Em Up, Shooter, WebGL

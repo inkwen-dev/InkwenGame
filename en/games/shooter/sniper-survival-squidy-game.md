@@ -21,4 +21,4 @@ Squid Video Game is Brand Sniper Game with Perfect Shooting, Aim the Enemies as 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D, 3D Games, Best, Crazy, Games, Shooting, Skill, Skills, Sniper, Unity3D, WebGL
+- Tags: .io Games, 1 Player, 3D, 3D Games, Best, crazy, Games, Shooting, Skill, Skills, sniper, Unity3D, WebGL

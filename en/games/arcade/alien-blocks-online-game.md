@@ -19,6 +19,6 @@ Alien Blocks is a retro-style arcade platformer that's fast becoming one of toda
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Alien, Arcade, Block, Game, Games
+- Tags: Action, Alien, Arcade, block, Game, Games

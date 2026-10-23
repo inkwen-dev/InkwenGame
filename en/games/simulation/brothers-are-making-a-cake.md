@@ -19,6 +19,6 @@ Are you ready to start a cake-making race with your friend in this adventure? Th
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Cook, Cooking, mineblock, Minecraft, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Cook, Cooking, mineblock, Minecraft, pixel

@@ -19,6 +19,6 @@ Mastering the art of parking and driving a supercar requires precision, skill, a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Driving, Forest, Parking, Supercars, Unity3D, WebGL
+- Tags: Car, Driving, Forest, parking, Supercars, Unity3D, WebGL

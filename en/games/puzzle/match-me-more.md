@@ -19,6 +19,6 @@ Match Me More is a puzzle game when the player has to match the object with simi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Hypercasual, Match 3, Matching, Puzzle

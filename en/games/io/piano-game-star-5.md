@@ -21,4 +21,4 @@ Follow the rhythm! Piano Game star 5 is a relaxing music game with amazing music
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2 Player, 2 Player Games, 3D, 3D Games, Best, Best Games, Boys, Crazy, Girls, Music
+- Tags: .io Games, 1 Player, 2 Player, 2 Player Games, 3D, 3D Games, Best, Best Games, Boys, crazy, Girls, music

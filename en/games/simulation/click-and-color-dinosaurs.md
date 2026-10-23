@@ -19,6 +19,6 @@ In this great cool game you have over 30 different Dinosaurs to color! This game
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Boy, Casual, Click, Clicker, Color, Coloring, dino, Dinosaur, Educational, Family, Girl, HTML, HTML5, Kid, Kids, Monster, Simulation
+- Tags: Baby, Boy, Casual, Click, Clicker, Color, Coloring, dino, Dinosaur, educational, Family, Girl, HTML, HTML5, Kid, Kids, monster, Simulation

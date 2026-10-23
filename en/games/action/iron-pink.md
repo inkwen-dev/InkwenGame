@@ -19,6 +19,6 @@ Iron Pink is a fast-paced, hilarious fighting game where you play as a fearless 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, 2026 games, Action, Animal, Arcade, Best Games, Casual, Defense, Fighting, Funny, HTML5, Street Fighting, survival
+- Tags: 1 Player, 2025 games, 2026 games, Action, Animal, Arcade, Best Games, Casual, Defense, fighting, Funny, HTML5, Street Fighting, survival

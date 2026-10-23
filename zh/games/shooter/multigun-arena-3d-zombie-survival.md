@@ -21,4 +21,4 @@ WASD - 控制角色 鼠标控制视角 射击 滚轮切换武器 Tab - 菜单 Q 
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 多人游戏, 射击, 射击, 射击, Unity3D, WebGL
+- 标签: 3D游戏, 多人, 射击, 射击类, 射击, Unity3D, WebGL

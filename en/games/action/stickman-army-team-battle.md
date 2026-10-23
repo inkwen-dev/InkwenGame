@@ -21,4 +21,4 @@ The most strategic stickman war game is now available.Play now to : " Stickman A
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Army, Battle, Stickman, Strategy, weapons
+- Tags: Action, Adventure, Army, battle, stickman, strategy, weapons

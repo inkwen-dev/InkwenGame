@@ -21,4 +21,4 @@ Smoothie 是一款有趣的遊戲，讓你可以自己製作順滑飲料。
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 女孩, 女生, kids, 移动, WebGL
+- 标签: 2D, 女孩, 女孩, 儿童, 移动设备, WebGL

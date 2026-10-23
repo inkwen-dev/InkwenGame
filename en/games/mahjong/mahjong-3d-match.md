@@ -21,4 +21,4 @@ Welcome to the 3D Mahjong adventure! Challenge your mind with speed and precisio
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Brain, Mahjong, Puzzle
+- Tags: 3D, Brain, mahjong, Puzzle

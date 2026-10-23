@@ -19,5 +19,5 @@ Welcome to Christmas Cards Matching Puzzle game. This is amazing an Cards memory
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize

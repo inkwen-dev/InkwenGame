@@ -21,4 +21,4 @@ Get ready to unleash the ultimate sniper 3d experience with the most thrilling a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, 3D Games, Action, amazing, Enemy, Game, Shooter, Shooting, Sniper
+- Tags: 2025 games, 3D Games, Action, amazing, Enemy, Game, Shooter, Shooting, sniper

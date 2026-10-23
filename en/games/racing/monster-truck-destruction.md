@@ -21,4 +21,4 @@ reat physics, real-time destruction and over 60 licensed trucks such as BIGFOOT 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, Battlegrounds, Boy, Boys, drift, drifting, Monster, Parking, Simulation, Simulator, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, Battlegrounds, Boy, Boys, drift, drifting, monster, parking, Simulation, Simulator, truck

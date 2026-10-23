@@ -21,4 +21,4 @@ Block Blaster is a puzzle game that blends the challenge of a grid-based cube ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Mind, Puzzle, Relaxation, Tetris
+- Tags: block, Mind, Puzzle, Relaxation, tetris

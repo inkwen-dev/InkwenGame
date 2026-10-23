@@ -24,4 +24,4 @@ The core mechanic is straightforward—tap one candy tile, then find and select 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Mahjong, Matching, Puzzle
+- Tags: 3D, mahjong, Matching, Puzzle

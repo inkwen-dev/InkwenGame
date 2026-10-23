@@ -21,4 +21,4 @@ Welcome to Play <strong>Zombie Defense</strong>, Zombie Defense is a funny defen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Defense, Fighting, Helicopter, Kill, Killing, Shooter, Shooting, Superhero, Tower Defense, Zombie
+- Tags: Adventure, Defense, fighting, helicopter, Kill, Killing, Shooter, Shooting, Superhero, Tower Defense, Zombie

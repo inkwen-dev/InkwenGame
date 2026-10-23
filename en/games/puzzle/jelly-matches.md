@@ -21,4 +21,4 @@ Welcome to the ultimate color-matching challenge! In this engaging puzzle game, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Match 3, Match3, Matching, Math, Physics, Puzzle, puzzleblock
+- Tags: Color, Match 3, Match3, Matching, math, Physics, Puzzle, puzzleblock

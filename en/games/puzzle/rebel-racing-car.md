@@ -21,4 +21,4 @@ There’s a thin line between fast and first… Join America’s most exclusive 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arena, Barbie, Boxing, Boy, Boys, Bubble, Bubble Shooter, bus, Car, Cars, drift, Family, Fashion, Girl, Girls, Memory, Motorcycle, Nail, Sim, Simulation, Simulator, Supercars, Truck, Vampire
+- Tags: Animal, Arena, Barbie, Boxing, Boy, Boys, Bubble, Bubble Shooter, bus, Car, Cars, drift, Family, Fashion, Girl, Girls, memory, Motorcycle, Nail, Sim, Simulation, Simulator, Supercars, truck, Vampire

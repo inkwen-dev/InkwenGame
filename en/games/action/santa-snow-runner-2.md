@@ -15,6 +15,6 @@ Guide Santa through snowy landscapes in Santa Snow Runner, a thrilling holiday a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Action

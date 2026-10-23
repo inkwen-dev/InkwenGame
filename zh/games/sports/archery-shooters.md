@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 2 Player Games, 3D, 街机, Casual, 防御, 游戏, Hypercasual, 游玩, 放松, 网球, Unity3D
+- 标签: .io 游戏, 双人游戏, 3D, 街机, 休闲, 防御, 网页游戏, 超休闲, 玩, 放松, 网球, Unity3D

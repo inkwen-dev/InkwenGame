@@ -21,4 +21,4 @@ We invite you to visit the dreams in the game Valto Jumper, they are often fanta
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Collecting, Fun, HTML5, jump, Jumping, Mobile, Skill
+- Tags: 1 Player, Collecting, Fun, HTML5, jump, jumping, Mobile, Skill

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 卡片, 消除3, 匹配, 记忆
+- 标签: 卡牌, 三消, 匹配, 记忆

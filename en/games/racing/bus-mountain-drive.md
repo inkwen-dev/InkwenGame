@@ -19,6 +19,6 @@ Do you love playing driving simulation games? Do you like buses? If yes, then Mo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, bus, Driving

@@ -15,6 +15,6 @@ Enter a whimsical world of style in Princesses Waiting For Santa! Mix and match 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: makeup

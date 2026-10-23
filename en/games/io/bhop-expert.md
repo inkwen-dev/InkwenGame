@@ -21,4 +21,4 @@ Bhop Expert is an amazing game mode where players have to jump on blocks. This g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 3D, 3D Games, Adventure, CSGO, jump, Jumping
+- Tags: .io, .io Games, 1 Player, 3D, 3D Games, Adventure, CSGO, jump, jumping

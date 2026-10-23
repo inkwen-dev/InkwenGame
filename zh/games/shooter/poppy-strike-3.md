@@ -21,4 +21,4 @@ Poppy Strike 3 是一款第一人称射击游戏，你的任务是生存下来�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 3D, 3D游戏, 动作, CSGO, 第一人称射击, 枪械, Huggy, 射击, 射击游戏, 射击, 射击, 生存, Unity3D
+- 标签: 单人, 3D, 3D游戏, 动作, CSGO, 第一人称射击, 枪械, huggy, 射击, 射击游戏, 射击类, 射击, 生存, Unity3D

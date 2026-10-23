@@ -35,4 +35,4 @@ FEATURES
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, intelligence, Logic, words
+- Tags: Brain, educational, intelligence, Logic, words

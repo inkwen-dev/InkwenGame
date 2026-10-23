@@ -21,4 +21,4 @@ Taylor often plays with her pet dog Oreo. On this day, when she is playing with 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cute, Doctor, Educational, Girl, Girls, Kids, Simulation, Surgery
+- Tags: Animal, Baby, Cute, Doctor, educational, Girl, Girls, Kids, Simulation, surgery

@@ -19,6 +19,6 @@ In the face of doomsday and zombies, make yourself stronger in the continuous br
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Battle, Battlegrounds, H5
+- Tags: Action, Adventure, battle, Battlegrounds, H5

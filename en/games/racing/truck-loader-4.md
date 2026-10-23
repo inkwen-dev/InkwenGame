@@ -21,4 +21,4 @@ Truck Loader 4 is an amazing cross between a forklift and truck game. In the fut
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Car, Machine, Moto, Physics, Plant, Platform, Puzzle, Robot, Sandbox, Simulator, Skill, Truck
+- Tags: Boy, Boys, Car, Machine, Moto, Physics, Plant, Platform, Puzzle, Robot, Sandbox, Simulator, Skill, truck

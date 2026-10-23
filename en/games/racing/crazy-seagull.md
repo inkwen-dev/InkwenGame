@@ -19,6 +19,6 @@ You're a little crazy, aren't you? This Gaviota is completely crazy and wants al
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Ballon, Battle, Candy, Cartoon, Casual, Click, Clicker, Collection, Crazy, Cute, Drawing, Flight, HTML5, Hypercasual, Interactive, Platform, Racing
+- Tags: Animal, Arcade, Ballon, battle, Candy, Cartoon, Casual, Click, Clicker, Collection, crazy, Cute, drawing, flight, HTML5, Hypercasual, Interactive, Platform, Racing

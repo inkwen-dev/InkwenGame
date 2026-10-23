@@ -19,6 +19,6 @@ Click on 2 or more than 2 blocks to eliminate them. To complete a level you need
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Girls, HTML5, Matching, Mobile
+- Tags: block, Girls, HTML5, Matching, Mobile

@@ -19,6 +19,6 @@ Everyone is invited to this carnival, especially for children will be a great fu
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Ball, Ballon, Shoot, Shooting

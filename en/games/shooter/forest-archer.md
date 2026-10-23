@@ -21,4 +21,4 @@ Master the bow in this epic Action challenge! Aim, time your shots, and battle s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Bird, Brain, Hunting, Shooting, Skills
+- Tags: 2D, Action, Adventure, Bird, Brain, hunting, Shooting, Skills

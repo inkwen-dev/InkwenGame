@@ -19,6 +19,6 @@ It's a funny walking game. Players play different roles in the game, to meet a v
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Action, Balance, Fun, Google, H5

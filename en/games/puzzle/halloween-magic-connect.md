@@ -19,6 +19,6 @@ Aim, match and smash all the colorful monster bubbles in this relaxing color mat
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Bubble, Bubble Shooter, Fun, Halloween, Holiday, Match 3, Match3, Matching, Mobile, Monster, Puzzle
+- Tags: Best, Bubble, Bubble Shooter, Fun, Halloween, Holiday, Match 3, Match3, Matching, Mobile, monster, Puzzle

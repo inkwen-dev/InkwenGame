@@ -21,4 +21,4 @@ Skibidi Toilet 数学恶作剧考验你是否能在时间耗尽前快速回答�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 教育, 数学, Skibidi, Skibidi马桶
+- 标签: 单人, 教育, 数学, Skibidi, skibidi-toilet

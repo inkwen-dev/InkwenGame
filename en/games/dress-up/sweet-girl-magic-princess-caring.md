@@ -19,6 +19,6 @@ Please help the queen take care of her children. This is a magical little prince
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cooking, Cute, Dress Up, Educational, Girl, Girls, Kids, Makeover, Princess, Simulation
+- Tags: Baby, Cooking, Cute, Dress Up, educational, Girl, Girls, Kids, Makeover, Princess, Simulation

@@ -21,4 +21,4 @@ Are you ready to experience your inner tattoo maker artist? Have you ever wonder
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Cartoon, Casual, Draw, Drawing, Dress Up, Fashion, Frozen, Fun, Games, Girl, Girls, Hypercasual, Kids, Makeover, Online, Princess
+- Tags: 3D, Arcade, Cartoon, Casual, Draw, drawing, Dress Up, Fashion, Frozen, Fun, Games, Girl, Girls, Hypercasual, Kids, Makeover, Online, Princess

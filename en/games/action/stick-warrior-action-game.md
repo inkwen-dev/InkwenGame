@@ -19,6 +19,6 @@ Do you like epic fights with plenty of STICKMEN ? If so you'll love STICK WARRIO
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Battle, Fight, Fighting, Stickman, War, weapons
+- Tags: Action, Arcade, battle, Fight, fighting, stickman, War, weapons

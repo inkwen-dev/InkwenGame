@@ -19,6 +19,6 @@ simple puzzle for kids is a puzzle game, match for scattered images, easy to pla
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Casual, Dragon, Drawing, Kids, Matching, Puzzle
+- Tags: 2D, Casual, Dragon, drawing, Kids, Matching, Puzzle

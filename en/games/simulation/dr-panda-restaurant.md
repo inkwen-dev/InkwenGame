@@ -21,4 +21,4 @@ Dr. Panda's Restaurant is a simulated business game. Dr. Panda opened a restaura
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Business, Cook, Cooking, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Panda, Restaurant, Strategy
+- Tags: Animal, Business, Cook, Cooking, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Panda, restaurant, strategy

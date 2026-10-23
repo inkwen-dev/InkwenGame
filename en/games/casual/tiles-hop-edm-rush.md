@@ -19,6 +19,6 @@ Let's Hop! You can now upload your own favorite songs to play! Let's Play & enjo
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: endless, Fun, HTML5, Hypercasual, jump, Jumping, Music, run
+- Tags: endless, Fun, HTML5, Hypercasual, jump, jumping, music, run

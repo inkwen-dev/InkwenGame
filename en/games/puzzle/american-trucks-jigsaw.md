@@ -21,4 +21,4 @@ American Trucks Jigsaw game is free online game and you have 6 images of in thre
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Jigsaw, Kids, Mobile, Puzzle, Truck
+- Tags: HTML5, Jigsaw, Kids, Mobile, Puzzle, truck

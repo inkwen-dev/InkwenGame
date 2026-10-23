@@ -19,6 +19,6 @@ Drivers start your engines! Professional oval track racing that explodes with st
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Racing

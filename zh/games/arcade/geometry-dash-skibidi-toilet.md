@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 2D, Android, 冲刺, 几何, HTML5, iPad, Mentolatux, 移动设备, Skibidi, Skibidi Toilet, 技巧, Unity3D, WebGL
+- 标签: 单人, 2D, 安卓, 冲刺, 几何, HTML5, iPad, Mentolatux, 移动设备, Skibidi, skibidi-toilet, 技巧, Unity3D, WebGL

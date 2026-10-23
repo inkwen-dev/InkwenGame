@@ -21,4 +21,4 @@ W A S D 移动 空格键 左键 钩子
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 动作, Fish, 钩子, 水
+- 标签: 单人, 动作, 鱼, 钩子, 水

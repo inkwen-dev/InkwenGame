@@ -19,6 +19,6 @@ Welcome to BigMax Happy Halloween Party. Tomago and Hiro planned to celebrate th
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Cute, Decoration, Dress Up, Fashion, Games, Girls, Halloween, HTML5, Kids

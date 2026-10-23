@@ -19,6 +19,6 @@ Baby Panda Girl Caring is a very cute caring game. Baby panda girl is in the car
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cook, Cooking, Cute, Dress Up, Educational, Fun, Girl, Girls, Grooming, HTML5, Kids, Mobile, Panda
+- Tags: Animal, Baby, Cook, Cooking, Cute, Dress Up, educational, Fun, Girl, Girls, Grooming, HTML5, Kids, Mobile, Panda

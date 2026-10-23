@@ -19,6 +19,6 @@ How do you feel about sports where balls are used? Which ones? It doesn't matter
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Brain, cut, H5, HTML, HTML5, Mind, Puzzle, Sport, Sports, Strategy
+- Tags: Ball, Brain, cut, H5, HTML, HTML5, Mind, Puzzle, Sport, sports, strategy

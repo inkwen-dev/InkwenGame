@@ -21,4 +21,4 @@ One of the best ways to teach something to children is using some kind of game. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Baby, Baby Hazel, Casual, Educational, Fun, HTML, HTML5, Kid, Letters, Memory, Mobile, Skill
+- Tags: Arcade, Baby, Baby Hazel, Casual, educational, Fun, HTML, HTML5, Kid, Letters, memory, Mobile, Skill

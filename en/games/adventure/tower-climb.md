@@ -21,4 +21,4 @@ Beware of sharp spikes and moving obstacles which will inevitably cause your her
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Best, Click, Clicker, H5, Highscore, Hot, HTML, HTML5, Ninja, Ninjago
+- Tags: Adventure, Best, Click, Clicker, H5, Highscore, Hot, HTML, HTML5, ninja, Ninjago

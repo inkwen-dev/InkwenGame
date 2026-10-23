@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 街机, 小球, 休闲, 无限, 螺旋, 高分, 超休闲, 跳跃, 跳跃, 一键操作, unity, WebGL
+- 标签: 3D, 街机, 球, 休闲, 无尽, 螺旋, 高分, 超休闲, 跳跃, 跳跃, 单触, unity, WebGL

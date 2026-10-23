@@ -19,6 +19,6 @@ Get ready for endless popping fun in Color Pop Mania! Tap clusters of same-color
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, amazing, Best, Best Games, Candy, Crazy, Hypercasual, Mind, Puzzle, puzzleblock, Timing
+- Tags: 2026 games, Adventure, amazing, Best, Best Games, Candy, crazy, Hypercasual, Mind, Puzzle, puzzleblock, Timing

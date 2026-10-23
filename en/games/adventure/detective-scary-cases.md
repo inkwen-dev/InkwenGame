@@ -19,6 +19,6 @@ Scary Horror: Escape Game is a thrilling adventure game that will appeal to fans
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Detective, Horror, Logic, Logical, Strategy
+- Tags: Detective, Horror, Logic, Logical, strategy

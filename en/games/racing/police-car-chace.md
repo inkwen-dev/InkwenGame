@@ -19,6 +19,6 @@ Police Car Chase is an action-packed police simulator where you become a brave o
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adult, Adventure, Best, Car, Fun, Police
+- Tags: Action, Adult, Adventure, Best, Car, Fun, police

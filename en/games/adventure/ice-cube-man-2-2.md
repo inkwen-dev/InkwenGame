@@ -15,6 +15,6 @@ Embark on an icy adventure in Ice Cube Man 2, where clever navigation meets exhi
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

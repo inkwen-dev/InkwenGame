@@ -19,6 +19,6 @@ Thorn and Balloons is a very interesting casual bounce ballon game. In the game,
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, Ballon, Best Games, Bounce, Brain, Casual, Color, Poppy Playtime, Puzzle, Strategy
+- Tags: 2025 games, Ballon, Best Games, Bounce, Brain, Casual, Color, Poppy Playtime, Puzzle, strategy

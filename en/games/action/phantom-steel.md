@@ -15,6 +15,6 @@ Phantom Steel delivers heart-pounding arcade thrills as you navigate a mystical 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Battle
+- Tags: battle

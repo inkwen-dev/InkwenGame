@@ -15,6 +15,6 @@ Test your memory and speed in Flip It Right, an engaging card-matching challenge
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Memory
+- Tags: memory

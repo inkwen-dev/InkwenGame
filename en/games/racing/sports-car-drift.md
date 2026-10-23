@@ -19,6 +19,6 @@ Drive fast in Sport Car Drift 3D with some awesome sport cars, you can freely ch
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, drift, drifting, Driving, WebGL

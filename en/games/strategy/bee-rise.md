@@ -21,4 +21,4 @@ Bee Rise is an idle colony building game where you guide a queen bee and grow a 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, animals, Arcade, idle, Management, Strategy, Tower Defense
+- Tags: Adventure, animals, Arcade, idle, management, strategy, Tower Defense

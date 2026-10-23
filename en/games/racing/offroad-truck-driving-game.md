@@ -19,6 +19,6 @@ Offroad Truck Driving Game puts you in the drivers seat of powerful cargo trucks
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, offroad, Parking, Road, Truck
+- Tags: Action, Adventure, offroad, parking, Road, truck

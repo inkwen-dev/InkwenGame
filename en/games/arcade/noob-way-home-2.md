@@ -15,6 +15,6 @@ Guide Nubik through a zombie-infested world in "Noob Way Home." Survive adrenali
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Arcade

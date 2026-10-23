@@ -15,6 +15,6 @@ Race against time in Tic Toc Boom, an electrifying arcade thriller. Blast clocks
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: hyper-casual

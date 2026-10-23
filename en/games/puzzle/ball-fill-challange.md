@@ -19,6 +19,6 @@ Santa Ball Fill 3D - New Use your brain and find a way to get down the santa bal
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player Games, 3D, 8 Ball Pool, Adult, Air, Aircraft, Ball, Best

@@ -25,4 +25,4 @@ Every Star earned on the game levels allows you to select what to decorate a onc
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cozy, Puzzle, Solitaire
+- Tags: cozy, Puzzle, solitaire

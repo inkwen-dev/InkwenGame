@@ -19,6 +19,6 @@ Chaotic Ball is a game where you need to collect the stars with small orange bal
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Ball, Collecting, Kids, Puzzle

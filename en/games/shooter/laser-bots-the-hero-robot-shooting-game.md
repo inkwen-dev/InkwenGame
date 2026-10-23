@@ -21,4 +21,4 @@ Searching for a cool game to play? Well, look no further! Laser Bots are here. A
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Casual, Escape, Fighting, Shoot, Shooting
+- Tags: Action, Casual, Escape, fighting, Shoot, Shooting

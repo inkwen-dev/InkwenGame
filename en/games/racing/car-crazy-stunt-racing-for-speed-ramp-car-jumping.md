@@ -19,6 +19,6 @@ Are you ready to enjoy the crazy car driving on sky tracks by playing car drivin
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adult, Adventure, Boy, Car, Crazy, Family, Fun, Funny, Girl, HTML, HTML5, jump, Jumping, Kid, Kids, New, WebGL
+- Tags: Action, Adult, Adventure, Boy, Car, crazy, Family, Fun, Funny, Girl, HTML, HTML5, jump, jumping, Kid, Kids, New, WebGL

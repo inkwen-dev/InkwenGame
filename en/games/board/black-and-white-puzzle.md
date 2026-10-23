@@ -21,4 +21,4 @@ Black White Puzzle is using Black and White Chess to build a puzzle game. Same a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Casual, Classic, Crazy, Educational, Logic, Puzzle
+- Tags: Board, Casual, Classic, crazy, educational, Logic, Puzzle

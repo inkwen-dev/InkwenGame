@@ -19,6 +19,6 @@ Animal Touch is game where you must click on the animals that is shown on the sc
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Animal, Baby, Cat

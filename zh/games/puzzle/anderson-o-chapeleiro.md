@@ -21,4 +21,4 @@ W 向前走 S 向后走 D 向左走 A 向右走 SHIFT 使用能量饮料 Q 跳�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1人, 3D, 迷宫
+- 标签: 单人, 3D, 迷宫

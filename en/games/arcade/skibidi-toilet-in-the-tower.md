@@ -19,6 +19,6 @@ Skibidi in The Tower takes the Endless runner (i guess endless flyer) genre! Hel
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Boys, HTML, HTML5, Mobile, Skibidi, Skibidi Toilet
+- Tags: Arcade, Boy, Boys, HTML, HTML5, Mobile, Skibidi, skibidi-toilet

@@ -19,6 +19,6 @@ Tung Tung Sahur Zombie&ndash; a super cool game in which you must kill all the z
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Sahur, Shooter, Sniper, Tung Tung, Tung Tung Tung Sahur, Zombie
+- Tags: Arcade, Sahur, Shooter, sniper, Tung Tung, Tung Tung Tung Sahur, Zombie

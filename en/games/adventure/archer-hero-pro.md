@@ -19,6 +19,6 @@ Introducing Archer Hero Pro, an immersive gaming experience that puts your arche
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Casual, Crazy, free games for your website, html5 games, Mobile, Superhero, Unity3D, Warrior
+- Tags: 3D, Casual, crazy, free games for your website, html5 games, Mobile, Superhero, Unity3D, Warrior

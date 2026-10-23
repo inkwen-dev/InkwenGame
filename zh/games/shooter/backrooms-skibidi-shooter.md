@@ -21,4 +21,4 @@ WASD - 移动 左键 - 射击 右键 - 瞄准 R - 换弹 G - 手榴弹 空格键
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 3D, 3D游戏, 动作, 冒险, 枪械, 射击, 射击游戏, 射手, 射击, 斯基比迪, 斯基比迪马桶, Unity3D
+- 标签: 单人, 3D, 3D游戏, 动作, 冒险, 枪械, 射击, 射击游戏, 射击类, 射击, Skibidi, skibidi-toilet, Unity3D

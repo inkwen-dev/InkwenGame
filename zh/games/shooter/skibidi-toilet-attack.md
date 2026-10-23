@@ -21,4 +21,4 @@ Skibidi 厕所攻击是一款令人兴奋且极具上瘾性的休闲在线射击
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: kiz10, 平台, 射击, 斯基比迪马桶, 生存
+- 标签: kiz10, 平台, 射击类, skibidi-toilet, 生存

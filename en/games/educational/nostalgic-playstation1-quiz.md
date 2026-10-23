@@ -21,4 +21,4 @@ Step back into the golden age of gaming with Nostalgic Playstation1 Quiz! Test y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Quiz, Retro
+- Tags: 1 Player, Quiz, retro

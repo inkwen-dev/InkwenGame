@@ -19,6 +19,6 @@ This is the first version of our Jewels Match game with satisfying and awesome v
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Bejeweled, Fun, Jewel, Match 3, Matching

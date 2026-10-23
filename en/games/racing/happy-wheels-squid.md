@@ -19,6 +19,6 @@ Happy Wheels have come just as the horrifying, blasphemous death of Flash is abo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Driving, HTML, HTML5, Obstacle

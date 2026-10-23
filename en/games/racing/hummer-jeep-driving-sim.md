@@ -19,6 +19,6 @@ Experience the excitement of hill driving games, bounce over severe ramps to con
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Car, Cars, Driving, HTML, HTML5, Mobile, Racing, Supercars, Truck
+- Tags: Android, Car, Cars, Driving, HTML, HTML5, Mobile, Racing, Supercars, truck

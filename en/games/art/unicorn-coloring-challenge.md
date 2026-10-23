@@ -21,4 +21,4 @@ Unicorn Coloring Challenge is a magical and delightful coloring game that will s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Coloring, Educational, Fun, Girls, Hypercasual, Mobile, School
+- Tags: Cartoon, Coloring, educational, Fun, Girls, Hypercasual, Mobile, School

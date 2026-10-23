@@ -21,4 +21,4 @@ Drive a wrecking ball truck and pass all obstacles. Use the wrecking ball to des
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, HTML5, Mobile, Truck
+- Tags: Driving, HTML5, Mobile, truck

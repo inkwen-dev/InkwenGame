@@ -15,6 +15,6 @@ Blast your way through intricate puzzles in Super Tnt Craft! Master the art of p
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: mining

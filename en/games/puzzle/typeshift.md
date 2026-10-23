@@ -21,4 +21,4 @@ From the creator of SpellTower, comes a new and completely original word game! A
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Word
+- Tags: Casual, word

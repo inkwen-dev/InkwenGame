@@ -21,4 +21,4 @@ Smash the rim and shoot hoops from the free throwing line. How many points in a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Game, Games, Sport, Sports
+- Tags: Game, Games, Sport, sports

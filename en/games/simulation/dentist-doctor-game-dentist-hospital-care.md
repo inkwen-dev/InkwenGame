@@ -19,6 +19,6 @@ Boys and girls, welcome to Libii Dentist, the funnest teeth and dentist game eve
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, Boys, Cartoon, Cartoon Network, Doctor, Games, Girls, Kids, Simulation, Surgery
+- Tags: Baby, Baby Hazel, Boys, Cartoon, Cartoon Network, Doctor, Games, Girls, Kids, Simulation, surgery

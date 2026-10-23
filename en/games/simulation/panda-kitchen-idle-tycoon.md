@@ -19,6 +19,6 @@ Want to become the best restaurant tycoon? You&rsquo;ll build your own panda-the
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Food, idle, pizza, Restaurant
+- Tags: Food, idle, pizza, restaurant

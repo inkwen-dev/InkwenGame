@@ -19,6 +19,6 @@ Can your impostor survive? Prove it in Among Us like HTML5 game. All you need is
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Best, Collecting, Funny, Jumping, Mobile, New, Physics, running, Skill, Space, Super
+- Tags: 1 Player, 2D, Action, Best, Collecting, Funny, jumping, Mobile, New, Physics, running, Skill, Space, Super

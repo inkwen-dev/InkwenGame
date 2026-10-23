@@ -19,6 +19,6 @@ Are you ready to drive amazing cars in the open world map? Would you like to rac
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 8 Ball Pool, Candy, Car, Cars, drift, Driving, Game, Games, Mario, Truck
+- Tags: .io Games, 2 Player Games, 8 Ball Pool, Candy, Car, Cars, drift, Driving, Game, Games, mario, truck

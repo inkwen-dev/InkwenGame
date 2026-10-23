@@ -24,4 +24,4 @@ Lucky Clash is a fast-paced 3D tactical Tower Defense game where players summon 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: merge, Monster, Strategy, Tower Defense
+- Tags: merge, monster, strategy, Tower Defense

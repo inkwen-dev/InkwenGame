@@ -19,6 +19,6 @@ In Slightly Annoying Traffic you have to prevent crashes. You can stop and start
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Car, Strategy, Street Fighting, Traffic
+- Tags: 3D, Action, Car, strategy, Street Fighting, Traffic

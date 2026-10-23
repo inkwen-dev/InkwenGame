@@ -21,4 +21,4 @@ In Tetris Game, players are presented with a screen that displays a series of fa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Hypercasual, Puzzle, Tetris
+- Tags: Hypercasual, Puzzle, tetris

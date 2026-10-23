@@ -19,6 +19,6 @@ Are you good at dueling with rotating cold weapons? Super Stickman Duelist seems
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Avoid, Boy, Fight, Kid, Stickman
+- Tags: 2D, Adventure, Avoid, Boy, Fight, Kid, stickman

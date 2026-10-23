@@ -19,6 +19,6 @@ Basketball Legends 2020 is a cool 2 player basketball game. Choose your team and
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Sports
+- Tags: basketball, sports

@@ -21,4 +21,4 @@ Kawaii Coloring Book Glitter is the best kawaii game for kids and adults with am
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Cute, Decoration, Educational, Fun, Girls, HTML5, Kids
+- Tags: Color, Coloring, Cute, Decoration, educational, Fun, Girls, HTML5, Kids

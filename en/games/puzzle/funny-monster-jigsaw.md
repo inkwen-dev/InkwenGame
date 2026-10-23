@@ -21,4 +21,4 @@ Funny Monster Jigsaw is a free online game from genre of puzzle and jigsaw games
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Jigsaw, Kids, Monster, Skill
+- Tags: Fun, Jigsaw, Kids, monster, Skill

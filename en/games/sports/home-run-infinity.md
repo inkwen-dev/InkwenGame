@@ -21,4 +21,4 @@ Time your swing and launch the ball as far as possible in an endless arcade base
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Baseball, Sports
+- Tags: baseball, sports

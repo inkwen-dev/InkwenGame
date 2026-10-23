@@ -19,6 +19,6 @@ Crazy Snake io features: - 2 game modes - multiple snake skins - addictive gamep
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Crazy, Slither, Snake, WebGL
+- Tags: crazy, Slither, snake, WebGL

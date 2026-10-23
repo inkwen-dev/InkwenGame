@@ -19,6 +19,6 @@ Dive into the world of welding with Welding Simulation 3D, the ultimate weld mas
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Hypercasual, Kids, Mentolatux, Simulation, Simulator, Unity3D, WebGL

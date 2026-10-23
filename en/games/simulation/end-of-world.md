@@ -15,6 +15,6 @@ Survive a robot-ruled apocalypse in this tense first-person shooter. Navigate hi
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Simulation

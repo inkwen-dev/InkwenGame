@@ -21,4 +21,4 @@ Mart Puzzle - Shopping Sort is a fun blend of simulation and brain-teasing manag
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Management, Simulation
+- Tags: management, Simulation

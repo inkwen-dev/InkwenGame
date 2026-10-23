@@ -21,4 +21,4 @@ Flick, score, repeat. Gear up to solve unique challenging physics puzzles just b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Basketball, Shoot
+- Tags: Ball, basketball, Shoot

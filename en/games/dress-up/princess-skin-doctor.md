@@ -19,6 +19,6 @@ The beautiful princess are suffering skin allergy very badly. So, she need speci
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Doctor, Dress Up, Fashion, Girls, Kids, Makeover, Princess

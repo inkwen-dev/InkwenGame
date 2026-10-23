@@ -21,4 +21,4 @@ Jump on the cakes is funny and addictive puzzle game, where you need to jump tro
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cake, Candy, Jumping, Puzzle
+- Tags: Cake, Candy, jumping, Puzzle

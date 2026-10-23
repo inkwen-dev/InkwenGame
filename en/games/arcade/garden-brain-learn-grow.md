@@ -21,4 +21,4 @@ GardenBrain is a colorful 3-level kids learning adventure where little gardeners
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Color, Educational, garden, Kids, plants
+- Tags: 2026 games, Color, educational, garden, Kids, plants

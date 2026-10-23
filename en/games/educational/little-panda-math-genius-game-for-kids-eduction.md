@@ -21,4 +21,4 @@ Crazy Math Game for kids and adults is a funny and challenging math game where y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Boy, Casual, Educational, Family, Girl, HTML, HTML5, Hypercasual, Kid, Math, Number, Panda, Puzzle, Skill, Skills, WebGL
+- Tags: Adult, Boy, Casual, educational, Family, Girl, HTML, HTML5, Hypercasual, Kid, math, Number, Panda, Puzzle, Skill, Skills, WebGL

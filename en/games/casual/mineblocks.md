@@ -21,4 +21,4 @@ Mine Blocks is a 2D Minecraft caves game where you have to dash the blocks and c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Best Games, Block, dash, html games for your website, Kiz 10, Levels, Minecraft, Miner
+- Tags: 1 Player, Best Games, block, dash, html games for your website, Kiz 10, Levels, Minecraft, Miner

@@ -15,6 +15,6 @@ Leap into the sky with LOVO, a charming hero on a nest-hopping adventure. Strate
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Jumping
+- Tags: jumping

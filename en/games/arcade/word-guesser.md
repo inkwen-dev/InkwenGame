@@ -21,4 +21,4 @@ Introducing Word Guesser, a thrilling word game that will put your vocabulary to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Guessing, Unity3D, WebGL, Word
+- Tags: Arcade, Guessing, Unity3D, WebGL, word

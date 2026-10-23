@@ -21,4 +21,4 @@ WASD 或 方向键 - 移动 鼠标 - 攻击 空格键 - 闪避 冲刺 传送 B -
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 冒险, 幻想, 格斗, 角色扮演, WebGL
+- 标签: 动作, 冒险, 幻想, 格斗, rpg, WebGL

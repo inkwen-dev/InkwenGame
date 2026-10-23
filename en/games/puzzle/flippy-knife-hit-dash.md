@@ -21,4 +21,4 @@ FLIPPY KNIFE - flip knives, toss axes and throw legendary swords! Become a maste
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Block, Bubble Shooter, Cartoon Network, Casual, Crazy, Knight, Maze, Pixel, Shoot, World
+- Tags: Action, Adventure, block, Bubble Shooter, Cartoon Network, Casual, crazy, knight, Maze, pixel, Shoot, World

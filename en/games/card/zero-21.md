@@ -15,6 +15,6 @@ Zero 21 challenges you to keep your total between 0 and 21 in a card game where 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Card
+- Tags: card

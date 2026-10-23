@@ -21,4 +21,4 @@ This dude is my best friend and he wants to catch and hug you too much. I think 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Adventure, amazing, Android, Arena, Crazy, Enemy, Escape, First Person Shooter, Ghost, Horror
+- Tags: 1 Player, 3D, 3D Games, Action, Adventure, amazing, Android, Arena, crazy, Enemy, Escape, First Person Shooter, Ghost, Horror

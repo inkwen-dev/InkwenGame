@@ -21,4 +21,4 @@ Fruits Match is a match-three game where you collect three matching tiles to cle
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Bejeweled, Block, Casual, Fruit, Fruits, Puzzle
+- Tags: 2D, Bejeweled, block, Casual, Fruit, Fruits, Puzzle

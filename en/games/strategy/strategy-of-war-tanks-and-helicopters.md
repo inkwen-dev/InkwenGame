@@ -21,4 +21,4 @@ War Strategy: Tanks and Helicopters is an engaging online strategy game where yo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Army, Mobile, Multiplayer, PvP, Strategy, Tanks, War
+- Tags: Army, Mobile, Multiplayer, PvP, strategy, tanks, War

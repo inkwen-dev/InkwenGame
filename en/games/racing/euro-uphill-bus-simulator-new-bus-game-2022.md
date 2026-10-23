@@ -21,4 +21,4 @@ Euro Uphill Bus Simulator : New Bus Game 2022 – Don’t Forget to Play the New
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: bus, Driving, HTML, HTML5, Parking, Simulation, Simulator
+- Tags: bus, Driving, HTML, HTML5, parking, Simulation, Simulator

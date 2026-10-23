@@ -19,6 +19,6 @@ Slice is a high addictive fruit cutting game! your aim to hit fruits with your q
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Classic, Fruit, Fruits, Match 3, Slicing

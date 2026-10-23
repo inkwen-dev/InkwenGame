@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 动物, 街机, 婴儿, 女孩, HTML5, 孩子, 移动
+- 标签: 2D, 动物, 街机, 婴儿, 女孩, HTML5, 儿童, 移动设备

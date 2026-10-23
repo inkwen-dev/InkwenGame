@@ -21,4 +21,4 @@ Home Hauler Simulator lets you drive heavy trucks and operate precision cranes t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, build, Driving, Truck, Unity3D, WebGL
+- Tags: Adventure, Arcade, build, Driving, truck, Unity3D, WebGL

@@ -19,6 +19,6 @@ ObbloxGun.io 3D FPS Shooter is a fast-paced online first-person shooter where bl
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 3D, Action, Battle, First Person Shooter, Shooter
+- Tags: .io, .io Games, 1 Player, 3D, Action, battle, First Person Shooter, Shooter

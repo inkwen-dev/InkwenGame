@@ -19,6 +19,6 @@ Get ready for the ultimate mashup of two legendary hits! Flappy 2048 combines th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2048, Air, Arcade, crazygamesunblocked, endless, flappybird, HTML5, unblockedgames66, unblockedgames76

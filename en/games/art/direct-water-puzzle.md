@@ -21,4 +21,4 @@ Direct Water game is a super fun puzzle game with lots of different levels . You
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Boys, Draw, Drawing, Girl, Girls, Puzzle
+- Tags: 1 Player, Boys, Draw, drawing, Girl, Girls, Puzzle

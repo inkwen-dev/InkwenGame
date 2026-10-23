@@ -19,6 +19,6 @@ Play the role of a buzzing mosquito and start a fun simulator. Flying through va
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: fly, Fun, Simulator

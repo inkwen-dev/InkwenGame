@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Arkanoid, 球体, 方块, 圣诞节, mapi 游戏, 圣诞老人, 圣诞老人
+- 标签: 阿克诺伊德, 球, 方块, 圣诞节, mapi games, 圣诞老人, 圣诞老人

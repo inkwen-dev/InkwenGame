@@ -21,4 +21,4 @@ The Game is a parking puzzle, you have so much cars infront of you at the parkin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Arcade, Boy, Brain, Casual, Family, Girl, Hypercasual, Interactive, Interactive Fiction, Kid, Parking, Puzzle, Relaxation, Winter
+- Tags: 3D, Action, Adventure, Arcade, Boy, Brain, Casual, Family, Girl, Hypercasual, Interactive, Interactive Fiction, Kid, parking, Puzzle, Relaxation, Winter

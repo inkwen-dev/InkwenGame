@@ -21,4 +21,4 @@ You own your very own Cake Shop! Take orders and make sure you get them right to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Cook, Girl, HTML5, Restaurant, Simulator, WebGL
+- Tags: 2D, Cook, Girl, HTML5, restaurant, Simulator, WebGL

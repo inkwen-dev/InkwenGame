@@ -21,4 +21,4 @@ Flip the gun and move forward to reach the goal! When you tap the screen, the gu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Battle, Gun, HTML5, Hypercasual, weapons
+- Tags: 3D, Action, battle, Gun, HTML5, Hypercasual, weapons

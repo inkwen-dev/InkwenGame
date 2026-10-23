@@ -21,4 +21,4 @@ You have to find three identical tiles with food to destroy them. The tiles are 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cake, Card, Logic, Mahjong, Puzzle, Summer
+- Tags: Cake, card, Logic, mahjong, Puzzle, Summer

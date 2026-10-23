@@ -21,4 +21,4 @@ Tripolygon is a game of rotating triangles in color to destroy the bars. There a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Hypercasual, Pixel, Tank, Tanks
+- Tags: Casual, Hypercasual, pixel, Tank, tanks

@@ -21,4 +21,4 @@ Welcome to one of the best free game combining music and fighting for your pleas
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Fight, Fighting, Punch, Street Fighting, Unity3D
+- Tags: 3D, 3D Games, Action, Fight, fighting, Punch, Street Fighting, Unity3D

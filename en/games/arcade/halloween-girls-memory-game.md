@@ -21,4 +21,4 @@ Halloween is coming! Play with Sweet Baby Girl and have the most adventurous and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Escape, Fun, Game, Girls, Halloween, Memory, Online, Puzzle, Quiz, Vampire
+- Tags: Arcade, Escape, Fun, Game, Girls, Halloween, memory, Online, Puzzle, Quiz, Vampire

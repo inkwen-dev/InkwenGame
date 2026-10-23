@@ -21,4 +21,4 @@ Win the race by clicking on the correct answer to speed up the motorcycle. Click
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, HTML5, Math, Mobile, Puzzle, Racing, School
+- Tags: educational, HTML5, math, Mobile, Puzzle, Racing, School

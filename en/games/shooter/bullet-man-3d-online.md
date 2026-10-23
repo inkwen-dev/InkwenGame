@@ -21,4 +21,4 @@ The position through which the bullet passes, leaving no room for evasion. Aim y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Boy, Game, Gun, Kid, Kids, Physics, Puzzle, Shoot, Stickman
+- Tags: 3D, 3D Games, Arcade, Boy, Game, Gun, Kid, Kids, Physics, Puzzle, Shoot, stickman

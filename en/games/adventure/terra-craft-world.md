@@ -21,4 +21,4 @@ Terra Craft World invites you to explore an open world where every decision shap
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Minecraft, Pixel
+- Tags: Adventure, Minecraft, pixel

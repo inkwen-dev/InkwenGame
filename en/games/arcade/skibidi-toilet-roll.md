@@ -21,4 +21,4 @@ The winter season is coming and Skibidi Toilet needs help to find all missing sw
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boys, HTML5, Mobile, Puzzle, Skibidi, Skibidi Toilet
+- Tags: Arcade, Boys, HTML5, Mobile, Puzzle, Skibidi, skibidi-toilet

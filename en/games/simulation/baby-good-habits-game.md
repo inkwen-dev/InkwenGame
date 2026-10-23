@@ -21,4 +21,4 @@ Baby Good Habits is an online Kids game, What good habits for your kids do you k
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Boys, Cooking, Cute, Educational, Girls, Kids
+- Tags: Baby, Boys, Cooking, Cute, educational, Girls, Kids

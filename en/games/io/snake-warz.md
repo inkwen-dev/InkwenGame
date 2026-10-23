@@ -21,4 +21,4 @@ Take control of your snake and feast to grow bigger and stronger. But watch out 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Snake
+- Tags: snake

@@ -19,6 +19,6 @@ You shouldn't have stolen that artifact! Now you have to run for your life in an
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: endless, Game, Games, HTML, HTML5, run, running, temple

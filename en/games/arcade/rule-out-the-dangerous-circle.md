@@ -21,4 +21,4 @@ Get ready to take on the challenge of Super Addictive Game rules! This is a game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Classic, Crazy, endless, Game, Games, Hypercasual, Puzzle
+- Tags: Android, Arcade, Classic, crazy, endless, Game, Games, Hypercasual, Puzzle

@@ -21,4 +21,4 @@ Funny Smiling Animals game is a free online game in the jigsaw puzzle genre. You
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Fun, Horse, HTML5, Jigsaw, Kids, Mobile, Puzzle
+- Tags: Animal, Fun, horse, HTML5, Jigsaw, Kids, Mobile, Puzzle

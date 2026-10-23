@@ -27,4 +27,4 @@ Start searching for hidden object and matching tile pairs - Match 3D is a perfec
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Kids, Mahjong, Puzzle
+- Tags: 3D, Kids, mahjong, Puzzle

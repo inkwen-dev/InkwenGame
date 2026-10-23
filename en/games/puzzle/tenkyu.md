@@ -19,6 +19,6 @@ Roll the ball through a 3D world to reach the goal! Carefully maneuver through s
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 2D, amazing, Best Games

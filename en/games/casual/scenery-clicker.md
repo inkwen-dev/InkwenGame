@@ -15,6 +15,6 @@ Immerse yourself in Scenery Clicker, where clicking transforms into an art. Bala
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Clicker

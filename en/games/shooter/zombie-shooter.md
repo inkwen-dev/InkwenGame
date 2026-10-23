@@ -21,4 +21,4 @@ Zombie Shooter – a super cool game in which you must kill all the zombies, dir
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Boys, Casual, HTML5, Hypercasual, Shooter, Sniper, Zombie
+- Tags: Arcade, Boy, Boys, Casual, HTML5, Hypercasual, Shooter, sniper, Zombie

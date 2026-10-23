@@ -19,6 +19,6 @@ Connect 4 is a HTML5 Logic Game. Drop your discs into the columns of the game gr
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Strategy, Turn, Turn Based
+- Tags: Board, strategy, Turn, Turn Based

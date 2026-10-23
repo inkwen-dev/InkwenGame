@@ -19,6 +19,6 @@ Ramp Car Stunts Racing - Free Car Games 2021 Enjoy the most addictive offline ga
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 3D, 3D Games, bus, Car, Cars, drift, drifting, Driving, Games, jump, Jumping, Online, Road, Stunts, Supercars, Truck, Unity3D
+- Tags: 2 Player Games, 3D, 3D Games, bus, Car, Cars, drift, drifting, Driving, Games, jump, jumping, Online, Road, Stunts, Supercars, truck, Unity3D

@@ -19,6 +19,6 @@ Color Pop Paint Game is a 3D addictive and one tap game. Ball Throw Paint Game s
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Ball, Brain, Color, Coloring, endless, Game, Games, Shoot, Shooting, Sniper
+- Tags: 3D, Adventure, Ball, Brain, Color, Coloring, endless, Game, Games, Shoot, Shooting, sniper

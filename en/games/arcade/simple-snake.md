@@ -21,4 +21,4 @@ Snake game is a classic arcade-style game where the player controls a growing sn
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Classic, Collecting, Highscore, Mobile, Snake
+- Tags: Classic, Collecting, Highscore, Mobile, snake

@@ -21,4 +21,4 @@ Jump high, hit hard, and rule the court in Volley Clash! Challenge the AI across
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 2026 games, amazing, Ball, Sport, Sports
+- Tags: 1 Player, 2 Player, 2 Player Games, 2026 games, amazing, Ball, Sport, sports

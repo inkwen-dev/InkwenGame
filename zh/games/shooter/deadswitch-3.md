@@ -21,4 +21,4 @@ Deadswitch 3 是一款快节奏的多人射击游戏，拥有众多游戏模式�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 2D, 动作, 战场, CSGO, 直升机, 多人, 平台, 射击类, 亡灵, WebGL, 僵尸
+- 标签: .io, .io 游戏, 2D, 动作, 战场, CSGO, 直升机, 多人, 平台, 射击类, 僵尸, WebGL, 僵尸

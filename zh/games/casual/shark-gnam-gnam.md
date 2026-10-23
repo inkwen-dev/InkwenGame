@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 婴儿, 家庭, Fish, HTML, HTML5, 果冻, 孩子, 儿童, 移动, 物理, 鲨鱼
+- 标签: 婴儿, 家庭, 鱼, HTML, HTML5, 果冻, 儿童, 儿童, 移动设备, 物理, 鲨鱼

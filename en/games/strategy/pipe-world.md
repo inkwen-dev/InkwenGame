@@ -21,4 +21,4 @@ Touch or click pipe to rotate the pipe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Best, Brain, Click, Game, Games, HTML, HTML5, Pipe, School, Skills, Strategy, Timing
+- Tags: 1 Player, 2D, Best, Brain, Click, Game, Games, HTML, HTML5, Pipe, School, Skills, strategy, Timing

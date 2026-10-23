@@ -21,4 +21,4 @@ Skibidi Toilet Attack is a thrilling and addictive casual online shooter game th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: kiz10, Platform, Shooter, Skibidi Toilet, survival
+- Tags: kiz10, Platform, Shooter, skibidi-toilet, survival

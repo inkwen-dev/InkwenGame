@@ -21,4 +21,4 @@ Guide Sophie around the puzzles and try to reach the exit while using special ti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Maze, Worm
+- Tags: Maze, worm

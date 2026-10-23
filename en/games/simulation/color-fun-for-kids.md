@@ -19,6 +19,6 @@ Embark on a vibrant journey with Color Fun For Kids! This delightful game offers
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Draw, Drawing, Family, HTML, HTML5, Kid, Kids, mapi games, Simulation
+- Tags: Color, Coloring, Draw, drawing, Family, HTML, HTML5, Kid, Kids, mapi games, Simulation

@@ -19,6 +19,6 @@ Use Mouse Or keyboard To Play
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Arcade, Fun, Halloween, HTML5, Memory, Online, Puzzle, Vampire, WebGL
+- Tags: .io Games, Arcade, Fun, Halloween, HTML5, memory, Online, Puzzle, Vampire, WebGL

@@ -19,6 +19,6 @@ It's time to start fighting again! Enter this game, collect more and more charac
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Brain, Collecting, Kids, Mobile, Platform

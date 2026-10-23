@@ -19,6 +19,6 @@ Slide the tiles and merge them to reach 2048 tile. Start with 2 and reach 16, 32
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Arcade, Block, Hypercasual, Puzzle
+- Tags: 1 Player, 3D Games, Arcade, block, Hypercasual, Puzzle

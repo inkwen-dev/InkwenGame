@@ -21,4 +21,4 @@ Squid Jump Challenge is a new jump game that focuses upon the practice of Squid 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Android, Arcade, Casual, Classic, Crazy, endless, Escape, Game, Games, HTML, HTML5, Hypercasual
+- Tags: 2D, Action, Android, Arcade, Casual, Classic, crazy, endless, Escape, Game, Games, HTML, HTML5, Hypercasual

@@ -19,6 +19,6 @@ This is a very popular game for players to enter the next level. Players in the 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Ball, Boy, Boys, Casual, Fun, Funny, Game, Games, Girl, Girls, H5, HTML5, Kid, Kids, Launch, Play, Road, run, Shoot, Shooting

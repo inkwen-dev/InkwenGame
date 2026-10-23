@@ -21,4 +21,4 @@ Immerse yourself in our brain games, each level waiting for your mahjong match s
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mahjong, Puzzle
+- Tags: mahjong, Puzzle

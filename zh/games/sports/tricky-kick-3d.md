@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 躲避, 高分, HTML5, 跳跃, 障碍, 学校, 体育
+- 标签: 躲避, 高分, HTML5, 跳跃, 障碍, 学校, 运动

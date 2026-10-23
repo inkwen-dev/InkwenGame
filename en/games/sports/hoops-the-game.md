@@ -21,4 +21,4 @@ HOOPS is a game in which you have to throw the ball from one basket to the other
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Point And Click, Sport
+- Tags: basketball, Point And Click, Sport

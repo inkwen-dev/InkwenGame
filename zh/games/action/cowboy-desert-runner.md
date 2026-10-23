@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 跑, 跑步, 僵尸
+- 标签: 跑, 奔跑, 僵尸

@@ -21,4 +21,4 @@ He never wanted to hurt anybody, but they came and the survival of the panda pop
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, jump, Jumping, Panda
+- Tags: 2D, Arcade, jump, jumping, Panda

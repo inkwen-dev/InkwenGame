@@ -19,6 +19,6 @@ Enter the action-packed battlefield in Gun Shooting Game and test your shooting 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D Games, Enemies, Fire, First Person Shooter, Gun, Hypercasual, Shooting

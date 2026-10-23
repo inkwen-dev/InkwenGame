@@ -15,6 +15,6 @@ Sink shot after shot in Basketball Challenge, where real physics create an authe
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Sports
+- Tags: sports

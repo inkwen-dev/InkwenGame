@@ -21,4 +21,4 @@ You are a predatory black hole in a city! You have to devour surrounding objects
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Battle, Best, Brain, city, Classic, Game, Games, Hypercasual, Play
+- Tags: 1 Player, 2D, Action, Adventure, battle, Best, Brain, city, Classic, Game, Games, Hypercasual, Play

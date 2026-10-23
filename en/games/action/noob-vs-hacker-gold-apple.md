@@ -21,4 +21,4 @@ In this adventure, we must eat the golden apple. By eating the golden apple, we 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Arcade, Battle, mineblock, Minecraft
+- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Arcade, battle, mineblock, Minecraft

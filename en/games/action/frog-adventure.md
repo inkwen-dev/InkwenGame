@@ -21,4 +21,4 @@ Leap, sneak, and strike as a pixel-art ninja frog in a fast-paced platformer adv
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, 2D, Adventure, Pixel, Platform, Retro
+- Tags: 1 Player, 2025 games, 2D, Adventure, pixel, Platform, retro

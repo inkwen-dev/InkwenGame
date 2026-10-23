@@ -21,4 +21,4 @@ Terrorist Attack is fun addictive shooting game.Terrorist have attack your city 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Battle, Kill, Shoot, Shooter, Shooting
+- Tags: Army, battle, Kill, Shoot, Shooter, Shooting

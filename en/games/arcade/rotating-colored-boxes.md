@@ -21,4 +21,4 @@ In this great addictive funny game the player must tap to flap and help the Boxe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Click, Flight, HTML5, Hypercasual, mapi games
+- Tags: Arcade, Click, flight, HTML5, Hypercasual, mapi games

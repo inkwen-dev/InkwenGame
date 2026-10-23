@@ -21,4 +21,4 @@ Welcome to the world of Magical Island where Alice has to find fairy to save her
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Collecting, Fantasy, jump, Jumping, Magic
+- Tags: 1 Player, 2D, Collecting, Fantasy, jump, jumping, Magic

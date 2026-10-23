@@ -15,6 +15,6 @@ Explore the vibrant world of Miss Tuna, where charming 2D visuals set the stage 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Arcade

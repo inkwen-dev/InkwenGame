@@ -21,4 +21,4 @@ This is a classic mahjong with turn based, 2 player mode and Egyptian theme. Whe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Battle, Board, HTML5, Mahjong, Matching, Mobile, Puzzle, Skill
+- Tags: 2 Player, battle, Board, HTML5, mahjong, Matching, Mobile, Puzzle, Skill

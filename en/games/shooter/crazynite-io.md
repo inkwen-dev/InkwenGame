@@ -21,4 +21,4 @@ Crazynite.io was inspired by popular new game Fortnite. Is a free unblocked onli
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Blood, Bomb, Crazy, Gun, House, Shoot, Shooter
+- Tags: battle, Blood, Bomb, crazy, Gun, House, Shoot, Shooter

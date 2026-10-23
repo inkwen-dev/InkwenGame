@@ -21,4 +21,4 @@ Welcome to Hoppy Rushy, a Pixel Platform Game! Tap or click to jump over platfor
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Highscore, Pixel, Platform
+- Tags: Highscore, pixel, Platform

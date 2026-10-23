@@ -19,6 +19,6 @@ The stick monkey is a popular HTML5 game. Hold your finger on screen to make the
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Casual, Hypercasual, jump, Jumping, Monkey, Stickman
+- Tags: Adventure, Arcade, Casual, Hypercasual, jump, jumping, Monkey, stickman

@@ -21,4 +21,4 @@ This game is a Christmas-themed painting, drawing, and coloring tool for kids. C
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Color, Coloring, Draw, Drawing, Educational, mapi games, Santa
+- Tags: Christmas, Color, Coloring, Draw, drawing, educational, mapi games, Santa

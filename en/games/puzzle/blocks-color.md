@@ -19,6 +19,6 @@ Three in a Row is already an outdated game. It is being replaced by a new casual
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, Brain, Classic
+- Tags: 1 Player, block, Brain, Classic

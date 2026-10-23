@@ -19,6 +19,6 @@ Zip Me Up Halloween is fun halloween game that you can play for free. Click on t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Click, Crazy, Fun, Funny, Halloween, HTML5, Hypercasual, Kid, Kids, Monster, Point And Click
+- Tags: Android, Arcade, Click, crazy, Fun, Funny, Halloween, HTML5, Hypercasual, Kid, Kids, monster, Point And Click

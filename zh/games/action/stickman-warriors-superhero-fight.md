@@ -21,4 +21,4 @@ Stickman Warriors 超级英雄战斗带来快速激烈的战斗，每一次闪�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 竞技场, 格斗, Stickman, 超级英雄
+- 标签: 竞技场, 格斗, 木偶人, 超级英雄

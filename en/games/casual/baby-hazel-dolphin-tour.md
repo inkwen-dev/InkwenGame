@@ -19,6 +19,6 @@ Baby Hazel and her family plan a dolphin tour to explore the delightful world of
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Hazel, Girls, Kids

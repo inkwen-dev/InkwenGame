@@ -21,4 +21,4 @@ Here is a strategy matching game that is made from 2D simple game art styles. Yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Brain, Matching, Mobile, Strategy, Unity3D
+- Tags: Arcade, Ball, Brain, Matching, Mobile, strategy, Unity3D

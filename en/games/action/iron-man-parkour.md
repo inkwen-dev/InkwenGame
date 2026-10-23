@@ -19,6 +19,6 @@ This is a strategy game with excellent playing methods. This game is launched in
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Boy, Boys, Casual, Collecting, Collection, Fight, Fighting, Fun, Funny, Game, Games, Girl, Girls, H5, HTML5, Hypercasual, jump, Jumping, Kid, Kids, Kill, Killing, Mobile, Road, run
+- Tags: 3D Games, Boy, Boys, Casual, Collecting, Collection, Fight, fighting, Fun, Funny, Game, Games, Girl, Girls, H5, HTML5, Hypercasual, jump, jumping, Kid, Kids, Kill, Killing, Mobile, Road, run

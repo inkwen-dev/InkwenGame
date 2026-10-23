@@ -19,6 +19,6 @@ Tap Blocks Away is a casual puzzle game that boasts simple gameplay and high rep
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Boy, Brain, Fun, Hot, HTML, HTML5, Kid, Mobile, Online, Puzzle
+- Tags: block, Boy, Brain, Fun, Hot, HTML, HTML5, Kid, Mobile, Online, Puzzle

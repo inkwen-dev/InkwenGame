@@ -19,6 +19,6 @@ This mobile game labeled Ben10 Challenge Stinkfly's Showtime! is genuinely fun g
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Anime, Ben 10, Boys, Cartoon, Cartoon Network, Girls

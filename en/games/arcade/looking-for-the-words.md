@@ -21,4 +21,4 @@ Swipe the selected letters horizontally or vertically to form a word If the sele
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Game, HTML5, Online, Word
+- Tags: 1 Player, Arcade, Game, HTML5, Online, word

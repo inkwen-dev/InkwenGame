@@ -21,4 +21,4 @@ A fun and very simple jump game about Angry Birds. Choose a bird and get as high
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bird, jump, Jumping
+- Tags: Arcade, Bird, jump, jumping

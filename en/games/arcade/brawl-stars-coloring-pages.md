@@ -21,4 +21,4 @@ Welcome to the world of Brawl Stars Coloring Pages. Our game is perfect for fans
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boys, Color, Coloring, Drawing, Easter, Girls, Kids, Puzzle
+- Tags: Arcade, Boys, Color, Coloring, drawing, Easter, Girls, Kids, Puzzle

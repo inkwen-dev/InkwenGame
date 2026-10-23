@@ -19,6 +19,6 @@ Join Wolfoo and Lucy in Wolfoo 2048 &mdash; a fun drop-and-merge number puzzle f
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Kid, Logic, Number

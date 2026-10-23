@@ -19,6 +19,6 @@ Obunga Nextbot Find Difference is a puzzle game about find five difference. From
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Detective, Difference, Drawing, Educational, endless, Halloween
+- Tags: Detective, Difference, drawing, educational, endless, Halloween

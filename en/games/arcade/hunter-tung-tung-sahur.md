@@ -19,6 +19,6 @@ The Tung Tung Sahur monsters are coming! Grab your weapon and shoot them all qui
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, attack, Gun, Tung Tung, Tung Tung Tung Sahur

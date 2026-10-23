@@ -19,6 +19,6 @@ Do you love free block puzzle games? If you are here, then you love them! This p
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Brain, Bricks, HTML5, Logic, Puzzle
+- Tags: block, Brain, Bricks, HTML5, Logic, Puzzle

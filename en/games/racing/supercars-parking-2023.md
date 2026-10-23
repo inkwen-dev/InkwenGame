@@ -21,4 +21,4 @@ With the help of offline 3D auto-driving games, you can get your parking career 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Car, Cars, Driving, HTML5, Mobile, Parking, Supercars
+- Tags: Android, Car, Cars, Driving, HTML5, Mobile, parking, Supercars

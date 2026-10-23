@@ -21,4 +21,4 @@ Enjoy a hilarious and brain-twisting adventure in Thief Stick Puzzle: Man Escape
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, Funny, Stickman, survival
+- Tags: Escape, Funny, stickman, survival

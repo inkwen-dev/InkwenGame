@@ -19,6 +19,6 @@ Girls, are you ready to play the best nail salon game in the world? Its time to 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fashion, Fun, Girls, HTML5, Jewel, Kids, Makeover, Mobile, Nails

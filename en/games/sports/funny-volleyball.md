@@ -21,4 +21,4 @@ This is a light and dynamic sports arcade game about volleyball. Control your ch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Ball, Baseball, Basketball, Best Games, Casual, Football, Fun, Hypercasual, Mobile, Timing
+- Tags: 1 Player, 3D, 3D Games, Action, Ball, baseball, basketball, Best Games, Casual, Football, Fun, Hypercasual, Mobile, Timing

@@ -21,4 +21,4 @@ Play Classic TriPeaks or 100 different Tripeaks levels. Remove all cards from th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Classic, Logic, Puzzle, Solitaire
+- Tags: card, Classic, Logic, Puzzle, solitaire

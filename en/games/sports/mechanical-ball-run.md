@@ -19,6 +19,6 @@ It's cool for players to download all kinds of ball adventure. It's cool for pla
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Google, H5, jump, Monster, Road, run, running, Slither
+- Tags: Action, Google, H5, jump, monster, Road, run, running, Slither

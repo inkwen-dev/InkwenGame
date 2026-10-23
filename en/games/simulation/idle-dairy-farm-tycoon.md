@@ -15,6 +15,6 @@ Build a thriving dairy empire from scratch! Raise cows, process and deliver milk
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: farming

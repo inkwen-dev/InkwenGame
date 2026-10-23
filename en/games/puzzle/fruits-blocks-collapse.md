@@ -21,4 +21,4 @@ Collect all the fruit slices by clicking or touching them in groups. If you coll
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Collecting, Fruits, HTML5, Matching, Mobile
+- Tags: block, Collecting, Fruits, HTML5, Matching, Mobile

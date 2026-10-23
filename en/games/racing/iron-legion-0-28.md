@@ -19,6 +19,6 @@ Iron Legion Dive into epic tank battles of the modern era! Iron Legion is an exc
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Battle, destroy, Driving, military, PvP, Shooter, Tanks, War
+- Tags: 3D, Action, battle, destroy, Driving, military, PvP, Shooter, tanks, War

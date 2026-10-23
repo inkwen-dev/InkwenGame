@@ -19,6 +19,6 @@ Stack Ball Helix is a 3d arcade game where players smash, bump and bounce throug
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, jump, Jumping, Stack, WebGL
+- Tags: 3D, 3D Games, jump, jumping, Stack, WebGL

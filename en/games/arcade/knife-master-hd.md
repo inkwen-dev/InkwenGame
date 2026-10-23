@@ -19,6 +19,6 @@ Harvest time has come for the knife master. Use all your skill and hit as many f
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Casual, Hypercasual

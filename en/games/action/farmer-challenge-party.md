@@ -21,4 +21,4 @@ The challenge between the farmers is beginning with the Farmer Challenge Party g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Farm, HTML5, Pixel, Retro
+- Tags: 2 Player, 2 Player Games, Farm, HTML5, pixel, retro

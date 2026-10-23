@@ -19,6 +19,6 @@ In GemFit Frenzy dive into a jewel-fitting challenge on a 7x7 grid. Test your ag
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Jewel, Matching

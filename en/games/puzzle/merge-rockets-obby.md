@@ -34,4 +34,4 @@ Destroy buildings, sink ships, and turn the entire city into a massive rocket ba
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, merge, Multiplayer, obby, Strategy
+- Tags: 3D, merge, Multiplayer, obby, strategy

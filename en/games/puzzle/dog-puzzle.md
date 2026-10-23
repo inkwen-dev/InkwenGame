@@ -15,6 +15,6 @@ Revel in the delightful world of Dog Puzzle, where kids can sharpen their proble
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Brain

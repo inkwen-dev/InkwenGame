@@ -21,4 +21,4 @@ Shape Shift Run game is an interesting online game that uses fingers to control 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Block, Boy, Brain, Bricks, Fun, HTML5, Kids, Matching, Online, Puzzle, run
+- Tags: 3D, Android, block, Boy, Brain, Bricks, Fun, HTML5, Kids, Matching, Online, Puzzle, run

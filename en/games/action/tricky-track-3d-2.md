@@ -15,6 +15,6 @@ Race through a stunning 3D world in Tricky Track 3D 2, where precision and timin
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: runner

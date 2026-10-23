@@ -19,6 +19,6 @@ That’s right, the internationally handsome - I mean, famous - Chef Alex chose 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Burger, Cake, Candy, Cook, Cooking, Fish, Food, Games, Restaurant, Simulation, Word
+- Tags: Burger, Cake, Candy, Cook, Cooking, Fish, Food, Games, restaurant, Simulation, word

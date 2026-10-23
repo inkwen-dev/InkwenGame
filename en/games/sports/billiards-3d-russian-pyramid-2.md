@@ -15,6 +15,6 @@ Step into the world of billiards with Billiards 3D Russian Pyramid, where you co
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Pool
+- Tags: pool

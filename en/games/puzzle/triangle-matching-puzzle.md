@@ -21,4 +21,4 @@ Are you ready to solve block puzzle games with rainbow triangles?Arrange shapes 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Design, Matching, Puzzle
+- Tags: block, Design, Matching, Puzzle

@@ -21,4 +21,4 @@ Skibidi is a great goalkeeper in soccer training! Use your finger to slide goalk
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, HTML5, Mobile, Skibidi, Skibidi Toilet, Soccer, Sport
+- Tags: Arcade, Casual, HTML5, Mobile, Skibidi, skibidi-toilet, Soccer, Sport

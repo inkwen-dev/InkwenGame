@@ -21,4 +21,4 @@ World of Alice - Shapes of Musical Instruments World of Alice - Shapes of Musica
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Cartoon, Cute, Educational, free games for your site, free games for your website, free html5 games for your website, HTML, html games for your website, html5 games, html5 games for your site, Kids, Music, School
+- Tags: Best Games, Cartoon, Cute, educational, free games for your site, free games for your website, free html5 games for your website, HTML, html games for your website, html5 games, html5 games for your site, Kids, music, School

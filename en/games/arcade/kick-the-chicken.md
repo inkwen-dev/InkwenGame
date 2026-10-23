@@ -21,4 +21,4 @@ This helpless little hen will need your help to get as much momentum as possible
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arcade, Chicken, endless, Flight, fly, Highscore, html games for your website, kiz10
+- Tags: 2D, Adventure, Arcade, Chicken, endless, flight, fly, Highscore, html games for your website, kiz10

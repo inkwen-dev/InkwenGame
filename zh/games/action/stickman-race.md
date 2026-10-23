@@ -21,4 +21,4 @@ Stickman 赛跑 3D 是一款全新的 3D 赛车游戏，拥有对手 Stickman �
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 休闲, 游戏, 超休闲, 跳跃, 跳跃, 跑, 跑步, Stickman
+- 标签: 3D, 休闲, 游戏, 超休闲, 跳跃, 跳跃, 跑, 奔跑, 木偶人

@@ -19,6 +19,6 @@ The aim is to simply find all the hidden words. The words on each level are rela
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Educational, Game, Guessing, Hidden, HTML, HTML5, Logic, Logical, Puzzle, Skill, Skills, Word
+- Tags: Brain, Casual, educational, Game, Guessing, Hidden, HTML, HTML5, Logic, Logical, Puzzle, Skill, Skills, word

@@ -15,6 +15,6 @@ Embark on a vibrant journey in Paint Path where you guide a painter block to fil
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: hyper-casual

@@ -19,6 +19,6 @@ Squid Game: Coloring Book" is a new exciting game with a lot of images of variou
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Arcade, Color, Coloring, Puzzle

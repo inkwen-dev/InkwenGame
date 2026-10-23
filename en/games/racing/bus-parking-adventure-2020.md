@@ -21,4 +21,4 @@ Bus Parking Adventure 2020 is a game for all those who are crazy for bus driving
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, bus, Driving, Parking
+- Tags: Adventure, bus, Driving, parking

@@ -21,4 +21,4 @@ how to combine delicious ingredients into your favorite sandwich? In this simple
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Boys, Chicken, Cook, Cooking, Cool, Fun, Funny, Girls, Launch
+- Tags: Adventure, Boys, Chicken, Cook, Cooking, cool, Fun, Funny, Girls, Launch

@@ -21,4 +21,4 @@ Eggstreme Eggscape is an arcade game where you play as an egg that needs to esca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Collecting, jump, Jumping, Mouse, onetouch, OnlyUp, Retro, Skill, touch, touchscreen
+- Tags: 1 Player, 2D, Arcade, Collecting, jump, jumping, Mouse, onetouch, OnlyUp, retro, Skill, touch, touchscreen

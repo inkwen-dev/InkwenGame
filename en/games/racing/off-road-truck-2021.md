@@ -19,6 +19,6 @@ Hello Offroaders! The new open world off-road driving simulator is here! It's ti
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 3D, Action, Adventure, Arcade, Brain, Car, Cars, Cartoon Network, Mobile, Race, Racing, Simulation, Stunts, Super, Supercars, Unity3D

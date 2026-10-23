@@ -21,4 +21,4 @@ Flappy Bird Runner 是一款有趣且令人兴奋的街机游戏。今天就来�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 小鸟, 收集, 合集, 游戏, 游戏, HTML5
+- 标签: 街机, 小鸟, 收集, 收藏, 游戏, 网页游戏, HTML5

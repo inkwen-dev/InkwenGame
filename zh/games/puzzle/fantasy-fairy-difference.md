@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 差异, 有趣, kids, 拼图, 技巧
+- 标签: 找不同, 有趣, 儿童, 益智, 技巧

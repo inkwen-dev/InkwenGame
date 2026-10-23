@@ -19,6 +19,6 @@ Tommy got into trouble! Our hero is behind bars. But he&rsquo;s not going to sta
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Escape, HTML, html5 games for your site, Jumping, kiz10, Levels, Maze, Platform, Prison, running
+- Tags: 1 Player, Adventure, Escape, HTML, html5 games for your site, jumping, kiz10, Levels, Maze, Platform, Prison, running

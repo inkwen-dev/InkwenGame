@@ -21,4 +21,4 @@ Barbershop-Inc-Online is a delightful idle game where you can experience the exc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Clicker, Girl, Management, Simulation, Strategy
+- Tags: 3D, Clicker, Girl, management, Simulation, strategy

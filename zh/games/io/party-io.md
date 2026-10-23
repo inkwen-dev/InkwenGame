@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 3D, 3D游戏, 动作, 战斗, 格斗, 有趣, 搞笑, 孩子, 儿童, Unity3D
+- 标签: .io, .io 游戏, 3D, 3D游戏, 动作, 格斗, 格斗, 有趣, 搞笑, 儿童, 儿童, Unity3D

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 动作, 男孩们, 战斗, 格斗, HTML, HTML5
+- 标签: 3D游戏, 动作, 男孩们, 格斗, 格斗, HTML, HTML5

@@ -21,4 +21,4 @@ In the pal world, there are creatures known as pals, and its your mission to cat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cute, hunter, Hunting, Monster, Pokemon
+- Tags: Cute, hunter, hunting, monster, Pokemon

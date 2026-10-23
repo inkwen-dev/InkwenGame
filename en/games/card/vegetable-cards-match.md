@@ -21,4 +21,4 @@ Click or touch the vegetable card to open it. Watch and memorize the vegetable o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Clicker, Farm, Fun, HTML5, Kids, Matching, Memory, Mobile, Puzzle
+- Tags: card, Clicker, Farm, Fun, HTML5, Kids, Matching, memory, Mobile, Puzzle

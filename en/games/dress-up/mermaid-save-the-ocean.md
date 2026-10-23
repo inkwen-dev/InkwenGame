@@ -21,4 +21,4 @@ Marine pollution has always been a big troublesome problem. Our lovely mermaid p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cleaning, Doctor, Dress Up, Girl, Girls, Kids, Makeover, Simulation, Surgery
+- Tags: Cleaning, Doctor, Dress Up, Girl, Girls, Kids, Makeover, Simulation, surgery

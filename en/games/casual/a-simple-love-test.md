@@ -19,6 +19,6 @@ Are you curious about the love between you and a friend? Now it's simple to find
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Girl, Girls, Love

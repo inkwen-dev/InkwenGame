@@ -15,6 +15,6 @@ Guide a brave lady in Pin Puzzle Escape as you cleverly pull pins to unlock safe
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Puzzle

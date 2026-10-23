@@ -21,4 +21,4 @@ Get Ready for the Ultimate Color-Sorting Adventure! Body Welcome to Sand Jam: Tr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2026 games, monstertruck, sort, sorting, Truck, trucks
+- Tags: .io, .io Games, 1 Player, 2026 games, monstertruck, sort, sorting, truck, trucks

@@ -21,4 +21,4 @@ Puzzle game has never been so fun and exciting. Each level will be a new challen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Draw, Drawing, Puzzle
+- Tags: Draw, drawing, Puzzle

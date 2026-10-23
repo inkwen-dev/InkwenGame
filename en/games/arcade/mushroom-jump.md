@@ -21,4 +21,4 @@ Super World Run is the best classic adventure game for your Android and it has g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Arcade, jump, Jumping, Mario
+- Tags: 1 Player, Adventure, Arcade, jump, jumping, mario

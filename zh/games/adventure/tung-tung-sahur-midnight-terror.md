@@ -21,4 +21,4 @@ WASD - 移动 Shift - 快跑 空格键 - 拾取物品
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 老奶奶, 恐怖, 潜行, 生存
+- 标签: granny, 恐怖, 潜行, 生存

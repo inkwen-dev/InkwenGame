@@ -21,4 +21,4 @@ Baby hippos like to eat sweets, but they hate brushing their teeth. Today his te
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Baby, Doctor, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Surgery
+- Tags: 2D, Baby, Doctor, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids, surgery

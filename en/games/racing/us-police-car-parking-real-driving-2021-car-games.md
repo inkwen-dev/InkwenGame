@@ -21,4 +21,4 @@ Police Car Parking is a fun driving game in which you must control your very own
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, bus, Car, Fun, Parking, Police, Race
+- Tags: 1 Player, bus, Car, Fun, parking, police, Race

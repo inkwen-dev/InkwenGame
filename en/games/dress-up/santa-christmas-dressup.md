@@ -19,6 +19,6 @@ Santa Claus is preparing for the new year. He's going to give New Year's gifts. 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Cartoon, Christmas, Dress Up, Fashion, Fun, Game, Girls, HTML5, Winter

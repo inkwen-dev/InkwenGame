@@ -15,6 +15,6 @@ Leap into an addictive arcade adventure with Jump Monster. Strategically time yo
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Monster
+- Tags: monster

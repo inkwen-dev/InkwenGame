@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩, 卡通, 装饰, 装扮, 时尚, 游戏, 女孩, 女孩, HTML5, 怪物
+- 标签: 男孩, 卡通, 装饰, 装扮, 时尚, 游戏, 女孩, 女孩, HTML5, monster

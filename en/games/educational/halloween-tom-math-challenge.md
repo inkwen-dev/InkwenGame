@@ -21,4 +21,4 @@ Halloween Tom Math Challenge is a super fun and completely free math game that l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Brain, Educational, Girls, Hypercasual, Kids, Logic, Math, School, Skill
+- Tags: Boys, Brain, educational, Girls, Hypercasual, Kids, Logic, math, School, Skill

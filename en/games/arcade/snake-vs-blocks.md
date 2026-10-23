@@ -21,4 +21,4 @@ Use your finger to guide a snake made of balls and destroy the bricks. Try to de
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, HTML5, Snake
+- Tags: Arcade, block, HTML5, snake

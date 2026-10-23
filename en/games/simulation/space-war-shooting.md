@@ -21,4 +21,4 @@ Galaxy Shooter-Space War Shooting Games Start your fighter engines and join to t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Air, Aircraft, Boys, Fight, Fighting, Girls, Kids, Shoot, Shooter, Shooting, Simulator, Space, Spaceship
+- Tags: Air, Aircraft, Boys, Fight, fighting, Girls, Kids, Shoot, Shooter, Shooting, Simulator, Space, Spaceship

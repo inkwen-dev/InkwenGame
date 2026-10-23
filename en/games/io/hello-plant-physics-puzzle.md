@@ -19,6 +19,6 @@ Hello Plant Features; Happy Game - Draw Lines Game Physics Puzzles More than 200
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2D, Draw, Drawing, Puzzle
+- Tags: .io Games, 1 Player, 2D, Draw, drawing, Puzzle

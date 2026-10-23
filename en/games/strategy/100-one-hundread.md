@@ -19,6 +19,6 @@ Your multiple hobbies include numbers, alchemy and exterminating small and innoc
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Logic, Number, Puzzle, Strategy
+- Tags: Brain, Casual, Logic, Number, Puzzle, strategy

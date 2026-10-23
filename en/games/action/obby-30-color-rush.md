@@ -19,6 +19,6 @@ Are you ready to go from beginner to master? Obby 30: Color Rush is a classic 3D
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Avoid, Casual, Hypercasual, Jumping, Minecraft, Obstacle, Platform, roblox
+- Tags: 3D, 3D Games, Arcade, Avoid, Casual, Hypercasual, jumping, Minecraft, Obstacle, Platform, roblox

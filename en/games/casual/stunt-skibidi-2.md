@@ -15,6 +15,6 @@ Stunt Skibidi lets you soar as a daring stunt pilot, maneuvering through hoops a
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Fun

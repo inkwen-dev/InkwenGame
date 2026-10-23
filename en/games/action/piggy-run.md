@@ -19,6 +19,6 @@ This game with the wonderful piglet called Piggy Run. The task in this game is w
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, HTML5, jump, Kids, Mobile, Platform, Puzzle, Skill

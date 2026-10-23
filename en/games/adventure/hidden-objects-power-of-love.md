@@ -15,6 +15,6 @@ Embark on a captivating quest with Mary in Hidden Objects - Power of Love, where
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

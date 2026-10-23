@@ -21,4 +21,4 @@ Christmas game for orientation and memory development for children and adults. T
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Card, Christmas, Clicker, Hot, Matching, Memory, Puzzle
+- Tags: Best, card, Christmas, Clicker, Hot, Matching, memory, Puzzle

@@ -19,6 +19,6 @@ Tap Tap Dodge is a stimulating test reaction puzzle game. You need to react quic
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Avoid, Collecting, Highscore, Kid, Kids, Obstacle, Puzzle, Skill

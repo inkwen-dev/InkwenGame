@@ -21,4 +21,4 @@ Playing as a small child named Skibidi, youll engage in nonstop platforming acti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Classic, Click, Clicker, Game, HTML, HTML5, jump, Jumping, Online, Skibidi, Skibidi Toilet
+- Tags: Classic, Click, Clicker, Game, HTML, HTML5, jump, jumping, Online, Skibidi, skibidi-toilet

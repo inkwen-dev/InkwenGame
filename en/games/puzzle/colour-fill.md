@@ -21,4 +21,4 @@ Your newest addiction comes in 3D! Very easy to play, too hard to master Do not 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, 8 Ball Pool, Adventure, Arcade, Baby, Barbie, Boy, Boys, Bubble, Bubble Shooter, Candy, Color, Coloring, Design, Game, Games, Girl, Girls, Mario, Princess, Punch, Puzzle
+- Tags: 3D Games, 8 Ball Pool, Adventure, Arcade, Baby, Barbie, Boy, Boys, Bubble, Bubble Shooter, Candy, Color, Coloring, Design, Game, Games, Girl, Girls, mario, Princess, Punch, Puzzle

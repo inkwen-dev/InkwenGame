@@ -19,6 +19,6 @@ Space Combat is a fun spacecraft simulation game in which the player can fight A
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Space, Spaceship, Unity3D, weapons, WebGL

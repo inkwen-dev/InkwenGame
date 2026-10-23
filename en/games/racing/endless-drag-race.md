@@ -19,6 +19,6 @@ Top Speed Drag Race: Fast Car Racing Game 3D 2020 Best Drag Racing Game. Perfect
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Car, Cars, drift, drifting, Driving, Games, Race, Racing, Supercars

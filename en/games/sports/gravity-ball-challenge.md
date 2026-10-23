@@ -21,4 +21,4 @@ Embark on an exciting journey with Gravity Ball Adventures, a 2D physics-based p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Avoid, Basketball, Puzzle
+- Tags: 1 Player, 2D, Avoid, basketball, Puzzle

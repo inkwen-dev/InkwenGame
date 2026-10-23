@@ -19,6 +19,6 @@ Rotate the versatile cube to collect the balls of the correct color. The game is
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Fun, Game, HTML5, Hypercasual, Kids

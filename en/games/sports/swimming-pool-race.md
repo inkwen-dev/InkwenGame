@@ -21,4 +21,4 @@ Welcome to water sports swimming tournament! Are you going to win? Practice wate
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Game, Games, Race, Sports
+- Tags: Game, Games, Race, sports

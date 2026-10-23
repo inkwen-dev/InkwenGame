@@ -19,6 +19,6 @@ Mini run race : Simple and addicting gameplay that will have you running ◉ Man
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Funny, Games, Highscore, Hypercasual, jump, Racing

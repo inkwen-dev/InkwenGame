@@ -19,6 +19,6 @@ Help Mush Mush run through the forest in this fun platform game for young kids. 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Animal, Anime, Avoid, Collecting, Collection, jump, Jumping, Kid, Kids, Platform, run, running, subway, Subway Surfers
+- Tags: Action, Adventure, Animal, Anime, Avoid, Collecting, Collection, jump, jumping, Kid, Kids, Platform, run, running, subway, Subway Surfers

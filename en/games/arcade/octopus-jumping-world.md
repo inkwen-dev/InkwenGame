@@ -19,6 +19,6 @@ Get ready to climb in Hook Jump Up! Use your grappling hook to latch onto blocks
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, jump, Mentolatux, octopus, unity, WebGL

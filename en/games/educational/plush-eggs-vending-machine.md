@@ -21,4 +21,4 @@ Do you like to collect mega super cute surprises plush or toys like Skibidi, Pop
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: digital circus, Educational, Fall Guys, Family, free games for your website, Grimace, Grimace Shake, HTML, HTML5, huggy, Machine, Mobile, Pomni, Skibidi
+- Tags: digital circus, educational, Fall Guys, Family, free games for your website, Grimace, Grimace Shake, HTML, HTML5, huggy, Machine, Mobile, Pomni, Skibidi

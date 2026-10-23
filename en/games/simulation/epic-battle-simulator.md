@@ -27,4 +27,4 @@ Join the fight and become the ultimate commander!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Army, Boys, Strategy, War
+- Tags: Action, Army, Boys, strategy, War

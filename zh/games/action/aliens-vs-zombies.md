@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 外星人, 男孩们, 格鬥, 女生, HTML5, 逻辑, 机器人, 策略, 战争, WebGL, 僵尸
+- 标签: 2D, 外星人, 男孩们, 格斗, 女孩, HTML5, 逻辑, 机器人, 策略, 战争, WebGL, 僵尸

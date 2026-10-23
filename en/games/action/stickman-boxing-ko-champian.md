@@ -21,4 +21,4 @@ You like boxing games and stickman games? This game is made for you! Enter the r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Arcade, Boxing, Fight, Fighting, HTML, HTML5, Stickman
+- Tags: 3D, Action, Arcade, Boxing, Fight, fighting, HTML, HTML5, stickman

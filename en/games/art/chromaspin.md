@@ -19,6 +19,6 @@ CHROMASPIN &mdash; an arcade experience where color matching meets speed and ref
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arena, Casual, Color, Coloring, Fun, Funny, Geometry, Hypercasual, spin-wheel

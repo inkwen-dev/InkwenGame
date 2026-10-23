@@ -19,6 +19,6 @@ Play the best summer holiday games for girls and boys! Spend your summer at the 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cleaning, Cooking, Decorate, Decoration, Fun, Girls, Grooming, HTML5, Kids, Mobile, Summer

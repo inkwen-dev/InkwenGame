@@ -15,6 +15,6 @@ Jumpy Noob is a thrilling arcade adventure where quick reflexes and precise jump
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Arcade

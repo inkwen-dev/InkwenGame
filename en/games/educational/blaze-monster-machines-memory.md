@@ -19,6 +19,6 @@ Blaze Monster Machines Memory is an educational and kids memory game. It is time
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Educational, Fun, HTML5, Kids, Memory, Mobile, Skill, Truck
+- Tags: Cartoon, educational, Fun, HTML5, Kids, memory, Mobile, Skill, truck

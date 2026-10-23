@@ -21,4 +21,4 @@ Join Troll on his wacky quest to solve all the trickiest riddles ever! His meme 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Obstacle, Puzzle, Strategy
+- Tags: Brain, Obstacle, Puzzle, strategy

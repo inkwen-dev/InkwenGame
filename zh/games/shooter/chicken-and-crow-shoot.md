@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 男孩, 农场, HTML5, 投篮, 射击类, WebGL
+- 标签: 3D, 男孩, 农场, HTML5, 射击, 射击类, WebGL

@@ -15,6 +15,6 @@ Embark on a thrilling quest in Raka vs Kaka 2, navigating treacherous platforms 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

@@ -19,6 +19,6 @@ Word Connect is an exciting puzzle game! Focus on finding all the hidden words i
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boys, Brain, Educational, Fun, Kid, Matching, Mobile, Puzzle, Word
+- Tags: Android, Boys, Brain, educational, Fun, Kid, Matching, Mobile, Puzzle, word

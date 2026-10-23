@@ -19,6 +19,6 @@ The Last Ruin est un jeu de plate-forme et d'aventure en pixel art qui raconte l
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Boys, Girl, jump, Jumping, Spiderman, Superhero
+- Tags: Action, Adventure, Boys, Girl, jump, jumping, Spiderman, Superhero

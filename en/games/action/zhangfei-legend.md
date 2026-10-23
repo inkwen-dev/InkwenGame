@@ -19,6 +19,6 @@ An H5 action game featuring Zhang Fei, a renowned general from the Three Kingdom
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Battle
+- Tags: 1 Player, Action, battle

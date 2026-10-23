@@ -19,6 +19,6 @@ Love cooking games ? Then join the top chef Emily, on her cooking adventure and 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Cook, Cooking, Game, Games, HTML5, Restaurant
+- Tags: .io Games, Cook, Cooking, Game, Games, HTML5, restaurant

@@ -19,6 +19,6 @@ Crazy Jokers kidnapped some people along with your Best Friend. What you have to
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, Arcade, Collecting, Collection, Highscore, Hypercasual, Multiplayer, run, running

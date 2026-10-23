@@ -21,4 +21,4 @@ Mob Control Shoot is an exciting arcade shooter where you can have endless shoot
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fight, Funny
+- Tags: battle, Fight, Funny

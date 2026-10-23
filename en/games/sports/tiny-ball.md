@@ -21,4 +21,4 @@ Tiny Balls is a really addictive Shooting Game! Your goal is to reach the star w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Ballon, Baseball, Basketball, Boys, Family, Girls, Kids, Physics, Puzzle, Shoot, Shooting
+- Tags: Ball, Ballon, baseball, basketball, Boys, Family, Girls, Kids, Physics, Puzzle, Shoot, Shooting

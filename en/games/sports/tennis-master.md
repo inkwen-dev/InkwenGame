@@ -21,4 +21,4 @@ Become a tennis master and show all your competitor talents to beat your opponen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Sports, Tennis
+- Tags: sports, Tennis

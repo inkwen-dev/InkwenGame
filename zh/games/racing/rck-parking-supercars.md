@@ -21,4 +21,4 @@ Tab - 菜单 空格键 - 刹车 WASD - 驾驶 G - 重置车辆
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 最佳, 汽车, 汽车, 停车, 竞速, 赛车, 超级跑车, Unity3D, WebGL
+- 标签: 最佳, 汽车, 汽车, 停车, 比赛, 竞速, 超跑, Unity3D, WebGL

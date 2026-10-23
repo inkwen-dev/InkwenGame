@@ -19,6 +19,6 @@ Complete levels and do parkour tricks in Stickman Bunny Hop Tricks. Jump over ob
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Block, Craft, Crafting, Crazy, Fight, Fighting, Fun, Funny, Ice, Mine, Minecraft, Miner, Red, run, running, Stickman
+- Tags: 1 Player, 2D, Action, Adventure, block, Craft, Crafting, crazy, Fight, fighting, Fun, Funny, Ice, Mine, Minecraft, Miner, Red, run, running, stickman

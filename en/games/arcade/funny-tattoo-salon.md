@@ -21,4 +21,4 @@ Touch the screen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Drawing, Mobile
+- Tags: 1 Player, drawing, Mobile

@@ -19,6 +19,6 @@ Less than a month is left before the New Year holidays, and everyone is looking 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Cartoon, Cartoon Network, Christmas, Disney, Highscore, HTML, HTML5, Hypercasual, Jigsaw, jump, Jumping, Kid, Kids
+- Tags: Action, Adventure, Cartoon, Cartoon Network, Christmas, Disney, Highscore, HTML, HTML5, Hypercasual, Jigsaw, jump, jumping, Kid, Kids

@@ -19,6 +19,6 @@ Click on a group of 2 or more Oddbods to make them disappear. Get more in the gr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Hot, Kid, Kids, Match 3, Puzzle

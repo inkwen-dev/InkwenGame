@@ -21,4 +21,4 @@ Challenge your opponents in Head Ball 2, the most competitive game ever created.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Football, Sport, Sports
+- Tags: 2 Player, 2 Player Games, Football, Sport, sports

@@ -21,4 +21,4 @@ WASD - 移动 空格键 - 跳跃 C - 蹲下 右键 - 瞄准 Tab - 得分表
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 多人游戏, 射击, 射击
+- 标签: 多人, 射击类, 射击

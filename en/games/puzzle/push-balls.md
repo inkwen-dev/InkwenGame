@@ -21,4 +21,4 @@ Push Balls is actually a ball puzzle game with 3D blocks and platforms. There ar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Brain, Cool, HTML5, Logic, Logical, WebGL
+- Tags: 3D, Brain, cool, HTML5, Logic, Logical, WebGL

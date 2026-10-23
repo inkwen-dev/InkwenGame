@@ -21,4 +21,4 @@ Great pizza that you can cook including: - classic pizza - cookie dough ice crea
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Chicken, Cook, Cooking, Cool, Family, Food, Kid, Kids
+- Tags: Chicken, Cook, Cooking, cool, Family, Food, Kid, Kids

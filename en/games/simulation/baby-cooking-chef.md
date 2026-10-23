@@ -21,4 +21,4 @@ Baby Cooking Chef is a fun cooking game for all kids who love to cook. In this g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cake, Cook, Educational
+- Tags: Cake, Cook, educational

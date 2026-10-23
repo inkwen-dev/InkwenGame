@@ -19,6 +19,6 @@ Fire the Super Cannon and Crush them all! Grab this unique new exciting Super Ca
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 8 Ball Pool, Action, Arcade, Ballon

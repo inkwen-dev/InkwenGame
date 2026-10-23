@@ -19,6 +19,6 @@ Perfect news for the lovers of Red And Blue Stickman Adventure! The sequel to th
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Boxing, Craft, Crafting, Crazy, Fight, Fighting, Fun, Funny, Mine, Minecraft, Miner, Monster, Stickman, Street Fighting
+- Tags: block, Boxing, Craft, Crafting, crazy, Fight, fighting, Fun, Funny, Mine, Minecraft, Miner, monster, stickman, Street Fighting

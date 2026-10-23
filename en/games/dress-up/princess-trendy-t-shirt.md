@@ -19,6 +19,6 @@ T-Shirts are available in plenty, the princess are in a state of confusion in ch
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Cute, Disney, Dress Up, Elsa, Games, Girls, HTML5, Kids, Princess

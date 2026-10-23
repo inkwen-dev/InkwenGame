@@ -21,4 +21,4 @@ Mega Ramp Bike Stunt Games 3D, you are invited to a brand-new level of excitemen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, 3D Games, Bike, BMX Games
+- Tags: 2025 games, 3D Games, bike, BMX Games

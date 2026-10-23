@@ -19,6 +19,6 @@ Summer is here, it's time to change clothes, how to match tops or skirts? Pick t
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Boys, Casual, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids, Makeover, Race, run

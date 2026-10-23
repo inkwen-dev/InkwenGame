@@ -21,4 +21,4 @@ Drop colorful block shapes and watch them break into flowing sand. Match the sam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Classic, Color, Logic, Mobile, Tetris
+- Tags: Brain, Classic, Color, Logic, Mobile, tetris

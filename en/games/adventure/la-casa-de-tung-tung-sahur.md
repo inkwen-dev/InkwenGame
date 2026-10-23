@@ -19,6 +19,6 @@ The Tung Tung Sahur Brothers are trying to rob a bank and need your help! Help t
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 2D, Action, attack, Tung Tung Tung, Tung Tung Tung Sahur

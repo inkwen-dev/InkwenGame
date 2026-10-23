@@ -21,4 +21,4 @@
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Barbie, Classic, Crazy
+- Tags: 3D, 3D Games, Barbie, Classic, crazy

@@ -21,4 +21,4 @@ CoronaVirus19.fun is a fun browser game about people and coronavirus. We made a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Classic, Fight, Fighting, Multiplayer, Strategy
+- Tags: .io, .io Games, Classic, Fight, fighting, Multiplayer, strategy

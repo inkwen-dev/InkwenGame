@@ -21,4 +21,4 @@ CoronaVirus19.fun 是一款关于人类和冠状病毒的趣味浏览器游戏�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 经典, 战斗, 格斗, 多人, 策略
+- 标签: .io, .io 游戏, 经典, 格斗, 格斗, 多人, 策略

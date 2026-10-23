@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 冒险, 子弹, 免费HTML5游戏，适用于您的网站, HTML5, kiz10, 怪物, 射击游戏
+- 标签: 动作, 冒险, 子弹, 免费HTML5游戏供您的网站使用, HTML5, kiz10, monster, 射击游戏

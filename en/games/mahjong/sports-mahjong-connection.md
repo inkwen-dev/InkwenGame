@@ -21,4 +21,4 @@ Connect all the sports mahjong tiles and clear the board in this html5 mahjong c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Mahjong, Mobile, Sport, Sports
+- Tags: HTML5, mahjong, Mobile, Sport, sports

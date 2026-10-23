@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 空中, 战斗, 射手, 天空
+- 标签: 空气, 格斗, 射击类, 天空

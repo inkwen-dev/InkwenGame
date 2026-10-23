@@ -21,4 +21,4 @@ Our Baby Hippo stays at home alone! Come and help take care of him! You need to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cleaning, Cooking, Cute, Educational, Food, Girl, Girls, Kids, Makeover, Simulation
+- Tags: Animal, Baby, Cleaning, Cooking, Cute, educational, Food, Girl, Girls, Kids, Makeover, Simulation

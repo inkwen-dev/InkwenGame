@@ -21,4 +21,4 @@ Samurai VS Zombies is a math game where you need to click on a correct answer an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Kids, Math, Number, Puzzle, Zombie
+- Tags: HTML5, Kids, math, Number, Puzzle, Zombie

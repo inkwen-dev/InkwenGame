@@ -21,4 +21,4 @@ Enjoy a relaxing summer puzzle adventure in Summer Triple Mahjong!Match and coll
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: html5 games, Mahjong, Match 3, Matching, Mobile, Summer
+- Tags: html5 games, mahjong, Match 3, Matching, Mobile, Summer

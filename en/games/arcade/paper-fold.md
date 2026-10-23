@@ -21,4 +21,4 @@ Fold and Create Pictures Very simple mechanics, only tap and fold. Once you star
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Animal, Arcade, Brain, Casual, Hypercasual, Puzzle, Quiz, Skill, Strategy
+- Tags: Action, Adventure, Animal, Arcade, Brain, Casual, Hypercasual, Puzzle, Quiz, Skill, strategy

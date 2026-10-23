@@ -21,4 +21,4 @@ Exciting adventure of the bouncing ball through the helix tower labyrinth. One-t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Jumping
+- Tags: Action, Arcade, jumping

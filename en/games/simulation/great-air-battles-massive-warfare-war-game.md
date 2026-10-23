@@ -21,4 +21,4 @@ Great Air Battles game You have to crash the pilot by pointing the mouse on the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Air, Battle, Helicopter, Plane, Simulator, Strategy, War
+- Tags: Adventure, Air, battle, helicopter, Plane, Simulator, strategy, War

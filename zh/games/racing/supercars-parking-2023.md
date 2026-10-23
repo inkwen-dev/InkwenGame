@@ -21,4 +21,4 @@ WASD键控制驾驶，移动设备请使用游戏内按钮
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 汽车, 赛车, 驾驶, HTML5, 移动, 停车, 超级跑车
+- 标签: 安卓, 汽车, 汽车, 驾驶, HTML5, 移动设备, 停车, 超跑

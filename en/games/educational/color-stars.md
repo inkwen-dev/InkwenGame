@@ -19,6 +19,6 @@ Color Stars is a beautiful educational puzzle game in which you must match the c
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Educational, Skills, Space
+- Tags: Color, educational, Skills, Space

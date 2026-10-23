@@ -21,4 +21,4 @@ The addictive game you’ve been playing on your computer for years now goes whe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Puzzle, Solitaire
+- Tags: card, Puzzle, solitaire

@@ -19,6 +19,6 @@ Hero Gem Box Matching Fun is a simple game in which you only need to slide your 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Battle, Boy, Boys, Crazy, Fight, Fighting, Game, Highscore, HTML, HTML5, Killing, Match 3, Match3, Matching, Math, Play, Puzzle, Super
+- Tags: 2D, battle, Boy, Boys, crazy, Fight, fighting, Game, Highscore, HTML, HTML5, Killing, Match 3, Match3, Matching, math, Play, Puzzle, Super

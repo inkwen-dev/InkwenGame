@@ -21,4 +21,4 @@ Welcome to Rescue Casual Pin Puzzle, the brain-teasing adventure filled with lov
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Enemies, Love, Strategy
+- Tags: Adventure, Enemies, Love, strategy

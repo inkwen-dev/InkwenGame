@@ -19,6 +19,6 @@ Tap Basket is an addictive basketball tap game! Bounce the ball by tapping the s
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ai Games, Ball, Basketball, Casual, mapi games, Sport
+- Tags: Ai Games, Ball, basketball, Casual, mapi games, Sport

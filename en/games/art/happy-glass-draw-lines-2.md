@@ -15,6 +15,6 @@ Guide the flow to happiness in Happy Glass Draw Lines! Use your creativity to dr
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Drawing
+- Tags: drawing

@@ -17,4 +17,4 @@ Engage in thrilling tank duels in Modern Tank Warfare. Navigate vibrant arenas a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Tanks
+- Tags: tanks

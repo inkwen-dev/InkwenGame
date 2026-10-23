@@ -26,4 +26,4 @@ Penalty Challenge is a thrilling online sports game that allows you to play as a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, penalty, Soccer, Sports
+- Tags: Boys, penalty, Soccer, sports

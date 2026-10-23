@@ -21,4 +21,4 @@ Slide your finger and fill all empty spots.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, Bounce, Bow, Boxing, Boy, Boys, Color, Coloring, Cute, Fight, Game, Games, Girl, Girls, HTML, Memory, Mind, Monkey, Monster, Pokemon, Poker, Puzzle, Sandbox, Simulation, Simulator, WebGL
+- Tags: .io Games, 2 Player Games, 3D Games, Bounce, Bow, Boxing, Boy, Boys, Color, Coloring, Cute, Fight, Game, Games, Girl, Girls, HTML, memory, Mind, Monkey, monster, Pokemon, Poker, Puzzle, Sandbox, Simulation, Simulator, WebGL

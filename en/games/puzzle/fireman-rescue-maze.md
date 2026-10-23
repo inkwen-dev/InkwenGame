@@ -19,6 +19,6 @@ Fireman Rescue Maze is a free online maze game for boys. In the game, you will b
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Avoid, Boy, Brain, Fire, Fun, HTML5, Kids, Maze, Obstacle, Online, Puzzle, Rescue

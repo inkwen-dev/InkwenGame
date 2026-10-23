@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 脑残 sahuuur, 冲刺, 几何, 意大利脑残, Tung Tung, 咚咚咚萨赫尔
+- 标签: 脑残sahuuur, 冲刺, 几何, 意大利脑残, 咚咚, 咚咚咚 萨胡尔

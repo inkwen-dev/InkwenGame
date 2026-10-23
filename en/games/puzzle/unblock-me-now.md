@@ -21,4 +21,4 @@ The simplest yet the most exciting unblock puzzle game. This is one of the best 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Casual, Click, Point And Click, Punch
+- Tags: block, Casual, Click, Point And Click, Punch

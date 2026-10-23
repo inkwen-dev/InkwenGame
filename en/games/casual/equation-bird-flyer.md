@@ -21,4 +21,4 @@ This game is a mix of skills and math reasoning. Touch in the screen to make the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bird, fly, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Math, Mind, Number, sky
+- Tags: Bird, fly, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, math, Mind, Number, sky

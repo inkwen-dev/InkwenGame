@@ -19,6 +19,6 @@ Clawdeen Wolf is going to skate with friends and she doesn't know what fits bett
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Girl, Girls

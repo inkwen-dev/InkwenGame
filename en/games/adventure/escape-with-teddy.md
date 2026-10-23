@@ -19,6 +19,6 @@ Teddy Escape is game where you need to help Teddy bear to escape from Jet. The J
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Click, Escape, Puzzle

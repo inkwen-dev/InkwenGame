@@ -19,6 +19,6 @@ Zombie Frontier 3 is one of the best action and zombie shooting games . A danger
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Shooting, Sniper, Zombie
+- Tags: Action, Shooting, sniper, Zombie

@@ -19,6 +19,6 @@ WASD E - fire Space - Jump I - Inventory LeftShift A D - Run Weapon - 1 2 3 0
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, HTML5, Knight, Minecraft, Platform, weapons, Zombie
+- Tags: Action, HTML5, knight, Minecraft, Platform, weapons, Zombie

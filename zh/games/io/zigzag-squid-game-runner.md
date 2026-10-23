@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 3D 游戏, 动作, 街机, 跑, 跑步, 技巧, 技能, Unity3D, WebGL
+- 标签: .io 游戏, 3D游戏, 动作, 街机, 跑, 奔跑, 技巧, 技能, Unity3D, WebGL

@@ -19,6 +19,6 @@ Are you ready to enter the world of Gogi? An immersive game awaits you. Let's st
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure

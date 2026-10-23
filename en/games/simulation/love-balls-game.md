@@ -19,6 +19,6 @@ Its time to use your brain and find a way to bump the balls! The rules easy, jus
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 2026 games, Arcade, free games for your site, free games for your website, free html5 games for your website, Puzzle, Simulator

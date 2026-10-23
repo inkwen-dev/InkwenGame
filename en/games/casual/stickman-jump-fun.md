@@ -21,4 +21,4 @@ Stickman Jump Fun is fun addictive skill game help you relax after working or le
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Hypercasual, jump, Jumping, Skill, Stickman
+- Tags: Casual, Hypercasual, jump, jumping, Skill, stickman

@@ -33,4 +33,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 移动, 益智, 贪吃蛇
+- 标签: 移动设备, 益智, snake

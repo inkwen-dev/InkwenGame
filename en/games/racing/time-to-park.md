@@ -19,6 +19,6 @@ Drive a car through city streets and park it into marked parking spots. Do not d
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Driving, HTML5, Mobile, Parking
+- Tags: Car, Driving, HTML5, Mobile, parking

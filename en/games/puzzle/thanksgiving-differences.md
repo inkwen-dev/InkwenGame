@@ -19,6 +19,6 @@ Now, it's a Thanksgiving day. Behind these pictures are small differences. Can y
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Difference, Fun, Holiday, Kids, Mobile, Skill

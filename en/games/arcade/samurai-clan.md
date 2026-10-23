@@ -19,6 +19,6 @@ You are the Samurai on deadliest mission.You must collect the fruits and avoid t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, HTML5, Kids, Mobile, Samurai, Skill

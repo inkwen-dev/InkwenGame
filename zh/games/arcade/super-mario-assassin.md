@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 击杀, 杀害, 马里奥, 超级
+- 标签: 杀戮, 击杀, mario, 超级

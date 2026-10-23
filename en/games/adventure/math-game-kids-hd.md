@@ -21,4 +21,4 @@ This math game is easy to play. You have to solve as many question as you can wi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Kid, Kids, Math
+- Tags: Adventure, Kid, Kids, math

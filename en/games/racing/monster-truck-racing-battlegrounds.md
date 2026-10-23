@@ -19,6 +19,6 @@ Welcome to Monster Truck Racing Battleground game. Monster trucks race to win on
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arena, Battlegrounds, Boys, endless, HTML, HTML5, Monster, monstertruck, offroad, Race, Racing, Truck
+- Tags: 1 Player, 2D, Arena, Battlegrounds, Boys, endless, HTML, HTML5, monster, monstertruck, offroad, Race, Racing, truck

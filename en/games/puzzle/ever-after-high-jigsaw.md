@@ -19,6 +19,6 @@ Ever After High Jigsaw is an interesting jigsaw cartoon game, which is developed
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Fun, Girls, HTML5, Jigsaw, Kids, Matching, Mobile, Puzzle

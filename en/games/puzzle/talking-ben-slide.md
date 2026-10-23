@@ -19,6 +19,6 @@ Talking Ben puzzle is a puzzle based on one of the most popular games on phones 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, HTML5, Mobile

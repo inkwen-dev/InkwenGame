@@ -19,6 +19,6 @@ Space Match 3 is a matching game where you need to collect a certain number that
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Game, HTML5, Kids, Match 3, Matching, Puzzle, Space

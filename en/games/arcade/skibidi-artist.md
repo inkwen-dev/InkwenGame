@@ -21,4 +21,4 @@ Embark on a rhythm-fueled journey with the Skibidi Artist game! Dance and groove
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Drawing, Skibidi, Skibidi Toilet, Unity3D, WebGL
+- Tags: Arcade, drawing, Skibidi, skibidi-toilet, Unity3D, WebGL

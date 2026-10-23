@@ -19,6 +19,6 @@ Let the monkey jump! The more the monkey will jump, the more bananas he will col
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, HTML, HTML5, Hypercasual, Monkey, Online

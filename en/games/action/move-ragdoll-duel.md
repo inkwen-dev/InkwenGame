@@ -21,4 +21,4 @@ Move Ragdoll Duel is a delightful 3D casual battle game that promises to captiva
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Best, Casual, Fight, Fighting, Kids, Mobile, Online, Stickman, War, weapons
+- Tags: 1 Player, Arcade, Best, Casual, Fight, fighting, Kids, Mobile, Online, stickman, War, weapons

@@ -21,4 +21,4 @@ WASD - 移动 鼠标 - 射击 空格键 - 跳跃 左移键 - 快跑
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 动作, 军队, 男孩们, HTML5, 杀人, 射手, 战争, WebGL
+- 标签: 单人, 3D, 动作, 军队, 男孩们, HTML5, 击杀, 射击类, 战争, WebGL

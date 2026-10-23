@@ -19,6 +19,6 @@ Snake to Eat is a classic arcade-style game where you control a hungry snake to 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Casual, Classic, Snake
+- Tags: Action, Casual, Classic, snake

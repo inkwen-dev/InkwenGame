@@ -15,6 +15,6 @@ Dive into Jelly Break, a vibrant puzzle adventure where sliding jellies trigger 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Puzzle

@@ -19,6 +19,6 @@ W Up Arrow Jump A Left Arrow Go left D Right Arrow Go right If you enter the gam
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Arcade, Fun, Funny, Game, Games, Monster, Pixel
+- Tags: 2D, Action, Adventure, Arcade, Fun, Funny, Game, Games, monster, pixel

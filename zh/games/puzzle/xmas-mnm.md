@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 棋盘, 圣诞节, HTML5, 三消, 匹配, 移动, 益智
+- 标签: 棋盘, 圣诞节, HTML5, 三消, 匹配, 移动设备, 益智

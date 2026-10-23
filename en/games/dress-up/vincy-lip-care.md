@@ -19,6 +19,6 @@ Vinci has infected heavy on her lips so her lips looks bulge and its make her ug
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Dress Up, Girls, Surgery
+- Tags: Doctor, Dress Up, Girls, surgery

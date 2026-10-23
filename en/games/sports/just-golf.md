@@ -19,6 +19,6 @@ Just Golf combines minimalism with puzzle in 210 levels with gradual difficulty.
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Casual, Golf, Sports
+- Tags: Ball, Casual, golf, sports

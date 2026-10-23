@@ -21,4 +21,4 @@ City Fighter vs Street Gang is a very popular fighting game with jaw-dropping gr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Boxing, Fighting, Mobile
+- Tags: Avoid, Boxing, fighting, Mobile

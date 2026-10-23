@@ -21,4 +21,4 @@ Learn the world flags while having fun playing 3 different game modes: classic h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Card
+- Tags: 2D, card

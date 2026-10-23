@@ -21,4 +21,4 @@ W 或上箭头键加速，空格键跳跃
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 马匹, Unity3D, WebGL
+- 标签: 3D游戏, horse, Unity3D, WebGL

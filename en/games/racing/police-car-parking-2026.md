@@ -21,4 +21,4 @@ Master the art of precision driving in Police Car Parking 2026! Navigate challen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: carparking, Driving, Police, Skill, Unity3D, WebGL
+- Tags: carparking, Driving, police, Skill, Unity3D, WebGL

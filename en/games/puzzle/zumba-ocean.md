@@ -19,6 +19,6 @@ Zumba Ocean with over 59 levels is an online Boy and Girl game. Zumba Ocean play
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Bejeweled, Boy, Bubble, Bubble Shooter, Clicker, Fun, Girl, HTML5, Jewel, Match 3, Zuma

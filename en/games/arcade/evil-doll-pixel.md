@@ -19,6 +19,6 @@ Evil Doll - The Horror Game Solve the puzzles and try to escape the house of the
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Game, Online, Pixel, Puzzle
+- Tags: Arcade, Game, Online, pixel, Puzzle

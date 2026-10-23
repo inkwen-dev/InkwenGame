@@ -19,6 +19,6 @@ Be the champ and knock down as many tree as possible with your mega punch! Play 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Boys, endless, Fight, Fighting, Punch, running
+- Tags: Arcade, Boy, Boys, endless, Fight, fighting, Punch, running

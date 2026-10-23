@@ -19,6 +19,6 @@ Simple but addictive tetris block puzzle classic plus !! Block Puzzle Classic on
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Best, Block, Classic, Pixel, Puzzle, Tetris
+- Tags: .io, Best, block, Classic, pixel, Puzzle, tetris

@@ -19,6 +19,6 @@ Get ready to embark on the ultimate gaming adventure with Level Demon! Dive into
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best Games, dash, free html5 games for your website, Geometry, HTML5, Jumping, Levels, Mobile
+- Tags: Arcade, Best Games, dash, free html5 games for your website, Geometry, HTML5, jumping, Levels, Mobile

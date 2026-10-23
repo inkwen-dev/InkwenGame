@@ -19,6 +19,6 @@ Roof Rush 3D is a high-octane urban runner where you navigate a pole-vaulting ma
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, running

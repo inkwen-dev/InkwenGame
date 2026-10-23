@@ -21,4 +21,4 @@ Fun & educational toddler learning games that help pre-k kids to learn easily. T
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Educational, Kids, Train
+- Tags: Baby, educational, Kids, Train

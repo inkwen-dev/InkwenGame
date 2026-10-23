@@ -21,4 +21,4 @@ When is school is off and summer break is on, beach parties are the must have fo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Dress Up, Fantasy, Farm, Fashion, Girls, HTML5, Kids, Makeover, Monster, New, Summer
+- Tags: 1 Player, Dress Up, Fantasy, Farm, Fashion, Girls, HTML5, Kids, Makeover, monster, New, Summer

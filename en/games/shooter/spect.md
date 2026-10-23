@@ -19,6 +19,6 @@ Spect is fantastic, dynamic game in space, with simple control. And beauty graph
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Air, Casual, Click, Clicker, jump, Jumping, Shoot, Shooter, Shooting, Space, Spaceship, Spongebob
+- Tags: Air, Casual, Click, Clicker, jump, jumping, Shoot, Shooter, Shooting, Space, Spaceship, Spongebob

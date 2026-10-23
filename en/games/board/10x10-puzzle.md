@@ -19,6 +19,6 @@ A reincarnation of the classic 10x10 puzzle game, but with some twists! Fill row
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Board, Classic, Geometry, Logic, Logical, Math, Mobile, Puzzle, puzzleblock
+- Tags: block, Board, Classic, Geometry, Logic, Logical, math, Mobile, Puzzle, puzzleblock

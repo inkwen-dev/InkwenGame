@@ -21,4 +21,4 @@ While you're competing in The Zombie Hunger Game, you can have a good time. Ther
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Crazy, HTML, HTML5, Mobile, Shooting, Unity3D, WebGL, Zombie
+- Tags: .io Games, crazy, HTML, HTML5, Mobile, Shooting, Unity3D, WebGL, Zombie

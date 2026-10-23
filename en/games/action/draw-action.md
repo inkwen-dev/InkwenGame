@@ -30,4 +30,4 @@ Various attack schemes are available to you, depending on which pattern you draw
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Drawing, Fighting, Stickman
+- Tags: Action, drawing, fighting, stickman

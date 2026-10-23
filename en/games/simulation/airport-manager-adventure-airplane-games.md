@@ -21,4 +21,4 @@ Airport Manager game is specially made for all girls and boys. This job is very 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Air, Management
+- Tags: Air, management

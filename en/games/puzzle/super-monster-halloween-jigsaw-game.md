@@ -19,6 +19,6 @@ Halloween is cming, the Super Monsters wants to hold a party to celebrate this h
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Cartoon, Fun, Girl, Halloween, Holiday, HTML5, Jigsaw, Kid, Matching, Monster, Super
+- Tags: Brain, Cartoon, Fun, Girl, Halloween, Holiday, HTML5, Jigsaw, Kid, Matching, monster, Super

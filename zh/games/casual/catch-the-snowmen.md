@@ -45,4 +45,4 @@ WASD 或方向键。
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 圣诞, 移动
+- 标签: 圣诞节, 移动设备

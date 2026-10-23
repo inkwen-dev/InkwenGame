@@ -29,4 +29,4 @@ Monster Truck Offroad Racing Game is a rugged arcade racer where massive trucks 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Driving, monster-truck, Physics, Racing, Truck
+- Tags: Arcade, Driving, monster-truck, Physics, Racing, truck

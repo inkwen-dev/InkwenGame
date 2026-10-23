@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 安卓, 愤怒, angryplants, HTML5, iPad, iPhone, Mentolatux, 手机, 植物, 僵尸
+- 标签: 安卓, 愤怒, 愤怒的植物, HTML5, iPad, iPhone, Mentolatux, 移动设备, 植物, 僵尸

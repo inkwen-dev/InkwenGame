@@ -21,4 +21,4 @@ select idendical cards to remove
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Classic, Cleaning, Collection, Family, Logic, Mahjong, Puzzle
+- Tags: card, Classic, Cleaning, Collection, Family, Logic, mahjong, Puzzle

@@ -15,6 +15,6 @@ Slide and strategize in 2048 Number Merge, where each move blends tiles to climb
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: 2048

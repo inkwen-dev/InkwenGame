@@ -32,4 +32,4 @@ Pirates Merge: War Path is a strategy adventure where you combine swashbucklers 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Army, merge, Mobile, pirates, pve, Strategy, War
+- Tags: Army, merge, Mobile, pirates, pve, strategy, War

@@ -19,6 +19,6 @@ Crab & Fish is a skill game where you free fish as you pop blocks and move down 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Puzzle

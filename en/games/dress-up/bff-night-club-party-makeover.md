@@ -19,6 +19,6 @@ The beauty queens Mia and Bella are going to attend the Night club party today. 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Dora, Dress Up, Girls, Hair, Kids, Kiss, Kissing, Love, Makeover

@@ -21,4 +21,4 @@ Congratulations, Welcome to the Mobile Tank League, this is a simple but excitin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, Adventure, Battle, Crazy, Tank, Tanks
+- Tags: .io, .io Games, 1 Player, Adventure, battle, crazy, Tank, tanks

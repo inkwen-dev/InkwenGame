@@ -21,4 +21,4 @@ Welcome to the world of Real Impossible Track 2 car racing. Enjoy the real impos
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Cars, Crazy, Driving, Stunts, WebGL
+- Tags: 3D, 3D Games, Cars, crazy, Driving, Stunts, WebGL

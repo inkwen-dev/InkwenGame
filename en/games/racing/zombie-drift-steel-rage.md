@@ -19,6 +19,6 @@ Zombie Drift: Steel Rage is a post-apocalyptic 3D action game that mixes arcade 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, apocalypse, Arena, Car, Cars, drift, drifting, Mobile, Racing, survival, Zombie

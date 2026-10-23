@@ -19,6 +19,6 @@ This game is the best way to learn how to keep your house always tidy and clean.
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Cleaning, Educational, Girl, Girls, H5, House, HTML5, Hypercasual, Kid, Kids
+- Tags: 2D, Cleaning, educational, Girl, Girls, H5, House, HTML5, Hypercasual, Kid, Kids

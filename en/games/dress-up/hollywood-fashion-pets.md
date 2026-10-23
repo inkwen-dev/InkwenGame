@@ -19,6 +19,6 @@ Look! Look! There are five poor stray pets here. Theyre so hungry and thirsty, a
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cute, Dress Up, Educational, Fashion, Girl, Girls, Grooming, Kid, Kids, Simulation
+- Tags: Animal, Cute, Dress Up, educational, Fashion, Girl, Girls, Grooming, Kid, Kids, Simulation

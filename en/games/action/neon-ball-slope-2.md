@@ -19,6 +19,6 @@ Love slope games? Then Neon Ball Slope is your next addiction! Roll a glowing ne
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 3D Games, Arcade, Avoid, Ball, endless, HTML5, run, running

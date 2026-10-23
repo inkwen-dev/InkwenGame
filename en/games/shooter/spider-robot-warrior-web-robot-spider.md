@@ -19,6 +19,6 @@ Dare To Play Future Web Robot Spider Game City survival rescue mission Futuristi
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boys, HTML5, Robot, Shooting, WebGL

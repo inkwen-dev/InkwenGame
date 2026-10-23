@@ -15,6 +15,6 @@ Jet's Run propels you through vibrant worlds as Jet, a nimble robot, dodging tra
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: runner

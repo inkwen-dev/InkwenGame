@@ -21,4 +21,4 @@ naruto free fight game has a 3 most popular characters (naruto uzumaki , kakachi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Anime, Fight, Fighting, Street Fighting
+- Tags: Action, Anime, Fight, fighting, Street Fighting

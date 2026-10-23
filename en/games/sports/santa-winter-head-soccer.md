@@ -19,6 +19,6 @@ Soccer fans can play Santa winter head soccer Game for free and compete against
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, 3D Games, Action, HTML5, jump, Mobile, Unity3D, WebGL

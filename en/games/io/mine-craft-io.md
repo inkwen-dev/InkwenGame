@@ -21,4 +21,4 @@ Mine-craft.io is a game based on minecraft. In Mine Craft, you can do the same t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Animal, Best, Block, Bomb, Bow, Bricks, Cake, Crafting, Creation, Cute, Minecraft, Multiplayer, Zombie
+- Tags: .io, .io Games, Animal, Best, block, Bomb, Bow, Bricks, Cake, Crafting, Creation, Cute, Minecraft, Multiplayer, Zombie

@@ -19,6 +19,6 @@ Among Us Coloring Book - A Coloring Book For Kids And Adults. Color Many Stunnin
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, Coloring, Fun, Girls, HTML5, Hypercasual, Kids, Mobile, School

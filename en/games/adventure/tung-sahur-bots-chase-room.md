@@ -19,6 +19,6 @@ Horror brainrot bots are on the hunt! Watch out, stay alive! Welcome to Tung Sah
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Horror, run, Tung Tung Tung Sahur

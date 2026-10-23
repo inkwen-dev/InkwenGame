@@ -19,6 +19,6 @@ Bounce, Collect, and Conquer! Jump Pumpkin Jump is a thrilling platformer game w
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Food, Jumping, Platform
+- Tags: Casual, Food, jumping, Platform

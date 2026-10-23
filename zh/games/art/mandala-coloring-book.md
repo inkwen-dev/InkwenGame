@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 装饰, 装饰, HTML5, WebGL
+- 标签: 2D, 装饰, 装扮, HTML5, WebGL

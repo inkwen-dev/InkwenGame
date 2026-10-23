@@ -19,6 +19,6 @@ Fish love &ndash; pull the pin, puzzle game, casual game in a popular genre. Var
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, Android, Fish, Mind, Online, Puzzle

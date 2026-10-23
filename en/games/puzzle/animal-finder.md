@@ -19,6 +19,6 @@ Children's game for ages 2 to 4 years. When clicking on play you will have a sta
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Animal, Brain, Click, Point And Click, Puzzle

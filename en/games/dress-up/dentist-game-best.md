@@ -19,6 +19,6 @@ Become a dentist and help our friends to have a healthy mouth. Brian, Katie, Fra
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Boy, Boys, Collection, Creation, Decoration, Educational, Fashion, Girl, Girls, Logic, Logical, Mario, Minion, Relaxation, Simulation, Unity3D
+- Tags: .io, .io Games, Action, Boy, Boys, Collection, Creation, Decoration, educational, Fashion, Girl, Girls, Logic, Logical, mario, Minion, Relaxation, Simulation, Unity3D

@@ -19,6 +19,6 @@ Color maze is a free puzzle game designed and updated continuously for true love
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boy, Boys, Brain, Casual, Educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids, Maze, Puzzle
+- Tags: 3D, Boy, Boys, Brain, Casual, educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids, Maze, Puzzle

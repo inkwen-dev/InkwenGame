@@ -21,4 +21,4 @@ Let’s go for a ride between obstacles where you have the chance to show your d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Car, Parking, Unity3D, WebGL
+- Tags: 3D Games, Car, parking, Unity3D, WebGL

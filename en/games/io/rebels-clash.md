@@ -21,4 +21,4 @@ An uprising took place in the virtual city, the participants of which entered in
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Best, Fight, Fighting, Gun, Hot, HTML, HTML5, Kill, Killing, Street Fighting, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Best, Fight, fighting, Gun, Hot, HTML, HTML5, Kill, Killing, Street Fighting, Unity3D

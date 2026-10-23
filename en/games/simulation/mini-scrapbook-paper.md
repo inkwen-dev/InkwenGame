@@ -21,4 +21,4 @@ Mini Scrapbook Paper is a super cute art game made for girls. Do you have a jour
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cleaning, Cooking, Educational, Girl, Girls, Kids, Relaxation
+- Tags: Cleaning, Cooking, educational, Girl, Girls, Kids, Relaxation

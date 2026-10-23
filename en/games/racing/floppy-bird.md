@@ -21,4 +21,4 @@ Help little Red Bird to flying through the sky trying to avoid obstacles that ca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Casual, Click, Clicker, endless, Flight, fly, Game, HTML, HTML5, Hypercasual, Pipe, Racing, Sport
+- Tags: 2D, Arcade, Casual, Click, Clicker, endless, flight, fly, Game, HTML, HTML5, Hypercasual, Pipe, Racing, Sport

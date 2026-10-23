@@ -21,4 +21,4 @@ Push boxes into the designated red areas. You cannot push two or more boxes at o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, HTML5, Hypercasual, Logic, Logical, Mind, Puzzle
+- Tags: block, HTML5, Hypercasual, Logic, Logical, Mind, Puzzle

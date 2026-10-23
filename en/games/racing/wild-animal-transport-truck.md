@@ -21,4 +21,4 @@ As a professional truck driver, the zoo asks you to transport different animals 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Animal, Driving, Mobile, Simulation, Timing, Truck, Unity3D
+- Tags: 3D, Animal, Driving, Mobile, Simulation, Timing, truck, Unity3D

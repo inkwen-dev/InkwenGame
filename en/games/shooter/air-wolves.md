@@ -21,4 +21,4 @@ Become the ace of legendary squadron – Air Wolves! Fly, fight and survive in h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Air, Boy, Boys, Click, Clicker, Flight, fly, Game, HTML5, Hypercasual, Pixel, Shoot, Shoot 'Em Up, Shooting
+- Tags: Action, Air, Boy, Boys, Click, Clicker, flight, fly, Game, HTML5, Hypercasual, pixel, Shoot, Shoot 'Em Up, Shooting

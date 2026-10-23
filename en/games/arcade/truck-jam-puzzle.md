@@ -21,4 +21,4 @@ Untangle a colorful truck traffic jam in this 3D sorting puzzle! Send trucks out
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Car, Logic, Puzzle, Truck
+- Tags: Arcade, Car, Logic, Puzzle, truck

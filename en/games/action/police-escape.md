@@ -21,4 +21,4 @@ An addictive running game. Run as fast as you can, avoid the obstacle, to escape
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Best, dino, HTML, jump, Jumping, Mobile, run, running
+- Tags: Action, Best, dino, HTML, jump, jumping, Mobile, run, running

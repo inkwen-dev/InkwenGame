@@ -19,6 +19,6 @@ Lady Gold Miner is a sweet game version of classic gold miner game. In this game
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Girl, Girls, Gold, Miner

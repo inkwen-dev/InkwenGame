@@ -19,6 +19,6 @@ The long-awaited release of a brand-new monster truck racing simulator has arriv
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Cars, Driving, HTML5, Mobile, Racing, Truck, Unity3D
+- Tags: Android, Cars, Driving, HTML5, Mobile, Racing, truck, Unity3D

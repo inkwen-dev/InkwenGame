@@ -48,4 +48,4 @@ Search for treasures, complete various tasks, destroy enemy ships, capture islan
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Boat, Mobile, pirates, Strategy
+- Tags: Adventure, Boat, Mobile, pirates, strategy

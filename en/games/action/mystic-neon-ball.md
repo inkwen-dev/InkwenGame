@@ -19,6 +19,6 @@ Jump on the platforms and beware of thorns! Just tap the screen to jump. Try not
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Ball, Bounce, free games for your website, Funny, jump, Jumping, run, running, Skill, Skills
+- Tags: 3D, Arcade, Ball, Bounce, free games for your website, Funny, jump, jumping, run, running, Skill, Skills

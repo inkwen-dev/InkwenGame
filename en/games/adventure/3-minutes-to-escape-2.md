@@ -15,6 +15,6 @@ Navigate a mazelike space under pressure in 3 Minutes to Escape! Dash and jump t
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Escape

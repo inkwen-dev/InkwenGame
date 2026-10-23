@@ -19,6 +19,6 @@ Goku is a fictional character and main protagonist of the Dragon Ball manga seri
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Cartoon, Decorate, Dress Up, Fashion, Fun, Game, Girls, Superhero

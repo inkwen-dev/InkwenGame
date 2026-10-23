@@ -21,4 +21,4 @@ You’ve got five minutes in the subway but you don’t know what you should do 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Brain, Casual, Educational, Family, Girl, School, Stickman
+- Tags: Boy, Brain, Casual, educational, Family, Girl, School, stickman

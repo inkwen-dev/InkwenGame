@@ -21,4 +21,4 @@ Touch or click to collect elemental blocks of the same type that are horizontall
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Collecting, HTML5, Matching, Mobile, Puzzle
+- Tags: Arcade, block, Collecting, HTML5, Matching, Mobile, Puzzle

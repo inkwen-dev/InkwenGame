@@ -21,4 +21,4 @@ This is an educational and fun game which enhances both finding and matching ski
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Hidden, HTML5, Mobile, Puzzle
+- Tags: educational, Hidden, HTML5, Mobile, Puzzle

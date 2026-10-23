@@ -21,4 +21,4 @@ Moving Magnet is an engaging logic puzzle game where you control and push magnet
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Brain, Casual, Logic
+- Tags: block, Brain, Casual, Logic

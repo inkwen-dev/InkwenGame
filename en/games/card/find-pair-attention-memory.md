@@ -21,4 +21,4 @@ It is an exciting game that will help you relax and train your brain at the same
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Brain, Card, Casual, Educational, free html5 games for your website, HTML5, Logic, Matching, Memory, Puzzle
+- Tags: 1 Player, Brain, card, Casual, educational, free html5 games for your website, HTML5, Logic, Matching, memory, Puzzle

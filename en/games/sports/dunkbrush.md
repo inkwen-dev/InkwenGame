@@ -21,4 +21,4 @@ Dunkbrush is a basketball skill game where you have to draw lines to make the ba
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, HTML5, Skill, Sports
+- Tags: basketball, HTML5, Skill, sports

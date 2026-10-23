@@ -21,4 +21,4 @@ Peikin 鸭子逃脱是由 8B Games/Games2live 开发的一款点击式解谜游�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 逃脱, 点击
+- 标签: 逃脱, 点击式

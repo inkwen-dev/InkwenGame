@@ -19,6 +19,6 @@ Reimagined: Embark on a Zipline Adventure, Mapping Routes and Saving Lives. Shar
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Click, Escape, HTML5, Hypercasual, iPad, iPhone, Mentolatux, Mobile, unity games, WebGL

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动漫, 咚咚咚, Tung Tung Tung Sahur
+- 标签: 动漫, 通通通, 咚咚咚 萨胡尔

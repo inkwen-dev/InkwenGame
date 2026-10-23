@@ -21,4 +21,4 @@ LOL Presidential Face is a funny and lighthearted face-editing game where you ca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Draw, Drawing, Pixel, surprise, swipe
+- Tags: 1 Player, Draw, drawing, pixel, surprise, swipe

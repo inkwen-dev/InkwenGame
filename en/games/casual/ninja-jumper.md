@@ -21,4 +21,4 @@ Press and tap the screen to control Ninja jumping escape. Collecting the fruits 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Collecting, Fun, jump, Jumping, Ninja, Skill
+- Tags: 1 Player, Collecting, Fun, jump, jumping, ninja, Skill

@@ -19,6 +19,6 @@ Experience the thrill of offroad trucking! Navigate rugged terrain, deliver carg
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Mentolatux, offroad, Simulator, Truck, unity, WebGL
+- Tags: Driving, Mentolatux, offroad, Simulator, truck, unity, WebGL

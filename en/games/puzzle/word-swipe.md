@@ -19,6 +19,6 @@ Do you like to play word games? Are you good at finding words? Word Swipe is a C
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Hypercasual, Word
+- Tags: Casual, Hypercasual, word

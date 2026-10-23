@@ -15,6 +15,6 @@ Take on the role of a farm caretaker in Happy Farm! Engage in captivating, fast-
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: farming

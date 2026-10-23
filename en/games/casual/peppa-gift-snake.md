@@ -19,6 +19,6 @@ Start Peppa Snake as a small worm and try to get bigger by eating your way throu
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Boys, Girls, Kids, Snake
+- Tags: Baby, Boys, Girls, Kids, snake

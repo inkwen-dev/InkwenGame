@@ -21,4 +21,4 @@ Prepare for the next tank battles! You may expect to find free combat tanks in t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Shooting, Tank, Tanks, Unity3D, War, WebGL
+- Tags: 3D Games, Shooting, Tank, tanks, Unity3D, War, WebGL

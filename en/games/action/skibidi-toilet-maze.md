@@ -19,6 +19,6 @@ You can only enter forward, backward, right, left or east with the arrow keys. I
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, endless, Escape, Ghost, HTML, HTML5, Maze, Monster, run, running, Skibidi Toilet
+- Tags: 1 Player, 3D, 3D Games, Action, endless, Escape, Ghost, HTML, HTML5, Maze, monster, run, running, skibidi-toilet

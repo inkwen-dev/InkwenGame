@@ -21,4 +21,4 @@ Every kid likes milkshakes and unicorn food. Becoming a milkshake maker to desig
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cooking, Cute, Decorate, Educational, Food, Girl, Girls, Kids, Simulation
+- Tags: Cooking, Cute, Decorate, educational, Food, Girl, Girls, Kids, Simulation

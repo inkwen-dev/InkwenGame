@@ -21,4 +21,4 @@ e. Enjoy this short quiz to see how much you know about European countries and n
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Puzzle, Quiz, Timing
+- Tags: educational, Puzzle, Quiz, Timing

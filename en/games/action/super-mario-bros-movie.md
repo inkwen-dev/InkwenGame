@@ -19,6 +19,6 @@ Super Mario Bros Movie is a side-scrolling 2D platform game with amazing fantasy
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, kiz10, Mario, Platform, running
+- Tags: Adventure, kiz10, mario, Platform, running

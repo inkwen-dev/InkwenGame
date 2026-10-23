@@ -21,4 +21,4 @@ Open up your own fitness studio and become the coolest coach there is! Show your
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Barbie, Cartoon, Cartoon Network, Dress Up, Elsa, Fashion, Games, Girl, Girls, Mobile, Princess, Simulation, Sports, Strategy
+- Tags: Anime, Barbie, Cartoon, Cartoon Network, Dress Up, Elsa, Fashion, Games, Girl, Girls, Mobile, Princess, Simulation, sports, strategy

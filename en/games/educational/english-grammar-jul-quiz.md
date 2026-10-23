@@ -19,6 +19,6 @@ English Grammar Jul Quiz is a fun quiz game with 3 difficulties and a score syst
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Quiz, WebGL

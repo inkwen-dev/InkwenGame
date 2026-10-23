@@ -19,6 +19,6 @@ Fix all unconnected wires from energy source into a light bulb to turn it on.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Clicker, HTML, HTML5, Mobile, Puzzle

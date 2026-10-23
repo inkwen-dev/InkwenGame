@@ -21,4 +21,4 @@ Do you love making Ice creams but have never had the chance to make one? The ice
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boys, Burger, Cake, Candy, Cook, Cooking, Cool, Craft, Food, Frozen, Fruit, Fruits, Girl, Girls, Ice, Jelly, Kids
+- Tags: 3D, 3D Games, Boys, Burger, Cake, Candy, Cook, Cooking, cool, Craft, Food, Frozen, Fruit, Fruits, Girl, Girls, Ice, Jelly, Kids

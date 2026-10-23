@@ -21,4 +21,4 @@ Are you ready for a tank battle? Team up with your friend and fight together. Th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Halloween, Tank, Tanks
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Halloween, Tank, tanks

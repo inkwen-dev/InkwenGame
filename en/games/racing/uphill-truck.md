@@ -21,4 +21,4 @@ Welcome to Uphill Truck Drive game. Drive trucks on off-road mountain tracks to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Truck
+- Tags: Driving, truck

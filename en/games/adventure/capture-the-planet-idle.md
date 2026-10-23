@@ -21,4 +21,4 @@ Capture the Planet is a strategy game where you play as a commander leading your
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Defense, Hypercasual, Strategy
+- Tags: Army, Defense, Hypercasual, strategy

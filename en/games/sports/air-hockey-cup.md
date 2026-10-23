@@ -19,6 +19,6 @@ Fasten your skates and winter jacket. Your favorite ice sport is here in a new f
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Air, hockey, HTML5, Ice

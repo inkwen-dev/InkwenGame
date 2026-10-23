@@ -19,6 +19,6 @@ Find The Truth Master is a fun puzzle solving game. In this new version of the g
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Fun, Funny, H5, HTML5, Kids, Skill

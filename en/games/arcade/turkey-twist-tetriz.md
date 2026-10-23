@@ -21,4 +21,4 @@ Immerse yourself in the Thanksgiving spirit with Turkey Twist Tetriz. Strategica
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, HTML5, Matching, Mobile, Puzzle
+- Tags: Arcade, block, HTML5, Matching, Mobile, Puzzle

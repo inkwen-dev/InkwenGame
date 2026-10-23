@@ -19,6 +19,6 @@ The prehistoric family the Croods are challenged by a rival family the Betterman
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Baby, Boy, Boys, Cartoon, Casual, Disney, Educational, Girl, Girls, H5, HTML5, Jigsaw, Puzzle
+- Tags: Anime, Baby, Boy, Boys, Cartoon, Casual, Disney, educational, Girl, Girls, H5, HTML5, Jigsaw, Puzzle

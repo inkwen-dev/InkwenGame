@@ -21,4 +21,4 @@ Play our newest casual puzzle game Monsters Rotate. The game has 10 levels with 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Click, Clicker, Fun, Hypercasual, Kids, Monster, Puzzle
+- Tags: Casual, Click, Clicker, Fun, Hypercasual, Kids, monster, Puzzle

@@ -19,6 +19,6 @@ very kid loves sweet cotton candies. A big candy shop is newly opened in the cit
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D Games, 8 Ball Pool, Boy, Boys, Bubble, Bubble Shooter, Candy, Collecting, Collection, Color, Coloring, Game, Games, Girl, Girls, Hello Kitty, Memory, Monkey, Monster, Motorcycle, Pokemon
+- Tags: .io Games, 3D Games, 8 Ball Pool, Boy, Boys, Bubble, Bubble Shooter, Candy, Collecting, Collection, Color, Coloring, Game, Games, Girl, Girls, Hello Kitty, memory, Monkey, monster, Motorcycle, Pokemon

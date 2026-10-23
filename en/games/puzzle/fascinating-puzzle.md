@@ -19,6 +19,6 @@ Try your hand at this modern, unique twist on classic jigsaw puzzles. Using puzz
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, HTML5, Jigsaw, Kid, Kids, Logic, Logical, WebGL

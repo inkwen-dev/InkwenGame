@@ -21,4 +21,4 @@ HexTank.io is a play-to-earn Web3 instant game built on the Nimiq blockchain. Th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Multiplayer, PvP, Tank, Tanks, WebGL
+- Tags: .io, .io Games, 3D, 3D Games, Multiplayer, PvP, Tank, tanks, WebGL

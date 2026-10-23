@@ -21,4 +21,4 @@ Spinning Skibidi Toilet Flappy Minecraft is a wacky and fast-paced arcade game w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bird, Minecraft, Skibidi, Skibidi Toilet
+- Tags: Bird, Minecraft, Skibidi, skibidi-toilet

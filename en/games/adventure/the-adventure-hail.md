@@ -15,6 +15,6 @@ Plunge into the exhilarating world of The Adventure Hail, where you guide tumbli
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: hyper-casual

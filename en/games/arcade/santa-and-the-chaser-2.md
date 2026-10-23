@@ -15,6 +15,6 @@ Embark on a festive chase as Santa in a thrilling arcade adventure. Jump and wea
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Arcade

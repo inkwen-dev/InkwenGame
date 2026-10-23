@@ -21,4 +21,4 @@ A classic snake game in a fully neoned structure.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Classic, Puzzle, Snake
+- Tags: Arcade, Classic, Puzzle, snake

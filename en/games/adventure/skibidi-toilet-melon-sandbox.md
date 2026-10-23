@@ -21,4 +21,4 @@ Welcome to Skibidi Toilet Melon Sandbox, where youll embark on a journey in epic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Poppy Playtime, Sandbox, Skibidi, Skibidi Toilet
+- Tags: Poppy Playtime, Sandbox, Skibidi, skibidi-toilet

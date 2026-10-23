@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 最佳, 疯狂, 矿工, 我的世界, 矿工, Unity3D, WebGL
+- 标签: 3D, 3D游戏, 最佳, 疯狂, 挖掘, 我的世界, 矿工, Unity3D, WebGL

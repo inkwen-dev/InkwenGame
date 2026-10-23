@@ -21,4 +21,4 @@ Tap on the screen to hit the shot
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Sport, Sports
+- Tags: Ball, Sport, sports

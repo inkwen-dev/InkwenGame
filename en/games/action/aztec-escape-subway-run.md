@@ -19,6 +19,6 @@ Subway Run - Train Surf 3D Is Subway Surface run as fast as you can! Subway Run 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Escape, Girls, Kids, run, running, subway

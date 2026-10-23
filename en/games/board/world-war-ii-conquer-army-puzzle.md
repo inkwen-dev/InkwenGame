@@ -19,6 +19,6 @@ Tap on Board and Occupy more percentage and win levels. Enjoy the TOP Trending g
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 3D Games, Army, Board, HTML, HTML5, Hypercasual, Puzzle, WebGL

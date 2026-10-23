@@ -19,6 +19,6 @@ Love to play basketball children come! Through the control of the mouse to grab 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Arena, Basketball, Bounce, H5
+- Tags: 1 Player, 3D, 3D Games, Action, Arena, basketball, Bounce, H5

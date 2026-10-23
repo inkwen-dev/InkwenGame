@@ -19,6 +19,6 @@ Numerous peer-to-peer battle royale matches are available, and they can provide 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Android, Block, HTML, HTML5, Minecraft, Mobile, Pixel, Shooter, Shooting, survival, Unity3D, WebGL
+- Tags: Action, Android, block, HTML, HTML5, Minecraft, Mobile, pixel, Shooter, Shooting, survival, Unity3D, WebGL

@@ -21,4 +21,4 @@ TRZ Cannon is a casual game in which the player must estimate strength and dista
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Ball, Basketball, Bomb, Casual, Hypercasual, Puzzle
+- Tags: 1 Player, 2D, Action, Ball, basketball, Bomb, Casual, Hypercasual, Puzzle

@@ -21,4 +21,4 @@ Playing Wordscapes 10 mins a day sharpens your mind and prepares you for your da
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 2D, Brain, free games for your website, free html5 games for your website, html games for your website, Word
+- Tags: 2026 games, 2D, Brain, free games for your website, free html5 games for your website, html games for your website, word

@@ -21,4 +21,4 @@ Toy Soccer Cup is a fast, tabletop-style soccer game where you flick your little
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Arcade, Casual, Football, Multiplayer, Soccer, Sports
+- Tags: 2 Player, 2 Player Games, Arcade, Casual, Football, Multiplayer, Soccer, sports

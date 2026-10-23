@@ -19,6 +19,6 @@ Spinning Color is a nice game you have to tap the color shown on the center of t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Color, Coloring, Fun, Game, Games, HTML, HTML5, Kid, Kids, Mind, Puzzle

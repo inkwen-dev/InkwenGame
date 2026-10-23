@@ -19,6 +19,6 @@ Tap Out: Block Escape is a relaxing 3D puzzle game where your goal is to clear a
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Block, Puzzle, puzzleblock, Relaxation
+- Tags: 1 Player, 3D, block, Puzzle, puzzleblock, Relaxation

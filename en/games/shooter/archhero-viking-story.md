@@ -21,4 +21,4 @@ Play ArchHero: Viking story for free with its fun and smooth gameplay! Kill all 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Best, Casual, Defense, Hot, Hypercasual, Shooter, Shooting, Strategy, War, WebGL
+- Tags: Action, Adventure, Arcade, Best, Casual, Defense, Hot, Hypercasual, Shooter, Shooting, strategy, War, WebGL

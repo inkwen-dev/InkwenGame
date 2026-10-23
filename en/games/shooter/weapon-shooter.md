@@ -21,4 +21,4 @@ Welcome to Weapon Shooter 3D Shooting Game! You play as a knight and your missio
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Monster, weapons, Zombie
+- Tags: monster, weapons, Zombie

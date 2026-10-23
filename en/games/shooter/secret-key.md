@@ -19,6 +19,6 @@ you are a man have ur wife and daughter are gone but you dont know what happen i
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Anime, Brain, First Person Shooter, House, Puzzle

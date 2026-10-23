@@ -15,6 +15,6 @@ Transform into Moo Bot and weave through a thrilling sci-fi adventure. Test your
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

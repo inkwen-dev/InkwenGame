@@ -37,4 +37,4 @@ You play as a tiny pixel hero trying to reach the exit door in each stage. The c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Platform, Retro
+- Tags: Arcade, Platform, retro

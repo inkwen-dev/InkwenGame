@@ -21,4 +21,4 @@ Show your driving skills on the impossible tracks of air ramps. This impossible 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Army, Casual, Hypercasual, Parking, Tank, Tanks
+- Tags: Adventure, Army, Casual, Hypercasual, parking, Tank, tanks

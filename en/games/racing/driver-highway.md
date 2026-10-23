@@ -19,6 +19,6 @@ In this game you have to drive on the highway. You will drive fast and will have
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Cars, Driving, Kids, Racing, Traffic

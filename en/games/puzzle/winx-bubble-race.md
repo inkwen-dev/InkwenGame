@@ -19,6 +19,6 @@ Winx fairies are racing in bubbles. Don't crash into other bubbles while racing.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Game, Games, Girl, Girls, HTML5, Magic, Race

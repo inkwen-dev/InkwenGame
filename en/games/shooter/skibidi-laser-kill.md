@@ -21,4 +21,4 @@ Skibidi Laser Kill Game is a fast-paced, action-packed laser shooter arcade game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Fun, Games, HTML, HTML5, NapTech Games, Online, Play, Shoot, Shooting, Skibidi, Skibidi Toilet
+- Tags: Best Games, Fun, Games, HTML, HTML5, NapTech Games, Online, Play, Shoot, Shooting, Skibidi, skibidi-toilet

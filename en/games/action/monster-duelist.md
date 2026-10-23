@@ -21,4 +21,4 @@ Monster Duelist immerses players into a mysterious world where they assume the r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Arena, Casual, Fighting
+- Tags: 3D, Adventure, Arena, Casual, fighting

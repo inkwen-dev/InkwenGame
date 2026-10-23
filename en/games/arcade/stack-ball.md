@@ -19,6 +19,6 @@ Welcome back to another addictive Helix game! All you have to do is to bring dow
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Stack, Unity3D, WebGL

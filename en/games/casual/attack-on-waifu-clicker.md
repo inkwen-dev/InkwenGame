@@ -21,4 +21,4 @@ Attack On Waifu is a clicker game to attack anime girls for young at heart or te
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Anime, attack, Boys, Casual, Clicker, Girls, Hot, RPG
+- Tags: Adult, Anime, attack, Boys, Casual, Clicker, Girls, Hot, rpg

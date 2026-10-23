@@ -21,4 +21,4 @@ Get ready for a thrilling gameplay experience in this emerging tricky bike stunt
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, Bike, Race, Racing
+- Tags: 2025 games, bike, Race, Racing

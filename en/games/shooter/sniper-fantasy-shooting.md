@@ -21,4 +21,4 @@ Intercept, eliminate and extract. It’s time to engage the enemy! Best Sniper i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Shooting, Sniper
+- Tags: 3D, Action, Shooting, sniper

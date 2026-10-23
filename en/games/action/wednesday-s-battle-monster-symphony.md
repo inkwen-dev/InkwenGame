@@ -23,4 +23,4 @@ An endless action game that fuels the urge to try again after every defeat, keep
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Mobile, Monster, Music, Skill, Strategy
+- Tags: Action, Mobile, monster, music, Skill, strategy

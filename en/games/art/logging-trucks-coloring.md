@@ -21,4 +21,4 @@ Logging Trucks Coloring is a Coloring Book game with Logging Trucks.There is a e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Puzzle, Truck
+- Tags: Color, Coloring, Puzzle, truck

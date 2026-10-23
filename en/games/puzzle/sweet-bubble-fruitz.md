@@ -19,6 +19,6 @@ Sweet Bubble Fruitz is a brand new and super addictive fruit bubble shoot game, 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, HTML, HTML5, Match 3, Match3, Matching, Shoot 'Em Up, Shooter, Shooting

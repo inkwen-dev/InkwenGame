@@ -19,6 +19,6 @@ Elsa is pregnant and she tell her husband Jack Frost the good news. Although Jac
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cartoon, Dress Up, Elsa, Food, Frozen, Girl, Girls, Kids, Princess, Shopping, Simulation, Surgery
+- Tags: Baby, Cartoon, Dress Up, Elsa, Food, Frozen, Girl, Girls, Kids, Princess, Shopping, Simulation, surgery

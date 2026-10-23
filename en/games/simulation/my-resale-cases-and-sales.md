@@ -41,4 +41,4 @@ Climb the leaderboards among collectors, tycoons, and top sellers. Can you becom
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, Management, Simulation, tycoon
+- Tags: Clicker, management, Simulation, tycoon

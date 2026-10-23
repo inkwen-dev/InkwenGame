@@ -19,6 +19,6 @@ Choose your own Diseny team and get ready to guide them through seven sensationa
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Cartoon Network, Disney, Football, Fun, Funny, Shoot, Shooting, Sport, Sports
+- Tags: Cartoon, Cartoon Network, Disney, Football, Fun, Funny, Shoot, Shooting, Sport, sports

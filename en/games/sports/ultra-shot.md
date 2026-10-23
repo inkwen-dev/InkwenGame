@@ -21,4 +21,4 @@ Ultra Shot is a fast-paced basketball shooting challenge where precision and tim
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Basketball, Casual, Fun, Funny, Hypercasual, Shoot, Shooter, Shooting, Sport, Sports
+- Tags: 1 Player, 2D, Adventure, Arcade, basketball, Casual, Fun, Funny, Hypercasual, Shoot, Shooter, Shooting, Sport, sports

@@ -19,6 +19,6 @@ Challenge your memory and have fun with the colorful world of Toca Life! Toca Li
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Card, Educational, Girls, Match3, Matching, Memory, Puzzle, School
+- Tags: Boys, card, educational, Girls, Match3, Matching, memory, Puzzle, School

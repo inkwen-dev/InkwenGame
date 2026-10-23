@@ -21,4 +21,4 @@ You bring down blocks from the top of the screen. You can move the blocks around
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Mind, Puzzle, Tetris
+- Tags: Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Mind, Puzzle, tetris

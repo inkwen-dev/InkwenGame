@@ -42,4 +42,4 @@ What are players waiting for? Jump into the world of Brawl Stars with friends no
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Fighting
+- Tags: 3D, fighting

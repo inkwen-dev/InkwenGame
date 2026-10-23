@@ -21,4 +21,4 @@ Backrooms Skibidi Toilet Terrors Huggy Wuggy is an action terror game, run and g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Skibidi, Skibidi Toilet
+- Tags: Skibidi, skibidi-toilet

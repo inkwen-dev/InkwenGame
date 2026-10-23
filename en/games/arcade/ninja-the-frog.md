@@ -21,4 +21,4 @@ Press and tap the screen to control Ninja Frog jumping escape. Collecting the fo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Animal, Jumping, Ninja
+- Tags: Action, Animal, jumping, ninja

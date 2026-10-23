@@ -21,4 +21,4 @@ Grimace 夜 是这个万圣节期间的一场有趣的冒险之旅。在这个�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 男孩, Grimace, Grimace Shake, 万圣节, HTML, 儿童, 益智
+- 标签: 冒险, 男孩, 格里马斯, 格里马斯奶昔, 万圣节, HTML, 儿童, 益智

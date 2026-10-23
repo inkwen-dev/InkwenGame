@@ -21,4 +21,4 @@ On the way avoid all the obstacles that you encounter and collect lots of coins.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Pixel
+- Tags: 3D, pixel

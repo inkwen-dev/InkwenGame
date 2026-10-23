@@ -21,4 +21,4 @@ How long will you stay in control? In Baby In Yellow Survival Challenge , the mo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Arcade, Baby, Boys, Girls, Horse
+- Tags: 3D, Action, Adventure, Arcade, Baby, Boys, Girls, horse

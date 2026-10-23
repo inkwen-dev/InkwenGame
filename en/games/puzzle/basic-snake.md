@@ -21,4 +21,4 @@ Basic Snake inspired by classic snake game with colorful and modern game. Eat th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Fun, HTML5, Mobile, Puzzle, Skill, Snake
+- Tags: Avoid, Fun, HTML5, Mobile, Puzzle, Skill, snake

@@ -21,4 +21,4 @@ A fast-paced 2D endless runner set in a retro-futuristic world where every secon
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Jumping, Platform, running
+- Tags: Cartoon, jumping, Platform, running

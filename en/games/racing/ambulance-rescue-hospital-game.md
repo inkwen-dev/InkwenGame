@@ -19,6 +19,6 @@ Start your career as an rescue ambulance simulator driver, cars rescue and doing
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, ambulance, carparking, Driving, Parking
+- Tags: 2025 games, ambulance, carparking, Driving, parking

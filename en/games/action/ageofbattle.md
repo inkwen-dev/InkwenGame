@@ -21,4 +21,4 @@ Send troops to break through the enemys castle. Killing soldiers can earn you go
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Battle, Best Games, Hypercasual
+- Tags: 1 Player, Action, battle, Best Games, Hypercasual

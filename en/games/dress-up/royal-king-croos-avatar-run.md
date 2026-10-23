@@ -19,6 +19,6 @@ Royal King: Croos- Avatar Run is a fast and fun royal adventure where you contro
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Baby Games, Barbie, beauty, Dress Up, WebGL

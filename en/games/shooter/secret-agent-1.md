@@ -21,4 +21,4 @@ Secret Agent is a shooting puzzle game full of excitement and fun. You will play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Casual, Gun, HTML5, Kids, Online, Physics, Platform, Shooting, Skill, Strategy
+- Tags: Arcade, Brain, Casual, Gun, HTML5, Kids, Online, Physics, Platform, Shooting, Skill, strategy

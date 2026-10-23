@@ -21,4 +21,4 @@ Step into the quirky world of KangaHang, where your word-guessing skills are put
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Guessing, Puzzle, Word
+- Tags: Arcade, Guessing, Puzzle, word

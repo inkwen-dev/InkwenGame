@@ -21,4 +21,4 @@ Dodge breads as you can, in a environment that is harder at the time pass. Beats
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Avoid, Pixel, Skill
+- Tags: Arcade, Avoid, pixel, Skill

@@ -21,4 +21,4 @@ Car Lot King Parking Manage 3D is a pure parking game, you just need to park eac
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Kids, King, Management, Mobile, Parking, Puzzle, Skill
+- Tags: Car, Kids, King, management, Mobile, parking, Puzzle, Skill

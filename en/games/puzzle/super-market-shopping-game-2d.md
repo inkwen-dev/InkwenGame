@@ -19,6 +19,6 @@ Are you ready! Start creating your own supermarket myth! Really start from scrat
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Adult, Adventure, Animal, Arcade, Baby, Baby Hazel, Battlegrounds, Bubble, Bubble Shooter, Candy, Clans, Cleaning, Clicker, Fashion, Flight, fly, Fun, Funny, Girl, Grooming, House, Hypercasual, Machine, Makeover, Train
+- Tags: 8 Ball Pool, Adult, Adventure, Animal, Arcade, Baby, Baby Hazel, Battlegrounds, Bubble, Bubble Shooter, Candy, Clans, Cleaning, Clicker, Fashion, flight, fly, Fun, Funny, Girl, Grooming, House, Hypercasual, Machine, Makeover, Train

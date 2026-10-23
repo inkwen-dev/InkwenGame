@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 动作, 格斗游戏, 跑步, 滑动
+- 标签: 3D, 动作, 格斗, 奔跑, 滑动

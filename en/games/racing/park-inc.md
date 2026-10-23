@@ -19,6 +19,6 @@ Park Inc is an engaging mobile game where players embark on a thrilling parking 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Car, Cars, Kids, Mentolatux, Parking, Skill, Unity3D, WebGL
+- Tags: Boys, Car, Cars, Kids, Mentolatux, parking, Skill, Unity3D, WebGL

@@ -19,6 +19,6 @@ Dog Hospital is a very cute caring game. In the game, you play as an experienced
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cute, Doctor, Educational, Fun, HTML5, Kid, Kids, Mobile, Surgery
+- Tags: Animal, Cute, Doctor, educational, Fun, HTML5, Kid, Kids, Mobile, surgery

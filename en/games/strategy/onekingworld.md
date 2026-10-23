@@ -21,4 +21,4 @@ Improve Your Country, Battle, Earn, Be Attentive And Win. OneKingWorld Game Is 2
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Strategy, War, World
+- Tags: 1 Player, 2D, strategy, War, World

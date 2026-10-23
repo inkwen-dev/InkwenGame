@@ -19,6 +19,6 @@ Dr. Tractor Farming : new tractor games Are you interested in new tractor farmin
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Adventure, Casual, Crazy, Farm, Fun, Funny, Game, Multiplayer, New, Strategy, Unity3D
+- Tags: 3D Games, Action, Adventure, Casual, crazy, Farm, Fun, Funny, Game, Multiplayer, New, strategy, Unity3D

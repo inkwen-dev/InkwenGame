@@ -21,4 +21,4 @@ Explore, race and prove your mastery! Go on an adventurous journey with unique v
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, free games for your site, monstertruck, Truck
+- Tags: 3D, Car, free games for your site, monstertruck, truck

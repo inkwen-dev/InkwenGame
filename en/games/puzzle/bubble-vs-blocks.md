@@ -21,4 +21,4 @@ Connect the num-bubbles to destroy the num-blocks. Each block comes up with a nu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bubble, Educational, HTML5, Math, Mobile, Number, Puzzle, Skill
+- Tags: Bubble, educational, HTML5, math, Mobile, Number, Puzzle, Skill

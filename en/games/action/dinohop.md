@@ -19,6 +19,6 @@ Save Dino from Obstacles! DinoHop is a T-Rex game where you have to jump and duc
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dinosaur, Fun, Jumping, running
+- Tags: Dinosaur, Fun, jumping, running

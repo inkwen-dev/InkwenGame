@@ -21,4 +21,4 @@ Solve the puzzle blocks by set their position to the right one Game starts with 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Casual, Educational, Matching, Puzzle, Word
+- Tags: 2D, Casual, educational, Matching, Puzzle, word

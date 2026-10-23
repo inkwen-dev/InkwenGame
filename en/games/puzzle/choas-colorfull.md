@@ -19,6 +19,6 @@ Colorful Chaos; beat your high score with quick reflexes and coordination
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2D, Action, Adventure, Arcade, Bubble Shooter, Fun, Funny, Hot, jump, Jumping, Puzzle, Unity3D
+- Tags: 2 Player, 2D, Action, Adventure, Arcade, Bubble Shooter, Fun, Funny, Hot, jump, jumping, Puzzle, Unity3D

@@ -19,6 +19,6 @@ If you have ever wanted to fly a drone, then you will love the game "Drone: Deli
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Air, Click, Clicker, fly, H5, Helicopter, HTML, HTML5, Hypercasual, Plane, Puzzle
+- Tags: Air, Click, Clicker, fly, H5, helicopter, HTML, HTML5, Hypercasual, Plane, Puzzle

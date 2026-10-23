@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 8球台球, 成人, 冒险, 街机, 男孩, 有趣, 女孩, HTML5, 新, 体育, WebGL
+- 标签: 8球台球, 成人, 冒险, 街机, 男孩, 有趣, 女孩, HTML5, 新游戏, 运动, WebGL

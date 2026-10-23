@@ -21,4 +21,4 @@ W 跳跃 AD 前进后退 QE 释放技能 左键鼠标射击
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 动作, 冒险, 射击游戏
+- 标签: 2D, 动作, 冒险, 射击

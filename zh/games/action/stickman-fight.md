@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 冒险, 最佳, 战斗, 格斗, 乐趣, HTML5, 移动, Stickman, WebGL
+- 标签: 动作, 冒险, 最佳, 格斗, 格斗, 有趣, HTML5, 移动设备, 木偶人, WebGL

@@ -21,4 +21,4 @@ Let you relive feelings, memories of the classic! The game designed rich Cars, R
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Educational, Fantasy, Football, Games, Halloween, Hello Kitty, Race, Racing
+- Tags: Driving, educational, Fantasy, Football, Games, Halloween, Hello Kitty, Race, Racing

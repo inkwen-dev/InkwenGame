@@ -19,6 +19,6 @@ Car Jam Escape is a puzzle game where players clear a crowded parking lot by mov
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Driving, Levels, Parking, Puzzle
+- Tags: Car, Driving, Levels, parking, Puzzle

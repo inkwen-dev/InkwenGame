@@ -21,4 +21,4 @@ Connect all the virus mahjong tiles and clear the board in this html5 mahjong co
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collection, HTML5, Mahjong, Mobile
+- Tags: Collection, HTML5, mahjong, Mobile

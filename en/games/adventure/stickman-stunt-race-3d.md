@@ -21,4 +21,4 @@ StickMan Stunt Race 3D is an action-packed game that combines parkour and racing
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Fantasy, Fun, Person, Physics, Stickman, Stunts
+- Tags: 1 Player, 3D, Fantasy, Fun, Person, Physics, stickman, Stunts

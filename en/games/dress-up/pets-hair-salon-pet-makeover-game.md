@@ -19,6 +19,6 @@ Lovely pets are sitting in front of a mirror and waiting for new, funky haircuts
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cat, Creation, Educational, Fun, Girl, Girls, H5, HTML5
+- Tags: Animal, Cat, Creation, educational, Fun, Girl, Girls, H5, HTML5

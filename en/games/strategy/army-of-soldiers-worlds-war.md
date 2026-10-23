@@ -21,4 +21,4 @@ You must defend the earth against invading creatures coming from other worlds. T
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Alien, Army, Battle, Board, Brain, Defense, Fight, Monster, Simulation, Strategy, Tower Defense, Unity3D, weapons
+- Tags: Alien, Army, battle, Board, Brain, Defense, Fight, monster, Simulation, strategy, Tower Defense, Unity3D, weapons

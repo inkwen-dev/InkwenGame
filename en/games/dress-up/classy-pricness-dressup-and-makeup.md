@@ -21,4 +21,4 @@ Princess Dress up Games - Fashion Salon is the perfect game for fashion stylists
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dress Up, Educational, Girl, King, Makeover, Princess
+- Tags: Dress Up, educational, Girl, King, Makeover, Princess

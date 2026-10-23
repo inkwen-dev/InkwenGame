@@ -19,6 +19,6 @@ Mini Golf 2D it is a very fun and accurate game. Your goal is to get the ball to
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Android, Arcade, Casual, Golf, Sport, Sports
+- Tags: 1 Player, Adventure, Android, Arcade, Casual, golf, Sport, sports

@@ -21,4 +21,4 @@ For a long time, Skibidi scientists worked on creating new universal fighters wh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Fun, Funny, Kids, Mobile, Skibidi, Skibidi Toilet
+- Tags: Best Games, Fun, Funny, Kids, Mobile, Skibidi, skibidi-toilet

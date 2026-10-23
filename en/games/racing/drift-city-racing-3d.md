@@ -19,6 +19,6 @@ Declare the top and rule the secret as you race for power in the first white-knu
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Best, Car, Cars, Crazy, drift, drifting, Driving, Game, Games, Racing, Road, Sim, Simulation, Simulator, Supercars, Unity3D, WebGL
+- Tags: 1 Player, 3D, 3D Games, Action, Best, Car, Cars, crazy, drift, drifting, Driving, Game, Games, Racing, Road, Sim, Simulation, Simulator, Supercars, Unity3D, WebGL

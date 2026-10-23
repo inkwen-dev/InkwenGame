@@ -21,4 +21,4 @@ Aliens Memory Game is an educational memory game – Memory improvement is part 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Alien, Educational, Fun, HTML5, Kids, Memory, Skill
+- Tags: Alien, educational, Fun, HTML5, Kids, memory, Skill

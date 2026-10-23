@@ -21,4 +21,4 @@ Immerse yourself in an adrenaline-pumping experience as you take on the role of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Shooting, Sniper
+- Tags: 3D Games, Action, Shooting, sniper

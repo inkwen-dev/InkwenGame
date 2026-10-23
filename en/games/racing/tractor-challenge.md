@@ -21,4 +21,4 @@ In the new Tractor Challenge game, you have to conduct field trials of new tract
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Best, Boys, Driving, HTML5, Mobile, Obstacle, Skill, Truck
+- Tags: 1 Player, 2D, Best, Boys, Driving, HTML5, Mobile, Obstacle, Skill, truck

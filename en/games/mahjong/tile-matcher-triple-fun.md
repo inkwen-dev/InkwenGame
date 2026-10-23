@@ -31,4 +31,4 @@ Tile Matcher Triple Fun is a relaxing triple tile-matching puzzle game inspired 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Logic, Mahjong, Matching, Puzzle
+- Tags: Brain, Logic, mahjong, Matching, Puzzle

@@ -38,4 +38,4 @@ Step onto the gym floor and take charge: sign up new members at the reception de
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, idle, Management, Simulation, tycoon
+- Tags: 3D, Arcade, idle, management, Simulation, tycoon

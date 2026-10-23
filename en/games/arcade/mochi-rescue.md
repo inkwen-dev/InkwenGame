@@ -21,4 +21,4 @@ A cute physics drawing puzzle where your line becomes real. Mochi is in trouble,
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Brain, Drawing, Logic, Physics, Puzzle
+- Tags: Arcade, Brain, drawing, Logic, Physics, Puzzle

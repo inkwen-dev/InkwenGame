@@ -19,6 +19,6 @@ Your role is to go through every challenge Stacker have prepared for you! Some m
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Click, Clicker, H5, Hot, HTML5, New, Point And Click, Vampire

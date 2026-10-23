@@ -21,4 +21,4 @@ Drag the number blocks to move them Merge the same number to create a bigger num
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Brain, Number, Puzzle
+- Tags: block, Brain, Number, Puzzle

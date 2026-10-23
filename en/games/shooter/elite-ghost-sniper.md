@@ -19,6 +19,6 @@ You are elite sniper and your mission is to shoot all enemy forces on the battle
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Gun, Shoot, Shoot 'Em Up, Shooter, Shooting, Sniper, Unity3D, WebGL
+- Tags: 3D, Action, Gun, Shoot, Shoot 'Em Up, Shooter, Shooting, sniper, Unity3D, WebGL

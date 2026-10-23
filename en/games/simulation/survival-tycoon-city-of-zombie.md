@@ -38,4 +38,4 @@ Strengthen the barrier, gear up your scouts, and hit the gas. Become a survival 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: idle, Management, Strategy, survival, tycoon, Zombie
+- Tags: idle, management, strategy, survival, tycoon, Zombie

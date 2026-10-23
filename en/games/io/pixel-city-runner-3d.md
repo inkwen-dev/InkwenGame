@@ -19,6 +19,6 @@ Play Endless Pixel City Runner 3D now! This is a fun run and dodging game set at
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 3D, Adventure, Arcade, city, Pixel, running
+- Tags: .io, 3D, Adventure, Arcade, city, pixel, running

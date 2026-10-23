@@ -21,4 +21,4 @@ A Fun Memory Game With Pokemon Magic. Pokemon Memory Time is not just a memory g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Fun, Hypercasual, Kids, Logic, Memory, Pokemon, Skill
+- Tags: Brain, Fun, Hypercasual, Kids, Logic, memory, Pokemon, Skill

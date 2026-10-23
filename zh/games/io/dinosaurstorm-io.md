@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io游戏, 3D, 动物, 避开, 城市, 收集, 疯狂, 恐龙, 恐龙, HTML5, 在线
+- 标签: .io, .io 游戏, 3D, 动物, 躲避, 城市, 收集, 疯狂, 恐龙, Dino, HTML5, 在线

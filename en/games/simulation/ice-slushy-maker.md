@@ -19,6 +19,6 @@ Is it really hot outside and we need a cup of juice with ice. So let’s choose 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Cooking, Decorate, Funny

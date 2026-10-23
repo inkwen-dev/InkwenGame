@@ -21,4 +21,4 @@ Here is a school bus parking simulation game with 3D game art animation. You hav
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boy, Driving, HTML5, Kid, Mobile, Parking, Racing
+- Tags: 3D, Boy, Driving, HTML5, Kid, Mobile, parking, Racing

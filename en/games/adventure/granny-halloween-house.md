@@ -19,6 +19,6 @@ Want an exciting and scary adventure? Granny: Halloween House is a 3D survival h
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Halloween, Horror

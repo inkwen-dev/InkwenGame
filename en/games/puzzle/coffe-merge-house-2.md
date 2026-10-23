@@ -21,4 +21,4 @@ Coffee Merge House is a cozy merge game where you combine ingredients, prepare i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Best, Best Games, Cake, Candy, free games for your site, html games for your website, html5 games, New, Pixel
+- Tags: 1 Player, Best, Best Games, Cake, Candy, free games for your site, html games for your website, html5 games, New, pixel

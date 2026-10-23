@@ -21,4 +21,4 @@ Use Ben 10's alien powers to work out how to score goals and be a goalkeeper, be
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Boy, Boys, Cartoon, Cartoon Network, Football, Interactive, Soccer, Sport, Sports
+- Tags: 3D Games, Boy, Boys, Cartoon, Cartoon Network, Football, Interactive, Soccer, Sport, sports

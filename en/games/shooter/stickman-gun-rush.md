@@ -41,4 +41,4 @@ Features
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Gun, running, Shooting, Stickman
+- Tags: 3D, Action, Gun, running, Shooting, stickman

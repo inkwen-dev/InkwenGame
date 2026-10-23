@@ -19,6 +19,6 @@ The true parkour experience is here. Become the best parkour by running to the f
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Arcade, Baby, Boy, Boys, Hypercasual, Mario, Race, Stickman, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Arcade, Baby, Boy, Boys, Hypercasual, mario, Race, stickman, Unity3D

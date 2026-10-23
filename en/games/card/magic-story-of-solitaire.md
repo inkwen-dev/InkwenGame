@@ -32,4 +32,4 @@ This beloved card game is perfect for everyone. We hope you enjoy your time in M
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, cards, Solitaire
+- Tags: Adventure, cards, solitaire

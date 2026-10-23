@@ -21,4 +21,4 @@ TAP THE SCREEN TO CHANGE THE STAR PACE TO COLLISION WITH SAME COLOR
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Ball, Color, Coloring, Educational, Friv, Highscore, HTML5, Pixel, Retro
+- Tags: 1 Player, 2D, Arcade, Ball, Color, Coloring, educational, Friv, Highscore, HTML5, pixel, retro

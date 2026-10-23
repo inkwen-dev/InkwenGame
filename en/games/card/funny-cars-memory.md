@@ -21,4 +21,4 @@ Funny Cars Memory is puzzle memory game with funny cars. The images will be disp
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Cars, Memory, Puzzle
+- Tags: card, Cars, memory, Puzzle

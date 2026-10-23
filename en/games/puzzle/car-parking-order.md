@@ -26,4 +26,4 @@ Navigate through unique parking lots by avoiding obstacles and overcoming variou
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Car, Parking, unblock-puzzles
+- Tags: Car, parking, unblock-puzzles

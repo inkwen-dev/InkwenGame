@@ -19,6 +19,6 @@ brings you the hard Parking game. Contains 560 hard parking levels with 7 differ
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Army, Bike, Block, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, Cartoon, drifting, Ever After High, Fashion, Game, Hair, Hidden, Highscore, Mario, School, Supercars, Superhero, Truck
+- Tags: Animal, Army, bike, block, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, Cartoon, drifting, Ever After High, Fashion, Game, Hair, Hidden, Highscore, mario, School, Supercars, Superhero, truck

@@ -19,6 +19,6 @@ Use your telekinesis magic power! Gain the ability to control the power of thoug
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Fighting, First Person Shooter, Magic, Shoot, Shooter, Stickman, Superhero, Unity3D
+- Tags: 3D Games, fighting, First Person Shooter, Magic, Shoot, Shooter, stickman, Superhero, Unity3D

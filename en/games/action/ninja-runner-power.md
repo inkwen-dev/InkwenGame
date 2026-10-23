@@ -21,4 +21,4 @@ Run away to save your life, Ninja Runner : There are a lot of fun with more bonu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Killing, Monster, Ninja, running
+- Tags: Killing, monster, ninja, running

@@ -21,4 +21,4 @@ Happy Trucks Coloring is a free online coloring and kids game! In this game you 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Fun, HTML5, Kids, Mobile, Puzzle, Truck
+- Tags: Coloring, Fun, HTML5, Kids, Mobile, Puzzle, truck

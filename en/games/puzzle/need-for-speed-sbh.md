@@ -21,4 +21,4 @@ Claim the crown and rule the underground as you race for dominance in the first 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adult, Adventure, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Fun, Funny, Game, Games, Moto, Motorcycle, Parking, Sim, Simulation, Simulator, sky, Supercars, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adult, Adventure, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Fun, Funny, Game, Games, Moto, Motorcycle, parking, Sim, Simulation, Simulator, sky, Supercars, truck

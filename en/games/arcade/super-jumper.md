@@ -21,4 +21,4 @@ One of the hottest mobile games of all time! Easy to pick up and play. Journey u
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Hot, jump, Jumping
+- Tags: 1 Player, 2D, Arcade, Hot, jump, jumping

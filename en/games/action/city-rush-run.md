@@ -19,6 +19,6 @@ Do not let the police officer catch you. Run as fast as you can. Collect the coi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Casual, Escape, Mobile, run, running

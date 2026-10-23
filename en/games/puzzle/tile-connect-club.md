@@ -19,6 +19,6 @@ Tile Connect Club is a brain-training game that tests your linking skills. You h
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Animal, Boys, Cute, Food, Girls, Kids, Matching

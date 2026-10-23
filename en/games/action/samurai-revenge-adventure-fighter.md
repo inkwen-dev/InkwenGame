@@ -21,4 +21,4 @@ This game Revenge of Ninja Samurai: Revenge of Ninja Samurai is a latest addicti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting, run, running, Samurai, Street Fighting
+- Tags: Fight, fighting, run, running, Samurai, Street Fighting

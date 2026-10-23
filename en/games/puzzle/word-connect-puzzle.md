@@ -21,4 +21,4 @@ Hello and welcome to all words games lovers! This is Word connect puzzle, an ama
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Memory, Puzzle, Word
+- Tags: Brain, memory, Puzzle, word

@@ -15,6 +15,6 @@ Embrace the holiday spirit with Jewel Magic Xmas, a delightful puzzle adventure.
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Jewel

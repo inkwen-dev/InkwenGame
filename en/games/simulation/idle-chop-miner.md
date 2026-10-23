@@ -19,6 +19,6 @@ Chop wood, gather resources, and grow your lumber empire in Idle Chop Miner! Sta
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Best Games, Casual, Clicker, Gold, idle, Mine, Miner, Relaxation, Simulation

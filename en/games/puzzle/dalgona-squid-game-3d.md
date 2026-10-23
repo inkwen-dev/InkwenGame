@@ -19,6 +19,6 @@ Use the pin to trace the inner shape and extract it out of the candy body. Be ca
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, Click, Clicker, Point And Click, Puzzle

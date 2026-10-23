@@ -21,4 +21,4 @@ Dive into Hexa Merge 2048, the exciting puzzle game that mixes numbers and fun! 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2048, Casual, Educational, Family, hexagon, Hypercasual, Kids, Number, Puzzle, Strategy
+- Tags: 2048, Casual, educational, Family, hexagon, Hypercasual, Kids, Number, Puzzle, strategy

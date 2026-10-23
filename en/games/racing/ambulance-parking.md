@@ -21,4 +21,4 @@ Ambulance parking game. The objective of the game is getting the Ambulance Car o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Car, Parking
+- Tags: 2D, Car, parking

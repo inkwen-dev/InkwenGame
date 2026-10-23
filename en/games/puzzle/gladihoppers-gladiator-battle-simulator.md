@@ -21,4 +21,4 @@ Gladihoppers - Gladiator Battle Simulator! game has a lot of success review and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Bubble Shooter, Fight, Fighting, Kill, Killing, Shoot, Shoot 'Em Up, Shooter, Shooting, Skill, Skills, Street Fighting
+- Tags: Boy, Boys, Bubble Shooter, Fight, fighting, Kill, Killing, Shoot, Shoot 'Em Up, Shooter, Shooting, Skill, Skills, Street Fighting

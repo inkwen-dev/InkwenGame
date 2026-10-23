@@ -21,4 +21,4 @@ Enjoy exciting and fun soccer games at Head Soccer Pro. A great game that combin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Football, Sports
+- Tags: 2 Player, Football, sports

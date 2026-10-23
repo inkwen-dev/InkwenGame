@@ -21,4 +21,4 @@ Do you have match-winning skills? You are the last wicket and you have to score 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Sport, Sports
+- Tags: Ball, Sport, sports

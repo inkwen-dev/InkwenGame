@@ -21,4 +21,4 @@ Sniper Hitboy is an adrenaline-pumping mobile game that puts you in the shoes of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Shoot 'Em Up, Sniper, Unity3D, WebGL
+- Tags: Fun, Shoot 'Em Up, sniper, Unity3D, WebGL

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 麻将, 匹配, 怪物, 解谜
+- 标签: mahjong, 匹配, monster, 益智

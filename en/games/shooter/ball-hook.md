@@ -21,4 +21,4 @@ The most addictive stack Poke game with Ball Hook , super fun and addictive one 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Boys, fly, Girls, HTML5, jump, Jumping, Kids, Mobile, Shoot
+- Tags: Ball, Boys, fly, Girls, HTML5, jump, jumping, Kids, Mobile, Shoot

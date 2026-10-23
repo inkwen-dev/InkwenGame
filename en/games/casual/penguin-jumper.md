@@ -19,6 +19,6 @@ An addicted hyper-casual game, simple to control, nice design, fun and relax-abl
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Casual, fly, Fun, HTML, jump, Jumping, Relaxation
+- Tags: Best, Casual, fly, Fun, HTML, jump, jumping, Relaxation

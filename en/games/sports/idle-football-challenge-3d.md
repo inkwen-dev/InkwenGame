@@ -15,6 +15,6 @@ Dive into Idle Football Challenge 3D, where your nimble dribbling skills lead yo
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Soccer

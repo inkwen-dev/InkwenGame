@@ -21,4 +21,4 @@ Pixel Escape Royale 3D is an interesting 3D arcade game which is suitable for al
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Brain, Escape, Kids, Pixel, Puzzle, Skill
+- Tags: Avoid, Brain, Escape, Kids, pixel, Puzzle, Skill

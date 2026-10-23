@@ -19,6 +19,6 @@ This is a free learning game designed to teach children numbers and maths. Our g
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Math
+- Tags: educational, math

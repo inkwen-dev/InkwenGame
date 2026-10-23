@@ -19,6 +19,6 @@ Hey, artist! In Wonder Coloring, you can create vibrant drawings and enjoy magic
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Candy, Cartoon, Color, Coloring, Cool, Girl, Girls, Kid, Kids, paint, painting, Relaxation
+- Tags: Boy, Boys, Candy, Cartoon, Color, Coloring, cool, Girl, Girls, Kid, Kids, paint, painting, Relaxation

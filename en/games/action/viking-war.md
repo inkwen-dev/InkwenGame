@@ -21,4 +21,4 @@ Viking War is an action game where you embody a fierce Viking warrior, charging 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arena, Fight, Fighting
+- Tags: 1 Player, Arena, Fight, fighting

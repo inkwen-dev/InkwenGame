@@ -21,4 +21,4 @@ Monster trucks of mountains, coasts and nature are ready! Show off your skills i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, 3D Games, Boys, Monster, Skill, Truck
+- Tags: 2 Player, 2 Player Games, 3D, 3D Games, Boys, monster, Skill, truck

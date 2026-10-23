@@ -21,4 +21,4 @@ Math Kids is a free learning game designed to teach children numbers and mathema
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Educational, Games, Kids, Math, Puzzle, Quiz, Skill, Skills
+- Tags: 1 Player, 2D, educational, Games, Kids, math, Puzzle, Quiz, Skill, Skills

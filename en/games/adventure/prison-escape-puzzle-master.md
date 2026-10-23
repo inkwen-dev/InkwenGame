@@ -19,6 +19,6 @@ Think prison life is boring? Think again! Prison Master: Escape Journey 3D turns
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 3D Games, Adventure, Brain, Casual, Escape, Fun, Levels, Logic, Prison

@@ -19,6 +19,6 @@ It is summer! Summer can never be without the company of summer camp. Taylor's k
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cleaning, Cooking, Cute, Decorate, Dress Up, Fashion, Girl, Girls, Hair, Kids, Simulation

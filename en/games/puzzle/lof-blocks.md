@@ -21,4 +21,4 @@ Collect similar blocks' groups by touching or clicking on them. If you collect s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Collecting, HTML5, Matching, Mobile
+- Tags: block, Collecting, HTML5, Matching, Mobile

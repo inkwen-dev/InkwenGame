@@ -19,6 +19,6 @@ A small Impostor is tied up and confined to the room.He cuts the rope, rescues a
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: cut, kiz10, Monster, Rescue
+- Tags: cut, kiz10, monster, Rescue

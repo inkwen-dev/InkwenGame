@@ -21,4 +21,4 @@ Number Snake is an interesting brain puzzle game. In one way it is similar to al
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Logical, Math, Number, Puzzle, Snake
+- Tags: Logical, math, Number, Puzzle, snake

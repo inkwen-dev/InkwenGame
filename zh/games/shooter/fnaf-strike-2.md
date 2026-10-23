@@ -21,4 +21,4 @@ FNAF Strike 2 是一款紧张刺激的第一人称射击游戏，将你抛入与
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, 动作, CSGO, 第一人称射击, 恐怖, 射击, 射击游戏, 射手, 射击游戏, Unity3D
+- 标签: 3D, 3D游戏, 动作, CSGO, 第一人称射击, 恐怖, 射击, 射击游戏, 射击类, 射击, Unity3D

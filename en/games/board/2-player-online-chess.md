@@ -19,6 +19,6 @@ Jump into the timeless fun of chess with 2 Player Online Chess! Play solo agains
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Board, Brain, Casual, Classic, Educational, Fun, Game, Games, HTML5, html5 games, Strategy, Train
+- Tags: 2 Player, 2 Player Games, Board, Brain, Casual, Classic, educational, Fun, Game, Games, HTML5, html5 games, strategy, Train

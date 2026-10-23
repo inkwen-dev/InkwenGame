@@ -21,4 +21,4 @@ Crazy scientist in crazy mode, math is his favorite subject. He created a laser 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Brain, Kid, Math, Number, Puzzle, Shoot
+- Tags: Boy, Brain, Kid, math, Number, Puzzle, Shoot

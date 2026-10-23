@@ -21,4 +21,4 @@ Are your ready to drive Prado Simulator game and show your Prado Driving experie
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Cars, Cartoon Network, Casual, drift, drifting, Fun, Funny, Hypercasual, Parking, Race, Racing, Supercars, Superhero
+- Tags: Action, Arcade, Cars, Cartoon Network, Casual, drift, drifting, Fun, Funny, Hypercasual, parking, Race, Racing, Supercars, Superhero

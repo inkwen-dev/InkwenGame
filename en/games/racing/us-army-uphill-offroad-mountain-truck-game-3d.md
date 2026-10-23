@@ -21,4 +21,4 @@ US army transporter game is realistic offroad truck driving simulator games of 2
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Driving, HTML, HTML5, Racing, Simulation, Simulator, Truck
+- Tags: Army, Driving, HTML, HTML5, Racing, Simulation, Simulator, truck

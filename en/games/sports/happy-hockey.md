@@ -19,6 +19,6 @@ Hockey Goal 3D new Hockey game with Unique Crazy Levels , Play with Hit Happy Sh
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Fun, hockey

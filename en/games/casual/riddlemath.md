@@ -21,4 +21,4 @@ Math Riddles level up your IQ with a mix of logical puzzles. Challenge yourself 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, builder, Math
+- Tags: Brain, builder, math

@@ -21,4 +21,4 @@ Take time to jump and land safely onto the platform. Collect start to balancing 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Casual, HTML5, Monster
+- Tags: 2D, Arcade, Casual, HTML5, monster

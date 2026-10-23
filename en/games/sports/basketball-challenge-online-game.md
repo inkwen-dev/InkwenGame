@@ -21,4 +21,4 @@ Basketball Challenge is a free online basketball game where you control the ball
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Basketball, Sport, Sports
+- Tags: Arcade, basketball, Sport, sports

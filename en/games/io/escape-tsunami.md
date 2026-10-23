@@ -19,6 +19,6 @@ Find your way to escape from the Tsunami. Each level is a challenge. Are you rea
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Hypercasual

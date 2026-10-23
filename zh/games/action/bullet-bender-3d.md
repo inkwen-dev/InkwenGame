@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, 动作, 男孩, 男孩, 游戏, 游戏, 枪械, 互动, Unity3D
+- 标签: 3D, 3D游戏, 动作, 男孩, 男孩们, 游戏, 网页游戏, 枪械, 互动, Unity3D

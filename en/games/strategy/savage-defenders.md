@@ -40,4 +40,4 @@ The village is a place where magic and nature merge. Its inhabitants, divided in
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Strategy, Tower Defense
+- Tags: strategy, Tower Defense

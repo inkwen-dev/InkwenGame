@@ -21,4 +21,4 @@ Car Parking School is an epic car parking game with load of levels. Park your ca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Driving, Parking, Unity3D, WebGL
+- Tags: Car, Driving, parking, Unity3D, WebGL

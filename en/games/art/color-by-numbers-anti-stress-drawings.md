@@ -41,4 +41,4 @@ The app works on Android and in a web browser. Save your works, share with frien
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Color, Drawing
+- Tags: Color, drawing

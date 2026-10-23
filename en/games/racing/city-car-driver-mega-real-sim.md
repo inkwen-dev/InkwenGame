@@ -19,6 +19,6 @@ Experience City Car Driver Mega Real Sim, an engaging WebGL game designed for qu
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Car, city, Driving, Racing, Simulator, WebGL

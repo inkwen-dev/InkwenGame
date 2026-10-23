@@ -21,4 +21,4 @@ Jump Ball Arcade, Best Game HTML5
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Best, Game, HTML5, jump, Jumping, Soccer, Sport
+- Tags: Arcade, Ball, Best, Game, HTML5, jump, jumping, Soccer, Sport

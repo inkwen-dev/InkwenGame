@@ -21,4 +21,4 @@ Welcome to a new dimension of arcade and endless with our Tetris Fun Game.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Block
+- Tags: 2D, block

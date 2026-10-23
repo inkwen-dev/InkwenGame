@@ -21,4 +21,4 @@ In this MMA Turtles Jigsaw game you have 6 images of turtle toys in three modes 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Jigsaw, Mobile, Ninja, Puzzle
+- Tags: HTML5, Jigsaw, Mobile, ninja, Puzzle

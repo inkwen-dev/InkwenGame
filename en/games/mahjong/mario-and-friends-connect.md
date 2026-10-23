@@ -21,4 +21,4 @@ Do you like Mario games? Well! This is an amazing puzzle connect mario game wher
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Clicker, Mahjong, Mario, Matching
+- Tags: Arcade, Casual, Clicker, mahjong, mario, Matching

@@ -21,4 +21,4 @@ WASD移动 T聊天 R重新装填 P暂停 C蹲下 空格键跳跃 左键点击开
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D 游戏, 火箭, 射手, Unity3D, 武器, WebGL
+- 标签: 3D游戏, 火箭, 射击类, Unity3D, 武器, WebGL

@@ -21,4 +21,4 @@ Spider Solitaire card game with 2 suits. The objective of this Spider Solitaire 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Classic, Puzzle, Solitaire
+- Tags: card, Classic, Puzzle, solitaire

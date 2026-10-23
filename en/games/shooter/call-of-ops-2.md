@@ -19,6 +19,6 @@ Call of Ops 2 features next-gen graphics and big arsenal of weapons to shoot riv
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, CSGO, Gun, Multiplayer, Shoot, Shoot 'Em Up, Shooter, Shooting, Unity3D, War, WebGL

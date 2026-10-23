@@ -21,4 +21,4 @@ Simple to play but so satisfying. Can you make a 2048 card? Use your finger or m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Card, Fun, Number, Puzzle
+- Tags: Best, card, Fun, Number, Puzzle

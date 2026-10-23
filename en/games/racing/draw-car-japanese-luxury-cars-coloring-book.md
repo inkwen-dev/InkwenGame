@@ -19,6 +19,6 @@ Japanese Luxury Cars Coloring Book is a cool colouring game designed for all age
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Anime, Boys, Car, Cars, Cartoon, Cartoon Network, Color, Coloring, Draw, Drawing, Games, Girl, Girls, Kids, Supercars
+- Tags: .io Games, Anime, Boys, Car, Cars, Cartoon, Cartoon Network, Color, Coloring, Draw, drawing, Games, Girl, Girls, Kids, Supercars

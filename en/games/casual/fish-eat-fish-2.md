@@ -19,6 +19,6 @@ Fish Eat Fish is a game where you must eat other fish to survive. It can be play
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Fish, HTML5, Multiplayer

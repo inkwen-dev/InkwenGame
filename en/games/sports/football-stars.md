@@ -19,6 +19,6 @@ Play football with cartoon stars like teen titans, we bare bears, dc super hero 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cartoon, Football, Mobile, Soccer, Sport, Sports
+- Tags: Boys, Cartoon, Football, Mobile, Soccer, Sport, sports

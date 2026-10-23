@@ -21,4 +21,4 @@ subway Super hero Stack is a jumping game. Just Tap or click to jump over stacks
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Android, Baby Hazel, Ball, Baseball, Best, Billiard, Blood, Boxing, Boy, Brain, Bricks, Bridge, Business, Candy, Car, Cartoon, Castle, Cleaning, Fighting, Games, HTML5, Soccer, Super, Supercars, Superhero
+- Tags: 2 Player, Android, Baby Hazel, Ball, baseball, Best, Billiard, Blood, Boxing, Boy, Brain, Bricks, Bridge, Business, Candy, Car, Cartoon, Castle, Cleaning, fighting, Games, HTML5, Soccer, Super, Supercars, Superhero

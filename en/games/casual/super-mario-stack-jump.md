@@ -21,4 +21,4 @@ Super Mario Stack Jump – is a HTML5 skill game. Mario has to jump to stack blo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Mario, Super
+- Tags: jump, mario, Super

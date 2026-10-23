@@ -21,4 +21,4 @@ Beat Corona is memory game where you need to memorize two same images with peopl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Memory, Puzzle
+- Tags: memory, Puzzle

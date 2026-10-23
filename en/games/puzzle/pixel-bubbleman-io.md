@@ -19,6 +19,6 @@ The streets are full of bubbleman and they fight when they meet. You are also a 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boy, Casual, Fight, Fighting, Game, Highscore, Kid, Pixel, Puzzle, Timing
+- Tags: 3D, Boy, Casual, Fight, fighting, Game, Highscore, Kid, pixel, Puzzle, Timing

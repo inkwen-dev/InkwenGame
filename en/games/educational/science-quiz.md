@@ -17,4 +17,4 @@ Dive into Science QUIZ, where fun meets knowledge! Challenge your brain across 5
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Math
+- Tags: math

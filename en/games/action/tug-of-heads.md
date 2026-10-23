@@ -19,6 +19,6 @@ Tug of Heads is a fun wrestling game that can be played for 1 and 2 Player. Ther
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Boys, Fun, Funny, Physics, Stickman
+- Tags: 2 Player, 2 Player Games, Boys, Fun, Funny, Physics, stickman

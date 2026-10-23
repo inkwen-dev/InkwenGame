@@ -21,4 +21,4 @@ Are you annoyed by all the similar parking games, and lack of high quality graph
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 8 Ball Pool, Boys, Bubble Shooter, Burger, Candy, Car, Cars, drift, Games, Supercars, Truck
+- Tags: .io Games, 8 Ball Pool, Boys, Bubble Shooter, Burger, Candy, Car, Cars, drift, Games, Supercars, truck

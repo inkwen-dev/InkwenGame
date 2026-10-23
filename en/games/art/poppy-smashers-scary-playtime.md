@@ -19,6 +19,6 @@ SMASH hard! GROW bigger! Survive io hide n seek arena full of horror Huggy Wuggy
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 2D, 3D, 3D Games, Action, Adult, Adventure, Baby, Color, Coloring, Dating, Educational, endless, Escape
+- Tags: 2 Player Games, 2D, 3D, 3D Games, Action, Adult, Adventure, Baby, Color, Coloring, Dating, educational, endless, Escape

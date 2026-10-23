@@ -50,4 +50,4 @@ Ready to color outside the lines? Tap Install and unleash your inner artist on t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Color, Drawing, Kids, Mobile, Puzzle
+- Tags: Brain, Color, drawing, Kids, Mobile, Puzzle

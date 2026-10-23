@@ -21,4 +21,4 @@ Enjoy the best of helicopter games to make you forget the helicopter games. Yes!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Action, Adventure, Arcade, Balance, Best, Casual, Helicopter, Logical, Race
+- Tags: 1 Player, 3D Games, Action, Adventure, Arcade, Balance, Best, Casual, helicopter, Logical, Race

@@ -21,4 +21,4 @@ Shapes Using Dots is a fun and challenging puzzle game that tests your spatial r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: blocky, Educational
+- Tags: blocky, educational

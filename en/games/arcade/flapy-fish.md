@@ -21,4 +21,4 @@ Flapy Fish is an exciting and challenging game where you control a small fish th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Animal, Arcade, Best, Cool, Fish
+- Tags: Adventure, Animal, Arcade, Best, cool, Fish

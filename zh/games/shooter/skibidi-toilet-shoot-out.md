@@ -21,4 +21,4 @@ Skibidi 厕所射击对决是一款超级有趣的射击游戏，您可以在网
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 街机, 躲避, 男孩, 超休闲, 射击, 射击, 斯基比迪马桶, 技巧
+- 标签: 安卓, 街机, 躲避, 男孩们, 超休闲, 射击, 射击, skibidi-toilet, 技巧

@@ -21,4 +21,4 @@ Looking for some superheroes games then try this Super Flash Speed Hero Game "Su
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Flight, fly, King, Super, Superhero
+- Tags: Action, Adventure, flight, fly, King, Super, Superhero

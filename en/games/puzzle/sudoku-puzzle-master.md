@@ -19,6 +19,6 @@ Challenge your mind with Sudoku Puzzle Master, the ultimate number puzzle experi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Casual, Math, Mind, Puzzle, Sudoku
+- Tags: Boy, Casual, math, Mind, Puzzle, Sudoku

@@ -21,4 +21,4 @@ The goal of the game is to prevent the frog from getting very hungry by helping 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Animal, Cartoon, Click, HTML5, jump, Jumping
+- Tags: 1 Player, Action, Animal, Cartoon, Click, HTML5, jump, jumping

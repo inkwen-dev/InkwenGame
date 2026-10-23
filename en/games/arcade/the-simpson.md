@@ -19,6 +19,6 @@ The Simpson is a funny and amazing game. Tap the screen to fly between yellow ob
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bird, Bounce, Brain, Classic, fly, sky

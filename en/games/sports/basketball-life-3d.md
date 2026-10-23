@@ -21,4 +21,4 @@ Ready for the wonderful basketball challenge? Basketball Life 3D is a fun and cr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Shooter, Sport
+- Tags: basketball, Shooter, Sport

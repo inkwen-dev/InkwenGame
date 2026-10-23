@@ -21,4 +21,4 @@ World of Alice - Sizes World of Alice - Sizes is a game developed for children t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Cartoon, Educational, free html5 games for your website, Fun, html5 games for your site, Kids, School, touch
+- Tags: Best Games, Cartoon, educational, free html5 games for your website, Fun, html5 games for your site, Kids, School, touch

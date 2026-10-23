@@ -15,6 +15,6 @@ In Yummy Toast, become the toast crafting expert in a lively kitchen setting. Qu
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: games-for-girls

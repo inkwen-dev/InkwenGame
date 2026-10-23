@@ -21,4 +21,4 @@ Get Away Ninja is an exhilarating auto-run platform puzzle game that puts you in
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Android, HTML5, jump, Mobile, Ninja, run
+- Tags: Action, Android, HTML5, jump, Mobile, ninja, run

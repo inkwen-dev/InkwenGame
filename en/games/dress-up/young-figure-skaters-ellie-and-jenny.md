@@ -21,4 +21,4 @@ Meet young skaters Ellie and Jenny! They made a splash at the figure skating cha
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dress Up, Girl, Girls, Princess, Skating, Sport, Sports
+- Tags: Dress Up, Girl, Girls, Princess, Skating, Sport, sports

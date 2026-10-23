@@ -30,4 +30,4 @@ Train memory, logic, agility and reaction time now!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, Puzzle, Quiz
+- Tags: Brain, educational, Puzzle, Quiz

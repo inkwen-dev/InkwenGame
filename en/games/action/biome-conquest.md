@@ -19,6 +19,6 @@ Take over territories in a game of strategy. Steal your enemy's tiles by placing
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Battle, Board, Fantasy, Ice, Puzzle, Strategy, Wizard
+- Tags: 2 Player, battle, Board, Fantasy, Ice, Puzzle, strategy, Wizard

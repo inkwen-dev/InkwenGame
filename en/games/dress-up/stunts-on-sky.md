@@ -21,4 +21,4 @@ Car Stunts Battle Into Cargo Plane : Kids Games Lets play the best car stunts ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Car, Cars, Cartoon, Games, Hair, Parking, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D
+- Tags: 3D, 3D Games, Adventure, Car, Cars, Cartoon, Games, Hair, parking, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D

@@ -19,6 +19,6 @@ In this game you can play with a Flappy Haggy Waggy! Just Tap to fly and try to 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML5, Hypercasual, jump, run

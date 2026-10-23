@@ -21,4 +21,4 @@ Starry Bridge: Physics Puzzle is a captivating and brain-challenging game that t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Brain, construction, Fun, Game, Kids, Physics, Puzzle, Space, Strategy
+- Tags: 2026 games, Brain, construction, Fun, Game, Kids, Physics, Puzzle, Space, strategy

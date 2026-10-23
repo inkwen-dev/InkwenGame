@@ -19,6 +19,6 @@ It's possible now to play the Mickey Mouse Preschool: Minnie's Magnificent Garde
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Baby, Baby Hazel, Brain, Disney, Educational, Family, Farm, Fun, HTML5, Kids, Mobile, Plant, Puzzle, School
+- Tags: Arcade, Baby, Baby Hazel, Brain, Disney, educational, Family, Farm, Fun, HTML5, Kids, Mobile, Plant, Puzzle, School

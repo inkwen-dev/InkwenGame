@@ -19,6 +19,6 @@ This app brings dress up games for girls to the next level and combines them wit
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Game, Girl, Girls, Kid, Kids

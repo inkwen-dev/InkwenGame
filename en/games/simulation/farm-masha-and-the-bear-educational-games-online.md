@@ -19,6 +19,6 @@ Discover the fantastic farm of Masha and the bear through these 30 educational g
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Anime, Cartoon, Cartoon Network, Draw, Educational, Farm, Girls, Horse, Kid, Kids, Magic, Online, Princess, School, Simulator
+- Tags: Animal, Anime, Cartoon, Cartoon Network, Draw, educational, Farm, Girls, horse, Kid, Kids, Magic, Online, Princess, School, Simulator

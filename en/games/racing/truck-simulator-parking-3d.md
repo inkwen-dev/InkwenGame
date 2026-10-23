@@ -21,4 +21,4 @@ This transport truck adventure is a thrilling offroad truck driving game with fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Driving, Parking, Simulation, Simulator, Truck
+- Tags: Adventure, Driving, parking, Simulation, Simulator, truck

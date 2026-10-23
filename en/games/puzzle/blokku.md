@@ -21,4 +21,4 @@ BLOKKU is an addictive block puzzle game! Drag and drop pieces onto the 11x11 gr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ai Games, Block, mapi games, Puzzle, puzzleblock, Tetris
+- Tags: Ai Games, block, mapi games, Puzzle, puzzleblock, tetris

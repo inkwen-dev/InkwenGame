@@ -19,6 +19,6 @@ Eliminate enemies and survive by turns as long as you can!
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Arcade, Pixel, Shoot, Shooter
+- Tags: 2D, Action, Arcade, pixel, Shoot, Shooter

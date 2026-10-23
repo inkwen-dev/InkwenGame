@@ -19,6 +19,6 @@ Super Mario Halloween is a Mini game Super Mario version Halloween created by RC
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Avoid, Castle, Escape, Fun, Halloween, Jumping, Mario, running
+- Tags: Adventure, Avoid, Castle, Escape, Fun, Halloween, jumping, mario, running

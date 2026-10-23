@@ -19,6 +19,6 @@ Kitty Kate Caring Game is a game to learn about the habits of a fancy cat. There
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cat, Funny, Girls

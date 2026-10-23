@@ -21,4 +21,4 @@ Siren Head 对战卡通猫 弓箭手是一款紧张刺激的物理弓箭游戏�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 卡通, 猫, 怪物
+- 标签: 冒险, 卡通, 猫, monster

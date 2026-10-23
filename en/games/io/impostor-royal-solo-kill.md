@@ -21,4 +21,4 @@ Prepare for a breathtaking Impostor battle. You have to be fast and agile in ord
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 3D Games, Action, Arcade, Arena, Battle, Casual, Space, Spaceship, War, WebGL
+- Tags: .io, 3D Games, Action, Arcade, Arena, battle, Casual, Space, Spaceship, War, WebGL

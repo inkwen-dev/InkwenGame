@@ -21,4 +21,4 @@ Are you ready to put some hoops in the basket? Take a ball and begin dunking it 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Android, Ball, Basketball, HTML5, Mobile, Unity3D
+- Tags: 3D Games, Android, Ball, basketball, HTML5, Mobile, Unity3D

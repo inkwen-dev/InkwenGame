@@ -21,4 +21,4 @@ Sweetsu 拼图是一款令人放松 yet 具有策略性的游戏。通过绘制�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 方块, HTML5游戏, 匹配, 移动设备, 拼图, 技巧
+- 标签: 方块, HTML5游戏, 匹配, 移动设备, 益智, 技巧

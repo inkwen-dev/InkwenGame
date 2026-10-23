@@ -21,4 +21,4 @@ Welcome to the joyful world of Merge Crypto. This game is an interesting and cla
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2048, 2D, Arcade, Ball, Best, Best Games, Brain, Casual, Crazy, Highscore, Hypercasual, Logic, Logical, Matching
+- Tags: 2048, 2D, Arcade, Ball, Best, Best Games, Brain, Casual, crazy, Highscore, Hypercasual, Logic, Logical, Matching

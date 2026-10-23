@@ -19,6 +19,6 @@ Bienvenue à Tailed Demon Slayer. Rejoignez l'aventure de notre héros à Bestia
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Battlegrounds, Fight

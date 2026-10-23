@@ -19,6 +19,6 @@ enguin Run is an amazing penguin running and jumping adventure game in the ICE W
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, run, running

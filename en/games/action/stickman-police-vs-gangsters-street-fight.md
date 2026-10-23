@@ -21,4 +21,4 @@ Be a police stickman hero in city battle as a stickman fighting super hero. The 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting, Pokemon, Police, Stickman, Street Fighting
+- Tags: Fight, fighting, Pokemon, police, stickman, Street Fighting

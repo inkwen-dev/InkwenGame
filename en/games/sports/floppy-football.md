@@ -19,6 +19,6 @@ Floppy Football is a fun and addictive arcade-style game that is enjoyed by peop
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Crazy, Football, Fun, Funny, Game, Games, Highscore, HTML5, Hypercasual, Online
+- Tags: 1 Player, Arcade, crazy, Football, Fun, Funny, Game, Games, Highscore, HTML5, Hypercasual, Online

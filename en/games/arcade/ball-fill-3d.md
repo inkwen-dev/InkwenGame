@@ -19,6 +19,6 @@ Christmas is coming. Santa wants to bring out the twisted eggs for the coming of
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Boy, Boys, Christmas, HTML5, Kid, Kids, Puzzle, WebGL

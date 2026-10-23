@@ -19,6 +19,6 @@ It's Christmas Eve and Santa’s sledge has gone out of control spilling present
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Car, Christmas, Family, HTML, HTML5, jump, Jumping, Mobile, Race, Racing
+- Tags: Arcade, Car, Christmas, Family, HTML, HTML5, jump, jumping, Mobile, Race, Racing

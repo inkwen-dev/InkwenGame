@@ -19,6 +19,6 @@ Do you prefer to serve and volley or stick to the baseline and smash powerful fo
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Shoot, Shooter, Sport, Sports, Tennis
+- Tags: Shoot, Shooter, Sport, sports, Tennis

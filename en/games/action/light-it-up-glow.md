@@ -19,6 +19,6 @@ Light It Up - Glow Game Here Jump, flip and swing your tiny little body from one
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arcade, Battle, Casual, endless, Stickman
+- Tags: 2D, Adventure, Arcade, battle, Casual, endless, stickman

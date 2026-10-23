@@ -21,4 +21,4 @@ Step into the silent world of precision and power. You are Mr. Sniper, a legenda
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Shooter, Shooting, Sniper
+- Tags: 1 Player, Shooter, Shooting, sniper

@@ -19,6 +19,6 @@ Welcome to the world of Impostors and Crewmates! In this game you have 12 puzzle
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Crazy, Funny, Jigsaw
+- Tags: crazy, Funny, Jigsaw

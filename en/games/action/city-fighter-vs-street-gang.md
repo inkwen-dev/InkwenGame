@@ -21,4 +21,4 @@ City Fighter vs Street Gang provides you with a super fighting experience in thi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: city, Fighting, jump, Mobile, Street Fighting
+- Tags: city, fighting, jump, Mobile, Street Fighting

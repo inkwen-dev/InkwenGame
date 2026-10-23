@@ -21,4 +21,4 @@ Empower kids to learn good daily habits through engaging tasks! Shop, learn, and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Games, Baby Hazel, Best Games, Cleaning, Educational, Kid, Kids, NapTech Games, Online
+- Tags: Baby Games, Baby Hazel, Best Games, Cleaning, educational, Kid, Kids, NapTech Games, Online

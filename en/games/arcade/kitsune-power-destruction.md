@@ -21,4 +21,4 @@ A Kitsune just landed in the forest! This imposing animal is angry and he wants 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Ninja
+- Tags: Action, Arcade, ninja

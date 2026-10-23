@@ -19,6 +19,6 @@ Marvelous Girl Skate is an exhilarating arcade experience where you control a st
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Girls, Ice, Skating

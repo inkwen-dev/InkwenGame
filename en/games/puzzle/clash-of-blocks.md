@@ -21,4 +21,4 @@ In Clash of Blocks 2, your job is to strategically place your own block so that 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Boys, Clash, Fun, Funny, Girls, HTML5, Kids, Mobile
+- Tags: block, Boys, Clash, Fun, Funny, Girls, HTML5, Kids, Mobile

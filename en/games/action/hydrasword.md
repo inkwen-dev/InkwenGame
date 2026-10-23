@@ -21,4 +21,4 @@ This game HydraSword is about playing on land and water and fighting the creatur
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fish, Sword, Warrior, water
+- Tags: Fish, sword, Warrior, water

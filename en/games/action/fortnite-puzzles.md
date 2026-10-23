@@ -21,4 +21,4 @@ Welcome to the game called Fortnite Puzzles! In this game you have 12 puzzles wi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Battle, Casual, Fun, HTML5, Hypercasual, Kids, Mobile, Skill
+- Tags: 1 Player, battle, Casual, Fun, HTML5, Hypercasual, Kids, Mobile, Skill

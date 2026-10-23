@@ -19,6 +19,6 @@ Bounce Big is a challenging but super fun new arcade game! Your goal will be to 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Avoid, Funny, Kid, Obstacle

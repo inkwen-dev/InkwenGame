@@ -19,6 +19,6 @@ Slide on the screen, the cube moves with your finger and it fill the place with 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Adventure, Arcade, Bike, Boy, Boys, Bubble, Bubble Shooter, Cake, Candy, Color, Coloring, Fun, Funny, Game, Games, Girl, Girls, Kid, Kissing, Mario, Motorcycle, Punch, Puzzle, Spaceship, Spiderman
+- Tags: 8 Ball Pool, Adventure, Arcade, bike, Boy, Boys, Bubble, Bubble Shooter, Cake, Candy, Color, Coloring, Fun, Funny, Game, Games, Girl, Girls, Kid, Kissing, mario, Motorcycle, Punch, Puzzle, Spaceship, Spiderman

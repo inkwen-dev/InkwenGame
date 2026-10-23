@@ -21,4 +21,4 @@ Welcome to the world of two players of the red hands game. Challenge your friend
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2025 games, Action, attack, Fighting, Red
+- Tags: 2 Player, 2 Player Games, 2025 games, Action, attack, fighting, Red

@@ -19,6 +19,6 @@ hit the basket to score
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Basketball, Hypercasual, Physics
+- Tags: Arcade, basketball, Hypercasual, Physics

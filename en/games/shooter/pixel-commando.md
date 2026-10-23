@@ -21,4 +21,4 @@ Pixel Commando is an action-packed 2D run-and-gun shooter inspired by classic ar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, HTML5, Pixel, Shooting
+- Tags: 1 Player, 2D, Action, Adventure, HTML5, pixel, Shooting

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 动作, 驾驶, gta, H5, 竞速, 赛车
+- 标签: 3D, 动作, 驾驶, gta, H5, 比赛, 竞速

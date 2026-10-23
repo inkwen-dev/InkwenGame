@@ -19,6 +19,6 @@ In this game, a bird image is hidden beneath division expression tiles. Players 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, html5 games, Logical, Math, Mobile, Number, Puzzle, School
+- Tags: educational, html5 games, Logical, math, Mobile, Number, Puzzle, School

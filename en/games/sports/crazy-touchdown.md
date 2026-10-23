@@ -21,4 +21,4 @@ Are you ready to make an unbelievable touchdown? Rush through a lot of enemies a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, 2D, Adventure, Arcade, Ball, Pool, Sports
+- Tags: .io, 1 Player, 2D, Adventure, Arcade, Ball, pool, sports

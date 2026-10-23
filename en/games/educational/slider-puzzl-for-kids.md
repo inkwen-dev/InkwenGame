@@ -21,4 +21,4 @@ Slider Puzzl for Kids game has a lot of success review and player this MONTH tha
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kid, Kids, King, Puzzle, School, Turn Based
+- Tags: educational, Kid, Kids, King, Puzzle, School, Turn Based

@@ -21,4 +21,4 @@ Poppy Playtime Hugie is an amazing running and jumping adventure Game! Run and j
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Hypercasual, Jumping, Mario, run, running
+- Tags: Clicker, Hypercasual, jumping, mario, run, running

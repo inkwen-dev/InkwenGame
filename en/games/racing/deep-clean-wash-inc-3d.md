@@ -19,6 +19,6 @@ Are U ready ! Welcome to Deep Clean : Wash Inc 3D . Highly satisfying cleaning e
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Car, Cartoon, Cleaning, Clicker, Unity3D

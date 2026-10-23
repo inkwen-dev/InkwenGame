@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 赛车, 点击游戏, HTML5, 拼图, 儿童, 解谜
+- 标签: 汽车, 点击器, HTML5, 拼图, 儿童, 益智

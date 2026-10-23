@@ -15,6 +15,6 @@ Immerse yourself in Mathematics, a strategic web game where your mathematical sk
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Math
+- Tags: math

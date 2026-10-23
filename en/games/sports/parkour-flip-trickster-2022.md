@@ -19,6 +19,6 @@ Train to become the Master of Trampoline by learning how to do frontflips, backf
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Android, HTML5, Mobile, Simulator, Sport, Sports, Unity3D, WebGL
+- Tags: 3D Games, Android, HTML5, Mobile, Simulator, Sport, sports, Unity3D, WebGL

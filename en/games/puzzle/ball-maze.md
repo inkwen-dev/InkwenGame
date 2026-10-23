@@ -21,4 +21,4 @@ Balls Maze is a classic puzzle game, perfect for taking a quick break to train y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Ball, Ballon, Brain, HTML5, Maze, Mobile, Puzzle, Retro
+- Tags: 2D, Ball, Ballon, Brain, HTML5, Maze, Mobile, Puzzle, retro

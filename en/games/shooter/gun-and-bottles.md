@@ -19,6 +19,6 @@ Pistol and Bottles is a bottle shooting game. How to play? You need to shoot the
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, H5, HTML, HTML5, Hypercasual, Shoot, Shooter, Shooting

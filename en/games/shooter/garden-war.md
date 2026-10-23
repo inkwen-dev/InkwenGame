@@ -19,6 +19,6 @@ Garden War is a fun combat game set in a colorful garden, where you must move sk
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Battle, Farm, Fun, War
+- Tags: 1 Player, battle, Farm, Fun, War

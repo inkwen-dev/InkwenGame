@@ -19,6 +19,6 @@ This is an interesting leisure magical swallowing game. It continues the classic
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Boy, Boys, Casual, Collecting, Collection, Game, Games, Girl, Girls, Google, H5, HTML, HTML5, Hypercasual, Kid, Kids, Mobile, Road, run, Snake
+- Tags: 3D Games, Action, Boy, Boys, Casual, Collecting, Collection, Game, Games, Girl, Girls, Google, H5, HTML, HTML5, Hypercasual, Kid, Kids, Mobile, Road, run, snake

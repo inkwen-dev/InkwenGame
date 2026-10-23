@@ -19,6 +19,6 @@ Reach for the stars in **Jump Master - Sky High**, an addictive and visually stu
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Action, amazing, Avoid, Best, Best Games, Crazy, jump, Jumping, survival
+- Tags: 1 Player, 2026 games, 2D, Action, amazing, Avoid, Best, Best Games, crazy, jump, jumping, survival

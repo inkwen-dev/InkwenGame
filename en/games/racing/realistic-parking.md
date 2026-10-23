@@ -21,4 +21,4 @@ Here is recommended as a traditional car parking simulation game with 3D game en
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boy, Car, Driving, HTML5, Kid, Mobile, Parking, Simulation
+- Tags: 3D, Boy, Car, Driving, HTML5, Kid, Mobile, parking, Simulation

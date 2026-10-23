@@ -19,6 +19,6 @@ In the vast landscape of communication, words are the building blocks of express
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Mentolatux, Puzzle, Unity3D, Word
+- Tags: Boys, Mentolatux, Puzzle, Unity3D, word

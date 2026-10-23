@@ -26,4 +26,4 @@ Featuring iconic brainrot-style characters, exaggerated animations, and colorful
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: .io, crazy-games, Funny, Snake
+- Tags: .io, crazy-games, Funny, snake

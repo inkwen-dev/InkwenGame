@@ -15,6 +15,6 @@ Embark on a thrilling quest in Hoona 2, a vibrant 2D platformer. Master double j
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

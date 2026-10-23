@@ -19,6 +19,6 @@ Overlook Tank War is an exciting top-down tank shooter where players control a p
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, attack, Battle, Shooter, Tank, Tanks, War
+- Tags: Action, Adventure, attack, battle, Shooter, Tank, tanks, War

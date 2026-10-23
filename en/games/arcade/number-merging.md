@@ -19,6 +19,6 @@ Number Merging is a captivating puzzle game that challenges your math skills and
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Clicker, Unity3D, WebGL

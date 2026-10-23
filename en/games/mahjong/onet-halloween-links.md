@@ -21,4 +21,4 @@ Connect 2 same halloween items with a path that no more than two 90 degree angle
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Halloween, HTML5, Mahjong, Mobile
+- Tags: Halloween, HTML5, mahjong, Mobile

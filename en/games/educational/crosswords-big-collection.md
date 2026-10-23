@@ -31,4 +31,4 @@ Progress saves automatically. Every solved word earns you points that push you u
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, Puzzle, words
+- Tags: Brain, educational, Puzzle, words

@@ -19,6 +19,6 @@ Welcome to the brand-new and fascinating free to play game——Golf Rival, a mu
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player, 3D Games, Adventure, Ball, Batman, Battle, Clash, Classic, Clicker, Craft, Fire, Magic
+- Tags: .io Games, 2 Player, 3D Games, Adventure, Ball, Batman, battle, Clash, Classic, Clicker, Craft, Fire, Magic

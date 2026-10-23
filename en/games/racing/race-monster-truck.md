@@ -19,6 +19,6 @@ There are multiple off road monster trucks available to ride in this truck simul
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boys, Car, Driving, HTML5, Truck, WebGL
+- Tags: 3D, Boys, Car, Driving, HTML5, truck, WebGL

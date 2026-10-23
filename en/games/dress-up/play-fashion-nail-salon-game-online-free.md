@@ -19,6 +19,6 @@ What better way to show off a new fashion than by getting a manicure done on you
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Cartoon, Casual, Dress Up, Fashion, Frozen, Fun, Games, Girl, Hypercasual, Kids, Makeover, Nail, Nails, Online, Princess

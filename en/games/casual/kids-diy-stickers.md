@@ -21,4 +21,4 @@ Kids DIY Stickers is a casual game. Imagine how fun it would be to DIY a special
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Stickman
+- Tags: Casual, stickman

@@ -21,4 +21,4 @@ WASD 方向键 —— 移动 鼠标左键 —— 与按钮、升级和用户界�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 街机, 汽车, 汽车们, 休闲, 清洁, HTML5, 闲置, 管理, 模拟, 模拟器, WebGL
+- 标签: 3D, 街机, 汽车, 汽车, 休闲, 清洁, HTML5, idle, 管理, 模拟, 模拟器, WebGL

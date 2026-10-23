@@ -19,6 +19,6 @@ Epicrolla is a one-tap isometric roller. Your ball climbs a diamond grid hopping
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Avoid, Ball, Cool, free games for your website, Game, HTML5, Mario, Mobile, Obstacle, onetouch, Skill, touch
+- Tags: 1 Player, Arcade, Avoid, Ball, cool, free games for your website, Game, HTML5, mario, Mobile, Obstacle, onetouch, Skill, touch

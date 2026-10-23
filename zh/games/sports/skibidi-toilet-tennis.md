@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 球, HTML5, 移动设备, Skibidi, Skibidi 洗手间, 体育, 运动, 网球
+- 标签: 街机, 球, HTML5, 移动设备, Skibidi, skibidi-toilet, 运动, 体育, 网球

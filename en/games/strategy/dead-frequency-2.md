@@ -21,4 +21,4 @@ Dead Frequency is a unique tower defense game where survival depends on a single
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Monster, Strategy, Tower Defense
+- Tags: monster, strategy, Tower Defense

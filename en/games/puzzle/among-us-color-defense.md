@@ -19,6 +19,6 @@ A skill and speed game about Among As. Our space base has been attacked, and you
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Color, Defense, HTML5, Mobile, Skill, Space

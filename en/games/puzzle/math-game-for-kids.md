@@ -19,6 +19,6 @@ Math Game For Kids – is a fun and beautiful mathematical game for children, th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boy, Boys, Fun, Funny, Girl, Girls, Math, Mobile, Puzzle, Skill
+- Tags: Android, Boy, Boys, Fun, Funny, Girl, Girls, math, Mobile, Puzzle, Skill

@@ -21,4 +21,4 @@ Welcome to your unique universe of toilet creatures, filled with the oddest, mos
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, HTML5, Hypercasual, iPad, iPhone, Mentolatux, Mobile, Puzzle, Skibidi, Skibidi Toilet
+- Tags: 2D, Android, HTML5, Hypercasual, iPad, iPhone, Mentolatux, Mobile, Puzzle, Skibidi, skibidi-toilet

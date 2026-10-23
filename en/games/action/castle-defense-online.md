@@ -19,6 +19,6 @@ Castle Defense is an interesting tower defense game with a popular Origami style
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Brain, Castle, Defense, Draw, Fighting, H5, HTML, HTML5, Hypercasual, Mobile, Online, Puzzle, Strategy, War
+- Tags: 3D, 3D Games, Brain, Castle, Defense, Draw, fighting, H5, HTML, HTML5, Hypercasual, Mobile, Online, Puzzle, strategy, War

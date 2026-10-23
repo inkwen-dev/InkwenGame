@@ -19,6 +19,6 @@ Fast Euro Train Driver Sim: Train Games 3D 2020 is new train driving simulator g
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Driving, Simulation, Simulator, Train

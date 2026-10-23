@@ -19,6 +19,6 @@ Would you like to go on adventures in different worlds with Super Peaman? Collec
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Boy, Fun, Funny, Girls, Kid, Kids, Mario, Super, Superhero
+- Tags: 1 Player, Action, Adventure, Boy, Fun, Funny, Girls, Kid, Kids, mario, Super, Superhero

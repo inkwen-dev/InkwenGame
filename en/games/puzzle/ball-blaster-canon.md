@@ -19,6 +19,6 @@ Ball Blaster is a hyper-casual addictive game where you use a cannon to shoot bo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Bubble Shooter, Hypercasual, Shooter, Shooting

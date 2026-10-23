@@ -15,6 +15,6 @@ Get lost in a world of delightful trinkets with Pop It Infinity! Tap to pop over
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Ball

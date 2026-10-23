@@ -21,4 +21,4 @@ Heart Star is undoubtedly one of the most interesting new arcade games this year
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, H5, HTML, HTML5, jump, Kids, Logical, Love, Mobile, Online, Pixel, Platform, Retro, Skill, Skills
+- Tags: Adventure, Arcade, H5, HTML, HTML5, jump, Kids, Logical, Love, Mobile, Online, pixel, Platform, retro, Skill, Skills

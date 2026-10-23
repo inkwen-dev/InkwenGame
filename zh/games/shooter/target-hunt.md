@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 2D, Android, 点击器, 枪械, 最高分, HTML5, 武器
+- 标签: 单人, 2D, 安卓, 点击器, 枪械, 高分, HTML5, 武器

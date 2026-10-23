@@ -21,4 +21,4 @@ Bike Master is a physics-based puzzle game where you build the missing parts of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Balance, Bike, Boys, build, Draw, Kids, Physics, Puzzle, Racing, Stickman, wheel, wheels
+- Tags: 1 Player, Arcade, Balance, bike, Boys, build, Draw, Kids, Physics, Puzzle, Racing, stickman, wheel, wheels

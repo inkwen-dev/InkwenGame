@@ -21,4 +21,4 @@ Experience this killer bug invasion! Smash them with your mouse in this great ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Block, Games, Ladybug, Online
+- Tags: 2D, block, Games, Ladybug, Online

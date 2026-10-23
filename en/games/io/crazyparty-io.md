@@ -19,6 +19,6 @@ Get ready for the funniest and most enjoyable battle royale game which has more 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Boy, Boys, Casual, Cool, HTML5, Hypercasual, WebGL
+- Tags: 3D, 3D Games, Action, Boy, Boys, Casual, cool, HTML5, Hypercasual, WebGL

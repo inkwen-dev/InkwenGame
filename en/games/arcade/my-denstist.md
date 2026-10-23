@@ -19,6 +19,6 @@ Fear of the dentist, be gone! The crazy dentist salon is here to help you learn 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Boy, Boys, Doctor, Educational, Girl, Girls, Hypercasual, Kid, Kids
+- Tags: Adventure, Arcade, Boy, Boys, Doctor, educational, Girl, Girls, Hypercasual, Kid, Kids

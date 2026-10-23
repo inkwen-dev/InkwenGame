@@ -21,4 +21,4 @@ Challenge your skills in this quirky game as you strategically shift cups to gui
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Fun, Games, HTML5, Kids, Puzzle, Skibidi, Skibidi Toilet, Skills
+- Tags: 1 Player, Fun, Games, HTML5, Kids, Puzzle, Skibidi, skibidi-toilet, Skills

@@ -19,6 +19,6 @@ Brainrot Jet Ski Racing is a fast paced, meme fueled racing game where iconic Br
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Brainrot, Brainrot Italian, Brainrot sahuuur, Italian Brainrot, jetski, Racing

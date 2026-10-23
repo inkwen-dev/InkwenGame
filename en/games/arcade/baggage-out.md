@@ -27,4 +27,4 @@ Baggage Out! is a fun interactive game where players organize and load baggage o
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, Car, Logic, Mouse, Parking, Puzzle
+- Tags: 3D, Arcade, Car, Logic, Mouse, parking, Puzzle

@@ -32,4 +32,4 @@ Dive into the thrilling realm of Stick Boy: Bazooka Ragdoll, where strategy and 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mobile, ragdoll, Stickman
+- Tags: Mobile, ragdoll, stickman

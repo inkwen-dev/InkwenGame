@@ -21,4 +21,4 @@ Desktop Tap the left button of the mouse to go from one pillar to another pillar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Best, Best Games, Hypercasual, NapTech Games, Skibidi, Skibidi Toilet
+- Tags: Adventure, Best, Best Games, Hypercasual, NapTech Games, Skibidi, skibidi-toilet

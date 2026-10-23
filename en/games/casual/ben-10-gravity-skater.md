@@ -19,6 +19,6 @@ Ben 10 and monster Heatblast with skateboard against gravity between two walls i
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ben 10, Boy, Boys, Game, Games, Skateboard, Skating
+- Tags: Ben 10, Boy, Boys, Game, Games, skateboard, Skating

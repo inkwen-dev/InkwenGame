@@ -35,4 +35,4 @@ If you're looking for something fresh, loud, and action-packed, Parking Boom wil
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, Car, Driving, Parking, Physics, Skill
+- Tags: Boys, Car, Driving, parking, Physics, Skill

@@ -29,4 +29,4 @@ Draw the lines to save the fruits & and cute fruits go home safely share your ac
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing
+- Tags: drawing

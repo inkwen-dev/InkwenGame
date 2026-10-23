@@ -19,6 +19,6 @@ Aim through your sniper scope and make your best shot! Gameplay: ▲ Hold and dr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Battle, Bubble Shooter, Fire, Shoot, Shoot 'Em Up, Shooter, Shooting
+- Tags: 1 Player, Action, battle, Bubble Shooter, Fire, Shoot, Shoot 'Em Up, Shooter, Shooting

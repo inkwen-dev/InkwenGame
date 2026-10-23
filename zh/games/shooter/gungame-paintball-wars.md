@@ -21,4 +21,4 @@ wasd-移动 鼠标-环顾四周 火箭瞄准 tab-菜单 空格键-跳跃
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 火焰, 多人游戏, 像素, 射手, 射击游戏, Unity3D, WebGL
+- 标签: 火焰, 多人, 像素, 射击类, 射击, Unity3D, WebGL

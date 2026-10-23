@@ -21,4 +21,4 @@ Squid Match Game is a simple cool game that requires finding match card pairs ba
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Card, Casual, Celebrity, Educational, endless, Game, Games, HTML, HTML5, Match 3, Matching, Memory, Puzzle
+- Tags: Brain, card, Casual, Celebrity, educational, endless, Game, Games, HTML, HTML5, Match 3, Matching, memory, Puzzle

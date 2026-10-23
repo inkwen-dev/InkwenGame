@@ -19,6 +19,6 @@ Run through the streets as Trash Cat! Collect fishbones and ultra special sardin
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Cat, dash, Game, Games, HTML, HTML5, Hypercasual, Mobile, Online, run, running

@@ -19,6 +19,6 @@ Lead a fearless crowd through chaotic city roads in Crazy Bus Escape Runner. Swi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Casual, Mobile, Obstacle, Skill, Stickman
+- Tags: 3D, Action, Casual, Mobile, Obstacle, Skill, stickman

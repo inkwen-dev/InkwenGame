@@ -19,6 +19,6 @@ It's possible now to play Cowboy Vs Martians game in your web browser for free a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Alien, Arcade, Boy, Bubble Shooter, Casual, Fun, Girl, Halloween, HTML5, Hypercasual, Mobile, New, Shoot, Shoot 'Em Up, Shooter, Shooting, Winter

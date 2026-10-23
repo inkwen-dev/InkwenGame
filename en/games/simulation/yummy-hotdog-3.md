@@ -19,6 +19,6 @@ Yummy Hotdog is a cooking game to make your delicious hotdog from scratch. Get t
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Burger, Cook, Cooking, Food, Girls, Restaurant
+- Tags: Burger, Cook, Cooking, Food, Girls, restaurant

@@ -21,4 +21,4 @@ Hello Offroaders! The new open world off-road driving simulator is here! It's ti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player, 3D Games, Barbie, Bike, Bubble, Bubble Shooter, Candy, Car, Cars, Clans, drift, Games, Girl, Girls, Hair, Helicopter, Hello Kitty, Highscore, Machine, Mario, Nail, Nails, run, running, School, Slither, Super, Supercars, Truck
+- Tags: .io Games, 2 Player, 3D Games, Barbie, bike, Bubble, Bubble Shooter, Candy, Car, Cars, Clans, drift, Games, Girl, Girls, Hair, helicopter, Hello Kitty, Highscore, Machine, mario, Nail, Nails, run, running, School, Slither, Super, Supercars, truck

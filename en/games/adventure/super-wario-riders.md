@@ -21,4 +21,4 @@ Join in a race in the world of mushrooms and magic stars, select and play with a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kiz 10, kiz10, Mario
+- Tags: Kiz 10, kiz10, mario

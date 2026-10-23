@@ -19,6 +19,6 @@ Beautiful graphics, nice music guarantee hours of exciting game
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Ben 10, Fun, Funny, jump, Jumping, Kid, Kids, Pixel, run, running
+- Tags: 1 Player, Animal, Ben 10, Fun, Funny, jump, jumping, Kid, Kids, pixel, run, running

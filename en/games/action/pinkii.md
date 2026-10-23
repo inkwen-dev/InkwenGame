@@ -21,4 +21,4 @@ Pinkii is a 2D Simple platformer where you need to avoid enemy monsters and spik
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Collection, Cute, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Collection, Cute, pixel, Platform, retro

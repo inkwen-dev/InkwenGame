@@ -19,6 +19,6 @@ You can have a great driving experience by using different kinds of trucks. In t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, HTML5, Racing, Simulation, Truck
+- Tags: 3D Games, HTML5, Racing, Simulation, truck

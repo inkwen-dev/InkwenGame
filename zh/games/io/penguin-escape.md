@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 单人游戏, 冒险, 动物, 逃脱, 冰雪奇缘, 搞笑, HTML, HTML5
+- 标签: .io 游戏, 单人, 冒险, 动物, 逃脱, 冰雪奇缘, 搞笑, HTML, HTML5

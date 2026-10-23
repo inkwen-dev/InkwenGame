@@ -19,6 +19,6 @@ There is a curious baby at home, touching here and there, parents are really tro
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cleaning, Cute, Decorate, Educational, Girl, Girls, Kids, Puzzle, Simulation
+- Tags: Animal, Baby, Cleaning, Cute, Decorate, educational, Girl, Girls, Kids, Puzzle, Simulation

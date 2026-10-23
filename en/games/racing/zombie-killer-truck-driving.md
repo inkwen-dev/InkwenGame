@@ -21,4 +21,4 @@ On Halloween Night, you drive a monster truck to find the way go home, on the ro
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Collecting, Truck, Zombie
+- Tags: Action, Adventure, Collecting, truck, Zombie

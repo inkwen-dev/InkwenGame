@@ -19,6 +19,6 @@ Gary's World is a totally new old school adventure game, your task is to help Ga
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mario
+- Tags: mario

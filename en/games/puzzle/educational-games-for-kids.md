@@ -21,4 +21,4 @@ Fun & educational toddler learning games that help pre-k kids to learn easily. T
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Coloring, Cute, Decorate, Educational, Fun, Girl, HTML5, Jigsaw, Kids, Mobile, Puzzle, Simulation
+- Tags: Adventure, Coloring, Cute, Decorate, educational, Fun, Girl, HTML5, Jigsaw, Kids, Mobile, Puzzle, Simulation

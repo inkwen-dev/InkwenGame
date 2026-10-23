@@ -19,6 +19,6 @@ Lion simulator games 2020 were never been so electrifying. This angry lion city 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Arena, Classic, jump, Jumping
+- Tags: Animal, Arcade, Arena, Classic, jump, jumping

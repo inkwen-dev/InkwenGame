@@ -21,4 +21,4 @@ A crowd of renegade stickman have started to invade the jungle and kill people. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Defense, Gun, Kill, Rescue, Shoot, Stickman, War
+- Tags: Action, battle, Defense, Gun, Kill, Rescue, Shoot, stickman, War

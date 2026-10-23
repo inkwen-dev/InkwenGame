@@ -19,6 +19,6 @@ Welcome to the taxi driving simulator. Be the best taxi driver in the whole town
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Car, Cars, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing
+- Tags: Action, Arcade, Car, Cars, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, jumping, Race, Racing

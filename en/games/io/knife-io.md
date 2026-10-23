@@ -21,4 +21,4 @@ Knife.io is multiplayer new io game. Addictive and innovative io game! Collect b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Action, Battle, HTML5, Multiplayer, Online, PvP, Sword
+- Tags: .io, Action, battle, HTML5, Multiplayer, Online, PvP, sword

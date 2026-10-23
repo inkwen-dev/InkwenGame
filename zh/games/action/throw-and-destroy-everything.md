@@ -21,4 +21,4 @@ WASD - 移动 用鼠标拾起并投掷破损机器人的零件，此操作在启
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 人, 3D, 竞技场, 对战, 物理, Unity3D
+- 标签: 单人, 3D, 竞技场, 战斗, 物理, Unity3D

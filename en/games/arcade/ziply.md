@@ -21,4 +21,4 @@ Ziply is a highly addictive, minimalist logic puzzle game. Your goal is simple: 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 2D, Arcade, free games for your website, html5 games, Hypercasual, Maze, Mind, Mobile, Puzzle, Strategy, touch
+- Tags: 2026 games, 2D, Arcade, free games for your website, html5 games, Hypercasual, Maze, Mind, Mobile, Puzzle, strategy, touch

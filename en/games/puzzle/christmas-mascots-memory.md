@@ -21,4 +21,4 @@ This is Christmas game with more levels. You need to click on Christmas cards an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, HTML5, Kids, Memory, Puzzle
+- Tags: Christmas, HTML5, Kids, memory, Puzzle

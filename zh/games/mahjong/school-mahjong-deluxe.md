@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 教育, 女孩, HTML5, 麻将, 匹配, 移动, 学校
+- 标签: 教育, 女孩, HTML5, mahjong, 匹配, 移动设备, 学校

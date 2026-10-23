@@ -19,6 +19,6 @@ Diamond Master is a casual puzzle game. Players need to always collect diamonds 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Games, Girl, Girls, Google, H5, HTML, Jewel, Play, run, Skills

@@ -19,6 +19,6 @@ Doom Zombie Survival is an intense first-person shooter game set in a post-apoca
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Shoot, Sniper, Undead, Unity3D, War, weapons, Zombie
+- Tags: Shoot, sniper, Undead, Unity3D, War, weapons, Zombie

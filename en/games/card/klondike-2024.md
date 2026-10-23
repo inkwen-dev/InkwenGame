@@ -15,6 +15,6 @@ Dive into Klondike 2024 and rediscover classic solitaire with a modern flair. St
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Card
+- Tags: card

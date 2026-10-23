@@ -19,6 +19,6 @@ Discover the mystery of Nonogram! Your goal is to determine which cells need to 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Hypercasual, Logic, Logical, Memory, Puzzle, Strategy
+- Tags: Brain, Casual, Hypercasual, Logic, Logical, memory, Puzzle, strategy

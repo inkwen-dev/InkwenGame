@@ -19,6 +19,6 @@ Enjoy The SkyBall With Different modes.
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 8 Ball Pool, Action, Arcade, Ball, Car, Casual, Fun, Funny, Hot, Hypercasual, sky

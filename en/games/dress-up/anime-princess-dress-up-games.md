@@ -21,4 +21,4 @@ Anime Princess Dress Up is a super cute dress up game. If you are a girl who lik
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Cool, Cute, Decorate, Decoration, Dress Up, Fashion, Fun, Girls, HTML5, Kids, Mobile, Princess
+- Tags: Anime, cool, Cute, Decorate, Decoration, Dress Up, Fashion, Fun, Girls, HTML5, Kids, Mobile, Princess

@@ -19,6 +19,6 @@ Enjoy The Hypercasual game
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 2D, Action, Adventure, Arcade, Battlegrounds, Fun, Funny, Hot, jump, Jumping, Race, Unity3D
+- Tags: .io, 2D, Action, Adventure, Arcade, Battlegrounds, Fun, Funny, Hot, jump, jumping, Race, Unity3D

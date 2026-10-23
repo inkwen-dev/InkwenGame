@@ -19,6 +19,6 @@ You are a fan of Huggy Wuggy, have you ever been curious about Huggy Wuggy's his
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Battle, city, Games
+- Tags: 3D Games, Action, battle, city, Games

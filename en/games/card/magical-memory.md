@@ -19,6 +19,6 @@ Click the cards to reveal a magic icon . Memorize it so that you can match to si
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Board, Card, HTML, Kids, Magic, Matching, Memory, Mobile, Puzzle
+- Tags: Arcade, Board, card, HTML, Kids, Magic, Matching, memory, Mobile, Puzzle

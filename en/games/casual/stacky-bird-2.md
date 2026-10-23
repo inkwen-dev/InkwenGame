@@ -15,6 +15,6 @@ In Stacky Bird, skill and timing are your best companions as you guide a bird bu
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Animal

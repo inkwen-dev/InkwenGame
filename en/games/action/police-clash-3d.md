@@ -19,6 +19,6 @@ Gather your elite squad of skilled individuals, each with their unique strengths
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Android, Click, HTML5, Mentolatux, Mobile, Mouse, Police, Unity3D
+- Tags: 3D Games, Android, Click, HTML5, Mentolatux, Mobile, Mouse, police, Unity3D

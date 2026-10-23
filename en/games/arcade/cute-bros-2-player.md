@@ -21,4 +21,4 @@ In this adventure, two siblings need to find all the necessary items. Each sibli
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, pixel

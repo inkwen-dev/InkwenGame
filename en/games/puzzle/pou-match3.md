@@ -21,4 +21,4 @@ Pou games are funny adventures of a small and completely helpless alien who acci
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Match-3, Mobile
+- Tags: HTML5, Match 3, Mobile

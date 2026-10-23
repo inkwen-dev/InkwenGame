@@ -21,4 +21,4 @@ Are you looking for the best 2D adventure game? Then don’t miss out Super Jake
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Bubble Shooter, Fun, Funny, Mario, Shoot, Shoot 'Em Up, Super
+- Tags: Action, Adventure, Arcade, Bubble Shooter, Fun, Funny, mario, Shoot, Shoot 'Em Up, Super

@@ -21,4 +21,4 @@ Lead your growing crowd of soccer balls down the pitch in this fast-paced footba
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Ball, Football, Physics, Shooting, Soccer, Sports
+- Tags: 3D, Ball, Football, Physics, Shooting, Soccer, sports

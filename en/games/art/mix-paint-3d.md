@@ -21,4 +21,4 @@ Mix & Paint 3D is a relaxing color-mixing and 3D painting puzzle. Choose pigment
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Color, Drawing, Logic, Puzzle
+- Tags: 3D, Color, drawing, Logic, Puzzle

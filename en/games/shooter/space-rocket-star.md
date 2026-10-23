@@ -21,4 +21,4 @@ Have you ever imagined that join airforce and save the space galaxy? Space Rocke
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Air, Aircraft, Boy, Fight, Fighting, Girls, Plane, Shooter, Shooting, Super
+- Tags: Air, Aircraft, Boy, Fight, fighting, Girls, Plane, Shooter, Shooting, Super

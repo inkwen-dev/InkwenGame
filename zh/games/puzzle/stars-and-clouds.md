@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人模式, 球, 有趣, HTML5, 孩子们, 点击式, 技巧
+- 标签: 单人, 球, 有趣, HTML5, 儿童, 点击式, 技巧

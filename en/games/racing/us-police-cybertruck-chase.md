@@ -19,6 +19,6 @@ Welcome to CyberTruck Police Chase: Modern Cop Games 2020 offered by FUN EXTREME
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Boy, Boys, Car, Cars, city, drift, drifting, Driving, Game, Games, gta, Police, Race, Racing, RPG, Stunts, Super, Supercars, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Boy, Boys, Car, Cars, city, drift, drifting, Driving, Game, Games, gta, police, Race, Racing, rpg, Stunts, Super, Supercars, Unity3D

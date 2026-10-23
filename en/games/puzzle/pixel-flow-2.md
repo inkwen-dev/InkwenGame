@@ -19,6 +19,6 @@ Come to train your brain with colors and paths. Pixel Flow is a clean and addict
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Color, Matching, Pixel
+- Tags: Brain, Color, Matching, pixel

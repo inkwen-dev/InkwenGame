@@ -39,4 +39,4 @@ Be careful - the game can be addictive!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, Boys, Retro, Space
+- Tags: Action, Arcade, Boys, retro, Space

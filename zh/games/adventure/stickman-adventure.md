@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 动作, 冒险, 怪物, 小人
+- 标签: 动作, 冒险, monster, 木偶人

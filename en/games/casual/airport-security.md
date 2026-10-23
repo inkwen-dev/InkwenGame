@@ -21,4 +21,4 @@ Do you know what not to bring on the plane? Come join Airport Security for a com
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boy, Boys, Brain, Fun, H5, HTML5, Kid, Kids, Police
+- Tags: 3D, 3D Games, Boy, Boys, Brain, Fun, H5, HTML5, Kid, Kids, police

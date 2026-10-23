@@ -21,4 +21,4 @@ Math is Easy! is an exciting and challenging game for anyone who wants to practi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Brain, Educational, endless, free html5 games for your website, Hypercasual, Math, Number, Puzzle, Quiz, School, Super, Train
+- Tags: 1 Player, 2026 games, Brain, educational, endless, free html5 games for your website, Hypercasual, math, Number, Puzzle, Quiz, School, Super, Train

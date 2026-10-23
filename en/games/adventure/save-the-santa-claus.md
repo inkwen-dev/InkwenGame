@@ -21,4 +21,4 @@ Come and play fun Christmas games with My Santa Claus, save the Santa Claus to r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Block, Bomb, Brain, Cartoon, Christmas, Cute, Funny, HTML5, New, Puzzle, Snow
+- Tags: 1 Player, 2D, Adventure, block, Bomb, Brain, Cartoon, Christmas, Cute, Funny, HTML5, New, Puzzle, Snow

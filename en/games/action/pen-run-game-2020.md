@@ -19,6 +19,6 @@ Pen Run game 2020 Way is an interesting running, relaxing game. There are many o
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arena, Battle, Block, Game, run, running
+- Tags: 2D, Adventure, Arena, battle, block, Game, run, running

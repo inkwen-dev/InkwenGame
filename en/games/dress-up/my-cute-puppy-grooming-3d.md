@@ -19,6 +19,6 @@ Welcome to virtual pet games pug life, yall! My Virtual Pet Dog Louie the Pug is
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cute, Dress Up, Educational, Girl, Girls, Grooming, Kids, Makeover, Simulation
+- Tags: Baby, Cute, Dress Up, educational, Girl, Girls, Grooming, Kids, Makeover, Simulation

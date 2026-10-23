@@ -21,4 +21,4 @@ A game that mixes the arcade style with characteristics of simulation. The game 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Horse, Racing
+- Tags: Adventure, horse, Racing

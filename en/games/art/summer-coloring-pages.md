@@ -19,6 +19,6 @@ Summer is wonderful! In this game you will find six different pictures which hav
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Educational, Fun, HTML5, Kids, Mobile, Skill, Summer
+- Tags: Color, Coloring, educational, Fun, HTML5, Kids, Mobile, Skill, Summer

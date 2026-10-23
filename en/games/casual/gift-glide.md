@@ -19,6 +19,6 @@ Take to the skies with Santa in Gift Glide, the ultimate holiday delivery advent
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, HTML, mapi games, Santa, Santa Claus

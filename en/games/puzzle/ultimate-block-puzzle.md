@@ -21,4 +21,4 @@ An interesting and exciting puzzle awaits you in the new online game Ultimate Bl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Best, Best Games, Block, Brain, Fun, iPhone, Logic, Mobile, puzzleblock, Skill, Skills
+- Tags: Android, Best, Best Games, block, Brain, Fun, iPhone, Logic, Mobile, puzzleblock, Skill, Skills

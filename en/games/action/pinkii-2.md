@@ -21,4 +21,4 @@ Pinkii 2 is a simple 2D Platformer where you need to collect yellow flowers whil
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Collection, Cute, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Collection, Cute, pixel, Platform, retro

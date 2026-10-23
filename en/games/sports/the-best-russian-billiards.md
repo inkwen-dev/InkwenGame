@@ -21,4 +21,4 @@ Are you ready to play The Best Russian Billiards? This realistic billiards featu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 3D, 3D Games, 8 Ball Pool, Adult, Android, Arcade, Ball, Simulation, Simulator, Sport, Sports
+- Tags: 1 Player, 2 Player, 2 Player Games, 3D, 3D Games, 8 Ball Pool, Adult, Android, Arcade, Ball, Simulation, Simulator, Sport, sports

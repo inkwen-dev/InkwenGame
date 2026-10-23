@@ -15,6 +15,6 @@ Take on the role of the legendary Tung Tung Sahur and unleash sahur magic to fen
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Action

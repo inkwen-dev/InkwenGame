@@ -21,4 +21,4 @@ Addictive, fun game Snake vs Balls You can control your snake with your mouse or
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, Casual, Collecting, Hypercasual, Number, Snake
+- Tags: 1 Player, block, Casual, Collecting, Hypercasual, Number, snake

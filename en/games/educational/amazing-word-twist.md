@@ -21,4 +21,4 @@ Find as many words you can from six given letters
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: New, Puzzle, Quiz, Word
+- Tags: New, Puzzle, Quiz, word

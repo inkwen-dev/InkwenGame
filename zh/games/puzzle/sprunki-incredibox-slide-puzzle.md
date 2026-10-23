@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: HTML5, HTML5游戏, 拼图, 手机, 滑梯, Sprunki
+- 标签: HTML5, HTML5游戏, 拼图, 移动设备, 滑动, 斯普朗基

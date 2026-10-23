@@ -21,4 +21,4 @@ Are you good at shooting targets with a sniper rifle? Sniper Champion 3D is a fi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Avoid, Boy, Gun, Kid, Puzzle, Relaxation, Sniper, Timing
+- Tags: 3D, Arcade, Avoid, Boy, Gun, Kid, Puzzle, Relaxation, sniper, Timing

@@ -21,4 +21,4 @@ Shrink into a giant school and turn everyday classroom objects into an epic 3D p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Collecting, Escape, Jumping, Platform, School
+- Tags: 1 Player, Collecting, Escape, jumping, Platform, School

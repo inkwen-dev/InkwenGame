@@ -19,6 +19,6 @@ Welcome to Farm Town, a place where the spirit of family adventure and farming a
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Boy, Business, Casual, Farm, Girl, iPad, iPhone, Kids, Management, Mobile, Mouse, Online, Simulation
+- Tags: Best, Boy, Business, Casual, Farm, Girl, iPad, iPhone, Kids, management, Mobile, Mouse, Online, Simulation

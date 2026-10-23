@@ -21,4 +21,4 @@ Wolfoo Birthday Pixel Art is a gentle color-by-number game for young kids, starr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Coloring, Number, painting, Pixel
+- Tags: Casual, Coloring, Number, painting, pixel

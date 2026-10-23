@@ -19,6 +19,6 @@ Boxes Wizard 2 is the thrilling sequel to the 2D pixel art platformer. Play as a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Puzzle, Wizard

@@ -19,6 +19,6 @@ This is the adventure of bouncy cars on the bouncy roads with the Funny Mad Raci
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, Adventure, Arcade, atv, Car, monstertruck, Skill, Sports, Supercars, Truck, WebGL
+- Tags: 2 Player, 2 Player Games, 3D, Adventure, Arcade, atv, Car, monstertruck, Skill, sports, Supercars, truck, WebGL

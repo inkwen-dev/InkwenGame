@@ -19,6 +19,6 @@ Get into the holiday spirit with this simple yet exciting memory card matching g
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Christmas, mapi games, Matching, Memory, Santa, Santa Claus
+- Tags: card, Christmas, mapi games, Matching, memory, Santa, Santa Claus

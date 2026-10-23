@@ -19,6 +19,6 @@ I Can Transform is a 2D action-platform game. In this game you will use your spe
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Android, Arcade, Best, Bike, Boat, Boy, Boys, Car, Cartoon, Classic, Click, Collecting, Cool, Crazy, Fun, Funny, Game, Games, Helicopter, Highscore, HTML, HTML5, jump, Jumping, Kid, Kids, Machine, Mobile, Moto, Motorcycle, New, Obstacle, Online, Physics, Pixel, Platform, Play, Race, Racing, Retro, Rocket, run, running, Skill, Skills, Spaceship, Stunts, Super, Supercars, Superhero, Timing, WebGL
+- Tags: 1 Player, 2D, Action, Adventure, Android, Arcade, Best, bike, Boat, Boy, Boys, Car, Cartoon, Classic, Click, Collecting, cool, crazy, Fun, Funny, Game, Games, helicopter, Highscore, HTML, HTML5, jump, jumping, Kid, Kids, Machine, Mobile, Moto, Motorcycle, New, Obstacle, Online, Physics, pixel, Platform, Play, Race, Racing, retro, Rocket, run, running, Skill, Skills, Spaceship, Stunts, Super, Supercars, Superhero, Timing, WebGL

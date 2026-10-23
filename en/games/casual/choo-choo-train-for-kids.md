@@ -19,6 +19,6 @@ All kids love trains! This is a classic Choo Choo Train educational game. Let yo
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Clicker, Family, Girl, Girls, HTML, HTML5, Kids, Matching, Traffic, Train, Truck
+- Tags: Click, Clicker, Family, Girl, Girls, HTML, HTML5, Kids, Matching, Traffic, Train, truck

@@ -21,4 +21,4 @@ Classic Klondike Solitaire (Draw 1) where every deal is guaranteed winnable. Col
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Brain, Card, Casual, Classic, Puzzle, Solitaire
+- Tags: Board, Brain, card, Casual, Classic, Puzzle, solitaire

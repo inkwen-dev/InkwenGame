@@ -19,6 +19,6 @@ Come and join the T20 cricket game! It takes place in a busy stadium with excite
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Hypercasual, NapTech Games, Sport, Sports
+- Tags: Arcade, Ball, Hypercasual, NapTech Games, Sport, sports

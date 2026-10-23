@@ -21,4 +21,4 @@ Step into the thrilling world of Squid Game Memory Card Match! Test your memory 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Card, Casual, Girls, Hypercasual, Matching, Memory, Puzzle
+- Tags: Boys, card, Casual, Girls, Hypercasual, Matching, memory, Puzzle

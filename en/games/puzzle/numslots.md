@@ -21,4 +21,4 @@ Numslots is beautiful game about numbers. Challenging levels with a proper diffi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Color, Girls, Math, Number, Puzzle
+- Tags: 3D, Color, Girls, math, Number, Puzzle

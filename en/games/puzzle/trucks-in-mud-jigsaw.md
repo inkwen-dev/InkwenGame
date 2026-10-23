@@ -21,4 +21,4 @@ Trucks in Mud is jigsaw game and you can play with 12 images with trucks in mud.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jigsaw, Puzzle, Truck
+- Tags: Jigsaw, Puzzle, truck

@@ -15,6 +15,6 @@ Become a zoo vet and care for adorable baby animals in Funny Zoo Emergency! Diag
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Dress Up

@@ -21,4 +21,4 @@ It's a Flappy Bird-style game, where the player has to click/tap on the screen t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, endless, jump, Jumping, Plane, Shoot, Shooter, Unity3D, WebGL
+- Tags: 2D, Arcade, endless, jump, jumping, Plane, Shoot, Shooter, Unity3D, WebGL

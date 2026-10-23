@@ -21,4 +21,4 @@ It&rsquo;s time to show off your basketball shooting skills! Feel like a real ba
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Sport
+- Tags: basketball, Sport

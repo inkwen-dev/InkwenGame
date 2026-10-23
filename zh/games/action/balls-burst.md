@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 滚球, 大脑, 手机, 平台
+- 标签: 球, 大脑, 移动设备, 平台

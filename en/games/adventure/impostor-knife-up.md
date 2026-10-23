@@ -19,6 +19,6 @@ You will love this knife throwing game. You earn points when you shoot the Among
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Android, Best, HTML5, Mobile

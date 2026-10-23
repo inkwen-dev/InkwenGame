@@ -21,4 +21,4 @@ Frankenstein Adventures Has Arrive ! Become a monster in this "smashing" endless
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Casual, Hypercasual, jump, Jumping, Puzzle, Quiz
+- Tags: Adventure, Arcade, Casual, Hypercasual, jump, jumping, Puzzle, Quiz

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 街机, 男孩们, 卡通, 女生, 隐藏, HTML5, 小孩, 技巧
+- 标签: 安卓, 街机, 男孩们, 卡通, 女孩, 隐藏, HTML5, 儿童, 技巧

@@ -33,4 +33,4 @@ at you. After every wave pick one of three roguelite upgrades — damage, crit, 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Fighting, ragdoll
+- Tags: Action, fighting, ragdoll

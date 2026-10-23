@@ -21,4 +21,4 @@ Tap the numbers in the right order before time runs out! Choose between Classic 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ai Games, Brain, free html5 games for your website, Math
+- Tags: Ai Games, Brain, free html5 games for your website, math

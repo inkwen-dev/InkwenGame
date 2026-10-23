@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 躲避, 男孩们, HTML5, 跳跃, 跳跃, 我的世界, 跑, 跑步
+- 标签: 安卓, 躲避, 男孩们, HTML5, 跳跃, 跳跃, 我的世界, 跑, 奔跑

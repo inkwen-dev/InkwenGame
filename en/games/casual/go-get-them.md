@@ -15,6 +15,6 @@ Step into a vivid space arena and master your reflexes in Go Get Them! Control a
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: hyper-casual

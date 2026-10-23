@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, 2D, 街机, 男孩, 大脑, 休闲, 绘画, 女孩, Unity3D
+- 标签: .io, 2D, 街机, 男孩们, 大脑, 休闲, 绘画, 女孩, Unity3D

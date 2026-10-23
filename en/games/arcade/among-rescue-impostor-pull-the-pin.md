@@ -19,6 +19,6 @@ Among Rescue is a challenging puzzle (pull the pin) game in which you need to co
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Brain, Rescue

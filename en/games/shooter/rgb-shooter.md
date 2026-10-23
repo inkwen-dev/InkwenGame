@@ -21,4 +21,4 @@ RGB Shooter is a fast-paced 2D action shooting game where color-matching meets a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Arena, Battle, Color
+- Tags: 1 Player, 2D, Action, Arena, battle, Color

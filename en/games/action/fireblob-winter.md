@@ -19,6 +19,6 @@ Sequel to FireBlob, now with more levels and detail, better graphics, new puzzle
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Android, Arcade, Christmas, HTML5, Pixel, Platform, Retro, Winter
+- Tags: 1 Player, 2D, Action, Android, Arcade, Christmas, HTML5, pixel, Platform, retro, Winter

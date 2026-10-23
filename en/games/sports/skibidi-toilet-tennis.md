@@ -21,4 +21,4 @@ Like in a great tennis game, Help Skibidi Toilet to stopping the tennis balls! b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, HTML5, Mobile, Skibidi, Skibidi Toilet, Sport, Sports, Tennis
+- Tags: Arcade, Ball, HTML5, Mobile, Skibidi, skibidi-toilet, Sport, sports, Tennis

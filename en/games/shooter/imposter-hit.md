@@ -19,6 +19,6 @@ The ultimate imposter challenge is here! Throw the knives into the imposters to 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Skill
+- Tags: Action, battle, Skill

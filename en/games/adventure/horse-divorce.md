@@ -21,4 +21,4 @@ Horse Divorce is a short, surreal puzzle game about horses falling in and out of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Horse, Hypercasual
+- Tags: Adventure, horse, Hypercasual

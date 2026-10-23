@@ -19,6 +19,6 @@ Experience the glamorous lifestyle of a billionaire mother in Rich Mom Family Si
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cars, city, Family, Girls, Helicopter
+- Tags: Cars, city, Family, Girls, helicopter

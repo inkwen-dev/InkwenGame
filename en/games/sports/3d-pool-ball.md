@@ -19,6 +19,6 @@ This is authentic 3D pool experience like you’ve never seen on mobile. Unlike 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Ball, Game, Games, Pool, Sport, Sports
+- Tags: 8 Ball Pool, Ball, Game, Games, pool, Sport, sports

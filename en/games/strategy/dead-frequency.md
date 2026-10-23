@@ -29,4 +29,4 @@ Defend the Signal Tower! A fast-paced tower defense game set in a vibrant red wa
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, popular, Shooting, Strategy, Tower Defense
+- Tags: Action, popular, Shooting, strategy, Tower Defense

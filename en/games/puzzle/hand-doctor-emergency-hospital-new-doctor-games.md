@@ -21,4 +21,4 @@ Download surgery games and the Hand Doctor Emergency Hospital: New Doctor Games 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, Doctor, Games, Kids, Surgery
+- Tags: Baby, Baby Hazel, Doctor, Games, Kids, surgery

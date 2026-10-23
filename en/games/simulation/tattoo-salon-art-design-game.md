@@ -19,6 +19,6 @@ Start your own tattoo studio and acquire the arts that get under the skin! Creat
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Design, Simulation

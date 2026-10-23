@@ -21,4 +21,4 @@ Steer open-world chaos in Cop Ramp Sandbox! Take the wheel of high-speed police 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Driving, gta, Police, Sandbox, Unity3D, WebGL
+- Tags: Adventure, Arcade, Driving, gta, police, Sandbox, Unity3D, WebGL

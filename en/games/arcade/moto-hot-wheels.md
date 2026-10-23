@@ -19,6 +19,6 @@ The Chinese version of Hot Wheels racing game is a casual racing game. In the ga
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, Arena, Avoid, Balance, Games, H5, Motorcycle

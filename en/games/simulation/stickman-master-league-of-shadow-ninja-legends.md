@@ -19,6 +19,6 @@ Be the legendary ninja shadow and enjoy the incredible fighting adventure in STI
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Adventure, Anime, Best, Boys, endless, Games, Ninja, Online, run, running, Simulator
+- Tags: .io Games, Adventure, Anime, Best, Boys, endless, Games, ninja, Online, run, running, Simulator

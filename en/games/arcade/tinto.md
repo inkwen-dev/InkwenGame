@@ -21,4 +21,4 @@ Tinto is a 2D platform game where you need to collect coins and reach the yellow
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Funny, Pixel, Retro, Side Scrolling
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Funny, pixel, retro, Side Scrolling

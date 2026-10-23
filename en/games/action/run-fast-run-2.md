@@ -15,6 +15,6 @@ In Run Fast Run, guide your hero through a hectic gauntlet of swiftly approachin
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Action

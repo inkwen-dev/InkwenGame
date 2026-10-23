@@ -21,4 +21,4 @@ Mother Earth is running out of water. The flora and fauna on earth are about to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Best, Brain, Casual, Creation, Educational, Physics, Puzzle
+- Tags: Action, Arcade, Best, Brain, Casual, Creation, educational, Physics, Puzzle

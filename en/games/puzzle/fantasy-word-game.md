@@ -19,6 +19,6 @@ Fantasy Word is a casual game that will give you many hours of fun. Find the sec
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Best, Boy, Brain, Casual, Hypercasual, Jigsaw, Puzzle, Word
+- Tags: 1 Player, Arcade, Best, Boy, Brain, Casual, Hypercasual, Jigsaw, Puzzle, word

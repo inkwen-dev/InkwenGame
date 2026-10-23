@@ -29,4 +29,4 @@ If you love short, satisfying puzzle levels with neon style, Neon Goal is a perf
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, mini, Skill, Sports
+- Tags: Arcade, mini, Skill, sports

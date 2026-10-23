@@ -19,6 +19,6 @@ The game is similar to fruit elimination music, by clicking the mouse to cut the
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Cook, Cooking, Cool, Crafting, cut, Fruit, H5
+- Tags: Action, Cook, Cooking, cool, Crafting, cut, Fruit, H5

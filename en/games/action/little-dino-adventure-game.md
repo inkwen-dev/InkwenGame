@@ -19,6 +19,6 @@ Platform adventure game, where the little Dinosaur must cross the valley of fear
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Cartoon, Cute, dino, Dinosaur, HTML5, Kids, Mario, Platform, Side Scrolling
+- Tags: Best, Cartoon, Cute, dino, Dinosaur, HTML5, Kids, mario, Platform, Side Scrolling

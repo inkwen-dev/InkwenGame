@@ -21,4 +21,4 @@ Skater kid is a great skill game in which you must avoid various obstacles. Ride
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Race, Racing, Skateboard, Skating, Sports
+- Tags: Boys, Race, Racing, skateboard, Skating, sports

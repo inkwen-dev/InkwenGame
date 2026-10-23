@@ -21,4 +21,4 @@ Educational games for kindergarten kids are the most popular way of learning tod
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Car, Cleaning, Cute, Decorate, Design, Educational, Girl, Girls, Kids, Simulation
+- Tags: Boy, Boys, Car, Cleaning, Cute, Decorate, Design, educational, Girl, Girls, Kids, Simulation

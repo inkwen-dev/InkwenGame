@@ -19,6 +19,6 @@ This is cavern Monsters, an amazing Match3 game. Swipe to connect monsters of th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Candy, Magic, Match 3, Match3, Monster, Puzzle
+- Tags: Candy, Magic, Match 3, Match3, monster, Puzzle

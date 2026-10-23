@@ -15,6 +15,6 @@ Dive into Red and Green 3, a dynamic two-player journey where teamwork is key. N
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: two-player

@@ -15,6 +15,6 @@ Dive into the vibrant 2D realm of Tob vs Kov 2, where excitement and agility rul
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Arcade

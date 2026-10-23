@@ -21,4 +21,4 @@ Cargo Truck Survival is an online game that puts players in the shoes of a truck
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Arcade, Avoid, Classic, Crazy, Fun, Funny, Game, Online, Race, Racing
+- Tags: 2 Player, Arcade, Avoid, Classic, crazy, Fun, Funny, Game, Online, Race, Racing

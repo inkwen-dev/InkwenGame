@@ -21,4 +21,4 @@ Rotating Pumpkin is a unique platform puzzle game where you rotate the world to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Halloween, HTML, HTML5, Mobile, Monster, Physics, Puzzle
+- Tags: 2D, Halloween, HTML, HTML5, Mobile, monster, Physics, Puzzle

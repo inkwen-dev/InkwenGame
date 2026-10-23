@@ -15,6 +15,6 @@ Dive into the exciting world of Cool Cubes IO, where strategic gameplay meets fa
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Fun

@@ -21,4 +21,4 @@ The Grimace Penalty Goal Game is a fun and challenging game where you have to at
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Best Games, Football, Fun, Grimace, Grimace Shake, NapTech Games, Sport, Sports
+- Tags: Action, Best Games, Football, Fun, Grimace, Grimace Shake, NapTech Games, Sport, sports

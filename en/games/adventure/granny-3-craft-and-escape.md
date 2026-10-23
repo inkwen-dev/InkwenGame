@@ -15,6 +15,6 @@ Dive into Granny 3's chilling maze, where creativity meets survival. Craft your 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Action

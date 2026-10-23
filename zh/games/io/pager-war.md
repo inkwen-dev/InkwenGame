@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 军队, 小人, 战争
+- 标签: .io 游戏, 军队, 木偶人, 战争

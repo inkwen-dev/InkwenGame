@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: AI 游戏, 泡泡, 泡泡射击, 游戏AI, Mentolatux, unity游戏, WebGL
+- 标签: AI游戏, 泡泡, 泡泡射击, AI游戏, Mentolatux, unity游戏, WebGL

@@ -34,4 +34,4 @@ For players who enjoy quick soccer games, local 2-player challenges, and funny s
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Boys, Funny, Physics, Soccer, Sports, two-player
+- Tags: Arcade, Boys, Funny, Physics, Soccer, sports, two-player

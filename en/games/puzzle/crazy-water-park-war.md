@@ -21,4 +21,4 @@ Cheerful water fun games, come and fight on the water in the hot summer! Move yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Casual, Crazy, H5, Kids, Puzzle
+- Tags: 3D, Casual, crazy, H5, Kids, Puzzle

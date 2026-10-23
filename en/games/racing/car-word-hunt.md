@@ -21,4 +21,4 @@ Car Word Hunt is a fun word puzzle game where you need to find hidden car names!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Brain, Car, Fun, Girls, Hidden, Puzzle, Skill, Word
+- Tags: Boys, Brain, Car, Fun, Girls, Hidden, Puzzle, Skill, word

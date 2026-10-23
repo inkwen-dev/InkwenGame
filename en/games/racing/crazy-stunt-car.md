@@ -19,6 +19,6 @@ Key-Board Control
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Car, Cars, Parking, Race, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D
+- Tags: Action, Adventure, Arcade, Car, Cars, parking, Race, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D

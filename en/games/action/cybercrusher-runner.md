@@ -15,6 +15,6 @@ Cybercrusher Runner thrusts you into the shoes of a cyborg ninja on a covert mis
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: runner

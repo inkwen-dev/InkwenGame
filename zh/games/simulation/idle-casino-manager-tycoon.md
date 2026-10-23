@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, Android, 商业, 赌场, 休闲, iPad, iPhone, 管理, 移动, 鼠标, 在线, 模拟游戏, 模拟器
+- 标签: 单人, 安卓, 商业, 赌场, 休闲, iPad, iPhone, 管理, 移动设备, 鼠标, 在线, 模拟, 模拟器

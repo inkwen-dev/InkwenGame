@@ -21,4 +21,4 @@ This is a fun and educational game for taking care of puppies. If you usually li
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cat, Educational
+- Tags: Cat, educational

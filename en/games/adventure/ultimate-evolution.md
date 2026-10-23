@@ -56,4 +56,4 @@ How far can you evolve?
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, animals, Snake
+- Tags: Adventure, animals, snake

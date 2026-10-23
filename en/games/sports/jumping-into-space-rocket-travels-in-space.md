@@ -21,4 +21,4 @@ Jumping into space rocket travels in space instant html Android and PC game with
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, city, jump, Mobile, Rocket, run, running, Shooter, Space, Sport, Sports
+- Tags: Android, city, jump, Mobile, Rocket, run, running, Shooter, Space, Sport, sports

@@ -21,4 +21,4 @@ Zombie Base is a design game with multiple levels waiting for you to challenge. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Battle, Hypercasual
+- Tags: 1 Player, Adventure, battle, Hypercasual

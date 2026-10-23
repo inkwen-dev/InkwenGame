@@ -21,4 +21,4 @@ Christmas Coloring Game is a fun coloring game. Christmas is comming. What do yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Color, Coloring, Cute, Draw, Drawing, Fun, Girls, Holiday, HTML5, Kids, Mobile
+- Tags: Christmas, Color, Coloring, Cute, Draw, drawing, Fun, Girls, Holiday, HTML5, Kids, Mobile

@@ -21,4 +21,4 @@ Run Vovan Run is a endles run html5 game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2D, Arcade, Boy, endless, HTML5, Jumping, run, running
+- Tags: 2 Player, 2D, Arcade, Boy, endless, HTML5, jumping, run, running

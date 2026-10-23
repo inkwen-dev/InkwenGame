@@ -21,4 +21,4 @@ Draw Rainbow Ninja is an exciting casual game that has taken the online gaming w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Cute, Drawing, Ninja
+- Tags: Casual, Cute, drawing, ninja

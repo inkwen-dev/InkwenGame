@@ -21,4 +21,4 @@ Ever feel like you’re just a little stickman caught up in the vicious circle o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Arcade, run, running, Stickman
+- Tags: 1 Player, 2D, Action, Arcade, run, running, stickman

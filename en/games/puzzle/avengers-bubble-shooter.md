@@ -19,6 +19,6 @@ Play the classic and most addictive bubble pop game, match 3 characters and clea
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, Hypercasual, Match 3, Match3, Matching, Puzzle

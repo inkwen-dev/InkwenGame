@@ -19,6 +19,6 @@ These dress up games with have you strutting your stuff down the catwalk in perf
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Barbie, Boys, Cartoon, Disney, Dress Up, Elsa, Fashion, Frozen, Girls, Makeover, Mobile, Princess, Simulation

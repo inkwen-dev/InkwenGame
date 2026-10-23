@@ -21,4 +21,4 @@ Are you looking forward to have a new car parking to park your vehicle as much a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Car, Cars, city, drifting, Game, Games, HTML, HTML5, Parking, Simulation, Simulator
+- Tags: 3D Games, Car, Cars, city, drifting, Game, Games, HTML, HTML5, parking, Simulation, Simulator

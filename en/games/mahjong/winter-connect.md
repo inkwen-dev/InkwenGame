@@ -21,4 +21,4 @@ Winter connect is a fun to play tile connect game. You need to connect two ident
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Christmas, HTML5, Mahjong, Mobile, Puzzle, Winter
+- Tags: Arcade, Christmas, HTML5, mahjong, Mobile, Puzzle, Winter

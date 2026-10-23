@@ -21,4 +21,4 @@ PyroPairs is a fun and challenging card-matching game based on memory with varyi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Clicker, Memory, Puzzle
+- Tags: card, Clicker, memory, Puzzle

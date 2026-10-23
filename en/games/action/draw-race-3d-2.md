@@ -15,6 +15,6 @@ Draw Race 3D invites you into a vibrant world where you navigate as a Parkour ru
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: runner

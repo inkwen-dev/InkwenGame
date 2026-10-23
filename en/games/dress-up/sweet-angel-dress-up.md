@@ -21,4 +21,4 @@ Sweet angel dress-up is a casual customizing girl game. Chose from the wardrobe 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Cool, Cute, Dress Up, Fashion
+- Tags: Click, cool, Cute, Dress Up, Fashion

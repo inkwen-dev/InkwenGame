@@ -19,6 +19,6 @@ A new steeplechase! You need to hit the target with your ball to make your track
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Game, Kid, Kids, Obstacle, Race, run

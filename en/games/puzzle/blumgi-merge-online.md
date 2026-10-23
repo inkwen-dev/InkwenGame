@@ -19,6 +19,6 @@ Play Blumgi Merge Online for free on Gen30.online, where exciting HTML5 games ar
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Hypercasual, Puzzle

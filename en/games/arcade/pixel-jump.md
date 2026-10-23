@@ -21,4 +21,4 @@ Do you like games easy to understand but difficult to master? This game is for y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, jump, Jumping
+- Tags: Action, Arcade, jump, jumping

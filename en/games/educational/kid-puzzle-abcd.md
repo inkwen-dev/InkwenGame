@@ -21,4 +21,4 @@ This free Super ABC puzzle game teaches alphabets in an interesting and fun way 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kid, Puzzle
+- Tags: educational, Kid, Puzzle

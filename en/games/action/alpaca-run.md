@@ -19,6 +19,6 @@ Run away from the wolf. Cactus placed on every path can be avoided by touch.
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Hypercasual, run, running

@@ -19,6 +19,6 @@ Hey Santa needs Your help to escape from the Chaser! Avoid all obstacles and try
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, HTML5, Mobile, running, Santa, Santa Claus

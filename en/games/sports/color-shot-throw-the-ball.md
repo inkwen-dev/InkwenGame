@@ -21,4 +21,4 @@ Ready to explore this universe and join other players from all of the world? Her
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, 8 Ball Pool, Arkanoid, Basketball
+- Tags: 1 Player, 2D, 8 Ball Pool, Arkanoid, basketball

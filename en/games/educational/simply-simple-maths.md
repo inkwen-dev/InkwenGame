@@ -21,4 +21,4 @@ Simply Simple Maths: Make Math a Blast! Looking for a fun and engaging way to he
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Educational, Math
+- Tags: 1 Player, educational, math

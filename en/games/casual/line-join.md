@@ -15,6 +15,6 @@ Dive into Line Join, a captivating puzzle challenge where every move matters. Dr
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Brain

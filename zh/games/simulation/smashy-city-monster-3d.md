@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, 城市, 恐龙, 龙, H5, HTML, HTML5, 孩子们, 手机, 在线, 模拟, 模拟器
+- 标签: 3D, 3D游戏, 城市, Dino, 龙, H5, HTML, HTML5, 儿童, 移动设备, 在线, 模拟, 模拟器

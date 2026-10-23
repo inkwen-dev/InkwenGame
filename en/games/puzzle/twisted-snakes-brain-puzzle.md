@@ -21,4 +21,4 @@ Untangle colorful worms in this fast-paced brain puzzle! Tap them in the right o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Hot, Hypercasual, Maze, Slither, Snake, Worms
+- Tags: Best Games, Hot, Hypercasual, Maze, Slither, snake, Worms

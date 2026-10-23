@@ -19,6 +19,6 @@ Play Road Riot - Rise of the Teenage Mutant Ninja Turtles Game online in your we
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Anime, Arcade, Avoid, Baby, Boys, Brain, Cartoon, Disney, Draw, Drawing, Fun, Girls, Halloween, Highscore, HTML5, Hypercasual, Kids, Matching, Movie, Puzzle, School
+- Tags: Adventure, Anime, Arcade, Avoid, Baby, Boys, Brain, Cartoon, Disney, Draw, drawing, Fun, Girls, Halloween, Highscore, HTML5, Hypercasual, Kids, Matching, Movie, Puzzle, School

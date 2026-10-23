@@ -19,6 +19,6 @@ These two gorgeous fashion rivals are looking for the best stylists to prepare t
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, Barbie, Disney, Dress Up, Elsa, Fashion, Fun, Girls, HTML5, Kids, Princess

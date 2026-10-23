@@ -19,6 +19,6 @@ Collect all the colored keys. You have to match the color of the key in order to
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Brain, Cartoon, Collecting, Color, Cute, Educational, Fun, Game, Hidden, HTML, Kid
+- Tags: 1 Player, Brain, Cartoon, Collecting, Color, Cute, educational, Fun, Game, Hidden, HTML, Kid

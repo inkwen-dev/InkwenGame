@@ -21,4 +21,4 @@ Welcome to the world car stunting games! The night has arrived and your supercar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Android, Car, Cars, Crazy, Driving, HTML5, Mobile, Racing, Skill, Stunts, Supercars, Unity3D, WebGL
+- Tags: 1 Player, 3D, 3D Games, Android, Car, Cars, crazy, Driving, HTML5, Mobile, Racing, Skill, Stunts, Supercars, Unity3D, WebGL

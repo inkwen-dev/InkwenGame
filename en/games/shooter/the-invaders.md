@@ -19,6 +19,6 @@ Arcade game similar to the classic Invaders. A fun game with endless levels to p
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Alien, Casual, Defense, Space

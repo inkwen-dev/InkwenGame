@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 Player, 2D, Android, 休闲, Click, 点击器, 可爱, 食物, 有趣, 搞笑, 热门, HTML, HTML5, 超休闲, 像素, 模拟, 超级
+- 标签: 单人, 2D, 安卓, 休闲, 点击, 点击器, 可爱, 食物, 有趣, 搞笑, 热门, HTML, HTML5, 超休闲, 像素, 模拟, 超级

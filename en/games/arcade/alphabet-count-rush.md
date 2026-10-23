@@ -21,4 +21,4 @@ Choose the best gate, pass through it, and bring alphabet stickman warriors toge
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Arcade, Brain, Educational, Fun, Game, Kids, Letters, Number, Puzzle, School
+- Tags: 2026 games, Arcade, Brain, educational, Fun, Game, Kids, Letters, Number, Puzzle, School

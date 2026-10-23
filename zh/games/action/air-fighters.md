@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, 空中, 飛機, 战斗, 格鬥, 街头格斗, Unity3D
+- 标签: 3D, 3D游戏, 空气, 飞机, 格斗, 格斗, 街头格斗, Unity3D

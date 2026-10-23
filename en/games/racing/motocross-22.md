@@ -21,4 +21,4 @@ Motocross 22 racing game with realistic physics, fun and nice graphics!!! Motocr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Motorcycle, Race, Racing, Sport, Sports
+- Tags: Motorcycle, Race, Racing, Sport, sports

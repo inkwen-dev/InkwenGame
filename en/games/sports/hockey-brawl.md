@@ -21,4 +21,4 @@ Hockey Brawl is chaos hockey — move your player and let physics do the rest. B
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, hockey, ragdoll, Sports, two-player
+- Tags: Action, hockey, ragdoll, sports, two-player

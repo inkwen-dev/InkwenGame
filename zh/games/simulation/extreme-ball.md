@@ -21,4 +21,4 @@ WASD - 控制球方向 方向键 - 控制球方向 Q E - 旋转相机 空格键 
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 3D, 3D游戏, 街机, 平衡, 球, 最佳, 有趣, 搞笑, 游戏, 游戏, HTML5, 模拟器, Unity3D, WebGL
+- 标签: 单人, 2D, 3D, 3D游戏, 街机, 平衡, 球, 最佳, 有趣, 搞笑, 游戏, 网页游戏, HTML5, 模拟器, Unity3D, WebGL

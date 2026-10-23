@@ -19,6 +19,6 @@ You like cute and colorful little fishes? You’d love having an aquarium filled
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Army, Brain, Defense, Fish, Shoot, Shooting, Tower Defense

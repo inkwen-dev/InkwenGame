@@ -21,4 +21,4 @@ ar Parking Game & Driving Game. In this amazing 3d car parking game.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Arcade, Car, Cars, drift, drifting, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing
+- Tags: .io, .io Games, Action, Arcade, Car, Cars, drift, drifting, Fun, Funny, Hot, Hypercasual, jump, jumping, Race, Racing

@@ -19,6 +19,6 @@ Grab the control yoke of a warplane and also delve into the battlegrounds of Glo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Air, Aircraft, Best, Crazy, Fighting, Games, HTML, HTML5, Mobile, Unity3D, War, WebGL
+- Tags: 3D Games, Air, Aircraft, Best, crazy, fighting, Games, HTML, HTML5, Mobile, Unity3D, War, WebGL

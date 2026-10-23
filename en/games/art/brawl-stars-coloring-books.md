@@ -21,4 +21,4 @@ Unleash your creativity with Brawl Stars Coloring Book! Dive into a colorful adv
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Brawl, Color, Coloring, Draw, Drawing, Girls, HTML5, Hypercasual, Kids, School
+- Tags: Boys, Brawl, Color, Coloring, Draw, drawing, Girls, HTML5, Hypercasual, Kids, School

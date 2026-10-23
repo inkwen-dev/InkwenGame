@@ -19,6 +19,6 @@ This is a turn-based casual game with a samurai theme based on my previous game.
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Pixel, Turn Based, War, Warrior
+- Tags: pixel, Turn Based, War, Warrior

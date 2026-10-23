@@ -19,6 +19,6 @@ A simple paper plane game inspired by Flappy Bird and with awesome graphics
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bird, Casual, Flight, fly, Plane
+- Tags: Arcade, Bird, Casual, flight, fly, Plane

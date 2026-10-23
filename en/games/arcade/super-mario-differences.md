@@ -19,6 +19,6 @@ Super Mario Differences is fun and free online game suitable for all ages. If yo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boys, Difference, Fun, HTML5, Kids, Mario, Puzzle
+- Tags: Arcade, Boys, Difference, Fun, HTML5, Kids, mario, Puzzle

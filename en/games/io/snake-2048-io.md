@@ -15,6 +15,6 @@ Chomp your way to greatness in Snake 2048.io, where strategy meets math in a thr
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: 2048

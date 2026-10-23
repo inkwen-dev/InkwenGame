@@ -21,4 +21,4 @@ You are out of energy for your space cruiser. Lucky for you, there is an Deep Sp
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collecting, Escape, Interactive Fiction, Monster, Science, weapons
+- Tags: Collecting, Escape, Interactive Fiction, monster, Science, weapons

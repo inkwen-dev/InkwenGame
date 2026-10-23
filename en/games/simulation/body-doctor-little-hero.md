@@ -19,6 +19,6 @@ The best hospital simulation game is coming Want to be an excellent body doctor?
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Games, Cute, Doctor, Educational, Girl, Girls, Kids, Simulation, Surgery
+- Tags: Baby Games, Cute, Doctor, educational, Girl, Girls, Kids, Simulation, surgery

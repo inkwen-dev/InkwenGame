@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2 Player Games, 2D, 汽车们, 驾驶, Minecraft, 赛车
+- 标签: 双人游戏, 2D, 汽车, 驾驶, 我的世界, 竞速

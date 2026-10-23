@@ -21,4 +21,4 @@ se você gosta de brincar com o simulador de cirurgia Luccas Neto e jogos de mé
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Educational, Family, Fashion
+- Tags: Doctor, educational, Family, Fashion

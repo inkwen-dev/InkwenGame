@@ -19,6 +19,6 @@ Do you like squashing cute creatures until they explode? You are lucky! In 1 Cli
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Color, Puzzle, Strategy
+- Tags: Arcade, Casual, Color, Puzzle, strategy

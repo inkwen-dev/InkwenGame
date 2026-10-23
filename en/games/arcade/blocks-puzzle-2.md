@@ -21,4 +21,4 @@ Blocks puzzle is an addictive classic game The goal is to drop blocks in order t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Bricks, Casual, HTML5, Puzzle
+- Tags: Arcade, block, Bricks, Casual, HTML5, Puzzle

@@ -19,6 +19,6 @@ Draw Climber is an online Kids game, it's playable on all smartphones or tablets
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Boys, HTML5, Puzzle, Skill

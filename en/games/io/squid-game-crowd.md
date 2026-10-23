@@ -21,4 +21,4 @@ The more individuals you have and the more you find, the bigger your Crowd comes
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D Games, Android, Best, Crazy, Games, HTML, HTML5, Mobile, Unity3D, WebGL
+- Tags: .io Games, 1 Player, 3D Games, Android, Best, crazy, Games, HTML, HTML5, Mobile, Unity3D, WebGL

@@ -21,4 +21,4 @@ Helix Crush is a super fun and addictive one touch casual game. The most addicti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping, Simulation
+- Tags: jump, jumping, Simulation

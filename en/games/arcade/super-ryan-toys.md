@@ -21,4 +21,4 @@ ryan world toys has been carefully designed for Boys, Girls and families to have
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Mario, Monster
+- Tags: 2D, Adventure, mario, monster

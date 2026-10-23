@@ -21,4 +21,4 @@ avoiding obstacles while color change. Just tap the screen to change the directi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2D, Color, Puzzle, Snake
+- Tags: .io, .io Games, 1 Player, 2D, Color, Puzzle, snake

@@ -19,6 +19,6 @@ The sky’s the limit in this puzzle-meets-builder game! Swipe and match colorfu
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 2D, Arena, Fruit, Puzzle

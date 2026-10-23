@@ -19,6 +19,6 @@ You’re the Neon Sword Fighting Stickman: Fight the hacker warriors! It is the 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Fighting, Flight, Stickman, Street Fighting, Sword, Unity3D, Violence, weapons
+- Tags: Action, Adventure, fighting, flight, stickman, Street Fighting, sword, Unity3D, Violence, weapons

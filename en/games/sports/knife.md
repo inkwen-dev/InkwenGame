@@ -19,6 +19,6 @@ Throw the knives into the logs to break them. Slash the apples and unlock new kn
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Boys, Games, Girls, Knight, Sports
+- Tags: Action, Adventure, Arcade, Boys, Games, Girls, knight, sports

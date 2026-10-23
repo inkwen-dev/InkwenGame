@@ -19,6 +19,6 @@ Super stickman battle is waiting for you with HyperDoll. You have to destroy the
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Fight, Hot, Kids, Kill, Mobile, Platform, Stickman
+- Tags: Best, Fight, Hot, Kids, Kill, Mobile, Platform, stickman

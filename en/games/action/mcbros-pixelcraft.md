@@ -19,6 +19,6 @@ In the adventure of Steve and Alex, you need to help them. They must collect all
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, mineblock, Minecraft, Pixel, Platform
+- Tags: Adventure, Arcade, mineblock, Minecraft, pixel, Platform

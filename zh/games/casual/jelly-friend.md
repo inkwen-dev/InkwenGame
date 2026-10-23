@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, Bejeweled, 休闲, 收集, 绘画, 无尽, HTML5, 休闲, 果冻, 匹配
+- 标签: 单人, 2D, 宝石迷阵, 休闲, 收集, 绘画, 无尽, HTML5, 超休闲, 果冻, 匹配

@@ -21,4 +21,4 @@ Skiing time! Winter is cold but fun! We have many activities in winter. One of t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Dress Up, Educational, Girl, Girls, Kids, Puzzle, Simulation, Sport
+- Tags: Baby, Dress Up, educational, Girl, Girls, Kids, Puzzle, Simulation, Sport

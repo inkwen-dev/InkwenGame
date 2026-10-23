@@ -19,6 +19,6 @@ EpicShooter3D is built with one simple goal: to be fast, smooth, simple, and fun
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 3D Games, amazing, Army, assasin, Battlegrounds, Bullet, First Person Shooter, fps, Games Ai, Multiplayer, Shooting, Skill

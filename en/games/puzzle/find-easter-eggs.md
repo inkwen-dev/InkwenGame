@@ -19,6 +19,6 @@ Find Easter Eggs is a free online kids and hidden object game. That is 10 eggs o
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Easter, Fun, Funny, Hidden, Kids, Mobile, Point And Click, Skill

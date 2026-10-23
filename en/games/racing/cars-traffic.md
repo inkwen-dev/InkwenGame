@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Bike, Boy, Boys, Car, Cars, Cartoon, Classic, Crazy, Fun, Funny, Kid, Kids, Mobile, Moto, Motorcycle, Race, Racing, Super, Supercars, Superhero, Traffic
+- Tags: Android, bike, Boy, Boys, Car, Cars, Cartoon, Classic, crazy, Fun, Funny, Kid, Kids, Mobile, Moto, Motorcycle, Race, Racing, Super, Supercars, Superhero, Traffic

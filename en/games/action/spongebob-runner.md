@@ -19,6 +19,6 @@ SpongeBob Runner is fun running game suitable or all ages.Play SpongeBob Runner 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Avoid, Boys, Collecting, Game, Games, HTML5, Hypercasual, jump, Mobile, run, running, Skill, Spongebob

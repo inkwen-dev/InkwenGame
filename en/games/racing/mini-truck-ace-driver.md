@@ -19,6 +19,6 @@ Here is a relaxing but hard-core car avoiding arcade game that is made from 3D p
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Avoid, Car, Highscore, Truck
+- Tags: 3D, Arcade, Avoid, Car, Highscore, truck

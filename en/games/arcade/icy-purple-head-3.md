@@ -21,4 +21,4 @@ Icy Purple Head is back. Help post man to deliver parcels in time. Run jump and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Clicker, Puzzle, Strategy
+- Tags: Adventure, Arcade, Clicker, Puzzle, strategy

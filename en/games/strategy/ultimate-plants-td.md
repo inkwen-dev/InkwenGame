@@ -21,4 +21,4 @@ Ultimate Plants TD is an army of plants to protect your garden from countless zo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Defense, Plant, Puzzle, Strategy, Tower Defense, Zombie
+- Tags: Defense, Plant, Puzzle, strategy, Tower Defense, Zombie

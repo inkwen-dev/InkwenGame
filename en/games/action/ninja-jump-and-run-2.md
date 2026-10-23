@@ -15,6 +15,6 @@ Ninja Jump and Run catapults you into the life of a stealthy shadow warrior. Nav
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Action

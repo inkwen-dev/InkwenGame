@@ -19,6 +19,6 @@ Here is a ball match-3 puzzle game with 3D colorful balls. Your target is to com
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Ball, Match 3, Mobile, Puzzle, Unity3D

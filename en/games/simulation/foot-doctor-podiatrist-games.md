@@ -19,6 +19,6 @@ Hey Doctor, I hurt my feet and it is so painful! Could you please help me to tre
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Anime, Baby, Cartoon, Doctor, Fun, Girls, Kids, Simulation, Surgery
+- Tags: .io Games, Anime, Baby, Cartoon, Doctor, Fun, Girls, Kids, Simulation, surgery

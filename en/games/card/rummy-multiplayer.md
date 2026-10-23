@@ -21,4 +21,4 @@ Rummy Multiplayer is a HTML5 Card Game. Enjoy this stylish version of the classi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, Board, Card, Strategy
+- Tags: 2 Player Games, Board, card, strategy

@@ -15,6 +15,6 @@ Soar through vibrant skies in Real Flight Simulator, where you command diverse p
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Flight
+- Tags: flight

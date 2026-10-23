@@ -19,6 +19,6 @@ Play our newest casual puzzle game called Mr. Bean Rotate. The game has 10 level
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Click, Fun, Hypercasual, Kids, Puzzle

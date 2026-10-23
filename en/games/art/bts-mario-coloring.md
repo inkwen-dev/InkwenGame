@@ -19,6 +19,6 @@ BTS Mario Coloring Book is fun coloring book for kids and adults. If you like Ma
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boys, Cartoon, Coloring, Fun, Girls, HTML5, Kids, Mario, School
+- Tags: Android, Boys, Cartoon, Coloring, Fun, Girls, HTML5, Kids, mario, School

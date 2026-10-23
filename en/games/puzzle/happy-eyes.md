@@ -19,6 +19,6 @@ Draw lines is a basic physics game. Challenges your brain to be able to find a w
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Game, Games, HTML, HTML5, Puzzle

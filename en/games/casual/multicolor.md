@@ -15,6 +15,6 @@ Navigate a world of vivid puzzles in MultiColor, where each move demands sharp r
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Skill

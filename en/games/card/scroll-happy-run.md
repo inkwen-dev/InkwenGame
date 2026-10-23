@@ -21,4 +21,4 @@ This is a fun addicting skill game in which you have to control a little charact
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Action, H5, run, Solitaire, Sport, Stickman
+- Tags: 1 Player, 3D Games, Action, H5, run, solitaire, Sport, stickman

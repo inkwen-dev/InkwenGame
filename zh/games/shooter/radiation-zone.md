@@ -21,4 +21,4 @@ WASD - 移动 Ctrl - 蹲下 LShift - 快跑 Q E - 左右倾斜 F - 拾取或检�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 军事, 射击, 生存, 僵尸
+- 标签: 军事, 射击类, 生存, 僵尸

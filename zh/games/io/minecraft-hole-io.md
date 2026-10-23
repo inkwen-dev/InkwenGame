@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 休闲, 轻度休闲, 我的世界
+- 标签: .io 游戏, 休闲, 超休闲, 我的世界

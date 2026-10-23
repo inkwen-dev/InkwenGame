@@ -21,4 +21,4 @@ Great online version of the popular card game. Your goal is get rid of all your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Card
+- Tags: Board, card

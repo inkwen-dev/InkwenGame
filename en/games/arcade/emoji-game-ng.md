@@ -21,4 +21,4 @@ Emoji game is a challenging game where the player needs to choose 4 emojis and w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Hypercasual, Memory
+- Tags: Arcade, Casual, Hypercasual, memory

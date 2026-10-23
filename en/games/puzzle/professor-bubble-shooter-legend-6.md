@@ -19,6 +19,6 @@ You are playing Crazy Professor Bubble game online "Professor Bubble 4 Shooter L
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Boy, Bubble, Bubble Shooter, Educational, Fun, Funny, Girl, HTML5, Kid, Puzzle, Shooter, Skill, WebGL
+- Tags: Adult, Boy, Bubble, Bubble Shooter, educational, Fun, Funny, Girl, HTML5, Kid, Puzzle, Shooter, Skill, WebGL

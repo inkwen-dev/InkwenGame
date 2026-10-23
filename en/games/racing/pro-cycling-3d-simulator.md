@@ -21,4 +21,4 @@ Here is a bicycle-racing simulation arcade game on 3D country roads. You are abl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Bike, Mobile, Racing, Simulator, WebGL
+- Tags: 3D, Arcade, bike, Mobile, Racing, Simulator, WebGL

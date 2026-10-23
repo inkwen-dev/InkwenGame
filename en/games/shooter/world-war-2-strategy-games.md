@@ -21,4 +21,4 @@ The war is coming. Show your unique art of war from the tip of your finger to br
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D, 3D Games, Action, Fight, Fighting, Street Fighting
+- Tags: .io Games, 1 Player, 3D, 3D Games, Action, Fight, fighting, Street Fighting

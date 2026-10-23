@@ -19,6 +19,6 @@ Horse Shoeing is a virtual stable simulation game created by No Power-up. As the
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Animal, Best, Farm, Horse, New, Simulation
+- Tags: 3D, Animal, Best, Farm, horse, New, Simulation

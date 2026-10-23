@@ -21,4 +21,4 @@ Ninja: Bamboo Assassin is an action-packed arcade game where players take on the
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Ninja
+- Tags: ninja

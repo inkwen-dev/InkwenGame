@@ -19,6 +19,6 @@ Select from your favorite Sonic character between: Tails, Knuckles or Cream. In 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Boys, Fun, Girls, Jumping, running
+- Tags: Adventure, Arcade, Boys, Fun, Girls, jumping, running

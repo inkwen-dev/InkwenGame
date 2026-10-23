@@ -21,4 +21,4 @@ Magic heroes &eacute; um jogo de rpg onde o personagem principal &eacute; um fei
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Magic, RPG, Shooter
+- Tags: Action, Adventure, Magic, rpg, Shooter

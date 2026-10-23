@@ -21,4 +21,4 @@ Cell Escape is an engaging physics-based puzzle game featuring 60 exciting level
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Bomb, Family, HTML, mapi games, Mobile, Puzzle, puzzleblock
+- Tags: Arcade, block, Bomb, Family, HTML, mapi games, Mobile, Puzzle, puzzleblock

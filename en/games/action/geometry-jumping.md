@@ -19,6 +19,6 @@ Geometry jump is platform jumping game where you can choose some of yours favori
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping, Platform, Puzzle
+- Tags: jumping, Platform, Puzzle

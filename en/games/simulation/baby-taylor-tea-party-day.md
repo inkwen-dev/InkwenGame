@@ -19,6 +19,6 @@ It's tea party day! Taylor's friends are coming to her house for a tea party. Le
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cooking, Cute, Decorate, Educational, Food, Girl, Girls, Kids, Simulation
+- Tags: Baby, Cooking, Cute, Decorate, educational, Food, Girl, Girls, Kids, Simulation

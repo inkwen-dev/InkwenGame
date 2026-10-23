@@ -21,4 +21,4 @@ The team that designed the original version of valto is delighted to bring you o
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, jump, Jumping
+- Tags: Adventure, jump, jumping

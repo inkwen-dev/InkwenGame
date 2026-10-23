@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, Arkanoid, 商业, 疯狂, 食物, H5, 矿工, 翻转
+- 标签: 动作, 阿克诺伊德, 商业, 疯狂, 食物, H5, 矿工, 回合

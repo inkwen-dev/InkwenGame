@@ -19,6 +19,6 @@ is about basket that should try to defeat joker with your bat things there 5 lev
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Air, Basketball, Batman, run, weapons
+- Tags: 1 Player, Air, basketball, Batman, run, weapons

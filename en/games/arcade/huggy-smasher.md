@@ -21,4 +21,4 @@ Try to smash the more Huggy Wuggy you can! Use the mega ball to smash the monste
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Casual, HTML, HTML5, Hypercasual, Mobile, Monster
+- Tags: 2D, Arcade, Casual, HTML, HTML5, Hypercasual, Mobile, monster

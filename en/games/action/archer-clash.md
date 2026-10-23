@@ -21,4 +21,4 @@ Archer Clash is a fast-paced io game where you guide a lone hero racing across a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arena, Battle, grow, Mobile, Top Down, Unity3D
+- Tags: 3D, 3D Games, Arena, battle, grow, Mobile, Top Down, Unity3D

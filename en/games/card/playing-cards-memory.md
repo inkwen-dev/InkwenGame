@@ -21,4 +21,4 @@ We are with you in the game Playing Cards Memory will help him with this. Togeth
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Card, Fun, HTML5, Kids, Memory, Mobile, Skill
+- Tags: Arcade, card, Fun, HTML5, Kids, memory, Mobile, Skill

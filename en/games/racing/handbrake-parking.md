@@ -21,4 +21,4 @@ Handbrake Parking is a fun game of car parking that requires extreme focus and t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Car, Cars, HTML, HTML5, Parking, Race, Supercars
+- Tags: Boys, Car, Cars, HTML, HTML5, parking, Race, Supercars

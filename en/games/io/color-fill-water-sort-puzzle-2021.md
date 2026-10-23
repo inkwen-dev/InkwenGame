@@ -19,6 +19,6 @@ It's time to water games use your brain and find a way to Fill the cups with cof
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Action, Adventure, Anime, Arcade, Best, Boys, Cartoon, Cartoon Network, Fun, Games, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Puzzle, Quiz

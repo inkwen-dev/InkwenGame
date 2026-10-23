@@ -19,6 +19,6 @@ Idle Ants is a simulation game where you command an army of hungry ants collect 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Funny, Girls, Hypercasual, Kids, Simulator

@@ -21,4 +21,4 @@ Step onto the pitch with Footy Frenzy, the ultimate football gaming experience t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, NapTech Games, Soccer, Sports
+- Tags: Football, NapTech Games, Soccer, sports

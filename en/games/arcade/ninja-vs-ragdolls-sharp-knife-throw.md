@@ -40,4 +40,4 @@ Watch the enemies' movements and choose the right moment to throw. Use different
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, Ninja, ragdoll
+- Tags: Boys, ninja, ragdoll

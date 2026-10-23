@@ -21,4 +21,4 @@ In the game Skibidi Toilet TopDown Survival, players take on the role of a resou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Android, HTML5, iPad, iPhone, Levels, Mentolatux, Mobile, Skibidi, Skibidi Toilet, Unity3D, WebGL
+- Tags: Action, Android, HTML5, iPad, iPhone, Levels, Mentolatux, Mobile, Skibidi, skibidi-toilet, Unity3D, WebGL

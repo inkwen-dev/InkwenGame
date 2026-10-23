@@ -19,6 +19,6 @@ Become the biggest crowd in town! Gather people accross the city and crush your 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Best, Hot, Multiplayer, Online

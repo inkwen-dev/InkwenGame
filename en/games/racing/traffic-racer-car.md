@@ -19,6 +19,6 @@ Traffic Racer renews the genre of endless arcade racing. Drive your car through 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: drift, drifting, Driving, Race, Racing

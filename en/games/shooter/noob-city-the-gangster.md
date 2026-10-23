@@ -21,4 +21,4 @@ You get the chance to live out your wildest dreams as a real-life gangster in th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fighting, kiz10, run, Shooter
+- Tags: fighting, kiz10, run, Shooter

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 猫, 小鸡, 医生
+- 标签: 猫, 鸡, 医生

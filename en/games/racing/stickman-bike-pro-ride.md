@@ -19,6 +19,6 @@ The most incredible stickman pro bike game is now available. It's Stickman Bike 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Race, Racing, Skateboard, Sports, Stickman
+- Tags: bike, Race, Racing, skateboard, sports, stickman

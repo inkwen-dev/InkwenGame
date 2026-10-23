@@ -15,6 +15,6 @@ Unleash your creativity with Pinta Colour and transform simple sketches into vib
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Coloring

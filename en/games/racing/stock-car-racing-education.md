@@ -19,6 +19,6 @@ Stock Car Racing game Education boys kid kids has a lot of success review and pl
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Aircraft, Boy, Boys, Car, Cars, Design, Educational, Hello Kitty, Interactive, Interactive Fiction, Kid, Kids, Kill, Killing, Miraculous Ladybug, Race, Racing, Red, Seduction, Super, Supercars, Superhero
+- Tags: Aircraft, Boy, Boys, Car, Cars, Design, educational, Hello Kitty, Interactive, Interactive Fiction, Kid, Kids, Kill, Killing, Miraculous Ladybug, Race, Racing, Red, Seduction, Super, Supercars, Superhero

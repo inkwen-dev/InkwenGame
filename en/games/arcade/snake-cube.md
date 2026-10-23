@@ -21,4 +21,4 @@ Snake Cube is a game in which you need to control a snake and collect cubes that
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Best, Classic, Collecting, Fun, Funny, Mobile, Skill, Snake
+- Tags: Avoid, Best, Classic, Collecting, Fun, Funny, Mobile, Skill, snake

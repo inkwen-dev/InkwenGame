@@ -21,4 +21,4 @@ Do you want your food to bring joy to everyone? Theres nothing better than cooki
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cooking, Food, Restaurant
+- Tags: Cooking, Food, restaurant

@@ -21,4 +21,4 @@ How long will you wash your car after driving? Car Wash Garage Service Workshop 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, Driving, Mobile, Parking, Road, Simulation, WebGL
+- Tags: 3D, Car, Driving, Mobile, parking, Road, Simulation, WebGL

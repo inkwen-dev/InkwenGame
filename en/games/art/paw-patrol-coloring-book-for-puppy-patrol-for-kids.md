@@ -21,4 +21,4 @@ Puppy Super Dog Coloring Book can benefit your brain. It is excellent for our he
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Best, Cartoon, Cartoon Network, Coloring, Draw, Drawing, Fun, Kids, Online
+- Tags: Anime, Best, Cartoon, Cartoon Network, Coloring, Draw, drawing, Fun, Kids, Online

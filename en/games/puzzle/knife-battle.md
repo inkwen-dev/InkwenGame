@@ -23,4 +23,4 @@ Get knives in battles, create new ones and defeat all bosses!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, Fighting, merge, Skill
+- Tags: Action, Arcade, fighting, merge, Skill

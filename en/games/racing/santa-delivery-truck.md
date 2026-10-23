@@ -21,4 +21,4 @@ Santa Claus is trying to deliver as much present as hi can with his truck. Help 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Fun, HTML5, Kids, Mobile, Racing, Truck
+- Tags: Christmas, Fun, HTML5, Kids, Mobile, Racing, truck

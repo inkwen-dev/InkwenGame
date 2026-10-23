@@ -19,6 +19,6 @@ The city is excited, the dentist and his family have moved in! My City : Dentist
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, 8 Ball Pool, Adventure, Arcade, Arena, Arkanoid, Army, Barbie, Billiard, Board, Boys, Bubble, Bubble Shooter, Burger, Candy, Car, Collecting, Collection, Color, Cooking, Food, Fun, Game, Games, Girl, Girls, Hypercasual

@@ -21,4 +21,4 @@ A fun math game for kids to learn basic arithmetic skills using dice. Improve ad
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Fun, Game, Games, Girl, Girls, Matching, Math, NapTech Games, Online
+- Tags: Boy, Boys, Fun, Game, Games, Girl, Girls, Matching, math, NapTech Games, Online

@@ -21,4 +21,4 @@ Here is a monster-truck stunt arcade game with 3D models. You need to control th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, HTML5, Mobile, Obstacle, Simulation, Stunts, Truck
+- Tags: 3D, Arcade, HTML5, Mobile, Obstacle, Simulation, Stunts, truck

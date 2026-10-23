@@ -19,6 +19,6 @@ In this game, the player takes on the role of a small creature Barry exploring s
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Boys, Jumping, Planet, Platform, Space
+- Tags: 1 Player, 2D, Boys, jumping, Planet, Platform, Space

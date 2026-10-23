@@ -21,4 +21,4 @@ Froggy Man 2 is a 2D cute little platformer where you play as a green frog who h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Collection, Cute, jump, Jumping, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Collection, Cute, jump, jumping, pixel, Platform, retro

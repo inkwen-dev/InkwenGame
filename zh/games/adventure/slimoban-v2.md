@@ -21,4 +21,4 @@ Slimoban 2 是受 Sokoban 启发的游戏 Slimoban 的续作，讲述了一位�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 双人游戏, 2D, 动作, 成人, 冒险, 阿爾卡諾伊德
+- 标签: 单人, 双人游戏, 2D, 动作, 成人, 冒险, 阿克诺伊德

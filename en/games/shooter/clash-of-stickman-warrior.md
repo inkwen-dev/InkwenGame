@@ -19,6 +19,6 @@ Do You love Something New Clash of Stickman Warrior Game Now With Rivals with Be
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boy, Boys, Cool, Fun, HTML5, Shoot, Shooter, WebGL
+- Tags: 2D, Boy, Boys, cool, Fun, HTML5, Shoot, Shooter, WebGL

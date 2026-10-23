@@ -21,4 +21,4 @@ Solitaire (also known as Klondike or patience) is the most famous and the best c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Card, Classic, King, Puzzle, Solitaire, Stack
+- Tags: Arcade, card, Classic, King, Puzzle, solitaire, Stack

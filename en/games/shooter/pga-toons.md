@@ -19,6 +19,6 @@ Lock and load in a vibrant voxel world where every corner is a playground and ev
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: fps, Mentolatux, Multiplayer, Pixel, Shooting, unity games, WebGL
+- Tags: fps, Mentolatux, Multiplayer, pixel, Shooting, unity games, WebGL

@@ -21,4 +21,4 @@ Simplified classic Mahjong game with Jungle theme. You can eliminate pair of sim
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Fun, Girls, HTML5, Mahjong, Matching, Mobile, Puzzle, Skill
+- Tags: Board, Fun, Girls, HTML5, mahjong, Matching, Mobile, Puzzle, Skill

@@ -19,6 +19,6 @@ Chicken and duck brothers 2 is an extremely interesting adventure game and 2-pla
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Bubble Shooter, Chicken, jump, Jumping, run, running
+- Tags: Action, Adventure, Arcade, Bubble Shooter, Chicken, jump, jumping, run, running

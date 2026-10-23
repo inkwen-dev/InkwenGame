@@ -19,6 +19,6 @@ A Unique Halloween Cooking - one of the most addictive time management cooking g
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cook, Cooking, Decorate, Decoration, Food, Fun, Ghost, Girls, Halloween, Holiday, HTML5, Kids, Restaurant, Simulation, Undead, Vampire, Zombie
+- Tags: Cook, Cooking, Decorate, Decoration, Food, Fun, Ghost, Girls, Halloween, Holiday, HTML5, Kids, restaurant, Simulation, Undead, Vampire, Zombie

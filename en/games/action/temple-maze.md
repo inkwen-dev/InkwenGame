@@ -19,6 +19,6 @@ Temple Maze is one of the best puzzle maze games online, an addictive and fun-fr
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Avoid, Boy, Brain, Fun, HTML5, Kids, Maze, Memory, Obstacle, Online, Puzzle, running, temple
+- Tags: 3D, Android, Avoid, Boy, Brain, Fun, HTML5, Kids, Maze, memory, Obstacle, Online, Puzzle, running, temple

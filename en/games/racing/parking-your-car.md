@@ -19,6 +19,6 @@ The beginning of a new era in the world of automobile parking games Modern Autom
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Car, Cars, Driving, Parking, Racing, Supercars, Unity3D, WebGL
+- Tags: 3D Games, Car, Cars, Driving, parking, Racing, Supercars, Unity3D, WebGL

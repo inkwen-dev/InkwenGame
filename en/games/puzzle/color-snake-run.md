@@ -21,4 +21,4 @@ Dive into the vibrant world of Color Snake Run 3D Game, an exciting and addictiv
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Casual, Snake
+- Tags: 3D Games, Casual, snake

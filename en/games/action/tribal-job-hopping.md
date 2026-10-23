@@ -19,6 +19,6 @@ The game takes the form of a vertical version of parkour, with players switching
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Action, Avoid, Battle, Collecting, Funny, H5, run
+- Tags: 1 Player, 3D Games, Action, Avoid, battle, Collecting, Funny, H5, run

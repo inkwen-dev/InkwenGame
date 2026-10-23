@@ -21,4 +21,4 @@ The fun random game series continues with Volley Random. There is a Volleyball e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Ball, Fun, Funny, Mobile, Pixel, Sport
+- Tags: 2 Player, 2 Player Games, Ball, Fun, Funny, Mobile, pixel, Sport

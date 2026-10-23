@@ -21,4 +21,4 @@ Hey Guys are you excited to drive a farm animal flying truck? We are coming up w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D, Adventure, Battle, Bridge, bus, Clash, Crazy, Funny, Machine, Truck
+- Tags: .io Games, 1 Player, 3D, Adventure, battle, Bridge, bus, Clash, crazy, Funny, Machine, truck

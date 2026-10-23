@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 3D 游戏, 幻想, 马里奥, 音乐, 玩, 节奏, 模拟, Skibidi Toilet, 潜行, Unity3D, WebGL
+- 标签: 单人, 3D, 3D游戏, 幻想, mario, 音乐, 玩, 节奏, 模拟, skibidi-toilet, 潜行, Unity3D, WebGL

@@ -19,6 +19,6 @@ Block Puzzle 2023 is a fun and addictive block puzzle game that serves as an ide
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Block, Fun, Puzzle, Tetris
+- Tags: 2D, block, Fun, Puzzle, tetris

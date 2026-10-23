@@ -19,6 +19,6 @@ Merge Monster Army is a composite game for boys. Arrange troops on the map to ga
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Army, Battle, Boy, Brain, Fighting, Fun, Game, HTML5, Kids, Killing, Online, Puzzle, Relaxation
+- Tags: Android, Army, battle, Boy, Brain, fighting, Fun, Game, HTML5, Kids, Killing, Online, Puzzle, Relaxation

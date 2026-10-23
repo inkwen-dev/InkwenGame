@@ -19,6 +19,6 @@ Drag and Drop the blocks on the board
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Board, Christmas, Collecting, HTML5, Mobile, Puzzle

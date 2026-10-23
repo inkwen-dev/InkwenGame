@@ -21,4 +21,4 @@ Ever wanted to do a cut but like to keep your fingers intact? With Stickman Colo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, cut, Fun, Stickman
+- Tags: Arcade, Casual, cut, Fun, stickman

@@ -21,4 +21,4 @@ In this one-of-a-kind action role-playing game, you'll go on adventures filled w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Android, Arcade, Block, endless, HTML5, Mobile, Pixel, Platform, Unity3D
+- Tags: 1 Player, 3D Games, Android, Arcade, block, endless, HTML5, Mobile, pixel, Platform, Unity3D

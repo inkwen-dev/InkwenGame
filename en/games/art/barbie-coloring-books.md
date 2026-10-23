@@ -19,6 +19,6 @@ Dive into a world of colors and imagination with Barbie Coloring Book, the perfe
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Barbie, Color, Coloring, Drawing, Educational, Girl, Girls, School
+- Tags: Barbie, Color, Coloring, drawing, educational, Girl, Girls, School

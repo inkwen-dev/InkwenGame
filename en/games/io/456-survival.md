@@ -19,6 +19,6 @@ ou are invited to the game. First game, Red Light Green Light is just starting. 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player Games, 3D Games, Game, Games, Halloween, New

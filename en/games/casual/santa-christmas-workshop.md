@@ -19,6 +19,6 @@ Santa Christmas Workshop is a very popular game. On Christmas Eve, Santa Claus o
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Christmas, Cute, Fun, Girls, Holiday, HTML5, Kids, Mobile

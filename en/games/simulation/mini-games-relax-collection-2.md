@@ -19,6 +19,6 @@ Relax and take a mini-game tour! Mini Games: Relax Collection 2 brings you a ser
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Minion, Relaxation, Simulation

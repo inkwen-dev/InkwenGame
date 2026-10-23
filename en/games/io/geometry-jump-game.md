@@ -19,6 +19,6 @@ Are you ready for the New Kooby Jump Dash Runner challenge? Focus, learn the pat
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Casual, Games, HTML5, jump, Jumping, Kids, Unity3D
+- Tags: .io, .io Games, Casual, Games, HTML5, jump, jumping, Kids, Unity3D

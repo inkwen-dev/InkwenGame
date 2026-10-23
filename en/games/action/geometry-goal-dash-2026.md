@@ -19,6 +19,6 @@ Geometry Goal Dash 2026 is a fast-paced platformer inspired by Geometry Dash, wh
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Avoid, Boys, dash, Geometry, Hypercasual, Jumping, Platform, Skill
+- Tags: Arcade, Avoid, Boys, dash, Geometry, Hypercasual, jumping, Platform, Skill

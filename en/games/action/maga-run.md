@@ -19,6 +19,6 @@ The outgoing president have to escape the FBI. Find lost ballots, collect enough
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Arcade, Cartoon, jump, Jumping, run, running
+- Tags: 2D, Action, Arcade, Cartoon, jump, jumping, run, running

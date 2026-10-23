@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 超休闲, 射击, 射击, 斯基比迪马桶, 狙击
+- 标签: 3D, 超休闲, 射击类, 射击, skibidi-toilet, 狙击手

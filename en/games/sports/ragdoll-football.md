@@ -28,4 +28,4 @@ Win cups in Tournament mode, climb the ranked ladder in 1v1 Duels, unlock dozens
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 1v1, Arcade, Funny, Multiplayer, ragdoll, Soccer, Sports
+- Tags: 1v1, Arcade, Funny, Multiplayer, ragdoll, Soccer, sports

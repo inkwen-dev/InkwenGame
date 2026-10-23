@@ -21,4 +21,4 @@ Aztec Cubes Treasure is a free arcade game. Are you a nostalgic of the timeless 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Fun, HTML5, Kids, Logic, Mobile, Skill, Tetris
+- Tags: Adventure, Fun, HTML5, Kids, Logic, Mobile, Skill, tetris

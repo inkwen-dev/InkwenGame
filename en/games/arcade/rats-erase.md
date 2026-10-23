@@ -15,6 +15,6 @@ Unleash your inner mercenary as Rhino Rock in Rats Erase, battling waves of rele
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Arcade

@@ -19,6 +19,6 @@ Roar of City is a 2020 Beat em up game and action boys game with high quality gr
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Brawl, Fight, Fighting, HTML5, Police, Punch, Street Fighting
+- Tags: Boys, Brawl, Fight, fighting, HTML5, police, Punch, Street Fighting

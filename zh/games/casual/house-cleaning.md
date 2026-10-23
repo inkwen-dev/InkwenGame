@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 清洁, Cute, 女孩
+- 标签: 清洁, 可爱, 女孩

@@ -21,4 +21,4 @@ Embark on a frosty escapade in Save Snowman! Guide your adorable snowman through
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Brain, Click, Draw, Drawing, Mind, Puzzle
+- Tags: Avoid, Brain, Click, Draw, drawing, Mind, Puzzle

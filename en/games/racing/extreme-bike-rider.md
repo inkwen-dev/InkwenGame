@@ -19,6 +19,6 @@ Extreme Bike Rider is a fun platform game with cool levels and score system. Fea
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Bike, Platform, Unity3D, WebGL
+- Tags: 3D Games, bike, Platform, Unity3D, WebGL

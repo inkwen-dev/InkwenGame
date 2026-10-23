@@ -21,4 +21,4 @@ Cute Family Shopping is a very fun shopping game. Abundant merchandise departmen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cake, Candy, Cartoon, Cook, Cooking, Cute, Dress Up, Educational, Family, Fish, Fishing, Food, Fruit, Fun, Girls, Hidden, HTML5, Kids, Mobile, Shopping
+- Tags: Animal, Baby, Cake, Candy, Cartoon, Cook, Cooking, Cute, Dress Up, educational, Family, Fish, Fishing, Food, Fruit, Fun, Girls, Hidden, HTML5, Kids, Mobile, Shopping

@@ -21,4 +21,4 @@ A "Shoot and jump" style game in which we drive a car in the desert equipped wit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Cars, Cartoon, Casual, Click, Helicopter, Highscore, Hypercasual, run
+- Tags: 1 Player, 2D, Action, Adventure, Cars, Cartoon, Casual, Click, helicopter, Highscore, Hypercasual, run

@@ -21,4 +21,4 @@ In this amazing classic game, Super Mario World, play as Mario and assist your p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Arcade, Mario
+- Tags: 2D, Action, Adventure, Arcade, mario

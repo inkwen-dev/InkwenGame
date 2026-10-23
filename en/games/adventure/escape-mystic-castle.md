@@ -21,4 +21,4 @@ A villager was taken to a castle and was trapped there, now try to get out of th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Castle, Dungeon, HTML5, Mario, Pixel, Wizard
+- Tags: 1 Player, 2D, Adventure, Castle, Dungeon, HTML5, mario, pixel, Wizard

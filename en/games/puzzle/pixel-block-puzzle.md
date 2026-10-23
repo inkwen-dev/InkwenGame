@@ -21,4 +21,4 @@ Pixel Block Puzzle Simple gameplay with efficient and easy to learn controls.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Game, Maze, Pixel, Puzzle
+- Tags: 2D, Game, Maze, pixel, Puzzle

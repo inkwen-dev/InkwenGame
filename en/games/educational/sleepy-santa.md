@@ -21,4 +21,4 @@ Welcome to the Sleepy Santa. Help to wake up the Santa before Christmas. Click a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Christmas, Click, Educational, Kids, Puzzle
+- Tags: Boys, Christmas, Click, educational, Kids, Puzzle

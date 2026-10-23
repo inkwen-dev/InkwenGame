@@ -21,4 +21,4 @@ Bubble Monsters Shooter Aim and release to shoot and pop 2 more more identical b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bubble, Bubble Shooter, Casual, Monster, Puzzle, Shoot, Shoot 'Em Up, Shooter, Shooting
+- Tags: Arcade, Bubble, Bubble Shooter, Casual, monster, Puzzle, Shoot, Shoot 'Em Up, Shooter, Shooting

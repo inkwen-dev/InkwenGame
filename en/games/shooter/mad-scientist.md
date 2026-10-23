@@ -21,4 +21,4 @@ This is a very cool fast game in which you play as a mad scientist, you can coll
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, HTML5, Jumping, Kids, Mobile, Shooting, Skill
+- Tags: Action, HTML5, jumping, Kids, Mobile, Shooting, Skill

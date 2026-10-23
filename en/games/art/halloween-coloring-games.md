@@ -21,4 +21,4 @@ Halloween Coloring Games is a very popular art game. Halloween is comming. You c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Cute, Draw, Drawing, Fun, Girls, Halloween, Kids
+- Tags: Color, Coloring, Cute, Draw, drawing, Fun, Girls, Halloween, Kids

@@ -24,4 +24,4 @@ Draw it. Drive it. Don’t fall!  Bridge Dash is a fun and challenging physics p
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Car, Drawing, Physics
+- Tags: Car, drawing, Physics

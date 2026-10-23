@@ -19,6 +19,6 @@ Score high and reign in Arcade Basketball Classic - Endless Sports Games! Are yo
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Basketball, Fun, Sport
+- Tags: Arcade, Ball, basketball, Fun, Sport

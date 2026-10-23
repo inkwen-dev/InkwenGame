@@ -19,6 +19,6 @@ Move pieces of insect images between tiles to arrange them in proper order. Touc
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML5, Jigsaw, Kids, Mobile, Puzzle, Skill

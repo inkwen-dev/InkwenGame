@@ -21,4 +21,4 @@ The famous IDLE: Gravity breakout game is now available for mobile, with a bette
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Clicker, Cool, Planet
+- Tags: Ball, Clicker, cool, Planet

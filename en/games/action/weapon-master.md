@@ -21,4 +21,4 @@ Weapon Master this is an interesting and exciting game for boys. You need to kno
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boy, Boys, Fight, Fighting, Fun, HTML5, run, running, WebGL
+- Tags: 3D, Boy, Boys, Fight, fighting, Fun, HTML5, run, running, WebGL

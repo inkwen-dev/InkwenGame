@@ -21,4 +21,4 @@ Welcome to the Vehicle Master Parking Games! It is an exhilarating street car dr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, Adventure, Car, carparking, Cars, Driving, Parking
+- Tags: 2025 games, Adventure, Car, carparking, Cars, Driving, parking

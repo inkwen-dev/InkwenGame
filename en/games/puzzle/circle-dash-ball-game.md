@@ -21,4 +21,4 @@ Circle Dash Ball ek super fun aur addictive arcade game hai jisme aapko apni bal
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: amazing, Casual, Crazy, Hypercasual, Puzzle
+- Tags: amazing, Casual, crazy, Hypercasual, Puzzle

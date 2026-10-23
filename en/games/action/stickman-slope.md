@@ -19,6 +19,6 @@ Stickman Slope is a running game set in the streets of a city. To be successful,
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Collection, Hypercasual, Mobile, Platform, run, running, Slicing, Stickman
+- Tags: 3D, Avoid, Collection, Hypercasual, Mobile, Platform, run, running, Slicing, stickman

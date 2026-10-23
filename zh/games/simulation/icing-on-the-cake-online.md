@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, 蛋糕, 烹饪, 装饰, 食物, H5, 热门, HTML, HTML5, 超休闲, 儿童, 模拟器
+- 标签: 3D, 3D游戏, 蛋糕, 厨艺, 装饰, 食物, H5, 热门, HTML, HTML5, 超休闲, 儿童, 模拟器

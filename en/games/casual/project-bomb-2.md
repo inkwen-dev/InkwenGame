@@ -15,6 +15,6 @@ Dive into four mesmerizing worlds with Project Bomb, an engaging puzzle adventur
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Brain

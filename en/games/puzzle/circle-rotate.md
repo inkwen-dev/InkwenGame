@@ -19,6 +19,6 @@ Circle Rotate is a puzzle game where you need to rotate the ring which has a sma
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Boys, Funny, HTML5, Puzzle, Skills

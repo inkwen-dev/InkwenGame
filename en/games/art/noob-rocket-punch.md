@@ -19,6 +19,6 @@ Enjoy this new game. Rocket Punch is a stunning journey on the ring where you ma
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Drawing, kiz10, Punch, Rocket
+- Tags: drawing, kiz10, Punch, Rocket

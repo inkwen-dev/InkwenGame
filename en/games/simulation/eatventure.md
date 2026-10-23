@@ -21,4 +21,4 @@ Be an idle restaurant tycoon manager in one of the most cooking simulation games
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kids, Management, Mobile, Restaurant
+- Tags: Kids, management, Mobile, restaurant

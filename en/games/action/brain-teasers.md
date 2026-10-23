@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Android, Arcade, Ball, Ballon, Brain, Classic, Fun, Funny, jump, Jumping, Kid, Kids, Math, Memory, Mobile, Puzzle, run, running
+- Tags: Action, Adventure, Android, Arcade, Ball, Ballon, Brain, Classic, Fun, Funny, jump, jumping, Kid, Kids, math, memory, Mobile, Puzzle, run, running

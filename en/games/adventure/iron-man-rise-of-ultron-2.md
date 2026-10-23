@@ -19,6 +19,6 @@ Play Iron Man: Rise of Ultron online free game. Grab the opportunity to enjoy yo
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, H5, Puzzle, Spiderman

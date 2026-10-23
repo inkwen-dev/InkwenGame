@@ -21,4 +21,4 @@ Time is key. The longer you ride, the more money you earn to unlock faster, stro
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Card, Driving, Moto, Motocross, Motorcycle, Race, Racing, Road, wheel, wheels
+- Tags: bike, card, Driving, Moto, Motocross, Motorcycle, Race, Racing, Road, wheel, wheels

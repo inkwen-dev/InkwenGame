@@ -19,6 +19,6 @@ The Best Tokyo Ghoul Coloring Book! Relax and enjoy with more then +50 pictures 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Baby, Baby Hazel, Boys, Coloring, Draw, Drawing, Games, Girls, Online, Play
+- Tags: Anime, Baby, Baby Hazel, Boys, Coloring, Draw, drawing, Games, Girls, Online, Play

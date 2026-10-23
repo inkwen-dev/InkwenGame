@@ -21,4 +21,4 @@ Dominoes Battle is a new version of the classic board game also called by Domino
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Battle, Board, Game, Games
+- Tags: Arcade, battle, Board, Game, Games

@@ -25,4 +25,4 @@ You will constantly accept new recruits and improve the base's infrastructure to
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, Army, idle, Management, Simulation, tycoon
+- Tags: 3D, Arcade, Army, idle, management, Simulation, tycoon

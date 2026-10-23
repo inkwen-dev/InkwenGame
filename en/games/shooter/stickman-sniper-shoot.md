@@ -21,4 +21,4 @@ Step into the world of intense long-range combat in Stickman Sniper Shoot, an ac
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, amazing, Casual, Fun, Stickman
+- Tags: 2026 games, amazing, Casual, Fun, stickman

@@ -21,4 +21,4 @@ Memorized! is a game which is about not to forget objects. You need to choose co
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Memory, Puzzle
+- Tags: Casual, memory, Puzzle

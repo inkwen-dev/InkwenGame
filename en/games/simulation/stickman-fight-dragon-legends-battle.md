@@ -19,6 +19,6 @@ Among all the stickman games, Stickman Fight - Battle Royale is one of the funni
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Anime, Arcade, Batman, Battle, Battlegrounds, Cartoon, Cartoon Network, Dragon, Dragon Ball Z, Fight, Multiplayer, PacMan, Simulation, Spiderman, Stickman, Street Fighting, Super, Superhero
+- Tags: Action, Adventure, Anime, Arcade, Batman, battle, Battlegrounds, Cartoon, Cartoon Network, Dragon, Dragon Ball Z, Fight, Multiplayer, PacMan, Simulation, Spiderman, stickman, Street Fighting, Super, Superhero

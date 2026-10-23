@@ -21,4 +21,4 @@ Sprunki Block Challenge is a super fun and free to play online game that kids wi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Balance, Block, Bomb, Collecting, Fun, Hypercasual, puzzleblock, Skill, Sprunki
+- Tags: Avoid, Balance, block, Bomb, Collecting, Fun, Hypercasual, puzzleblock, Skill, Sprunki

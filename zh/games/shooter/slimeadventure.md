@@ -21,4 +21,4 @@ Slime Adventure 是一款有趣的动作游戏，你将操控一个绿色的黏�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 冒险, 战斗, 射击
+- 标签: 动作, 冒险, 格斗, 射击

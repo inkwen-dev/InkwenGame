@@ -21,4 +21,4 @@ The annual Mexican Day of the Dead is here! This is one of the liveliest festiva
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Games, Cute, Dress Up, Educational, Fashion, Girl, Girls, Halloween, Kids, Simulation
+- Tags: Baby, Baby Games, Cute, Dress Up, educational, Fashion, Girl, Girls, Halloween, Kids, Simulation

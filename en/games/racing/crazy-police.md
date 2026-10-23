@@ -21,4 +21,4 @@ Kill the zombies and save your friends. Boomer Zombie is a game that you can pla
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Police, Race, Racing
+- Tags: police, Race, Racing

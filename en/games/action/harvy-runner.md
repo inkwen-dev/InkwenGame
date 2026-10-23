@@ -19,6 +19,6 @@ Harvy Runner is a non stop action running game where you have to keep Little Har
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bomb, Boys, Bridge, Family, Girls, Kids, Monster, run, running
+- Tags: Bomb, Boys, Bridge, Family, Girls, Kids, monster, run, running

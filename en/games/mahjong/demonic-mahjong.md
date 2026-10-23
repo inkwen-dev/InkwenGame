@@ -21,4 +21,4 @@ Demonic Mahjong is a simple yet thrilling mahjong game with a dark, demonic them
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Horror, Mahjong, Matching, Puzzle
+- Tags: Horror, mahjong, Matching, Puzzle

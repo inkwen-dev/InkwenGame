@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 烹饪, 管理, 机器人
+- 标签: 2D, 厨艺, 管理, 机器人

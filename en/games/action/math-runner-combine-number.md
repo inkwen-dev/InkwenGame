@@ -19,6 +19,6 @@ The merge cube puzzle game's controls are pretty straightforward; all you have t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, HTML5, Mobile, run, running, Unity3D, WebGL

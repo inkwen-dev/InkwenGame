@@ -19,6 +19,6 @@ This is a classic point and click hidden object game. You need to find all of th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, Girls, Hidden, HTML5, Kids, Mobile, Pirate, Puzzle

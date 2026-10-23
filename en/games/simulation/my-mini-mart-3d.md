@@ -19,6 +19,6 @@ Welcome to My Mini Mart 3D, the ultimate supermarket management and shopping sim
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Adventure, Best Games, Casual, Hypercasual, Shopping

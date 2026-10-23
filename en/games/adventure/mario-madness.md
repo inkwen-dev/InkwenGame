@@ -21,4 +21,4 @@ Mario Madness is a gory top down shooter mario game made for the Weekly Game Jam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Mario
+- Tags: Action, Adventure, mario

@@ -19,6 +19,6 @@ In this game, which is the 2nd series of the kingdom of ninja game, it is to ove
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Android, Arcade, Block, Mobile
+- Tags: 1 Player, 2D, Adventure, Android, Arcade, block, Mobile

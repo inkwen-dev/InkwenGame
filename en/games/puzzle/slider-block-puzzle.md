@@ -19,6 +19,6 @@ Slider Block 2048 -Puzzle Game 2248 Puzzle Game: Minimalistic & Elegantly design
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Bejeweled, Block, Games, Puzzle
+- Tags: 1 Player, 2D, Android, Bejeweled, block, Games, Puzzle

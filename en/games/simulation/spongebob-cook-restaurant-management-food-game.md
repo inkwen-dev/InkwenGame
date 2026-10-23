@@ -21,4 +21,4 @@ Join SpongeBob SquarePants on a hilarious culinary adventure through the restaur
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Burger, Cake, Candy, Chicken, Cook, Cooking, Fish, Food, Restaurant, Simulation, Spongebob, World
+- Tags: Burger, Cake, Candy, Chicken, Cook, Cooking, Fish, Food, restaurant, Simulation, Spongebob, World

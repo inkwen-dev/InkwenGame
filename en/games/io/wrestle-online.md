@@ -21,4 +21,4 @@ Jump up as you try to knock your opponent out. Play single player mode, two play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2 Player, 2 Player Games, Fighting, Funny
+- Tags: .io, .io Games, 2 Player, 2 Player Games, fighting, Funny

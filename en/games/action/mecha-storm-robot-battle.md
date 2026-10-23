@@ -21,4 +21,4 @@ Get ready for the nervous action of Mecha Storm: Robot Battle. This game puts yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Robot, Warrior
+- Tags: Action, battle, Robot, Warrior

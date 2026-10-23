@@ -21,4 +21,4 @@ Drive your car into the target.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Car, Driving, HTML, HTML5, Parking, Race, Skill, Skills, Supercars
+- Tags: 1 Player, 2D, Car, Driving, HTML, HTML5, parking, Race, Skill, Skills, Supercars

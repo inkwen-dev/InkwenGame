@@ -19,6 +19,6 @@ Bus Crash Stunts 2 is a simulation of bus driving. Join the demolition arena. Cr
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, bus, Crazy, Fun, Funny, Race, Stunts, Unity3D
+- Tags: 3D, 3D Games, bus, crazy, Fun, Funny, Race, Stunts, Unity3D

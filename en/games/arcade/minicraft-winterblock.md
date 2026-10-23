@@ -21,4 +21,4 @@ Winter has arrived, and everything is covered in snow. In the snow-covered fores
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Minecraft, Mobile, Pixel
+- Tags: 1 Player, 2D, Adventure, Arcade, Minecraft, Mobile, pixel

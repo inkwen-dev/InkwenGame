@@ -21,4 +21,4 @@ Enter the wonderful world of Capybara. In Capybara Go, begin a strategic adventu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Battle, Fun, Strategy
+- Tags: Army, battle, Fun, strategy

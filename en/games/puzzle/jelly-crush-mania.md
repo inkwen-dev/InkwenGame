@@ -21,4 +21,4 @@ Jelly Crush Mania is an exciting game about exploding colorful blocks and making
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Brain, Casual, Color, Match 3, Match3, Matching, Puzzle
+- Tags: block, Brain, Casual, Color, Match 3, Match3, Matching, Puzzle

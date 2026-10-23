@@ -21,4 +21,4 @@ Now noob minecraft fight skibidi toilet in the market. Be careful
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brawl, Minecraft, Skibidi, Skibidi Toilet
+- Tags: Brawl, Minecraft, Skibidi, skibidi-toilet

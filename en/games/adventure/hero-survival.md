@@ -19,6 +19,6 @@ Heroic Survival is a fun survival RPG game where you have to survive though wave
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Mobile, Superhero, Zombie

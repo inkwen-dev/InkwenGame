@@ -19,6 +19,6 @@ Chicken Jockey: Red Light Green Light is a thrilling and hilarious mobile game t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Maze, mineblock, Minecraft, Miner, Minion, Monster, mountain
+- Tags: Maze, mineblock, Minecraft, Miner, Minion, monster, mountain

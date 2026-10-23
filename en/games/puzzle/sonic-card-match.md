@@ -21,4 +21,4 @@ Sonic the Hedgehog is the title character and the protagonist of the Sonic the H
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Match 3, Puzzle
+- Tags: card, Match 3, Puzzle

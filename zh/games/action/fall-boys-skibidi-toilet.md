@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 安卓, Fall Boys, Fall Guys, HTML5, 手机, 跑, 跑步, 斯基比迪, 斯基比迪马桶
+- 标签: 安卓, 跌倒男孩, Fall Guys, HTML5, 移动设备, 跑, 奔跑, Skibidi, skibidi-toilet

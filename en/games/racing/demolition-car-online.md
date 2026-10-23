@@ -21,4 +21,4 @@ A game with super destructive power is here! Demolish the building in front and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Collecting, Kids, Management
+- Tags: Car, Collecting, Kids, management

@@ -21,4 +21,4 @@ Sint Nicolaas is a puzzle/platform game about Sinterklaas, a Dutch tradition. Co
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Christmas, Classic, Collecting, Funny, Holiday, Jumping, Platform, Winter
+- Tags: 2D, Action, Adventure, Christmas, Classic, Collecting, Funny, Holiday, jumping, Platform, Winter

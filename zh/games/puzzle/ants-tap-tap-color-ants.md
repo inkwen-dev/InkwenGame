@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 动物, 动漫, 休闲, 食物, 水果, HTML, HTML5, 超休闲, 骑士, 益智
+- 标签: 动作, 动物, 动漫, 休闲, 食物, 水果, HTML, HTML5, 超休闲, knight, 益智

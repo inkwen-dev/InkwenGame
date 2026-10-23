@@ -19,6 +19,6 @@ Tennis World Tour is an online sports game that is a full-fledged simulator, but
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, HTML, HTML5, Shoot, Shooting, Sport, Sports, Tennis
+- Tags: Ball, HTML, HTML5, Shoot, Shooting, Sport, sports, Tennis

@@ -21,4 +21,4 @@ This is a traffic control game where you control the flow of traffic by starting
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, HTML5, Math, Mobile, Puzzle, School, Skills
+- Tags: educational, HTML5, math, Mobile, Puzzle, School, Skills

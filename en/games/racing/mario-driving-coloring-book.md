@@ -19,6 +19,6 @@ In this game with Super Mario you will find six different pictures which have to
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Color, Coloring, Fun, HTML5, Kids, Mario, Mobile, Skill
+- Tags: Cartoon, Color, Coloring, Fun, HTML5, Kids, mario, Mobile, Skill

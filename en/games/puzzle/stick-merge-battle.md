@@ -21,4 +21,4 @@ Stick Merge is a simple action and merging game. You aim to combine various weap
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Boy, Boys, Fun, H5, HTML5, Kid, Kids, Stickman, Strategy, War
+- Tags: battle, Boy, Boys, Fun, H5, HTML5, Kid, Kids, stickman, strategy, War

@@ -21,4 +21,4 @@ Oil Tank Truck Driving Sim offers a realistic experience of transporting oil acr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mentolatux, Simulator, transport, Truck, trucks, Unity3D, vehicle, WebGL
+- Tags: Mentolatux, Simulator, transport, truck, trucks, Unity3D, vehicle, WebGL

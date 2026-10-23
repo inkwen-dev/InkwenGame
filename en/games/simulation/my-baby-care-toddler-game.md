@@ -21,4 +21,4 @@ My Baby Care is both a baby caring and a dress-up mixture game that is made from
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: Baby, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

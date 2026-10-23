@@ -15,6 +15,6 @@ Dive into a sugary adventure with Candy Blast, where your puzzle-solving skills 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Monster
+- Tags: monster

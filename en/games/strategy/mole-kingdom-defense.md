@@ -43,4 +43,4 @@ Defend your kingdom and lead the Mole Army to victory!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Strategy, Tower Defense
+- Tags: Action, strategy, Tower Defense

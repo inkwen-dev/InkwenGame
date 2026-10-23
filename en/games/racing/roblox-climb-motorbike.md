@@ -19,6 +19,6 @@ In the adventure game Roblox Climb Motorbike, players may spend a lot of time ra
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: kiz10, Motorcycle, Race, roblox

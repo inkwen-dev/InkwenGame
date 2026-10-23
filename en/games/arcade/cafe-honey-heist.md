@@ -19,6 +19,6 @@ Fly through a warm, bustling caf&eacute;, sip delicious nectar from coffee cups 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, Restaurant, survival
+- Tags: Escape, restaurant, survival

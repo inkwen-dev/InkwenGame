@@ -21,4 +21,4 @@ Christmas is here and Santa is in rush! Help him to get as far as possible. Don'
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, endless, HTML5, jump, Platform, running, Stickman
+- Tags: Christmas, endless, HTML5, jump, Platform, running, stickman

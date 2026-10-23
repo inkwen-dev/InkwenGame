@@ -21,4 +21,4 @@ PIXEL SLIME is a unique auto-platformer that challenges you to get the LOWEST sc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Crazy, HTML5, Hypercasual, Platform, run, running
+- Tags: Arcade, Casual, crazy, HTML5, Hypercasual, Platform, run, running

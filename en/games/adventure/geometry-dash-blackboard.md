@@ -19,6 +19,6 @@ Geometry Dash Blackboard game is waiting for you with its latest version and los
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Funny, jump

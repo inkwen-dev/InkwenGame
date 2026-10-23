@@ -21,4 +21,4 @@ Tanks.io is fun addictive action IO game. This is a multiplayer game. The object
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Shooter, Shooting, Tank, Tanks
+- Tags: .io, .io Games, Action, Shooter, Shooting, Tank, tanks

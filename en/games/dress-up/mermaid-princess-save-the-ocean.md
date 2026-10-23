@@ -21,4 +21,4 @@ Marine pollution has always been a big troublesome problem. Princess Ariel is al
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Cleaning, Doctor, Dress Up, Girl, Girls, Kids, Princess, Simulation, Surgery
+- Tags: Cartoon, Cleaning, Doctor, Dress Up, Girl, Girls, Kids, Princess, Simulation, surgery

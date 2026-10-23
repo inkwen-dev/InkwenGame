@@ -19,6 +19,6 @@ Are you ready to show off your your gardening skills ? Play online Garden Decora
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Baby Hazel, Creation, Decorate, Decoration, Design, Games, IO, Kids, Online, Plane, Planet, Simulator
+- Tags: .io, .io Games, Baby Hazel, Creation, Decorate, Decoration, Design, Games, Kids, Online, Plane, Planet, Simulator

@@ -15,6 +15,6 @@ Navigate a chilling toy kingdom with a sinister purple cat in Playtime Killer Ch
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: survival

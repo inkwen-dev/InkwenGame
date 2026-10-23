@@ -19,6 +19,6 @@ This is a game in which you need to control an astronaut to destroy asteroids an
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Best, Bomb, Boys, Clicker, Collecting, Fun, Funny, Logic, Mobile, Physics, Skill, Space

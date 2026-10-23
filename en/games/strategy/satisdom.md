@@ -24,4 +24,4 @@ Satisgame is a globally popular casual stress-relief game loved by players of al
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mobile, Strategy
+- Tags: Mobile, strategy

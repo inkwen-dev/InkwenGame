@@ -21,4 +21,4 @@ Have fun with this new free game Noob Ninja Guardian is a casual game of action,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fighting, kiz10, Minecraft, Ninja
+- Tags: battle, fighting, kiz10, Minecraft, ninja

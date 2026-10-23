@@ -21,4 +21,4 @@ A fun 3D math adventure! Choose your skill level, solve smart puzzles, and play 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Best Games, Brain, Educational, Kids, WebGL
+- Tags: 3D, 3D Games, Best Games, Brain, educational, Kids, WebGL

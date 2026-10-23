@@ -19,6 +19,6 @@ Flex Run 3D is a yoga simulation arcade game that is made from 3D cartoon models
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Collecting, Mobile, Sport, WebGL

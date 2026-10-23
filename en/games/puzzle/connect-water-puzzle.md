@@ -19,6 +19,6 @@ Rotate the pipes to connect them and guide water to all the trees in this challe
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Kids, Mentolatux, Puzzle, Skill, unity games, water, WebGL

@@ -21,4 +21,4 @@ You are trapped in HELL. You have 5 days to Escape or you will be damned for all
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, Monster, Puzzle, Undead, weapons
+- Tags: Escape, monster, Puzzle, Undead, weapons

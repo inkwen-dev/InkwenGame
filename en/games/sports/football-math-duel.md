@@ -15,6 +15,6 @@ Challenge your math skills and outscore your opponent in Football Math Duel! Eng
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Math
+- Tags: math

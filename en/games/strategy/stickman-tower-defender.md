@@ -19,6 +19,6 @@ Face countless challenging tower defense battles & taste hard earned victory as 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Battle, Stickman, Tower Defense, Unity3D, WebGL
+- Tags: 3D, 3D Games, battle, stickman, Tower Defense, Unity3D, WebGL

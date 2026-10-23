@@ -21,4 +21,4 @@ Pick and drop sets of jelly cubes on the board. You can rotate the block sets by
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Board, Candy, Girls, HTML5, Jelly, Match 3, Matching, Mobile, Puzzle
+- Tags: block, Board, Candy, Girls, HTML5, Jelly, Match 3, Matching, Mobile, Puzzle

@@ -19,6 +19,6 @@ Step into a magical springtime world in Enchanted Easter Adventure, where Lily a
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Easter, Kids, Puzzle, Skills

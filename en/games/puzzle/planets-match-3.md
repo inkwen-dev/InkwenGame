@@ -19,6 +19,6 @@ Swap blocks in order to make a group of 3 or more identical planets adjacent hor
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, HTML5, Match 3, Mobile, Planet, Puzzle, Space

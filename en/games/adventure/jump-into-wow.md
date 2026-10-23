@@ -19,6 +19,6 @@ Help the character get to the highest point in order to catch the villain who ha
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Cartoon, Cartoon Network, Disney, Highscore, HTML, HTML5, Hypercasual, jump, Jumping
+- Tags: Action, Adventure, Cartoon, Cartoon Network, Disney, Highscore, HTML, HTML5, Hypercasual, jump, jumping

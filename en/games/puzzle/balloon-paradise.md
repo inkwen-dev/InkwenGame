@@ -19,6 +19,6 @@ Today in the city amusement park will be held a skill competition called Balloon
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ballon, Casual, Fun, HTML5, Kids, Mobile, Puzzle, Skill

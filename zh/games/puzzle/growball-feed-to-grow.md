@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, Android, 球, 吃, 成长, HTML5, iPad, iPhone, 儿童, Mentolatux, 手机, 益智
+- 标签: 单人, 安卓, 球, 进食, 成长, HTML5, iPad, iPhone, 儿童, Mentolatux, 移动设备, 益智

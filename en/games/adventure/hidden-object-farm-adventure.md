@@ -19,6 +19,6 @@ Play a fun hidden object game with 30 farm levels!\\\\\\\\nIn each level, find 6
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Farm, Hidden, html5 games, Mobile, Puzzle, Skill

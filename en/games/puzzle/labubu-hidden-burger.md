@@ -19,6 +19,6 @@ Labubu Hidden Burger is a super fun and colorful online game made especially for
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Brain, Girls, Hidden, Hypercasual, Labubu, Puzzle

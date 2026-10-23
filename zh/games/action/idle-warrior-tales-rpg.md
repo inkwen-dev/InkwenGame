@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 战斗, 战场, 休闲, 点击类, 万圣节, HTML5, 超休闲, MMO, PvP, 角色扮演, 策略, Unity3D, WebGL, 巫师, 世界
+- 标签: 3D, 战斗, 战场, 休闲, 点击器, 万圣节, HTML5, 超休闲, MMO, PvP, rpg, 策略, Unity3D, WebGL, 巫师, 世界

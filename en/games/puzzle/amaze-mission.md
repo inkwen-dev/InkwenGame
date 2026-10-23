@@ -21,4 +21,4 @@ Enter the world of Block Blast, a fun and free block puzzle game where every mov
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Block, Casual, Hypercasual
+- Tags: 2D, block, Casual, Hypercasual

@@ -29,4 +29,4 @@ Dive into the exciting realm of Tank Fury: Boss Battle 2D, where strategy combin
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Mobile, Shooting, Tanks, War
+- Tags: Action, Mobile, Shooting, tanks, War

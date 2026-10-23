@@ -21,4 +21,4 @@ Ring It Off - 旋转轨道，让圆环落入洞中！
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 涂色, 休闲, 解谜
+- 标签: 3D, 着色, 超休闲, 益智

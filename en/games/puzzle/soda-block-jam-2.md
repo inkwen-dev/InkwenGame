@@ -15,6 +15,6 @@ Unleash your thirst for puzzles in Soda Block Jam! Swipe vibrant soda crates sea
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Puzzle

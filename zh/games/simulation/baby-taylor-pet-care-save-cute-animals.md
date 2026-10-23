@@ -21,4 +21,4 @@ Taylor 和 Jessica 想体验社区工作。她们发现宠物护理中心需要�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 动物, 教育, 有趣, 女孩, 女孩们, H5, HTML5
+- 标签: 2D, 动物, 教育, 有趣, 女孩, 女孩, H5, HTML5

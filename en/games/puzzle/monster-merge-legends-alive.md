@@ -21,4 +21,4 @@ Monster Merge: Legends Alive is a fun puzzle game where you combine monsters to 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: merge, Monster, pve
+- Tags: merge, monster, pve

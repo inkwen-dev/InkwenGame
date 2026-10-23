@@ -32,4 +32,4 @@ Inside:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, cards, Retro, RPG, Strategy
+- Tags: Arcade, cards, retro, rpg, strategy

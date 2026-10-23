@@ -21,4 +21,4 @@ Elden Ring: Beat Em Up is fighting game with a five-chapter illustrated fantasy 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Fight, Fighting
+- Tags: Action, Adventure, Arcade, Fight, fighting

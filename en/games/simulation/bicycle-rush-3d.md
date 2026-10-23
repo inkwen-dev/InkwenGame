@@ -21,4 +21,4 @@ Here is a bicycle riding racing arcade game that is made from 3D cartoon game ar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Bike, Mobile, Obstacle, Race, Simulation
+- Tags: 3D, Avoid, bike, Mobile, Obstacle, Race, Simulation

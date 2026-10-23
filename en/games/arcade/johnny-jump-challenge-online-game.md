@@ -19,6 +19,6 @@ Jump Challenge! Is a game with mind blowing mechanics that are fast paced and ea
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Hypercasual, jump, Jumping, sky
+- Tags: Action, Adventure, Arcade, Hypercasual, jump, jumping, sky

@@ -19,6 +19,6 @@ Tomato Ketchup is an online game that is free to play. It is a lot of fun, and i
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Arcade, Game, Games, HTML5, Hypercasual, Online

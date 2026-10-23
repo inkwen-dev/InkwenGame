@@ -19,6 +19,6 @@ Quite a lot of young people attend various car clubs where they learn to ride su
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Driving, Fun, HTML5, Kids, Mobile, Racing, Skill

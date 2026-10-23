@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 战斗, 模拟, 模拟器, Street Fighting, 战争
+- 标签: 格斗, 模拟, 模拟器, 街头格斗, 战争

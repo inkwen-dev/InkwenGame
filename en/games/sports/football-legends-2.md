@@ -21,4 +21,4 @@ Choose your favorite team and join a tournament where only the best fight for th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Soccer, Sports
+- Tags: Football, Soccer, sports

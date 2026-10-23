@@ -21,4 +21,4 @@ Penguins at the North pole is never boring, they are constantly busy with someth
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Animal, Avoid, Fighting, HTML5, Penguin, WebGL
+- Tags: 3D, Action, Animal, Avoid, fighting, HTML5, Penguin, WebGL

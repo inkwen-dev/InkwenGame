@@ -35,4 +35,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 男孩们, 恐龙
+- 标签: 男孩们, Dino

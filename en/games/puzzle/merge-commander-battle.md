@@ -19,6 +19,6 @@ Merge Commander Battle is a very hot soldier battle casual game. Unlock soldiers
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Battle, Boy, Boys, Funny, Hypercasual
+- Tags: Army, battle, Boy, Boys, Funny, Hypercasual

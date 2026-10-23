@@ -19,6 +19,6 @@ This is a very casual game. Players need to operate cute jellies and keep rushin
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Avoid, Boy, Boys, Casual, Collecting, Collection, Funny, Game, Games, Girl, Girls, Google, H5, Highscore, Hypercasual, Kid, Kids, Obstacle, Road, run

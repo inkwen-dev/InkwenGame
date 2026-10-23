@@ -19,6 +19,6 @@ In the chilling silence of a snowy island, a new terror rises &mdash; Tung Tung 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brainrot sahuuur, Horror, Sahur, Tung Tung Tung Sahur

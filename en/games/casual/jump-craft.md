@@ -21,4 +21,4 @@ just jump steve and don't fail.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, jump, Jumping
+- Tags: 1 Player, 3D, jump, jumping

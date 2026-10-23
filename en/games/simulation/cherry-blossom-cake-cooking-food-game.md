@@ -19,6 +19,6 @@ Sofia is a good dessert chef who owns a beautiful cake shop. One day, Sofia's be
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cook, Cooking, Food, Fun, Girl, Girls, H5, HTML5, Kid, Kids

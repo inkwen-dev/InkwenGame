@@ -21,4 +21,4 @@ One day, a very small squid bird chose to slip out of her nest and go on an expl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, HTML5, jump, Jumping, Mobile, Skill, Unity3D, WebGL
+- Tags: 1 Player, 2D, Android, HTML5, jump, jumping, Mobile, Skill, Unity3D, WebGL

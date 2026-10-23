@@ -19,6 +19,6 @@ Street Fight Match is an online Kids game. Enjoy playing Street Fight Match, a c
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Fighting, Fun, Girls, Kid, Puzzle
+- Tags: Boy, fighting, Fun, Girls, Kid, Puzzle

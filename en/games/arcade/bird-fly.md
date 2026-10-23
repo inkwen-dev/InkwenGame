@@ -19,6 +19,6 @@ Help the bird! Avoid from crushing to the trap's wall. Get the highest score by 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Bird, Cartoon, Game, Games, HTML, HTML5, Kid, Kids

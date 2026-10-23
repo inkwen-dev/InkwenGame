@@ -19,6 +19,6 @@ Get ready for an exciting table tennis experience with your friend! This game of
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, Ball, Mobile, Tennis

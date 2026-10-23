@@ -21,4 +21,4 @@ V8 Trucks jigsaw is a game where you can choose to play from one of twelve image
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jigsaw, Puzzle, Truck
+- Tags: Jigsaw, Puzzle, truck

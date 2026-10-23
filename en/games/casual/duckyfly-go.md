@@ -19,6 +19,6 @@ Fly as high as you can with Ducky! Help Ducky navigate the difficult path up and
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cute, Flight, Hypercasual, Skill, Skills
+- Tags: Cute, flight, Hypercasual, Skill, Skills

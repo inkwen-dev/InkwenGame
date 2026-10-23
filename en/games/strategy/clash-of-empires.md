@@ -15,6 +15,6 @@ Lead your army in a thrilling battle of strategy and force. Balance resource man
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Strategy
+- Tags: strategy

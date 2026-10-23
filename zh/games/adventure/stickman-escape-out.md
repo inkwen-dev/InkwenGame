@@ -21,4 +21,4 @@ Stickman Escape Out 是一款以帮助罪犯从监狱中逃脱为主题的隧道
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 冒险, 逃脱, 免费HTML5游戏供您的网站使用, kiz10, 监狱, 小人
+- 标签: 单人, 冒险, 逃脱, 免费HTML5游戏供您的网站使用, kiz10, 监狱, 木偶人

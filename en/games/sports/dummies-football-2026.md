@@ -30,4 +30,4 @@ Mouse, Touch
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, Funny, ragdoll, Soccer, Sports, world-cup
+- Tags: Boys, Funny, ragdoll, Soccer, sports, world-cup

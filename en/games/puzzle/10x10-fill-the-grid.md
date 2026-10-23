@@ -21,4 +21,4 @@ Are you ready to play the most addictive and challenging game in the world ? 10x
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Bricks, Game, Mind, Puzzle, Tetris
+- Tags: Brain, Bricks, Game, Mind, Puzzle, tetris

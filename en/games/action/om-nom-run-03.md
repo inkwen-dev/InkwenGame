@@ -19,6 +19,6 @@ Om Nom Run is an exciting endless runner where you guide Om Nom through fun and 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Fun, HTML5, Jumping, Kids, running
+- Tags: 2D, Arcade, Fun, HTML5, jumping, Kids, running

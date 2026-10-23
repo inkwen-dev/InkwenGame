@@ -21,4 +21,4 @@ Are you ready for a bank heist? You have 20 seconds to crack the safe! Compete w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Battle, survival
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, battle, survival

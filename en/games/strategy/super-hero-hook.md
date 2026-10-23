@@ -21,4 +21,4 @@ Become the Super Hero in this new open-world adventure full run, swing and non-s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Stickman, Strategy, subway, Super
+- Tags: stickman, strategy, subway, Super

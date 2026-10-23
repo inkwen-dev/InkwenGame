@@ -19,6 +19,6 @@ hief Quest is an online Boy game. With a clear escape route plan, you will enjoy
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Boys, Kids, Skills

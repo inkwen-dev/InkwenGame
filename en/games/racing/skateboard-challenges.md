@@ -21,4 +21,4 @@ Skateboard Challenges is a fast-paced and challenging game that will test player
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, HTML, HTML5, Hypercasual, Online, Skateboard, Skating
+- Tags: 2D, HTML, HTML5, Hypercasual, Online, skateboard, Skating

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 动作, Android, 军队, 男孩, 子弹, 敌人, fps, 枪械, HTML5, iPhone, 杀人, 军事
+- 标签: 3D, 3D游戏, 动作, 安卓, 军队, 男孩们, 子弹, 敌方, fps, 枪械, HTML5, iPhone, 击杀, 军事

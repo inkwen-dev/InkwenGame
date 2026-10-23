@@ -21,4 +21,4 @@ Sprunki 大拳击 - 一款休闲街机游戏，红发名叫 Reddy 的 Sprunki �
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 街机, 最佳, 休闲, 免费游戏供您的网站使用, 免费HTML5游戏供您的网站使用, HTML5, html5游戏, html5游戏供您的网站使用, 移动设备, 玩, 拳击, 红色, Sprunki
+- 标签: 单人, 街机, 最佳, 休闲, 免费游戏供您的网站使用, 免费HTML5游戏供您的网站使用, HTML5, HTML5游戏, 适用于您网站的HTML5游戏, 移动设备, 玩, 拳击, 红色, 斯普朗基

@@ -19,6 +19,6 @@ Noob Steve Parkour is a 3D minecraft parkour game where you try to speedrun the 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Adventure, Classic, jump, Jumping, Minecraft, Mobile
+- Tags: 1 Player, 3D, Adventure, Classic, jump, jumping, Minecraft, Mobile

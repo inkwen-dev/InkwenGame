@@ -21,4 +21,4 @@ Impossible 10 is a classic logic puzzle online game for boys for free. It combin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Block, Boy, Brain, Fun, Highscore, HTML5, Kids, Matching, Number, Online, Puzzle
+- Tags: Android, block, Boy, Brain, Fun, Highscore, HTML5, Kids, Matching, Number, Online, Puzzle

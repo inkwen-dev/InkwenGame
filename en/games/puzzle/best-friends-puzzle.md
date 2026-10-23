@@ -19,6 +19,6 @@ Hop on an epic adventure with the Bug Heroes and help them defeat the menacing b
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Forest, Match 3, Match3, Math, Puzzle
+- Tags: Casual, Forest, Match 3, Match3, math, Puzzle

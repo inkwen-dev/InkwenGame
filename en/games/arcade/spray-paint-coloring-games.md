@@ -26,4 +26,4 @@ Unleash your creativity and bring hidden pictures to life! Choose the right pain
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Color, cozy, Drawing, Kids, Puzzle
+- Tags: Arcade, Color, cozy, drawing, Kids, Puzzle

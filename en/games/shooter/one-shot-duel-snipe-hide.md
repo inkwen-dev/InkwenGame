@@ -21,4 +21,4 @@ One Shot Duel: Snipe Hide combines thrilling shooting challenges with clever hid
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arena, Battle, Shoot 'Em Up, survival
+- Tags: Arena, battle, Shoot 'Em Up, survival

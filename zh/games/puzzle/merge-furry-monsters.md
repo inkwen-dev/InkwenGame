@@ -31,4 +31,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 合并, 怪物
+- 标签: 合并, monster

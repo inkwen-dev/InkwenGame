@@ -19,6 +19,6 @@ Now the baby is already 8 months, she can learn different life skills. Help her 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: Baby, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

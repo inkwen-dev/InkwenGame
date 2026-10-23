@@ -21,4 +21,4 @@ It is time to leave the parking lot, but why are everyone else’s cars in the w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Boys, Car, Cars, Family, Girls, Hypercasual, Parking, Race, Racing
+- Tags: Action, Adventure, Arcade, Boys, Car, Cars, Family, Girls, Hypercasual, parking, Race, Racing

@@ -22,4 +22,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人, 2D, 雪, 运动
+- 标签: 双人, 2D, 雪花, 体育

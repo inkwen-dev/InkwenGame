@@ -21,4 +21,4 @@ This is a very selected competitive adventure mobile game. In this game mode wit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Action, Air, Ball, Funny, H5, Jumping
+- Tags: 1 Player, 3D Games, Action, Air, Ball, Funny, H5, jumping

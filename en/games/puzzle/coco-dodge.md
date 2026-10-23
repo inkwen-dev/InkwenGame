@@ -19,6 +19,6 @@ Coco Dodge is a game of rhythm, hand-eye coordination and hair-pulling action! W
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Brain, Casual, endless, Girl, HTML, HTML5, Kids, Puzzle

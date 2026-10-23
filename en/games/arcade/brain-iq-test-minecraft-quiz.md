@@ -21,4 +21,4 @@ Know more than others and are ready to test it? Then you should definitely play 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 3D, Arcade, Brain, Cartoon, Family, Fun, Hot, Hypercasual, King, Maze, Memory, Mine, Minecraft, Multiplayer, Puzzle, Quiz, Timing, Unity3D, Word, Zombie
+- Tags: 2 Player, 3D, Arcade, Brain, Cartoon, Family, Fun, Hot, Hypercasual, King, Maze, memory, Mine, Minecraft, Multiplayer, Puzzle, Quiz, Timing, Unity3D, word, Zombie

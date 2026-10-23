@@ -15,6 +15,6 @@ Guide your ever-growing snake through a dynamic maze, consuming snacks and testi
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Snake
+- Tags: snake

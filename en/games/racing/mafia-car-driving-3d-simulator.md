@@ -19,6 +19,6 @@ Mafia Car Drive is a milestone in the genre of endless arcade racing. Drive your
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Bike, bus, Car, Cars, drift, drifting, Driving, Race, Racing, Simulation, Simulator, Supercars, Unity3D
+- Tags: 1 Player, 3D, 3D Games, bike, bus, Car, Cars, drift, drifting, Driving, Race, Racing, Simulation, Simulator, Supercars, Unity3D

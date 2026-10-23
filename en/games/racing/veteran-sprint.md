@@ -19,6 +19,6 @@ Have you ever tried to drive a monster car on platform tracks? You will drive it
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boy, Car, Driving, HTML5, Mobile, Obstacle, Platform, Racing, Timing

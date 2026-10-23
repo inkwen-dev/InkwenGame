@@ -15,6 +15,6 @@ Escape gravity and soar skyward in Moon Bridge, an addictive arcade adventure wh
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Jumping
+- Tags: jumping

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 3D, 3D游戏, 船, HTML, HTML5, 竞速, 竞速, Stickman, Unity3D
+- 标签: .io, .io 游戏, 3D, 3D游戏, 船只, HTML, HTML5, 比赛, 竞速, 木偶人, Unity3D

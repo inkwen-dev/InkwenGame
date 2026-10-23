@@ -19,6 +19,6 @@ In this difference Christmas game you can play with Christmas trucks. Find all s
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Difference, Truck
+- Tags: Christmas, Difference, truck

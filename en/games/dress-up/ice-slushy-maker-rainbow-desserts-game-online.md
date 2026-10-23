@@ -21,4 +21,4 @@ Alienwolf Studios invites you to download Ice Slushy Maker and run your own dess
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Cooking, Design, Elsa, Frozen, Games, Ice, Makeover, Truck
+- Tags: Brain, Cooking, Design, Elsa, Frozen, Games, Ice, Makeover, truck

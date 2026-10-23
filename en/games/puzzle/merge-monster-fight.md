@@ -19,6 +19,6 @@ Merge Monster Fight &ndash; Fun Merge &amp; Strategy Battles! Step into Merge Mo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, Battle, Casual, Color, Fight, Fighting, idle, Monster, Skills, Strategy
+- Tags: 2026 games, Adventure, battle, Casual, Color, Fight, fighting, idle, monster, Skills, strategy

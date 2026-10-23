@@ -19,6 +19,6 @@ Squid Craft Online is a third-person running racing arcade game. With 3D Squid G
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Balance, Car, Driving, Mobile, Platform, Simulation, Stunts, WebGL

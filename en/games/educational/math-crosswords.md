@@ -21,4 +21,4 @@ A crossword where numbers take the place of words. Equations cross each other, s
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, Logic, Math, Number, Puzzle
+- Tags: Brain, educational, Logic, math, Number, Puzzle

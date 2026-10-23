@@ -19,6 +19,6 @@ Stickman Shooters Ready for action? Choose one of your 3 stickman characters wit
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Casual, free games for your website, free html5 games for your website, Hypercasual, Shoot 'Em Up, Shooter, Stickman
+- Tags: Action, Casual, free games for your website, free html5 games for your website, Hypercasual, Shoot 'Em Up, Shooter, stickman

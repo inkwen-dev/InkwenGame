@@ -19,6 +19,6 @@ Are you ready to space adventures in Space Infinite Shooter zombies the role of 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fire, Flight, Funny, Halloween, Shoot, Shooter, Shooting, Skill, sky, Space, Spaceship, Zombie
+- Tags: Fire, flight, Funny, Halloween, Shoot, Shooter, Shooting, Skill, sky, Space, Spaceship, Zombie

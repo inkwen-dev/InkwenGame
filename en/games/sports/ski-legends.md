@@ -19,6 +19,6 @@ Ski Legends is a free to play sport simulation game that allows the player to br
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Ski, Sport, Sports
+- Tags: 3D, 3D Games, Ski, Sport, sports

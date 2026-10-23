@@ -19,6 +19,6 @@ Welcome to Dream House Cleaning The Princess House Cleanup Girls Game. Help the 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Car, Cleaning, Cute, Educational, Family, Fun, Girl, Mobile, Puzzle
+- Tags: Animal, Car, Cleaning, Cute, educational, Family, Fun, Girl, Mobile, Puzzle

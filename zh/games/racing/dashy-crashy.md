@@ -21,4 +21,4 @@ Dashy Crasy 的冒险将让您度过一段愉快的休闲时光，同时提升�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 街机, 汽车, cars, HTML, HTML5, 竞速, 竞速, 跑, 跑步
+- 标签: 冒险, 街机, 汽车, 汽车, HTML, HTML5, 比赛, 竞速, 跑, 奔跑

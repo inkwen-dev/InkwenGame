@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 区块链, 方块风格, 切割
+- 标签: 区块链, 方块状, 切割

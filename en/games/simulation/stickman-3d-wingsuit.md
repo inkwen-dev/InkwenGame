@@ -21,4 +21,4 @@ Free 3D stickman wingsuit skydiving simulator You are a stickman wingsuit pilot!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: fly, Sim, Simulation, Stickman
+- Tags: fly, Sim, Simulation, stickman

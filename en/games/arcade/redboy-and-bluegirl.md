@@ -19,6 +19,6 @@ Are you crazy fans of the team play style game and the fire and ice style game? 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2D, Boys, Funny, Girls, HTML5, Kids, WebGL

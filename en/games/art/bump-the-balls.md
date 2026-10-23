@@ -21,4 +21,4 @@ Test your logic and understanding of physics in an engaging puzzle game. Your ob
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Adult, Best Games, Drawing, free html5 games for your website, Kids, Levels, Logic, Logical, Physics, Puzzle, Relaxation
+- Tags: 1 Player, 2026 games, 2D, Adult, Best Games, drawing, free html5 games for your website, Kids, Levels, Logic, Logical, Physics, Puzzle, Relaxation

@@ -21,4 +21,4 @@ Ambulance Trucks Memory is memory game with Ambulance Trucks. Pair two same card
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Memory, Puzzle, Truck
+- Tags: memory, Puzzle, truck

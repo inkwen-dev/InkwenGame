@@ -21,4 +21,4 @@ Run for your life! Because Cavern Run will make you choose - it’s either run a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Crazy, endless, Escape, jump, Jumping, run, running
+- Tags: Arcade, Casual, crazy, endless, Escape, jump, jumping, run, running

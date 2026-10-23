@@ -21,4 +21,4 @@ This game will certainly take you with the collection of timeless levels, numero
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Best, Crazy, Shooting, WebGL
+- Tags: 1 Player, 2D, Arcade, Best, crazy, Shooting, WebGL

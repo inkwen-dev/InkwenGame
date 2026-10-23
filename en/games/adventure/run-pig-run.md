@@ -19,6 +19,6 @@ It's a super fun game where you have to dodge the cannon balls that are falling 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Adventure, Baby, Puzzle

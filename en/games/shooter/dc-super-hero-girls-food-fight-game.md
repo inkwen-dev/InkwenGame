@@ -19,6 +19,6 @@ It's possible now to play DC Super Hero Girls: Food Fight Gamet game in your web
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Baby, Boy, Boys, Cartoon, Cartoon Network, Family, Fighting, Food, Fun, Girl, Girls, HTML5, Kid, Miraculous Ladybug, Mobile, Shoot, Shooting, Super, Superhero
+- Tags: Action, Baby, Boy, Boys, Cartoon, Cartoon Network, Family, fighting, Food, Fun, Girl, Girls, HTML5, Kid, Miraculous Ladybug, Mobile, Shoot, Shooting, Super, Superhero

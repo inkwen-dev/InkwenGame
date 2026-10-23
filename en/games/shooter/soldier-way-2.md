@@ -21,4 +21,4 @@ Soldier way is a great platform game. Control soldier in the jungle collect diam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Battlegrounds, Best, Bomb, Boxing, Boy, Boys, Cartoon, Castle, Clans, Clash, Cleaning, Clicker, Cool, Crazy, CSGO, Defense, Fight, Fire, Flight, Friv, kiz10, Shooter, Shooting, War
+- Tags: battle, Battlegrounds, Best, Bomb, Boxing, Boy, Boys, Cartoon, Castle, Clans, Clash, Cleaning, Clicker, cool, crazy, CSGO, Defense, Fight, Fire, flight, Friv, kiz10, Shooter, Shooting, War

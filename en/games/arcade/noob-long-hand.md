@@ -19,6 +19,6 @@ hey you can reach anywhere and with your golden long hand you must overcome all 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Arcade, Baby, Best, Minecraft, Mobile

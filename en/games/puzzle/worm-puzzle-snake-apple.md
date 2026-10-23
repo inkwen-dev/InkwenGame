@@ -19,6 +19,6 @@ Worm Puzzle: Snake Apple combines classic snake gameplay with creative puzzle ch
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, eating, Matching, Worm
+- Tags: Brain, eating, Matching, worm

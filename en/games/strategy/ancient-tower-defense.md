@@ -21,4 +21,4 @@ In Ancient Tower Defense, step into a world where cunning strategy meets the mys
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bow, Monster, Shooting, Sword, Unity3D, WebGL
+- Tags: Arcade, Bow, monster, Shooting, sword, Unity3D, WebGL

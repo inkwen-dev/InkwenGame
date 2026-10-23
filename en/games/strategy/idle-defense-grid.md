@@ -21,4 +21,4 @@ Idle Defense Grid is a minimalist strategy game that combines classic tower defe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, attack, Ball, Battle, battleship, Casual, Defense, destroying, Hypercasual, Strategy, Tower Defense, War
+- Tags: Action, Arcade, attack, Ball, battle, battleship, Casual, Defense, destroying, Hypercasual, strategy, Tower Defense, War

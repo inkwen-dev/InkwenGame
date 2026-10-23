@@ -21,4 +21,4 @@ Minecraft Adventure is a 2D platformer in which your mission is to build bridges
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Block, Minecraft, Zombie
+- Tags: 1 Player, 2D, block, Minecraft, Zombie

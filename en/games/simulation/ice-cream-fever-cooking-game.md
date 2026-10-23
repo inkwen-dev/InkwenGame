@@ -21,4 +21,4 @@ Hey Chef, You are the master chef? We have been looking for a long time! Create 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Casual, Cooking, Management
+- Tags: Android, Casual, Cooking, management

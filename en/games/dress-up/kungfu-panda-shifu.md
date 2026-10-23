@@ -19,6 +19,6 @@ Master Shifu is one of the main supporting characters of the Kung Fu Panda carto
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Cartoon, Decorate, Dress Up, Fashion, Fun, Game, Girls, HTML5

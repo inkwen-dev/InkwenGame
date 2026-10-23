@@ -19,6 +19,6 @@ Scratch To Win is a fun and exciting app designed to give users an entertaining 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Casual, Hypercasual, Puzzle

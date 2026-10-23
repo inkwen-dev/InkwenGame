@@ -21,4 +21,4 @@ Blast Round is a colorful block puzzle game where every move matters. Drag and p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Block, Logic, Puzzle
+- Tags: 1 Player, Arcade, block, Logic, Puzzle

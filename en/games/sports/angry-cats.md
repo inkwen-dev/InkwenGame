@@ -19,6 +19,6 @@ Angry Cats is an exciting sports game to play for all ages. Play this technical 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Basketball, Boy, Cat, HTML, HTML5, Mobile, Sport, Sports
+- Tags: Animal, basketball, Boy, Cat, HTML, HTML5, Mobile, Sport, sports

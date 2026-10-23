@@ -21,4 +21,4 @@ Enter the ultimate showdown in Ultimate Robot Fighting. Youll be controlling you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fighting, Robot, survival
+- Tags: fighting, Robot, survival

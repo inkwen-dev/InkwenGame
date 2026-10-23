@@ -19,6 +19,6 @@ Based on the popular Netflix show, play Squid Challenge - Survival Game and see 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Adult, Arcade, Fight, Fighting, Hypercasual, Unity3D
+- Tags: 3D Games, Action, Adult, Arcade, Fight, fighting, Hypercasual, Unity3D

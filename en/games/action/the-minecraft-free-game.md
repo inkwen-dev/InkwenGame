@@ -21,4 +21,4 @@ Cut timber, break stones, mine blocks, and also produce out of the significant b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Best, Crazy, Mine, Minecraft, Miner, Unity3D, WebGL
+- Tags: 3D, 3D Games, Best, crazy, Mine, Minecraft, Miner, Unity3D, WebGL

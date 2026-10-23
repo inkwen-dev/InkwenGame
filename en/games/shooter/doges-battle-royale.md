@@ -19,6 +19,6 @@ Want to join the most hilarious and action-packed survival shooting game ever? I
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fun, Shoot, survival
+- Tags: battle, Fun, Shoot, survival

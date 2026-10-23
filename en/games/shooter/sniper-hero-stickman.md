@@ -21,4 +21,4 @@ Move your sniper to avoid the enemy's attack and wait for the opportunity to att
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Gun, Killing, Shooting, Sniper, Stickman
+- Tags: Action, Gun, Killing, Shooting, sniper, stickman

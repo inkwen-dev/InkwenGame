@@ -49,4 +49,4 @@ Become a professional bus driver, master difficult routes, safely transport your
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, bus, Car, Driving, Parking, Simulation
+- Tags: 3D, bus, Car, Driving, parking, Simulation

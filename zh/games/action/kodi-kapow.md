@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 大脑, 卡通, 卡通频道, 迪士尼, 战斗, 格斗游戏, H5, HTML, HTML5, 思维, 策略
+- 标签: 大脑, 卡通, 卡通频道, 迪士尼, 格斗, 格斗, H5, HTML, HTML5, 思维, 策略

@@ -21,4 +21,4 @@ Muddy Trucks Jigsaw is a game where you can play with some of twelve images with
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Jigsaw, Kids, Logical, Mobile, Puzzle, Truck
+- Tags: HTML5, Jigsaw, Kids, Logical, Mobile, Puzzle, truck

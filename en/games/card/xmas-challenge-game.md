@@ -19,6 +19,6 @@ This game is made for Christmas. There are 60 challenges to complete. You have t
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Bike, Boy, Card, Cartoon, Christmas, Click, Escape, Family, Fishing, fly, Fun, Machine, Mobile, Snake, Snow
+- Tags: 1 Player, 2D, Action, bike, Boy, card, Cartoon, Christmas, Click, Escape, Family, Fishing, fly, Fun, Machine, Mobile, snake, Snow

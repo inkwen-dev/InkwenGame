@@ -19,6 +19,6 @@ Use W A S D or arrow keys to drive
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Driving, Fun, Parking, Skill, Truck, WebGL
+- Tags: Casual, Driving, Fun, parking, Skill, truck, WebGL

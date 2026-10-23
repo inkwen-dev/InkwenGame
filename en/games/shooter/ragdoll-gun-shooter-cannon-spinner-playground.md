@@ -40,4 +40,4 @@ Various weapons: from a pistol to powerful guns.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Boys, Funny, Gun, Physics, ragdoll, Shooting, Stickman
+- Tags: Arcade, Boys, Funny, Gun, Physics, ragdoll, Shooting, stickman

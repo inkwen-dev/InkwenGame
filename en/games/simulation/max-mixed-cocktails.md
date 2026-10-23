@@ -15,6 +15,6 @@ Become a master mixologist in Max Mixed Cocktails! Mix and match a variety of fl
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Cooking

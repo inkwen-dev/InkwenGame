@@ -21,4 +21,4 @@ It is the best car-racing journey in latest style of best parking simulator game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 3D, 3D Games, Action, Arcade, Car, Cars, Collection, Crafting, Crazy, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, Race, Racing, Supercars
+- Tags: .io, .io Games, 1 Player, 3D, 3D Games, Action, Arcade, Car, Cars, Collection, Crafting, crazy, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, Race, Racing, Supercars

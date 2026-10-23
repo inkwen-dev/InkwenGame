@@ -21,4 +21,4 @@ Senita is a 2D platformer where you play as a girl who have to collect all of th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Cute, Girl, jump, Jumping, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Cute, Girl, jump, jumping, pixel, Platform, retro

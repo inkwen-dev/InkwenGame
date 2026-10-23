@@ -19,6 +19,6 @@ Hay Day Pop is free puzzle brain game Swipe colorful boxes and match 3 of the sa
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Casual, Clicker, Hot, HTML5, Match 3, Match3, Matching, Puzzle

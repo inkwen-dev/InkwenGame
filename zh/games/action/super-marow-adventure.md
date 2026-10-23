@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 冒险, 马里奥, 跑步, 神庙
+- 标签: 单人, 冒险, mario, 奔跑, 神庙

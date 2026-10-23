@@ -21,4 +21,4 @@ Primes is a game where there are two types of balls coming which have 7 or 9 pri
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Math, Number, Puzzle
+- Tags: Casual, math, Number, Puzzle

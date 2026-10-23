@@ -19,6 +19,6 @@ ATV Rush is racing speed game with ATV where you need to collect coins and to av
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Collecting, Puzzle, Racing, Truck
+- Tags: Avoid, Collecting, Puzzle, Racing, truck

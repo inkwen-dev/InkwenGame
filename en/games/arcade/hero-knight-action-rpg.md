@@ -21,4 +21,4 @@ Beat monsters along the way with your sword and spells! Level up as you gain exp
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Arcade, Clicker, Knight, Pixel, RPG
+- Tags: 2D, Action, Arcade, Clicker, knight, pixel, rpg

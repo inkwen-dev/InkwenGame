@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 弓, 无尽, 射击
+- 标签: 街机, 弓箭, 无尽, 射击

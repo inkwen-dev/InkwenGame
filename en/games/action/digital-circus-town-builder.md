@@ -19,6 +19,6 @@ Digital Circus Town Builder is a captivating simulation game that combines the c
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, build, builder, building, circus, digital circus, HTML5, html5 games, iPad, iPhone, Mentolatux, Mobile

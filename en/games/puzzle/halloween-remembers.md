@@ -21,4 +21,4 @@ Test your memory. Try to remember the sequence of moving pumpkins. Reproduce it 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Halloween, Memory, Puzzle
+- Tags: Halloween, memory, Puzzle

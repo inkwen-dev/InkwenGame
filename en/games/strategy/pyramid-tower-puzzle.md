@@ -19,6 +19,6 @@ Are you ready to have fun while learning? Can you sort the puzzle cubes from blo
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Boxing, Brain, Casual, Christmas, Cool, Educational, Fun, Hypercasual, Kids, Matching, Puzzle, Tower Defense
+- Tags: 3D Games, Boxing, Brain, Casual, Christmas, cool, educational, Fun, Hypercasual, Kids, Matching, Puzzle, Tower Defense

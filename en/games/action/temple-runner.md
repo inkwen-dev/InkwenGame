@@ -19,6 +19,6 @@ You're an adventurous explorer, running through ruined temples. Collecting gold 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: kiz10, temple

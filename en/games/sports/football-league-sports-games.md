@@ -21,4 +21,4 @@ This just isn’t your ordinary point and shoot football game Football Legends t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Football, Game, Games, Sport, Sports
+- Tags: 2 Player, 2 Player Games, Football, Game, Games, Sport, sports

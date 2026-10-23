@@ -19,6 +19,6 @@ Duck Shooting is an exciting and adventurous shooting game based on the amusemen
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, Fun

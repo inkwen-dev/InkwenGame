@@ -19,6 +19,6 @@ The player takes on the role of a skilled truck driver in the construction trans
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: construction, Driving, Kids, Mentolatux, Simulator, Truck, trucks, vehicle
+- Tags: construction, Driving, Kids, Mentolatux, Simulator, truck, trucks, vehicle

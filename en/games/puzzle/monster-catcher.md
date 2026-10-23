@@ -21,4 +21,4 @@ Monster catcher is a fun action game. Different monsters are moving around the c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Fun, HTML5, Mobile, Monster, Puzzle
+- Tags: Action, Fun, HTML5, Mobile, monster, Puzzle

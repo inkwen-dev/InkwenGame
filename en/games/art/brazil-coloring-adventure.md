@@ -21,4 +21,4 @@ Brazil Coloring Adventure is an exciting and vibrant coloring game that offers e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Educational, Fun, HTML5, Hypercasual, Kids, School
+- Tags: Coloring, educational, Fun, HTML5, Hypercasual, Kids, School

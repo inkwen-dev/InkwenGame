@@ -19,6 +19,6 @@ In this game you can visit many interesting locations of the underwater world. E
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 3D, 3D Games, Adventure, Boys, Girls, Spongebob

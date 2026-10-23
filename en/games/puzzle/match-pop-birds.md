@@ -15,6 +15,6 @@ Immerse yourself in Match Pop Birds, where vibrant birds await your strategic pr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Match 3

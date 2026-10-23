@@ -19,6 +19,6 @@ Cartoon Coloring for Kids - Animals is an great game for children of all ages. T
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Color, Coloring, Educational, Fun, Kids, Mobile, Skill
+- Tags: Animal, Color, Coloring, educational, Fun, Kids, Mobile, Skill

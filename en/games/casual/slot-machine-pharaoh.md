@@ -19,6 +19,6 @@ This is Slot Machine Pharaoh, a slot machine casino game Tap the spin button and
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casino, Clicker, HTML5, Mobile, Slot Machine

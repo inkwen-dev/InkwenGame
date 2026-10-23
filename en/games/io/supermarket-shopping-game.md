@@ -19,6 +19,6 @@ Play as a cashier seasoned withinside the metropolis shopping center, you may di
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 2D, 3D, 3D Games, Game, Girl, Girls, Ladybug, Miraculous Ladybug, Superhero

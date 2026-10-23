@@ -19,6 +19,6 @@ Do you like the Fish Scapes Games - Fish Games & Free Match 3 Game is an addicti
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Fish, Fishing, Match 3, Match3, Matching, Puzzle, Quiz, World

@@ -34,4 +34,4 @@ Earn coins, collect game gifts and buy accessories for your character.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Funny, Kids, mini, Sports
+- Tags: Arcade, Funny, Kids, mini, sports

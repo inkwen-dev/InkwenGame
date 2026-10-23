@@ -21,4 +21,4 @@ Find Your Way &ndash; 2D Navigation Adventure Game Welcome to Find Your Way, a c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2 Player Games, 2025 games, 2048, Arkanoid, Ball, Ben 10, Coloring, Hypercasual, Skateboard, Slither, Word, Yoga
+- Tags: .io Games, 1 Player, 2 Player Games, 2025 games, 2048, Arkanoid, Ball, Ben 10, Coloring, Hypercasual, skateboard, Slither, word, Yoga

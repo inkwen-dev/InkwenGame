@@ -21,4 +21,4 @@ Are you ready to become the best pizza delivery man in town and feed some pizza 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Adventure, Arcade, Bike, Cake, Classic, Food, Girls, Timing
+- Tags: 3D Games, Adventure, Arcade, bike, Cake, Classic, Food, Girls, Timing

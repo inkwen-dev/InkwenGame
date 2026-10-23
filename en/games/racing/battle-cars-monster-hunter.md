@@ -21,4 +21,4 @@ Battle Cars is a fun monster truck online confrontation game. You will have the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Battle, Boy, Car, Hot, Mobile, New
+- Tags: 3D, battle, Boy, Car, Hot, Mobile, New

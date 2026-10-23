@@ -32,4 +32,4 @@ Features:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Bike, Boys, Driving, motorbike, Racing
+- Tags: bike, Boys, Driving, motorbike, Racing

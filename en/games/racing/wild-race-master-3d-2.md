@@ -15,6 +15,6 @@ Race through exhilarating 3D tracks in Wild Race Master 3D, fusing agility with 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Car

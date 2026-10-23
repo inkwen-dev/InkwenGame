@@ -19,6 +19,6 @@ Embark on an epic journey in Garten of Rainbow Monsters. Choose heroes Jack or S
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Battlegrounds, Fighting, Monster
+- Tags: Action, battle, Battlegrounds, fighting, monster

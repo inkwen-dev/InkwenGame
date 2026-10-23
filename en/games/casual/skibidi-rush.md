@@ -21,4 +21,4 @@ Skibidi Rush is a high score racing game where you have to control the rushing s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Skibidi Toilet
+- Tags: skibidi-toilet

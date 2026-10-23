@@ -19,6 +19,6 @@ Jeep Wheelie is a simple yet super fun 2D game with 10 levels that a player has 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Avoid, Boy, Collection, Driving, HTML5, Hypercasual, jump, Kids, Racing, Skill

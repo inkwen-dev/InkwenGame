@@ -19,6 +19,6 @@ you can now enjoy Raft Wars in HTML5 on your desktop or mobile device.
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Pool, Shoot, Shooter, Shooting, Stickman, Summer
+- Tags: Adventure, pool, Shoot, Shooter, Shooting, stickman, Summer

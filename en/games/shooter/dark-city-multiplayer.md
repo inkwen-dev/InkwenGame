@@ -35,4 +35,4 @@ Capture areas, hold control, fend off enemy attacks… and survive the horror sl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Fighting, Horror, Multiplayer, Police, Shooting, War
+- Tags: fighting, Horror, Multiplayer, police, Shooting, War

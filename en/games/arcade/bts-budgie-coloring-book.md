@@ -21,4 +21,4 @@ Get ready for a colorful bird adventure with BTS Budgie Coloring Book! Pick your
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Coloring, Drawing, Educational, Girls, Hypercasual, Kids, School
+- Tags: Arcade, Coloring, drawing, educational, Girls, Hypercasual, Kids, School

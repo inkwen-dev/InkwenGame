@@ -21,4 +21,4 @@ Happy Orange Glass is a fun and challenging puzzle game where your goal is to dr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Drawing, Hypercasual, Kids, Logic, Physics, Puzzle
+- Tags: Arcade, Brain, drawing, Hypercasual, Kids, Logic, Physics, Puzzle

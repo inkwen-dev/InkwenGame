@@ -19,6 +19,6 @@ Drag all weapon to wooden box during 15 seconds
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Battle, Battlegrounds, Gun, Simulation, War, weapons
+- Tags: Army, battle, Battlegrounds, Gun, Simulation, War, weapons

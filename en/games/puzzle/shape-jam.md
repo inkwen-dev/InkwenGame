@@ -26,4 +26,4 @@ But every move counts  the pick zone is limited, the shapes tumble with physics,
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Classic, Match-3, Mobile, Puzzle, Skill
+- Tags: Brain, Classic, Match 3, Mobile, Puzzle, Skill

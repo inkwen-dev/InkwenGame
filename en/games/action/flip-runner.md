@@ -19,6 +19,6 @@ Flip Runner 3D is an original toy dedicated to parkour. If this discipline is cl
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Arcade, Best, Brain, fly, Hot, jump, Jumping, Mind, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Arcade, Best, Brain, fly, Hot, jump, jumping, Mind, Unity3D

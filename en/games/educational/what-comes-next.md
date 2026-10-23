@@ -19,6 +19,6 @@ Look at the pattern and drag the next thing to the blank place.
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, HTML5, Logical, Mobile, Puzzle, School, Skill
+- Tags: educational, HTML5, Logical, Mobile, Puzzle, School, Skill

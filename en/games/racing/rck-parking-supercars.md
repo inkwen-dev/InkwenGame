@@ -21,4 +21,4 @@ Play the RCK Parking Cars, new physics, this care are for speed so will be littl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Car, Cars, Parking, Race, Racing, Supercars, Unity3D, WebGL
+- Tags: Best, Car, Cars, parking, Race, Racing, Supercars, Unity3D, WebGL

@@ -21,4 +21,4 @@ Happy Zoo: Mahjong Triple Match is a cozy mahjong-style puzzle about matching th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, Arcade, cozy, Mahjong, Match 3, Matching, Puzzle
+- Tags: animals, Arcade, cozy, mahjong, Match 3, Matching, Puzzle

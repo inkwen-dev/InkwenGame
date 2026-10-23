@@ -37,4 +37,4 @@ Game Features:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Crafting, Horror, Monster, Multiplayer, scary, survival
+- Tags: Adventure, Crafting, Horror, monster, Multiplayer, scary, survival

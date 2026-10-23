@@ -19,6 +19,6 @@ Dungeons ist not a place for Golf. Avoid traps und reach to finish.
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Dungeon, Golf, Platform
+- Tags: Ball, Dungeon, golf, Platform

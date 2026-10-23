@@ -19,6 +19,6 @@ Are you a fan of puzzle games? enjoy the match 3 game with superheroes in the po
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Match-3, Match3, Matching, Puzzle, Super, Superhero
+- Tags: 1 Player, Match 3, Match3, Matching, Puzzle, Super, Superhero

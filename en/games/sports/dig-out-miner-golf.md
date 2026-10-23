@@ -19,6 +19,6 @@ Dig out and mine with your fingers and guide your golf ball to the hole. Easy an
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Draw, Drawing, Escape, Physics, Puzzle, Strategy
+- Tags: Brain, Draw, drawing, Escape, Physics, Puzzle, strategy

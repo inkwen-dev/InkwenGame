@@ -19,6 +19,6 @@ Snake Game is a fun and addictive HTML5 arcade game where you control a green sn
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: eating, Snake
+- Tags: eating, snake

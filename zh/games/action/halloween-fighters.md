@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 格斗, 格斗游戏, 万圣节, mapi games, 怪兽, 街头格斗, 狼, 丧尸
+- 标签: 格斗, 格斗, 万圣节, mapi games, monster, 街头格斗, 狼, 僵尸

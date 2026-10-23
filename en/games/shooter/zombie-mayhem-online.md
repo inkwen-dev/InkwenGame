@@ -19,6 +19,6 @@ You are on the killing spree. There are too much undead walking around. Can you 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fight, Shooting, weapons, WebGL, Zombie

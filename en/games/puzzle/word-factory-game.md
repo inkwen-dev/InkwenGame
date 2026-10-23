@@ -19,6 +19,6 @@ Word Factory is a popular puzzle online game that provides players with a fun ch
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boy, Brain, Fun, HTML5, Kids, Matching, Online, Puzzle, Skill, Word
+- Tags: Android, Boy, Brain, Fun, HTML5, Kids, Matching, Online, Puzzle, Skill, word

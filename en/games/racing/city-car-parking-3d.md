@@ -21,4 +21,4 @@ Modern Car Parking The dawn of a new era of car parking games. A realistic exper
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Adventure, Arcade, Bike, bus, Car, Game, Parking, Race, Racing, Stunts
+- Tags: 3D Games, Action, Adventure, Arcade, bike, bus, Car, Game, parking, Race, Racing, Stunts

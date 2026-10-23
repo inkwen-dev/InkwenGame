@@ -15,6 +15,6 @@ Embark on a heart-pounding quest in Knight Treasure, where you dodge peril and g
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Fighting
+- Tags: fighting

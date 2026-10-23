@@ -21,4 +21,4 @@ this is the platformer game by Mohsin Games
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, 2D, Action, Animal, Arcade, Baby, Best, Bounce, Boy, Boys, Casual, endless, Fun, Funny, Hypercasual, jump, Jumping, Race, Relaxation, subway, Subway Surfers, surfers, Unity3D, WebGL
+- Tags: .io, 1 Player, 2D, Action, Animal, Arcade, Baby, Best, Bounce, Boy, Boys, Casual, endless, Fun, Funny, Hypercasual, jump, jumping, Race, Relaxation, subway, Subway Surfers, surfers, Unity3D, WebGL

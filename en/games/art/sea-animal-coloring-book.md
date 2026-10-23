@@ -15,6 +15,6 @@ Dive into vibrant creativity with our Sea Animal Coloring Book! Perfect for all 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Coloring

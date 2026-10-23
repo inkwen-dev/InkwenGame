@@ -21,4 +21,4 @@ Enjoy yourself with this classic bowling game. Try to hit as many pins as you ca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Hypercasual, Sport, Sports
+- Tags: Casual, Hypercasual, Sport, sports

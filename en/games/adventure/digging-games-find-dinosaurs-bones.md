@@ -21,4 +21,4 @@ Digging Games - Find Dinosaurs Bones, build them into interactive 3D skeletons, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Strategy
+- Tags: strategy

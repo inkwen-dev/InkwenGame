@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 2 Player, 2D, 3D, Action, Adventure, Animal, Anime, Arcade, Army, Baby, Balance, Ball, Ballon, Ben 10, Bike, Bomb, Bounce, Boy, Boys, Bubble Shooter, bus, Car, Cars, Cartoon, Cartoon Network, Cat, Christmas, city, Classic, Color, Coloring, Crazy, cut, Defense, Design, Dragon, Dragon Ball Z, Draw, Dress Up, Driving, Family, Fashion, Fight, Fighting, Fire, Flight, Football, Funny, Girl, gta, Gun, jump, Jumping, Kid, Kids, Kill, Killing, Love, Mario, Memory, Minecraft, Minion, Super, Supercars, Traffic, Train, Truck
+- Tags: .io, 2 Player, 2D, 3D, Action, Adventure, Animal, Anime, Arcade, Army, Baby, Balance, Ball, Ballon, Ben 10, bike, Bomb, Bounce, Boy, Boys, Bubble Shooter, bus, Car, Cars, Cartoon, Cartoon Network, Cat, Christmas, city, Classic, Color, Coloring, crazy, cut, Defense, Design, Dragon, Dragon Ball Z, Draw, Dress Up, Driving, Family, Fashion, Fight, fighting, Fire, flight, Football, Funny, Girl, gta, Gun, jump, jumping, Kid, Kids, Kill, Killing, Love, mario, memory, Minecraft, Minion, Super, Supercars, Traffic, Train, truck

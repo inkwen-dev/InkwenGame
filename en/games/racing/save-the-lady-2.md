@@ -19,6 +19,6 @@ Save the girl 2 is a sequel to Save the girl, it is funnier than the last one. I
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Alien, Bike, Boys, Car, Girls, H5, HTML5, Interactive, Kids, Logic, Logical, Police, Puzzle
+- Tags: 2D, Alien, bike, Boys, Car, Girls, H5, HTML5, Interactive, Kids, Logic, Logical, police, Puzzle

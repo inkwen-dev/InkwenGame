@@ -19,6 +19,6 @@ Police Car Parking Mania 2020: Advance City Highway Driving Simulator Game Polic
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player Games, 3D, 3D Games, Adult, Adventure, Arcade, Car, Cars, Game, Games, Ladybug, Parking, Race, Racing, Road, Simulation, Simulator, Stunts, Supercars, Truck, Unity3D
+- Tags: 1 Player, 2 Player Games, 3D, 3D Games, Adult, Adventure, Arcade, Car, Cars, Game, Games, Ladybug, parking, Race, Racing, Road, Simulation, Simulator, Stunts, Supercars, truck, Unity3D

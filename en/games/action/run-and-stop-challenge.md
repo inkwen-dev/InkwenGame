@@ -21,4 +21,4 @@ Today I will provide you Run and Stop Challenge . Run and Stop Challenge is a ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, 3D, Action, Adventure, Arcade, Fighting, Unity3D
+- Tags: 2D, 3D, Action, Adventure, Arcade, fighting, Unity3D

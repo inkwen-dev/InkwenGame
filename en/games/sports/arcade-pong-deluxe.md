@@ -19,6 +19,6 @@ Arcade Pong Deluxe: Classic arcade action reborn! Challenge smart AI, enjoy full
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Air, Arcade, Classic, Defense, Sport

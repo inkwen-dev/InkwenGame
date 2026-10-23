@@ -21,4 +21,4 @@ Get your ride and explore aTopBike Racing &amp; Moto 3D Bike 2023 ! Compete agai
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Adventure, amazing, atv, Baby Games, Best Games, Bike
+- Tags: 3D Games, Action, Adventure, amazing, atv, Baby Games, Best Games, bike

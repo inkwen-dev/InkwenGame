@@ -19,6 +19,6 @@ Magic Fairy Princess Dressup - Love Story Game As a noble princess of the magic 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Educational, Girl, Girls, Kids, Love, School
+- Tags: Best, educational, Girl, Girls, Kids, Love, School

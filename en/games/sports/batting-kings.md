@@ -21,4 +21,4 @@ Batting Kings is an exciting baseball sports game where you participate in inten
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Baseball, Classic, throwing
+- Tags: Ball, baseball, Classic, throwing

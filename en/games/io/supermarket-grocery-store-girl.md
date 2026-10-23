@@ -19,6 +19,6 @@ Supermarket coins sign up women cashier recreation is a aggregate of interesting
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2D, 3D, 3D Games, Chicken, Girl, Girls

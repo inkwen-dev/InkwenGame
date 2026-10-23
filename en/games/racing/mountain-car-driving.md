@@ -21,4 +21,4 @@ Car Parking, off road Game, Mountain Tracks, impossible Tracks Car stunt in one 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, drift, drifting, Driving, Fun, Funny, Hypercasual, Parking, Race, Racing, run, running, Super, Supercars
+- Tags: Action, Adventure, drift, drifting, Driving, Fun, Funny, Hypercasual, parking, Race, Racing, run, running, Super, Supercars

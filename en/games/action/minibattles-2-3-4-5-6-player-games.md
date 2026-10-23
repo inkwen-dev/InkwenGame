@@ -21,4 +21,4 @@ Many minigames to challenge your friends, it sounds incredible but it is real! U
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, Arcade, Battle, Casual, Fun, Games, HTML5, Multiplayer
+- Tags: 2 Player Games, Arcade, battle, Casual, Fun, Games, HTML5, Multiplayer

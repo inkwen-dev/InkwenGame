@@ -21,4 +21,4 @@ GraveSky 是一款快节奏的街机飞行游戏，生存取决于在黑暗而�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 最佳, 鸟类, 休闲, flappybird
+- 标签: 最佳, 小鸟, 休闲, flappybird

@@ -21,4 +21,4 @@ This is a 10 in 1 game with Olympic athletic sports such as Dash (100, 400 and 8
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Jumping, run, Sport
+- Tags: Ball, jumping, run, Sport

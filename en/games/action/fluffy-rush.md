@@ -19,6 +19,6 @@ Fluffy Rush is an online game that you can play for free. It is a platformer gam
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Classic, Game, Games, HTML5, Hypercasual, Online, Platform

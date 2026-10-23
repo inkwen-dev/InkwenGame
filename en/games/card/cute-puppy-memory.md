@@ -19,6 +19,6 @@ Cute Puppy Memory is a fun and free to play online memory game suitable for all 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Android, Animal, Arcade, Boys, Card, Fun, Girls, HTML5, Kids, Memory, Mobile, Skill
+- Tags: 1 Player, Android, Animal, Arcade, Boys, card, Fun, Girls, HTML5, Kids, memory, Mobile, Skill

@@ -21,4 +21,4 @@ Did you ever dream of flying down the highest mountains in the world? Now it's y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: fly, Fun, Kids, Stickman
+- Tags: fly, Fun, Kids, stickman

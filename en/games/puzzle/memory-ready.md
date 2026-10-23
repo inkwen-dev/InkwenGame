@@ -21,4 +21,4 @@ Welcome to the immersive and challenging world of Memory Ready. Get ready for a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Memory, Multiplayer, Puzzle
+- Tags: memory, Multiplayer, Puzzle

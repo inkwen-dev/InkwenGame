@@ -24,4 +24,4 @@ Coloring 3D is an exciting game where you can animate objects with the help of c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Color, Drawing, hidden-object, unity
+- Tags: 3D, Color, drawing, hidden-object, unity

@@ -21,4 +21,4 @@ Movie trucks jigsaw is jigsaw game where you can play with 12 images of movie tr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jigsaw, Puzzle, Truck
+- Tags: Jigsaw, Puzzle, truck

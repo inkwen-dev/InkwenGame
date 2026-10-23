@@ -21,4 +21,4 @@ Parking Skills is an exciting top-down car parking game. Master your driving ski
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Car, Drawing, Fun, Kids, Mobile, Parking, Skill
+- Tags: Best, Car, drawing, Fun, Kids, Mobile, parking, Skill

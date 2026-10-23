@@ -19,6 +19,6 @@ A fun casual game with a neon theme. try to pass all levels with the least amoun
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Block, Click, Fun, HTML5, jump, Jumping
+- Tags: 1 Player, 2D, Adventure, block, Click, Fun, HTML5, jump, jumping

@@ -19,6 +19,6 @@ Start your day by giving a nice hot bubble bath to the little puppy, feed him wi
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cleaning, Cute, Decorate, Doctor, Dress Up, Girl, Girls, Kids, Makeover, Simulation, Surgery
+- Tags: Animal, Cleaning, Cute, Decorate, Doctor, Dress Up, Girl, Girls, Kids, Makeover, Simulation, surgery

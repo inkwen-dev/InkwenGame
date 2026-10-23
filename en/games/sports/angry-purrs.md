@@ -21,4 +21,4 @@ Angry Purrs is an exciting sports game to play for all ages. Play this technical
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Bird, Boys, Casual, Cat, endless, Family, Girls, Kids, Mobile, Sport, Sports
+- Tags: Animal, Arcade, Bird, Boys, Casual, Cat, endless, Family, Girls, Kids, Mobile, Sport, sports

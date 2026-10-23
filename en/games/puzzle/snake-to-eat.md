@@ -29,4 +29,4 @@ Guide your snake 🐍 through simple yet tricky puzzles 🧩 as you eat apples �
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mobile, Puzzle, Snake
+- Tags: Mobile, Puzzle, snake

@@ -21,4 +21,4 @@ Fight with different hammers in Hammer Flight. Try to take the least blow so tha
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Action, Arcade, Battle, Clash, Flight, Mobile, Multiplayer, War
+- Tags: .io, Action, Arcade, battle, Clash, flight, Mobile, Multiplayer, War

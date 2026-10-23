@@ -19,6 +19,6 @@ Fun and enjoyment filled stunt car game with casual fun and also challenging lev
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Adventure, Car, Cars, free games for your website, Funny, Race, Racing, Skill, Skills, Stunts, Supercars

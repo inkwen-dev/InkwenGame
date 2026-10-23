@@ -21,4 +21,4 @@ Ninja Run is a game that controls Ninja characters jumping over wooden bridges, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Ninja, run
+- Tags: Action, Adventure, Arcade, ninja, run

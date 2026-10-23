@@ -21,4 +21,4 @@ Ready to become a piano master? In Magic Piano Music, tap the magic tiles to fol
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Classic, Magic, Music
+- Tags: Classic, Magic, music

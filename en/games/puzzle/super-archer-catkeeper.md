@@ -19,6 +19,6 @@ Super Archer: Catkeeper is a lovely online game of leisure and puzzle archery, w
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Avoid, Boy, Brain, Cartoon, Fun, HTML5, Kids, Obstacle, Online, Puzzle

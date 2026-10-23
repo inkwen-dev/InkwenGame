@@ -19,6 +19,6 @@ Get ready to design your perfect home in THE MAGIC HOUSE! This immersive drag-an
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Games, Boy, Girl, House, Kids

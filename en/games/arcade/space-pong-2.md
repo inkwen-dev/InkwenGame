@@ -19,6 +19,6 @@ The future of Ping Pong is here! Pointy Pighead Games has created a new 3D twist
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Boys, Clicker

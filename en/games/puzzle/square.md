@@ -19,6 +19,6 @@ Square is a puzzle game with ball and a square. The ball is in the square and on
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Block, Click, HTML5, Kids, Puzzle
+- Tags: Ball, block, Click, HTML5, Kids, Puzzle

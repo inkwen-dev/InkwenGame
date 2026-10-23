@@ -21,4 +21,4 @@ When Santa needs serious help prepping all of his presents, the Super Monsters l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Christmas, Fun, Girl, HTML5, Jigsaw, Kid, Matching, Mobile, Monster, Super
+- Tags: Android, Christmas, Fun, Girl, HTML5, Jigsaw, Kid, Matching, Mobile, monster, Super

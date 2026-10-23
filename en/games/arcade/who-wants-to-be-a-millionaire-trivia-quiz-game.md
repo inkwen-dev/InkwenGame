@@ -19,6 +19,6 @@ Who wants to be a millionaire? Do you love game show trivia? Have you always dre
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Doctor, Game, Letters, Memory, Quiz, Word
+- Tags: Arcade, Doctor, Game, Letters, memory, Quiz, word

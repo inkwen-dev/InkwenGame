@@ -21,4 +21,4 @@ Fling Jack is an exciting Halloween-themed game where players launch Jack, a mis
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Halloween, HTML5, jump, Jumping, mapi games, Mobile, Monster
+- Tags: Halloween, HTML5, jump, jumping, mapi games, Mobile, monster

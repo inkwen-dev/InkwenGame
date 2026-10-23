@@ -19,6 +19,6 @@ Tap the Weight Lifter as fast as possible with your finger to lift the weights. 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Boys, Casual, endless, Game, Games, HTML, HTML5, Sport, Sports
+- Tags: Arcade, Boy, Boys, Casual, endless, Game, Games, HTML, HTML5, Sport, sports

@@ -19,6 +19,6 @@ Playing in the Jungle of colourful birds. Link and match the bird with the longe
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Puzzle

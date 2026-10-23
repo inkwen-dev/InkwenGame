@@ -19,6 +19,6 @@ this is a word search game by Mohsin Games
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Brain, Brawl, Casual, Clicker, Crazy, endless, Games, Puzzle, WebGL, Word
+- Tags: Boy, Boys, Brain, Brawl, Casual, Clicker, crazy, endless, Games, Puzzle, WebGL, word

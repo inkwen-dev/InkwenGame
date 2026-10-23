@@ -19,6 +19,6 @@ Prison Escape Stickman game is a casual game where you have to lead players towa
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Casual, Escape, run, running, Stickman
+- Tags: Action, Adventure, Casual, Escape, run, running, stickman

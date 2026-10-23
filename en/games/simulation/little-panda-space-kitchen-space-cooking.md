@@ -21,4 +21,4 @@ Have you ever imagined that you are cooking delicious food in a space capsule? E
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cook, Cooking, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Space
+- Tags: Cook, Cooking, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Space

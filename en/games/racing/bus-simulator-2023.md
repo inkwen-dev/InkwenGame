@@ -19,6 +19,6 @@ Bus Simulator 2023 puts you in the driver’s seat and lets you become a real Bu
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, bus, Driving, Race, Racing, Simulation, Simulator

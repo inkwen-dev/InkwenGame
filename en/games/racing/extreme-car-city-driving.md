@@ -21,4 +21,4 @@ Meet the ultimate driving challenge. In Extreme Car City Driving, you drive a co
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, city, Cool, Driving
+- Tags: Car, city, cool, Driving

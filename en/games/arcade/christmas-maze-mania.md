@@ -19,6 +19,6 @@ Begin a festive journey in our Christmas maze game! Guide Santa using your mouse
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Christmas, HTML5, Maze, Mobile, Puzzle, Skill

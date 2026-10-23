@@ -19,6 +19,6 @@ Immerse yourself in the captivating world of solitaire and test your strategic p
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Board, Card, Puzzle
+- Tags: 1 Player, Board, card, Puzzle

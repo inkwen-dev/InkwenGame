@@ -19,6 +19,6 @@ Block Escape is a vibrant logic puzzle game where every move matters. Guide colo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, blocky, Puzzle, puzzleblock
+- Tags: block, blocky, Puzzle, puzzleblock

@@ -21,4 +21,4 @@ Wood Gems is a game for Match 3 lovers, with fantastic graphics and nice music, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, Aircraft, Alien, Android, Animal, Anime, Arcade, Ballon, Barbie, Baseball, Basketball, Batman, Bird, Block, Blood, Board, Boat, Bomb, Bricks, Bridge, Bubble, Bubble Shooter, Castle, Casual, Cat, Celebrity, Chicken, Clicker, Color, Coloring, Doctor, Dora, Dragon, Dragon Ball Z, fly, Football, Friv, Girl, Girls, Gold, Golf, Google, Grooming, Hello Kitty, Hidden, Highscore, Holiday, Kid, Kids, Kiss, Kiz 10, kiz10, Ski, Skill, Skills, Slacking
+- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, Aircraft, Alien, Android, Animal, Anime, Arcade, Ballon, Barbie, baseball, basketball, Batman, Bird, block, Blood, Board, Boat, Bomb, Bricks, Bridge, Bubble, Bubble Shooter, Castle, Casual, Cat, Celebrity, Chicken, Clicker, Color, Coloring, Doctor, Dora, Dragon, Dragon Ball Z, fly, Football, Friv, Girl, Girls, Gold, golf, Google, Grooming, Hello Kitty, Hidden, Highscore, Holiday, Kid, Kids, Kiss, Kiz 10, kiz10, Ski, Skill, Skills, Slacking

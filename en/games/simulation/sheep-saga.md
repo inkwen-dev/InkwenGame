@@ -21,4 +21,4 @@ Sheep Saga is a heart-warming farm simulation game where players care for a floc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Business, Casual, Farm, html5 games, html5 games for your site, Management
+- Tags: Animal, Business, Casual, Farm, html5 games, html5 games for your site, management

@@ -21,4 +21,4 @@ Call of Duty: Free Fire brings you into a nervous battle royale. Only the strong
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Shoot 'Em Up, survival
+- Tags: battle, Shoot 'Em Up, survival

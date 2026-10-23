@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 动作, Android, 街机, 最佳, 疯狂, 游戏, HTML5, 跳跃, 跳跃, 移动设备, Unity3D
+- 标签: 3D, 3D游戏, 动作, 安卓, 街机, 最佳, 疯狂, 网页游戏, HTML5, 跳跃, 跳跃, 移动设备, Unity3D

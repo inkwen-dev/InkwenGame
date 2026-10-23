@@ -19,6 +19,6 @@ Muscle Clicker shows you what it&rsquo;s like to make a skinny person muscular w
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Cartoon, Casual, Click, Clicker, Game, HTML5, RPG, Simulation, Simulator, Sport, Sports, Train
+- Tags: 1 Player, 2D, Cartoon, Casual, Click, Clicker, Game, HTML5, rpg, Simulation, Simulator, Sport, sports, Train

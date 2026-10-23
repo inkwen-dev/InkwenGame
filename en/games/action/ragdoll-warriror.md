@@ -19,6 +19,6 @@ Ragdoll Warrior - is an imposing stickman game, stickman warriors fighting game 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Battle, Casual, Fight, Fighting, Funny, HTML5, Hypercasual, Skill, WebGL
+- Tags: 2D, battle, Casual, Fight, fighting, Funny, HTML5, Hypercasual, Skill, WebGL

@@ -21,4 +21,4 @@ Coloring Dolls is a cute coloring game. Do you want to be an artist? Do you feel
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Boy, Color, Cute, Drawing, Fun, Girl, Kid
+- Tags: Animal, Boy, Color, Cute, drawing, Fun, Girl, Kid

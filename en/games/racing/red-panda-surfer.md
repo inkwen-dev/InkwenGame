@@ -21,4 +21,4 @@ The main task is to overcome as much distance as possible without colliding with
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Arcade, H5, HTML, HTML5, Hypercasual, jump, Jumping, Panda, Race, Racing, subway, Subway Surfers, surfers, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Arcade, H5, HTML, HTML5, Hypercasual, jump, jumping, Panda, Race, Racing, subway, Subway Surfers, surfers, Unity3D

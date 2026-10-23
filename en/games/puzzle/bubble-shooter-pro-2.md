@@ -19,6 +19,6 @@ Today, the virtual world is full of different game options that involve the dest
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, Color, HTML, HTML5, Hypercasual, Puzzle

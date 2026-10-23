@@ -15,6 +15,6 @@ Rediscover the classic appeal of dominoes in Domino Legend, where strategic dept
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Board

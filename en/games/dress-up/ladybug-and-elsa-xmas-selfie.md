@@ -19,6 +19,6 @@ Here comes with one of the best free games to play ? Ladybug and Elsa Xmas Selfi
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Dress Up, Elsa, Fashion, Game, Girl, Girls, Ladybug, Makeover, Miraculous Ladybug, Online

@@ -19,6 +19,6 @@ Foot Surgery Doctor Care - Free Doctor Games : Enjoy the thrill of being a super
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clash, Doctor, Surgery
+- Tags: Clash, Doctor, surgery

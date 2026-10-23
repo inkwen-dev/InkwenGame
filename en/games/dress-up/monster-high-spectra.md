@@ -21,4 +21,4 @@ She is a ghost and a student at Monster High. She is the reporter of Monster Hig
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dress Up, Fashion, Fun, Games, Girl, Girls, HTML5, Magic, Makeover, Monster
+- Tags: Dress Up, Fashion, Fun, Games, Girl, Girls, HTML5, Magic, Makeover, monster

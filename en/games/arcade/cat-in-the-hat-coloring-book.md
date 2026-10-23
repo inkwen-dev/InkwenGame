@@ -21,4 +21,4 @@ The cat in the hat Coloring Book: Jumbo Coloring Books With 50+ High Quality Ima
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boys, Cat, Color, Coloring, Draw, Drawing, Girls, Kids, Puzzle, Whack
+- Tags: Arcade, Boys, Cat, Color, Coloring, Draw, drawing, Girls, Kids, Puzzle, Whack

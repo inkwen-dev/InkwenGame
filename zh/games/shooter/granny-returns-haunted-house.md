@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 逃脱, 恐怖, 跑酷, 射击游戏
+- 标签: 逃脱, 恐怖, 跑, 射击

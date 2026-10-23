@@ -21,4 +21,4 @@ Happy Food Link is a fun Mahjong Connect game where you match tasty food tiles a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Food, html games for your website, Mahjong, Matching, Mobile, Puzzle
+- Tags: Food, html games for your website, mahjong, Matching, Mobile, Puzzle

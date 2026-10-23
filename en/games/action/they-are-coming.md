@@ -21,4 +21,4 @@ What will you do if you are chased by too many crazy enemies? They Are Coming pr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Avoid, Collecting, Escape, Mobile, Obstacle, Platform, Stickman
+- Tags: 3D, Arcade, Avoid, Collecting, Escape, Mobile, Obstacle, Platform, stickman

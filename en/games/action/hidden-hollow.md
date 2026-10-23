@@ -15,6 +15,6 @@ Uncover the secrets of Hidden Hollow, where every step is a nail-biting challeng
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: platformer

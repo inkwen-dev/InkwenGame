@@ -21,4 +21,4 @@ Do you enjoy playing American Police Suv Driving: Car Games 2022? Then you will 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Android, Boys, Car, Casual, drifting, Driving, Police
+- Tags: 3D, Adventure, Android, Boys, Car, Casual, drifting, Driving, police

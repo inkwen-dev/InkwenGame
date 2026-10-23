@@ -19,6 +19,6 @@ it's not just harvesting and fighting pests! It’s also an amazing match 3 game
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Arcade, Baby Hazel, Bejeweled, Boy, Candy, Family, Fun, Girl, HTML, HTML5, Hypercasual, Logic, Match 3, Match3, Matching, New, WebGL

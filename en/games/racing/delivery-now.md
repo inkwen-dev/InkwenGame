@@ -19,6 +19,6 @@ Delivery Now is an open world endless delivery game , which uses spectacular gra
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Cars, Helicopter, Race, ships
+- Tags: 1 Player, Cars, helicopter, Race, ships

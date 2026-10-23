@@ -21,4 +21,4 @@ Slice fruit, don’t slice bombs – that is all you need to know to get started
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Bomb, Fruit, Fruits, Game, Games, Ninja, Ninjago
+- Tags: Action, Arcade, Bomb, Fruit, Fruits, Game, Games, ninja, Ninjago

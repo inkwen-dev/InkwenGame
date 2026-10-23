@@ -21,4 +21,4 @@ Doroppuboru 13 is a casual web-based puzzle game that involves falling objects, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Basketball
+- Tags: Ball, basketball

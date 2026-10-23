@@ -15,6 +15,6 @@ Dive into the vibrant world of Funny Quiz, where quick thinking meets colorful f
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: trivia

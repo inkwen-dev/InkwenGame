@@ -21,4 +21,4 @@ This is a match man character game. Each level we have prepared unexpected traps
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Interactive, Rescue, Stickman
+- Tags: 1 Player, Interactive, Rescue, stickman

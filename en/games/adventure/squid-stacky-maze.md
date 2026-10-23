@@ -19,6 +19,6 @@ You have to collect all the stack to escape from the game island where scary Squ
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Best, Casual, Hypercasual, Jumping, Kids, Maze, Road, Skills, Stack, Stickman
+- Tags: 3D, Adventure, Best, Casual, Hypercasual, jumping, Kids, Maze, Road, Skills, Stack, stickman

@@ -21,4 +21,4 @@ Prefect Scale Game is a fun, challenging, and rewarding game. Fruit weight style
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Casual, Classic, Crazy, Highscore
+- Tags: Android, Arcade, Casual, Classic, crazy, Highscore

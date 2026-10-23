@@ -21,4 +21,4 @@ Be the champ and knock down as many tree as possible with your Head super Skibid
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML, Mobile, Punch, Skibidi, Skibidi Toilet
+- Tags: HTML, Mobile, Punch, Skibidi, skibidi-toilet

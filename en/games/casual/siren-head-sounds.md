@@ -21,4 +21,4 @@ The Sounds of the Siren Head will give you the opportunity to hear the frighteni
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Kids, Mobile, Monster, Music
+- Tags: HTML5, Kids, Mobile, monster, music

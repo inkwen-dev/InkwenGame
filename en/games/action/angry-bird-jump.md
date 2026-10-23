@@ -21,4 +21,4 @@ The Angry Bird Jump Adventure Online Game is a fun and addicting game that can b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arcade, Game, Games, HTML5, jump, Jumping, Platform
+- Tags: 2D, Adventure, Arcade, Game, Games, HTML5, jump, jumping, Platform

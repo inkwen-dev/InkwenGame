@@ -21,4 +21,4 @@ Jeu de blocs classique avec un mode de jeu de puzzle et d'arcade! Tout est gratu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Bricks, Clash, Tetris
+- Tags: block, Bricks, Clash, tetris

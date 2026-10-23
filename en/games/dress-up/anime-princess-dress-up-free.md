@@ -21,4 +21,4 @@ Hey, little fashionistas! Are you a Manga, Anime and Japanese pop culture fan? I
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping
+- Tags: jump, jumping

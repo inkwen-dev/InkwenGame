@@ -15,6 +15,6 @@ Unleash Halloween delight in Halloween Candy Match, a bewitching match-3 puzzle 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Monster
+- Tags: monster

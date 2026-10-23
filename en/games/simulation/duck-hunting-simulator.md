@@ -19,6 +19,6 @@ Put your bird shooter skills to test as you aim and shoot to hit the target, cat
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Educational, Interactive, Shoot
+- Tags: Action, Adventure, educational, Interactive, Shoot

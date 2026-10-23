@@ -21,4 +21,4 @@ Pitballs 是一款超休闲游戏，让你将球射入坑中。在Boss战斗中�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 阿卡诺伊德, 球, 怪物, 弹珠
+- 标签: 单人, 2D, 阿克诺伊德, 球, monster, 弹球

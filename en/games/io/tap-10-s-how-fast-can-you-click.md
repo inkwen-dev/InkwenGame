@@ -19,6 +19,6 @@ How many clicks can you do in 10 seconds? Tap the screen as fast as you can and 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2D, Adventure, Battle
+- Tags: .io, .io Games, 1 Player, 2D, Adventure, battle

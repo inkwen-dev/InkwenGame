@@ -21,4 +21,4 @@ Keep color dot in frame with same color and get maximum score. Tap on screen to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block
+- Tags: 1 Player, block

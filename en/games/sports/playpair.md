@@ -19,6 +19,6 @@ PlayPair is a memory-based game where each card contains a sport-items. You have
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Memory, Point And Click, Puzzle, Sports
+- Tags: memory, Point And Click, Puzzle, sports

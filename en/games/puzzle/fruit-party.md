@@ -19,6 +19,6 @@ Welcome to Fruit Party, The best match3 puzzle game. Swipe & crush fruits with t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Bubble, Candy, Casual, Fruit, Fruits, HTML5, Hypercasual, Match 3, Match3, Matching, Puzzle

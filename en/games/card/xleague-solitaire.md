@@ -21,4 +21,4 @@ Patience, card solitaire or just solitaire, is a genre of card games that can be
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Card, Hypercasual, Solitaire
+- Tags: Arcade, card, Hypercasual, solitaire

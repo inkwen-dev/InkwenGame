@@ -21,4 +21,4 @@ Are you ready to become a hero, a spy, and a legend? Solve puzzling challenges, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Army, Battle, Battlegrounds, Click, Clicker, Crazy, Police, Prison, Shoot, Shoot 'Em Up, Shooter, Shooting, Street Fighting, weapons
+- Tags: Action, Adventure, Arcade, Army, battle, Battlegrounds, Click, Clicker, crazy, police, Prison, Shoot, Shoot 'Em Up, Shooter, Shooting, Street Fighting, weapons

@@ -19,6 +19,6 @@ Compete with other players. Grab items and grow them. Increase your snake to swa
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, 3D Games, Adventure, Boxing, Bubble Shooter, city, Cool, Hypercasual, Simulator, Snake
+- Tags: .io Games, 3D, 3D Games, Adventure, Boxing, Bubble Shooter, city, cool, Hypercasual, Simulator, snake

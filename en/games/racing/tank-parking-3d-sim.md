@@ -21,4 +21,4 @@ Prepare to experience tank car parking and tank war challenges in Tank parking 3
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Parking, Tank, Unity3D, WebGL
+- Tags: Driving, parking, Tank, Unity3D, WebGL

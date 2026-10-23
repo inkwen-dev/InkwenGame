@@ -21,4 +21,4 @@ Real Race Off-Crazy Car Traffic Racing Games is an addictive game.Enjoy the most
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Car, Crazy, Driving, Parking, Race, Racing, Supercars, Unity3D, WebGL
+- Tags: 3D, Arcade, Car, crazy, Driving, parking, Race, Racing, Supercars, Unity3D, WebGL

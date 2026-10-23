@@ -21,4 +21,4 @@ Memory Match Lite is flip cards to find matching pairs and test your memory game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Memory
+- Tags: 1 Player, 2D, Arcade, memory

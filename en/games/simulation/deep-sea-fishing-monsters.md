@@ -19,6 +19,6 @@ Fishing hunt has already started,Amazing realistic 3D effect!Join them and exper
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fishing, Monster, Shark
+- Tags: Fishing, monster, Shark

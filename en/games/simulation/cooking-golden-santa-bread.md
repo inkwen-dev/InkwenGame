@@ -19,6 +19,6 @@ Cooking Golden Santa Bread is a very interesting free online cooking game. For t
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Cooking, Fun, Girls, Kids

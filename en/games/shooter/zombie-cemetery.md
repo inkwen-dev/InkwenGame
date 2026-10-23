@@ -19,6 +19,6 @@ The zombie apocalypse is here and you are all alone in the Zombie Cemetery. Than
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Halloween, Platform, Shooting, Zombie

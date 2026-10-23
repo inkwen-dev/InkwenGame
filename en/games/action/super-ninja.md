@@ -21,4 +21,4 @@ Jump Ninja Hero – this is a great (flat style) arcade-action game with very be
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Clash, Classic, jump, Jumping, Kids, Kill, Killing, Mario, Ninja, Ninjago, run, running, Skill, Super, Supercars, Superhero
+- Tags: 1 Player, Clash, Classic, jump, jumping, Kids, Kill, Killing, mario, ninja, Ninjago, run, running, Skill, Super, Supercars, Superhero

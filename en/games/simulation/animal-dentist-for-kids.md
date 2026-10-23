@@ -21,4 +21,4 @@ Educational games for kids are quite entertaining and great for the development 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cute, Doctor, Educational, Girl, Girls, Kids, Simulation, Surgery
+- Tags: Animal, Cute, Doctor, educational, Girl, Girls, Kids, Simulation, surgery

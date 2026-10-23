@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 炸弹, 飞行, 飞行, HTML, HTML5, 儿童, 矿工, 赛车
+- 标签: 冒险, 炸弹, 飞行, 飞, HTML, HTML5, 儿童, 挖掘, 竞速

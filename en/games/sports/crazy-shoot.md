@@ -21,4 +21,4 @@ Here we go with new Hyper casual game Soccer shoot in Crazy way , try to avoid f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Football, Hypercasual, Soccer, Sport, Sports
+- Tags: Casual, Football, Hypercasual, Soccer, Sport, sports

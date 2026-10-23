@@ -21,4 +21,4 @@ Assist the Little Black Box in navigating through the hurdles it encounters in t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, free html5 games for your website, HTML, Hypercasual, jump, Jumping
+- Tags: Arcade, free html5 games for your website, HTML, Hypercasual, jump, jumping

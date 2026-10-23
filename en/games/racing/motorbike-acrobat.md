@@ -19,6 +19,6 @@ Would you like to have fun with the acrobat motorcycle driver? Cross the obstacl
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Driving, Fun, Game, HTML5, Moto, Motorcycle, Sport, Sports
+- Tags: Boy, Boys, Driving, Fun, Game, HTML5, Moto, Motorcycle, Sport, sports

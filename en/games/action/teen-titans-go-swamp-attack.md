@@ -21,4 +21,4 @@ Have fun playing Titan Swamp Attack, an exclusive new game where you will enjoy 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Fighting, running
+- Tags: Adventure, fighting, running

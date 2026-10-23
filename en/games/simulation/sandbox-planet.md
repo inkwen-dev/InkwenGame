@@ -21,4 +21,4 @@ Simulate real solar system Emulate universe develop, build any planet you want. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Relaxation, Simulation, Space, Spaceship, Strategy, World
+- Tags: Relaxation, Simulation, Space, Spaceship, strategy, World

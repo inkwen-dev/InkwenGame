@@ -21,4 +21,4 @@ Monster Truck Mountain Climb is a fun driving game where you control a truck goi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Mobile, Truck
+- Tags: Driving, Mobile, truck

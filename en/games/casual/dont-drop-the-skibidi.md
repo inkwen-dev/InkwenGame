@@ -21,4 +21,4 @@ Dont let Skibidi and Grimace fall! And pop all the balloons that you see on the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Grimace, Grimace Shake, HTML5, Mobile, Skibidi, Skibidi Toilet
+- Tags: Grimace, Grimace Shake, HTML5, Mobile, Skibidi, skibidi-toilet

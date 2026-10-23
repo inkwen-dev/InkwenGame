@@ -21,4 +21,4 @@ The character of the game is completely mentally healthy. But despite this, he w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Adventure, Best, Boy, Boys, Brain, Escape, Hot, HTML, HTML5, Hypercasual, Mind, Prison, Puzzle, Stickman
+- Tags: Adult, Adventure, Best, Boy, Boys, Brain, Escape, Hot, HTML, HTML5, Hypercasual, Mind, Prison, Puzzle, stickman

@@ -19,6 +19,6 @@ Puppy Friends - Pet Dog Salon is a virtual pet game. Can you adopt this cute pup
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cat, Cute

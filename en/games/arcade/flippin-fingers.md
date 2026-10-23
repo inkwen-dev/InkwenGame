@@ -21,4 +21,4 @@ Prepare yourselfs with, Flippin Fingers is here! Win, survive and be the best! Y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, endless, Hypercasual, Jumping, kiz10, Physics, Skills, sky, survival
+- Tags: 1 Player, Arcade, endless, Hypercasual, jumping, kiz10, Physics, Skills, sky, survival

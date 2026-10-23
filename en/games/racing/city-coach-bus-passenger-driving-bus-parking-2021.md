@@ -21,4 +21,4 @@ In Tourist Drive city Bus Parking Simulator Game You must be having curiosity to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: bus, HTML, HTML5, Parking, Simulation, Simulator
+- Tags: bus, HTML, HTML5, parking, Simulation, Simulator

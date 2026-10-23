@@ -46,4 +46,4 @@ Become a hunting legend, save the farm, and show who's boss! 🏹🔥
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Hunting
+- Tags: 3D, hunting

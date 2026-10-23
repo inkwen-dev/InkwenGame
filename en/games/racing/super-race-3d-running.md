@@ -19,6 +19,6 @@ Fall Race 3D is an exciting arcade running game. You will race with other stickm
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Boy, Boys, Fun, Funny, H5, Hypercasual, Kid, Kids, Race, Racing, run

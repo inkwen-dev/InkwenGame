@@ -19,6 +19,6 @@ Are you ready to start the challenge of Squid game PUZZLE? Scary Squid game puzz
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Game, Games, Multiplayer

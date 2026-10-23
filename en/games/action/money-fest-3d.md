@@ -19,6 +19,6 @@ How do you feel about coins? Money Fest 3D is a coin-collecting vertical-version
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Collecting, Maze, Mobile, Platform, WebGL

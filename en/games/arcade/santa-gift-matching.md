@@ -19,6 +19,6 @@ Looking for a fun and festive online game to get you into the holiday spirit? Lo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Funny, Game, Games, HTML5, Hypercasual, Matching, Online

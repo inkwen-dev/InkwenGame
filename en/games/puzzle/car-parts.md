@@ -21,4 +21,4 @@ Are you looking for adventurous and adrenaline rush game? You have come to the r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Card, Cars, Fun, Kids, Match 3, Memory, Mobile, Skill
+- Tags: Car, card, Cars, Fun, Kids, Match 3, memory, Mobile, Skill

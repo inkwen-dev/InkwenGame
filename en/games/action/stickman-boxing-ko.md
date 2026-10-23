@@ -19,6 +19,6 @@ Welcome to the online game Stickman Boxing KO Champion. This is a free Sport Gam
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boxing, Boys, Fight, Fighting, Girls, Highscore, HTML5, Stickman, Street Fighting
+- Tags: Boxing, Boys, Fight, fighting, Girls, Highscore, HTML5, stickman, Street Fighting

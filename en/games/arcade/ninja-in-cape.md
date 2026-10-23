@@ -19,6 +19,6 @@ Are you ready for adventure with the ninja in cape? A journey full of action and
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Army, Game, HTML5, Mobile, Ninja
+- Tags: Action, Adventure, Arcade, Army, Game, HTML5, Mobile, ninja

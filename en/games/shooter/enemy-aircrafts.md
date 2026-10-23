@@ -21,4 +21,4 @@ Enemy Aircrafts is a free online game from genre of action and aircraft games. I
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Aircraft, Bomb, Defense, HTML5, Mobile, Plane, Shooter, Tank, Tanks, Timing
+- Tags: Aircraft, Bomb, Defense, HTML5, Mobile, Plane, Shooter, Tank, tanks, Timing

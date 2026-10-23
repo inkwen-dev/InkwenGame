@@ -21,4 +21,4 @@ High quality offroad monster truck is here waiting for you to drive in simulator
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Driving, Simulator, Truck
+- Tags: Car, Driving, Simulator, truck

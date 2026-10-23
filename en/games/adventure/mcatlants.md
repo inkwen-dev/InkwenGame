@@ -21,4 +21,4 @@ In this new adventure, you must reach the portal. To reach the portal, you shoul
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Animal, Best, Best Games, Block, Boy, Game, Miner, Minion
+- Tags: 2D, Adventure, Animal, Best, Best Games, block, Boy, Game, Miner, Minion

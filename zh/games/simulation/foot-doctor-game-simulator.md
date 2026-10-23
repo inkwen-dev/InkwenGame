@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 Player, 男孩, 女孩
+- 标签: 单人, 男孩们, 女孩

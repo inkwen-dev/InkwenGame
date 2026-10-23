@@ -21,4 +21,4 @@ Build the restaurant of your dreams in Dream Tycoon! Take customer orders, grab 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Adventure, amazing, Best Games, Burger, Casual, Cook, Cooking, Hypercasual, Restaurant
+- Tags: 1 Player, 2026 games, Adventure, amazing, Best Games, Burger, Casual, Cook, Cooking, Hypercasual, restaurant

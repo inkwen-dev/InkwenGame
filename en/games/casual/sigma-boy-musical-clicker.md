@@ -21,4 +21,4 @@ Join Sigma Boy in a beat-driven journey through diverse landscapes from deserts 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, Music
+- Tags: Clicker, music

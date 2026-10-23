@@ -21,4 +21,4 @@ Introducing Skibidi, a groundbreaking game featuring entirely unique gameplay me
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, HTML5, iPad, iPhone, Mentolatux, Mobile, Skibidi, Skibidi Toilet, Skill
+- Tags: 2D, Android, HTML5, iPad, iPhone, Mentolatux, Mobile, Skibidi, skibidi-toilet, Skill

@@ -21,4 +21,4 @@ PC 屏幕上有两个按钮，点击屏幕左侧按钮可加速，点击右侧�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 街机, 芭比, 超休闲, NapTech Games, 生存
+- 标签: 冒险, 街机, 芭比, 超休闲, NapTech 游戏, 生存

@@ -21,4 +21,4 @@ mouse or toutch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, endless, Fire, Monster, Online, run, running, Shoot, Shooter, Shooting
+- Tags: Action, Adventure, endless, Fire, monster, Online, run, running, Shoot, Shooter, Shooting

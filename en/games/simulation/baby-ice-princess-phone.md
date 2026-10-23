@@ -19,6 +19,6 @@ This is a mobile simulator game for girls and kids. Do you want to talk to the i
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cute, Kids, Princess, Simulator

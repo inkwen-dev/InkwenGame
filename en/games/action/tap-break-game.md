@@ -21,4 +21,4 @@ Tap Break is free to play puzzle game with easy gameplay but hard to win. A litt
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Air, Alien, Animal, Anime, Avoid, Barbie, Battle, Ben 10, Bike, Cartoon, Cartoon Network
+- Tags: 2D, Action, Adventure, Air, Alien, Animal, Anime, Avoid, Barbie, battle, Ben 10, bike, Cartoon, Cartoon Network

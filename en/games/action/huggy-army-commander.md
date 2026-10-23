@@ -21,4 +21,4 @@ Huggy Army Commander is an interesting game for the person who wants to manage t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Battle, Brain, Collecting, Kids, Mobile, Skill
+- Tags: Army, battle, Brain, Collecting, Kids, Mobile, Skill

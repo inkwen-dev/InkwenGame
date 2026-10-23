@@ -21,4 +21,4 @@ Save your pens and pencils, it's the classic game of Dots!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Multiplayer, Strategy
+- Tags: 2 Player, Multiplayer, strategy

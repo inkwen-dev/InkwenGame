@@ -21,4 +21,4 @@ Everyone loves to enjoy summer vacation and the beach. Spend your summer at the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cook, Cooking, Decorate, Design, Doctor, Dress Up, Fashion, Girl, Girls, Makeover, Simulation, Surgery
+- Tags: Baby, Cook, Cooking, Decorate, Design, Doctor, Dress Up, Fashion, Girl, Girls, Makeover, Simulation, surgery

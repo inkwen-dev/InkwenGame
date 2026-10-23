@@ -19,6 +19,6 @@ welcome to Pick Color Paint Fruits! Draw colorful lines and match them with the 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Color, Hypercasual, Puzzle, Strategy
+- Tags: Brain, Color, Hypercasual, Puzzle, strategy

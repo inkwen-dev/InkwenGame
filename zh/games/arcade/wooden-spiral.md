@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 街机, 休闲, 点击, 点击器, 切割, 女生, H5, HTML, HTML5, 休闲, 点击式, 策略, Unity3D
+- 标签: 3D, 3D游戏, 街机, 休闲, 点击, 点击器, 切割, 女孩, H5, HTML, HTML5, 超休闲, 点击式, 策略, Unity3D

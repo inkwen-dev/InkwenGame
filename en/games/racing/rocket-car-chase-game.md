@@ -19,6 +19,6 @@ Run!! Rocket cars are chasing you! Hold your steering strong and evade them away
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Battle, Car, Cars, Driving, Rocket
+- Tags: Adventure, battle, Car, Cars, Driving, Rocket

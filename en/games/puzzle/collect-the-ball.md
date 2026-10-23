@@ -19,6 +19,6 @@ The task of the game Collect the Ball is to move the white ball into a container
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Ball, Best, Casual, Fun, Funny, Hypercasual, Kids, Logic, Mobile, Skill

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 卡通, 休闲, 无尽, 搞笑, HTML5, 摩托, 摩托车, 竞速, 竞速, 模拟, 超跑, 交通, Unity3D, WebGL
+- 标签: 3D, 卡通, 休闲, 无尽, 搞笑, HTML5, 摩托, 摩托车, 比赛, 竞速, 模拟, 超跑, 交通, Unity3D, WebGL

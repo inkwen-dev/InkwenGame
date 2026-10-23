@@ -21,4 +21,4 @@ Mickey Mouse Coloring Book: Perfect game for Kids And Adults That Love Mickey Mo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Cartoon, Cartoon Network, Color, Coloring, Draw, Drawing, Games, Online, Puzzle
+- Tags: Arcade, Cartoon, Cartoon Network, Color, Coloring, Draw, drawing, Games, Online, Puzzle

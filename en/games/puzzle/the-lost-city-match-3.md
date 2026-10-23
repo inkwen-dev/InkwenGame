@@ -15,6 +15,6 @@ Embark on a mesmerizing journey in The Lost City Match 3. Strategically align ge
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Match 3

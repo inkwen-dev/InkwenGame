@@ -19,6 +19,6 @@ A Christmas themed Tetris like blocks game. Plays like Tetris but in this game y
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Holiday, Winter

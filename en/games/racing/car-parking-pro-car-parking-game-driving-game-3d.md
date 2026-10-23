@@ -19,6 +19,6 @@ Multiplayer Car Driving Games with Parking Race Mode & Matches Our parking and d
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Car, Cars, drift, drifting, Driving, Mobile, Parking, Race, Racing, Simulation, Simulator, Supercars, Unity3D
+- Tags: Action, Adventure, Arcade, Car, Cars, drift, drifting, Driving, Mobile, parking, Race, Racing, Simulation, Simulator, Supercars, Unity3D

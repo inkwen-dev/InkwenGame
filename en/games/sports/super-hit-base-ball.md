@@ -21,4 +21,4 @@ Go for the SUPER HIT & Compete for the Championship! ⚾ Fun Free online multipl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Arcade, Baseball, Casual, Hypercasual, Sport, Sports
+- Tags: 1 Player, 3D, Action, Arcade, baseball, Casual, Hypercasual, Sport, sports

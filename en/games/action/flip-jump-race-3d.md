@@ -19,6 +19,6 @@ Do you have confidence in your balance skills while you are jumping from a platf
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Jumping, Mobile, Platform, Skill, Stickman, WebGL
+- Tags: 3D, Arcade, jumping, Mobile, Platform, Skill, stickman, WebGL

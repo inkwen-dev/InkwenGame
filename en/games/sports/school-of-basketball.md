@@ -24,4 +24,4 @@ It is the basketball arcade game in which you must try to score baskets in all t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Ball, Basketball, Boys, Sports
+- Tags: Arcade, Ball, basketball, Boys, sports

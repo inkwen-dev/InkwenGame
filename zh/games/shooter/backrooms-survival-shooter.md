@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 方块, 枪械, Minecraft, 射击, 射手, 战争, 僵尸
+- 标签: 3D, 方块, 枪械, 我的世界, 射击, 射击类, 战争, 僵尸

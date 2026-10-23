@@ -19,6 +19,6 @@ Ice Ball Run is an online platformer game that challenges players to navigate th
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Collecting, HTML, HTML5, run, running

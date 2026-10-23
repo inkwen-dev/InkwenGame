@@ -21,4 +21,4 @@ The Brazil vs Argentina game will be played online for free. Play Brazil take on
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Football, Highscore, Soccer, Sport, Sports
+- Tags: Arcade, Ball, Football, Highscore, Soccer, Sport, sports

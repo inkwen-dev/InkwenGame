@@ -19,6 +19,6 @@ The little mermaid lives in the palace of the deep ocean. She fell in love with 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Fashion, Games, Girl, Girls, Kids, Makeover, Mermaid, Online, Princess, Summer

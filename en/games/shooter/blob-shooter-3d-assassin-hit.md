@@ -21,4 +21,4 @@ Enter the colorful world of Blob Shooter 3D - Assassin Hit. In this 3D action ad
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: assasin, run, Shooter, Stickman
+- Tags: assasin, run, Shooter, stickman

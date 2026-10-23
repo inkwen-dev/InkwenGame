@@ -21,4 +21,4 @@ CubeCombo is a casual puzzle game. In this game, players need to use their wits 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, Brain, Color, Funny, Hypercasual, Level, slide
+- Tags: 1 Player, block, Brain, Color, Funny, Hypercasual, Level, slide

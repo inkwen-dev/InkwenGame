@@ -19,6 +19,6 @@ In this adventure where the friendship between the dog and the cat exists, colle
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, pixel

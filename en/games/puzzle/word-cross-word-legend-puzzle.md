@@ -19,6 +19,6 @@ Word Legend Puzzle: crossword and word connect game #1 addictive word puzzle gam
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Puzzle, Word
+- Tags: Puzzle, word

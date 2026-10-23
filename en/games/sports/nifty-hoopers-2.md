@@ -15,6 +15,6 @@ Nifty Hoopers puts you in the heat of a thrilling basketball match, where precis
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Sports
+- Tags: sports

@@ -19,6 +19,6 @@ A witch wants to do something bad to this princess, she messed up the castle of 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cleaning, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Princess

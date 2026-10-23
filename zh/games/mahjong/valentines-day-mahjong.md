@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 方块, 棋盘, 女孩, HTML5, 爱情, 麻将, 匹配, 移动设备, 解谜
+- 标签: 方块, 棋盘, 女孩, HTML5, 爱情, mahjong, 匹配, 移动设备, 益智

@@ -19,6 +19,6 @@ Cast your line into the stunning, turquoise waters of a coral reef in Hooked, a 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Mentolatux, unity, WebGL

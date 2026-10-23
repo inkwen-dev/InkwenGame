@@ -21,4 +21,4 @@ Simba, a fearless teenager, experiences various adventures with his friends whil
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Cartoon, Fight, Fighting
+- Tags: Action, Cartoon, Fight, fighting

@@ -19,6 +19,6 @@ Flip Trickster 3D - Is the best simulator flip gym Perform crazy jumps and antic
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Simulation, Sports
+- Tags: 3D, Simulation, sports

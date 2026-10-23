@@ -21,4 +21,4 @@ TopDown Monster Shooter features: - fun gameplay - good graphics
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Monster, Unity3D, WebGL
+- Tags: 3D, monster, Unity3D, WebGL

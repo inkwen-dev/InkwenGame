@@ -19,6 +19,6 @@ How good are you at pong? Drag the paddle, and hit the ball into the opponent's 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, Adventure, Arcade, Football

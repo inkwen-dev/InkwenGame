@@ -21,4 +21,4 @@ Are you ready to become a top Chinese Cuisine Chef? Dive into this idle simulati
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Funny, Restaurant, Simulation
+- Tags: Funny, restaurant, Simulation

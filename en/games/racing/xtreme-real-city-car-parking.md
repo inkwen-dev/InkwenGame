@@ -19,6 +19,6 @@ Driving challenge come with Advance Features in this game. Park your cars in sup
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Boys, Driving, HTML5, Parking, WebGL
+- Tags: 3D, Arcade, Boys, Driving, HTML5, parking, WebGL

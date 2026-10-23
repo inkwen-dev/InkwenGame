@@ -19,6 +19,6 @@ Taylor's mother has been busy in the kitchen, so Taylor can only pass the time b
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cute, Doctor, Educational, Girl, Girls, Kids, Simulation, Surgery
+- Tags: Animal, Baby, Cute, Doctor, educational, Girl, Girls, Kids, Simulation, surgery

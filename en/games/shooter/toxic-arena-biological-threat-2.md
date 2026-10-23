@@ -21,4 +21,4 @@ Toxic Arena: Biological Threat is a thrilling action-roguelike survivors game wh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Arena, Battle, Battlegrounds, Best, Best Games, Zombie
+- Tags: 1 Player, 2D, Action, Arena, battle, Battlegrounds, Best, Best Games, Zombie

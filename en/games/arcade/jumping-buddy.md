@@ -19,6 +19,6 @@ Jumping Buddy is fun arcade game suitable for all ages. You as a Buddy need to j
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Avoid, Boys, Cartoon, Fun, HTML5, Jumping, Kids
+- Tags: Android, Arcade, Avoid, Boys, Cartoon, Fun, HTML5, jumping, Kids

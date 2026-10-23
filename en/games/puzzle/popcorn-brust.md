@@ -19,6 +19,6 @@ Welcome to Popcorn Burst Game, a fun and highly addictive arcade puzzle game whe
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: amazing, Casual, Fun, Girls, Kids, Puzzle

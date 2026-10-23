@@ -15,6 +15,6 @@ Unleash your puzzle-solving skills with Square Jigsaw Puzzle 2 - Assemble Fruits
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Brain

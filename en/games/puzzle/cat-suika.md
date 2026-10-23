@@ -19,6 +19,6 @@ Cat Suika is a relaxing and adorable merge puzzle game with a feline twist! Drop
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Animal, Cat, Cute, HTML5, Matching, Mobile, Puzzle, watermelon

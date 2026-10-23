@@ -21,4 +21,4 @@ Embark on a whimsical adventure in the quirky world of Skibidi Toilet Hidden Sta
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Hidden, HTML5, Hypercasual, Kids, Skibidi, Skibidi Toilet
+- Tags: Fun, Hidden, HTML5, Hypercasual, Kids, Skibidi, skibidi-toilet

@@ -19,6 +19,6 @@ Organization Princess is a captivating game. In this game, players can test and 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Brain, Decorate, Food, Fun, Girl, Highscore, House, HTML5, Kids, Mobile, Princess, Puzzle, Skill

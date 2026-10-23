@@ -21,4 +21,4 @@ PC W A S D - 移动 PCM - 旋转相机 LKM - 舔 Mobile device 左摇杆 - 移�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 人游戏, 2026 年游戏, 3D, 点击器, roblox, 水
+- 标签: 单人, 2026 游戏, 3D, 点击器, Roblox, 水

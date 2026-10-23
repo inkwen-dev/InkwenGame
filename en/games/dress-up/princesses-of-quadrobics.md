@@ -19,6 +19,6 @@ Immerse yourself in the world of modern fashion trends with the game &laquo;Prin
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Dress Up, Hair, Makeover

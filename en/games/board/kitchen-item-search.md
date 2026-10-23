@@ -19,6 +19,6 @@ This is a skill based puzzle game. You will see a board filled with different ki
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Food, Girls, Hidden, HTML5, Matching, Mobile

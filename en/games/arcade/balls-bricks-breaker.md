@@ -21,4 +21,4 @@ Balls Bricks Breaker is #1 highly anticipated arcade game filled with endless ch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Boys, Casual, Classic, Retro, Skill
+- Tags: Arcade, Ball, Boys, Casual, Classic, retro, Skill

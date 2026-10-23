@@ -21,4 +21,4 @@ The abundance of monthly battles and team-based multiplayer battle royale games 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Android, Car, Driving, HTML5, Mobile, Shooting, Truck, Zombie
+- Tags: 3D Games, Android, Car, Driving, HTML5, Mobile, Shooting, truck, Zombie

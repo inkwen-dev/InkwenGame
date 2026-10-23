@@ -21,4 +21,4 @@ Super cool mini games are coming within a single game, in the Mini Duels Battle.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Animal, Arcade, Arena, Ball, Ballon, Basketball, Battle, Best Games, Brain, Shoot
+- Tags: 2 Player, 2 Player Games, 2D, Action, Animal, Arcade, Arena, Ball, Ballon, basketball, battle, Best Games, Brain, Shoot

@@ -21,4 +21,4 @@ Poor Sophie has been bullied by bullies on campus for so long! She must learn to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cooking, Decorate, Design, Dress Up, Educational, Girl, Girls, Kids, Makeover, Simulation
+- Tags: Cooking, Decorate, Design, Dress Up, educational, Girl, Girls, Kids, Makeover, Simulation

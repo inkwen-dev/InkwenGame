@@ -21,4 +21,4 @@ This animal care game is a very fun educational game where you will learn how to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cute, Doctor, Educational, Girl, Girls, Kids, Simulation, Surgery
+- Tags: Animal, Baby, Cute, Doctor, educational, Girl, Girls, Kids, Simulation, surgery

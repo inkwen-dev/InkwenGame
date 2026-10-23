@@ -21,4 +21,4 @@ Try to get a high score by racing your moto bike for as long as possible. Jump o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Bike, Car, Driving, Highscore, Mobile, Stunts
+- Tags: 3D, 3D Games, bike, Car, Driving, Highscore, Mobile, Stunts

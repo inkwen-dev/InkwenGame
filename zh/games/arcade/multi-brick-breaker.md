@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 街机, 阿爾卡諾伊德, 技巧
+- 标签: 2D, 街机, 阿克诺伊德, 技巧

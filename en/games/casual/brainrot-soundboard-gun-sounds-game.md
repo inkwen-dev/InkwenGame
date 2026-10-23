@@ -15,6 +15,6 @@ Enter a world of chaotic fun with Brainrot Soundboard: Gun Sounds Game. Every gu
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Gun

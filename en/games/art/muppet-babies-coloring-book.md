@@ -19,6 +19,6 @@ Muppet Babies Coloring Book is cool coloring game for kids and adults. Play Mupp
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Draw, Drawing, Game, HTML5
+- Tags: Color, Coloring, Draw, drawing, Game, HTML5

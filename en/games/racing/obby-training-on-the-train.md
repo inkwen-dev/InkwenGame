@@ -19,6 +19,6 @@ PC bull Movement ndash W A S D bull Jump ndash Spacebar Mobile Device bull Movem
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Anime, Arcade, Kid, Kids, Race, Racing, roblox, Simulation, Simulator, Sport, Strategy, Train, transport
+- Tags: Animal, Anime, Arcade, Kid, Kids, Race, Racing, roblox, Simulation, Simulator, Sport, strategy, Train, transport

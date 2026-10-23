@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 动作, 冒險, 外星人, Casual, 地下城, 敌人, HTML5, iPad, iPhone, 骑士, 怪物, 在线, 益智
+- 标签: 2D, 动作, 冒险, 外星人, 休闲, 地牢, 敌人, HTML5, iPad, iPhone, knight, monster, 在线, 益智

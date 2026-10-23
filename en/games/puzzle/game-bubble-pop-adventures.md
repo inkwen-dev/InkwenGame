@@ -21,4 +21,4 @@ The mushroom mom needs your help. Rescue the trapped young mushrooms using the m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Ball, Ballon, Bubble, Bubble Shooter, Color, Cool, Game, Girl, Girls, HTML5, Kids, Play, Puzzle, Shoot, Shooting, Super
+- Tags: 1 Player, Ball, Ballon, Bubble, Bubble Shooter, Color, cool, Game, Girl, Girls, HTML5, Kids, Play, Puzzle, Shoot, Shooting, Super

@@ -19,6 +19,6 @@ President Simulator is a clicker game where you play as a president and your mis
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, Click, Clicker, Fun, Funny, Pixel, Strategy
+- Tags: 1 Player, 2 Player, Click, Clicker, Fun, Funny, pixel, strategy

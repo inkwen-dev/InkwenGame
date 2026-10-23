@@ -21,4 +21,4 @@ Welcome to Flag Coloring Game, the most relaxing coloring game where you can fil
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Color, Drawing, easy
+- Tags: Color, drawing, easy

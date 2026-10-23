@@ -19,6 +19,6 @@ Tripolygon is a game of rotating triangles in color to destroy the bars. There a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Click, Color, Matching

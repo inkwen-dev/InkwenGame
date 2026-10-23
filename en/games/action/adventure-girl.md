@@ -21,4 +21,4 @@ adventure girl is a platformer game in html5, as a girl you must collect fruit o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Pixel, Platform, run
+- Tags: 1 Player, 2D, Action, Adventure, pixel, Platform, run

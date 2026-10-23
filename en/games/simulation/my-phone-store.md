@@ -29,4 +29,4 @@ Play, earn, and build the best gadget store!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: idle, Management, Shopping, Simulation, tycoon
+- Tags: idle, management, Shopping, Simulation, tycoon

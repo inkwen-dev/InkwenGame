@@ -19,6 +19,6 @@ In this 2021 Skin Hand Doctor Games: Surgery Hospital Games your duty is to help
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, Doctor, Games, Kids, Surgery
+- Tags: Baby, Baby Hazel, Doctor, Games, Kids, surgery

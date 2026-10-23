@@ -21,4 +21,4 @@ A goth-girl arrives at the new Nevermore Academy. She did not suspect that she w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Celebrity, Crazy, Cute, Design, Dress Up, Fashion, Girl, Hair, Halloween, Holiday, HTML5, Makeover
+- Tags: Celebrity, crazy, Cute, Design, Dress Up, Fashion, Girl, Hair, Halloween, Holiday, HTML5, Makeover

@@ -19,6 +19,6 @@ Try to remove all the popits in those 3 levels by matching at least 2 of the sam
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Bejeweled, Best, Collecting, Color, Logic, Matching, Puzzle

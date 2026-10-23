@@ -21,4 +21,4 @@ Princess Elira is sheltering inside the kingdom&rsquo;s last keep, surrounded by
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Castle, Dungeon, Fantasy, Strategy, survival, Tower Defense
+- Tags: Action, Castle, Dungeon, Fantasy, strategy, survival, Tower Defense

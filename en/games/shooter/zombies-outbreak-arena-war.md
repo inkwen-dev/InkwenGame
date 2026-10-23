@@ -21,4 +21,4 @@ Zombie Outbreak Arena is one of the best zombie shooter game! You are surrounded
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arena, Avoid, Battle, Block, Boys, Escape, Fun, Highscore, HTML5, Mobile, Shoot, Shooting, Zombie
+- Tags: Action, Adventure, Arena, Avoid, battle, block, Boys, Escape, Fun, Highscore, HTML5, Mobile, Shoot, Shooting, Zombie

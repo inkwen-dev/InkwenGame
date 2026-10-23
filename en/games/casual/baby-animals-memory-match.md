@@ -15,6 +15,6 @@ Test your memory with Baby Animals Memory Match! Flip cards in a race against ti
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Memory
+- Tags: memory

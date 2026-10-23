@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 成人, 血液, 男孩, 泡泡射击, 女孩, HTML, HTML5, 击杀, 杀人, 射击, 射击游戏, WebGL, 僵尸
+- 标签: 成人, 血液, 男孩, 泡泡射击, 女孩, HTML, HTML5, 杀戮, 击杀, 射击, 射击类, WebGL, 僵尸

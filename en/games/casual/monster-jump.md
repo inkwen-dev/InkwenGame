@@ -19,6 +19,6 @@ Tap/Click and hold to control jumping power. Release to jump. Collect mini-monst
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Casual, HTML, HTML5, jump, Jumping, Mobile
+- Tags: Best, Casual, HTML, HTML5, jump, jumping, Mobile

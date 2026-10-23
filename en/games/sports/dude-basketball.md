@@ -21,4 +21,4 @@ Shoot, score and WIN! Grab the ball and take on the world with Dude Perfect Bask
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, 2D, Adventure, Arcade, Ball, Basketball, Puzzle, Sport, Sports
+- Tags: .io, 1 Player, 2D, Adventure, Arcade, Ball, basketball, Puzzle, Sport, sports

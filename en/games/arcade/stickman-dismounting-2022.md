@@ -19,6 +19,6 @@ There has been yet another dreary day, and you've had enough. Our door is always
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Best, Crazy, Games, HTML5, Mobile, Stickman, Unity3D, WebGL
+- Tags: 1 Player, 2D, Best, crazy, Games, HTML5, Mobile, stickman, Unity3D, WebGL

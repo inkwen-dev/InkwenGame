@@ -15,6 +15,6 @@ Enter the quirky realm of Alien Mahjong, where you must match identical tiles am
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Monster
+- Tags: monster

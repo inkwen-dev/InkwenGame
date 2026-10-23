@@ -21,4 +21,4 @@ In this game you need to do these simple actions: Run, Jump, Collect, Survive! I
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collecting, free html5 games for your website, Knight, Mobile, Retro, survival
+- Tags: Collecting, free html5 games for your website, knight, Mobile, retro, survival

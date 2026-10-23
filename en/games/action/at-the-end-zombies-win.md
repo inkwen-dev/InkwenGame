@@ -19,6 +19,6 @@ It’s time to lock and load and grab everything you can use as a weapon. Confro
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Casual, Fight, weapons, Zombie

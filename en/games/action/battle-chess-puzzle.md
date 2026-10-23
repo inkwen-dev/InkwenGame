@@ -21,4 +21,4 @@ Amazing puzzles! Merge your knights and dont let the enemy do it! Exciting battl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arena, Battle, Fight, Puzzle
+- Tags: Arena, battle, Fight, Puzzle

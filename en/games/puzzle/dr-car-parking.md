@@ -19,6 +19,6 @@ Dr Car Parking Game 3D: Car Racing Free Games drives you crazy. Broken Diamond i
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 8 Ball Pool, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, Crafting, Crazy, Dragon Ball Z, drift, drifting, Game, Games, Highscore, Jumping, Mario, Racing, Supercars, Superhero, Truck
+- Tags: .io Games, 8 Ball Pool, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, Crafting, crazy, Dragon Ball Z, drift, drifting, Game, Games, Highscore, jumping, mario, Racing, Supercars, Superhero, truck

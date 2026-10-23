@@ -21,4 +21,4 @@ Gear up for an intense firefighting experience in Firefight Upgrader! Take on th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Arcade, Fighting, Fire, Unity3D, WebGL
+- Tags: 1 Player, Adventure, Arcade, fighting, Fire, Unity3D, WebGL

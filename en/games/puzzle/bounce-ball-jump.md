@@ -21,4 +21,4 @@ Bounce Ball Jump is a puzzle game with Ball. Control the ball that moves and jum
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Bounce, HTML5, jump, Jumping, Kids, Puzzle
+- Tags: Ball, Bounce, HTML5, jump, jumping, Kids, Puzzle

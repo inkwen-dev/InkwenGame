@@ -21,4 +21,4 @@ Soda Block Jam is a refreshing twist on classic puzzle games. Navigate through v
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Escape
+- Tags: block, Escape

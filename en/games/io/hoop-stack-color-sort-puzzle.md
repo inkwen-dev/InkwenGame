@@ -19,6 +19,6 @@ Hoop stack is a ring sorting puzzle game to keep you entertained for an hours. W
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Brain, Casual, Color, drift, Fun, Funny, Hypercasual, Puzzle, Unity3D

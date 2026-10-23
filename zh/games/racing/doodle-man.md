@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 女孩, 女生, HTML, HTML5, 跳跃, 跳跃, 平台, 太空, 世界
+- 标签: 女孩, 女孩, HTML, HTML5, 跳跃, 跳跃, 平台, 太空, 世界

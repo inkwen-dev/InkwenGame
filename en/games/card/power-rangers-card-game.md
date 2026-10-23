@@ -21,4 +21,4 @@ Take turns throwing power rangers cards. When you see the same card, press the b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Cartoon, Classic, Click, Fun, Game, HTML5, Matching, Solitaire
+- Tags: card, Cartoon, Classic, Click, Fun, Game, HTML5, Matching, solitaire

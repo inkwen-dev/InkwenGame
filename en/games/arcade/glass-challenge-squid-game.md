@@ -21,4 +21,4 @@ The most addictive stack fall game with optimised performance for all devices! G
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Best, Clicker, Crazy, HTML, HTML5, Jumping, Kids, Mobile, Skills, Unity3D
+- Tags: Android, Arcade, Best, Clicker, crazy, HTML, HTML5, jumping, Kids, Mobile, Skills, Unity3D

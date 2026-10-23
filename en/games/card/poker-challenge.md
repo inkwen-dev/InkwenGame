@@ -19,6 +19,6 @@ Poker Challenge is an online game that allows players to compete against each ot
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Game, Games, HTML5, Hypercasual, Poker, Puzzle

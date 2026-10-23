@@ -19,6 +19,6 @@ Capture powerful prey quickly! Enhance your catalog and annihilate goblins as a 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Collecting, Escape, Hypercasual, Kids, Mentolatux, Pokemon, Rescue, run, running

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 街机, 色彩, 配对, 移动设备, 益智, Unity3D
+- 标签: 3D, 街机, 颜色, 匹配, 移动设备, 益智, Unity3D

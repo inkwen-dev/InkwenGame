@@ -21,4 +21,4 @@ Among Us Car Race is a driving game inspired by Among Us, help the imposters to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Cars, Driving, Game, HTML, HTML5, Obstacle, Racing, Sports
+- Tags: 2D, Cars, Driving, Game, HTML, HTML5, Obstacle, Racing, sports

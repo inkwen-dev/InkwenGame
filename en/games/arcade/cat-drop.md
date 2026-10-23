@@ -21,4 +21,4 @@ Help the little fallen Kitty Cat to land in the right platform! How to play: Cli
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Casual, Cat, Family, HTML, HTML5, Hypercasual, Kid, Mobile, Physics, Puzzle
+- Tags: Arcade, block, Casual, Cat, Family, HTML, HTML5, Hypercasual, Kid, Mobile, Physics, Puzzle

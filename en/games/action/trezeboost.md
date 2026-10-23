@@ -21,4 +21,4 @@ Jump from platform to platform and go as high as possible!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Air, Cool, Hypercasual, Jumping, Physics, Platform
+- Tags: 1 Player, 2D, Action, Air, cool, Hypercasual, jumping, Physics, Platform

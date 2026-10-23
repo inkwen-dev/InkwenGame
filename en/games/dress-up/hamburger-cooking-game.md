@@ -21,4 +21,4 @@ Welcome to the delightful and addictive Hamburger Cooking Game! Unleash your inn
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Burger, Cleaning, Cooking, Cute, Dress Up, Fashion, Food, Fun, HTML5, Kids, Mobile, Restaurant, RPG
+- Tags: Burger, Cleaning, Cooking, Cute, Dress Up, Fashion, Food, Fun, HTML5, Kids, Mobile, restaurant, rpg

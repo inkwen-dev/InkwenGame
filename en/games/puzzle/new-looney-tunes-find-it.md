@@ -19,6 +19,6 @@ Play New Looney Tunes Find It Game online in your web browser and mobile at Supe
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Baby, Brain, Cartoon, Family, Fun, Funny, Girls, Kids, Match 3, Mobile, Puzzle

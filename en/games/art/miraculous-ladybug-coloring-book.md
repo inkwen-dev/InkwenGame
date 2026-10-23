@@ -21,4 +21,4 @@ Miraculous Tales Of Ladybug & Cat Noir Coloring Book: Ladybug & Cat Noir Colorin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Color, Coloring, Draw, Drawing, Game, Girls, Kids, Ladybug, Miraculous Ladybug, Online
+- Tags: Boys, Color, Coloring, Draw, drawing, Game, Girls, Kids, Ladybug, Miraculous Ladybug, Online

@@ -21,4 +21,4 @@ WASD 和方向键移动 Z 拳击 X 踢击 X 抓取并推搡 X 踢击 V 格挡 �
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, Android, 战斗, 格斗游戏, HTML5, iPad, iPhone, Mentolatux, 移动设备, 街头格斗
+- 标签: 动作, 安卓, 格斗, 格斗, HTML5, iPad, iPhone, Mentolatux, 移动设备, 街头格斗

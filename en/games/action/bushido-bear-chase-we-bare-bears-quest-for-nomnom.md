@@ -19,6 +19,6 @@ Use arrow keys or tap on the icons on your screen yo play this game
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adult, Adventure, Baby, Baby Hazel, Boy, Girl, Girls, Puzzle, run, running

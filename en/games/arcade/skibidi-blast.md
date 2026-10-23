@@ -21,4 +21,4 @@ Hey Skibidi needs your help to escape from this dark prison! The main goal is to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bomb, Boy, HTML5, Mobile, Puzzle, Skibidi, Skibidi Toilet
+- Tags: Arcade, Bomb, Boy, HTML5, Mobile, Puzzle, Skibidi, skibidi-toilet

@@ -19,6 +19,6 @@ BTS Peppa Pig Coloring is fun and free coloring game suitable for all ages. Take
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, Cartoon, Coloring, Fun, Girls, HTML5, School

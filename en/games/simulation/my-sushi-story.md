@@ -21,4 +21,4 @@ Enter the My Sushi Story. As an owner of a sushi restaurant, begin a realistic b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Food, Restaurant, Simulation
+- Tags: Food, restaurant, Simulation

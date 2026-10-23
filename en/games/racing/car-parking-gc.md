@@ -21,4 +21,4 @@ Car parking
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Parking
+- Tags: Car, parking

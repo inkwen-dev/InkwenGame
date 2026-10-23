@@ -19,6 +19,6 @@ City Bus Driving Simulator game is especially designed to test your driving and 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Adventure, Arcade, bus, Car, Cars, Driving, Hypercasual, Interactive, Online, Parking, Race, Racing, Stunts, Super, Supercars, Superhero
+- Tags: .io, Adventure, Arcade, bus, Car, Cars, Driving, Hypercasual, Interactive, Online, parking, Race, Racing, Stunts, Super, Supercars, Superhero

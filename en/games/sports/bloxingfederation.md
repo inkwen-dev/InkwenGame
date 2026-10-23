@@ -21,4 +21,4 @@ A boxing game made up mostly of blocks where you beat your opponent into a pulp 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boxing, Crazy, Fighting, Sports, Unity3D
+- Tags: Boxing, crazy, fighting, sports, Unity3D

@@ -21,4 +21,4 @@ Remove all the blocks from the field in a limited amount of time. The blocks can
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, arrows, Block, Casual
+- Tags: 3D, Arcade, arrows, block, Casual

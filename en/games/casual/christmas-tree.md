@@ -15,6 +15,6 @@ Immerse your child in a charming winter wonderland with Christmas Tree! Unleash 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Christmas

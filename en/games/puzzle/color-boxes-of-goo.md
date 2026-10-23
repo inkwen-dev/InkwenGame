@@ -21,4 +21,4 @@ Are you able to collect all the purple Goo? Embark on an exciting adventure in t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Family, HTML5, html5 games, jump, Jumping, mapi games, Physics, Puzzle
+- Tags: Family, HTML5, html5 games, jump, jumping, mapi games, Physics, Puzzle

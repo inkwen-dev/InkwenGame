@@ -21,4 +21,4 @@ Princess Eliza is looking for her own unique style. She tries out a new style fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Anime, Barbie, Cartoon, Cute, Dress Up, Elsa, Fashion, RPG
+- Tags: 2D, Anime, Barbie, Cartoon, Cute, Dress Up, Elsa, Fashion, rpg

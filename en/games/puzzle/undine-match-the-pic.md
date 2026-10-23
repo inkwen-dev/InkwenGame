@@ -19,6 +19,6 @@ In the summer you want to go to the sea, swim and sunbathe! And it's time to pla
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Cute, Fish, Girl, Hidden, HTML5, Matching, Memory, Mermaid, Princess, Puzzle
+- Tags: 1 Player, Cute, Fish, Girl, Hidden, HTML5, Matching, memory, Mermaid, Princess, Puzzle

@@ -35,4 +35,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 益智, 益智
+- 标签: 大脑, 益智

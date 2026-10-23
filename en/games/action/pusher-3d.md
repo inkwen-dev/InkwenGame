@@ -21,4 +21,4 @@ Pusher 3D is both a strategy and a pushing arcade game with 3D stickman models a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Battle, Boy, Casual, Kid, Puzzle, Relaxation, Stickman
+- Tags: 3D, 3D Games, Arcade, battle, Boy, Casual, Kid, Puzzle, Relaxation, stickman

@@ -21,4 +21,4 @@ Among Us Memory - is a fun memory game. Match all the identical cards before tim
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Fun, Kids, Memory, Mobile, Skill, Space
+- Tags: Arcade, Fun, Kids, memory, Mobile, Skill, Space

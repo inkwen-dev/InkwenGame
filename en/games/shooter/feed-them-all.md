@@ -31,4 +31,4 @@ Shoot fruits to feed hungry monsters, defeat all enemies, and survive challengin
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Arcade, Monster, Shooting, survival
+- Tags: 3D, Action, Arcade, monster, Shooting, survival

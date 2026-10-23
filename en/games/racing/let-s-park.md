@@ -21,4 +21,4 @@ Parking a car in a full parking lot is almost a nightmare but this game gives us
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Parking
+- Tags: Car, parking

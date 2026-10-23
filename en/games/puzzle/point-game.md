@@ -19,6 +19,6 @@ Shoot the appearing orange balls and destroy them, carefully follow the moving a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Bounce, Casual, HTML5, Hypercasual, Physics, Puzzle

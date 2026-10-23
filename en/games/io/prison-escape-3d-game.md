@@ -19,6 +19,6 @@ Make a plan to escape from the prison and watch out from the guards. Draw the es
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D, 3D Games, Action, Adult, Adventure, Air, Android, Anime, Arena, Army, Avoid, Baby, Baby Hazel, Balance, Ball, Barbie, Boy, Boys, Brain, Chicken, Defense, Escape, Family, Girls, Matching, Prison, Rescue

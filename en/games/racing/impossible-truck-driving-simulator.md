@@ -21,4 +21,4 @@ You have awesome trucks, highways and obstacles to pass. You can handle this? Se
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Truck, Unity3D, WebGL
+- Tags: 3D Games, truck, Unity3D, WebGL

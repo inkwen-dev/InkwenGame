@@ -21,4 +21,4 @@ Learn 2 Fly is an adventure game where you have to teach your penguin how to fly
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Flight, fly
+- Tags: flight, fly

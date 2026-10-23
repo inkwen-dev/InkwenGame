@@ -19,6 +19,6 @@ The famous game Handless Millionaire 4 AdVenture Capitalist comes with a zombie 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Adventure, Arcade, Army, Best, Blood, Boy, Girl, HTML5, Logic, Monster, WebGL, Zombie
+- Tags: Adult, Adventure, Arcade, Army, Best, Blood, Boy, Girl, HTML5, Logic, monster, WebGL, Zombie

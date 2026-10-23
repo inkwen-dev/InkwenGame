@@ -19,6 +19,6 @@ Now, become a babysitter and take care of cute Baby Bella! You need to recover h
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Decorate, Dress Up, Educational, Fashion, Girl, Girls, Kids, Makeover, Simulation
+- Tags: Baby, Decorate, Dress Up, educational, Fashion, Girl, Girls, Kids, Makeover, Simulation

@@ -21,4 +21,4 @@ The danger is coming and the enemy's weapons are aimed at you, how do you avoid 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Avoid, Casual, Game, Games, Kid, Kids, Kill, Killing, Puzzle, Shooting, Stickman
+- Tags: 3D, 3D Games, Avoid, Casual, Game, Games, Kid, Kids, Kill, Killing, Puzzle, Shooting, stickman

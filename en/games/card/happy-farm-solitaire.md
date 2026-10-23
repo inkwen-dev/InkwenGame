@@ -21,4 +21,4 @@ Happy Farm Solitaire is a wonderful game with very nice graphics and a relaxing 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Card, Casual, Farm, Fun, Solitaire
+- Tags: Animal, Arcade, card, Casual, Farm, Fun, solitaire

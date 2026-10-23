@@ -21,4 +21,4 @@ Play this slide puzzle games of the bigfoot truck. It's include 3 images and 3 m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, HTML5, Jigsaw, Mobile, Truck
+- Tags: Car, Cars, HTML5, Jigsaw, Mobile, truck

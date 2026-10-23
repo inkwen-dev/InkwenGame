@@ -15,6 +15,6 @@ Test your memory with Memory Card Match, where vibrant, themed cards challenge y
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Memory
+- Tags: memory

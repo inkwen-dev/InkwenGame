@@ -21,4 +21,4 @@ There are 2 astronauts who need to survive in the world of skyblock, one of them
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Arena, Minecraft, Pixel
+- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Arena, Minecraft, pixel

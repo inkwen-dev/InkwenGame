@@ -19,6 +19,6 @@ Winter Tetrix Trails is a relaxing shape-filling puzzle game set in a snowy worl
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Christmas, Jigsaw, Tetris, Winter
+- Tags: block, Christmas, Jigsaw, tetris, Winter

@@ -21,4 +21,4 @@ Play Urban Race. Drive your car, dodge obstacles and avoid the police, the more 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Cars, Casual, Crazy, Race, Sports
+- Tags: 1 Player, Arcade, Cars, Casual, crazy, Race, sports

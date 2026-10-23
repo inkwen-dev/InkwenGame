@@ -21,4 +21,4 @@ Furious Road is a great and interesting game application in different beautiful 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Boy, Boys, Car, Cars, Casual, Fight, Fighting, Gun, Police, Race, Racing, War
+- Tags: Action, Arcade, Boy, Boys, Car, Cars, Casual, Fight, fighting, Gun, police, Race, Racing, War

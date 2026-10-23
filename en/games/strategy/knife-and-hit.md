@@ -19,6 +19,6 @@ Master the art of knife throwing in this addictive arcade game! Challenge yourse
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Strategy, throwing
+- Tags: strategy, throwing

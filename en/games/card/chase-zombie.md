@@ -19,6 +19,6 @@ In Zombie Chase, players navigate a chaotic world filled with the undead, using 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Android, Arcade, Best Games, Card, Casual, Hypercasual, Platform, Zombie
+- Tags: Adventure, Android, Arcade, Best Games, card, Casual, Hypercasual, Platform, Zombie

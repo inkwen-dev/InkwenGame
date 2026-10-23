@@ -19,6 +19,6 @@ Spin War is a simple war game. Zombies will come to attack player. Player can de
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Avoid, Crazy, Sword, Tower Defense, Traffic, Zombie
+- Tags: 1 Player, 2D, Action, Avoid, crazy, sword, Tower Defense, Traffic, Zombie

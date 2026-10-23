@@ -42,4 +42,4 @@ Turn on the sirens, hit the highway and start the chase. No one escapes!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Arcade, Car, Driving, Police, Racing
+- Tags: 3D, Action, Arcade, Car, Driving, police, Racing

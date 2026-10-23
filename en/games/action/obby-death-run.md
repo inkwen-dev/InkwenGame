@@ -19,6 +19,6 @@ RUN. JUMP. DODGE. SURVIVE. Three levels of pure platforming chaos. Traps are eve
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Boys, free games for your site, free games for your website, jump, Jumping, Mobile, Obstacle, Platform, roblox, run, unity games for your site, WebGL
+- Tags: 1 Player, 3D, Boys, free games for your site, free games for your website, jump, jumping, Mobile, Obstacle, Platform, roblox, run, unity games for your site, WebGL

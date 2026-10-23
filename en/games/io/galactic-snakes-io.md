@@ -19,6 +19,6 @@ Features • Addictive gameplay • Single player game mode
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Slither, Snake, Unity3D, WebGL
+- Tags: .io, .io Games, Slither, snake, Unity3D, WebGL

@@ -19,6 +19,6 @@ A skill and speed game about Among As. Our space base has been attacked, and you
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Color, Coloring, Puzzle

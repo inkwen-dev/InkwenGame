@@ -19,6 +19,6 @@ naruto free fight Season 2 game has a 3 most popular characters (naruto uzumaki 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Anime, Fight, Fighting, Street Fighting
+- Tags: Action, Anime, Fight, fighting, Street Fighting

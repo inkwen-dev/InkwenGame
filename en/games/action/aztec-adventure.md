@@ -19,6 +19,6 @@ Father and daughter who had gone to Inca remains, succeeded to take out the trea
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Action, Adventure, Brain, Fun, Funny, Girl, Platform, Puzzle

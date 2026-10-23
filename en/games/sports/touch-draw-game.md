@@ -19,6 +19,6 @@ Touch Down is a fun hyper-casual puzzle game where you draw a path to guide the 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: amazing, Baseball, Casual, Puzzle
+- Tags: amazing, baseball, Casual, Puzzle

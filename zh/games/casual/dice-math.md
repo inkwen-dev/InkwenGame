@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩, 男孩们, 有趣, 游戏, 游戏, 女孩, 女孩们, 匹配, 数学, NapTech Games, 在线
+- 标签: 男孩, 男孩们, 有趣, 游戏, 网页游戏, 女孩, 女孩, 匹配, 数学, NapTech 游戏, 在线

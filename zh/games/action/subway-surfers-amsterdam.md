@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 动作, 冒险, 街机, HTML, HTML5, 超休闲, 跳跃, 跳跃, 跑, 跑步, 地铁, 地铁跑酷, 冲浪者, Unity3D
+- 标签: 3D, 3D游戏, 动作, 冒险, 街机, HTML, HTML5, 超休闲, 跳跃, 跳跃, 跑, 奔跑, 地铁, 地铁跑酷, 冲浪者, Unity3D

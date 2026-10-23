@@ -15,6 +15,6 @@ Unleash your inner artist in Swipe Art Puzzle! Rearrange scrambled masterpieces 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Memory
+- Tags: memory

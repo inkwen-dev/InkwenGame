@@ -21,4 +21,4 @@ Color Blocks is an interesting puzzle color game. There are some filled blocks a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Brain, Color, Mobile, Puzzle
+- Tags: block, Brain, Color, Mobile, Puzzle

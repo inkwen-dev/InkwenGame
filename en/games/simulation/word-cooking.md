@@ -21,4 +21,4 @@ Play World Chef, a game to create your restaurant and cook the finest recipes to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cooking, Puzzle, Word
+- Tags: Cooking, Puzzle, word

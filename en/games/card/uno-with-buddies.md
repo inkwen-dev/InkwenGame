@@ -21,4 +21,4 @@ Uno with Buddies is an online classic card game that’s easy to pick up and imp
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Card, Casino, Classic, Multiplayer, Strategy
+- Tags: 1 Player, Arcade, card, Casino, Classic, Multiplayer, strategy

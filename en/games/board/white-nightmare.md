@@ -19,6 +19,6 @@ Simple! Find the pure white color blocks. It is very hard, you hard to see which
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Click, Color, Highscore, Pixel
+- Tags: Board, Click, Color, Highscore, pixel

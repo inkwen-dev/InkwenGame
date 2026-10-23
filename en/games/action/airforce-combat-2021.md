@@ -21,4 +21,4 @@ This is a Airforce Combat 2021 game shoot all the enemies aircraft before they s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Aircraft, Battle, Battlegrounds, Fight
+- Tags: Action, Adventure, Aircraft, battle, Battlegrounds, Fight

@@ -21,4 +21,4 @@ Super Lule vs Zombies is a fun aim and shoot game featuring our beloved hero Lul
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mario, Shooting, Superhero, Zombie
+- Tags: mario, Shooting, Superhero, Zombie

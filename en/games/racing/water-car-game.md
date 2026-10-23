@@ -21,4 +21,4 @@ Have you ever been in search of some real change in the world of car racing game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Classic, Crazy, Stunts, Supercars
+- Tags: Car, Cars, Classic, crazy, Stunts, Supercars

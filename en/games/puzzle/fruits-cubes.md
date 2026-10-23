@@ -21,4 +21,4 @@ It's Time to Crush some Delicious Fruit Cubes. The objectif of this game is very
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Block, Clicker, Color, Fruit, Fruits, Hot, Match 3, Match3, Matching
+- Tags: Best, block, Clicker, Color, Fruit, Fruits, Hot, Match 3, Match3, Matching

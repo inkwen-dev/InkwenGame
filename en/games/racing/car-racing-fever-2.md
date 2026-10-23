@@ -15,6 +15,6 @@ Feel the rush in Car Racing Fever! Navigate dynamic tracks, deftly maneuver shar
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Racing

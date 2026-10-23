@@ -15,6 +15,6 @@ Enter Baby Hazel's joyous world, where your task is to keep her smiling by tendi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: games-for-girls

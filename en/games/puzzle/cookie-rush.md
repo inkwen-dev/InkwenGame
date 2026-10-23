@@ -19,6 +19,6 @@ Here is the new innovative Cookie Rush game! Swap candies to make sweet lines of
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Candy, Girl, Girls, H5, HTML, HTML5, Hypercasual, Match 3, Match3, Matching, Mobile, Puzzle

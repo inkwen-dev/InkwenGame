@@ -21,4 +21,4 @@ WASD 移动 空格键 跳跃
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 单人游戏, 冒险, 平衡, 卡通, 收集, 无尽, 有趣, 搞笑, 高分, HTML5, 跳跃, WebGL
+- 标签: .io, .io 游戏, 单人, 冒险, 平衡, 卡通, 收集, 无尽, 有趣, 搞笑, 高分, HTML5, 跳跃, WebGL

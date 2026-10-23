@@ -21,4 +21,4 @@ Monster Dinosaur Rampage : City Attack brings an adventurous journey in the preh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Best, Boy, Boys, Cool, dino, Dinosaur, HTML5, WebGL
+- Tags: 3D, Action, Best, Boy, Boys, cool, dino, Dinosaur, HTML5, WebGL

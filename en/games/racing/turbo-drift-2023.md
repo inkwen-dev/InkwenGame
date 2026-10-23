@@ -19,6 +19,6 @@ Turbo Drift 2023 is the ultimate racing game that takes you on a thrilling journ
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Car, Cars, drift, drifting, Driving, Racing, Supercars

@@ -21,4 +21,4 @@ Sand Blocks: Clear the Lines is a fresh take on the classic Tetris formula with 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Android, Sandbox, Tetris
+- Tags: 1 Player, 2026 games, Android, Sandbox, tetris

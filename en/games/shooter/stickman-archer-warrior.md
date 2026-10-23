@@ -21,4 +21,4 @@ The archers have taken their places! An exciting fight begins with Stickman Arch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Stickman
+- Tags: 1 Player, 2D, Action, stickman

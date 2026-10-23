@@ -19,6 +19,6 @@ Cleaning the girl big home in your way the Bathroom, Bedroom, Car, Garden, Kitch
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Action, Arcade, Cartoon, Casual, Cleaning, House, Hypercasual, Unity3D

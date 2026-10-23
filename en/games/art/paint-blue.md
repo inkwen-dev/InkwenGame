@@ -21,4 +21,4 @@ Use arrows to move the ball and paint - you’ve got to color and paint your way
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Color, Coloring, Draw, Drawing, Maze
+- Tags: Ball, Color, Coloring, Draw, drawing, Maze

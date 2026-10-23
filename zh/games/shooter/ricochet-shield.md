@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, Android, 街机, 战斗, HTML5, iPad, iPhone, 移动, 射击, Unity3D, WebGL
+- 标签: 动作, 安卓, 街机, 战斗, HTML5, iPad, iPhone, 移动设备, 射击, Unity3D, WebGL

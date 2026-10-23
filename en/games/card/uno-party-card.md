@@ -21,4 +21,4 @@ Want a fun card battle with friends? Uno-Party Card brings the classic UNO card 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Classic, Multiplayer
+- Tags: card, Classic, Multiplayer

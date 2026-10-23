@@ -19,6 +19,6 @@ Are you a music enthusiast who loves playing drums? Do you want to become a drum
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Music
+- Tags: 3D, music

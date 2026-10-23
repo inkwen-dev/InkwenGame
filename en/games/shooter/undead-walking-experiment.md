@@ -21,4 +21,4 @@ Undead Walking is back! with another gameplay. Now you can use your skill to des
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Boy, Boys, HTML, HTML5, Monster, Shooter, Shooting, weapons, Zombie
+- Tags: 1 Player, Boy, Boys, HTML, HTML5, monster, Shooter, Shooting, weapons, Zombie

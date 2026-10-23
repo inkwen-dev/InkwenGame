@@ -21,4 +21,4 @@ Pixel Zombie Base Defense is a fast-paced survival game where you must defend yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Minecraft, Pixel, Shooting, Zombie
+- Tags: Arcade, Minecraft, pixel, Shooting, Zombie

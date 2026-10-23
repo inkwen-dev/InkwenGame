@@ -21,4 +21,4 @@ And there's nothing more thrilling than engaging in gunplay in visually stunning
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Best, Crazy, Gun, Shooting, Unity3D, Zombie
+- Tags: 3D Games, Best, crazy, Gun, Shooting, Unity3D, Zombie

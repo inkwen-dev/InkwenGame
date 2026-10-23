@@ -19,6 +19,6 @@ Fearing the competition, some players come up with a plan to escape the games. B
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Android, Battle, Best, Casual, Escape, Fun, Hypercasual, Mobile, Platform, Strategy, WebGL
+- Tags: 3D, Action, Android, battle, Best, Casual, Escape, Fun, Hypercasual, Mobile, Platform, strategy, WebGL

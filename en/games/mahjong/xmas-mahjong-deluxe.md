@@ -21,4 +21,4 @@ Match 2 of the same xmas mahjong tiles to remove them from the board. You only c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, HTML5, Mahjong, Mobile
+- Tags: Christmas, HTML5, mahjong, Mobile

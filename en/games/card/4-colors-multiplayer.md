@@ -21,4 +21,4 @@ Tap the card to select it
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Board, Card, Multiplayer, Puzzle
+- Tags: Arcade, Board, card, Multiplayer, Puzzle

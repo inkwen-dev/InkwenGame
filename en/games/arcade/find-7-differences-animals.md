@@ -19,6 +19,6 @@ Desktop Mouse Mobile Touch Buttons
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Difference, Educational, Game, Games, HTML5, School
+- Tags: Animal, Arcade, Difference, educational, Game, Games, HTML5, School

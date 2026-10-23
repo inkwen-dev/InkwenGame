@@ -21,4 +21,4 @@ Crazy Driver is a html5 arcade game, as your is crazy drive to avoid car crash
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Cars, Crazy, drift, Driving, endless, HTML5
+- Tags: 2D, Arcade, Cars, crazy, drift, Driving, endless, HTML5

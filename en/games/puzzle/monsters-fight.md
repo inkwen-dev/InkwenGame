@@ -21,4 +21,4 @@ In this Monsters Fight game you have 6 images of famous characters in fighting r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Fighting, HTML5, Jigsaw, Kids, Mobile, Monster, Puzzle
+- Tags: Brain, fighting, HTML5, Jigsaw, Kids, Mobile, monster, Puzzle

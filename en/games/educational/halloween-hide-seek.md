@@ -19,6 +19,6 @@ Do you like Hide and seek game? Wowescape.com has brought you a new escape game 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Cartoon, Cartoon Network, Disney, Educational, Escape, Halloween, Hidden, HTML5, Kids, Memory, Mobile, Monster, Point And Click
+- Tags: Anime, Cartoon, Cartoon Network, Disney, educational, Escape, Halloween, Hidden, HTML5, Kids, memory, Mobile, monster, Point And Click

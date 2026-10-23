@@ -21,4 +21,4 @@ Fatty Ken is a 2D platformer where you have to collect the dumbbells while avoid
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Cute, jump, Jumping, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Cute, jump, jumping, pixel, Platform, retro

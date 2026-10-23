@@ -21,4 +21,4 @@ Use your samurai skills to neatly cut the Cheese! A fun game like Fruits Ninja S
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Fruit, Fruits, Kids, Ninja, Ninjago, Slicing
+- Tags: Boy, Boys, Fruit, Fruits, Kids, ninja, Ninjago, Slicing

@@ -21,4 +21,4 @@ Step into a world of cute challenges and brain-boosting fun with Baby Taylor Mem
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Brain, Educational, Fun, Girls, Logic, Memory, Puzzle
+- Tags: Boys, Brain, educational, Fun, Girls, Logic, memory, Puzzle

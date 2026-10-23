@@ -19,6 +19,6 @@ Jump into a bright and magical world with Cute Pony Puzzle Quest, a charming jig
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Arcade, Fun, Jigsaw, Kids, Pony, Puzzle, puzzleblock, Skill

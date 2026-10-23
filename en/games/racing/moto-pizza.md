@@ -21,4 +21,4 @@ The objective of moto pizza delivery is very interesting. Your mission is to rid
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Parking, Racing
+- Tags: parking, Racing

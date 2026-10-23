@@ -19,6 +19,6 @@ Teenage Mutant Ninja Turtles: Collect & Explore is a colorful adventure based on
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, H5, Ninja, Ninjago, Race, Racing
+- Tags: Action, Adventure, H5, ninja, Ninjago, Race, Racing

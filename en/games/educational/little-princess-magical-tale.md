@@ -21,4 +21,4 @@ Looking for princess games for girls? Let's play kids' games for girls 5 to 7 ye
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Cartoon, Educational, Fun, Girl, HTML5, Kids, Magic, Mobile, Princess, Puzzle
+- Tags: Adventure, Cartoon, educational, Fun, Girl, HTML5, Kids, Magic, Mobile, Princess, Puzzle

@@ -21,4 +21,4 @@ Assassin battle mobile version this is a very simple assassin breakthrough game 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Brain, Classic, Cooking, Restaurant
+- Tags: Adventure, Brain, Classic, Cooking, restaurant

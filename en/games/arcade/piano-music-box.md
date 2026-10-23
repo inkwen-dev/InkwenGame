@@ -21,4 +21,4 @@ Join us in the enchanting world of Piano Music Box, an exceptionally enjoyable g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boys, Casual, Fun, Girls, Hypercasual, Kids, Music, School
+- Tags: Arcade, Boys, Casual, Fun, Girls, Hypercasual, Kids, music, School

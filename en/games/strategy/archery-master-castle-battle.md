@@ -40,4 +40,4 @@ Defend your castle in Archery Master - Castle Battle! Battle orcs, monsters, and
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, archery, Mobile, pve, Strategy, Tower Defense
+- Tags: Action, archery, Mobile, pve, strategy, Tower Defense

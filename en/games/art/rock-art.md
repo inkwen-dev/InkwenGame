@@ -21,4 +21,4 @@ Discover the hottest new trend in 3D coloring and DIY Rock Art. Enjoy hours of f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Coloring, Educational, Fun, HTML5, Kids, Mobile, Puzzle, Skill
+- Tags: Brain, Coloring, educational, Fun, HTML5, Kids, Mobile, Puzzle, Skill

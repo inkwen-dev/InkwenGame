@@ -19,6 +19,6 @@ Put on your sneakers, and get ready to go onto the court in this brand new baske
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Arcade, Ball, Basketball, Casual, Fun, Funny, Hypercasual, jump, Jumping, Sport, Sports, Unity3D
+- Tags: 3D, Action, Arcade, Ball, basketball, Casual, Fun, Funny, Hypercasual, jump, jumping, Sport, sports, Unity3D

@@ -21,4 +21,4 @@ In Squid Game, one of the most popular games of recent times, some contestants, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Android, Battle, Best, Casual, Escape, Fun, Hypercasual, Mobile, Platform, Strategy, WebGL
+- Tags: 3D, Action, Android, battle, Best, Casual, Escape, Fun, Hypercasual, Mobile, Platform, strategy, WebGL

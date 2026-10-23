@@ -19,6 +19,6 @@ Arabic Make up Dresser invites players to immerse themselves in the world of Mid
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Girls, HTML5, iPad, iPhone, Makeover, Mobile, Unity3D, WebGL

@@ -15,6 +15,6 @@ Engage in a thrilling pixelated showdown in Noob vs Obby Two-Player. Use cunning
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: two-player

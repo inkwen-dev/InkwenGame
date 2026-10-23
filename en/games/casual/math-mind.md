@@ -21,4 +21,4 @@ Math Mind is the perfect way to help children learn math skills the easy way!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Game, Games, HTML, HTML5, Kid, Kids, Math, Mind
+- Tags: Fun, Game, Games, HTML, HTML5, Kid, Kids, math, Mind

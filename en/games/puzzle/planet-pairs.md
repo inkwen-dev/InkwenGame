@@ -19,6 +19,6 @@ Planet Pairs is a card matching game that you memorize and match the cars for ga
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Matching, Memory, Puzzle
+- Tags: Matching, memory, Puzzle

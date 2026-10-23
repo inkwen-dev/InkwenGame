@@ -21,4 +21,4 @@ Baby Panda Dream Garden is a captivating gardening game designed for young child
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cooking, Cute, Educational, Farm, Food, Fruit, Fun, Girls, HTML5, Kids, Mobile, Panda
+- Tags: Animal, Baby, Cooking, Cute, educational, Farm, Food, Fruit, Fun, Girls, HTML5, Kids, Mobile, Panda

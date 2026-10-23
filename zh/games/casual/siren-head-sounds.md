@@ -21,4 +21,4 @@ Siren Head 的声音将让你有机会听到 Siren Head 本身发出的恐怖声
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: HTML5, kids, 移动, 怪物, 音乐
+- 标签: HTML5, 儿童, 移动设备, monster, 音乐

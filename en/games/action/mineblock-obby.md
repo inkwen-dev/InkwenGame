@@ -21,4 +21,4 @@ Minecblock Obby is an amazing parkour game that you can play totally free! Do yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Avoid, Boys, Hypercasual, Jumping, Kids, Obstacle, Physics
+- Tags: 3D, Arcade, Avoid, Boys, Hypercasual, jumping, Kids, Obstacle, Physics

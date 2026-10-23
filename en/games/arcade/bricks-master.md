@@ -21,4 +21,4 @@ How many levels can you beat? Crush bricks in crazy bursts of speed and adrenali
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Block, Bricks, jump
+- Tags: Arcade, Ball, block, Bricks, jump

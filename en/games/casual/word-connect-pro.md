@@ -15,6 +15,6 @@ Dive into an addictive puzzle adventure with Word Connect Pro. Swipe to form wor
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Word
+- Tags: word

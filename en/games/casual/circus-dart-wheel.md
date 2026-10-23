@@ -21,4 +21,4 @@ In this game, you are a circus artist, your task is to throw Darts at the target
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boy, Boys, Casual, Cool, HTML5, Hypercasual, WebGL
+- Tags: 2D, Boy, Boys, Casual, cool, HTML5, Hypercasual, WebGL

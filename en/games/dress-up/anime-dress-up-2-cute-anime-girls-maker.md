@@ -19,6 +19,6 @@ Anime Dress Up 2 Cute Anime Girls Make2 is the latest version of Anime Dress Up 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Girl, Princess

@@ -21,4 +21,4 @@ Are you ready for driving on the sky road to perform impossible car stunt. Get b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, drift, drifting, jump, Jumping, Race, Racing, Supercars
+- Tags: Car, Cars, drift, drifting, jump, jumping, Race, Racing, Supercars

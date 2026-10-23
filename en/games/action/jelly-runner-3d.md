@@ -19,6 +19,6 @@ Jelly Runner 3D is a free online cartoon running game for boys played on PuzzleG
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Avoid, Boy, Brain, Fun, HTML5, Jelly, Kids, Math, Number, Obstacle, Online, Puzzle, running, Skill
+- Tags: 3D, Android, Avoid, Boy, Brain, Fun, HTML5, Jelly, Kids, math, Number, Obstacle, Online, Puzzle, running, Skill

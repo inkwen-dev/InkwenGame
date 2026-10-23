@@ -21,4 +21,4 @@ Stickman Clicker is a clicker game where you help a stickman become a billionair
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, idle, Management, Mobile, Mouse, Stickman
+- Tags: Clicker, idle, management, Mobile, Mouse, stickman

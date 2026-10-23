@@ -19,6 +19,6 @@ To show how good your visual memory is. The task is to remember and then open id
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Casual, Fun, Hypercasual, Kids, Memory, Mobile, Skill
+- Tags: 1 Player, Animal, Casual, Fun, Hypercasual, Kids, memory, Mobile, Skill

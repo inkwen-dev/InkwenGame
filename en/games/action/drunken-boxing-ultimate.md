@@ -21,4 +21,4 @@ Drunken Boxing series is here with the Ultimate version. Arenas with 3d ambiance
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, 3D Games, Boxing, Fight, Fighting, Fun, Funny
+- Tags: 2 Player, 2 Player Games, 3D, 3D Games, Boxing, Fight, fighting, Fun, Funny

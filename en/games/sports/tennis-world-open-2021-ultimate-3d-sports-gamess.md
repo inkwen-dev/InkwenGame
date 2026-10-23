@@ -21,4 +21,4 @@ Tennis World Open is here! Don't hesitate and enjoy the real atmosphere of this 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Game, Games, Sport, Sports, Tennis
+- Tags: Game, Games, Sport, sports, Tennis

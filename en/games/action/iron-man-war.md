@@ -19,6 +19,6 @@ Superhero war games are an amazing way to perform a secret agent duty. Many flyi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fighting, Superhero, War
+- Tags: fighting, Superhero, War

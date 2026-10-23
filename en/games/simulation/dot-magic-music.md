@@ -21,4 +21,4 @@ Dot Magic Music is a music arcade game, which tests your hand speed and music rh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Hypercasual, Magic, Music, Simulation
+- Tags: 2D, Arcade, Hypercasual, Magic, music, Simulation

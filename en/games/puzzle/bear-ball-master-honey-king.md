@@ -19,6 +19,6 @@ Embark on an epic puzzle journey in Bear Ball Master: Honey King. Join a lovable
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, 2D, Adventure, Ball, Ballon, Bubble Shooter, Kids, Match 3, Shooting

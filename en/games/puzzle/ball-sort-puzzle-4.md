@@ -15,6 +15,6 @@ Immerse yourself in Ball Sort Puzzle, a captivating game where your strategic sk
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Puzzle

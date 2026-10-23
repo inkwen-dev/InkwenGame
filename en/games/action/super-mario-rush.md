@@ -21,4 +21,4 @@ Super Mario Rush, run with Mario and his friends to rescue princess. Tap the scr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Classic, Mario, Platform, Super
+- Tags: 1 Player, Arcade, Classic, mario, Platform, Super

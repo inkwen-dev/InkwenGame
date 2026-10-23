@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 逃脱, Mentolatux, 警察, 技巧, 潜行, Unity3D, WebGL
+- 标签: 单人, 逃脱, Mentolatux, 警察, 技能, 潜行, Unity3D, WebGL

@@ -19,6 +19,6 @@ A funny race game, Draw your legs to win the race! Make sure that any drawing wi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Draw, Drawing, Hypercasual, Race, Racing, Super, WebGL
+- Tags: Draw, drawing, Hypercasual, Race, Racing, Super, WebGL

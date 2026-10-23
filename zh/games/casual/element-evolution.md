@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, Android, 点击器, 农场, H5, HTML, HTML5, 超休闲, 孩子, 孩子们, 魔法, 匹配, 移动设备, 植物, 放松
+- 标签: 2D, 安卓, 点击器, 农场, H5, HTML, HTML5, 超休闲, 儿童, 儿童, 魔法, 匹配, 移动设备, 植物, 放松

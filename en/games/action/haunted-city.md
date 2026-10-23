@@ -19,6 +19,6 @@ Haunted city is a horror fighting game, you can play story mode and player 1 vs 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 3D, Fighting
+- Tags: 2 Player, 3D, fighting

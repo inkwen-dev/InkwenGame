@@ -21,4 +21,4 @@ This time we should face the challenge to take care of the mommys pregnancy days
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cute, Doctor, Dress Up, Educational, Fashion, Girl, Girls, Kid, Kids, Makeover, Simulation, Surgery
+- Tags: Baby, Cute, Doctor, Dress Up, educational, Fashion, Girl, Girls, Kid, Kids, Makeover, Simulation, surgery

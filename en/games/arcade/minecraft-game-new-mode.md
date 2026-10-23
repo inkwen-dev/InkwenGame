@@ -21,4 +21,4 @@ Minecraft Game New Mode 2021 Minecraft Remake 2021 Classic Minecraft game 2021! 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Craft, Crafting, Crazy, Creation, Mind, Mine, Minecraft, Miner, Minion
+- Tags: Craft, Crafting, crazy, Creation, Mind, Mine, Minecraft, Miner, Minion

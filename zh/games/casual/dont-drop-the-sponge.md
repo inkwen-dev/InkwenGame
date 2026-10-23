@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 休闲, 点击, 点击器, 无尽, 家庭, 女孩们, HTML, HTML5, 超休闲, 孩子们
+- 标签: 休闲, 点击, 点击器, 无尽, 家庭, 女孩, HTML, HTML5, 超休闲, 儿童

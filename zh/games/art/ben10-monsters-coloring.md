@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 安卓, Ben 10, 卡通, 涂色, 有趣, HTML5, 儿童, 学校
+- 标签: 安卓, Ben 10, 卡通, 着色, 有趣, HTML5, 儿童, 学校

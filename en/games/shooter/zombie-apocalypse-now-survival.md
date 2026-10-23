@@ -21,4 +21,4 @@ Popular Zombie Survival 3D - Latest Humans Shooting Game, all of you are a termi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Best, Crazy, Gun, Multiplayer, Shooter, Shooting, Skill, Unity3D, WebGL, Zombie
+- Tags: 3D Games, Action, Best, crazy, Gun, Multiplayer, Shooter, Shooting, Skill, Unity3D, WebGL, Zombie

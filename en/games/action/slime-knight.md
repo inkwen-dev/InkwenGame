@@ -21,4 +21,4 @@ Slime Knight is an arcade-platform game where you have to explore an ancient cas
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Pixel, Platform, Retro
+- Tags: Action, Arcade, pixel, Platform, retro

@@ -15,6 +15,6 @@ Navigate intricate mazes in Eat All, collecting fruits while dodging devious blo
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Snake
+- Tags: snake

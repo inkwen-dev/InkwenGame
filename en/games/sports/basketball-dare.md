@@ -19,6 +19,6 @@ The popular Basketball Dare is back with 40 new levels and improved game play. P
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Boys, HTML5, Mobile, Puzzle, Sports
+- Tags: basketball, Boys, HTML5, Mobile, Puzzle, sports

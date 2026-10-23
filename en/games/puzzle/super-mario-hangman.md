@@ -19,6 +19,6 @@ Fun Super Mario Hangman game suitable for all ages. Your goal is to guess the wo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boys, Cartoon, HTML5, Hypercasual, Kids, Mario, Mobile, School, Skill, Word
+- Tags: Android, Boys, Cartoon, HTML5, Hypercasual, Kids, mario, Mobile, School, Skill, word

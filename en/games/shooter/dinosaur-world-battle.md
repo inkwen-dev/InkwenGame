@@ -19,6 +19,6 @@ This is a DINOSAUR theme of action shooting game, the player will control a powe
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Battle, Battlegrounds, Blood, Boy, Boys, Dinosaur, Fighting, H5, Shoot 'Em Up
+- Tags: 3D Games, Action, battle, Battlegrounds, Blood, Boy, Boys, Dinosaur, fighting, H5, Shoot 'Em Up

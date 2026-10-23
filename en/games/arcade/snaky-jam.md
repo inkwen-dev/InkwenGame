@@ -21,4 +21,4 @@ Snaky Jam is a colorful 3D sorting puzzle where every move makes room for the ne
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, Color, Logic, Matching, Puzzle, Snake
+- Tags: 3D, Arcade, Color, Logic, Matching, Puzzle, snake

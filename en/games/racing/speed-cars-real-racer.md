@@ -21,4 +21,4 @@ Fast cars racing on the asphalt, drift and drag driving with no regard for death
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Baby, Car, Cars, city, Game, Games, Parking, Race, Racing
+- Tags: Action, Adventure, Baby, Car, Cars, city, Game, Games, parking, Race, Racing

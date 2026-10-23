@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 小球, 点击器, 酷炫, 行星
+- 标签: 球, 点击器, 酷, 星球

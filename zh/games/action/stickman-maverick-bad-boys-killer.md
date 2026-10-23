@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 冒险, 战斗, 击杀, Stickman, 战争, 武器
+- 标签: 动作, 冒险, 战斗, 杀戮, 木偶人, 战争, 武器

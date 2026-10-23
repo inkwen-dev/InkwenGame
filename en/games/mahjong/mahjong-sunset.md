@@ -21,4 +21,4 @@ Relaxed sunset atmosphere with your favorite board game. 16 boards to pick from.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Classic, Mahjong
+- Tags: Board, Classic, mahjong

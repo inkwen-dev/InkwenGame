@@ -21,4 +21,4 @@ The addictive &amp; FREE hidden objects puzzle game for you to train your brain 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Hypercasual, Puzzle, Strategy
+- Tags: Arcade, Casual, Hypercasual, Puzzle, strategy

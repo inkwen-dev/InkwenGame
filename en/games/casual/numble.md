@@ -15,6 +15,6 @@ Pop balloons to cleverly add up numbers and hit the target without exceeding it.
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Math
+- Tags: math

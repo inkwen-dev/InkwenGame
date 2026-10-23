@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 装扮, 乐趣, 搞笑, 游戏, 女孩, 女孩, HTML, HTML5, 改造
+- 标签: 装扮, 有趣, 搞笑, 游戏, 女孩, 女孩, HTML, HTML5, 改造

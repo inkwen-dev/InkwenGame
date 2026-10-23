@@ -19,6 +19,6 @@ Join up to 100 players in this hilarious viral meme-inspired multiplayer mayhem!
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: airplane, Avoid, Battle, Collecting, Escape, fly, Helicopter, jump, run
+- Tags: airplane, Avoid, battle, Collecting, Escape, fly, helicopter, jump, run

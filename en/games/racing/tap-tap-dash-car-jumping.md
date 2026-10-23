@@ -21,4 +21,4 @@ An Amazing Game Full of Fun and Enjoy. Try to Score More ad More in this Arcade 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cars, Fun, Game, Jumping, Puzzle
+- Tags: Cars, Fun, Game, jumping, Puzzle

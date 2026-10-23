@@ -21,4 +21,4 @@ Princess Anne opened her own tattoo parlor. Even though this place has only been
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adult, Barbie, Draw, Drawing, Games, Girl, Girls, Makeover
+- Tags: 3D, 3D Games, Adult, Barbie, Draw, drawing, Games, Girl, Girls, Makeover

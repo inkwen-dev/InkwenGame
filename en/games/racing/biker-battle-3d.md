@@ -21,4 +21,4 @@ Biker Battle is a fighting game where you both ride and fight on the roads. Neut
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Battle, Bike, Race, Racing, War
+- Tags: 3D, 3D Games, battle, bike, Race, Racing, War

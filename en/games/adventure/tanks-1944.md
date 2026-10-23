@@ -19,6 +19,6 @@ Tanks 1944 is an exciting game about realistic tanks. battles. Choose a tank, le
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, cannon, Tank, Tanks, War
+- Tags: Action, cannon, Tank, tanks, War

@@ -21,4 +21,4 @@ Castle Cards - Memory Puzzle Game is an exciting and brain-training card-matchin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Card, Castle, Casual, free games for your site, free games for your website, html5 games, Matching, Memory, Mind, Puzzle, Relaxation, Skill
+- Tags: Arcade, Brain, card, Castle, Casual, free games for your site, free games for your website, html5 games, Matching, memory, Mind, Puzzle, Relaxation, Skill

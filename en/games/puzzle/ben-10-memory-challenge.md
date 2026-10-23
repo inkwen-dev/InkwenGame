@@ -21,4 +21,4 @@ Ben 10 Memory Challenge is free online game suitable for all Ben 10 lovers. The 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Ben 10, Boys, Cartoon, Fun, Girls, HTML5, Kids, Memory
+- Tags: Android, Ben 10, Boys, Cartoon, Fun, Girls, HTML5, Kids, memory

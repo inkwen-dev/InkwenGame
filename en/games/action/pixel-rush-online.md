@@ -21,4 +21,4 @@ Control the pixel boy rush to go through a challenging obstacle course. Pixel Bo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Avoid, Boy, Kid, Obstacle, Pixel, run, running
+- Tags: 3D, 3D Games, Arcade, Avoid, Boy, Kid, Obstacle, pixel, run, running

@@ -21,4 +21,4 @@ You are a cat and you have to save yourself from the rat: Play with the touch sc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cat, Highscore, jump, Jumping
+- Tags: Cat, Highscore, jump, jumping

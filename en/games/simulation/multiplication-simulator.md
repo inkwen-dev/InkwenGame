@@ -21,4 +21,4 @@ Turning into the game, a field with apples opens in front of you, respectively, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kids, Math, Puzzle
+- Tags: Kids, math, Puzzle

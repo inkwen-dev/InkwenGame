@@ -19,6 +19,6 @@ Baby Shark Coloring is a free online coloring and kids game! In this game you wi
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Color, Coloring, Fun, HTML5, Kids, Mobile, Puzzle, Shark

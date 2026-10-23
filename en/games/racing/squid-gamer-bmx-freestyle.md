@@ -21,4 +21,4 @@ Large ramps and amazing airs are accessible, or you can learn how to skate aroun
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Skill, Sports, Unity3D, WebGL
+- Tags: Driving, Skill, sports, Unity3D, WebGL

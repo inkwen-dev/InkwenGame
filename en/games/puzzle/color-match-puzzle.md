@@ -19,6 +19,6 @@ A color-matching puzzle game where you pick tiles and match three of the same co
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Casual, Color, Match 3, Puzzle

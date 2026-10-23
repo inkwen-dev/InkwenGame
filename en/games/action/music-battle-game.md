@@ -19,6 +19,6 @@ Step into the world of music and rhythm with Music Battle Game, an exciting and 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, amazing, Casual, Fun, Kids, Music
+- Tags: 2026 games, amazing, Casual, Fun, Kids, music

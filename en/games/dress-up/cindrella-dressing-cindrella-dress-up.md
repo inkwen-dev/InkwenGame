@@ -19,6 +19,6 @@ The beautiful princess was enchanted by a malevolent fairy. Only a prince can br
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dancing, Dress Up, Family, Fashion, Princess

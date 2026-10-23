@@ -21,4 +21,4 @@ Meet popsy - surprise dolls in extraordinary images of fairy monsters. But our m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dress Up, Girl, Girls, Makeover, Monster, Princess
+- Tags: Dress Up, Girl, Girls, Makeover, monster, Princess

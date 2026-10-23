@@ -28,4 +28,4 @@ Each level becomes more challenging with tricky paths, ice blocks, and clever pu
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing, Logic, Puzzle, Snake
+- Tags: drawing, Logic, Puzzle, snake

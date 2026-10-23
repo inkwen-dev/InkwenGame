@@ -30,4 +30,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 男孩, 男孩们, 马里奥, 超级英雄, Unity3D
+- 标签: 3D, 3D游戏, 男孩, 男孩们, mario, 超级英雄, Unity3D

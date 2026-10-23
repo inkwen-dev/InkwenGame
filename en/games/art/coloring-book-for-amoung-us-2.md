@@ -19,6 +19,6 @@ Beautiful, cool and cute Among Us coloring pages with glitter, 1000+ beautiful G
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Clicker, Color, Coloring, Girls

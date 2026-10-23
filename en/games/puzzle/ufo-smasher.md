@@ -21,4 +21,4 @@ UFO Smasher Ninja escape Hero Rescue Ball Blaster Dont Crash Zombies Night game 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Bubble Shooter, Fantasy, Interactive, run, running, Shoot, Shoot 'Em Up, Shooter, Shooting, Truck
+- Tags: Action, Adventure, Bubble Shooter, Fantasy, Interactive, run, running, Shoot, Shoot 'Em Up, Shooter, Shooting, truck

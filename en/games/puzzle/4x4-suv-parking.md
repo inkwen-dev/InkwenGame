@@ -19,6 +19,6 @@ Keyboard Control
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 8 Ball Pool, Action, Arcade, Army, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Game, Games, Mario, Simulation, Simulator, Supercars, Truck
+- Tags: .io Games, 8 Ball Pool, Action, Arcade, Army, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Game, Games, mario, Simulation, Simulator, Supercars, truck

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 冒险, 男孩, 点击, 点击器, 收集, 收藏, Dinosaur, 有趣, 搞笑, 女孩, HTML, HTML5, 儿童, 儿童, 新
+- 标签: 2D, 冒险, 男孩, 点击, 点击器, 收集, 收藏, Dino, 有趣, 搞笑, 女孩, HTML, HTML5, 儿童, 儿童, 新游戏

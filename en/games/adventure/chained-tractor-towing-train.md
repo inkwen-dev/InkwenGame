@@ -19,6 +19,6 @@ Did you ever drive a tractor on the railway? Now you can find out how it is in T
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Train, Unity3D, WebGL

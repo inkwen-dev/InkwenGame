@@ -19,6 +19,6 @@ Stretch the stick the more you can to reach and walk on the platforms. Beware! I
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Halloween, HTML, HTML5, mapi games, Monster, Stickman
+- Tags: Arcade, Casual, Halloween, HTML, HTML5, mapi games, monster, stickman

@@ -19,6 +19,6 @@ Uno Super Heroes brings classic Uno gameplay into a vibrant world of superheroes
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Card, HTML5, iPad, iPhone, Mobile, Puzzle, Unity3D, WebGL
+- Tags: Android, Arcade, card, HTML5, iPad, iPhone, Mobile, Puzzle, Unity3D, WebGL

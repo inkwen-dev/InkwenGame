@@ -21,4 +21,4 @@ Word Learner is a brain puzzle game for toddlers and kids. You can play by categ
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Clicker, HTML5, Kids, Mobile, Puzzle, Word
+- Tags: Arcade, Clicker, HTML5, Kids, Mobile, Puzzle, word

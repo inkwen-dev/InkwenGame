@@ -21,4 +21,4 @@ The most popular and kids' all-time favorite cleaning game Sweet Baby Girl Clean
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cleaning, Cute, Decorate, Dress Up, Educational, Girl, Girls, Kids, Simulation
+- Tags: Baby, Cleaning, Cute, Decorate, Dress Up, educational, Girl, Girls, Kids, Simulation

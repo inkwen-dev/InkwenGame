@@ -19,6 +19,6 @@ Xmas Matching is a delightful, holiday-themed memory puzzle game designed for fr
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: amazing, Brain, Christmas, Fun, Matching, Memory, Mind, Multiplayer, Santa, Santa Claus
+- Tags: amazing, Brain, Christmas, Fun, Matching, memory, Mind, Multiplayer, Santa, Santa Claus

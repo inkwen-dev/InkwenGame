@@ -21,4 +21,4 @@ The main objective is to complete all mathematical equations on the board by dra
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, Kids, Logic, Math, Mobile, Number, Puzzle
+- Tags: Brain, educational, Kids, Logic, math, Mobile, Number, Puzzle

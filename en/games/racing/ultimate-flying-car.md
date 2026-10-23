@@ -21,4 +21,4 @@ Do you want to take fast rides and flights on the long streets of the city? Ulti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Driving, Flight, fly, Racing, Stunts, Supercars
+- Tags: 2 Player, 2 Player Games, Driving, flight, fly, Racing, Stunts, Supercars

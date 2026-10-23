@@ -19,6 +19,6 @@ Play with your friends and family. Up to 4 players can play at a time. Supported
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Multiplayer, Puzzle

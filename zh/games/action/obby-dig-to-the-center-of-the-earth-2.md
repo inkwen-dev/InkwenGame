@@ -21,4 +21,4 @@ PC端 WASD - 角色控制 右键鼠标 - 摄像机旋转 左键鼠标 - 获得�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 动作, 动物, 最佳, 脑残, 荒野乱斗, 卡通, 点击器, 龙, GTA, 我的世界, roblox, 角色扮演, 斯基比迪
+- 标签: 3D游戏, 动作, 动物, 最佳, 脑残, 混战, 卡通, 点击器, 龙, gta, 我的世界, Roblox, rpg, Skibidi

@@ -21,4 +21,4 @@ What good habits do you know? Don't be picky about food, brush your teeth after 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cleaning, Cooking, Cute, Educational, Family, Food, Fun, Girls, HTML5, Kids, Makeover, Mobile
+- Tags: Baby, Cleaning, Cooking, Cute, educational, Family, Food, Fun, Girls, HTML5, Kids, Makeover, Mobile

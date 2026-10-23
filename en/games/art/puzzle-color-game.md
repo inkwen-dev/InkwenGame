@@ -21,4 +21,4 @@ In this game, your goal is to destroy all the blocks using your brain. Move a bl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Brain, Color, Coloring, Mind, Puzzle, Relaxation
+- Tags: block, Brain, Color, Coloring, Mind, Puzzle, Relaxation

@@ -21,4 +21,4 @@ Rummy 多人游戏是一款 HTML5 卡牌游戏。享受这款经典 Rummy 卡牌
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人游戏, 棋盘, 卡片, 策略
+- 标签: 双人游戏, 棋盘, 卡牌, 策略

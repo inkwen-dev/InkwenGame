@@ -21,4 +21,4 @@ Heroes Battle features: - multiple levels - upgrades - good graphics
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, WebGL
+- Tags: battle, WebGL

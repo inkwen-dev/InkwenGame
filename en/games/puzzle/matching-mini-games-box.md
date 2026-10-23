@@ -19,6 +19,6 @@ Matching Mini Games Box is an ultra-casual triple puzzle game. If youre tired of
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Boxing, Brain, Fruit, Kids, Mahjong, Match 3, Strategy
+- Tags: Ball, Boxing, Brain, Fruit, Kids, mahjong, Match 3, strategy

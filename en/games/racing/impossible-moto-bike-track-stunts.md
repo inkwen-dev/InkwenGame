@@ -19,6 +19,6 @@ In this Impossible Moto Bike Track Stunts, you must have a real motorbike stunt 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Driving, HTML5, Racing, Simulator, WebGL

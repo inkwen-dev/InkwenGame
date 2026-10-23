@@ -15,6 +15,6 @@ In TNT Clicker, dive into a world of vibrant clicking chaos where your rapid tap
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Clicker

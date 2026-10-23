@@ -21,4 +21,4 @@ Move the colored blocks out of the exits of the same color. The game has multipl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Block, Hypercasual, Puzzle
+- Tags: Best Games, block, Hypercasual, Puzzle

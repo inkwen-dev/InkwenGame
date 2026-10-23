@@ -21,4 +21,4 @@ Battle of Aliens is strategy unit deploy game, you need to defeat the opponent b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Alien, Battle, Card, Clash, Timing
+- Tags: Alien, battle, card, Clash, Timing

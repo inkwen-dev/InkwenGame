@@ -26,4 +26,4 @@ Featuring 5 difficulty modes from Novice to Symphony, stunning 3D graphics, and 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: keyboard, Music
+- Tags: keyboard, music

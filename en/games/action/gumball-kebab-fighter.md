@@ -19,6 +19,6 @@ It's possible now to play Gumball: Kebab Fighter in your web browser for free at
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Arcade, Best, Boxing, Boys, Brain, Cartoon, Cartoon Network, Family, Fight, Fighting, Fun, Girls, Kids, Street Fighting
+- Tags: 1 Player, Action, Arcade, Best, Boxing, Boys, Brain, Cartoon, Cartoon Network, Family, Fight, fighting, Fun, Girls, Kids, Street Fighting

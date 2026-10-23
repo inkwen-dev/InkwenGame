@@ -21,4 +21,4 @@ Hey truckers welcome to new Impossible Truck Tracks Simulator game where you can
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boy, Driving, HTML5, Stunts, Truck, WebGL
+- Tags: 3D, Boy, Driving, HTML5, Stunts, truck, WebGL

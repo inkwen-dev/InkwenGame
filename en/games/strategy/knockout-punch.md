@@ -21,4 +21,4 @@ Swipe or use arrow keys to Punch everyone fall them out have fun
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Hypercasual, Punch, Strategy
+- Tags: Casual, Hypercasual, Punch, strategy

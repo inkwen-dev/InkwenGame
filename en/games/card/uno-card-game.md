@@ -21,4 +21,4 @@ Uno Friends is the classic card game that’s easy to pick up and impossible to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Arcade, Card, Casino, Casual, Classic, Strategy, Unity3D
+- Tags: .io, .io Games, Arcade, card, Casino, Casual, Classic, strategy, Unity3D

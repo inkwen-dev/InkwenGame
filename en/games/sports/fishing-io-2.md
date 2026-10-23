@@ -15,6 +15,6 @@ Dive into the depths with Fishing.io! Strategically upgrade your gear to catch a
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Sports
+- Tags: sports

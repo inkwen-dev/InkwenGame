@@ -44,4 +44,4 @@ Stack boosts like x2 Damage, Auto-Merge and Time Jumps, and Ascend to restart st
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, cats, cozy, Fighting, idle, merge, Puzzle, Skill
+- Tags: animals, cats, cozy, fighting, idle, merge, Puzzle, Skill

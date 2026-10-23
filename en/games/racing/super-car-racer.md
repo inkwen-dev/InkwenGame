@@ -19,6 +19,6 @@ Super Car Racer is an action-packed racing game about high-speed racing and inte
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Car, Hypercasual, Online, Race, Racing

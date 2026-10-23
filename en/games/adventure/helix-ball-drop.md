@@ -19,6 +19,6 @@ Tap screen Helix Ball Drop and avoid obstacles. Helix Ball Drop with crazy ball 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Ninja, Rabbit
+- Tags: 1 Player, Adventure, ninja, Rabbit

@@ -21,4 +21,4 @@ Mouse control lets the ninja climb up, avoid the traps and see how many points y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boy, H5, Ninja
+- Tags: 2D, Boy, H5, ninja

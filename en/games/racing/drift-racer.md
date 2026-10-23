@@ -21,4 +21,4 @@ Features • Customizable car; • 5 amazing tracks for drifting; • Cool graph
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: drift, drifting, Police, Race
+- Tags: drift, drifting, police, Race

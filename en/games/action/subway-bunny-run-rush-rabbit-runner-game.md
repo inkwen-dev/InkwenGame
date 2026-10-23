@@ -19,6 +19,6 @@ Super Rabbit run!!! is a simple and addictive adventurous run game with simple c
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, HTML5, Hypercasual, Physics, running, Super

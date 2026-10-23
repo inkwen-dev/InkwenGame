@@ -19,6 +19,6 @@ Magic Battle Online is an epic online battle with different elements and abiliti
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Fantasy, Fight, Fighting, HTML, HTML5, Magic, Minecraft, MMO, Multiplayer, Online, PvP, voxel
+- Tags: 3D, 3D Games, Fantasy, Fight, fighting, HTML, HTML5, Magic, Minecraft, MMO, Multiplayer, Online, PvP, voxel

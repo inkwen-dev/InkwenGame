@@ -21,4 +21,4 @@ Sharpen your mind across exciting levels. Answer a variety of questions from dif
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, Quiz, trivia
+- Tags: Brain, educational, Quiz, trivia

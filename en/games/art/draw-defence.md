@@ -21,4 +21,4 @@ Draw Defence is a simple tower defense game. There are enemies that attack your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Brain, Defense, Drawing, H5, HTML, HTML5, Kids, Online, Puzzle, Strategy, Sword, War
+- Tags: 3D, 3D Games, Brain, Defense, drawing, H5, HTML, HTML5, Kids, Online, Puzzle, strategy, sword, War

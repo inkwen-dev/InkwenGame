@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D 游戏, 动作, 疯狂, 搞笑, H5, PvP, 餐厅, 跑, 跑步
+- 标签: 3D游戏, 动作, 疯狂, 搞笑, H5, PvP, 餐厅, 跑, 奔跑

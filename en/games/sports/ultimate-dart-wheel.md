@@ -19,6 +19,6 @@ Darts Club is a PvP multiplayer game with a collectible twist! Increase your dar
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Game, html5 games, Multiplayer, onetouch, Shooting, Skill, spin-wheel, throwing, Timing, wheel

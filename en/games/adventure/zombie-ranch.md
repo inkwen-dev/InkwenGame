@@ -19,6 +19,6 @@ Zombies against Monsters in the jungle and farms! - Kill or be killed! It’s on
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Killing, Monster, Zombie
+- Tags: Action, Adventure, Killing, monster, Zombie

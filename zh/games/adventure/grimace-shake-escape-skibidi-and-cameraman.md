@@ -21,4 +21,4 @@ WASD - 玩家移动 E - 使用 G - 扔掉物品 C - 坐下/站起来 Q - 逃离�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 动作, 冒险, 敌人, 游戏, 游戏, Grimace, Grimace Shake, 恐怖, HTML5, Skibidi, Skibidi 洗手间, Unity3D
+- 标签: 3D, 3D游戏, 动作, 冒险, 敌方, 游戏, 网页游戏, 格里马斯, 格里马斯奶昔, 恐怖, HTML5, Skibidi, skibidi-toilet, Unity3D

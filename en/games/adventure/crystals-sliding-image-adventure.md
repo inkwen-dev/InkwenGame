@@ -15,6 +15,6 @@ Dive into Crystals Sliding Image Adventure, where you'll unravel captivating ima
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Brain

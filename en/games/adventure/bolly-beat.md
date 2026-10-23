@@ -21,4 +21,4 @@ Dance to the beat of the roaring Bollywood tunes using the bouncy ball. Help him
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adult, Adventure, Baby, Click, Clicker, HTML, HTML5, Kid, Kids, Music, Point And Click, Unity3D
+- Tags: 3D, 3D Games, Adult, Adventure, Baby, Click, Clicker, HTML, HTML5, Kid, Kids, music, Point And Click, Unity3D

@@ -23,4 +23,4 @@ Penalty Shooter is an immersive football penalty game that perfectly captures th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Boys, penalty, Skill, Soccer, Sports
+- Tags: Action, Boys, penalty, Skill, Soccer, sports

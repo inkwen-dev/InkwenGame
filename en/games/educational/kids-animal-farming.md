@@ -21,4 +21,4 @@ Kids Animal Farm is an educational game. I believe you must have dreamed of owni
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational
+- Tags: educational

@@ -15,6 +15,6 @@ Indulge in a sugar-coated adventure with Cake Rush Saga! Match three or more del
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Match 3

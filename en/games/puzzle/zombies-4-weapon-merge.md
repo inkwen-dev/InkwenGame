@@ -19,6 +19,6 @@ Zombies are swarming. Are you ready to fight back? Zombies 4 &ndash; Weapon Merg
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Fight, Shoot, Strategy
+- Tags: Brain, Fight, Shoot, strategy

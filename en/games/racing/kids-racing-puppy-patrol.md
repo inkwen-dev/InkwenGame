@@ -19,6 +19,6 @@ Street racing with puppy patrol for kids. Taxi driver, police and fireman For an
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Games, Kids, Online, Race, Racing, Supercars

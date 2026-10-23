@@ -21,4 +21,4 @@ Get ready for a fast-paced flying challenge! In Flight Bird, your mission is sim
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Bird, Casual, Flight
+- Tags: 2D, Arcade, Bird, Casual, flight

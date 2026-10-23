@@ -21,4 +21,4 @@ Pixel Cat Mahjong is an enigmatic mahjong game. However, instead of the usual ti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cat, Collecting, Girl, Mahjong, Pixel, Puzzle, Retro
+- Tags: Animal, Cat, Collecting, Girl, mahjong, pixel, Puzzle, retro

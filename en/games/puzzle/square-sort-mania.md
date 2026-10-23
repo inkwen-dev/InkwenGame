@@ -19,6 +19,6 @@ Square Sort Mania is a fresh, addictive hybrid casual puzzle game. Players place
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, amazing, Block, Match 3, Matching, sort, sorting
+- Tags: 2D, amazing, block, Match 3, Matching, sort, sorting

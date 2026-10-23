@@ -19,6 +19,6 @@ Fit Balls is a fun and addictive puzzle game. Pour the ball into the jar,Put all
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Ball, Puzzle

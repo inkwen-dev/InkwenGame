@@ -19,6 +19,6 @@ Have fun with this new game Friday Night Funkin vs Noob 'a new game in this fabu
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, kiz10, Minecraft, Music
+- Tags: Casual, kiz10, Minecraft, music

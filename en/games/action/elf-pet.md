@@ -19,6 +19,6 @@ This is a casual duel game with the theme of elves fighting. Players can freely 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Boy, Boys, Casual, Fight, Fighting, Fun, Funny, Game, Games, Girl, Girls, Google, H5, HTML5, Hypercasual, Kid, Kids, Launch, Magic
+- Tags: 3D Games, Action, Boy, Boys, Casual, Fight, fighting, Fun, Funny, Game, Games, Girl, Girls, Google, H5, HTML5, Hypercasual, Kid, Kids, Launch, Magic

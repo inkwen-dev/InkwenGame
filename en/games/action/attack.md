@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Army, Blood, Classic, Fight, Fighting, Fun, Funny, Girl, Girls, Gun, Kid, Kids, Kill, Killing, Robot, run, running, Skill, Skills, subway, Subway Surfers, Super, Superhero, War
+- Tags: Action, Adventure, Army, Blood, Classic, Fight, fighting, Fun, Funny, Girl, Girls, Gun, Kid, Kids, Kill, Killing, Robot, run, running, Skill, Skills, subway, Subway Surfers, Super, Superhero, War

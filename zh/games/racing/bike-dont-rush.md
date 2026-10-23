@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 摩托车, 驾驶, 超休闲, 移动设备, 切片, 特技, Unity3D
+- 标签: 3D, 自行车, 驾驶, 超休闲, 移动设备, 切割, 特技, Unity3D

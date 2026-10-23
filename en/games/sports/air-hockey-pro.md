@@ -21,4 +21,4 @@ Air hockey is an exciting arcade game. Control the blue paddle with the mouse. O
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, hockey, Sport, Sports
+- Tags: Arcade, hockey, Sport, sports

@@ -19,6 +19,6 @@ Blast your way through the galaxy! Pilot your ship in this explosive Arcanoid-st
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ai Games, Arcade, Arkanoid, Gun, HTML5, Mentolatux

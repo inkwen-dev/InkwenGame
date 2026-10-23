@@ -19,6 +19,6 @@ Would you like to make up? How many cosmetic brands do you know? In this game, t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Collecting, Kids, Mobile, Platform, Skill, Stack

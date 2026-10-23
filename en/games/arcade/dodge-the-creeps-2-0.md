@@ -21,4 +21,4 @@ This is a simple 2D arcade game. In this game your character must move and avoid
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Cool, Escape, Fun, Levels, survival, Unity3D, WebGL
+- Tags: 2D, Arcade, cool, Escape, Fun, Levels, survival, Unity3D, WebGL

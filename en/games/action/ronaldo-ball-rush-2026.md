@@ -19,6 +19,6 @@ Ronaldo Ball Rush 2026 is a fast-paced endless platform runner where every secon
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Collecting, endless, Fun, Hypercasual, Jumping, Platform, Puzzle, Skill, survival
+- Tags: Avoid, Collecting, endless, Fun, Hypercasual, jumping, Platform, Puzzle, Skill, survival

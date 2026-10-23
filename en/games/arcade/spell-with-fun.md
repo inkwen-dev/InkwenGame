@@ -21,4 +21,4 @@ Spell with fun is a very fun and educational game that also have 30 levels 30 di
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Educational, Hypercasual, Puzzle, School
+- Tags: Arcade, Casual, educational, Hypercasual, Puzzle, School

@@ -17,4 +17,4 @@ Step into the ring as Takeshi in King Of Sumo, where every bout is a battle of s
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Sports
+- Tags: sports

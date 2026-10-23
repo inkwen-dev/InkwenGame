@@ -21,4 +21,4 @@ K-Pop Puzzle Hunters 是一款有趣且富有创意的拼图游戏，灵感源�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 人, 男孩, 益智, 女孩, 拼图, 思维
+- 标签: 单人, 男孩, 大脑, 女孩, 拼图, 思维

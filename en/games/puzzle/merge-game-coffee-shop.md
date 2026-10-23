@@ -21,4 +21,4 @@ Merge Coffee, barista evolution, gives you the power to merge ingredients into b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Brain, Chicken, Clicker, Dress Up, Farm, HTML5, Puzzle, Restaurant, Retro, Shopping
+- Tags: Action, Brain, Chicken, Clicker, Dress Up, Farm, HTML5, Puzzle, restaurant, retro, Shopping

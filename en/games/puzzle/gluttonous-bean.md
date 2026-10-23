@@ -19,6 +19,6 @@ In the game of Greedy Beans, you need to eat all the beans as quickly as possibl
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Casual, Crazy
+- Tags: 1 Player, Casual, crazy

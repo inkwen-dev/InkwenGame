@@ -15,6 +15,6 @@ Dive into a captivating search-and-find adventure! Use your magnifier to locate 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: hidden-object

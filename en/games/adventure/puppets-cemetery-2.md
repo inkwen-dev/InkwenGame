@@ -15,6 +15,6 @@ Brace yourself for a spine-chilling adventure in Puppets Cemetery. Navigate a ha
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: scary

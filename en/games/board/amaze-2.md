@@ -19,6 +19,6 @@ It's a very excellent classic and simple style leisure and fun mobile game. The 
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Board, Color, Coloring, H5, HTML, HTML5, Kids, Puzzle

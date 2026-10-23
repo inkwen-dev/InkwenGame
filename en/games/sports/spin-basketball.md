@@ -19,6 +19,6 @@ Spin Basketball is fun basketball game suitable for all ages. The aim of the gam
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Avoid, Ball, Basketball, Boys, Collecting, Fun, Game, HTML5, Hypercasual, Kids, Physics, Platform, Skill
+- Tags: Android, Avoid, Ball, basketball, Boys, Collecting, Fun, Game, HTML5, Hypercasual, Kids, Physics, Platform, Skill

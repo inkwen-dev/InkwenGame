@@ -21,4 +21,4 @@ Chibi Girls Coloring Book: Japanese Anime Coloring Pages For Kids & Adult A cute
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Anime, Baby, Baby Hazel, Color, Coloring, Draw, Drawing, Games, Girls, Online, Princess
+- Tags: .io Games, Anime, Baby, Baby Hazel, Color, Coloring, Draw, drawing, Games, Girls, Online, Princess

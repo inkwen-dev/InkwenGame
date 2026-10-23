@@ -21,4 +21,4 @@ Want to have an epic dance-off? In Draw Dance Battle, you&rsquo;ll be the creati
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Draw, Fun, Rhythm
+- Tags: battle, Draw, Fun, Rhythm

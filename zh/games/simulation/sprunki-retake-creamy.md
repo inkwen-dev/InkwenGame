@@ -21,4 +21,4 @@ Sprunki 重制版 奶油版 是 Sprunki 重制版 的全新重混版本，带来
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 经典, 音乐, 新游戏, 模拟, Sprunki
+- 标签: 单人, 经典, 音乐, 新游戏, 模拟, 斯普朗基

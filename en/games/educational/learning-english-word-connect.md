@@ -21,4 +21,4 @@ This is a fun and challenging game for reviewing your vocabulary. Tap and drag t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Brain, Fun, HTML, Mobile, Quiz, Word
+- Tags: Best, Brain, Fun, HTML, Mobile, Quiz, word

@@ -21,4 +21,4 @@ Color Snake - a classic endless arcade title. Color Snake is a brilliant endless
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Color, HTML5, Snake, WebGL
+- Tags: 3D, Avoid, Color, HTML5, snake, WebGL

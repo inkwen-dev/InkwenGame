@@ -21,4 +21,4 @@ Control is carried out using the arrow keys. Devour enemy infantry units to repl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Bird, HTML, HTML5, Kill, Killing, Slither, Snake, Worm, Worms
+- Tags: Animal, Bird, HTML, HTML5, Kill, Killing, Slither, snake, worm, Worms

@@ -21,4 +21,4 @@ Youre good at maths? well then try to answer all the questions about the tiles w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Anime, Brain, Cute, Family, Girls, HTML, HTML5, Kids, Math, Mobile, Puzzle
+- Tags: Animal, Anime, Brain, Cute, Family, Girls, HTML, HTML5, Kids, math, Mobile, Puzzle

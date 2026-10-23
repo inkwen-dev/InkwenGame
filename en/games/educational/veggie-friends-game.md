@@ -21,4 +21,4 @@ Veggie Friends is an engaging and educational game designed to teach kids about 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Games, Educational, Kid, Kids
+- Tags: Baby Games, educational, Kid, Kids

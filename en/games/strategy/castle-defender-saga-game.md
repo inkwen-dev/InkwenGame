@@ -19,6 +19,6 @@ Castle Defender Saga is a battle simulation game where you have to defeat the en
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Simulation, Street Fighting, Tower Defense

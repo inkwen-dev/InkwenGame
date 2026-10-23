@@ -15,6 +15,6 @@ Navigate your ball through vibrant 3D obstacle courses in Fast Ball Jump. Master
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: bowling

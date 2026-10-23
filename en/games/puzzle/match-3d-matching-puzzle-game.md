@@ -19,6 +19,6 @@ Get ready for a new,original, challenging matching pairs game. You need to Match
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Hypercasual, Puzzle

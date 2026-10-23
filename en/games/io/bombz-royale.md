@@ -15,6 +15,6 @@ Cuddle up to adorable yet dangerous bombs in Bombz Royale, a 2D battle extravaga
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: .io

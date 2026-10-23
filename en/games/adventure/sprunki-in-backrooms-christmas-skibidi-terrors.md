@@ -19,6 +19,6 @@ Now Sprunki must escape from Skibidi Toilet in Christmas day. Get all coin to ge
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, huggy, Skibidi Toilet, Sprunki
+- Tags: Christmas, huggy, skibidi-toilet, Sprunki

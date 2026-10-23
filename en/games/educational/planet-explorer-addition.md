@@ -19,6 +19,6 @@ Planet explorer addition is a math puzzle game. In this game, you will explore d
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Educational, HTML5, Math, Mobile, School
+- Tags: 1 Player, educational, HTML5, math, Mobile, School

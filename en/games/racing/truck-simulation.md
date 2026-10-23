@@ -21,4 +21,4 @@ Truck Simulation gives you the chance to step into the life of a real trucker! S
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Car, Driving, Racing, Simulation, Truck, trucks
+- Tags: Boys, Car, Driving, Racing, Simulation, truck, trucks

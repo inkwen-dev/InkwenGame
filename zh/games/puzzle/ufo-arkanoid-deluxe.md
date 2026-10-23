@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Arkanoid, 球, 砖块, 收集, HTML5, 移动, 太空
+- 标签: 阿克诺伊德, 球, 砖块, 收集, HTML5, 移动设备, 太空

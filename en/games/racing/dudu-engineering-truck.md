@@ -21,4 +21,4 @@ DuDu Engineering Truck is a casual and puzzle game where you drive engineering t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Kids, Truck
+- Tags: Car, Kids, truck

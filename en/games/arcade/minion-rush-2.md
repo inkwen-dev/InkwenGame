@@ -21,4 +21,4 @@ Minions Run is an all-ages endless running game where you can run alongside mini
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Android, Arcade, Baby, Bike, Boy, Cars, Classic, drift, Kids, Unity3D
+- Tags: Action, Adventure, Android, Arcade, Baby, bike, Boy, Cars, Classic, drift, Kids, Unity3D

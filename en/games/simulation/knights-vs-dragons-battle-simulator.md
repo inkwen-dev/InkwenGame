@@ -15,6 +15,6 @@ Lead a valiant army of knights in Knights vs Dragons Battle Simulator! Strategic
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Fighting
+- Tags: fighting

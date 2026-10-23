@@ -21,4 +21,4 @@ Nothing goes right in space! The number of extraterrestrials is growing dramatic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Alien, Space, Strategy
+- Tags: Action, Adventure, Alien, Space, strategy

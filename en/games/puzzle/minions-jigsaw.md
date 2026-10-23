@@ -19,6 +19,6 @@ A new movie "Minions: The Rise of Gru" is coming. Now, I choose 12 interesting i
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Cartoon, Fun, Girl, HTML5, Jigsaw, Kids, Matching, Minion, Mobile, Movie

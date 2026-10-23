@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 点击, 点击器, 农场, Huggy, iPhone, 儿童, 孩子们, Labubu, 模拟器, Skibidi
+- 标签: 点击, 点击器, 农场, huggy, iPhone, 儿童, 儿童, Labubu, 模拟器, Skibidi

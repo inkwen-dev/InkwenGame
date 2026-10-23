@@ -21,4 +21,4 @@ The rules of the game: Hit the ball with a gun, break all the balls before the b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, Ball, Gun, H5, Shooting, Sniper, Submachine
+- Tags: .io Games, 3D, Ball, Gun, H5, Shooting, sniper, Submachine

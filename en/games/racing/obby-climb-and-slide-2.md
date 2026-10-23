@@ -19,6 +19,6 @@ Ready to conquer the tallest slides? In this game, you can! Climb higher and hig
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Car, Clicker, roblox, Simulation, Simulator, slide, slider, sliding, waterslide

@@ -19,6 +19,6 @@ Finish the 5-episode parkour with this cute penguin! Don't hit the obstacles and
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Adventure, Arcade

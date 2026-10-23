@@ -21,4 +21,4 @@ Taylor will go to check up! Kids are growing up every day. They need regular phy
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cute, Doctor, Educational, Girl, Girls, Kids, Simulation, Surgery
+- Tags: Baby, Cute, Doctor, educational, Girl, Girls, Kids, Simulation, surgery

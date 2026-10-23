@@ -19,6 +19,6 @@ Crazy Rolling Best Game of 2018, which is a game that pushes the boundaries of y
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Ballon, Hypercasual, Music, Rhythm
+- Tags: Arcade, Ball, Ballon, Hypercasual, music, Rhythm

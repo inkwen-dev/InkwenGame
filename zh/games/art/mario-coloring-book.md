@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩们, 卡通, 涂色, 女孩们, HTML5, 孩子们, 马里奥, Mobile, 学校
+- 标签: 男孩们, 卡通, 着色, 女孩, HTML5, 儿童, mario, 移动设备, 学校

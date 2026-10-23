@@ -35,4 +35,4 @@ Features:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Army, Boys, Strategy
+- Tags: Army, Boys, strategy

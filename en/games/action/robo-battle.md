@@ -19,6 +19,6 @@ Robo Battle is a war robot game that tests your logic and wit Be brave and fight
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Fighting, Robot
+- Tags: Action, fighting, Robot

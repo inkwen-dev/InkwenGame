@@ -29,4 +29,4 @@ Race into the arena, smash the ball toward the goal, and outscore the enemy team
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Car, car-racing, Racing, Soccer, Sports
+- Tags: 3D, Action, Car, car-racing, Racing, Soccer, sports

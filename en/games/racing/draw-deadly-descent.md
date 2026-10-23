@@ -21,4 +21,4 @@ Draw Deadly Descent - a game that combines two elements (parts). This is a puzzl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Best, Car, Cars, Casual, Crazy, Draw, Drawing, HTML5, Mobile, New, Physics, Puzzle
+- Tags: 1 Player, 2D, Best, Car, Cars, Casual, crazy, Draw, drawing, HTML5, Mobile, New, Physics, Puzzle

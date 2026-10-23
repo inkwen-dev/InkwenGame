@@ -21,4 +21,4 @@ Bingo Real is a 75 ball game that could you make you play bingo with house card 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Board, Card
+- Tags: 1 Player, 2D, Board, card

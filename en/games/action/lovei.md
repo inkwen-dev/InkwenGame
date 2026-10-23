@@ -21,4 +21,4 @@ Lovei is a 2D platform game where you need to collect heart potions while avoidi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Cute, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Cute, pixel, Platform, retro

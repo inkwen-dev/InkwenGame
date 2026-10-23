@@ -19,6 +19,6 @@ Hello, Best Burger Cooking Chef! You’re welcome in our free Burger Cooking Sim
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, 8 Ball Pool, Adult, Adventure, Aircraft, Arcade, Boy, Boys, Business, Candy, Card, Cars, Cartoon, Cartoon Network, Collecting, Collection, Cook, Fun, Funny, Game, Games, Girl, Girls, Kart, Ladybug, Memory, Miraculous Ladybug, Moto, Relaxation
+- Tags: 3D Games, 8 Ball Pool, Adult, Adventure, Aircraft, Arcade, Boy, Boys, Business, Candy, card, Cars, Cartoon, Cartoon Network, Collecting, Collection, Cook, Fun, Funny, Game, Games, Girl, Girls, Kart, Ladybug, memory, Miraculous Ladybug, Moto, Relaxation

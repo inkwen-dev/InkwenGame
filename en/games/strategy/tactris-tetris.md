@@ -19,6 +19,6 @@ taxis is a tactical tetris where you collect yourself by placing cubes in the ri
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Android, Mobile, Puzzle, Strategy, Tetris
+- Tags: 1 Player, Android, Mobile, Puzzle, strategy, tetris

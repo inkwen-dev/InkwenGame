@@ -21,4 +21,4 @@ New adventure begins. More crazy challenges are waiting for you!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Crazy, Stack
+- Tags: Ball, crazy, Stack

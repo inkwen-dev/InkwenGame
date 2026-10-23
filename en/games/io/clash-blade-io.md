@@ -19,6 +19,6 @@ How To Play ClashBlade.com – Clash Balde io is have two mode. + Rank mode: thi
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Action, Adventure, Arcade

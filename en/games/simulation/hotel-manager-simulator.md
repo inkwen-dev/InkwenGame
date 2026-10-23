@@ -25,4 +25,4 @@ Take a small new hotel under your care. Serve your guests, give them food and sh
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Management, Mobile, Simulation, tycoon
+- Tags: management, Mobile, Simulation, tycoon

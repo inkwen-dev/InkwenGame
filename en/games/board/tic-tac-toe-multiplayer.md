@@ -19,6 +19,6 @@ Ultimate Tic Tac Toe is a HTML5 Board Game. Enjoy this nice version of the class
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Strategy, Turn, Turn Based
+- Tags: Board, strategy, Turn, Turn Based

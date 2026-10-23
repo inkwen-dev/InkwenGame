@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 单人, 2D, 颜色, 益智, 蛇
+- 标签: .io, .io 游戏, 单人, 2D, 颜色, 益智, snake

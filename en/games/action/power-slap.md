@@ -21,4 +21,4 @@ Power Slap is an exciting slap battle game where timing, precision, and reflexes
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Battle, Casual, Street Fighting
+- Tags: 1 Player, battle, Casual, Street Fighting

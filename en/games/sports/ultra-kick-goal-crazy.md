@@ -21,4 +21,4 @@ Ultra Kick is the ultimate penalty shootout experience! Step up to the spot, rea
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Arcade, Casual, Fun, Funny, Hypercasual, Shoot, Shooter, Shooting, Soccer, Sport, Sports
+- Tags: 1 Player, 2026 games, 2D, Arcade, Casual, Fun, Funny, Hypercasual, Shoot, Shooter, Shooting, Soccer, Sport, sports

@@ -19,6 +19,6 @@ The zombies and variant creatures are coming over you in waves. It is time to de
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2D, Action, Adventure, Arena, Battle, Casual, Defense, Fish, Skill, Zombie
+- Tags: 2 Player, 2D, Action, Adventure, Arena, battle, Casual, Defense, Fish, Skill, Zombie

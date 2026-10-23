@@ -21,4 +21,4 @@ The Baby Injection Jump Adventure Online Game is a great way for babies to relie
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Game, Games, HTML5, jump, Jumping, Online, Platform
+- Tags: Arcade, Game, Games, HTML5, jump, jumping, Online, Platform

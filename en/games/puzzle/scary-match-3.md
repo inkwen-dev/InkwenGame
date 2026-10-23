@@ -21,4 +21,4 @@ Scary Match-3 is a fun game which is another match-3. Here dangerous looking fac
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Halloween, Match-3, Puzzle
+- Tags: 1 Player, Halloween, Match 3, Puzzle

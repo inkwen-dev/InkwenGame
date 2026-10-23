@@ -23,4 +23,4 @@ Tap into your creativity with Paint Sponges Puzzle, a captivating online game th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Color, Drawing, Logic, Puzzle
+- Tags: Brain, Color, drawing, Logic, Puzzle

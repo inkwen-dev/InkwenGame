@@ -19,6 +19,6 @@ The most epic stickman war game is now available. Enter the arena and contest th
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Fight, Fighting, Fun, Funny, Gun, jump, Jumping, Kid, Kids, Kill, Killing, Mobile, Stickman, Street Fighting, War
+- Tags: Army, Fight, fighting, Fun, Funny, Gun, jump, jumping, Kid, Kids, Kill, Killing, Mobile, stickman, Street Fighting, War

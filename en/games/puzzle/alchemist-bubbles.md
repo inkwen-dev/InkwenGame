@@ -15,6 +15,6 @@ Blast into a magical realm as a savvy alchemist in Alchemist Bubbles. Strategica
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Ball

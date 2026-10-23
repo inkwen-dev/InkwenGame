@@ -19,6 +19,6 @@ It&rsquo;s Giddy Blocks, the hottest game on the charts at the moment! Dive into
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, blocky, Family, mapi games, Matching, Memory
+- Tags: Arcade, block, blocky, Family, mapi games, Matching, memory

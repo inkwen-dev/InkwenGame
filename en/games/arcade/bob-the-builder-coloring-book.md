@@ -19,6 +19,6 @@ Best game NAME for Lover NAME NAME is awesome game coloring book for kids with c
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Color, Coloring, Draw, Drawing, Game, Online, Punch, Spongebob
+- Tags: Arcade, Color, Coloring, Draw, drawing, Game, Online, Punch, Spongebob

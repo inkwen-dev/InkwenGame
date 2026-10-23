@@ -21,4 +21,4 @@ Here is a drawing puzzle and a car-racing arcade game. It is managed for you to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Brain, Car, Drawing, HTML5, Mobile, Platform, Puzzle, Racing
+- Tags: 3D, Brain, Car, drawing, HTML5, Mobile, Platform, Puzzle, Racing

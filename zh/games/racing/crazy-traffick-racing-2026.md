@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车, cars, 驾驶, 交通, unity, WebGL
+- 标签: 汽车, 汽车, 驾驶, 交通, unity, WebGL

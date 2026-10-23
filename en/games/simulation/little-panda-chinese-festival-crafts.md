@@ -21,4 +21,4 @@ Little Panda Chinese Festival Crafts is a creative DIY game. Chinese New Year is
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cake, Cooking, Decorate, Educational, Food, Fun, Holiday, HTML5, Kids, Mobile, Panda, Winter
+- Tags: Animal, Cake, Cooking, Decorate, educational, Food, Fun, Holiday, HTML5, Kids, Mobile, Panda, Winter

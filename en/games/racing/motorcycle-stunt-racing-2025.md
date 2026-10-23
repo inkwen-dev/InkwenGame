@@ -21,4 +21,4 @@ Motorcycle Stunt Racing 2025: lean, boost, fly. Arcade-fast bike racing with big
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Mentolatux, Motorcycle, Race, Racing, unity, WebGL
+- Tags: bike, Mentolatux, Motorcycle, Race, Racing, unity, WebGL

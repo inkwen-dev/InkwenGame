@@ -21,4 +21,4 @@ Dive into the enchanting world of Memory Match Magic, a delightful casual game t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Card, Casual, HTML5, Hypercasual, Logic, Logical, Memory
+- Tags: Arcade, card, Casual, HTML5, Hypercasual, Logic, Logical, memory

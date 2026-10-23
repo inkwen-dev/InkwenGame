@@ -19,6 +19,6 @@ Battle of Black And White Among Us Characters
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Action, Army, Brawl, Fight, War

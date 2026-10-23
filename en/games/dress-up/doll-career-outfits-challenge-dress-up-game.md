@@ -19,6 +19,6 @@ Babara just graduates from college, she wants to try ordinary jobs, such as a nu
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Business, Dress Up, Fun, Girl, Girls, H5, HTML5, Kid, Kids

@@ -44,4 +44,4 @@ Don't miss the opportunity to immerse yourself in the exciting world of football
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, Simulation, Soccer, Sports
+- Tags: Boys, Simulation, Soccer, sports

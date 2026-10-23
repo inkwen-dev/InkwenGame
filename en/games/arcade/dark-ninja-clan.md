@@ -21,4 +21,4 @@ This is fun kids Ninja game. Aim of the game is to collect the fruits and avoid 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collecting, Fun, HTML5, jump, Kids, Mobile, Ninja, Skill
+- Tags: Collecting, Fun, HTML5, jump, Kids, Mobile, ninja, Skill

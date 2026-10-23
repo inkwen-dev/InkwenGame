@@ -19,6 +19,6 @@ Grand Theft Auto V is an action-adventure game played from either a third-person
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Adventure, Animal, Boys, Car, Cartoon, Movie

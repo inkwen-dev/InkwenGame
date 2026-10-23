@@ -19,6 +19,6 @@ Tung Tung Sahur Funny Face brings the legendary sahur drummer into a world of la
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, Ai Games, Android, Animal, attack, Baby, Draw, Drawing, Tung Tung Tung Sahur
+- Tags: .io Games, 1 Player, Ai Games, Android, Animal, attack, Baby, Draw, drawing, Tung Tung Tung Sahur

@@ -19,6 +19,6 @@ Enter a chilling world of suspense and danger in Horror City Minecraft Survive, 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, Fighting, kiz10, running
+- Tags: Escape, fighting, kiz10, running

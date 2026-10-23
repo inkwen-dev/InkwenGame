@@ -21,4 +21,4 @@ Stickman Gradient is an amazing stickman running game. Your mission in this game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Best, Collecting, Hot, Kids, Obstacle, Platform, running, Skill, Slicing, Slither, Stickman
+- Tags: Avoid, Best, Collecting, Hot, Kids, Obstacle, Platform, running, Skill, Slicing, Slither, stickman

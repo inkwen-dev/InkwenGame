@@ -21,4 +21,4 @@ Ludo Memory：拼图是一款全新的匹配游戏。轻松且易于上手。你
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 2D, 动作, 冒險
+- 标签: 单人, 2D, 动作, 冒险

@@ -21,4 +21,4 @@ Shooting Block Combat Swat GunGame Survival Multiplayer in the awesome map arena
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Blood, Multiplayer, Pixel, Shoot, Shooter, Shooting
+- Tags: Action, Blood, Multiplayer, pixel, Shoot, Shooter, Shooting

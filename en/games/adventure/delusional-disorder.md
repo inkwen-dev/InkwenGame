@@ -19,6 +19,6 @@ Delusional Disorder is a small game where you play as a kid who is stuck in unre
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adult, Adventure, Boys, Game, Games, Ghost, Halloween, Pixel, Sword, WebGL, Zombie
+- Tags: 2D, Action, Adult, Adventure, Boys, Game, Games, Ghost, Halloween, pixel, sword, WebGL, Zombie

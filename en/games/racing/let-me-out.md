@@ -21,4 +21,4 @@ Park Out is a unique puzzle game that lets your brain to be used more and more. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boy, Boys, Car, Cars, HTML5, Logic, Logical, Parking, Puzzle, WebGL
+- Tags: 2D, Boy, Boys, Car, Cars, HTML5, Logic, Logical, parking, Puzzle, WebGL

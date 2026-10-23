@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 水果, 水果, 有趣, H5, HTML, HTML5, 超休闲, 儿童, 手机, 益智, Relaxation
+- 标签: 3D, 3D游戏, 水果, 水果, 有趣, H5, HTML, HTML5, 超休闲, 儿童, 移动设备, 益智, 放松

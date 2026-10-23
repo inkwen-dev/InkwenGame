@@ -21,4 +21,4 @@ Find the hidden words from scrambled letters in this challenging puzzle! You can
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Best, Boy, Boys, Brain, Girl, Girls, H5, Hot, HTML, HTML5, Hypercasual, Logic, Logical, Mind, Puzzle, Word
+- Tags: Adult, Best, Boy, Boys, Brain, Girl, Girls, H5, Hot, HTML, HTML5, Hypercasual, Logic, Logical, Mind, Puzzle, word

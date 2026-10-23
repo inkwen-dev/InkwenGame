@@ -21,4 +21,4 @@ Flower blocks collapse is an endless block collapse game with challenging game-p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Collecting, Highscore, HTML, HTML5, Mobile, Puzzle
+- Tags: block, Collecting, Highscore, HTML, HTML5, Mobile, Puzzle

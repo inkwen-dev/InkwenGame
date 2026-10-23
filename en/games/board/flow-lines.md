@@ -19,6 +19,6 @@ Connect matching colors with lines to create a Flow. Pair all colors, and cover 
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Board, Draw, HTML, Matching, Mobile, Puzzle

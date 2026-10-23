@@ -21,4 +21,4 @@ play best classic game for kid and family play now with your friends this game s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 2 Player, 2D, Action, Adventure, Aircraft, Android, Animal, Anime, Arcade, Army, Baby, Barbie, Battle, Ben 10, Best, Bike, Bounce, Boy, Boys, Brain, Bubble, Cake, Candy, Car, Cars, Cartoon, Casual, Cat, Classic, Color, Coloring, Defense, Disney, Dragon, Dragon Ball Z, Draw, Drawing, Dress Up, Family, Fight, Fire, Frozen, Fruit, Fun, Game, Girl, Girls, Hypercasual, jump, Jumping, Kids, Kill, King, Mario, Mind, Minion, Mobile, Ninja, Pixel, Puzzle, Shoot, Shooter, Shooting, subway, Zombie
+- Tags: .io, 2 Player, 2D, Action, Adventure, Aircraft, Android, Animal, Anime, Arcade, Army, Baby, Barbie, battle, Ben 10, Best, bike, Bounce, Boy, Boys, Brain, Bubble, Cake, Candy, Car, Cars, Cartoon, Casual, Cat, Classic, Color, Coloring, Defense, Disney, Dragon, Dragon Ball Z, Draw, drawing, Dress Up, Family, Fight, Fire, Frozen, Fruit, Fun, Game, Girl, Girls, Hypercasual, jump, jumping, Kids, Kill, King, mario, Mind, Minion, Mobile, ninja, pixel, Puzzle, Shoot, Shooter, Shooting, subway, Zombie

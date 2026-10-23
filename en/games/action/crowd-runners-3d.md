@@ -19,6 +19,6 @@ Choose the best gate, pass through it, and bring stickman warriors together to c
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Clash, Fighting, Levels, running, survival
+- Tags: Action, Clash, fighting, Levels, running, survival

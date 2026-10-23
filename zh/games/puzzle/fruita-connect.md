@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 休闲, 点击器, 水果, 麻将, 消除3, 拼图
+- 标签: 休闲, 点击器, 水果, mahjong, 三消, 益智

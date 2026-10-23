@@ -21,4 +21,4 @@ Bulldozer Race GAME This is one of the most fascinating games! Can you drive a b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Car, Crazy, Racing
+- Tags: 3D Games, Car, crazy, Racing

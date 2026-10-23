@@ -19,6 +19,6 @@ Easy Coloring Labubu Time is super fun and free to play online coloring game for
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Coloring, Educational, Fun, Hypercasual, Kids, Labubu, School
+- Tags: Arcade, Coloring, educational, Fun, Hypercasual, Kids, Labubu, School

@@ -39,4 +39,4 @@ Race through the city and survive the police chase for as long as you can! Dodge
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Car, Driving, Police, Racing
+- Tags: Car, Driving, police, Racing

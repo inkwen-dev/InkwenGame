@@ -19,6 +19,6 @@ You are San Go Ku and are on cloud nine, but you are not dreaming. You must kill
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dragon, Dragon Ball Z

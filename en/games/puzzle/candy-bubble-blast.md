@@ -21,4 +21,4 @@ Welcome this is an amazing puzzle candy popping game. Bubble candies are falling
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Bubble, Candy, Puzzle
+- Tags: block, Bubble, Candy, Puzzle

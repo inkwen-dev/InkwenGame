@@ -21,4 +21,4 @@ Are you into Bugs Bunny ? Bugs Bunny Coloring Book: A Stunning Coloring Book Inc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Cartoon, Color, Coloring, Draw, Drawing, Game, Kids, Online, Puzzle, Skills
+- Tags: .io, Cartoon, Color, Coloring, Draw, drawing, Game, Kids, Online, Puzzle, Skills

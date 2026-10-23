@@ -17,4 +17,4 @@ Guide the charming Jelly Bros in a delightful adventure to reclaim a royal crown
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Monster
+- Tags: monster

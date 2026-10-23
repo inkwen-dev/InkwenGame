@@ -19,6 +19,6 @@ Mini Tennis 3D is a fun and addictive arcade tennis game where fast reflexes are
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Family, mapi games, Sport, Tennis

@@ -19,6 +19,6 @@ No download required! Play instantly in your browser, build your defenses, and s
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 2D, Action, Adventure, amazing, Android, Best Games, Blood, Strategy, survival, Tower Defense, Zombie
+- Tags: 2026 games, 2D, Action, Adventure, amazing, Android, Best Games, Blood, strategy, survival, Tower Defense, Zombie

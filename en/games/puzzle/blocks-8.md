@@ -21,4 +21,4 @@ Simple but fun and challenging block puzzle tetris arcade game! Fill a row or co
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, HTML5, Puzzle, Tetris
+- Tags: 1 Player, block, HTML5, Puzzle, tetris

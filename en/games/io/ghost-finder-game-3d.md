@@ -19,6 +19,6 @@ Be quick and sneaky and scare the ghost hunters ! Watch out for the cameras and 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D, 3D Games, Action, Adult, Adventure, Alien, Android, Animal, Avoid, Baby, Baby Hazel, Ballon, Chicken, Ghost

@@ -15,6 +15,6 @@ Immerse yourself in the bustling world of digital fame with Idle Influencer Simu
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Simulation

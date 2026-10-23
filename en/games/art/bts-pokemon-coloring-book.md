@@ -19,6 +19,6 @@ BTS Pokemon Coloring Book is fun coloring game for kids. You can decorate all so
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Coloring, Fun, Games, Girls, HTML5, Kids, Pokemon, School

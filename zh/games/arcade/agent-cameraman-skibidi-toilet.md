@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2 人, 双人游戏, 2D, 动作, 冒险, 外星人, 安卓, 街机, 競技場, 互动, Skibidi, Skibidi Toilet
+- 标签: 双人, 双人游戏, 2D, 动作, 冒险, 外星人, 安卓, 街机, 竞技场, 互动, Skibidi, skibidi-toilet

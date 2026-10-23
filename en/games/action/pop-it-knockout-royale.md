@@ -21,4 +21,4 @@ Tap and pop your own bubbles which you can find on the top of your hero's head. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Battle, Boy, Fun, Girl, H5, Kids, Multiplayer, Online, Race
+- Tags: 3D, 3D Games, battle, Boy, Fun, Girl, H5, Kids, Multiplayer, Online, Race

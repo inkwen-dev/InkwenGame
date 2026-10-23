@@ -21,4 +21,4 @@ best pool gaming with 3D graphics &amp; real-time 3D Zoom! So interesting, you c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Sport, Sports, Unity3D
+- Tags: 3D Games, Sport, sports, Unity3D

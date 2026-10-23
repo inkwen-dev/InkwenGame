@@ -19,6 +19,6 @@ Jump, run and avoid the spikes for no death
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Casual, Funny, Game, Highscore, HTML5, Hypercasual, Skill, Skills

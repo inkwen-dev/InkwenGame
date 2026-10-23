@@ -19,6 +19,6 @@ UFO Attack is an online shooting game where you defend against invading aliens! 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Aircraft, Arcade, Game, Games, HTML5

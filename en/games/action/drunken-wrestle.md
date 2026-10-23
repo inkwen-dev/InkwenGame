@@ -21,4 +21,4 @@ The Drunken game series continues with a fun wrestle game. The goal is not to le
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Fight, Fighting, Fun, Funny
+- Tags: 2 Player, 2 Player Games, 2D, Action, Fight, fighting, Fun, Funny

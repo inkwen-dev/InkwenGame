@@ -19,6 +19,6 @@ SnakeBit &ndash; Test Your Agility! Relive the excitement of the classic Snake g
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Block, Classic, endless, free games for your site, free games for your website, Game, Games, New, Snake, Worm, Worms
+- Tags: 1 Player, 2D, Arcade, block, Classic, endless, free games for your site, free games for your website, Game, Games, New, snake, worm, Worms

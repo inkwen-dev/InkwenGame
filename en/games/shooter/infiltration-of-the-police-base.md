@@ -21,4 +21,4 @@ Infiltration of the police base is an online video game that takes players on a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Action, Arcade, Gun, Killing, Police, Shoot, Shoot 'Em Up, Shooter, Shooting, Unity3D, WebGL
+- Tags: 1 Player, 3D Games, Action, Arcade, Gun, Killing, police, Shoot, Shoot 'Em Up, Shooter, Shooting, Unity3D, WebGL

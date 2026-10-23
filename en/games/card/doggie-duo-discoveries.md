@@ -21,4 +21,4 @@ This is a fun and engaging memory game where players flip over pairs of cards to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Card, Matching, Memory
+- Tags: Animal, card, Matching, memory

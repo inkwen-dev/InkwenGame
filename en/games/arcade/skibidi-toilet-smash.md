@@ -19,6 +19,6 @@ Get ready to unleash chaos and laughter in your bathroom with the Skibidi Toilet
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Skibidi, Skibidi Toilet, Skill, Unity3D, WebGL
+- Tags: 1 Player, Arcade, Skibidi, skibidi-toilet, Skill, Unity3D, WebGL

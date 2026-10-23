@@ -19,6 +19,6 @@ Scary Huggy Playtime is a scary adventure online game for boys for free. You can
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Android, Avoid, Boy, Brain, Escape, Fun, HTML5, Kids, Online, Puzzle, running

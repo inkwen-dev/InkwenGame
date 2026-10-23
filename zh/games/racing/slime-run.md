@@ -21,4 +21,4 @@ Slime Run 是一款有趣的动作游戏，你将控制一个 Slime 在竞技场
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 颜色, 乐趣, 怪物, 跑
+- 标签: 颜色, 有趣, monster, 跑

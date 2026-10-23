@@ -21,4 +21,4 @@ Dexterity and the ability to make quick decisions will help you become the first
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Arcade, Fight, Fighting, HTML, HTML5, Kill, Killing
+- Tags: .io, .io Games, Action, Arcade, Fight, fighting, HTML, HTML5, Kill, Killing

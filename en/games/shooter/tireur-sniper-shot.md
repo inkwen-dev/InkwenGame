@@ -21,4 +21,4 @@ Skeet shooting is a recreational and competitive activity where participants, us
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Shoot, Sniper
+- Tags: Action, Shoot, sniper

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, Android, 清洁, 女孩, HTML, iPad, iPhone, 儿童, Mentolatux, 移动, 竞速
+- 标签: 单人, 安卓, 清洁, 女孩, HTML, iPad, iPhone, 儿童, Mentolatux, 移动设备, 竞速

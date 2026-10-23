@@ -21,4 +21,4 @@ Guerriers ninja: une figure légendaire dans le monde antique Les compétences s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Arcade, Boy, Boys, Fun, Funny, jump, Jumping, Ninja
+- Tags: 1 Player, Action, Arcade, Boy, Boys, Fun, Funny, jump, jumping, ninja

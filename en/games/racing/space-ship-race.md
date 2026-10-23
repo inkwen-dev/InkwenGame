@@ -21,4 +21,4 @@ Challenge a buddy to a race and see who will emerge as the ultimate racer. X-Rac
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Driving, Flight, Racing, Unity3D
+- Tags: 3D Games, Driving, flight, Racing, Unity3D

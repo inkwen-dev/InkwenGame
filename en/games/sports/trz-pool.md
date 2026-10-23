@@ -21,4 +21,4 @@ In this pool game you will have to pocket the 10 available balls. Consecutive ba
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Ball, Billiard, Pool, Sport
+- Tags: 8 Ball Pool, Ball, Billiard, pool, Sport

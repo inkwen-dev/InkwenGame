@@ -19,6 +19,6 @@ Blocks Vs Pirates is an exciting sports game to play for all ages. Dive into thi
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Basketball, Block, Casual, Family, mapi games, Pirate, Sport
+- Tags: Arcade, Ball, basketball, block, Casual, Family, mapi games, Pirate, Sport

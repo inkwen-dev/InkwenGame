@@ -19,6 +19,6 @@ Abyss Sweeper reinvents the classic Minesweeper formula into an intense, infinit
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Avoid, Brain

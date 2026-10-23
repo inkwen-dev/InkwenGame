@@ -19,6 +19,6 @@ Mega Ramps - Ultimate Races Game is here for you to explore all GT car stunts in
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D Games, Action, Adventure, Arcade, Car, Cars, Games, Mobile, Race, Racing, Simulation, Simulator, Supercars, Unity3D

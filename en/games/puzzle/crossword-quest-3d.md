@@ -15,6 +15,6 @@ Dive into an innovative 3D crossword adventure in Crossword Quest 3D! Challenge 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Word
+- Tags: word

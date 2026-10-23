@@ -21,4 +21,4 @@ Have you ever dreamt of being zillionaire? Have you ever thought about risking a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casino, Casual, Ghost, Knight, Machine, Slot Machine
+- Tags: Casino, Casual, Ghost, knight, Machine, Slot Machine

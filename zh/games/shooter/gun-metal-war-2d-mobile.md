@@ -21,4 +21,4 @@ PC 控制：WASD 移动，空格键跳跃，鼠标点击右键射击；移动端
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, Android, 街机, HTML, HTML5, 移动设备, 射击, 射击游戏
+- 标签: 单人, 2D, 安卓, 街机, HTML, HTML5, 移动设备, 射击, 射击

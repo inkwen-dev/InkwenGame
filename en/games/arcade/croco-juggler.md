@@ -19,6 +19,6 @@ Play as the Croco Juggler to punish the greedy, corrupt Crocoman! Rack up a high
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade

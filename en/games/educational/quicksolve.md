@@ -21,4 +21,4 @@ QuickSolve is a fast-paced timed math challenge designed to sharpen your mind un
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Math, Puzzle, Quiz
+- Tags: educational, math, Puzzle, Quiz

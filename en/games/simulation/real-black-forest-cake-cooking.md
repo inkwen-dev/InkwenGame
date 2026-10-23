@@ -19,6 +19,6 @@ The Black Forest cake is one of the most popular cakes in the world. Everyone wh
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cake, Cooking, Cute, Decorate, Educational, Food, Girl, Girls, Kids, Simulation
+- Tags: Cake, Cooking, Cute, Decorate, educational, Food, Girl, Girls, Kids, Simulation

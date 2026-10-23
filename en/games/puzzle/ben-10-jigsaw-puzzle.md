@@ -19,6 +19,6 @@ Ben 10 Jigsaw Puzzle is a free online game from genre of cartoon and jigsaw game
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ben 10, Cartoon, Cartoon Network, Fun, HTML5, Jigsaw, Kids, Mobile, Skill

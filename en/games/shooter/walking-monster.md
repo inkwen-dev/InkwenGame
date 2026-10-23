@@ -21,4 +21,4 @@ At this shooting zombie game you will be alone on field surrounded with zombies.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, HTML5, Kids, Monster, Shooting, Zombie
+- Tags: Action, Arcade, HTML5, Kids, monster, Shooting, Zombie

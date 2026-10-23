@@ -21,4 +21,4 @@ Parking Main is a simple free to play, low poly, time based game made purely for
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Parking
+- Tags: Car, parking

@@ -19,6 +19,6 @@ Deliver the orders with 5 different delivery vehicles to the buffets and cafes w
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Business, Car, Cars, Casual, Driving, Fun, Funny, Game, Games, Google, Highscore

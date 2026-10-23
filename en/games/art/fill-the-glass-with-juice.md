@@ -19,6 +19,6 @@ A bright and calming puzzle game based on realistic fluid physics. Feel like a v
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 2D, amazing, Best Games, Brain, Casual, Draw, Drawing, HTML5, Physics, Puzzle, unity, water, WebGL
+- Tags: 2026 games, 2D, amazing, Best Games, Brain, Casual, Draw, drawing, HTML5, Physics, Puzzle, unity, water, WebGL

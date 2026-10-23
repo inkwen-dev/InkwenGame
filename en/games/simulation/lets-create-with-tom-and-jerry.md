@@ -19,6 +19,6 @@ Play Let's Create with Tom and Jerry Game online in your web browser and mobile 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Boys, Cat, Color, Coloring, Draw, Drawing, Educational, Family, Fun, Girls, HTML5, Kids, Mobile
+- Tags: Best, Boys, Cat, Color, Coloring, Draw, drawing, educational, Family, Fun, Girls, HTML5, Kids, Mobile

@@ -19,6 +19,6 @@ Save the Egg online is an entertaining action game where you have to save a chic
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Games, HTML5, jump, Jumping
+- Tags: Arcade, Games, HTML5, jump, jumping

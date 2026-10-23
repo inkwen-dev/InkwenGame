@@ -21,4 +21,4 @@ Urban Echo is an exciting action parkour game where you control a character to o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Jumping, running, Street Fighting
+- Tags: Avoid, jumping, running, Street Fighting

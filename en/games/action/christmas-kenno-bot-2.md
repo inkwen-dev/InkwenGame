@@ -21,4 +21,4 @@ Christmas Kenno Bot 2 is a 2D Christmas themed platformer where you play as a bo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Christmas, Collecting, jump, Jumping, Pixel, Platform, Retro, Robot, Science, Snow
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Christmas, Collecting, jump, jumping, pixel, Platform, retro, Robot, Science, Snow

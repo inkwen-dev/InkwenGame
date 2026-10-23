@@ -21,4 +21,4 @@ Skibidi Toilet: Platform Jump Game is a challenging and fun game where you contr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Best Games, Games, NapTech Games, Platform, Skibidi, Skibidi Toilet
+- Tags: Action, Adventure, Best Games, Games, NapTech Games, Platform, Skibidi, skibidi-toilet

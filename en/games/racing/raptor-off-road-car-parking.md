@@ -21,4 +21,4 @@ Keyboards
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Arcade, Car, Cars, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, Race, Racing, Sim, Simulation, Simulator, Truck
+- Tags: 3D, Action, Arcade, Car, Cars, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, Race, Racing, Sim, Simulation, Simulator, truck

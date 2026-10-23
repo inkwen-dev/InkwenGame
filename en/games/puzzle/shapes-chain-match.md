@@ -19,6 +19,6 @@ Connect similar Shapes using touchscreen or mouse. Make a group of 3 or more, ho
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Candy, Girls, HTML5, Match-3, Match3, Matching, Mobile
+- Tags: Candy, Girls, HTML5, Match 3, Match3, Matching, Mobile

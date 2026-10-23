@@ -21,4 +21,4 @@ It’s puppy care time! Oreo is Taylor’s pet dog. He’s so cute and always wa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cooking, Cute, Educational, Food, Girl, Girls, HTML5, Kids, Simulation
+- Tags: Animal, Baby, Cooking, Cute, educational, Food, Girl, Girls, HTML5, Kids, Simulation

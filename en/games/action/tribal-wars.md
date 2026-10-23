@@ -21,4 +21,4 @@ This is a game where individuals and dinosaurs fight together, after winning can
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Animal, Arena, Battle, Battlegrounds, Blood, Gun
+- Tags: 3D, 3D Games, Action, Adventure, Animal, Arena, battle, Battlegrounds, Blood, Gun

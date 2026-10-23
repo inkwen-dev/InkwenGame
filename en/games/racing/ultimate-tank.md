@@ -19,6 +19,6 @@ Control an eight-wheels car as you conquer mountains and hills in this uphill dr
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Driving, Road, Tank, Tanks
+- Tags: Car, Driving, Road, Tank, tanks

@@ -21,4 +21,4 @@ Are you ready to battle your friend? Throw cannonballs at your buddy and destroy
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Arena, Battle
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Arena, battle

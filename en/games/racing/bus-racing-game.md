@@ -19,6 +19,6 @@ Do you love bus games or bus simulator games? If yes then you are on the app pag
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Game, HTML5, Racing, Unity3D

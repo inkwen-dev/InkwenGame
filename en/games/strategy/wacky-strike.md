@@ -21,4 +21,4 @@ This time you will choose who are you actually. Well, no. Who is the strongest! 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, HTML5, Strategy, Tower Defense
+- Tags: Cartoon, HTML5, strategy, Tower Defense

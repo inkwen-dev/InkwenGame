@@ -21,4 +21,4 @@ this game has a lot of success review and player this MONTH that significantly i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Air, Aircraft, Bubble Shooter, Shoot, Shoot 'Em Up, Shooter, Shooting, Ski, sky, Solitaire
+- Tags: Air, Aircraft, Bubble Shooter, Shoot, Shoot 'Em Up, Shooter, Shooting, Ski, sky, solitaire

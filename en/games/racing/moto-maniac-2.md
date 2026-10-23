@@ -19,6 +19,6 @@ Overcome all the obstacles as fast as you can. This game is a sequel to Moto Man
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Bike, Moto, Motorcycle, Obstacle, Physics, Race, Racing, Skill, Sport, Sports, Stunts
+- Tags: 2D, bike, Moto, Motorcycle, Obstacle, Physics, Race, Racing, Skill, Sport, sports, Stunts

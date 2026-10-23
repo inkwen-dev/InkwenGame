@@ -31,4 +31,4 @@ GAME FEATURES:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: pve, Strategy, Tower Defense
+- Tags: pve, strategy, Tower Defense

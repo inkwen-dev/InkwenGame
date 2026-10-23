@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 冒险, 战斗, 战场, 男孩, 男孩们, H5, HTML, HTML5, 机器人, 射击, Stickman, 战争
+- 标签: 动作, 冒险, 战斗, 战场, 男孩, 男孩们, H5, HTML, HTML5, 机器人, 射击, 木偶人, 战争

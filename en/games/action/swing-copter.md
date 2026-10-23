@@ -21,4 +21,4 @@ Click on the screen to control the Copter. You need to pass narrow places withou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Flight, Platform
+- Tags: Avoid, flight, Platform

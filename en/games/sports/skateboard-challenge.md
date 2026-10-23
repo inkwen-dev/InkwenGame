@@ -21,4 +21,4 @@ Controls Z - Kickflip Holding X - Indy Grab C - Heelflip Space Bar - Ollie Holdi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Skateboard, Skating, Sport, Sports
+- Tags: Best, skateboard, Skating, Sport, sports

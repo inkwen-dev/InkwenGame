@@ -19,6 +19,6 @@ Get ready for an action-packed popping frenzy in Balloon Blitz! Tap into fast re
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, NapTech Games, Puzzle, Skill, Skills

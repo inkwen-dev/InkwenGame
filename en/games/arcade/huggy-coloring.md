@@ -19,6 +19,6 @@ Explore the creepy and creative world of Huggy Coloring! Bring the iconic Huggy 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Coloring, HTML5, Kids

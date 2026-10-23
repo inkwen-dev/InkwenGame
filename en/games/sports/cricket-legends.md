@@ -21,4 +21,4 @@ Click on the screen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Ballon, Baseball, Click, Clicker, Shoot, Shooting, Sport, Sports
+- Tags: Ball, Ballon, baseball, Click, Clicker, Shoot, Shooting, Sport, sports

@@ -21,4 +21,4 @@ Before you are two robots, they are both unique and have their own weapons. You 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Battle, Battlegrounds, Boy, Boys, H5, HTML, HTML5, Robot, Shoot, Stickman, War
+- Tags: Action, Adventure, battle, Battlegrounds, Boy, Boys, H5, HTML, HTML5, Robot, Shoot, stickman, War

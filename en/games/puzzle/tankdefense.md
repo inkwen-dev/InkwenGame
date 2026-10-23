@@ -19,6 +19,6 @@ This is a very classic fun tower defense game, in the game players will be based
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Defense, Hypercasual, Tank

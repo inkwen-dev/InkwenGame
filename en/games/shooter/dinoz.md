@@ -19,6 +19,6 @@ Intelligent dinosaurs, kept in a controlled environment for scientific researche
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Action, Adventure, Dinosaur, Gun, Rescue, Shoot 'Em Up, Shooter, Shooting

@@ -19,6 +19,6 @@ Something strange is happening in the world, people disappear, and then bloodthi
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Crafting, Fight, Strategy, Zombie
+- Tags: 3D, 3D Games, Action, Crafting, Fight, strategy, Zombie

@@ -21,4 +21,4 @@ Control Maxim in this classic little platformer game. A fun and challenging plat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Mario, Pixel, Platform
+- Tags: 1 Player, 2D, Adventure, mario, pixel, Platform

@@ -19,6 +19,6 @@ Help Santa to jump side to side and try to avoid the spikes! That's all you need
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Christmas, endless, HTML, HTML5, Mobile

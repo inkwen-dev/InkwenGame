@@ -21,4 +21,4 @@ Boyfriend and Girlfriend back with new adventures. They lost all the money gambl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Boy, Funny, Girl, Highscore, Kid, Music
+- Tags: 2D, Arcade, Boy, Funny, Girl, Highscore, Kid, music

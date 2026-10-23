@@ -21,4 +21,4 @@ Zooboo is a 2D Adventure game where you play as Zooboo, whose mission is to coll
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Collecting, Cute, Fun, Game, Pixel, Retro
+- Tags: 1 Player, 2D, Collecting, Cute, Fun, Game, pixel, retro

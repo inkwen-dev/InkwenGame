@@ -19,6 +19,6 @@ The T-Rex has to run, but you must get rid of many traps, such as cacti and pter
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Best, Casual, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online, run, running

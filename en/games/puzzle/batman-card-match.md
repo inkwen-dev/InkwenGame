@@ -21,4 +21,4 @@ Batman is a fictional superhero appearing in American comic books published by D
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Cartoon, Match 3, Memory, Puzzle
+- Tags: .io Games, Cartoon, Match 3, memory, Puzzle

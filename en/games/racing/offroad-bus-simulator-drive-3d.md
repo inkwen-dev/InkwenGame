@@ -21,4 +21,4 @@ Welcome to drive and race our modern bus simulator drive 3D: bus games offroad. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, bus, Parking, Simulator
+- Tags: 3D, 3D Games, bus, parking, Simulator

@@ -21,4 +21,4 @@ Lego Car Memory is a free online game from genre of memory and car games. This g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Car, Casual, Fun, Hypercasual, Kids, Lego, Matching, Memory, Skill
+- Tags: 1 Player, Car, Casual, Fun, Hypercasual, Kids, Lego, Matching, memory, Skill

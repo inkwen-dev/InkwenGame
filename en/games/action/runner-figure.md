@@ -19,6 +19,6 @@ It is necessary to change the shape of the cube to pass obstacles You can do thi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Block, Click
+- Tags: 1 Player, 2D, block, Click

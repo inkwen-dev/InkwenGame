@@ -21,4 +21,4 @@ Rubber Duckie Match 3 – this cool game three in a row, in which you have to pu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Kids, Match-3, Mobile, Puzzle, Skill
+- Tags: Fun, HTML5, Kids, Match 3, Mobile, Puzzle, Skill

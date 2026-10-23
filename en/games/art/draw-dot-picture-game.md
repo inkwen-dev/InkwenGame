@@ -21,4 +21,4 @@ Welcome to Draw One Miss Part Brain Games, the addictive puzzle game where logic
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Drawing, Logic, Puzzle
+- Tags: Brain, drawing, Logic, Puzzle

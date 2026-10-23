@@ -21,4 +21,4 @@ Sharpen your fraction skills in Add to Half, a fast-paced and brain-teasing math
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Math, Puzzle, Skills
+- Tags: educational, math, Puzzle, Skills

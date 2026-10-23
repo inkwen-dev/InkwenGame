@@ -19,6 +19,6 @@ Maintain control of the loop and avoid crashing. On a loop drive, you may have h
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Arcade, Car, Driving, HTML5, Mobile, Racing, Skill

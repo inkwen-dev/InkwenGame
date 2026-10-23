@@ -21,4 +21,4 @@ Javelin Battle is a spear-throwing physics puzzle game with 2D stickman models. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Battle
+- Tags: 1 Player, battle

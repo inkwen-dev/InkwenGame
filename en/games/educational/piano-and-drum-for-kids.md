@@ -19,6 +19,6 @@ It's the classic collection of game suitable for all kids and family! -You've a 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, endless, Family, Fun, Game, HTML, HTML5, Kid, Kids, Music
+- Tags: educational, endless, Family, Fun, Game, HTML, HTML5, Kid, Kids, music

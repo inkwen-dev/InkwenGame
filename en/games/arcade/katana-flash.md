@@ -21,4 +21,4 @@ Katana Flash is a one-button ninja action game drawn in ink on a sunset sky. You
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Ninja, Skill
+- Tags: Arcade, ninja, Skill

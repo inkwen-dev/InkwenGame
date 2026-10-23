@@ -21,4 +21,4 @@ Valley Ball is fun addictive hyper casual sports game.There is two modes Normal 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Hypercasual, Sport, Sports
+- Tags: Casual, Hypercasual, Sport, sports

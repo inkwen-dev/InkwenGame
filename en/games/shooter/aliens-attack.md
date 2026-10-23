@@ -19,6 +19,6 @@ Your super machine gun fires automatically you just need to strife left and righ
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Alien, Cartoon, Funny, HTML5, Shoot, Shooting

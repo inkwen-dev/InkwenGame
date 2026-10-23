@@ -21,4 +21,4 @@ Control the assassin and kill down your targets one by one. Use your surrounding
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Hypercasual, Shoot, Shooting
+- Tags: Action, battle, Hypercasual, Shoot, Shooting

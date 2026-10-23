@@ -21,4 +21,4 @@ The Skibidi vs Grimace Climber Race promises an epic showdown between two daring
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Android, Grimace, Grimace Shake, HTML5, iPad, iPhone, Mentolatux, Mobile, Race, Skibidi, Skibidi Toilet, Unity3D
+- Tags: Action, Android, Grimace, Grimace Shake, HTML5, iPad, iPhone, Mentolatux, Mobile, Race, Skibidi, skibidi-toilet, Unity3D

@@ -21,4 +21,4 @@ Are you ready for the Battle of Skibi Toilets? Fight for world domination in spa
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Arena, Battle, Best, endless, Fight, Fighting, Gun, Shoot, Shooting, Skibidi Toilet, Space
+- Tags: 1 Player, 2D, Arcade, Arena, battle, Best, endless, Fight, fighting, Gun, Shoot, Shooting, skibidi-toilet, Space

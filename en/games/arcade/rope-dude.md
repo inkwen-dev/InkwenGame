@@ -21,4 +21,4 @@ Rope Dude is a game in which you need try to destroy the mannequin dude with var
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Best, Brain, Cool, cut, Fun, HTML5, Logic, Logical, Online, Skill
+- Tags: 1 Player, Adventure, Best, Brain, cool, cut, Fun, HTML5, Logic, Logical, Online, Skill

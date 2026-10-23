@@ -21,4 +21,4 @@ Survive on the roof as you try to knock your 3 opponents off of the edge. 4 play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Bomb, Gun, Multiplayer, Sniper
+- Tags: Action, battle, Bomb, Gun, Multiplayer, sniper

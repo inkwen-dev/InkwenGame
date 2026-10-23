@@ -19,6 +19,6 @@ KeyBoard Mouse
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Block, Bricks, Bubble Shooter, Casual, Classic, Hypercasual, Physics
+- Tags: Action, block, Bricks, Bubble Shooter, Casual, Classic, Hypercasual, Physics

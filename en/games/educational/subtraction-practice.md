@@ -19,6 +19,6 @@ This is a math subtraction practicing educational game. Solve subtraction proble
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Educational, HTML5, Math, Mobile, Puzzle, School
+- Tags: Clicker, educational, HTML5, math, Mobile, Puzzle, School

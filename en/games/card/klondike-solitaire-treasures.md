@@ -19,6 +19,6 @@ Klondike Solitaire Treasures is classic Klondike solitaire with a collection to 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Brain, Card, Casual, Classic, Hypercasual, Puzzle, Solitaire
+- Tags: Board, Brain, card, Casual, Classic, Hypercasual, Puzzle, solitaire

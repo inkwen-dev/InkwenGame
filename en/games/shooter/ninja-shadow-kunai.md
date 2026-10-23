@@ -19,6 +19,6 @@ Enter the world of shadows in Ninja Shadow Kunai &mdash; a fast-paced 2D knife-t
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Ninja, Shoot, Shooting
+- Tags: Casual, ninja, Shoot, Shooting

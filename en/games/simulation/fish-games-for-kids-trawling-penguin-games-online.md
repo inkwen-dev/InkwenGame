@@ -21,4 +21,4 @@ Dive into the deep sea fishing games to catch a fish with your friend, cute peng
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Boys, Fish, Fishing, Games, Girls, Kids, Online, Penguin, Strategy
+- Tags: Animal, Boys, Fish, Fishing, Games, Girls, Kids, Online, Penguin, strategy

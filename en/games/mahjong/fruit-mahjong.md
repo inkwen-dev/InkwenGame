@@ -39,4 +39,4 @@ Lost a run? Play Again drops you back on the level you lost, not at the start.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Brain, Mahjong, Matching, Puzzle
+- Tags: 3D, Brain, mahjong, Matching, Puzzle

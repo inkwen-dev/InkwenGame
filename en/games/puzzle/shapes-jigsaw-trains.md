@@ -19,6 +19,6 @@ It is a photo puzzle game with primitive shape jigsaw mechanism. In each level y
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Educational, HTML5, Jigsaw, Kids, Math, Mobile, Puzzle
+- Tags: Board, educational, HTML5, Jigsaw, Kids, math, Mobile, Puzzle

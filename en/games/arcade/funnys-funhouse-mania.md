@@ -21,4 +21,4 @@ Join Mickey and his friends while visiting magical worlds together in the Funny'
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Baby, Baby Hazel, Boys, Cartoon, Cartoon Network, Celebrity, Cool, Disney, Family, Funny, Girls, HTML5, Kids, Princess, Skills, Snow, Winter
+- Tags: Adventure, Arcade, Baby, Baby Hazel, Boys, Cartoon, Cartoon Network, Celebrity, cool, Disney, Family, Funny, Girls, HTML5, Kids, Princess, Skills, Snow, Winter

@@ -21,4 +21,4 @@ Du bist in der Schlangenwelt und du musst überleben und alles essen, was du auf
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2D, Snake, WebGL
+- Tags: .io, .io Games, 2D, snake, WebGL

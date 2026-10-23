@@ -19,6 +19,6 @@ Vector is an exciting arcade-style game featuring you as the exceptional free ru
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Escape, free html5 games for your website, Jumping, kiz10, realistic, running, Stickman
+- Tags: Action, Escape, free html5 games for your website, jumping, kiz10, realistic, running, stickman

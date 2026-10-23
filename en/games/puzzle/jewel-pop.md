@@ -19,6 +19,6 @@ Get ready to match and pop some colourful balloons! Crush through blocks and oth
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ballon, Bomb, Jewel, Logic, Logical, Match 3, Match3, Turn

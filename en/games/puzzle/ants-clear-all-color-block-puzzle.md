@@ -21,4 +21,4 @@ Send out your ants and carry every colorful block away! Ants Clear All : Color B
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Animal, Block, Brain, Color, HTML5, Logic, Mobile, Puzzle
+- Tags: 1 Player, 2D, Animal, block, Brain, Color, HTML5, Logic, Mobile, Puzzle

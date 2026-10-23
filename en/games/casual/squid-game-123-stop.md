@@ -19,6 +19,6 @@ Another new and interesting squid game! Do you like playing the big escape survi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Boys, Fun, H5, HTML5, Kid, Kids, run

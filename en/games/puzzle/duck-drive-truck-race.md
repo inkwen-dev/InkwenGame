@@ -21,4 +21,4 @@ Get ready for an exciting off-road adventure in Duck Drive Truck Race! Take cont
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Best Games, Casual, Hypercasual, Truck
+- Tags: 2026 games, Best Games, Casual, Hypercasual, truck

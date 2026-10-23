@@ -21,4 +21,4 @@ This is a puzzle game where you need to find the differences between two images,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Difference, Games, Kids, Puzzle, Truck
+- Tags: Arcade, Difference, Games, Kids, Puzzle, truck

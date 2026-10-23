@@ -15,6 +15,6 @@ Train in a high-stakes, futuristic world as an elite operative. Tackle dynamic m
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: First Person Shooter

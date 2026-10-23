@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 动作, 冒险, 街机, 炸弹, HTML, HTML5, 轻度休闲, 击杀, 杀人, 解谜, 鲨鱼
+- 标签: .io, .io 游戏, 动作, 冒险, 街机, 炸弹, HTML, HTML5, 超休闲, 杀戮, 击杀, 益智, 鲨鱼

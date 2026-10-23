@@ -21,4 +21,4 @@ Boss Shooter - 一款关于与 boss 战斗的游戏，这是一款平台游戏�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人对战, 2D, Ben 10, 最佳, HTML5
+- 标签: 双人, 2D, Ben 10, 最佳, HTML5

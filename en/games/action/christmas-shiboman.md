@@ -21,4 +21,4 @@ Christmas Shiboman is a 2D Christmas themed cute little platformer where you hav
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Christmas, Collecting, Cute, jump, Jumping, Pixel, Platform, Retro, Snow
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Christmas, Collecting, Cute, jump, jumping, pixel, Platform, retro, Snow

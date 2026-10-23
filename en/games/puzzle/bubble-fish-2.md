@@ -15,6 +15,6 @@ Dive into Bubble Fish, an exhilarating blend of shooter tactics and Match 3 game
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Match 3

@@ -21,4 +21,4 @@ Welcome to the kangaroos world . "Jumpy Kangaroo" is a cute casual game made for
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cute, jump, Jumping, Platform
+- Tags: Cute, jump, jumping, Platform

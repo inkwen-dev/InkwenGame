@@ -21,4 +21,4 @@ Are you ready for halloween? Welcome to Halloween Connect Puzzle Game. Click and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Halloween, Mahjong, Matching, Puzzle
+- Tags: Halloween, mahjong, Matching, Puzzle

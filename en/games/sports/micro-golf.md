@@ -21,4 +21,4 @@ Micro Golf is a game in which you need to score golf balls in holes and tray to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Ball, Best, Fun, Funny, Golf, Logic, Skill, Sport
+- Tags: 1 Player, Ball, Best, Fun, Funny, golf, Logic, Skill, Sport

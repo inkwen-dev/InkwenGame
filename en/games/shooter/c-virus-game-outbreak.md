@@ -19,6 +19,6 @@ The new virus hit the earth, it is C-virus! More than 90% of the population is i
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Fight, weapons, WebGL, Zombie

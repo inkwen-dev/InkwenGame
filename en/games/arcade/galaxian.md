@@ -21,4 +21,4 @@ Galaxian retro game, classic arcade space shooter game.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Retro, Space
+- Tags: Arcade, retro, Space

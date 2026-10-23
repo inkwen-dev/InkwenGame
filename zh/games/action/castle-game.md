@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 城堡, 趣味, 搞笑, 游戏, HTML, HTML5, 手机, 新, 跑, 跑步
+- 标签: 城堡, 有趣, 搞笑, 游戏, HTML, HTML5, 移动设备, 新游戏, 跑, 奔跑

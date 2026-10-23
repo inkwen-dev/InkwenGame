@@ -19,6 +19,6 @@ In the crazy world of Gumball everything is possible, like having to swing in an
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cartoon, Cartoon Network, Girls, Kids, Stickman, Sword
+- Tags: Boys, Cartoon, Cartoon Network, Girls, Kids, stickman, sword

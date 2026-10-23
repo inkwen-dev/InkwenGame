@@ -21,4 +21,4 @@ Dark Ninja, is a hero who needs to cross the village of rocks and eliminate the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, HTML, HTML5, Ninja, Ninjago, Platform, Side Scrolling
+- Tags: 1 Player, Action, Adventure, HTML, HTML5, ninja, Ninjago, Platform, Side Scrolling

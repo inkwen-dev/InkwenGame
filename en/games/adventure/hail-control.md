@@ -21,4 +21,4 @@ Catch the storm before it overwhelms you in this fast-paced color-matching arcad
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, amazing, Best Games, Casual, Color, Crazy, Fantasy, Hypercasual
+- Tags: 2026 games, Adventure, amazing, Best Games, Casual, Color, crazy, Fantasy, Hypercasual

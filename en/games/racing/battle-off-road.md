@@ -21,4 +21,4 @@ Give life to your machine. Bathe the road in your rivals' oil and gasoline. Rise
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D Games, Adventure, Car, Cars, Casual, Clash, Fighting, Hypercasual, Race, Racing
+- Tags: .io Games, 1 Player, 3D Games, Adventure, Car, Cars, Casual, Clash, fighting, Hypercasual, Race, Racing

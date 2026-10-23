@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 设计, 有趣, 女孩, 万圣节, 假期, HTML, HTML5, 儿童, 改造, 移动设备
+- 标签: 设计, 有趣, 女孩, 万圣节, 节日, HTML, HTML5, 儿童, 改造, 移动设备

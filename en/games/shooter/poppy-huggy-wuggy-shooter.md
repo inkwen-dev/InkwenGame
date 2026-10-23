@@ -21,4 +21,4 @@ Management in the game Haggi Waggi Shooter on the computer is carried out using 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Horse, Shooting
+- Tags: Action, Adventure, horse, Shooting

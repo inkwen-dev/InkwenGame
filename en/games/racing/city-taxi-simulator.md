@@ -21,4 +21,4 @@ Here is a taxi car transport simulation game with 3D modern game arts. You are a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, Driving, Parking, Simulation
+- Tags: 3D, Car, Driving, parking, Simulation

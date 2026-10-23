@@ -19,6 +19,6 @@ Link any 3 gems together. "Gem Shoot" is special type of match 3 game. Unlike ot
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Board, Bomb, Bricks, Bubble, Casual, Logic, Puzzle
+- Tags: Arcade, block, Board, Bomb, Bricks, Bubble, Casual, Logic, Puzzle

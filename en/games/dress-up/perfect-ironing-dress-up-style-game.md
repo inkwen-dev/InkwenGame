@@ -19,6 +19,6 @@ Make dress looking stylish for girls,baby,men. everybody enjoy it to play and do
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Dress Up, Girl, Girls, Kid, Kids, Simulation

@@ -36,4 +36,4 @@ Unlock new weapons: boxing gloves, knives, bats, pistols, and even unexpected ob
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Funny, ragdoll, Stickman
+- Tags: Funny, ragdoll, stickman

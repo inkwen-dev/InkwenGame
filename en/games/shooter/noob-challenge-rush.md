@@ -21,4 +21,4 @@ Welcome to the thrilling world of Noob Challenge Rush an action-packed HTML5 gam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, HTML, HTML5, Maze, Minecraft, Monster, Physics, run, Shooting
+- Tags: 3D, 3D Games, HTML, HTML5, Maze, Minecraft, monster, Physics, run, Shooting

@@ -19,6 +19,6 @@ sprunki spot indredibox takes place in a fantasy world. Want to play Sprunki Gam
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Puzzle, Spiderman, Sprunki

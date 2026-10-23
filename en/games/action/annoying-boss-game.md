@@ -19,6 +19,6 @@ Step into the craziest office stress-relief adventure with Annoying Boss Punch G
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Cartoon, Casual, Clicker, Crazy, Fight, Fighting, Fun, Funny, Punch, ragdoll, smash
+- Tags: 2026 games, Cartoon, Casual, Clicker, crazy, Fight, fighting, Fun, Funny, Punch, ragdoll, smash

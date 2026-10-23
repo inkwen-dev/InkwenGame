@@ -19,6 +19,6 @@ Alert! Alert! The alien invasion has begun! Earth is under attack! Ever wanted t
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Casual, Hypercasual

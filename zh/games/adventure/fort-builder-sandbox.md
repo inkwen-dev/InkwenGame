@@ -21,4 +21,4 @@ WASD键移动 右键瞄准 左键放置堡垒部件或射击 E键取消建造或
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, 动作, 冒险, Unity3D, WebGL
+- 标签: 3D, 3D游戏, 动作, 冒险, Unity3D, WebGL

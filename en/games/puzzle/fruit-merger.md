@@ -19,6 +19,6 @@ Fruit Merger is a fun and addictive puzzle game where you merge matching fruits 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Fruit, Puzzle

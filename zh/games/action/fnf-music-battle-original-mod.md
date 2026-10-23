@@ -21,4 +21,4 @@ FMF游戏包含多个角色，如男友、女友、亲爱的爸爸、亲爱的�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 游戏, 游戏, HTML, HTML5
+- 标签: 游戏, 网页游戏, HTML, HTML5

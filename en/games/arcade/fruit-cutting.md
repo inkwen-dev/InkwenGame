@@ -19,6 +19,6 @@ In the game Fruit Cutting, the fruit ninja will again wake up in you, and we wil
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fruit, Fruits, Fun, HTML5, Kids, Mobile, Skill, Slicing

@@ -21,4 +21,4 @@ Garten of Banban is a thrilling and scary horror puzzle adventure game. You ente
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Avoid, Collecting, Escape, Horror, Monster
+- Tags: 3D Games, Avoid, Collecting, Escape, Horror, monster

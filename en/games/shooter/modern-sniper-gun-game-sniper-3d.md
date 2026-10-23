@@ -26,4 +26,4 @@ Get ready for action in Sniper Shooting Game, the most exciting sniper game full
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, First Person Shooter, Gun, Shooting, Sniper
+- Tags: 3D, First Person Shooter, Gun, Shooting, sniper

@@ -19,6 +19,6 @@ Upgrade your speed, blocky shoes and energy capacity to become the ultimate cham
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Arcade, Avoid, Best, Block, Crazy, Highscore, Mine, Minecraft, Race, Racing, run, running
+- Tags: 1 Player, 3D, 3D Games, Action, Arcade, Avoid, Best, block, crazy, Highscore, Mine, Minecraft, Race, Racing, run, running

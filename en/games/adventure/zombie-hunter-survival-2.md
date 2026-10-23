@@ -15,6 +15,6 @@ Wield an arsenal of auto-firing weapons as you battle relentless zombie hordes i
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Zombie

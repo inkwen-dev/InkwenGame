@@ -21,4 +21,4 @@ Stickman Hook is a fun game where you can test your skills. You play as a swingi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Barbie, Click, Clicker, HTML, HTML5, Hypercasual, Mind, Stickman
+- Tags: Adventure, Barbie, Click, Clicker, HTML, HTML5, Hypercasual, Mind, stickman

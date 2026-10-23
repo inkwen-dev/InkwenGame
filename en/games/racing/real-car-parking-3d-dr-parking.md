@@ -21,4 +21,4 @@ This is the best car parking simulation game online available to play instantly.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, drifting, Driving, Parking, Racing, Supercars
+- Tags: Car, Cars, drifting, Driving, parking, Racing, Supercars

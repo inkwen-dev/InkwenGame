@@ -21,4 +21,4 @@ FoxyLand 2 是一款您可以在 Superkidgames.com 上免费在网页浏览器�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2人, 2人游戏, 动作, 冒险, 动物, 街机, 有趣, HTML5, 手机
+- 标签: 双人, 双人游戏, 动作, 冒险, 动物, 街机, 有趣, HTML5, 移动设备

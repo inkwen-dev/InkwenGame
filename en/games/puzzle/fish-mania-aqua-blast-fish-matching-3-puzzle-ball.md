@@ -19,6 +19,6 @@ Mo Make Match 3 free fishing games or swipe fish tank in a line to crush and rem
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Fish, Match 3, Match3, Matching, Puzzle, Quiz, World

@@ -19,6 +19,6 @@ Embark on an exciting cosmic journey with Space Driving. Get ready to pilot your
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Alien, Arcade, Best Games, Click, Driving, Funny, Games, HTML5, Hypercasual, Kids, Race, sky, Space

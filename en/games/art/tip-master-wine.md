@@ -21,4 +21,4 @@ Tip Master Wine is a fun casual skill game where you need to skillfully pour dri
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Drawing, Fun, Logic
+- Tags: Click, drawing, Fun, Logic

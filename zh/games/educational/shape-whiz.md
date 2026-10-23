@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 大脑, 点击器, 教育, 超休闲, 儿童, NapTech Games, 技巧
+- 标签: 大脑, 点击器, 教育, 超休闲, 儿童, NapTech 游戏, 技能

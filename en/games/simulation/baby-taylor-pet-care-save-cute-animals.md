@@ -21,4 +21,4 @@ Taylor and Jessica want to experience community work. They find out the Pet Care
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Educational, Fun, Girl, Girls, H5, HTML5
+- Tags: 2D, Animal, educational, Fun, Girl, Girls, H5, HTML5

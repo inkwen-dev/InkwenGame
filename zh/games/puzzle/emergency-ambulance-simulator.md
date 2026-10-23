@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 汽车, 驾驶, 移动, 救援, 模拟, 时机, 卡车, WebGL
+- 标签: 3D, 汽车, 驾驶, 移动设备, 救援, 模拟, 时机, 卡车, WebGL

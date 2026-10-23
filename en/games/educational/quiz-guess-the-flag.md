@@ -21,4 +21,4 @@ In the game you have to guess which countrys flag is shown in the photo, From th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Brain, Educational, Guessing, Mobile, Quiz, World
+- Tags: 1 Player, 2D, Brain, educational, Guessing, Mobile, Quiz, World

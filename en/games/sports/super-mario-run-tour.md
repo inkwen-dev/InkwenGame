@@ -21,4 +21,4 @@ A new kind of Mario game that you can play with one hand. You control Mario by t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Cartoon, Kids, Mario, Racing, Soccer
+- Tags: Adventure, Cartoon, Kids, mario, Racing, Soccer

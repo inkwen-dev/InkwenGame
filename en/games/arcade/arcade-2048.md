@@ -19,6 +19,6 @@ Time to put your math skills to test! Arrange the blocks on the game screen and 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kid, Puzzle
+- Tags: educational, Kid, Puzzle

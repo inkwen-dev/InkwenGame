@@ -19,6 +19,6 @@ World of Alice - Solar System World of Alice - Solar System is an educational ga
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Educational, Kids, School, Space
+- Tags: Best Games, educational, Kids, School, Space

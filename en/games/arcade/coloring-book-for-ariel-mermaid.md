@@ -21,4 +21,4 @@ The Little Mermaid Coloring book: Ariel The Mermaid coloring book for kids , 8 P
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Arcade, Color, Coloring, Draw, Drawing, Puzzle
+- Tags: Adult, Arcade, Color, Coloring, Draw, drawing, Puzzle

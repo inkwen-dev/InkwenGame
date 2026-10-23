@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 冒险, 最佳游戏, 游戏, NapTech Games, 平台, 斯基比迪, 斯基比迪马桶
+- 标签: 动作, 冒险, 最佳游戏, 网页游戏, NapTech 游戏, 平台, Skibidi, skibidi-toilet

@@ -19,6 +19,6 @@ Step into the wild and rule the savannah in Lion Family Sim Online. It&rsquo;s a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Food, lion, survival

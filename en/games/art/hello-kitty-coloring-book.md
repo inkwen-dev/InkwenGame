@@ -19,6 +19,6 @@ Best game Hello Kitty Coloring Book for Lover Hello Kitty Coloring Book Hello Ki
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Draw, Drawing, Game, Online
+- Tags: Color, Coloring, Draw, drawing, Game, Online

@@ -19,6 +19,6 @@ Balance is a game where you have to jump over boxes and balance them. As more bo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Balance, Boxing, Puzzle

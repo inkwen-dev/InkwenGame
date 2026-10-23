@@ -19,6 +19,6 @@ Truck Driver is a game where your job is to control the truck on the streets ful
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Driving, Kids, Racing, Traffic, Truck
+- Tags: Avoid, Driving, Kids, Racing, Traffic, truck

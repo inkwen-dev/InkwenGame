@@ -21,4 +21,4 @@ Super Nitro Racing 2 is totally inspired by the old classic arcade racing games 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Car, Cars, HTML, HTML5, Race, Racing, Sport, Sports
+- Tags: Boy, Boys, Car, Cars, HTML, HTML5, Race, Racing, Sport, sports

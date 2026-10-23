@@ -21,4 +21,4 @@ World of Alice -&nbsp;Sequencing Numbers World of Alice - Sequencing Numbers is 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Cartoon, Click, Educational, free games for your site, free games for your website, free html5 games for your website, HTML5, Kids, Math, Number, Puzzle, School, World
+- Tags: Best Games, Cartoon, Click, educational, free games for your site, free games for your website, free html5 games for your website, HTML5, Kids, math, Number, Puzzle, School, World

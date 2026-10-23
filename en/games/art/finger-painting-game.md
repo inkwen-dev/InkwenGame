@@ -19,6 +19,6 @@ Hello little toddlers! Do you want to play with colors? So come and play amazing
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ben 10, Boys, Color, Coloring, Girl, Kids, Princess

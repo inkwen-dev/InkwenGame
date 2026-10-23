@@ -19,6 +19,6 @@ Do you like to collect a variety of puzzles and solve puzzles? Or maybe you also
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Jigsaw

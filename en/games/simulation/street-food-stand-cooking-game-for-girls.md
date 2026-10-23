@@ -21,4 +21,4 @@ A street fair is a perfect place to experience street food. Think you have what 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Burger, Cook, Cooking, cut, Educational, Girls, Slicing
+- Tags: 2D, Burger, Cook, Cooking, cut, educational, Girls, Slicing

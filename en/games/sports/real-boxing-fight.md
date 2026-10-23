@@ -19,6 +19,6 @@ Welcome to our newest 2 players fighting game Real Boxing Fight. In this game, y
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Action, Boxing, Fight, Fighting, Sport, Sports
+- Tags: 2 Player, Action, Boxing, Fight, fighting, Sport, sports

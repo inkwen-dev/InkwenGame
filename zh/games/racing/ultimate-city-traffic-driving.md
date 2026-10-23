@@ -21,4 +21,4 @@ Rally Point 3 是由 XForm Games 开发的一款3D竞速游戏。争取获得第
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 城市, HTML, HTML5, 竞速, 赛车, 道路, 交通
+- 标签: 冒险, 城市, HTML, HTML5, 比赛, 竞速, 道路, 交通

@@ -34,4 +34,4 @@ Take daily challenges, journeys with quests, collect keys, postcards and achieve
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, cards, Classic, Logic, Puzzle, Solitaire
+- Tags: Brain, cards, Classic, Logic, Puzzle, solitaire

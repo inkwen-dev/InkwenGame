@@ -21,4 +21,4 @@ Guide the hero to the location given in the Search Coordinate box by clicking on
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Educational, HTML5, Kids, Math, Puzzle, School
+- Tags: Arcade, educational, HTML5, Kids, math, Puzzle, School

@@ -21,4 +21,4 @@ Nailong 快速奔跑是一款有趣的3D跑酷游戏，带你进入一个奇妙�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 敌人, 障碍, 跑酷
+- 标签: 敌人, 障碍, 奔跑

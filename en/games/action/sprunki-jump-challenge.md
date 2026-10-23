@@ -19,6 +19,6 @@ Sprunki Jump Challenge is an exciting and super fun jumping game featuring our a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Collecting, Fun, Hypercasual, Jumping, Kids, Platform, Skill, Sprunki
+- Tags: Avoid, Collecting, Fun, Hypercasual, jumping, Kids, Platform, Skill, Sprunki

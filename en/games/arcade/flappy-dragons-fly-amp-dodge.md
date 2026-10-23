@@ -21,4 +21,4 @@ Fly high and dodge obstacles in this addictive dragon adventure. Are you ready t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, fly, Fun, Funny, Game, Games, jump, Jumping, Mobile, Obstacle, Online
+- Tags: Adventure, Arcade, fly, Fun, Funny, Game, Games, jump, jumping, Mobile, Obstacle, Online

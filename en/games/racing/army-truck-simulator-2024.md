@@ -19,6 +19,6 @@ Take control of a cargo army truck in a military game and deliver high-ranking s
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, Car, Driving, kiz10

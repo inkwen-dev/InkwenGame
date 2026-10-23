@@ -19,6 +19,6 @@ Welcome to Sprunki Policeman, a collection of casual games for kids with Sprunki
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kids, Police, Shoot, Sprunki
+- Tags: Kids, police, Shoot, Sprunki

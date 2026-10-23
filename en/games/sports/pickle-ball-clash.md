@@ -21,4 +21,4 @@ Step into the fast-paced world of Pickle Ball Clash &mdash; a thrilling sports g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Sports
+- Tags: Ball, sports

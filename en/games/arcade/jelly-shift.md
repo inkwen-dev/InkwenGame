@@ -19,6 +19,6 @@ Jelly Shift up and down to change its form. Make sure to shape the jelly correct
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Casual, Cool, HTML5, Hypercasual, Jelly, WebGL
+- Tags: 3D, Arcade, Casual, cool, HTML5, Hypercasual, Jelly, WebGL

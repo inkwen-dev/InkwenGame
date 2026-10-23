@@ -21,4 +21,4 @@ An infinite sandbox world powered by hyper-realistic graphics and advanced physi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Block, construction, Craft, Crafting, Mine, mineblock, Minecraft, Miner, realistic, World
+- Tags: 3D, Adventure, block, construction, Craft, Crafting, Mine, mineblock, Minecraft, Miner, realistic, World

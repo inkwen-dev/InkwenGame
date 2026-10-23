@@ -19,6 +19,6 @@ Welcome to the Whimsical World of Grimace Memory Challenge &ndash; Where Memorie
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Grimace, Grimace Shake, HTML5, Hypercasual, Kids, Memory, Puzzle
+- Tags: Arcade, Casual, Grimace, Grimace Shake, HTML5, Hypercasual, Kids, memory, Puzzle

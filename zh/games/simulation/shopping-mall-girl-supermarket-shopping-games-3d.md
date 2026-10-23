@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 单人游戏, 动作, 马里奥, 模拟, 模拟器, WebGL
+- 标签: .io 游戏, 单人, 动作, mario, 模拟, 模拟器, WebGL

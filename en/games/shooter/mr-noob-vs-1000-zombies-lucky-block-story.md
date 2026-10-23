@@ -21,4 +21,4 @@ Mr Noob - Lucky Block story is an official Noob vs Pro vs Hacker style shooter g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Block, Game, Kill, Killing, Logic, Minecraft, Physics, Shooter, Zombie
+- Tags: 2D, block, Game, Kill, Killing, Logic, Minecraft, Physics, Shooter, Zombie

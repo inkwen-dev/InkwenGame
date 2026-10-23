@@ -1,0 +1,24 @@
+# 新年庆祝活动 最终集
+
+<a href="https://inkwengame.com/zh/games/new-year-celebration-final-episode" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/new-year-celebration-final-episode/cover.jpg)
+
+《新年庆祝活动 最终集》是8BGames/Games 2Mad开发的又一款点击逃脱游戏。在这款逃脱游戏中，查尔斯先生准备迎接新的一年。但他需要解决一些谜题才能参加派对。寻找有用的物品、提示，并解开谜题，一起庆祝新年。祝你好运，玩得开心！
+
+## 怎么玩
+
+鼠标操作
+
+## 介绍
+
+《新年庆祝活动 最终集》是8BGames/Games 2Mad开发的又一款点击逃脱游戏。在这款逃脱游戏中，查尔斯先生准备迎接新的一年。但他需要解决一些谜题才能参加派对。寻找有用的物品、提示，并解开谜题，一起庆祝新年。祝你好运，玩得开心！
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/adventure" target="_blank" rel="noopener noreferrer">冒险</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 逃脱, 点击式

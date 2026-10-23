@@ -45,4 +45,4 @@ Roblox Obby 的粉丝们——这款游戏更酷炫！
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 画画, 障碍
+- 标签: 绘画, 障碍

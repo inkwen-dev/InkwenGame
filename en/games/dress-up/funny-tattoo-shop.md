@@ -19,6 +19,6 @@ Choose what's your favorite objects and make tattoos on your arm or leg. Feel fr
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Drawing, Fashion, Girls, HTML5, Kids
+- Tags: Coloring, drawing, Fashion, Girls, HTML5, Kids

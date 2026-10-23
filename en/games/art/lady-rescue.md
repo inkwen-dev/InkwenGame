@@ -26,4 +26,4 @@ It's not just fun, it's also a brain teaser that makes you think. You will find 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing
+- Tags: drawing

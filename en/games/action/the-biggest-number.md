@@ -51,4 +51,4 @@ Collect numbers equal to or smaller than yours and grow as large as possible. Do
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, Math, Number, runner
+- Tags: 3D, Arcade, math, Number, runner

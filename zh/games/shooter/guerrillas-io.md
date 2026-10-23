@@ -21,4 +21,4 @@ Guerrillas io 是一款在线多人对战游戏。游戏地图的灵感来自最
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 免费网站游戏, FreezeNova, 多人游戏, 射击游戏
+- 标签: 免费游戏供你的网站使用, FreezeNova, 多人, 射击

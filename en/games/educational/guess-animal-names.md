@@ -21,4 +21,4 @@ This is an educational word puzzle game where you need to identify the name of a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Educational, HTML5, Mobile, Puzzle, School, Word
+- Tags: Animal, educational, HTML5, Mobile, Puzzle, School, word

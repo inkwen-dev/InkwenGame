@@ -15,6 +15,6 @@ Command the cosmos in Space Game, a thrilling assault on enemy spacecraft amid a
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Snake
+- Tags: snake

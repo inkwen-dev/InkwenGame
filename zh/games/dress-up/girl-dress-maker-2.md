@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 换装, 女孩, 女孩, 发型, HTML, HTML5, 仿真, 模拟器
+- 标签: 装扮, 女孩, 女孩, 头发, HTML, HTML5, 模拟, 模拟器

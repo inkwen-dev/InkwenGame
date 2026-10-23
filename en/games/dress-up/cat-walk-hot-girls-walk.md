@@ -21,4 +21,4 @@ Hey beautiful, it's showtime! All the baddies are choosing the most beautiful ou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, 3D Games, Adventure, Arcade, Fashion, Girl, Girls, Nail, Nails, Race, Racing, Shopping, Stunts, Truck, Unity3D
+- Tags: .io Games, 3D, 3D Games, Adventure, Arcade, Fashion, Girl, Girls, Nail, Nails, Race, Racing, Shopping, Stunts, truck, Unity3D

@@ -19,6 +19,6 @@ Like Nastya Puzzle is a brain puzzle assembly Game made by kizgame.com. Like Nas
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, H5, Hot, HTML, HTML5, Jigsaw, Kids, Puzzle, Strategy
+- Tags: Arcade, H5, Hot, HTML, HTML5, Jigsaw, Kids, Puzzle, strategy

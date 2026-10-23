@@ -19,6 +19,6 @@ Escape the abandoned asylum without the evil horror Granny to find you. Move sil
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Escape, House, Unity3D, WebGL

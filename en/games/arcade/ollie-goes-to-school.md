@@ -21,4 +21,4 @@ Ollie is a cute bunny and he is going to go to school. Can you help him out?
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Kids, Memory, Puzzle
+- Tags: HTML5, Kids, memory, Puzzle

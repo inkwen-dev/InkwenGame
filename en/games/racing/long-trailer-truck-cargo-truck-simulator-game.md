@@ -19,6 +19,6 @@ Here is a 3D truck driving simulation game called Long Trailer Truck Cargo Truck
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, Driving, Obstacle, Parking, Simulation, Timing, Truck
+- Tags: 3D, Car, Driving, Obstacle, parking, Simulation, Timing, truck

@@ -19,6 +19,6 @@ Sweety Memory is a fun puzzle game. Match all identical cards before time runs o
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Candy, Casual, HTML5, Hypercasual, Kids, Matching, Memory, Mobile, Skill
+- Tags: Candy, Casual, HTML5, Hypercasual, Kids, Matching, memory, Mobile, Skill

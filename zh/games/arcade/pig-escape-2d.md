@@ -21,4 +21,4 @@ Piggy Wiggy 是由 Qaibo Games 开发的一款全新的物理益智游戏，可�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 2D, 安卓, 点击, HTML5, 移动设备, 点击解谜
+- 标签: 单人, 2D, 安卓, 点击, HTML5, 移动设备, 点击式

@@ -19,6 +19,6 @@ There are chance to find the hidden cars in this game. You can enjoy each and ev
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Fight, Girls, Kids, Race, Racing, Sports
+- Tags: Boys, Fight, Girls, Kids, Race, Racing, sports

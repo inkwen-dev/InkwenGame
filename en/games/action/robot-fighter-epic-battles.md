@@ -19,6 +19,6 @@ The most strategic robots war game is now available. Each of them have different
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Army, Battle, Fight, Fighting, Logic, Robot, Strategy, War
+- Tags: Action, Arcade, Army, battle, Fight, fighting, Logic, Robot, strategy, War

@@ -21,4 +21,4 @@ Tall.io 是一款引人入胜、令人上瘾的基于 HTML5 的浏览器游戏�
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: .io, 男孩们, 移动设备, 多人, PvP, Stickman
+- 标签: .io, 男孩们, 移动设备, 多人, PvP, 木偶人

@@ -21,4 +21,4 @@ Army Sniper is a fun 2D sniper game with amazing graphics and fun gameplay. Play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Mobile, Sniper, weapons
+- Tags: Army, Mobile, sniper, weapons

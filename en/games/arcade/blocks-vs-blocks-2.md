@@ -21,4 +21,4 @@ A battle from the family of diamonds. The bigger the territory, the bigger the o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Block, Boy, Casual, Kid, Puzzle
+- Tags: 3D, 3D Games, Arcade, block, Boy, Casual, Kid, Puzzle

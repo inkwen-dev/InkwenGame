@@ -21,4 +21,4 @@ Do your best to earn scores against your opponents and win the matches! This is 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Sports
+- Tags: Adventure, sports

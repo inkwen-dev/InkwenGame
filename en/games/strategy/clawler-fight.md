@@ -29,4 +29,4 @@ Are you ready to face the ultimate challenge of skill and strategy? Gather your 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mobile, Strategy
+- Tags: Mobile, strategy

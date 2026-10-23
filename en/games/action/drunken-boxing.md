@@ -21,4 +21,4 @@ The Drunken battles continues with the new game. In Drunken Boxing, the Drunken 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Boxing, Boy, Fighting, Fun, Funny, Stickman
+- Tags: 2 Player, 2 Player Games, Boxing, Boy, fighting, Fun, Funny, stickman

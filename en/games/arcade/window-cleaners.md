@@ -21,4 +21,4 @@ In this game you are a window cleaner. Cleaning windows in tall buildings is a d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Avoid, Funny, Jumping, Kids
+- Tags: Arcade, Avoid, Funny, jumping, Kids

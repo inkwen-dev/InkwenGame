@@ -19,6 +19,6 @@ Super Cario World - Super Adventure gives you the chance to step back in time to
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, jump, Mario, run, running
+- Tags: Adventure, Arcade, jump, mario, run, running

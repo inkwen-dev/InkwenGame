@@ -19,6 +19,6 @@ Girl, this bakery game and baking game contains many fun cake games. You can bec
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Cute, Decorate, Food, Girl, Girls, Kids, Princess, Simulation

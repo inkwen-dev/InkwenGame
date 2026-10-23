@@ -19,6 +19,6 @@ Fill up the blocks to score high! Add even more excitement to the puzzle game by
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Casual, Hypercasual, Jelly, Puzzle
+- Tags: block, Casual, Hypercasual, Jelly, Puzzle

@@ -21,4 +21,4 @@ Welcome to Logic Vault, the ultimate cognitive test designed to challenge your w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, amazing, Baby Games, Best, Brain, Click, Hypercasual, Quiz, Science, Witch, Word
+- Tags: 1 Player, 2025 games, amazing, Baby Games, Best, Brain, Click, Hypercasual, Quiz, Science, Witch, word

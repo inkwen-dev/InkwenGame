@@ -15,6 +15,6 @@ Dive into the TickTock Challenge, where rapid-fire minigames test your wits. Mas
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Brain

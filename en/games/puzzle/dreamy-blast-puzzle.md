@@ -19,6 +19,6 @@ Enter the world of Dreamy Blast Puzzle, a free block puzzle game where strategy 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Arcade, Best Games, Bubble, Casual, Fun, Game, Kids, Level, Match 3, Relaxation, Strategy
+- Tags: 2026 games, Arcade, Best Games, Bubble, Casual, Fun, Game, Kids, Level, Match 3, Relaxation, strategy

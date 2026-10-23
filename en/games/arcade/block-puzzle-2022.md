@@ -21,4 +21,4 @@ The popular building block puzzle game, Block Puzzle, has been updated to give y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Arcade, Block, HTML5, Mobile, Unity3D
+- Tags: 1 Player, 2D, Android, Arcade, block, HTML5, Mobile, Unity3D

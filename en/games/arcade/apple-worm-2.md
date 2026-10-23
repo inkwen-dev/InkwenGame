@@ -19,6 +19,6 @@ Play Apple Worm now. This is a classic puzzle game with simple operation. Brain-
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Classic, Puzzle

@@ -21,4 +21,4 @@ Play online with real players from all over the world, win, and earn currency yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Aircraft, Arcade, Car, Cars, drift, drifting, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing
+- Tags: Action, Aircraft, Arcade, Car, Cars, drift, drifting, Fun, Funny, Hot, Hypercasual, jump, jumping, Race, Racing

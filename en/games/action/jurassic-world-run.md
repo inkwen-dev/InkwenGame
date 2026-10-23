@@ -21,4 +21,4 @@ You're in the Jurassic world, and there's an accident. All the dinosaurs came ou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ninja, Ninjago, run, running
+- Tags: ninja, Ninjago, run, running

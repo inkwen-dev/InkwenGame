@@ -19,6 +19,6 @@ Apple Tree Idle 2 is the sequel to Apple Tree Idle. Help a cat society harvest v
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cat, Click, Clicker, Fruit, Fruits

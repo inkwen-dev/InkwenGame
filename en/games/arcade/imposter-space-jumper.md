@@ -19,6 +19,6 @@ Welcome to our newest game Imposter Space Jumper game. The goal of the game is t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Fun, jump, Jumping, Kids
+- Tags: Arcade, Fun, jump, jumping, Kids

@@ -15,6 +15,6 @@ Embark on a vibrant journey with Adventure Match 3, where your puzzle-solving sk
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Match 3

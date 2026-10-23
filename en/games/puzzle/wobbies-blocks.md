@@ -19,6 +19,6 @@ Hello and welcome to Wobbies Blocks, An amazing blocks match3 puzzle game. Just 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Block, Casual, Clicker, Color, Hot, Match 3, Match3, Matching, Puzzle
+- Tags: Arcade, Best, block, Casual, Clicker, Color, Hot, Match 3, Match3, Matching, Puzzle

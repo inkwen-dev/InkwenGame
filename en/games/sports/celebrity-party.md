@@ -21,4 +21,4 @@ The academy awards, sequins and celebrities. Then, here comes the dinner to end 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Celebrity, Fight, Mario, Movie, Multiplayer, Sport
+- Tags: Casual, Celebrity, Fight, mario, Movie, Multiplayer, Sport

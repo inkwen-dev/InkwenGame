@@ -19,6 +19,6 @@ Cute Kitty Memory Challenge is a paw-sitively adorable memory game that will tic
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Educational, Fun, Girls, Hello Kitty, Kids, Logic, Memory, School, Skill
+- Tags: Brain, educational, Fun, Girls, Hello Kitty, Kids, Logic, memory, School, Skill

@@ -21,4 +21,4 @@ Drill deeper, explore mysterious underground biomes, collect valuable resources 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Mine, Miner, Mobile, Strategy, touchscreen
+- Tags: 1 Player, Arcade, Mine, Miner, Mobile, strategy, touchscreen

@@ -19,6 +19,6 @@ Jungle Block is a classic puzzle casual game where players can drag blocks into 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Block, Boy, Brain, Bricks, Casual, Fun, Highscore, HTML5, Jewel, Kids, Matching, Puzzle
+- Tags: Android, block, Boy, Brain, Bricks, Casual, Fun, Highscore, HTML5, Jewel, Kids, Matching, Puzzle

@@ -21,4 +21,4 @@ Build and manage your own colorful 3D zoo in Wild Manager. Walk through the park
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, Arcade, idle, Management, Simulation, tycoon
+- Tags: animals, Arcade, idle, management, Simulation, tycoon

@@ -19,6 +19,6 @@ Bubble Shooter Party is the most addictive bubble shooting game made by KizGame.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, Casual, HTML5, Hypercasual, Match 3, Match3, Matching, Shoot, Shoot 'Em Up, Shooting

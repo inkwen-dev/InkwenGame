@@ -19,6 +19,6 @@ Suika Animals &ndash; is a fun merge puzzle game where you need to combine match
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Best, Cartoon, Casual, Cute, Girl, Kids, watermelon

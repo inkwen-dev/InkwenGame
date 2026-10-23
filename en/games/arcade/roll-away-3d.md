@@ -19,6 +19,6 @@ This Ball rolling gameplay mechanics of ZenRoll are elegantly simple yet deeply 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Adventure, amazing, Arcade, Ball, unity, unity games, unity games for your site, unity games for your website, Unity3D

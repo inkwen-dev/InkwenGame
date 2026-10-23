@@ -21,4 +21,4 @@ In the thrilling game Skibidi Toilet Hide and Seek, players embark on a heart-po
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Android, HTML5, Mentolatux, Mobile, Skibidi, Skibidi Toilet, Unity3D, WebGL
+- Tags: 3D Games, Android, HTML5, Mentolatux, Mobile, Skibidi, skibidi-toilet, Unity3D, WebGL

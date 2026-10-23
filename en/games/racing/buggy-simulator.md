@@ -19,6 +19,6 @@ Buggy Simulator is a 3D game where you have at your disposal some awesome buggy 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Driving, Simulation, Simulator, WebGL

@@ -21,4 +21,4 @@ Chopsticks: Finger Battle Game Chopsticks: Finger Battle Game is a fun and strat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Casual, Math
+- Tags: 1 Player, 2D, Casual, math

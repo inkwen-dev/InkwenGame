@@ -19,6 +19,6 @@ Save The Prince is a free puzzle online game for boys. The prince is trapped in 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Animal, Avoid, Boy, Brain, Fun, HTML5, Kids, Obstacle, Online, Princess, Puzzle, Rescue

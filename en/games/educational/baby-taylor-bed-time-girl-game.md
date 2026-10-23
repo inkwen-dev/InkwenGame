@@ -21,4 +21,4 @@ It's bedtime! Moon has appeared and stars are shining in the sky. Our lovable Ba
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids
+- Tags: Baby, educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids

@@ -19,6 +19,6 @@ Survive the horde in Terrifying Zombies! Build strategic towers, upgrade defense
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, Adventure, apocalypse, Best Games, survival, Tower Defense, Zombie

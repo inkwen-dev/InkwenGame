@@ -24,4 +24,4 @@ These dragons from hell, under the witch's spell, are going to destroy the villa
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Dragon, Monster, Strategy, Tower Defense
+- Tags: Dragon, monster, strategy, Tower Defense

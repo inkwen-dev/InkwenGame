@@ -19,6 +19,6 @@ Race against time in this pulse-pounding puzzle challenge! Face an advancing wal
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Mobile, Puzzle

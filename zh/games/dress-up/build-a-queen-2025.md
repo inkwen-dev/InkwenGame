@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 装扮, 有趣, 女孩, 跑步
+- 标签: 装扮, 有趣, 女孩, 奔跑

@@ -21,4 +21,4 @@ Looking for an exciting action game to keep you entertained? Check out Hopeless 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Fighting, Shoot, Shooter, Shooting
+- Tags: Action, Adventure, fighting, Shoot, Shooter, Shooting

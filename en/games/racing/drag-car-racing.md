@@ -21,4 +21,4 @@ Drag Racing is the original nitro fuelled racing game which fascinated over 100 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Car, Cars, drift, drifting, Driving, Monster, Moto, Motorcycle, Simulation, Simulator, Supercars
+- Tags: Boy, Boys, Car, Cars, drift, drifting, Driving, monster, Moto, Motorcycle, Simulation, Simulator, Supercars

@@ -21,4 +21,4 @@ You just can’t imagine how much fun it can be in parking your car. Car Parking
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Car, Cars, Casual, Hypercasual, Parking, Skill
+- Tags: Adventure, Car, Cars, Casual, Hypercasual, parking, Skill

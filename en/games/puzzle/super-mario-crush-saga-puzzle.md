@@ -21,4 +21,4 @@ Surely you are no stranger to match 3 puzzle games. And welcome to Super Mario D
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mario, Punch, Super
+- Tags: mario, Punch, Super

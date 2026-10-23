@@ -21,4 +21,4 @@ Connect letters to find every word on the board and sail through thousands of cl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Puzzle, Word, World
+- Tags: Puzzle, word, World

@@ -21,4 +21,4 @@ Breakout 是基于一个流行概念的游戏；在 Breakout 中，一排砖块�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, 街机, 乐趣, 搞笑, 游戏, 游戏, HTML, HTML5, 儿童, 儿童
+- 标签: .io, 街机, 有趣, 搞笑, 游戏, 网页游戏, HTML, HTML5, 儿童, 儿童

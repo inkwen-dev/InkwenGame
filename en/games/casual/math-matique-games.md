@@ -21,4 +21,4 @@ Mathématique Games is the perfect way to help children learn math skills the ea
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Game, Games, HTML, HTML5, Kid, Kids, Math, Mind
+- Tags: Game, Games, HTML, HTML5, Kid, Kids, math, Mind

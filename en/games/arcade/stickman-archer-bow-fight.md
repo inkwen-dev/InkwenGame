@@ -21,4 +21,4 @@ Get ready with your arrows! Our Stickman Archer is the cleverest exciting stickm
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bow, html games for your website, HTML5, html5 games, Hypercasual, Stickman, unity games
+- Tags: Arcade, Bow, html games for your website, HTML5, html5 games, Hypercasual, stickman, unity games

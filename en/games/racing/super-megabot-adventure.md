@@ -19,6 +19,6 @@ Here is a robot shootem up side-scrolling adventure game. You are able to use di
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Bomb, Car, Gun, Mobile, Robot, Shoot 'Em Up, Shooting, Side Scrolling

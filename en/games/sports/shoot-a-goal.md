@@ -21,4 +21,4 @@ In this game you need to score a goal. Be accurate and hit the ball into the goa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Football, HTML5, Soccer, Sport, Sports
+- Tags: Boys, Football, HTML5, Soccer, Sport, sports

@@ -21,4 +21,4 @@ Bottle Jump : Flip 3D will get you to explore different rooms, jump on all sorts
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Arcade, Game, jump, Jumping
+- Tags: .io Games, Arcade, Game, jump, jumping

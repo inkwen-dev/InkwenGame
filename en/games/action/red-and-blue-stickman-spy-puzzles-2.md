@@ -21,4 +21,4 @@ Want to be an archery hero? Red And Blue Stickman-Spy Puzzles is an exciting and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Battle, Stickman
+- Tags: Arcade, battle, stickman

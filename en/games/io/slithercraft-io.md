@@ -19,6 +19,6 @@ SlitherCraft.io - is MINECRAFT + SLITHER.IO in one dynamic io game! Grow a snake
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2D, 3D, Animal, Arcade, Arena, Battle, Block, Bomb, Minecraft, Slither, Snake
+- Tags: .io Games, 2D, 3D, Animal, Arcade, Arena, battle, block, Bomb, Minecraft, Slither, snake

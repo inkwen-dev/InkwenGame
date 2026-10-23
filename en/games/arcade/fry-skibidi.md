@@ -21,4 +21,4 @@ Enjoy this Halloween season with this amazing puzzle horror game featuring the c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Boy, HTML5, Mobile, Physics, Puzzle, Skibidi, Skibidi Toilet
+- Tags: Arcade, block, Boy, HTML5, Mobile, Physics, Puzzle, Skibidi, skibidi-toilet

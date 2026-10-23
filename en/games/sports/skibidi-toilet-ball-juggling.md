@@ -19,6 +19,6 @@ Help Skibidi Toilet to not let the ball fall! How many times you can juggle thes
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, HTML, Mobile, Skibidi, Skibidi Toilet, Soccer, Sport
+- Tags: Boy, HTML, Mobile, Skibidi, skibidi-toilet, Soccer, Sport

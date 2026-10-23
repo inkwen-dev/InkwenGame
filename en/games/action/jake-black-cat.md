@@ -21,4 +21,4 @@ Jake Black Cat is a 2D platformer where you play as a famous black cat who have 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cat, Collecting, Cute, jump, Jumping, Pixel, Platform
+- Tags: 1 Player, 2D, Adventure, Arcade, Cat, Collecting, Cute, jump, jumping, pixel, Platform

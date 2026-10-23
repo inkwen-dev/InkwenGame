@@ -15,6 +15,6 @@ Dash through this vibrant, fast-paced scrolling adventure in Bomb! Race against 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: platformer

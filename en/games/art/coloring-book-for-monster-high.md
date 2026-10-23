@@ -19,6 +19,6 @@ Are you into Monster High ? Monster High Coloring Book: A Stunning Coloring Book
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Color, Coloring, Draw, Drawing, Game, Kids, Online, Puzzle
+- Tags: Cartoon, Color, Coloring, Draw, drawing, Game, Kids, Online, Puzzle

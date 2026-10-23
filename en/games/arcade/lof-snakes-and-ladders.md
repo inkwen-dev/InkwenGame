@@ -21,4 +21,4 @@ Classic Snakes and Ladders game with interesting design. Enjoy playing with your
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Arcade, Board, HTML5, Mobile, Snake, Turn Based
+- Tags: 2 Player, 2 Player Games, Arcade, Board, HTML5, Mobile, snake, Turn Based

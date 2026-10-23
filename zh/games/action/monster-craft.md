@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 工艺, 制作, 我的世界
+- 标签: 3D, 建造, 制作, 我的世界

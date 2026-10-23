@@ -21,4 +21,4 @@ Shoot to enemy ships and complete the all levels. You will like to this game so 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Fighting, Shooting, Space, Spaceship, War
+- Tags: 1 Player, fighting, Shooting, Space, Spaceship, War

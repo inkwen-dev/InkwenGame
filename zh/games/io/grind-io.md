@@ -21,4 +21,4 @@ Grind io 提供了一款有趣且富有挑战性的游戏，你需要获取能�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io游戏, 战斗, 多人
+- 标签: .io, .io 游戏, 战斗, 多人

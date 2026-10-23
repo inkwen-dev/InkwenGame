@@ -19,6 +19,6 @@ This is another free puzzle game developed by Myhiddengame. In this game, you wi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, html5 games, Matching, Mobile, Puzzle, puzzleblock
+- Tags: Arcade, block, html5 games, Matching, Mobile, Puzzle, puzzleblock

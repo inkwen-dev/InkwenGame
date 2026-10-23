@@ -25,4 +25,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 颜色, 装饰, 繪畫, Mobile
+- 标签: 颜色, 装扮, 绘画, 移动设备

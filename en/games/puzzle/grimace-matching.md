@@ -19,6 +19,6 @@ Grimace Matching is a fast-paced color-matching game where you must pair Grimace
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Fun, Funny, Game, Games, Grimace, Grimace Shake, HTML, HTML5, Matching, Puzzle

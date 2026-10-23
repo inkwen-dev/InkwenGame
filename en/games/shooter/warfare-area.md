@@ -19,6 +19,6 @@ It's war and enemies have captured your base. You are the last soldier from your
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Army, Gun, HTML5, Killing, Mobile, Shooter, War

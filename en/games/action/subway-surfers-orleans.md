@@ -19,6 +19,6 @@ Control in the game on the computer is carried out using the arrows, space - to 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, HTML, HTML5, Hypercasual, jump, Jumping, Puzzle, run, running, subway, Subway Surfers, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, HTML, HTML5, Hypercasual, jump, jumping, Puzzle, run, running, subway, Subway Surfers, Unity3D

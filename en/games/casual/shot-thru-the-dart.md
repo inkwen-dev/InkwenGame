@@ -15,6 +15,6 @@ Experience the thrill of precision in Shot Thru the Dart as you aim and pop vibr
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: hyper-casual

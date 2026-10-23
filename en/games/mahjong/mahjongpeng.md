@@ -21,4 +21,4 @@ MahjongPeng is a puzzle eliminating GamesPlayers can push mahjong to merge and e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Mahjong, Puzzle
+- Tags: 1 Player, 2D, mahjong, Puzzle

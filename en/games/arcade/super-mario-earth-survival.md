@@ -21,4 +21,4 @@ Use arrow keys or tap on the buttons to run. Do not let enemies to hit the EARTH
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Avoid, Cartoon, Collecting, HTML5, Kids, Mario, Mobile, Skill, Superhero
+- Tags: Android, Avoid, Cartoon, Collecting, HTML5, Kids, mario, Mobile, Skill, Superhero

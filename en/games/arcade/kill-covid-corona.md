@@ -21,4 +21,4 @@ Kill Covid (Corona) - is a trendy game where you have to stop the Covid-19 virus
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Clicker, Interactive, Retro
+- Tags: Action, Arcade, Clicker, Interactive, retro

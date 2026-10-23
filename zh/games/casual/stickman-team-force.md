@@ -21,4 +21,4 @@ z 或点击射击 c 切换英雄 空格键使用特殊技能
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: kiz10, 木棍人
+- 标签: kiz10, 木偶人

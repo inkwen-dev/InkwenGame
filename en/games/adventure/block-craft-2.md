@@ -19,6 +19,6 @@ With the 2nd version of Block Craft, the adventure continues from where it left 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Block, Creation, Fun, Funny, Mine, Minecraft, Miner, Pixel
+- Tags: 3D, 3D Games, block, Creation, Fun, Funny, Mine, Minecraft, Miner, pixel

@@ -19,6 +19,6 @@ This is a 4 Player Bomber game where you have to bomb the walls with the Bomb an
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 2D, Block
+- Tags: 2 Player Games, 2D, block

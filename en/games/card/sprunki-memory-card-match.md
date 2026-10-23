@@ -19,6 +19,6 @@ Put your memory to the ultimate test with Sprunki Memory Card Match! Dive into a
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Brain, Card, Girls, Hypercasual, Matching, Memory, Puzzle, Sprunki
+- Tags: Boys, Brain, card, Girls, Hypercasual, Matching, memory, Puzzle, Sprunki

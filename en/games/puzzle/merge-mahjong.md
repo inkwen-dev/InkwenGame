@@ -19,6 +19,6 @@ Relax and stretch your mind in this merge puzzle. - A unique mechanism that is e
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mahjong, Match-3, Match3, Matching, Puzzle
+- Tags: mahjong, Match 3, Match3, Matching, Puzzle

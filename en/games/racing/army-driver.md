@@ -19,6 +19,6 @@ Army Driver is a fun driving game where you race though 30 levels. You can buy n
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, Driving, Mobile

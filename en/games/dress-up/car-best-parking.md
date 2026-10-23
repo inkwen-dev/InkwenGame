@@ -21,4 +21,4 @@ Advance Car Parking Game and Car Driving Simulator is the latest car drive parki
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, 8 Ball Pool, Action, Android, Avoid, Car, Cars, Collection, Creation, Decoration, Educational, Fashion, Interactive Fiction, Mario, Minion, Relaxation, Seduction, Sim, Simulation, Simulator, Supercars, Unity3D, Violence
+- Tags: .io, .io Games, 3D, 3D Games, 8 Ball Pool, Action, Android, Avoid, Car, Cars, Collection, Creation, Decoration, educational, Fashion, Interactive Fiction, mario, Minion, Relaxation, Seduction, Sim, Simulation, Simulator, Supercars, Unity3D, Violence

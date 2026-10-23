@@ -19,6 +19,6 @@ This is a free classic find the difference puzzle game online for all kids. The 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Fun, Girl, Highscore, HTML5, Kid, Mobile, Online, Puzzle, Timing

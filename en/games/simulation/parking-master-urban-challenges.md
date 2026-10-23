@@ -26,4 +26,4 @@ Explore the dynamic environment of city driving in "Parking Master: Urban Challe
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Car, Driving, Parking, Simulation
+- Tags: 3D, Car, Driving, parking, Simulation

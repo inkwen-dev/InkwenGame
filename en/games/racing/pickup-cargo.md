@@ -21,4 +21,4 @@ Drive a pickup truck on dirty and hilly roads and deliver various cargo to the c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Car, Driving, Fun, Skill, Truck
+- Tags: 1 Player, 3D, 3D Games, Car, Driving, Fun, Skill, truck

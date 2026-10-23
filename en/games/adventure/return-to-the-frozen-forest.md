@@ -19,6 +19,6 @@ Return To The Frozen Forest is the newest outdoor escape game from Escape Fan. E
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Escape, Mobile, Point And Click

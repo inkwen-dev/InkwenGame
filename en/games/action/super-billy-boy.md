@@ -19,6 +19,6 @@ Are you ready for an exciting adventure? Explore an unknown planet with Super Bi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, HTML5, jump, Jumping, Kid, Kids, Mario, Mobile, Pixel, Platform, Super
+- Tags: 2D, Adventure, HTML5, jump, jumping, Kid, Kids, mario, Mobile, pixel, Platform, Super

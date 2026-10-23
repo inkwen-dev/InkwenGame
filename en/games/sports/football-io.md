@@ -19,6 +19,6 @@ Football.io is fun addictive io game.You have to compete with 3 other players an
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Football, Sport, Sports
+- Tags: .io, .io Games, Football, Sport, sports

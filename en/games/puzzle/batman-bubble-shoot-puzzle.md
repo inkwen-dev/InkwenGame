@@ -19,6 +19,6 @@ Do you like adventure games? If the answer is yes then you should not miss Batma
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Batman, Bubble, Bubble Shooter, Hypercasual, Puzzle

@@ -19,6 +19,6 @@ Coin Bound is a fastpaced arcade runner where every second counts. Dash through 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Magic, Maze, run, running, Zombie

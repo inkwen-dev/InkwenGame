@@ -19,6 +19,6 @@ Join this daring new imagination of the Marvel Universe, equip your Champions an
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Boys, Fight, Fighting, Fire, Flight, fly, Girls, Spiderman, Spongebob, Sport, Street Fighting, Superhero, Unity3D
+- Tags: 3D, 3D Games, Action, Boys, Fight, fighting, Fire, flight, fly, Girls, Spiderman, Spongebob, Sport, Street Fighting, Superhero, Unity3D

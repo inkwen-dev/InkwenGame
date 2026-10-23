@@ -21,4 +21,4 @@ Get ready for the ultimate ragdoll physics experience with Stickman Ragdoll Wrec
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Dismounting, Mentolatux, ragdoll, Stickman, unity, WebGL
+- Tags: 1 Player, Dismounting, Mentolatux, ragdoll, stickman, unity, WebGL

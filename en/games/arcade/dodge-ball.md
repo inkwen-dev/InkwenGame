@@ -19,6 +19,6 @@ Touch And Drag the red ball get star,dodge enemy,get best time
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Adventure, Arcade, Ball

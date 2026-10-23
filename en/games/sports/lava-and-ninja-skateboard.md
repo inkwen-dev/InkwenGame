@@ -21,4 +21,4 @@ The lava is coming! Hurry up Ninja! Skateboard down the mountain, collect the da
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Best, Fun, HTML5, Mobile, Physics, run, running, Simulation, Skateboard
+- Tags: Action, Arcade, Best, Fun, HTML5, Mobile, Physics, run, running, Simulation, skateboard

@@ -21,4 +21,4 @@ Incredibly dynamic and fun multiplayer game. Build your tank from dozens of part
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, airplane, Arcade, Battle, Gun, Tank, Tanks, War, weapons
+- Tags: 1 Player, 2D, Action, airplane, Arcade, battle, Gun, Tank, tanks, War, weapons

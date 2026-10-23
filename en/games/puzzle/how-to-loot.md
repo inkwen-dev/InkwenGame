@@ -21,4 +21,4 @@ To play How To Loot, you must solve the brain damage puzzle to pull out the pin,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Avoid, Boy, Fun, HTML5, Kid, Mobile, Monster, Obstacle, Princess, Puzzle, Rescue
+- Tags: Android, Avoid, Boy, Fun, HTML5, Kid, Mobile, monster, Obstacle, Princess, Puzzle, Rescue

@@ -19,6 +19,6 @@ Parent Run Game is a fun and entertaining runner game where you experience the e
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 3D Games, Action, Best Games, Casual, endless, Hypercasual, running, Simulator

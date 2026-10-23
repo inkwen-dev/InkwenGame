@@ -19,6 +19,6 @@ Your dream garden is only a few taps away! Revive barren backyards, replace gari
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2D, Action, Adventure, Arcade, Cake, Casual, Decorate, Decoration, drift, Fun, Funny, Hypercasual, jump

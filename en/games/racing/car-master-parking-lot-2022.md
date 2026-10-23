@@ -19,6 +19,6 @@ You may direct the automobile to parking lot by drawing a line wit your finger. 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Clicker, Driving, HTML5, Mobile, Parking, Unity3D, WebGL
+- Tags: Car, Clicker, Driving, HTML5, Mobile, parking, Unity3D, WebGL

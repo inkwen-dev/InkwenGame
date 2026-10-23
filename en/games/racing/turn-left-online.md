@@ -19,6 +19,6 @@ Turn left is recommended as a normal traffic command simulation game. With 3D ca
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Brain, Car, HTML, Mobile, Puzzle, Traffic, Truck, WebGL
+- Tags: 3D, Arcade, Brain, Car, HTML, Mobile, Puzzle, Traffic, truck, WebGL

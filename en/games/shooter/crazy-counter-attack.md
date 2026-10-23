@@ -21,4 +21,4 @@ Crazy Counter Attack is an online game that combines thrilling gameplay with str
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Brain, Casual, Fun, Gun, HTML5, Kids, Online, Physics, Relaxation, Shooting, Skill, Strategy, weapons
+- Tags: Avoid, Brain, Casual, Fun, Gun, HTML5, Kids, Online, Physics, Relaxation, Shooting, Skill, strategy, weapons

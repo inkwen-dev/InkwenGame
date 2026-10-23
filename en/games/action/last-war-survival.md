@@ -21,4 +21,4 @@ The end is near. The world is no longer peaceful. In this game full of gunfights
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fight, Gun, Zombie
+- Tags: battle, Fight, Gun, Zombie

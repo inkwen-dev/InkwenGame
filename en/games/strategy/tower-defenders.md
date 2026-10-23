@@ -21,4 +21,4 @@ Fight the undead viking warriors and upgrade your defenses. Use the rewards you 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Clicker, Defense, Simulation, Strategy, Tower Defense
+- Tags: Click, Clicker, Defense, Simulation, strategy, Tower Defense

@@ -21,4 +21,4 @@ dÉTAILS CONCERNANT LE JEU Episode 3 of Metal Slug Rampage and Metal Slug Rampag
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Craft, Games, gta, Jumping
+- Tags: 1 Player, Action, Adventure, Craft, Games, gta, jumping

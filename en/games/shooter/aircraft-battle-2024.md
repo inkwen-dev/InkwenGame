@@ -19,6 +19,6 @@ You are a ship on a crucial mission to obliterate any aircraft spotted in the va
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Aircraft, airplane, HTML5, iPad, iPhone, Mentolatux, Mobile, Shooting, Unity3D, WebGL

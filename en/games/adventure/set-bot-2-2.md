@@ -15,6 +15,6 @@ Set Bot 2 immerses you in a thrilling 2D sci-fi platformer. Navigate intricate l
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

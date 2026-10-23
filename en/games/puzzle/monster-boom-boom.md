@@ -21,4 +21,4 @@ Monster Boom Boom is a fun and challenging puzzle game where you use special via
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Alien, Brain, Click, Monster, Puzzle
+- Tags: Alien, Brain, Click, monster, Puzzle

@@ -21,4 +21,4 @@ RPG game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, RPG
+- Tags: 1 Player, 3D, 3D Games, rpg

@@ -19,6 +19,6 @@ Blast off into a high-stakes galactic conflict in Space Arena! As a pilot in the
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Mobile, Shooter, Space

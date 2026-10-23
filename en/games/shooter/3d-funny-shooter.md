@@ -19,6 +19,6 @@ WASD and mouse to shoot
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Avoid, Funny, Gun, HTML5, Kill, Monster, Shooter, Shooting, Skill, weapons
+- Tags: Action, Arcade, Avoid, Funny, Gun, HTML5, Kill, monster, Shooter, Shooting, Skill, weapons

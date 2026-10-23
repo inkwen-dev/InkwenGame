@@ -21,4 +21,4 @@ Help Santos Dumont stay as long as possible on the plane and cross Paris. With j
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Flight, Fun, Funny, HTML5, Kids, Mobile, Skill
+- Tags: flight, Fun, Funny, HTML5, Kids, Mobile, Skill

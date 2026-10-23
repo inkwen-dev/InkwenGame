@@ -46,4 +46,4 @@ You're the king, but your heroes do whatever they want. Build guilds, put bounti
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Management, RPG, Simulation, Strategy, tycoon
+- Tags: Arcade, management, rpg, Simulation, strategy, tycoon

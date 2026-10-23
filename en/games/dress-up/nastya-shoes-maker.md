@@ -21,4 +21,4 @@ Welcome to the Nastya fashion shoe design maker studio where you can make fantas
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Family, Fashion, Game, Girl, Girls, Restaurant
+- Tags: 2D, Family, Fashion, Game, Girl, Girls, restaurant

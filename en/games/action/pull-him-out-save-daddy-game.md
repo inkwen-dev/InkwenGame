@@ -21,4 +21,4 @@ Play the best world class pull him out game, pull the pin and save daddy. Get re
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Battle
+- Tags: Action, Adventure, battle

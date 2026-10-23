@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩, 大脑, 差异, 游戏, 游戏, H5, HTML, HTML5, 儿童, kids, 时机
+- 标签: 男孩, 大脑, 找不同, 游戏, 网页游戏, H5, HTML, HTML5, 儿童, 儿童, 时机

@@ -21,4 +21,4 @@ Psst! Wanna some squishy magic? Get into the engrossing world of fun Pop-It game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Casual, Fun, html5 games, idle, Kids, Play, Puzzle, Relaxation, Simulator, Strategy, unity games for your site
+- Tags: 2026 games, Casual, Fun, html5 games, idle, Kids, Play, Puzzle, Relaxation, Simulator, strategy, unity games for your site

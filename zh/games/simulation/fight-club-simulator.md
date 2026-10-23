@@ -53,4 +53,4 @@ D：向右移动。
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 动作, 拳击, 格斗
+- 标签: 动作, Boxing, 格斗

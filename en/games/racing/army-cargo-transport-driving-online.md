@@ -19,6 +19,6 @@ Drivers for military truck is different from normal drivers in reality. You are 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Driving, Mobile, Obstacle, Parking, Simulation, Truck
+- Tags: 3D, Avoid, Driving, Mobile, Obstacle, parking, Simulation, truck

@@ -19,6 +19,6 @@ Trial Tank is physic running aventure, run through the amazing levels.touch cont
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Physics, Shoot, Tank, Tanks
+- Tags: Physics, Shoot, Tank, tanks

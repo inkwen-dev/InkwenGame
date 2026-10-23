@@ -19,6 +19,6 @@ After Jurassic World, Baby Panda’s Dinosaur Planet presents brand new dinosaur
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Baby Hazel, Boys, Dinosaur, Games, Girls, Kids, Online, Panda, Planet

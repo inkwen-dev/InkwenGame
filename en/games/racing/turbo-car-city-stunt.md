@@ -19,6 +19,6 @@ Turbo Car City Stunt is a 3D car driving game where you can perform stunts with 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Best, Cars, Driving, fly, Hot, Racing, Stunts, Supercars

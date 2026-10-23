@@ -19,6 +19,6 @@ Introducing the captivating world of Letters Coloring Book - your passport to a 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boy, Coloring, Girls, HTML5, Hypercasual, Kids, School

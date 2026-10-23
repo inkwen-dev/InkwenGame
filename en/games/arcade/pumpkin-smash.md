@@ -19,6 +19,6 @@ Pumpkin Smash is a delightful and addictive game that captures the essence of th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Casual, Halloween, hunter, Hypercasual

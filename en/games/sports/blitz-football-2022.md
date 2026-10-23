@@ -21,4 +21,4 @@ Play against a friend or take charge of the game and try out all the crazy modes
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, Football, Funny, Soccer, Sport, Sports
+- Tags: 2 Player, 2 Player Games, 3D, Football, Funny, Soccer, Sport, sports

@@ -21,4 +21,4 @@ Here is a funny boy farting in a funny style and save himself from knives, be ca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Bird, fly, Fun, Funny, Mahjong
+- Tags: Adventure, Bird, fly, Fun, Funny, mahjong

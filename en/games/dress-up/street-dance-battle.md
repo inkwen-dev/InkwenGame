@@ -19,6 +19,6 @@ Sister Sofia and Zoe, both of them like hip-hop, and each of them thinks that sh
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Fashion, Girl, Girls, Kids, Simulation

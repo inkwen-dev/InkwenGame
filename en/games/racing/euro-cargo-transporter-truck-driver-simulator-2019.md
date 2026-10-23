@@ -19,6 +19,6 @@ Let's become the cargo transporter of 2019 by driving the oversized or overloade
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Boy, Driving, HTML5, Simulation, Truck, WebGL
+- Tags: 3D, Arcade, Boy, Driving, HTML5, Simulation, truck, WebGL

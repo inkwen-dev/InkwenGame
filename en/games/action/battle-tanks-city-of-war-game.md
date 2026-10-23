@@ -19,6 +19,6 @@ Great tank battle for two players! Every time we mention the concept of tank, ea
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Battlegrounds, city, War
+- Tags: battle, Battlegrounds, city, War

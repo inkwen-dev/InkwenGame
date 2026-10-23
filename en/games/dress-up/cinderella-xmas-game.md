@@ -21,4 +21,4 @@ Christmas is here and the Princesses Cinderella have gotten together for their a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Celebrity, Christmas, Disney, Drawing, Dress Up, Fashion, Holiday, Makeover, Princess, Snow, Winter
+- Tags: Celebrity, Christmas, Disney, drawing, Dress Up, Fashion, Holiday, Makeover, Princess, Snow, Winter

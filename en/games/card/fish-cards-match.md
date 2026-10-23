@@ -19,6 +19,6 @@ Click or touch the card to open it. Watch and memorize the FISH on the cards. Yo
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Card, Fish, Kids, Matching, Memory, Puzzle
+- Tags: Arcade, card, Fish, Kids, Matching, memory, Puzzle

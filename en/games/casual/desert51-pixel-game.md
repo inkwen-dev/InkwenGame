@@ -21,4 +21,4 @@ Battle royale Desert 51 pixel 3D gun team, is a game that will keep you tense. T
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Minecraft, Multiplayer, Pixel
+- Tags: 3D, Minecraft, Multiplayer, pixel

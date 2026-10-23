@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 球, 弹跳, HTML5, 跳跃, 跳躍, 儿童, 拼图
+- 标签: 球, 弹跳, HTML5, 跳跃, 跳跃, 儿童, 益智

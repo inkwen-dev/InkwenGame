@@ -21,4 +21,4 @@ When I went over the mountains, crossed mountains, just to see you. But you're o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Block, Boy, Collecting, Kid, Kids, Puzzle, Relaxation, run, Side Scrolling, Stickman
+- Tags: 3D, Avoid, block, Boy, Collecting, Kid, Kids, Puzzle, Relaxation, run, Side Scrolling, stickman

@@ -21,4 +21,4 @@ Here is a 3D drawing motorbike-racing arcade game with 3D pixel characters and m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Brain, Drawing, HTML5, Mobile, Platform, Racing, Simulation
+- Tags: 3D, Arcade, Brain, drawing, HTML5, Mobile, Platform, Racing, Simulation

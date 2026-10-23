@@ -19,6 +19,6 @@ Blackball is a cue sport similar to pool, played on a rectangular table with six
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 8 Ball Pool

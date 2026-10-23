@@ -19,6 +19,6 @@ Baby Taylor Life Diary is a cleaning and pet care game for girls. Taylors mum is
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cat, Cleaning

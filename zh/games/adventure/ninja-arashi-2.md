@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 龙, 龙珠Z, 杀人, 蠕虫
+- 标签: 冒险, 龙, 龙珠Z, 击杀, 蠕虫

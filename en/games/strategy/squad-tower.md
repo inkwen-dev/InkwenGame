@@ -19,6 +19,6 @@ Squad Tower is the combination of action, strategy and combat puzzle. You will f
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Castle, Kid, Superhero, Tower Defense, War
+- Tags: battle, Castle, Kid, Superhero, Tower Defense, War

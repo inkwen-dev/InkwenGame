@@ -19,6 +19,6 @@ Cooking and meal preparing themed coloring game for kids with 4 different colori
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Cooking, Decoration, Educational, Food, Kids
+- Tags: Coloring, Cooking, Decoration, educational, Food, Kids

@@ -19,6 +19,6 @@ Experience tennis game in 3D! Here your knowledge of tenis is a valuable asset. 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, Sport, Sports
+- Tags: 2 Player Games, Sport, sports

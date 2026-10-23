@@ -19,6 +19,6 @@ Time to push! Use the arrow keys to walk and push the crates. Your goal is to pl
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Forest, Jigsaw, Puzzle, puzzleblock, tree

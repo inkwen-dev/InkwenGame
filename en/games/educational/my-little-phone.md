@@ -21,4 +21,4 @@ This fun educational game will teach your kids and toddlers to learn numbers and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Baby Hazel, Educational, HTML, HTML5, Kid, Kids, Number
+- Tags: Animal, Baby, Baby Hazel, educational, HTML, HTML5, Kid, Kids, Number

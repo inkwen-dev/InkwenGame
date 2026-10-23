@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动物, 休闲, 涂色, HTML5, 孩子们, 解谜
+- 标签: 动物, 休闲, 着色, HTML5, 儿童, 益智

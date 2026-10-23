@@ -21,4 +21,4 @@ Clown Park - Hide And Seek is a camp against camp arcade game. It has beautiful 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, Action, Boys, Crazy
+- Tags: .io, .io Games, 3D, Action, Boys, crazy

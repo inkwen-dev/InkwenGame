@@ -21,4 +21,4 @@ Soul Essence Adventure immerses you in a 2D journey where you find yourself trap
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, free games for your website, FreezeNova, RPG
+- Tags: 2D, Action, free games for your website, FreezeNova, rpg

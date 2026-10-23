@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动物, 鸟, HTML5, 拼图, 逻辑, 手机, 益智
+- 标签: 动物, 小鸟, HTML5, 拼图, 逻辑, 移动设备, 益智

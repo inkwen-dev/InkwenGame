@@ -19,6 +19,6 @@ Popit World &ndash; Pop, Relax &amp; Unlock New Objects! Dive into Popit World, 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Click, Clicker, Kids

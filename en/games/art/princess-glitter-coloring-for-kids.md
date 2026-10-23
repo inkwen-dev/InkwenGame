@@ -21,4 +21,4 @@ This game is designed for kids of all ages. Especially by girls, as they love to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Color, Coloring, Design, Draw, Drawing, Girls, Princess
+- Tags: Baby, Color, Coloring, Design, Draw, drawing, Girls, Princess

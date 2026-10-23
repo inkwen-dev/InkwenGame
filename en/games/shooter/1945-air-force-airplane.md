@@ -21,4 +21,4 @@ Welcome to the 1945 Air Force: Airplane! Begin intense shooting battles in the s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: airplane, Fighting, Shooting
+- Tags: airplane, fighting, Shooting

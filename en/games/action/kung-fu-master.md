@@ -21,4 +21,4 @@ Progressive fighting game, your girlfriend has been kidnapped and you have to sa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting, Street Fighting
+- Tags: Fight, fighting, Street Fighting

@@ -41,4 +41,4 @@ Features:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, idle, Management, Simulation, Soccer, Sports, tycoon
+- Tags: Arcade, idle, management, Simulation, Soccer, sports, tycoon

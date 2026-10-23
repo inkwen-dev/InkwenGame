@@ -21,4 +21,4 @@ Nothing is batter then riding a horse. Horse Horse Jumping Show 3D is a horse ru
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Girls, Horse, HTML5, Simulator, WebGL
+- Tags: 3D, Girls, horse, HTML5, Simulator, WebGL

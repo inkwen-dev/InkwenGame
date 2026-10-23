@@ -21,4 +21,4 @@ Step into the world of Ultimate Billiard 3D Games: Snooker Pool Game, the ultima
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 8 Ball Pool, Action, Adventure, Casual, Pool
+- Tags: 2026 games, 8 Ball Pool, Action, Adventure, Casual, pool

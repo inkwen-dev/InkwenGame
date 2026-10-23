@@ -15,6 +15,6 @@ Unleash your inner thrill-seeker in Join Skibidi Clash 3D, where heart-racing pa
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Skibidi Toilet
+- Tags: skibidi-toilet

@@ -19,6 +19,6 @@ Ultimate dog racing game is being started in mighty stadium with huge crowd in D
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Animal, Game, Games, HTML, HTML5, Race, Racing

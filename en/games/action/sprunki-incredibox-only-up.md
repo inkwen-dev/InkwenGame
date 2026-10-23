@@ -19,6 +19,6 @@ The game begins with Sprunki or Cameramen standing on the ground, surrounded by 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: OnlyUp, Physics, Platform, Poppy Playtime, Skibidi, Skibidi Toilet, Sprunki
+- Tags: OnlyUp, Physics, Platform, Poppy Playtime, Skibidi, skibidi-toilet, Sprunki

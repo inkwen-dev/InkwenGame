@@ -50,4 +50,4 @@ Enjoy the game!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Educational, Puzzle, words
+- Tags: educational, Puzzle, words

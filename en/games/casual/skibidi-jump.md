@@ -19,6 +19,6 @@ Do you love Skibidi Toilet? Well! you are in the right place to play a skibidi t
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Skibidi Toilet
+- Tags: skibidi-toilet

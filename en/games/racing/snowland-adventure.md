@@ -19,6 +19,6 @@ Snowland Adventure is a 3D platform land game, discover and collect all the jewe
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Action, Adventure, Cartoon, Fun, Game, Games, HTML, HTML5, Kids, Racing

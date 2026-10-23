@@ -21,4 +21,4 @@ Skull Jumper Game, a single-touch jumping reaction game, has everything you need
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, HTML, HTML5, Hypercasual, jump, Jumping, Racing
+- Tags: Boy, HTML, HTML5, Hypercasual, jump, jumping, Racing

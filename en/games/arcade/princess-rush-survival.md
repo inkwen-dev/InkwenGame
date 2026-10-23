@@ -19,6 +19,6 @@ Princess Rush Survival Adventures 2021 is an extremely addictive endless runner 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Castle, Princess

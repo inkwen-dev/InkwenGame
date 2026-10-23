@@ -19,6 +19,6 @@ If you like fun animal games and jigsaw puzzles, you will absolutely love
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Boys, Brain, Girls, Kids, Puzzle

@@ -21,4 +21,4 @@ bull 鼠标 触控 水平拖动球拍 bull 键盘 PC 左箭头 A 向左移动 �
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 2025 games, 涂色, HTML5, unblockedgames76
+- 标签: 单人, 2025年游戏, 着色, HTML5, unblockedgames76

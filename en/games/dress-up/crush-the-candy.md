@@ -21,4 +21,4 @@ Download Candy Crush Soda Saga now! From the makers of the legendary Candy Crush
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Boy, Boys, Collection, Creation, Decoration, Educational, Fashion, Girl, Girls, Interactive Fiction, Relaxation, Seduction, Simulation
+- Tags: .io, .io Games, Action, Boy, Boys, Collection, Creation, Decoration, educational, Fashion, Girl, Girls, Interactive Fiction, Relaxation, Seduction, Simulation

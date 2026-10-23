@@ -21,4 +21,4 @@ This is a single-player arcade game about reaction and focus. The character runs
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Android, Arcade, Balance, Best Games, Casual, endless, HTML5, Logic, Pixel, Puzzle, Relaxation
+- Tags: 1 Player, 2026 games, 2D, Android, Arcade, Balance, Best Games, Casual, endless, HTML5, Logic, pixel, Puzzle, Relaxation

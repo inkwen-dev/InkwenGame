@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 有趣, HTML5, 孩子们, 逻辑, 手机, 技能
+- 标签: 街机, 有趣, HTML5, 儿童, 逻辑, 移动设备, 技巧

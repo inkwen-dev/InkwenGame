@@ -17,4 +17,4 @@ Engage your mind with Block Hexa Puzzle Pro, where tapping and dragging blocks f
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Block
+- Tags: block

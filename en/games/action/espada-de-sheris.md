@@ -21,4 +21,4 @@ In the year 4000 where humans became extinct and what exists are cats and Duzker
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adult, Adventure, Alien, Animal, Arcade, Cat, Cute, Ninja, Pixel, Platform, Sword
+- Tags: 1 Player, 2D, Action, Adult, Adventure, Alien, Animal, Arcade, Cat, Cute, ninja, pixel, Platform, sword

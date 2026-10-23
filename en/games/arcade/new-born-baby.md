@@ -19,6 +19,6 @@ Motherhood and Newborn Twins Babies Nurseries Nanny Baby Room for girls and todd
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Arcade, HTML5, Kid, Kids, Mobile

@@ -19,6 +19,6 @@ Draw Puzzle: One Line One Half- fun and tricky game, which refresh your mind and
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Draw, Drawing, Games, Hypercasual, Puzzle
+- Tags: Arcade, Casual, Draw, drawing, Games, Hypercasual, Puzzle

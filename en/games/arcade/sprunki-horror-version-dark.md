@@ -21,4 +21,4 @@ The world of the Sprunki characters has turned into a terrifying place, with eve
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Cartoon, Pixel, Sprunki
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Cartoon, pixel, Sprunki

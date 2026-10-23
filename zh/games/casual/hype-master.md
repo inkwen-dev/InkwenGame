@@ -21,4 +21,4 @@ Hype Master 是一款充满活力的社交模拟游戏，你将在一场高风�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 成人, 爱情, 移动, unity
+- 标签: 2D, 成人, 爱情, 移动设备, unity

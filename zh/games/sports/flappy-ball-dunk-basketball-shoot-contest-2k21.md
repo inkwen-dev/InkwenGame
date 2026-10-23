@@ -21,4 +21,4 @@ Flappy Dunk Shoot 是一款精彩的游戏，拥有经典和自定义的篮球�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 街机, 球, 气球, 篮球, 休闲, 飞, 游戏, 高分, HTML, HTML5, 超休闲, 跳跃, 跳跃, 在线, 益智, 足球, 体育, WebGL
+- 标签: .io 游戏, 街机, 球, 气球, 篮球, 休闲, 飞, 游戏, 高分, HTML, HTML5, 超休闲, 跳跃, 跳跃, 在线, 益智, 足球, 运动, WebGL

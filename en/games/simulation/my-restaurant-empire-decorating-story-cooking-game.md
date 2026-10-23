@@ -21,4 +21,4 @@ Welcome to the adventure of building a great Restaurant Empire, the newest top 3
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cook, Cooking, Decoration, Game, Games, Restaurant
+- Tags: Cook, Cooking, Decoration, Game, Games, restaurant

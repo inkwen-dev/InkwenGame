@@ -21,4 +21,4 @@ Here is a brand new game themed Squid Game. You have to find the right glass on 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Arcade, Best, Casual, Hypercasual, jump, Jumping, Kids, Road, Skill, WebGL
+- Tags: 3D, Action, Adventure, Arcade, Best, Casual, Hypercasual, jump, jumping, Kids, Road, Skill, WebGL

@@ -15,6 +15,6 @@ Guide Lumina Robot through dark and mysterious levels using its headlight to cha
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: robots

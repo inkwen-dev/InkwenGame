@@ -19,6 +19,6 @@ Desert Rush is a typical arcade matching game. Your goal is to connect the dots.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Arcade, Bejeweled, Casual, HTML5, Hypercasual, Match 3, Matching

@@ -21,4 +21,4 @@ Want to experience the most shocking 3D FPS shooting wars? In the Squad Shooter:
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Battle, fps, Funny, Minecraft, Shoot
+- Tags: 3D, battle, fps, Funny, Minecraft, Shoot

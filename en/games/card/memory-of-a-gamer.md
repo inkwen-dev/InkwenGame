@@ -21,4 +21,4 @@ Are you a gamer? How good is your memory? Play and challenge yourself to see if 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Memory, Mobile, Puzzle
+- Tags: card, memory, Mobile, Puzzle

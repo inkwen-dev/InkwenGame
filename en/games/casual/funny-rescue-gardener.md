@@ -23,4 +23,4 @@ Samantha is a great gardener, but even the best will get accidents sometimes. Le
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Funny, Surgery
+- Tags: Funny, surgery

@@ -19,6 +19,6 @@ Try to obtain the highest score by changing shapes! How to play Shape Fit Game: 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Arcade, Ball, Game, Games, Kids

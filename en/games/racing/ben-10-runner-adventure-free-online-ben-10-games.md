@@ -19,6 +19,6 @@ Ben 10 is trying to save the day in the Undertown Runner game. The evil aliens h
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Ben 10, Boys, Cartoon, Cartoon Network, Fun, Games, Girl, Kids, Online, run, running

@@ -21,4 +21,4 @@ Let's enjoy the restaurant game here! Come and join and serve all the customer's
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Cook, Restaurant
+- Tags: Arcade, Cook, restaurant

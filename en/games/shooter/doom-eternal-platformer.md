@@ -19,6 +19,6 @@ Fight through five worlds in Doom Eternal: Platformer, a fast Flash-style action
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Platform, Shoot, Shoot 'Em Up, Shooter, Shooting

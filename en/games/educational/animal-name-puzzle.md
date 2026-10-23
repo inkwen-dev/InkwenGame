@@ -21,4 +21,4 @@ Animal Name Puzzle is an exciting word scramble game where players must rearrang
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Educational, Kids, Word
+- Tags: Animal, educational, Kids, word

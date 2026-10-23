@@ -21,4 +21,4 @@ This game is a painting, drawing and coloring tool for kids in a Christmas theme
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Color, Coloring, Draw, Drawing, Family, Girl, Girls, Kid, Kids, School
+- Tags: Christmas, Color, Coloring, Draw, drawing, Family, Girl, Girls, Kid, Kids, School

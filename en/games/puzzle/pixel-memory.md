@@ -21,4 +21,4 @@ Pixel Memory is super fun memory game for kids that you can play online on your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boys, Fun, Girls, Kids, Memory, Mobile, Pixel, Puzzle, Skill
+- Tags: Android, Boys, Fun, Girls, Kids, memory, Mobile, pixel, Puzzle, Skill

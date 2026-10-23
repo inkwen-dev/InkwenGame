@@ -21,4 +21,4 @@ The Pond Adventure is a relaxing and fun game with many interesting levels. In t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Animal, Arcade, Avoid, Bird, Casual, Collecting, Fishing, Fun, HTML5, html5 games, html5 games for your site, Strategy
+- Tags: Adventure, Animal, Arcade, Avoid, Bird, Casual, Collecting, Fishing, Fun, HTML5, html5 games, html5 games for your site, strategy

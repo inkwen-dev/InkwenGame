@@ -19,6 +19,6 @@ Play the most EXCITING RUNNER game on the web Be a NINJA for a day and RACE thro
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Arcade

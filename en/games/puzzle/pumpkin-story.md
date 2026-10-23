@@ -21,4 +21,4 @@ A Pumpkin Story is a fun adventure ride of the little pumpkin in this Halloween 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Boy, Boys, Brain, Dungeon, Halloween, jump, Jumping, Monster, Puzzle
+- Tags: block, Boy, Boys, Brain, Dungeon, Halloween, jump, jumping, monster, Puzzle

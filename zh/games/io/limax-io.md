@@ -21,4 +21,4 @@ Limax.io 是一款有趣的 io 游戏，你需要变得越来越胖。击杀其�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 休闲, 游戏, 多人, PvP, 虫
+- 标签: 休闲, 游戏, 多人, PvP, 蠕虫

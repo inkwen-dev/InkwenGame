@@ -19,6 +19,6 @@ With Touch Drawn, which is a fun soccer game, you have to show the route the foo
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Arena, Ball, Best, HTML5, Hypercasual, Kids, Shoot

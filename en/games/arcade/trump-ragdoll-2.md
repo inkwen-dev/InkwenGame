@@ -19,6 +19,6 @@ Trump Ragdoll 2 is an online game that you can play for free. Trump Ragdoll 2 is
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Boys, Casual, Celebrity, Classic, Fun, Funny, HTML5, Kids, Puzzle

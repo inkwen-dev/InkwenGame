@@ -19,6 +19,6 @@ How much do you know about Vikings? Vikings Royal Battle provides you with a cha
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Avoid, Battle, Boy, Game, Kid, Puzzle
+- Tags: 3D, Adventure, Avoid, battle, Boy, Game, Kid, Puzzle

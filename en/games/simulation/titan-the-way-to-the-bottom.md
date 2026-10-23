@@ -19,6 +19,6 @@ The world ocean of our planet has been studied by a little more than 4%, so each
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Android, Arcade, Best Games, Casual, iPhone, Simulator, Submachine, unity, unity games, Unity3D

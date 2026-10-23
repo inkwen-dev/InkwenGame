@@ -21,4 +21,4 @@ Warrion on Atack is a very fun survival game. Your goal is to defeat the endless
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Fun, Funny, jump, Jumping, Kid, Kids, Kill, Killing, Pixel, Supercars, Superhero, Sword, Zombie
+- Tags: Adventure, Fun, Funny, jump, jumping, Kid, Kids, Kill, Killing, pixel, Supercars, Superhero, sword, Zombie

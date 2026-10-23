@@ -19,6 +19,6 @@ To solve difficult physics problems, you must draw shapes. They are not as simpl
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Brain, Draw, Drawing, HTML5, Math, Mobile, Puzzle, Skill, Unity3D, WebGL
+- Tags: 1 Player, 2D, Android, Brain, Draw, drawing, HTML5, math, Mobile, Puzzle, Skill, Unity3D, WebGL

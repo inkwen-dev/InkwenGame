@@ -21,4 +21,4 @@ Get ready for an electrifying challenge in Geometry Dash Jump Test your reflexes
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: dash, endless, Geometry, jump, Jumping, Kids, Race, Rhythm, run
+- Tags: dash, endless, Geometry, jump, jumping, Kids, Race, Rhythm, run

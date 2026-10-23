@@ -21,4 +21,4 @@ Description: Kids Geometry is an educational game designed to help children lear
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Games, Best Games, Clicker, Educational, Geometry, Kid, Kids
+- Tags: Baby Games, Best Games, Clicker, educational, Geometry, Kid, Kids

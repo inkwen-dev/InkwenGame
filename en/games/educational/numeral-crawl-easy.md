@@ -21,4 +21,4 @@ This is Numeral Crawl - Easy which is designed to make it easy for kids to score
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Educational, Math, Physics
+- Tags: Casual, educational, math, Physics

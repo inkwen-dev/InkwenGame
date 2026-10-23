@@ -21,4 +21,4 @@ update some modes and fix some bugs 1 The war between snakes and viruses elimina
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Fruit, Snake
+- Tags: Animal, Fruit, snake

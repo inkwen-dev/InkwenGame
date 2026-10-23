@@ -15,6 +15,6 @@ Dive into the delightful world of Cookie Maker for Kids, where young bakers tran
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: games-for-girls

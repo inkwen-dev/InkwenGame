@@ -21,4 +21,4 @@ Relax and improve your memory and ability at the same time with the worldwide fa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Game, Games, HTML, HTML5, Mahjong, Puzzle, Relaxation, Solitaire
+- Tags: Game, Games, HTML, HTML5, mahjong, Puzzle, Relaxation, solitaire

@@ -23,4 +23,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人, 双人游戏, Adventure, 僵尸
+- 标签: 双人, 双人游戏, 冒险, 僵尸

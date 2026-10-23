@@ -21,4 +21,4 @@ Crypta is a memory-based card game where each card has a crypto-symbol. You have
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Clicker, Memory, Puzzle
+- Tags: Casual, Clicker, memory, Puzzle

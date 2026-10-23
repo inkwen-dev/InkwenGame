@@ -21,4 +21,4 @@ Driving in Traffic is the latest cars racing game where you the experience the r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Multiplayer, Race, Racing, Sport, Sports
+- Tags: Car, Multiplayer, Race, Racing, Sport, sports

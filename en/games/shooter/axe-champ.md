@@ -21,4 +21,4 @@ Axe Champ is an axe throwing game! Throw axes through the targets in the Axe gam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Battle, Fun, Shoot, Sword
+- Tags: 3D Games, Action, battle, Fun, Shoot, sword

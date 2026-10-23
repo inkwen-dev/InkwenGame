@@ -17,4 +17,4 @@ Command powerful war machines and dominate the battlefield in World of WarTanks.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Tanks
+- Tags: tanks

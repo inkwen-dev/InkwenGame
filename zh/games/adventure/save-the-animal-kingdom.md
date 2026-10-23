@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 动作, 冒险, 动物, 鸟, 有趣, 互动, Unity3D
+- 标签: 单人, 2D, 动作, 冒险, 动物, 小鸟, 有趣, 互动, Unity3D

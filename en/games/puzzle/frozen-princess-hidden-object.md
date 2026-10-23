@@ -19,6 +19,6 @@ Find all cute girly fashion accessories hidden in the castle where the ice princ
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Hidden, HTML5, Princess, Puzzle, WebGL

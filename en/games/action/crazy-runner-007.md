@@ -19,6 +19,6 @@ Crazy Runner 007 Your character is John Agent 007 Run, avoid obstacles and jump 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Best, Highscore, Hot, Hypercasual, jump, Jumping, run, running, subway, Subway Surfers
+- Tags: Avoid, Best, Highscore, Hot, Hypercasual, jump, jumping, run, running, subway, Subway Surfers

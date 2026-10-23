@@ -21,4 +21,4 @@ Run through colorful environments, avoid tricky obstacles and beat your competit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2D, Adventure, Arcade, Sports
+- Tags: .io, .io Games, 1 Player, 2D, Adventure, Arcade, sports

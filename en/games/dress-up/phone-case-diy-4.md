@@ -19,6 +19,6 @@ Phone Case DIY 4 is a very interesting and fashionable Art game. At the beginnin
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Cute, Design, Draw, Drawing, Fashion, Fun, Girls, HTML5, iPhone, Kids, Mobile
+- Tags: Color, Coloring, Cute, Design, Draw, drawing, Fashion, Fun, Girls, HTML5, iPhone, Kids, Mobile

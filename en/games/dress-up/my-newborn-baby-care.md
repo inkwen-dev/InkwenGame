@@ -21,4 +21,4 @@ How exciting! A new baby in the family needs your love and care. Welcome your ne
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cooking, Cute, Decorate, Design, Doctor, Dress Up, Educational, Girl, Girls, Kids, Simulation
+- Tags: Baby, Cooking, Cute, Decorate, Design, Doctor, Dress Up, educational, Girl, Girls, Kids, Simulation

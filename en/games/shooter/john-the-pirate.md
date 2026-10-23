@@ -19,6 +19,6 @@ John is a fearless pirate and has ventured to seek treasure in uncharted lands i
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Monster, Platform, Shoot
+- Tags: Action, Adventure, Arcade, monster, Platform, Shoot

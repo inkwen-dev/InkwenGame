@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 球, 收集, 收集, HTML, HTML5, 跳跃, 跳跃
+- 标签: 街机, 球, 收集, 收藏, HTML, HTML5, 跳跃, 跳跃

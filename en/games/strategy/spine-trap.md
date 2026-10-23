@@ -21,4 +21,4 @@ spine trap is a puzzle game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, HTML5, Hypercasual, Puzzle, Strategy
+- Tags: Casual, HTML5, Hypercasual, Puzzle, strategy

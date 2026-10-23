@@ -21,4 +21,4 @@ Popcorn Time is an interesting puzzle game. Whether you are watching any kind of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Brain, Food, Kid, Puzzle, Skill, Strategy
+- Tags: Avoid, Brain, Food, Kid, Puzzle, Skill, strategy

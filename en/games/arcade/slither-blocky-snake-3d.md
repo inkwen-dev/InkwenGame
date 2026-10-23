@@ -21,4 +21,4 @@ Take pleasure in the new laid-back game redaction of the snake, as well as stay 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Android, Best, Crazy, HTML5, Minecraft, Mobile, Slither, Snake, Unity3D, WebGL
+- Tags: 3D, 3D Games, Android, Best, crazy, HTML5, Minecraft, Mobile, Slither, snake, Unity3D, WebGL

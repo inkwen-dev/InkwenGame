@@ -19,6 +19,6 @@ Baby Dino Planet is an adorable and exciting adventure game that takes you to a 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Arcade, Best, Collecting, Dinosaur, free games for your site, free games for your website, free html5 games for your website, html5 games, onlinegames io, Puzzle

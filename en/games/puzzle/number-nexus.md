@@ -21,4 +21,4 @@ Enter the Number Nexus, a world where logic and quick thinking collide! Numbered
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Math, Skills
+- Tags: Casual, math, Skills

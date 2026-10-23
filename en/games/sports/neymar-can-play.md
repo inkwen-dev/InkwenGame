@@ -21,4 +21,4 @@ Neymar may be injured but he can still play. Brasil or PSG Neymar, your choice, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Soccer, Sports
+- Tags: Football, Soccer, sports

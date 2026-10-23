@@ -21,4 +21,4 @@ Force Master 3D is a battle Math online game for boys for free. In the game, all
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Boy, Brain, Fun, HTML5, Kids, Math, Number, Online, Puzzle
+- Tags: 3D, Android, Boy, Brain, Fun, HTML5, Kids, math, Number, Online, Puzzle

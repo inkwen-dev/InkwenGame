@@ -1,0 +1,24 @@
+# Hello Kitty 涂色书
+
+<a href="https://inkwengame.com/zh/games/coloring-book-for-hello-kitty" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/coloring-book-for-hello-kitty/cover.jpg)
+
+你喜爱 Hello Kitty 吗？Hello Kitty 涂色书：包含众多完美无瑕的 Hello Kitty 图像，助你放松身心。这本书是插图与电影角色的完美结合。它承诺为你带来一本充满 Hello Kitty 图像的涂色书。这种涂色活动有助于你更好地混合颜色、提升手眼协调能力，并增强你的涂色技巧…
+
+## 怎么玩
+
+使用鼠标来玩游戏或轻触屏幕
+
+## 介绍
+
+你喜爱 Hello Kitty 吗？Hello Kitty 涂色书：包含众多完美无瑕的 Hello Kitty 图像，助你放松身心。这本书是插图与电影角色的完美结合。它承诺为你带来一本充满 Hello Kitty 图像的涂色书。这种涂色活动有助于你更好地混合颜色、提升手眼协调能力，并增强你的涂色技巧。这款精彩的产品还能帮助你焕新思维，减轻压力。加入这个五彩缤纷的 Hello Kitty 世界
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/art" target="_blank" rel="noopener noreferrer">绘画</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 卡通, 颜色, 着色, 绘画, 绘画, 游戏, Hello Kitty, 儿童, 在线, 益智

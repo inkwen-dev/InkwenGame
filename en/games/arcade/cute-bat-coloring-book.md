@@ -19,6 +19,6 @@ Cute Bat Coloring Book is fun halloween coloring book for kids and adults. Hallo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, Coloring, Games, Girls, Halloween, HTML5, Kids, School

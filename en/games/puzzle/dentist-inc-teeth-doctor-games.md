@@ -21,4 +21,4 @@ Welcome to New Dentist Game : Dental Care Free Doctor Games : Going to the crazy
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Adult, Adventure, Arkanoid, Baby, Ball, Barbie, Boy, Boys, Bubble, Bubble Shooter, Candy, Doctor, Dora, Game, Games, Girl, Girls, Monkey, Monster, Motorcycle, Spongebob, Sudoku
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Adult, Adventure, Arkanoid, Baby, Ball, Barbie, Boy, Boys, Bubble, Bubble Shooter, Candy, Doctor, Dora, Game, Games, Girl, Girls, Monkey, monster, Motorcycle, Spongebob, Sudoku

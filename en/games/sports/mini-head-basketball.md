@@ -21,4 +21,4 @@ Put on your sneakers, and get ready to go onto the court in this brand new baske
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Arcade, Casual, Crafting, Fun, Funny, Hot, Hypercasual, jump, Jumping, Soccer, Sport, Sports, Unity3D
+- Tags: 3D, 3D Games, Action, Arcade, Casual, Crafting, Fun, Funny, Hot, Hypercasual, jump, jumping, Soccer, Sport, sports, Unity3D

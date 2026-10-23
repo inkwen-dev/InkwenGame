@@ -19,6 +19,6 @@ In Extreme Water Floating Bus Driving Simulator Games 2020 amazing speed drift w
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: bus, drift, drifting, Driving, surfers

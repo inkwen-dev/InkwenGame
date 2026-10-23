@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, Android, 男孩, 大脑, 趣味, HTML5, 儿童, 配对, 在线, 谜题, 放松
+- 标签: 3D, 安卓, 男孩, 大脑, 有趣, HTML5, 儿童, 匹配, 在线, 益智, 放松

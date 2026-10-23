@@ -21,4 +21,4 @@ join this happy catwalk fashion makeover challenge game, slide forward flexibly.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, Action, Adventure, Arcade, Chicken, Games, Girl, Girls, Helicopter, Ladybug, Mobile, Race, Racing, Unity3D
+- Tags: .io Games, 2 Player Games, 3D Games, Action, Adventure, Arcade, Chicken, Games, Girl, Girls, helicopter, Ladybug, Mobile, Race, Racing, Unity3D

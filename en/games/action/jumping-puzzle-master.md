@@ -21,4 +21,4 @@ Fight Master is New Wrestling Puzzle Game with Ultimate Action fight Game with 1
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Fighting
+- Tags: 1 Player, Action, fighting

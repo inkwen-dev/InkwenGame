@@ -21,4 +21,4 @@ This kids drawing worksheet with animated pictures for little princesses has eve
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Cartoon, Color, Coloring, Cute, Draw, Drawing, Educational, Fun, Girls, HTML5, Kids, Mobile
+- Tags: Cartoon, Color, Coloring, Cute, Draw, drawing, educational, Fun, Girls, HTML5, Kids, Mobile

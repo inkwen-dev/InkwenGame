@@ -19,6 +19,6 @@ Mini Golf 2D it is a very fun and accurate game. Your goal is to get the ball to
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Golf, Match 3
+- Tags: .io Games, golf, Match 3

@@ -15,6 +15,6 @@ Embark on a serene journey with Destress Game, featuring 80 relaxing mini-games 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Fun

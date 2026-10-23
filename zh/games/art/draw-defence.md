@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 大脑, 防御, 繪畫, H5, HTML, HTML5, 孩子们, 在线, 解谜, 策略, 剑, 战争
+- 标签: 3D, 3D游戏, 大脑, 防御, 绘画, H5, HTML, HTML5, 儿童, 在线, 益智, 策略, 剑, 战争

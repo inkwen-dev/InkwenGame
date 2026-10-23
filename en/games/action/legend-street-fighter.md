@@ -19,6 +19,6 @@ Hit the road and experience the excitement of street fighting in Legend Street F
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arena, Fighting
+- Tags: Action, Arena, fighting

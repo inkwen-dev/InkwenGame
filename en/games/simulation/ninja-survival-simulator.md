@@ -23,4 +23,4 @@ Become a nimble ninja and embark on a dangerous adventure through many levels fi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Ninja, survival
+- Tags: 3D, ninja, survival

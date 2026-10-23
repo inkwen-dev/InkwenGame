@@ -19,6 +19,6 @@ Help baby cat Twinkle hatch from her magical egg! Show the kitty around the roya
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cat, Educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids
+- Tags: Baby, Cat, educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids

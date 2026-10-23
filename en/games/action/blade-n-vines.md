@@ -21,4 +21,4 @@ Blade &amp; Vines is an action-packed Amazonian battle adventure where nature it
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Fighting, Sword, Warrior
+- Tags: Action, fighting, sword, Warrior

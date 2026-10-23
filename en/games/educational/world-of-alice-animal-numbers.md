@@ -19,6 +19,6 @@ World of Alice - Animal Numbers World of Alice - Animal Numbers is an educationa
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Educational, html5 games for your site, Kids, Math, Mobile, Number, School
+- Tags: Animal, educational, html5 games for your site, Kids, math, Mobile, Number, School

@@ -21,4 +21,4 @@ SuperPoker is a puzzle game with a casino style, where you match combinations su
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casino, Casual, Click, Logic, Puzzle
+- Tags: card, Casino, Casual, Click, Logic, Puzzle

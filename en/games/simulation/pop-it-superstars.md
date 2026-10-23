@@ -19,6 +19,6 @@ Pop It Superstars is a fun relaxing game and a unique game to play on! This is a
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Ball, Batman, Best, Bird, Boy, Boys, Brain, Casual, Click, Clicker, Game, Games, Girl, Girls, HTML, HTML5, Hypercasual, Kid, Kids, Mario, Mind, Pokemon, Puzzle, Simpson, Simulation, Spiderman, Spongebob, Superhero
+- Tags: 3D, Arcade, Ball, Batman, Best, Bird, Boy, Boys, Brain, Casual, Click, Clicker, Game, Games, Girl, Girls, HTML, HTML5, Hypercasual, Kid, Kids, mario, Mind, Pokemon, Puzzle, Simpson, Simulation, Spiderman, Spongebob, Superhero

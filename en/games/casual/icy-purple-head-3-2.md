@@ -15,6 +15,6 @@ Jump into a colorful adventure with Icy Purple Head 3 as you help the postman de
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Fun

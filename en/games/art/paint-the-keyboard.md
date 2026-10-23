@@ -30,4 +30,4 @@ To fill the roller with paint, go to the paint tank.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, Drawing
+- Tags: Clicker, drawing

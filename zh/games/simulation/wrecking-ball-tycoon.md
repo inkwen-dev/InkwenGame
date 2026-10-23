@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 球, 建筑, 破坏, 闲暇, mapi games, 模拟
+- 标签: 球, 建造, 破坏, idle, mapi games, 模拟

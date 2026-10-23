@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 3D, 3D游戏, 无尽, 逃脱, 怪物, 障碍, 行星, 射击, 射击游戏, 射击, 射击, 剑, Unity3D, 武器, WebGL
+- 标签: 单人, 3D, 3D游戏, 无尽, 逃脱, monster, 障碍, 星球, 射击, 射击游戏, 射击类, 射击, 剑, Unity3D, 武器, WebGL

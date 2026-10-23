@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 街机, 乐趣, 跳跃, 马里奥, Stickman
+- 标签: 冒险, 街机, 有趣, 跳跃, mario, 木偶人

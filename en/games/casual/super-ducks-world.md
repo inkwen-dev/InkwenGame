@@ -21,4 +21,4 @@ Super Duck&rsquo;s World is a fun and exciting 2D adventure game with 45 challen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Bounce, Cartoon, Crazy, Jumping
+- Tags: Best Games, Bounce, Cartoon, crazy, jumping

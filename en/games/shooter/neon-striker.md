@@ -21,4 +21,4 @@ Neon Strike is a fast-paced arcade space shooter inspired by classic Galaga-styl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Alien, Arcade, mapi games, Retro, Shoot 'Em Up, Shooter, Space, War
+- Tags: Alien, Arcade, mapi games, retro, Shoot 'Em Up, Shooter, Space, War

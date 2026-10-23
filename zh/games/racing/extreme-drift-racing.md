@@ -21,4 +21,4 @@ WASD - 控制 C - 摄像头
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 3D 游戏, 街机, 汽车, cars, 卡通, Cartoon Network, 漂移, 漂移驾驶, 驾驶, 有趣, 搞笑, HTML5, 竞速, 赛车, Unity3D
+- 标签: 单人, 3D, 3D游戏, 街机, 汽车, 汽车, 卡通, 卡通频道, 漂移, 漂移, 驾驶, 有趣, 搞笑, HTML5, 比赛, 竞速, Unity3D

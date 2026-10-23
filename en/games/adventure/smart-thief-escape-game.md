@@ -15,6 +15,6 @@ Unleash your inner mastermind in Smart Thief Escape! Collaborate to solve challe
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Escape

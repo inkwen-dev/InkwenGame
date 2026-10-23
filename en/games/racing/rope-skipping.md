@@ -21,4 +21,4 @@ A very casual 3D game, players control the role in different situations jump, si
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arena, Balance, Best, Classic, Jumping, Sports
+- Tags: Adventure, Arena, Balance, Best, Classic, jumping, sports

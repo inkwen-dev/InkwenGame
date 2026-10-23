@@ -19,6 +19,6 @@ Play a casino card game against the house in this straight to the point poker va
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casino, Poker, Solitaire
+- Tags: card, Casino, Poker, solitaire

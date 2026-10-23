@@ -19,6 +19,6 @@ Crowd Town is a new, fun game. The aim of the game is to reduce the number of cr
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure

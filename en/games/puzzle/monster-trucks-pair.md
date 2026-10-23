@@ -19,6 +19,6 @@ Monster Trucks Pair is a memory game with monster trucks. Pair two same cards wi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Kids, Memory, Mobile, Puzzle, Truck
+- Tags: HTML5, Kids, memory, Mobile, Puzzle, truck

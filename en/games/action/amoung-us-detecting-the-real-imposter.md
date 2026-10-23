@@ -21,4 +21,4 @@ Amoung US : Detecting The Real IMPOSTER!! is a fun and engaging puzzle game. You
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Alien, Battle, Battlegrounds, Fight, Kill, Puzzle
+- Tags: 3D, 3D Games, Action, Adventure, Alien, battle, Battlegrounds, Fight, Kill, Puzzle

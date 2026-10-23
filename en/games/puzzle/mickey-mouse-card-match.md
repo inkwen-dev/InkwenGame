@@ -21,4 +21,4 @@ Mickey Mouse is a funny animal cartoon character and the official mascot of The 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Match-3, Puzzle
+- Tags: Cartoon, Match 3, Puzzle

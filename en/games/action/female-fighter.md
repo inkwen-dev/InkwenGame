@@ -21,4 +21,4 @@ One night Emily had a dream. She was walking down a hallway, dressed as a warrio
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting, WebGL
+- Tags: Fight, fighting, WebGL

@@ -19,6 +19,6 @@ Jump through the platforms and collect the carrots on the way. Press the mouse t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Casual, Fun, HTML5, html5 games for your site, jump, Jumping, Mouse, Platform, Rabbit
+- Tags: Animal, Arcade, Casual, Fun, HTML5, html5 games for your site, jump, jumping, Mouse, Platform, Rabbit

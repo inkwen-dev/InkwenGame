@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2026年游戏, arrows, 最佳游戏, 超休闲
+- 标签: 2026 游戏, 箭头, 最佳游戏, 超休闲

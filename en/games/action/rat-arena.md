@@ -21,4 +21,4 @@ Try to defeat the enemy rat! Use magic wand, sword and shield. Perfect AI 3 type
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arena, Fighting
+- Tags: Arena, fighting

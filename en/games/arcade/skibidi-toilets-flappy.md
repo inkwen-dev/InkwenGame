@@ -21,4 +21,4 @@ Skibidi Toilets: Flappy is an addictive, fast-paced mobile game that combines th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Clicker, HTML5, Skibidi Toilet
+- Tags: Adventure, Arcade, Clicker, HTML5, skibidi-toilet

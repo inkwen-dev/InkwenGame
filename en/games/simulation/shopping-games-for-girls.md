@@ -19,6 +19,6 @@ my Boutique Fashion Shop Game: Shopping Fever TOP QUALITY GAME FOR FASHION LEADE
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arcade, Best, Casual, Games, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Shopping, Simulation, Simulator

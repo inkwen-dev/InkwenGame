@@ -21,4 +21,4 @@ Ring on Tube is waiting for you, collecting the pieces placed on the tube with t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Best, Block, Boy, Boys, Casual, Classic, Collection, Cool, Crazy, endless, Fun, Funny, Game, HTML5, Hypercasual, Kid, Kids, Mobile, Super, WebGL
+- Tags: 3D, Arcade, Best, block, Boy, Boys, Casual, Classic, Collection, cool, crazy, endless, Fun, Funny, Game, HTML5, Hypercasual, Kid, Kids, Mobile, Super, WebGL

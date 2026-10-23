@@ -19,6 +19,6 @@ This is a Scary Granny House game where you have to explore the house of Scary G
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Escape, Ghost

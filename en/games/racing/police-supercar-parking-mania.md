@@ -21,4 +21,4 @@ Police Chase Supercar Park is not your typical parking game. Here, youre a law e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Cars, Driving, Forest, HTML5, Mobile, Parking, Police, Supercars
+- Tags: Android, Cars, Driving, Forest, HTML5, Mobile, parking, police, Supercars

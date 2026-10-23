@@ -19,6 +19,6 @@ Welcome to the city of sin&mdash;the place where you can drown yourself in riche
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, gta

@@ -19,6 +19,6 @@ Christmas is here and the princesses Snow White have gotten together for their a
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Celebrity, Christmas, Disney, Dress Up, Fashion, Holiday, Makeover, Princess, Snow, Winter

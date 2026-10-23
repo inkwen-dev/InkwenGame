@@ -19,6 +19,6 @@ Be prepared to face off against the ultimate fight between cannons and boulders!
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Ball, Mobile, Unity3D

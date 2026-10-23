@@ -21,4 +21,4 @@ Shadow Chase is a power-packed action-adventure game of Ninja, An addictive plat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Boy, endless, free games for your site, Fun, Ninja
+- Tags: 1 Player, 2D, Action, Adventure, Boy, endless, free games for your site, Fun, ninja

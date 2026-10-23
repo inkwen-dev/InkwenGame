@@ -19,6 +19,6 @@ Spin and drop all the rings in Off the Hook: Ring Puzzle, a relaxing logic and b
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, Best Games, Brain, Casual, Game, html5 games, Logic, Mind, Skill, Strategy, WebGL
+- Tags: 2026 games, Adventure, Best Games, Brain, Casual, Game, html5 games, Logic, Mind, Skill, strategy, WebGL

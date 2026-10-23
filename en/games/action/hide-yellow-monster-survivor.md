@@ -19,6 +19,6 @@ In Hide Yellow Monster Survivor the players objective is to evade the multicolor
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Baby, Baby Games, Collecting, Mentolatux, run, Skill, Unity3D, WebGL

@@ -19,6 +19,6 @@ Roll and Rise up balloon. Move your shield with one finger to protect your ballo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Fun

@@ -19,6 +19,6 @@ Game name is a free io game where you play as a deadly hungry fish with a sharp 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2D, Android, Animal, Arcade, Arena, Fish, Fun, Relaxation, Summer, WebGL

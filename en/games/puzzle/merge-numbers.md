@@ -19,6 +19,6 @@ Merge Numbers Online is a fast-paced game that tests your numeric skills. In eac
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, 2D, Arcade, Ball, Casual, Classic, Game, Games, HTML5, Hypercasual, Online

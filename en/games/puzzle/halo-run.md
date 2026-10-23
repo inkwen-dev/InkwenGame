@@ -19,6 +19,6 @@ Halo Run is a fast-paced reflex game set on an endless circular track where surv
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Jumping, Puzzle, Skills
+- Tags: Casual, jumping, Puzzle, Skills

@@ -21,4 +21,4 @@ Welcome to a new exciting game for toddlers! Start playing Hello Kitty education
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cake, Cartoon, Cleaning, Color, Coloring, Cook, Cooking, Cute, Decorate, Decoration, Draw, Drawing, Dress Up, Educational, Family, Fire, Fun, Girls, Hello Kitty, Hidden, HTML5, jump, Jumping, Kids, Mobile, Puzzle
+- Tags: Animal, Baby, Cake, Cartoon, Cleaning, Color, Coloring, Cook, Cooking, Cute, Decorate, Decoration, Draw, drawing, Dress Up, educational, Family, Fire, Fun, Girls, Hello Kitty, Hidden, HTML5, jump, jumping, Kids, Mobile, Puzzle

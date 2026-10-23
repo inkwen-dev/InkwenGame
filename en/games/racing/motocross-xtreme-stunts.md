@@ -21,4 +21,4 @@ In this motocross game you need to pass all nine levels and to earn points. Coll
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Motorcycle, Stunts
+- Tags: bike, Motorcycle, Stunts

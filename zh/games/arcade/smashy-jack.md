@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 休闲, 点击器, 万圣节, 恐怖, HTML, mapi games, 粉碎
+- 标签: 街机, 休闲, 点击器, 万圣节, 恐怖, HTML, mapi games, 击碎

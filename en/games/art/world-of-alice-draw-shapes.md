@@ -21,4 +21,4 @@ Learn the various geometric shapes, such as circles, squares, triangles and rect
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Games, Best, Best Games, Cartoon, Clicker, Coloring, Draw, Drawing, Educational, HTML5, Kids, School
+- Tags: Baby Games, Best, Best Games, Cartoon, Clicker, Coloring, Draw, drawing, educational, HTML5, Kids, School

@@ -21,4 +21,4 @@ Pop It Trading 3d is new idea of pop it us fidget toys trade 3d master with fun 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Click, Clicker, Collecting, Hypercasual, Kids, Puzzle, Strategy
+- Tags: Baby, Click, Clicker, Collecting, Hypercasual, Kids, Puzzle, strategy

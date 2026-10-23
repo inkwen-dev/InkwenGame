@@ -21,4 +21,4 @@ War Lands is a good action RPG with random elements and maps. The characters and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Fantasy, Fighting, RPG, WebGL
+- Tags: Action, Adventure, Fantasy, fighting, rpg, WebGL

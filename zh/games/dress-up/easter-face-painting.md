@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 装饰, 复活节, 造型改造
+- 标签: 装扮, 复活节, 改造

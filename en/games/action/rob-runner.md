@@ -21,4 +21,4 @@ Rob is without money. Run on the space stage, jump over the obstacle and pick up
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, HTML5, Jumping, running
+- Tags: Action, HTML5, jumping, running

@@ -21,4 +21,4 @@ It’s time to stack up your own gift and money tower, get ready to jump over ob
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Girl, jump, Jumping, Obstacle
+- Tags: Girl, jump, jumping, Obstacle

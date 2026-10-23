@@ -19,6 +19,6 @@ In this fun and time telling game you will need to guide Beetle towards blocks c
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Educational, HTML5, Math, Mobile, Puzzle, Skill, Timing
+- Tags: Board, educational, HTML5, math, Mobile, Puzzle, Skill, Timing

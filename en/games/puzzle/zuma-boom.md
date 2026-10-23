@@ -19,6 +19,6 @@ A classic Zuma puzzle that can be played either with mouse or touch.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble Shooter, Fun, Match 3, Match3, Matching, Zuma

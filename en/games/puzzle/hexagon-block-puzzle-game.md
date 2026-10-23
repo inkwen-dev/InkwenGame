@@ -19,6 +19,6 @@ Hexagon Block: Puzzle Game is a brain storming puzzle game.Stretch your mind and
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Block, Casino, Casual, Hypercasual, Puzzle
+- Tags: 2026 games, block, Casino, Casual, Hypercasual, Puzzle

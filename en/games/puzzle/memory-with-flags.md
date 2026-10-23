@@ -21,4 +21,4 @@ Memory game with Flags. Interesting way to learn flags from other countries all 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Kids, Memory, Puzzle
+- Tags: Brain, Kids, memory, Puzzle

@@ -21,4 +21,4 @@ Bicycle girl Elena went for a weekend trip. Cycling in nature is her favorite ho
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Cartoon, Decorate, Dress Up, Fashion, Game, Games, Girl, Girls, HTML5
+- Tags: bike, Cartoon, Decorate, Dress Up, Fashion, Game, Games, Girl, Girls, HTML5

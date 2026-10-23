@@ -19,6 +19,6 @@ Embark on a thrilling rescue adventure in Rescue 2D Princes, an engaging touch-o
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Android, HTML5, Mobile, Princess, Rescue

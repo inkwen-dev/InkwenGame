@@ -19,6 +19,6 @@ Play Advance Car Parking: Modern Car Parking Game 2020 which is a unique and gen
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, 3D Games, Bike, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, Casual, Dragon Ball Z, drift, Games, Girls, Highscore, Mario, subway, Subway Surfers, Supercars, Superhero, Truck
+- Tags: .io Games, 3D, 3D Games, bike, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, Casual, Dragon Ball Z, drift, Games, Girls, Highscore, mario, subway, Subway Surfers, Supercars, Superhero, truck

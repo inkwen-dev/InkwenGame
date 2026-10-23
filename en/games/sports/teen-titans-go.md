@@ -19,6 +19,6 @@ The summer games including swimming, track, triple jump, weightlifting, climbing
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Cartoon Network, Football, Hypercasual, Sports, Tennis
+- Tags: Cartoon, Cartoon Network, Football, Hypercasual, sports, Tennis

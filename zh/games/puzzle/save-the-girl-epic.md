@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 男孩, 女孩, H5, HTML, HTML5, 超休闲, 互动, 孩子们, 逻辑, 逻辑, 移动设备, 在线, 益智
+- 标签: 安卓, 男孩, 女孩, H5, HTML, HTML5, 超休闲, 互动, 儿童, 逻辑, 逻辑性, 移动设备, 在线, 益智

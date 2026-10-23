@@ -21,4 +21,4 @@ Gloom: gargoyle is a magical, 1-player, 3rd-person perspective game. The game is
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Adventure, Fantasy, Fire, Game, HTML5, Magic, RPG, Unity3D, WebGL
+- Tags: 1 Player, 3D, Action, Adventure, Fantasy, Fire, Game, HTML5, Magic, rpg, Unity3D, WebGL

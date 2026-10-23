@@ -37,4 +37,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 逻辑, 麻将, 三消, 益智
+- 标签: 逻辑, mahjong, 三消, 益智

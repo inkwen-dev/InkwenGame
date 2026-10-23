@@ -15,6 +15,6 @@ Immerse yourself in Jirai Kei Aesthetics, the vibrant game of modern Japanese fa
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Anime

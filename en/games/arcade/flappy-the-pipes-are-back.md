@@ -21,4 +21,4 @@ The pipes are back and they want revenge on the bird. Find your way through the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Air, Animal, Arcade, Arena, Bird, Casual, Classic, Cool, Cute, Family, fly, Fun, Funny, Game, Highscore, Jumping, Mario, Pipe, Retro, Super
+- Tags: 1 Player, Air, Animal, Arcade, Arena, Bird, Casual, Classic, cool, Cute, Family, fly, Fun, Funny, Game, Highscore, jumping, mario, Pipe, retro, Super

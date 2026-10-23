@@ -21,4 +21,4 @@ When you dress inappropriately fashion police will be there to arrest you! Wheth
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dress Up, Fashion, Makeover, Police, Princess
+- Tags: Dress Up, Fashion, Makeover, police, Princess

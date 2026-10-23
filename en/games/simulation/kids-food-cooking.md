@@ -19,6 +19,6 @@ This is an educational kitchen game for kids. Do you usually like to cook? If yo
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cake, Educational
+- Tags: Cake, educational

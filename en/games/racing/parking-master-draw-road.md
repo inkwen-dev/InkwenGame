@@ -19,6 +19,6 @@ Secure the craziest road intersections in this easy and fun game: a simple touch
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Draw, Drawing, Parking, Race, Racing
+- Tags: Draw, drawing, parking, Race, Racing

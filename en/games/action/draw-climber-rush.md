@@ -19,6 +19,6 @@ The race of Draw Climber Rush will be beginning! Draw the animals' legs, turn th
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Animal, Arcade, Boy, Casual, Collecting, Draw, Drawing, Game, Kid, Puzzle, run, running
+- Tags: 3D, Animal, Arcade, Boy, Casual, Collecting, Draw, drawing, Game, Kid, Puzzle, run, running

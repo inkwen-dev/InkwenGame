@@ -19,6 +19,6 @@ Endless drift racer set in Kigalis hills. Hold left/right to steer, drift throug
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: drift, drifting, endless, HTML5, Mobile, Racing

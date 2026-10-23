@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 点击器, Farm, 游戏, 谜题, Unity3D
+- 标签: 3D, 3D游戏, 点击器, 农场, 游戏, 益智, Unity3D

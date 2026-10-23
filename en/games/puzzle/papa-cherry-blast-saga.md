@@ -19,6 +19,6 @@ This smart chef has a sweet tooth! Help him collect lots of delicious desserts i
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Candy, Clicker, HTML5, Kids, Match 3, Matching, Puzzle

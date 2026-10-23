@@ -21,4 +21,4 @@ Join the Ultimate Races over the sky high Mega Ramps in this new car game 2021. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D, 3D Games, Car, Cars, Game, Games, Parking, Race, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D
+- Tags: .io Games, 2 Player Games, 3D, 3D Games, Car, Cars, Game, Games, parking, Race, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D

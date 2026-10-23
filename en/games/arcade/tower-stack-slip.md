@@ -21,4 +21,4 @@ Tower Stack Slip is a 3D arcade casual game. You just need to control your littl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Avoid, Boy, Boys, Castle, Game, Kid, Kids, Puzzle, Stack, Stickman
+- Tags: 3D, 3D Games, Arcade, Avoid, Boy, Boys, Castle, Game, Kid, Kids, Puzzle, Stack, stickman

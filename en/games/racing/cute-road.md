@@ -21,4 +21,4 @@ Cute Road, are you ready to go on a challenging road? Do you know, your vehicle 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, jump, Jumping, Kids, Race, Racing
+- Tags: Car, jump, jumping, Kids, Race, Racing

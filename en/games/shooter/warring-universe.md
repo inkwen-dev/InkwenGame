@@ -19,6 +19,6 @@ It's a brilliant, never-ending, and intense game that focuses on the battles bet
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Arcade, HTML5, Mobile, Pixel, Science, Shoot, Shooting
+- Tags: 1 Player, 2D, Android, Arcade, HTML5, Mobile, pixel, Science, Shoot, Shooting

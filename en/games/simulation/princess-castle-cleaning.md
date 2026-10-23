@@ -21,4 +21,4 @@ A huge palace is waiting to get cleaned! Start with the living room cleaning and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cleaning, Decorate, Design, Educational, Girl, Girls, Kids, Princess, Simulation
+- Tags: Cleaning, Decorate, Design, educational, Girl, Girls, Kids, Princess, Simulation

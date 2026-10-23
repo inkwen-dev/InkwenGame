@@ -19,6 +19,6 @@ Uncover hidden words in Word Search - Find Word Puzzle! Challenge yourself with 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, Casual, Hypercasual, Puzzle, Word
+- Tags: 2025 games, Casual, Hypercasual, Puzzle, word

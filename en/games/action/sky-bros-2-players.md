@@ -15,6 +15,6 @@ Prove who's king of Skyland in Sky Bros - 2 Players, a lighthearted, competitive
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Action

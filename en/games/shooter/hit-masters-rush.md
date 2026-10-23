@@ -21,4 +21,4 @@ It's time to play and have fun with Hit Masters Rush, an entertaining exclusive 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Gun, Jumping, kiz10, running, Shooting
+- Tags: Gun, jumping, kiz10, running, Shooting

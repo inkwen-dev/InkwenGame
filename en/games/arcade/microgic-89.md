@@ -52,4 +52,4 @@ German, French and Japanese.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Logic, Puzzle, Retro
+- Tags: Arcade, Logic, Puzzle, retro

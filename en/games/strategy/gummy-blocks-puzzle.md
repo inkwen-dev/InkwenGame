@@ -19,6 +19,6 @@ Gummy Blocks Puzzle is a block puzzle game where you drop pieces to form and eli
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Casual, Logic, Puzzle, puzzleblock, Strategy
+- Tags: block, Casual, Logic, Puzzle, puzzleblock, strategy

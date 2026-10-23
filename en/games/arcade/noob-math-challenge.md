@@ -21,4 +21,4 @@ Introducing Noob Math Challenge &ndash; an exciting and free online math game de
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Fun, HTML5, Kids, Math, Number, School
+- Tags: Arcade, Casual, Fun, HTML5, Kids, math, Number, School

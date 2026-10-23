@@ -19,6 +19,6 @@ If you enjoy free slot machine games, then Pharaoh Slots Casino is the game for 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, HTML, HTML5, Slot Machine

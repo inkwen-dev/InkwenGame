@@ -19,6 +19,6 @@ A social media influencer is a user who has a large and loyal audience. Meet the
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Celebrity, Cute, Dress Up, Fashion, Girl, Hair, HTML5, Jewel, Makeover, Princess

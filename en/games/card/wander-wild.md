@@ -57,4 +57,4 @@ The player assembles card combinations, manages moves, super attacks, and status
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, cards, pve, RPG
+- Tags: Adventure, cards, pve, rpg

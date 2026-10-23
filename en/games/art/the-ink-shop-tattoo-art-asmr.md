@@ -21,4 +21,4 @@ Step into the evocative world of tattoo artistry with The Ink Shop - Tattoo Art 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Drawing
+- Tags: Coloring, drawing

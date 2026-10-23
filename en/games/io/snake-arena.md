@@ -22,4 +22,4 @@ Snake Arena is a multiplayer game where you navigate vibrant arenas, outsmart ri
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: .io, Mobile, Multiplayer, Snake
+- Tags: .io, Mobile, Multiplayer, snake

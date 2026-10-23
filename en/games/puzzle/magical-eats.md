@@ -19,6 +19,6 @@ Much like other Match-3 games, your goal is to assemble groups of three or more 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble Shooter, Puzzle, Shooting

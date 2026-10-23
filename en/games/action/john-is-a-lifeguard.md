@@ -19,6 +19,6 @@ Our planet is in danger again. You need to collect a lot of rings to save our la
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping, Platform, running
+- Tags: jumping, Platform, running

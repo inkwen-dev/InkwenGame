@@ -19,6 +19,6 @@ This is a difference puzzle game. In this game four images of Halloween are give
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Difference, Halloween, Hidden, HTML5, Mobile, Puzzle

@@ -19,6 +19,6 @@ Surprise Eggs Vending Machine is a really fun game. Each item inside the vending
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Brain, Cartoon, Casual, Educational, endless, Family, Girl, Girls, HTML, HTML5, Mario, Math, Simulation, Simulator
+- Tags: 2D, Brain, Cartoon, Casual, educational, endless, Family, Girl, Girls, HTML, HTML5, mario, math, Simulation, Simulator

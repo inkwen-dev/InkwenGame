@@ -19,6 +19,6 @@ Try Onet rings puzzle game you will enjoy it ! Onet ring tiles is an amazing One
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Clicker, Matching, Memory, Puzzle
+- Tags: Casual, Clicker, Matching, memory, Puzzle

@@ -19,6 +19,6 @@ A fire is sparked by the earthquake! Hurry up and guide the residents to escape.
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Action, Adventure, Arcade, Car, Cars, drift, Driving, Fun, Hot, Hypercasual, jump, Race, Racing, Rescue

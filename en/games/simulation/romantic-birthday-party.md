@@ -19,6 +19,6 @@ Sofia wants an unforgettable birthday party, so Jack, as her boyfriend, he gives
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cake, Cooking, Cool, Decorate, Design, Girl, Girls, Simulation
+- Tags: Cake, Cooking, cool, Decorate, Design, Girl, Girls, Simulation

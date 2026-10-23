@@ -19,6 +19,6 @@ In SpongeBob Hidden Burger, players are challenged to seek out hidden burgers sc
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Burger, free html5 games for your website, Hidden, HTML5, Hypercasual, Kids, Skill, Spongebob

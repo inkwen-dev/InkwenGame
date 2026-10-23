@@ -25,4 +25,4 @@ Stickman Jump is a fast-paced platformer in which you have to jump and run acros
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, flash, Mobile, parkour, Platform, running, Skill, Stickman
+- Tags: Arcade, flash, Mobile, parkour, Platform, running, Skill, stickman

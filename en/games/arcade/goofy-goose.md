@@ -21,4 +21,4 @@ Sad story about novice space goose. His name is Goofy Goose and he is trying to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Educational, Google
+- Tags: Adventure, Arcade, educational, Google

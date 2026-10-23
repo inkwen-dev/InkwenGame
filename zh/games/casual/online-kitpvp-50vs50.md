@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2026游戏, 3D, 3D游戏, 竞技场, mineblock, Minecraft, 玩家对战
+- 标签: 单人, 2026 游戏, 3D, 3D游戏, 竞技场, mineblock, 我的世界, PvP

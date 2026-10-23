@@ -21,4 +21,4 @@ More than just parking: open-world multiplayer mode, car tuning, free walking! T
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Adventure, Arcade, Cars, Casual, Hot, Hypercasual, Parking, Race, Racing, Super, Supercars
+- Tags: .io, .io Games, Action, Adventure, Arcade, Cars, Casual, Hot, Hypercasual, parking, Race, Racing, Super, Supercars

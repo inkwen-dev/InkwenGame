@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 飞行, 飞, 跳跃, 跳跃游戏
+- 标签: 飞行, 飞, 跳跃, 跳跃

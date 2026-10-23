@@ -31,4 +31,4 @@ Maybe someday we will find out...
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: merge, Monster
+- Tags: merge, monster

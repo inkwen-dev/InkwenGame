@@ -19,6 +19,6 @@ You are a bike rider and you have an incredible offroad track in front of you. G
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Unity3D, WebGL
+- Tags: bike, Unity3D, WebGL

@@ -21,4 +21,4 @@ Dot Shot – this is a game where you have to launch the ball and destroy all th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Block, Casual, Click, Design, Game, HTML5, Hypercasual, Platform, Puzzle
+- Tags: Arcade, Ball, block, Casual, Click, Design, Game, HTML5, Hypercasual, Platform, Puzzle

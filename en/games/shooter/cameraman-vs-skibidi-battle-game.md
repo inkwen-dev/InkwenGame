@@ -19,6 +19,6 @@ Enjoy yourself while playing this exciting action game. In Chapter 1 of Skibidi 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, kiz10, run, Shooter, Skibidi Toilet
+- Tags: 3D Games, kiz10, run, Shooter, skibidi-toilet

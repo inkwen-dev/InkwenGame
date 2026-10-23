@@ -19,6 +19,6 @@ Test your memory in an otherworldly challenge. Match pairs of cards featuring al
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Casual, Hypercasual, Memory
+- Tags: 2 Player, Casual, Hypercasual, memory

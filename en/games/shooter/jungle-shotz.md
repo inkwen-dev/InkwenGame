@@ -21,4 +21,4 @@ Blast away waves of choppers, trucks, jets, and tanks before facing the bosses U
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Boys, Flight, fly, Helicopter, HTML, HTML5, Rocket, Shoot 'Em Up, Shooter, Shooting, War, weapons
+- Tags: Arcade, Boy, Boys, flight, fly, helicopter, HTML, HTML5, Rocket, Shoot 'Em Up, Shooter, Shooting, War, weapons

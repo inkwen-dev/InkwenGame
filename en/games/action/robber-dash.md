@@ -21,4 +21,4 @@ Bank robbery is a crime and the police will definitely pursue the robbers, no ma
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Best, Hot, HTML, HTML5, jump, Jumping, Police, run, running
+- Tags: Adventure, Arcade, Best, Hot, HTML, HTML5, jump, jumping, police, run, running

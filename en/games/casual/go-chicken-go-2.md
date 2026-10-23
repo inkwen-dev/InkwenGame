@@ -15,6 +15,6 @@ Guide a flock of frantic chickens on a perilous journey to freedom. Dodge speedi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Fun

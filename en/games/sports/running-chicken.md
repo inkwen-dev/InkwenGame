@@ -19,6 +19,6 @@ This is a parkour leisure game. In the game, chicks are running on a ball. There
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Boy, Boys, Casual, Collecting, Collection, Funny, Game, Games, Girl, H5, HTML, HTML5, Hypercasual, Kid, Kids, Mobile, Sport, Sports
+- Tags: 3D Games, Boy, Boys, Casual, Collecting, Collection, Funny, Game, Games, Girl, H5, HTML, HTML5, Hypercasual, Kid, Kids, Mobile, Sport, sports

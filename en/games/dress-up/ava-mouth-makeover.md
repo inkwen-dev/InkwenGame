@@ -21,4 +21,4 @@ Let's help our lovable girl Ava to make her mouth a new look. So please help her
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Dress Up, Surgery
+- Tags: Baby, Dress Up, surgery

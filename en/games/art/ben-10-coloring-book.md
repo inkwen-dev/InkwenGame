@@ -19,6 +19,6 @@ Bts Ben 10 Coloring Book is an online game that you can play for free. Bts Ben 1
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ben 10, Boys, Cartoon, Coloring, Fun, Game, Games, Girls, HTML5, Kids, School

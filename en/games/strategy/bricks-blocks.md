@@ -21,4 +21,4 @@ Bricks & Blocks is fun addictive hypercasual strategy puzzle game. Drag these br
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Hypercasual, Puzzle, Strategy
+- Tags: Casual, Hypercasual, Puzzle, strategy

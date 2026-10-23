@@ -21,4 +21,4 @@ Car parking free offline game is a car parking game with less MB simulation and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Parking
+- Tags: Driving, parking

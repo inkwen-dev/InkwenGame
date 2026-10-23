@@ -19,6 +19,6 @@ Vehicle Masters is a minimalist arcade parking challenge with over 40 increasing
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, carparking, Cars, Parking, Simulation, Truck
+- Tags: 1 Player, carparking, Cars, parking, Simulation, truck

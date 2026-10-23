@@ -21,4 +21,4 @@ The weekend is here! Invite your friends and go to the streets together to find 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Games, Cook, Cooking, Educational, Girl, Girls, Kid, Kids, Simulation
+- Tags: Baby, Baby Games, Cook, Cooking, educational, Girl, Girls, Kid, Kids, Simulation

@@ -21,4 +21,4 @@ Are you ready to become an dentist ? You must heal the teeth of your patients. I
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Doctor, Family, Surgery
+- Tags: Casual, Doctor, Family, surgery

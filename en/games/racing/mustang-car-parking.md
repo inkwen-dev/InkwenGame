@@ -21,4 +21,4 @@ Play one of the most realistic parking games on the market. Drive various cars e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Car, Parking, Race, Sports
+- Tags: 1 Player, 3D, 3D Games, Car, parking, Race, sports

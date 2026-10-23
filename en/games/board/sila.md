@@ -19,6 +19,6 @@ Race down a snowy mountain, dodge dangerous obstacles, and see how far you can g
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Board, Hypercasual

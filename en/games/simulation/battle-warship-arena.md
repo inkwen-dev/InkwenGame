@@ -19,6 +19,6 @@ Battle Warship Arena is a thrilling 2D naval combat game that lets you command y
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Boat, Casual, Kids, Simulation
+- Tags: battle, Boat, Casual, Kids, Simulation

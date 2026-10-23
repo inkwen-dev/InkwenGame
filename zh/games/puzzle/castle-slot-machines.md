@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 有趣, HTML5, 机械, 移动设备, 技巧, 老虎机
+- 标签: 有趣, HTML5, 机器, 移动设备, 技巧, 老虎机

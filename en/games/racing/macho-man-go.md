@@ -19,6 +19,6 @@ Ready to run, jump, punch, and dominate in Macho Man Go. As a muscle-bound hero,
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Jumping, Racing, running
+- Tags: battle, jumping, Racing, running

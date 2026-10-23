@@ -15,6 +15,6 @@ Navigate a surreal, sticky world as a flying portly gentleman in Fly Fat Man. Ma
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Fun

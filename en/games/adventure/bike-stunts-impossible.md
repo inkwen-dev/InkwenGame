@@ -19,6 +19,6 @@ Impossible Bike Stunts 3D is the bike driving game in which you get to jump behi
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Adventure, Bike, Fight, Fun, Race
+- Tags: 1 Player, 3D, Action, Adventure, bike, Fight, Fun, Race

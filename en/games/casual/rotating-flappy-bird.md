@@ -19,6 +19,6 @@ In this great addictive funny game the player must tap to flap and help the bird
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bird, Boys, Casual, Click, Clicker, Flight, fly, Girls, HTML, HTML5, Kids, Pipe
+- Tags: Bird, Boys, Casual, Click, Clicker, flight, fly, Girls, HTML, HTML5, Kids, Pipe

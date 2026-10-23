@@ -21,4 +21,4 @@ You must pocket the eighth black ball first, only after that can you become a wi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, 8 Ball Pool, Ball, Billiard, HTML, HTML5, Hypercasual, Matching, Pool, Shoot, Shooting, Unity3D
+- Tags: 3D, 3D Games, 8 Ball Pool, Ball, Billiard, HTML, HTML5, Hypercasual, Matching, pool, Shoot, Shooting, Unity3D

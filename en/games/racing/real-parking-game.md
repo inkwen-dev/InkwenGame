@@ -36,4 +36,4 @@ Whether you enjoy relaxed precision driving or intense obstacle runs, Real Parki
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Car, Driving, Parking, Skill
+- Tags: Car, Driving, parking, Skill

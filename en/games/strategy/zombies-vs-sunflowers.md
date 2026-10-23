@@ -19,6 +19,6 @@ In this action-packed tower defense game, your garden is under siege by relentle
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: angryplants, apocalypse, Army, Battle, Casual, Defense, Fruit, Fruits, Hypercasual, Plant, plants, Tower Defense, Zombie
+- Tags: angryplants, apocalypse, Army, battle, Casual, Defense, Fruit, Fruits, Hypercasual, Plant, plants, Tower Defense, Zombie

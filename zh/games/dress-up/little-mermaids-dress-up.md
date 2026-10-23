@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 换装, HTML, HTML5, 改造, 美人鱼, 移动设备, 夏季
+- 标签: 装扮, HTML, HTML5, 改造, 美人鱼, 移动设备, 夏天

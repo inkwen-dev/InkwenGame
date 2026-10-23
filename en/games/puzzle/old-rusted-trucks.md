@@ -21,4 +21,4 @@ In this Old Rusted Trucks game you have 6 images in three modes to play. Choose 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Jigsaw, Kids, Mobile, Puzzle, Truck
+- Tags: HTML5, Jigsaw, Kids, Mobile, Puzzle, truck

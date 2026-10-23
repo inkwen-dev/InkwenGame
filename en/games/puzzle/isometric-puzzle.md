@@ -21,4 +21,4 @@ In this relaxing game that will push the boundaries of your mind, fit all the bl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Block, Brain, Kids, Mobile, Skill
+- Tags: Android, block, Brain, Kids, Mobile, Skill

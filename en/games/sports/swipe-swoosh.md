@@ -31,4 +31,4 @@ Swipe Swoosh is a fast-paced basketball skill game where every swipe matters. Ai
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Ball, Basketball, Physics, Skill, Sports
+- Tags: Arcade, Ball, basketball, Physics, Skill, sports

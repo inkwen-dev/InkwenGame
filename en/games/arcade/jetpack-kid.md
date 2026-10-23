@@ -21,4 +21,4 @@ The game is about the famous kid, the hero with his JetPack he want to touch the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Aircraft, Alien, Arcade, Balance, Batman, Cars, Casual, Flight, fly, Kid, Plane, Police, sky, Space, Superhero
+- Tags: Aircraft, Alien, Arcade, Balance, Batman, Cars, Casual, flight, fly, Kid, Plane, police, sky, Space, Superhero

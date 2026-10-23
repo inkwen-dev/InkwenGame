@@ -19,6 +19,6 @@ Paper Space is a space game where you have to dodge lasers from your opponents a
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Shoot, Space, Spaceship

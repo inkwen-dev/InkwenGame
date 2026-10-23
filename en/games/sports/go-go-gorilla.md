@@ -19,6 +19,6 @@ Help the Gorilla to collect all the soccer balls on the screen, stay balanced on
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Football, Physics, Puzzle, Soccer, Sport

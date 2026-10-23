@@ -19,6 +19,6 @@ Take control of a lone starfighter and survive 40 relentless waves of alien enem
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Shooter, Space, Spaceship

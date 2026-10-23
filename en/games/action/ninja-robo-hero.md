@@ -19,6 +19,6 @@ Nina Robo Hero invites you to a long-term adventure. Enemies have invaded the ci
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Battle, Fight, Fighting, Robot, Superhero, War
+- Tags: 1 Player, Action, battle, Fight, fighting, Robot, Superhero, War

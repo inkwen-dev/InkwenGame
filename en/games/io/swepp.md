@@ -19,6 +19,6 @@ Mix and match them all! There are tons of options to try, so let’s get to cook
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 2D, 3D, 3D Games, Action, Arcade, Cake, Candy, Casual, Game, Games, Hypercasual, Unity3D

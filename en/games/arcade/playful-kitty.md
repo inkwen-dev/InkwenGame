@@ -21,4 +21,4 @@ Playful Kitty is bored! Your task in this cute physics puzzle is to get the ball
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Arcade, Hello Kitty, HTML5, jump, Jumping, Mobile
+- Tags: 1 Player, 2D, Action, Arcade, Hello Kitty, HTML5, jump, jumping, Mobile

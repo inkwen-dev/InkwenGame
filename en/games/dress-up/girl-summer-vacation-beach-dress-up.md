@@ -21,4 +21,4 @@ Just have a look at the nice selection of gorgeous dresses, hats, handbags and s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Collection, Dora, Dress Up, Mahjong, Miraculous Ladybug
+- Tags: Cartoon, Collection, Dora, Dress Up, mahjong, Miraculous Ladybug

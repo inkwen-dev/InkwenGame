@@ -19,6 +19,6 @@ Set sail in a vibrant pixelated world where the sands of time meet the seas, in 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Pirate, RPG, Simulation
+- Tags: 1 Player, 2D, Pirate, rpg, Simulation

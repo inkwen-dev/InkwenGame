@@ -19,6 +19,6 @@ A girl will encounter various kinds of dangers in the game Save The Girl. You ne
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Brain, Click, H5, HTML, HTML5, Interactive, Interactive Fiction, Logical, Online, Puzzle, Quiz, Rescue

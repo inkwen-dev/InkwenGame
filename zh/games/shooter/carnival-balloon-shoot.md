@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, Android, 气球, 点击, 高分, 儿童
+- 标签: 单人, 2D, 安卓, 气球, 点击, 高分, 儿童

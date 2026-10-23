@@ -21,4 +21,4 @@ Here is not only an arcade but also a car war game with three-dimensional cartoo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Boy, Car, Collecting, HTML5, Mobile, Shooting, Tank, Truck, WebGL
+- Tags: 3D, Arcade, Boy, Car, Collecting, HTML5, Mobile, Shooting, Tank, truck, WebGL

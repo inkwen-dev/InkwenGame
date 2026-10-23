@@ -21,4 +21,4 @@ WASD - 移动 LMB - 射击 RMB - 瞄准 鼠标滚轮 - 切换武器 R - 换弹 �
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 3D 游戏, 动作, 格斗, 射击, 射击游戏, 射手, 射击游戏, Unity3D, WebGL
+- 标签: 单人, 3D, 3D游戏, 动作, 格斗, 射击, 射击游戏, 射击类, 射击, Unity3D, WebGL

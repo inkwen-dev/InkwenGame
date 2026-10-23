@@ -19,6 +19,6 @@ Get ready for the ragdoll battle! Choose your ragdoll character and start fighti
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Arena, Battle, Clash, Fighting, Hot, Hypercasual, Mobile, Multiplayer, PvP, Stack, Stickman, Strategy, WebGL
+- Tags: Action, Adventure, Arcade, Arena, battle, Clash, fighting, Hot, Hypercasual, Mobile, Multiplayer, PvP, Stack, stickman, strategy, WebGL

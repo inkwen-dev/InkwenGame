@@ -15,6 +15,6 @@ Unleash your strategic genius in Merge Block Puzzle, where you merge identical n
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Math
+- Tags: math

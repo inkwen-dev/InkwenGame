@@ -21,4 +21,4 @@ The Flying Pig is an adventure Game! An entertaining skill and action game the w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Bomb, Flight, fly, HTML, HTML5, Kids, Mine, Racing
+- Tags: Adventure, Bomb, flight, fly, HTML, HTML5, Kids, Mine, Racing

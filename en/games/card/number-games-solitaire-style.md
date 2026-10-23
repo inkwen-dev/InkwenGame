@@ -19,6 +19,6 @@ Solitaire 0-21 in Blackjack style is a symbiosis of 3 games, you can say 3 in 1.
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Solitaire
+- Tags: Brain, solitaire

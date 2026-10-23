@@ -21,4 +21,4 @@ Protect My Dog is a fun casual puzzle game. The aim of the game is to protect ou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Draw, Drawing, Fun, Funny, Hypercasual
+- Tags: Casual, Draw, drawing, Fun, Funny, Hypercasual

@@ -19,6 +19,6 @@ A retro platformer, mobile supported in landscape only, you climb a tower and: -
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Pixel, Platform, Retro
+- Tags: pixel, Platform, retro

@@ -19,6 +19,6 @@ Gas Station Survival is a thrilling tower defense game where you must protect yo
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, survival, Tower Defense

@@ -19,6 +19,6 @@ Play the best angry mario world game the similar game of angry birds
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Mario, Super, World
+- Tags: Arcade, mario, Super, World

@@ -21,4 +21,4 @@ Welcome to the legendary truck parking game. The most realistic and thrilling tr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Parking, Simulation, Truck, trucks
+- Tags: Adventure, parking, Simulation, truck, trucks

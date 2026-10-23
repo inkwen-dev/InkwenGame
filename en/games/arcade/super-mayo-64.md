@@ -21,4 +21,4 @@ Super Mario 64 is considered the first 3D platform game in history. In it, you c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mario, Super
+- Tags: mario, Super

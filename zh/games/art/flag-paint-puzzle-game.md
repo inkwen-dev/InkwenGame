@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 休闲, 颜色, 涂色, 休闲, 涂鸦, 解谜
+- 标签: 休闲, 颜色, 着色, 超休闲, paint, 益智

@@ -19,6 +19,6 @@ You had always played traditional driving simulation games but the gameplay of s
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Bike, HTML, HTML5, Moto, Motorcycle, Parking, Simulation, Simulator
+- Tags: 3D Games, bike, HTML, HTML5, Moto, Motorcycle, parking, Simulation, Simulator

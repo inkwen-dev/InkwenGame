@@ -21,4 +21,4 @@ Join thousands of players for FREE and start the slingshot adventure with zombie
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, Action, Alien, Casual, Fighting, Fun, Ghost, Killing, Unity3D
+- Tags: 2 Player Games, Action, Alien, Casual, fighting, Fun, Ghost, Killing, Unity3D

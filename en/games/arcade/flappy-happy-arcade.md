@@ -21,4 +21,4 @@ Join the arcade party in the office. At the party with arcade games organized by
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Arcade, Bird, Cartoon, Casual, Cool, Fantasy, Fun, Funny, HTML5, Hypercasual, jump, Jumping, Kids, Mobile, WebGL
+- Tags: 3D, Android, Arcade, Bird, Cartoon, Casual, cool, Fantasy, Fun, Funny, HTML5, Hypercasual, jump, jumping, Kids, Mobile, WebGL

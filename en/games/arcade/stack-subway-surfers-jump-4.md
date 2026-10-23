@@ -21,4 +21,4 @@ This is a adventurous game. In this game the player has to jump on the stacks to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adult, Adventure, Arcade, Best, Boy, Girl, HTML, HTML5, Hypercasual, jump, Jumping, Kid, Logic, New, run, subway, Subway Surfers, WebGL
+- Tags: Action, Adult, Adventure, Arcade, Best, Boy, Girl, HTML, HTML5, Hypercasual, jump, jumping, Kid, Logic, New, run, subway, Subway Surfers, WebGL

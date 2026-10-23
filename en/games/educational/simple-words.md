@@ -36,4 +36,4 @@ Select letter make words and see the falling block.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Classic, easy, Educational, Mobile, Puzzle, Quiz, words
+- Tags: Brain, Classic, easy, educational, Mobile, Puzzle, Quiz, words

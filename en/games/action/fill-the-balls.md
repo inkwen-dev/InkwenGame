@@ -19,6 +19,6 @@ In Fill The Balls, you have to help the Santa who exploded the bomb to fill the 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Best, Bomb, Cartoon, Casual, Christmas, Funny, Hypercasual, Kids, Mind, Mobile, Platform, Puzzle, Skills, WebGL

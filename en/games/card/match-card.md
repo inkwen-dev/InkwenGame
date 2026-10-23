@@ -21,4 +21,4 @@ Ignite your brain cells with the mind-boggling Memory Game! Flip cards, find mat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Card
+- Tags: 1 Player, card

@@ -21,4 +21,4 @@ I wonder if you want to go somewhere during the holiday! Going for a picnic is a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Baby, Cleaning, Educational, Family, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: 2D, Baby, Cleaning, educational, Family, Fun, Girl, Girls, H5, HTML5, Kid, Kids

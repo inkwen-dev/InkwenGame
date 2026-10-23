@@ -19,6 +19,6 @@ Go with ben 10 and uncover the mysteries deep beneath the ancient egypt catacomb
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Ben 10

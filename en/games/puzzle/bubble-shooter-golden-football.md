@@ -19,6 +19,6 @@ Bubble Shooter Golden Football is a classical bubble shooter game in which you n
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bubble, Bubble Shooter, Collecting, Football, HTML5, Mobile, Point And Click, Shooter, Sports
+- Tags: Bubble, Bubble Shooter, Collecting, Football, HTML5, Mobile, Point And Click, Shooter, sports

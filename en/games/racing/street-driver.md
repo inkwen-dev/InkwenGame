@@ -21,4 +21,4 @@ Thrilling racing game. Enjoy driving on an endless highway in traffic. The more 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Game, Games, HTML5, Road, Traffic, Truck
+- Tags: Car, Cars, Game, Games, HTML5, Road, Traffic, truck

@@ -19,6 +19,6 @@ Tired of driving a car or a motorbike? Now you get the chance to drive a tank th
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Simulation, Simulator, Tank, Unity3D, WebGL

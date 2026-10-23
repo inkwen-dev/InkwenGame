@@ -21,4 +21,4 @@ This super truck parking simulation is wonderful test to drive any construction 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Bike, Car, Cars, Dancing, Driving, Kiss, Kissing, Love, Online, Parking, Race, Racing, Super, Supercars, Superhero, Truck, Unity3D
+- Tags: .io, .io Games, bike, Car, Cars, Dancing, Driving, Kiss, Kissing, Love, Online, parking, Race, Racing, Super, Supercars, Superhero, truck, Unity3D

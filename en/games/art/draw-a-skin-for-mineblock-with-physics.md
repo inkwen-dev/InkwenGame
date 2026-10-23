@@ -21,4 +21,4 @@ Immerse yourself in the amazing world of creating skins and destruction in the w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Coloring, Craft, Decoration, Design, Drawing, free games for your website, Fun, Funny, Games, Minecraft, unblocked games, unity games, unity games for your site
+- Tags: Clicker, Coloring, Craft, Decoration, Design, drawing, free games for your website, Fun, Funny, Games, Minecraft, unblocked games, unity games, unity games for your site

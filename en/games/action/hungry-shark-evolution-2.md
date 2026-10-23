@@ -21,4 +21,4 @@ Hungry Shark is back in this epic arcade game where you control a monstrous sea 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, angry, Blood, eating, html games for your website, Hypercasual, kiz10, Monster, Shark
+- Tags: Action, angry, Blood, eating, html games for your website, Hypercasual, kiz10, monster, Shark

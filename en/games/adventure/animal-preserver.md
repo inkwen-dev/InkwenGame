@@ -19,6 +19,6 @@ Use your brain to rescue the Animals from the deadly Bees. Deadly Bees are waiti
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Casual, Puzzle, survival

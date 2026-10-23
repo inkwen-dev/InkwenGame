@@ -19,6 +19,6 @@ help! The animal forest is on fire... The fire center has received an emergency 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cute, Educational, Girl, Girls, Kids, Simulation
+- Tags: Animal, Baby, Cute, educational, Girl, Girls, Kids, Simulation

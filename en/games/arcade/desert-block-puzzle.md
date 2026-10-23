@@ -21,4 +21,4 @@ Desert Block Puzzle is an online game that challenges you to put together blocks
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Block, Fun, Funny, Game, Games, Matching, Online, Puzzle, Tetris
+- Tags: 2D, Arcade, block, Fun, Funny, Game, Games, Matching, Online, Puzzle, tetris

@@ -21,4 +21,4 @@ Running Jump is a game where you need to jump on platforms. Your enemies are pat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Kids, Monster, Platform, Puzzle
+- Tags: jump, Kids, monster, Platform, Puzzle

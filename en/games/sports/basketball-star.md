@@ -19,6 +19,6 @@ Basketball Star is an amazing 3D basketball game, you can control some basketbal
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Basketball, Boys, Collecting, H5, HTML, HTML5, Kids, Mobile, Online, Skill, Skills
+- Tags: Ball, basketball, Boys, Collecting, H5, HTML, HTML5, Kids, Mobile, Online, Skill, Skills

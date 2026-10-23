@@ -19,6 +19,6 @@ Our hero decided to break into the castle and save them all. You in the game Sti
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Avoid, Blood, Fun, HTML5, Mobile, Skill, Stickman
+- Tags: Action, Avoid, Blood, Fun, HTML5, Mobile, Skill, stickman

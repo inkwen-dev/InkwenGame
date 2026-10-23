@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 收藏, 小孩, 骑士, 爱, 公主
+- 标签: 收藏, 儿童, knight, 爱情, 公主

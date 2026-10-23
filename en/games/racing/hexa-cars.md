@@ -21,4 +21,4 @@ Hexa Cars game is a fun io survival game. The goal is to stay last on different 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, Arena, Block, Car, Cartoon Network, Driving, Fighting
+- Tags: 2 Player, 2 Player Games, 3D, Arena, block, Car, Cartoon Network, Driving, fighting

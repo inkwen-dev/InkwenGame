@@ -19,6 +19,6 @@ Now baby Taylor is 5 years old, today she seems uncomfortable, let's see what ha
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Baby, Doctor, Educational, Girl, Girls, H5, Kid, Kids
+- Tags: 2D, Baby, Doctor, educational, Girl, Girls, H5, Kid, Kids

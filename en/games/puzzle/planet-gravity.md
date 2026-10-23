@@ -21,4 +21,4 @@ Mouse
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Bomb, Casual, Crazy, Physics, Science, Space
+- Tags: 2D, Bomb, Casual, crazy, Physics, Science, Space

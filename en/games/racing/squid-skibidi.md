@@ -19,6 +19,6 @@ SQID SKIBIDI is mixed game between each of squid game and squibidi its a really 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Android, Brain, HTML5, iPhone, Mobile, running, Timing

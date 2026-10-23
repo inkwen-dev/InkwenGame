@@ -21,4 +21,4 @@ Mahjong African Dream is a classic mahjong game with exotic flavor. Play one of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Classic, Family, HTML5, Kids, Logic, Mahjong, Mobile
+- Tags: Board, Classic, Family, HTML5, Kids, Logic, mahjong, Mobile

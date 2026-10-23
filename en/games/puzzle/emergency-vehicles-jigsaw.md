@@ -21,4 +21,4 @@ Emergency Vehicles Jigsaw game is free online game and you have 6 images in thre
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, HTML5, Jigsaw, Kids, Mobile, Puzzle, Truck
+- Tags: Car, HTML5, Jigsaw, Kids, Mobile, Puzzle, truck

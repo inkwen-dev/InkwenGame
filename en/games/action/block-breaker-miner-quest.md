@@ -19,6 +19,6 @@ Tap, Dash, Survive! Dive into the depths in Miner Dash: Endless Escape! Smash th
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arcade, Best Games, Block, Brain, Miner, Platform, quest, survival
+- Tags: 2D, Adventure, Arcade, Best Games, block, Brain, Miner, Platform, quest, survival

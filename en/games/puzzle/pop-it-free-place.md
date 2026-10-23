@@ -21,4 +21,4 @@ This is simple Pop It HTML5 game with some modification. In this game, you need 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Ball, Board, Brain, Bubble, Funny, Game, Highscore, Play, Puzzle, Tetris
+- Tags: 1 Player, 2D, Ball, Board, Brain, Bubble, Funny, Game, Highscore, Play, Puzzle, tetris

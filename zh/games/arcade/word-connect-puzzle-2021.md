@@ -21,4 +21,4 @@ Word Connect 是一种流行的谜题游戏，您必须仅使用圆圈中显示�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, Board, 拼图
+- 标签: 街机, 棋盘, 益智

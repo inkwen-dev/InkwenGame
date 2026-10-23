@@ -21,4 +21,4 @@ Go on a campaign and make great victories! Explore the depths of an ancient dung
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Battle, Fantasy, Magic, Match 3, Match3, Matching, MMO, Mobile, Online, PvP, RPG, Superhero
+- Tags: Adventure, battle, Fantasy, Magic, Match 3, Match3, Matching, MMO, Mobile, Online, PvP, rpg, Superhero

@@ -21,4 +21,4 @@ Super Kick Boxing is a fast-paced arcade fighting game packed with explosive pun
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting, mapi games, Sports
+- Tags: Fight, fighting, mapi games, sports

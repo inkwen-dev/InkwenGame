@@ -19,6 +19,6 @@ Take care of Tiny Cars that coming across the streets. When a car crashes with a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Casual, Collecting, Driving, Fun, Logic, Logical, Mobile, Skill, Traffic

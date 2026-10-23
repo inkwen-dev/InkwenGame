@@ -19,6 +19,6 @@ DUAL CAR &ndash; Double the Drive, Double the Challenge! Control two cars at the
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Alien, BMX Games, Cars, Racing

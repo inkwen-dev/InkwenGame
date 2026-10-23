@@ -19,6 +19,6 @@ Draw Line Stickman is a creative physics puzzle game where every line you draw c
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, amazing, Arcade, Click

@@ -19,6 +19,6 @@ Mega Ramp Stunt Moto is an interesting driving game. You will keep a tight rein 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Bike, Boy, Kid, Platform, Race, Skills
+- Tags: 3D, bike, Boy, Kid, Platform, Race, Skills

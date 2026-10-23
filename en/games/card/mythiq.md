@@ -21,4 +21,4 @@ Mythiq A Card-Based Memory Adventure Through Legendary Realms Enter the enchanti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Matching, Memory, Skill
+- Tags: card, Matching, memory, Skill

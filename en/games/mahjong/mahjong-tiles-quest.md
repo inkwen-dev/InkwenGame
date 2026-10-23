@@ -21,4 +21,4 @@ Mahjong Tiles Quest is a free mahjong matching game. This premium quality game i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Board, HTML5, Hypercasual, Mahjong, Puzzle, Skill
+- Tags: Arcade, Board, HTML5, Hypercasual, mahjong, Puzzle, Skill

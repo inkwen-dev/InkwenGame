@@ -19,6 +19,6 @@ On the most romantic holiday of the year, you have a special mission. Your task 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Girl, Girls, HTML5, Logic, Logical, Puzzle

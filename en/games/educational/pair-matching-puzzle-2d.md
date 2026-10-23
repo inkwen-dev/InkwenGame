@@ -19,6 +19,6 @@ Engage your mind with Pair Matching Puzzle 2D! Exercise your memory and concentr
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Educational, Hypercasual, Matching
+- Tags: Casual, educational, Hypercasual, Matching

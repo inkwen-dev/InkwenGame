@@ -21,4 +21,4 @@ You will race with the other 13 components. Cross the doors, rush to the end. Th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Hypercasual, Kid, running, Sports
+- Tags: Hypercasual, Kid, running, sports

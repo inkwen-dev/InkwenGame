@@ -19,6 +19,6 @@ It’s time for war! Stickman Simulator: Final Battle is the newest game where y
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Battle, Knight, Simulation, Simulator, Stickman, War
+- Tags: 3D, battle, knight, Simulation, Simulator, stickman, War

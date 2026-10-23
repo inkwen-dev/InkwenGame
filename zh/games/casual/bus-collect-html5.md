@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 点击, HTML5, iPad, iPhone, Mentolatux, 移动, 宇宙飞船, 车辆, WebGL
+- 标签: 安卓, 点击, HTML5, iPad, iPhone, Mentolatux, 移动设备, 宇宙飞船, 车辆, WebGL

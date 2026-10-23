@@ -21,4 +21,4 @@ W-A-S-D 移动 左键射击 右键瞄准 T 慢动作 R 重新装弹 Shift 跑步
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 射手
+- 标签: 动作, 射击类

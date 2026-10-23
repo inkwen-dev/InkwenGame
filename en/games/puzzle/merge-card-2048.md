@@ -19,6 +19,6 @@ Challenge your logical thinking ability with the 2048 card merge game. Can you p
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, amazing, Card
+- Tags: 1 Player, 2D, Action, amazing, card

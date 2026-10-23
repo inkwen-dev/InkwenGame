@@ -19,6 +19,6 @@ This is an infinite racing game. Collect the coins and avoid obstacles.
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 2D, Adventure, Car, Race, Racing, Traffic

@@ -19,6 +19,6 @@ TEEN TITANS GO! HOW TO DRAW BEAST BOY GAME · PLAY ONLINE FOR FREE Teen Titans G
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Cartoon Network, Color, Coloring, Disney, Draw, Drawing, Game, Online
+- Tags: Cartoon, Cartoon Network, Color, Coloring, Disney, Draw, drawing, Game, Online

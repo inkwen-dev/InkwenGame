@@ -21,4 +21,4 @@ A super bike racing experience begins with a stunt bike and a stunt rider with t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 3D, 3D Games, Bike, Moto, Motorcycle, Race, Racing, Skill
+- Tags: 1 Player, 2 Player, 2 Player Games, 3D, 3D Games, bike, Moto, Motorcycle, Race, Racing, Skill

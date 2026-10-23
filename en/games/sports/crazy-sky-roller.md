@@ -21,4 +21,4 @@ Put on your roller skates now! Drag your finger left to right to avoid the obsta
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Casual, Sport, Sports
+- Tags: Action, Adventure, Arcade, Casual, Sport, sports

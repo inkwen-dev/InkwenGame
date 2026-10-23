@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 街机, 球, 颜色, 涂色, 教育, Friv, 高分, HTML5, 像素, 复古
+- 标签: 单人, 2D, 街机, 球, 颜色, 着色, 教育, Friv, 高分, HTML5, 像素, 复古

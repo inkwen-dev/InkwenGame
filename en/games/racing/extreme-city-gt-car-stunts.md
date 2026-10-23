@@ -21,4 +21,4 @@ The fantastic and amazing crazy car stunts on stunts tracks will blow your mind.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Classic, gta, HTML5, Monster, Race, Stunts, World
+- Tags: Car, Cars, Classic, gta, HTML5, monster, Race, Stunts, World

@@ -21,4 +21,4 @@ Knight Dash it is a very fun and fast game. Your objective is to find the key to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Fun, Funny, Kid, Kids, King, Mobile, Pixel, Princess, Puzzle
+- Tags: Action, Adventure, Arcade, Fun, Funny, Kid, Kids, King, Mobile, pixel, Princess, Puzzle

@@ -19,6 +19,6 @@ Dora Winter Holiday Puzzles is super fun and free to play jigsaw game that you c
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Baby, Boys, Dora, Fun, Game, Girls, HTML5, Hypercasual, Jigsaw, Kids, Puzzle, School, Winter

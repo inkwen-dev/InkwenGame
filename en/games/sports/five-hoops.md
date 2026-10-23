@@ -19,6 +19,6 @@ Five Hoops is a basketball game. You will race with two guys in the shooting. I 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Ball, Basketball, Boy, Game, Games, H5, Highscore, HTML, HTML5, Kid, Kids, Obstacle, Race, Skill, Skills, Sport, Sports
+- Tags: 3D Games, Ball, basketball, Boy, Game, Games, H5, Highscore, HTML, HTML5, Kid, Kids, Obstacle, Race, Skill, Skills, Sport, sports

@@ -21,4 +21,4 @@ Sam Up is arcade game in html5
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Click, endless, HTML5, Hypercasual, Monster
+- Tags: 1 Player, 2D, Adventure, Arcade, Click, endless, HTML5, Hypercasual, monster

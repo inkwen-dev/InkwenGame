@@ -19,6 +19,6 @@ Cute Pony Hidden Stars is a delightful hidden object adventure that puts your ob
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Collecting, Fun, Hidden, Hypercasual, Kids, Logic, Pony, Puzzle, Skill

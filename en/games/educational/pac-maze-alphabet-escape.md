@@ -21,4 +21,4 @@ Pac Maze: Alphabet Escape is an escape game. In this game youll play as an alpha
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Avoid, Boy, Brain, Escape, HTML5, Kids, Maze, Quiz, Skill, Strategy
+- Tags: Android, Avoid, Boy, Brain, Escape, HTML5, Kids, Maze, Quiz, Skill, strategy

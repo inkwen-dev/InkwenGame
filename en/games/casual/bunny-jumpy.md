@@ -21,4 +21,4 @@ Get ready to jump into fun! In Bunny Jumpy, help a super cute pink bunny bounce 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Easter, egg, eggs, jump, Jumping, mapi games, Rabbit
+- Tags: Easter, egg, eggs, jump, jumping, mapi games, Rabbit

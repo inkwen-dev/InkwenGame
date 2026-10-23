@@ -21,4 +21,4 @@ Welcome to Sheep Link Puzzle Are you a fan of puzzle link and connect objects? S
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Clicker, Hot, Mahjong, Matching, Memory, Puzzle
+- Tags: Brain, Clicker, Hot, mahjong, Matching, memory, Puzzle

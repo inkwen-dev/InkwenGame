@@ -15,6 +15,6 @@ Unravel the dark mysteries of a haunted space station in Evil Space Base FPS. Na
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Zombie

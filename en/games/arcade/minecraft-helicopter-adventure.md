@@ -19,6 +19,6 @@ Minecraft Helicopter Adventure is fun online game suitable for all ages. This ti
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Android, Avoid, Boys, Collecting, fly, Helicopter, HTML5, Kids, Minecraft, Mobile, Skill
+- Tags: Adventure, Android, Avoid, Boys, Collecting, fly, helicopter, HTML5, Kids, Minecraft, Mobile, Skill

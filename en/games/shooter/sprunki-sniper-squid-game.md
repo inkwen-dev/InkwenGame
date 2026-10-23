@@ -19,6 +19,6 @@ In Sprunki Sniper Squid Game, players must stay still and wait for the sound to 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mentolatux, Shooting, Sniper, Sprunki, squid, squidgame, Unity3D, WebGL
+- Tags: Mentolatux, Shooting, sniper, Sprunki, squid, squidgame, Unity3D, WebGL

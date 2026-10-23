@@ -21,4 +21,4 @@ In this game with 75 different figures, you must cast a straight line increasing
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Casual, Click, Drawing
+- Tags: 1 Player, 2D, Action, Casual, Click, drawing

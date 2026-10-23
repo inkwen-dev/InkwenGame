@@ -19,6 +19,6 @@ Pukiimon a fun reflexive game to play on. Collect all of the Pukiimon by slicing
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Fruit, Funny, Girls, Kids, Ninja, Pokemon
+- Tags: Boys, Fruit, Funny, Girls, Kids, ninja, Pokemon

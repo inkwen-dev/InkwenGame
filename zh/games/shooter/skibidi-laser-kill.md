@@ -21,4 +21,4 @@ Skibidi 激光击杀游戏是一款快节奏、充满动作的激光射击街机
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 最佳游戏, 有趣, 游戏, HTML, HTML5, NapTech Games, 在线, 游玩, 射击, 射击, 斯基比迪, 斯基比迪马桶
+- 标签: 最佳游戏, 有趣, 网页游戏, HTML, HTML5, NapTech 游戏, 在线, 玩, 射击, 射击, Skibidi, skibidi-toilet

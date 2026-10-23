@@ -21,4 +21,4 @@ Connect 2 same xmas items with a path that no more than two 90 degree angles. Cl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, HTML5, html5 games, Mahjong, Mobile
+- Tags: Christmas, HTML5, html5 games, mahjong, Mobile

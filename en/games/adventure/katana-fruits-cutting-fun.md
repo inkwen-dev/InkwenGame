@@ -21,4 +21,4 @@ Welcome to the dojo, ninja. Your objective: become a master of slicing fruit! Wh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Boys, Defense, Fruits, H5, HTML5, Ninja, weapons
+- Tags: Action, Adventure, Boys, Defense, Fruits, H5, HTML5, ninja, weapons

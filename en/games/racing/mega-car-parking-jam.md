@@ -21,4 +21,4 @@ Mega Car Parking Jam - escape them from the Funny and extreme car parking lot! I
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Casual, Driving, Parking, Supercars, Unity3D
+- Tags: Car, Cars, Casual, Driving, parking, Supercars, Unity3D

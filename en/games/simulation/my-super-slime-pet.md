@@ -21,4 +21,4 @@ My Super Slime Pet is an amazing simulation game at yiv.com. Join the slime pet 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cat, Cleaning, Cute, Educational, Food, Fruit, Fun, Funny, HTML5, Kids, Mobile, Simulation
+- Tags: Boys, Cat, Cleaning, Cute, educational, Food, Fruit, Fun, Funny, HTML5, Kids, Mobile, Simulation

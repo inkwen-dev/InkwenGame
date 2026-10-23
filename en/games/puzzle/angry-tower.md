@@ -21,4 +21,4 @@ Build your tower, Block By Block in this super cool fan games based on famous bi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bird, Block, Boy, Brain, Casual, city, endless, Family, Funny, Girl, Girls, HTML, HTML5, Kid, Kids, Physics, Puzzle
+- Tags: Bird, block, Boy, Brain, Casual, city, endless, Family, Funny, Girl, Girls, HTML, HTML5, Kid, Kids, Physics, Puzzle

@@ -19,6 +19,6 @@ Simple piano application to learn play the piano and with realistic sounds of in
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Educational, endless, Family, HTML5, Kid, Kids, Mobile, Music
+- Tags: .io, educational, endless, Family, HTML5, Kid, Kids, Mobile, music

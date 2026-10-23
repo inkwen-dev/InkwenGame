@@ -19,6 +19,6 @@ It's painting time! Use your fingers and the palette to mix the colors, then pai
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Drawing
+- Tags: Coloring, drawing

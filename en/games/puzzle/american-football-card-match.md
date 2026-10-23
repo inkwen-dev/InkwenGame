@@ -21,4 +21,4 @@ American football, referred to as football in the United States and Canada, and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Card, Cartoon, Football, Match 3, Memory, Puzzle, Sports
+- Tags: Brain, card, Cartoon, Football, Match 3, memory, Puzzle, sports

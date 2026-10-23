@@ -21,4 +21,4 @@ The little ninja is starting his training. Help him to pass 30 levels, one harde
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Best, Boys, Casual, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Ninja, Online, Platform, run, running, Stickman
+- Tags: Action, Adventure, Arcade, Best, Boys, Casual, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, ninja, Online, Platform, run, running, stickman

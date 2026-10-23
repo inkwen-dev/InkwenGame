@@ -19,6 +19,6 @@ Merge Beast Arena is an idle merge game and auto-battler in one. Start with a ti
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Clicker, Fight

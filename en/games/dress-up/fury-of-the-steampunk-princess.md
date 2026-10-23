@@ -19,6 +19,6 @@ Welcome to the world of the future, where style and survival go hand in hand. Th
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: apocalypse, Dress Up, Fantasy, Fashion, Makeover, Superhero, survival

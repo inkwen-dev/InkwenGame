@@ -21,4 +21,4 @@ Blackjack is a card game that aims to beat the dealer without passing 21
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Card, Casino, Poker
+- Tags: 1 Player, card, Casino, Poker

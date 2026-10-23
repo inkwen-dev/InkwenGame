@@ -21,4 +21,4 @@ Among Them Jumper is a very fun casual game that will test your skills. With tap
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Game, Games, jump, Jumping
+- Tags: Game, Games, jump, jumping

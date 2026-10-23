@@ -19,6 +19,6 @@ Advance car parking is presented by the "Build Solid". Have you ever dreamed of 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adventure, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Fun, Funny, Game, Games, Girl, Girls, Mario, Moto, Motorcycle, Parking, Race, Racing, Sim, Simulation, Simulator, sky, Snow, Spiderman, Supercars, Superhero, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adventure, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Fun, Funny, Game, Games, Girl, Girls, mario, Moto, Motorcycle, parking, Race, Racing, Sim, Simulation, Simulator, sky, Snow, Spiderman, Supercars, Superhero, truck

@@ -19,6 +19,6 @@ It is a 2D game with highly dynamic features. In this game, you will certainly h
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Android, Driving, HTML, HTML5, Mobile, WebGL

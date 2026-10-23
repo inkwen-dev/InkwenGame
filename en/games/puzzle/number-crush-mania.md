@@ -19,6 +19,6 @@ A legendary and fun cool game that can be played offline. Start playing Number C
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Best, Casual, Crazy, Games, Girls, Number
+- Tags: 1 Player, 2D, Android, Best, Casual, crazy, Games, Girls, Number

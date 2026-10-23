@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 免费HTML5游戏供您的网站使用, html5游戏, 超休闲, 跳跃, 跳跃, mapi games, 竞速
+- 标签: 免费HTML5游戏供您的网站使用, HTML5游戏, 超休闲, 跳跃, 跳跃, mapi games, 竞速

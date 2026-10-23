@@ -23,4 +23,4 @@ Get ready for a unique blend of creative drawing and challenging physics puzzles
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, Brain, Drawing, Physics
+- Tags: Boys, Brain, drawing, Physics

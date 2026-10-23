@@ -21,4 +21,4 @@ Put your observation and guessing skills to the test in this fun and challenging
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Best, Guessing, Hypercasual, Puzzle, Word
+- Tags: 2026 games, Best, Guessing, Hypercasual, Puzzle, word

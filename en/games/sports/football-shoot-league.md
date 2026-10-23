@@ -21,4 +21,4 @@ Choose your favorite team and enter a tournament only fighting for the best cham
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Game, Games, Soccer, Sport, Sports
+- Tags: Football, Game, Games, Soccer, Sport, sports

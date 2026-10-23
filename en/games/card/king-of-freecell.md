@@ -21,4 +21,4 @@ Play FreeCell solitaire in this polished version of the classic card game.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Android, Card, Casino, Mobile, Solitaire
+- Tags: 1 Player, Android, card, Casino, Mobile, solitaire

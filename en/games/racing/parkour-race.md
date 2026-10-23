@@ -21,4 +21,4 @@ Jump from building to building - make the best stunts to win. Welcome to the won
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, 2D, Adventure, Arcade, Parking, Sport, Sports, Stickman
+- Tags: .io, 1 Player, 2D, Adventure, Arcade, parking, Sport, sports, stickman

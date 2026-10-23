@@ -15,6 +15,6 @@ Swap spooky symbols and solve eerie puzzles as time slips away in Scary Hallowee
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Horror

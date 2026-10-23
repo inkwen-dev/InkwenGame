@@ -19,6 +19,6 @@ Ready to have the most exciting evolution adventure in Fish Evolution 3D? This i
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Collecting, Fish

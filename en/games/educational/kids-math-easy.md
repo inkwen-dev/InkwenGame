@@ -19,6 +19,6 @@ Kids Math - Easy is a math quiz with numbers involved are 0-3 only. This is a ra
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Math, Puzzle, Quiz, Science
+- Tags: math, Puzzle, Quiz, Science

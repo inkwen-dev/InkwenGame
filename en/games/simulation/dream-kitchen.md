@@ -19,6 +19,6 @@ Dream Kitchen is a fun and fast-paced restaurant simulation game inspired by sha
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Cook, Cooking, Food, Girl, Girls, Hypercasual, Management, Restaurant, Simulation, Simulator
+- Tags: Casual, Cook, Cooking, Food, Girl, Girls, Hypercasual, management, restaurant, Simulation, Simulator

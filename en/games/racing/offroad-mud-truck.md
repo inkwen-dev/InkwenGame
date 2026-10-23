@@ -19,6 +19,6 @@ Offroad Mud Truck is an exciting 3D truck driving game where you take powerful t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Car, jeep, offroad, Race, Racing

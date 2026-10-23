@@ -27,4 +27,4 @@ R 键——重新开始。
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 动作, 闲置, 射击
+- 标签: 动作, idle, 射击

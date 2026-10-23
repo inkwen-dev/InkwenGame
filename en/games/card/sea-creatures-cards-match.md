@@ -21,4 +21,4 @@ Click or touch the card to open it. Watch and memorize the creature on the cards
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Fish, Fun, HTML5, Kids, Matching, Memory, Mobile, Puzzle
+- Tags: Board, Fish, Fun, HTML5, Kids, Matching, memory, Mobile, Puzzle

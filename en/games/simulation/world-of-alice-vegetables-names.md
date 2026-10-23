@@ -21,4 +21,4 @@ World of Alice - Vegetables Names is an educational game developed for children 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Educational, Food, free games for your site, free games for your website, free html5 games for your website, html games for your website, HTML5, html5 games, html5 games for your site, Kids, Letters, School, World of Alice
+- Tags: Best Games, educational, Food, free games for your site, free games for your website, free html5 games for your website, html games for your website, HTML5, html5 games, html5 games for your site, Kids, Letters, School, World of Alice

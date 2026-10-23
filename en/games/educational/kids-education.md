@@ -21,4 +21,4 @@ Kids Education is game that aims to educate kids in a funny way without them get
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boys, Educational, HTML5, iPad, Kids, Mobile
+- Tags: Android, Boys, educational, HTML5, iPad, Kids, Mobile

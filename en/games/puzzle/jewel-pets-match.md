@@ -19,6 +19,6 @@ Get your mood up with happy pets! Match them in greater numbers to erase a bigge
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Bomb, Cute, Jewel, Logic, Logical, Match 3, Match3, Math, Timing, Turn
+- Tags: Animal, Arcade, Bomb, Cute, Jewel, Logic, Logical, Match 3, Match3, math, Timing, Turn

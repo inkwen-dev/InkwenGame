@@ -19,6 +19,6 @@ Chef Right Mix is a great cooking challenge in which you can test your cooking s
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Clicker, Cook, Cooking, Fire, Food, HTML, HTML5

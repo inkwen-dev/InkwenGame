@@ -21,4 +21,4 @@ Do you enjoy the excitement of classic word games? Are you a real puzzle game ma
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Brain, Casual, Games, Word
+- Tags: 1 Player, 2D, Brain, Casual, Games, word

@@ -21,4 +21,4 @@ SatisPuzzle 完美整洁是一款包含多种主题的脑力益智游戏，内�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 惊人, 最佳, 蛋糕, 烹饪
+- 标签: 惊人, 最佳, 蛋糕, 厨艺

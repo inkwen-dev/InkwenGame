@@ -19,6 +19,6 @@ Pacman Adventure is fun arcade game suitable for all ages. The aim of the game i
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Android, Arcade, Avoid, Collecting, Fun, Game, Games, HTML5, Kids, PacMan, Skill

@@ -19,6 +19,6 @@ Viking Hunter is a game where you need to control the viking and he must destroy
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Avoid, Collecting, HTML5, Kids, Killing, Shoot

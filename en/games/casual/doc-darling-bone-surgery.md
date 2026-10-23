@@ -15,6 +15,6 @@ In Doc Darling Bone Surgery, step into the shoes of a compassionate doctor heali
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Surgery
+- Tags: surgery

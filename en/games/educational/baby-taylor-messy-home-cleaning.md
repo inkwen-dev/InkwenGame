@@ -21,4 +21,4 @@ The summer vacation has finally arrived. Our lovely Tyler kid decided to spend t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Baby, Cleaning, Educational, Fun, Girl, Girls, H5, HTML5, Room
+- Tags: 2D, Baby, Cleaning, educational, Fun, Girl, Girls, H5, HTML5, Room

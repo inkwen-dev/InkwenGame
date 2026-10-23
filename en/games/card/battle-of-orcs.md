@@ -21,4 +21,4 @@ Battle of Orcs is real time strategy units deployment game. Objective is to dest
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Balance, Battle, Card, Timing
+- Tags: Balance, battle, card, Timing

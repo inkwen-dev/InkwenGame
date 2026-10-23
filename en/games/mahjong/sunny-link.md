@@ -21,4 +21,4 @@ Sunny Link is an easy and fun game where players match tiles with summer icons. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, HTML5, Mahjong, Mobile, Puzzle, Skill
+- Tags: Arcade, HTML5, mahjong, Mobile, Puzzle, Skill

@@ -19,6 +19,6 @@ Smash all the Flies that appear on the screen with your fingers, before they lea
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, Boys, Casual, Click, Clicker, endless, Family, HTML5, Kid, Mobile, Plant

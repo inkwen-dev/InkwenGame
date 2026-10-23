@@ -21,4 +21,4 @@ Want to begin a pixelated sports showdown like no other? In Drive Ahead! Sports,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Football, vehicle
+- Tags: battle, Football, vehicle

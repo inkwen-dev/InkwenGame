@@ -19,6 +19,6 @@ Pop Us 2 is a very popular art game. How do you usually relax yourself after sch
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cool, Cute, Fashion, Fun, Girls, HTML5, Jigsaw, Kids, Mobile, Relaxation
+- Tags: Boys, cool, Cute, Fashion, Fun, Girls, HTML5, Jigsaw, Kids, Mobile, Relaxation

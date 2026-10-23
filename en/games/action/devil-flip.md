@@ -21,4 +21,4 @@ Devil Flip is a fun ragdoll based platform game aiming to fall vertically from h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Arcade, Casual, Click, Clicker, Crazy, Fun, Funny, html games for your website, jump, Jumping, Physics, Platform
+- Tags: 3D, Adventure, Arcade, Casual, Click, Clicker, crazy, Fun, Funny, html games for your website, jump, jumping, Physics, Platform

@@ -19,6 +19,6 @@ It's is an Easy-To-Play Level Based Strategic 3D-Platformer Game. It's fun to pl
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Ball, Casual, Hypercasual, Logic, Logical, Puzzle

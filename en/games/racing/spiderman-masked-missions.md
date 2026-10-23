@@ -19,6 +19,6 @@ Here is a small game about a new spider-man. Having chosen a hero or his girlfri
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, H5, Race, Racing, Spiderman

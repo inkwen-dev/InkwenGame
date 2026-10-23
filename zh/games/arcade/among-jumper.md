@@ -21,4 +21,4 @@ Among Them Jumper 是一款非常有趣的休闲游戏，将考验你的技能�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 游戏, 游戏, 跳跃, 跳动
+- 标签: 游戏, 网页游戏, 跳跃, 跳跃

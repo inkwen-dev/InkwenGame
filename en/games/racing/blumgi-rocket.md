@@ -19,6 +19,6 @@ Blumgi Rocket is a fun game you can play in your web browser for free on Superki
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Car, Driving, Fun, HTML, HTML5, Mobile, Physics, Platform, Rocket, Skills

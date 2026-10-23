@@ -19,6 +19,6 @@ New version of Among Us is now this game! You are an imposter and your mission i
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adventure, Funny, Kids, Skill

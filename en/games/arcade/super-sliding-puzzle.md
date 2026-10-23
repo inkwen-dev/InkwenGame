@@ -21,4 +21,4 @@ Super Slider Puzzle is a classic sliding puzzle game that offers endless fun and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Boy, Brain, Casual, Fun, HTML5, Kids, Mobile, Puzzle, Strategy
+- Tags: Arcade, block, Boy, Brain, Casual, Fun, HTML5, Kids, Mobile, Puzzle, strategy

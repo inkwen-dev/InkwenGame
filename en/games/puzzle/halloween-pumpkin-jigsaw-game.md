@@ -19,6 +19,6 @@ Welcome to halloween pumpkin Jigsaw Joyride! Our halloween pumpkin Jigsaw Joyrid
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Halloween, Puzzle
+- Tags: card, Halloween, Puzzle

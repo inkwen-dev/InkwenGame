@@ -21,4 +21,4 @@ FuseSmash 是一款游戏，火柴炮从左右两侧飞来，摔跤手用胳膊�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 拳击, 休闲, 点击器, 拳击
+- 标签: Boxing, 休闲, 点击器, 拳击

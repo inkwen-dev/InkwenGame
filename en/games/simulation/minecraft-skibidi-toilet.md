@@ -19,6 +19,6 @@ A never seen before scary Skibidi Toilet for MCPE creature will appear in the mi
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Brawl, Minecraft, Simulation, Simulator, Skibidi, Skibidi Toilet, Skills
+- Tags: Boy, Brawl, Minecraft, Simulation, Simulator, Skibidi, skibidi-toilet, Skills

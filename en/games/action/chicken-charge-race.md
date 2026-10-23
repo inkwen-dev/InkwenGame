@@ -19,6 +19,6 @@ Chicken Charge Race Get ready for Chicken Charge Race, a super fun and free-to-p
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Chicken, Collecting, HTML5, Hypercasual, jump, Jumping, Kids, Physics, Platform
+- Tags: Avoid, Chicken, Collecting, HTML5, Hypercasual, jump, jumping, Kids, Physics, Platform

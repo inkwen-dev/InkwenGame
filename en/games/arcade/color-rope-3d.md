@@ -19,6 +19,6 @@ Color Rope will keep you hooked for hours! Puzzle game with one finger control. 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arcade, Hypercasual, Puzzle

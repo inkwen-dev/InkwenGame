@@ -21,4 +21,4 @@ Wander through an endless maze collecting glowing dots to boost your score while
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Classic, Funny, games for your website, Highscore, Maze, PacMan, Retro
+- Tags: 1 Player, Arcade, Classic, Funny, games for your website, Highscore, Maze, PacMan, retro

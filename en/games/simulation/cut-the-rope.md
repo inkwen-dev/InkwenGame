@@ -21,4 +21,4 @@ Follow the adventure of Om Nom in the legendary "Cut the Rope" logic puzzles ser
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Celebrity, cut, HTML5, Simulation, Skills, Strategy
+- Tags: Brain, Casual, Celebrity, cut, HTML5, Simulation, Skills, strategy

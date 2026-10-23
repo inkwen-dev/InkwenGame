@@ -19,6 +19,6 @@ Your puzzle skills and brain ideas will be put to the test with this new angle b
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adult, Adventure, Android, Arcade, Ball, Billiard, Block, Boxing, Brain, Bubble, Bubble Shooter, Candy, Collecting, Collection, Educational, Fun, Funny, Guessing, Magic, Unity3D, WebGL
+- Tags: 1 Player, Action, Adult, Adventure, Android, Arcade, Ball, Billiard, block, Boxing, Brain, Bubble, Bubble Shooter, Candy, Collecting, Collection, educational, Fun, Funny, Guessing, Magic, Unity3D, WebGL

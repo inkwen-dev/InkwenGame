@@ -19,6 +19,6 @@ Knock out your opponent in Irrational Karate! In this 3D fighting game, you can 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Boy, Boys, Fighting, Funny, Multiplayer, Ninja
+- Tags: 2 Player, 2 Player Games, Boy, Boys, fighting, Funny, Multiplayer, ninja

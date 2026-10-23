@@ -21,4 +21,4 @@ ANIME GIRLS MEMORY CARD é um jogo de cartas com lindas ilustrações de garotas
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Anime, Boy, Boys, Card, Cute, Fun, Funny, Girl, Girls, Kid, Kids, Matching, Math, Memory
+- Tags: 1 Player, Anime, Boy, Boys, card, Cute, Fun, Funny, Girl, Girls, Kid, Kids, Matching, math, memory

@@ -21,4 +21,4 @@ Monster Game is an exciting action-packed game where players run through dynamic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Battle
+- Tags: 3D, battle

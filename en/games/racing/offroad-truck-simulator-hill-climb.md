@@ -19,6 +19,6 @@ In this truck driving game you are in charge of taking the waste barrels to the 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Best, bus, Cars, Fun, Funny, HTML5, Race, Racing, Simulator, Skill, Skills, Truck, Unity3D
+- Tags: 1 Player, 3D, Best, bus, Cars, Fun, Funny, HTML5, Race, Racing, Simulator, Skill, Skills, truck, Unity3D

@@ -15,6 +15,6 @@ Embark on a thrilling interstellar journey in Cosmos 404! Navigate dynamically g
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: runner

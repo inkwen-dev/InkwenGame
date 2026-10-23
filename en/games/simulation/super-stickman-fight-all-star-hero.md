@@ -19,6 +19,6 @@ A whole new storyline about characters familiar to all of us. A Devil God group 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Anime, Batman, Battle, Battlegrounds, Fight, Fighting, Management, PacMan, Spiderman, Stickman, Super, Superhero, War
+- Tags: Action, Anime, Batman, battle, Battlegrounds, Fight, fighting, management, PacMan, Spiderman, stickman, Super, Superhero, War

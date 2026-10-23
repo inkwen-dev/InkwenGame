@@ -19,6 +19,6 @@ Welcome to the Granny Horror Grandpa Chapter Evil Scary Simulator. This is a sur
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Ghost, HTML5, Shooter, Unity3D, WebGL, Zombie

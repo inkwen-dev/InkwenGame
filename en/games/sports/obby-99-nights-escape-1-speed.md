@@ -19,6 +19,6 @@ This is a thrilling adventure survival game where each night brings new dangers.
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Anime, Arcade, Casual, egg, eggames, eggs, Horror, Kids, Minecraft, OnlyUp, roblox, Sport, Timing

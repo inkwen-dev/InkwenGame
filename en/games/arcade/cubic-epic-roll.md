@@ -21,4 +21,4 @@ Are you prepared to go on an unforgettable journey with Epic Roll? Your avatar b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Android, Arcade, Block, Click, HTML5, Mobile
+- Tags: 1 Player, 3D Games, Android, Arcade, block, Click, HTML5, Mobile

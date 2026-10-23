@@ -19,6 +19,6 @@ Exciting soccer action like you've never seen before. Lob it over the keeper, or
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Soccer, Sports
+- Tags: Arcade, Soccer, sports

@@ -21,4 +21,4 @@ Gather 2048 cubes in this top-notch 2048 runner game! Enjoy thrilling action and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2048, Android, Collecting, HTML5, Hypercasual, iPad, iPhone, Kids, Management, Mobile, run, running, Unity3D, WebGL
+- Tags: 2048, Android, Collecting, HTML5, Hypercasual, iPad, iPhone, Kids, management, Mobile, run, running, Unity3D, WebGL

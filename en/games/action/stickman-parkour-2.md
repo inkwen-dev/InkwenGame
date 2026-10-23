@@ -19,6 +19,6 @@ Here is another Version of Stickman Parkour Games. Your mission is to run and ju
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Batman, Best, Hot, Hypercasual, jump, Jumping, run, running, Stickman
+- Tags: Batman, Best, Hot, Hypercasual, jump, jumping, run, running, stickman

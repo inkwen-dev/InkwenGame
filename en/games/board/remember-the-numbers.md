@@ -19,6 +19,6 @@ If you like puzzle games and you want to work on your memory while having some f
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Casual, Educational, Family, Logic, Memory, Number, Puzzle
+- Tags: Board, Casual, educational, Family, Logic, memory, Number, Puzzle

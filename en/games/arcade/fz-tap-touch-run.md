@@ -19,6 +19,6 @@ FZ Tap Touch Run - HTML5 Games is titles to jump or change direction Do not fall
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Kid, Kids

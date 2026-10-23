@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 人, 2D, 最佳, 最佳游戏, 男孩, Boys, 休闲, 点击, Grimace
+- 标签: 单人, 2D, 最佳, 最佳游戏, 男孩, 男孩们, 休闲, 点击, 格里马斯

@@ -19,6 +19,6 @@ There lived a small rabbit in deep city who wanted to get rich by collecting car
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, HTML, HTML5, Hypercasual, run

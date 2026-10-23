@@ -19,6 +19,6 @@ Stunt Witch 2 is a magical arcade adventure where you play as a brave little wit
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Flight, Girl, Halloween, Magic, mapi games, Stunts, Witch
+- Tags: Arcade, flight, Girl, Halloween, Magic, mapi games, Stunts, Witch

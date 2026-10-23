@@ -15,6 +15,6 @@ Embark on a thrilling journey in Mayika, a vibrant anime-inspired 2D platformer.
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

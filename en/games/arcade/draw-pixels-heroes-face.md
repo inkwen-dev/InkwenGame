@@ -21,4 +21,4 @@ Paint the faces of Batman and other heroes with pixels to unlock the next charac
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Boy, Coloring, Draw, Drawing, Pixel, Puzzle, Super, Superhero
+- Tags: Action, Arcade, Boy, Coloring, Draw, drawing, pixel, Puzzle, Super, Superhero

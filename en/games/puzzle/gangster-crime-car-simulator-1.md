@@ -21,4 +21,4 @@ Drive real, fast crime cars and pick up gangsters and crime mob bosses across th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D, 3D Games, 8 Ball Pool, Bubble Shooter, bus, Car, Cars, Games, Shoot, Shooting, Simulation, Simulator, Supercars, Truck, Unity3D
+- Tags: .io Games, 2 Player Games, 3D, 3D Games, 8 Ball Pool, Bubble Shooter, bus, Car, Cars, Games, Shoot, Shooting, Simulation, Simulator, Supercars, truck, Unity3D

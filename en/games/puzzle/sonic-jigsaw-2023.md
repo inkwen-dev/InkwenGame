@@ -19,6 +19,6 @@ Funny Hedgehog sonic from the famous game and cartoon very much missed you. We o
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Adventure, Jigsaw, Puzzle

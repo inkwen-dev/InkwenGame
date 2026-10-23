@@ -19,6 +19,6 @@ Little Panda Match 3 is a classic online matching game for boys played on Puzzle
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Animal, Boy, Cartoon, Fun, HTML, Kids, Match 3, Online, Puzzle

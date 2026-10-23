@@ -21,4 +21,4 @@ Shot Factor is a free casual shooting online game for boys. The game takes the f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Boy, Brain, Fun, HTML5, Kids, Number, Online, Puzzle, running, Shooting, Stickman
+- Tags: 3D, Android, Boy, Brain, Fun, HTML5, Kids, Number, Online, Puzzle, running, Shooting, stickman

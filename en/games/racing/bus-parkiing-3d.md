@@ -21,4 +21,4 @@ Bus Parkiing 3D is a realistic Bus Driving game and Bus Simulator having a 3D ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: bus, Car, Cars, drift, drifting, Driving, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids, Parking
+- Tags: bus, Car, Cars, drift, drifting, Driving, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids, parking

@@ -19,6 +19,6 @@ Gear Shift Race throws you into a high-octane challenge where timing is everythi
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Arcade, Battle, Clash, Dancing, Fashion, Fun, Game, Music, Rhythm, Skill
+- Tags: 2026 games, Arcade, battle, Clash, Dancing, Fashion, Fun, Game, music, Rhythm, Skill

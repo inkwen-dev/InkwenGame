@@ -21,4 +21,4 @@ Q Math is a mathematical game for kids. At this game, you need to have some kind
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Kids, Logical, Math, Number
+- Tags: Arcade, Kids, Logical, math, Number

@@ -19,6 +19,6 @@ Color Hoop Stack is a classic addictive sort puzzle game. Solve the puzzle by so
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, 3D Games, Action, Arcade, Board, Card, Color, Coloring, Hypercasual, Puzzle, Skateboard
+- Tags: .io Games, 3D, 3D Games, Action, Arcade, Board, card, Color, Coloring, Hypercasual, Puzzle, skateboard

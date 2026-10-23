@@ -21,4 +21,4 @@ Unleash your creativity with Toca Life Coloring Book, a vibrant and engaging col
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Color, Coloring, Educational, Girl, Girls, Kids, School
+- Tags: Boys, Color, Coloring, educational, Girl, Girls, Kids, School

@@ -21,4 +21,4 @@ brain 100 Match is one classic memory game based on the traditional board game w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Kids, Memory
+- Tags: Adventure, Kids, memory

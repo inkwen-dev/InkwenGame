@@ -21,4 +21,4 @@ Squid Games - 456 Survival K Challenge Squid Game is survival shooting games bas
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, New, Shoot, Shooter, Shooting, Sniper
+- Tags: 3D Games, New, Shoot, Shooter, Shooting, sniper

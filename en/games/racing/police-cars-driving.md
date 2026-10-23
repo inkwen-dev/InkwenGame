@@ -19,6 +19,6 @@ The police ensure public safety. He catches criminals. Chase the escaped crimina
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Boys, Car, Driving, Fun, Game, HTML5, Police, Race, Racing
+- Tags: Action, Boys, Car, Driving, Fun, Game, HTML5, police, Race, Racing

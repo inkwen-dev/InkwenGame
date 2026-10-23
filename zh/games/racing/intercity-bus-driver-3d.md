@@ -21,4 +21,4 @@ WASD 或 方向键 - 驾驶 鼠标点击互动
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 巴士, 驾驶
+- 标签: 公交车, 驾驶

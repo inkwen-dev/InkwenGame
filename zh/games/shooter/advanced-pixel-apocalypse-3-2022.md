@@ -21,4 +21,4 @@ WASD- 移动 鼠标- 瞄准 四周查看 射击 Tab- 菜单
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人对战, 双人游戏, 多人, 射击, 射手, 射击, Unity3D, 战争, WebGL, 僵尸
+- 标签: 双人, 双人游戏, 多人, 射击, 射击类, 射击, Unity3D, 战争, WebGL, 僵尸

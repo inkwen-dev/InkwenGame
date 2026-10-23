@@ -19,6 +19,6 @@ Elite Traffic Simulator invites you into the thrilling world of traffic manageme
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Car, Cars, Click, Clicker, Skill, Skills, Strategy, Traffic, vehicle
+- Tags: 1 Player, 3D, Action, Car, Cars, Click, Clicker, Skill, Skills, strategy, Traffic, vehicle

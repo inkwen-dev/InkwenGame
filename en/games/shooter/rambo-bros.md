@@ -21,4 +21,4 @@ Play Rambo Bros flash game. Rambo Bros is a Classic game to play free online. Ra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Castle, Fun, Mario, Shooting
+- Tags: 2D, Action, Adventure, Castle, Fun, mario, Shooting

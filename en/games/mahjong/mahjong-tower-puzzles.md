@@ -40,4 +40,4 @@ Score as many points as you can in the endless "Arcade" game mode.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Mahjong, Matching, Puzzle
+- Tags: Brain, mahjong, Matching, Puzzle

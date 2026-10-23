@@ -34,4 +34,4 @@ Recruit heroes such as Nova, Valkyrie and Aegis, and learn their tricks in the T
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: battleship, merge, pve, Space, Strategy
+- Tags: battleship, merge, pve, Space, strategy

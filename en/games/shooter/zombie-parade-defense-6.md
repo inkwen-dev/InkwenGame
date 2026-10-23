@@ -21,4 +21,4 @@ Zombie Parade Defense continues with its 6th episode. This time you have to defe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Battle, War, Zombie
+- Tags: 2 Player, 2 Player Games, battle, War, Zombie

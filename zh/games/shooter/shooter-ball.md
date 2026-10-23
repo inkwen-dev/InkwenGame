@@ -21,4 +21,4 @@ BallShooter 是一款游戏，你需要在敌人攻击下生存，赚取金钱�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 2D, 动作, 射击
+- 标签: 单人, 2D, 动作, 射击

@@ -21,4 +21,4 @@ Step up to the oche with <strong>Darts Pro</strong>, the ultimate online precisi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Classic, difficult, Mobile, Mouse, Skill, Sports
+- Tags: Classic, difficult, Mobile, Mouse, Skill, sports

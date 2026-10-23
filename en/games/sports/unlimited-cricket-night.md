@@ -15,6 +15,6 @@ Dive into the neon-lit world of Unlimited Cricket Night, where intuitive tap-bas
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: cricket

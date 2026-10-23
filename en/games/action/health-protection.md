@@ -21,4 +21,4 @@ Health Protection is a survival journey inside the body, where you play the role
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Casual, Fight, Fighting
+- Tags: 1 Player, Casual, Fight, fighting

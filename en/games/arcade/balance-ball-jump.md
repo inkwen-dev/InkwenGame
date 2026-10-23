@@ -21,4 +21,4 @@ Balance is a game where you have to jump over boxes and balance them. As more bo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Ballon, jump, Jumping, Puzzle, Quiz
+- Tags: Arcade, Ball, Ballon, jump, jumping, Puzzle, Quiz

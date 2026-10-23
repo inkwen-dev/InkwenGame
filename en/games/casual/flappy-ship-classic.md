@@ -21,4 +21,4 @@ Flappy bird style game with art in the style of old spaceship games I tried to d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Click, Clicker, fly, Highscore, Pixel, Space, Spaceship
+- Tags: 1 Player, Click, Clicker, fly, Highscore, pixel, Space, Spaceship

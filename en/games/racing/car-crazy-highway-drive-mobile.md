@@ -21,4 +21,4 @@ Get behind the wheel, navigate an infinite stream of traffic on an open highway,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Android, Car, Crazy, drift, drifting, Driving, HTML, HTML5, Kids, Mobile, Racing, Supercars, Traffic, Unity3D, WebGL
+- Tags: 3D Games, Android, Car, crazy, drift, drifting, Driving, HTML, HTML5, Kids, Mobile, Racing, Supercars, Traffic, Unity3D, WebGL

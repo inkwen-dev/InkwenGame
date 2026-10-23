@@ -21,4 +21,4 @@ Have fun Jeep Drive Prisoner Transport Sim mobile ready in any android or iPhone
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Android, Driving, HTML5, Mobile, Race, Simulator, Supercars, Truck
+- Tags: Action, Android, Driving, HTML5, Mobile, Race, Simulator, Supercars, truck

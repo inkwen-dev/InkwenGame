@@ -21,4 +21,4 @@ You need to gave your full skill of driving to achieved their desired result qua
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Defense, Design, Race, Stunts
+- Tags: bike, Defense, Design, Race, Stunts

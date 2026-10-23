@@ -19,6 +19,6 @@ Welcome in kirby adventure Enjoy the runner in the magical world with your favor
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon Network, Kid, Mario
+- Tags: Cartoon Network, Kid, mario

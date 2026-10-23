@@ -21,3 +21,4 @@ A fun simple crossword puzzle game. Engage in an entertaining and straightforwar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
+- Tags: Hypercasual, Puzzle, word

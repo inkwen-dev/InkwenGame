@@ -19,6 +19,6 @@ You will play as a super boy who has to swing with his web throughout the city. 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, endless, fly, Fun, Girls, HTML5, Kids, Mobile

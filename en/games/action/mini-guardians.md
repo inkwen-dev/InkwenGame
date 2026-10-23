@@ -19,6 +19,6 @@ Play to MINI GUARDIANS : CASTLE DEFENSE and lead your warriors and guardians to 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Classic, Fight, Fighting, Gun, Kid, Kids, Kill, Killing, Mine, Minecraft, Pixel, Spongebob, Street Fighting, Superhero, Sword
+- Tags: Action, Classic, Fight, fighting, Gun, Kid, Kids, Kill, Killing, Mine, Minecraft, pixel, Spongebob, Street Fighting, Superhero, sword

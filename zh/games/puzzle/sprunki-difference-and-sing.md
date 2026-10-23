@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 大脑, 差异, 有趣, 超休闲, 儿童, Sprunki
+- 标签: 大脑, 找不同, 有趣, 超休闲, 儿童, 斯普朗基

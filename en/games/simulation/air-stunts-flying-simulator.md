@@ -19,6 +19,6 @@ Fly on the plane to destination point and use your parachute. Enjoy your super s
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Air, Aircraft, fly, jump, Jumping, Simulation, Simulator, Stunts
+- Tags: 3D, 3D Games, Air, Aircraft, fly, jump, jumping, Simulation, Simulator, Stunts

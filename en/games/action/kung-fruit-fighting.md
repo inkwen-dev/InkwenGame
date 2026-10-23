@@ -19,6 +19,6 @@ Are you a fan of Kung fu and you like chopping things? This game is perfect for 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Casual, Fruit, Ninja
+- Tags: Action, Casual, Fruit, ninja

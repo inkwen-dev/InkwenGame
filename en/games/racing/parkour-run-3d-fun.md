@@ -21,4 +21,4 @@ Let's have a Parkour competition with other players in this high-rise city! Take
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, 3D, 3D Games, Action, Adventure, Arcade, Casual, Fun, Funny, Hot, Hypercasual, Parking, Race, Racing, run, running, Unity3D
+- Tags: .io, 3D, 3D Games, Action, Adventure, Arcade, Casual, Fun, Funny, Hot, Hypercasual, parking, Race, Racing, run, running, Unity3D

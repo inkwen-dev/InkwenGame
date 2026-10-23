@@ -19,6 +19,6 @@ To survive You have to try to get out of his house, but be careful and quiet. Gr
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Battlegrounds, Escape, Fight, Ghost, Girls, HTML5, Killing, Undead

@@ -19,6 +19,6 @@ Humi Bot 2 is a 2D Sci-Fi themed platformer where you have to collect yellow orb
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Arcade, Collecting, Cute, jump, Jumping, Pixel, Platform, Retro, Robot, Science
+- Tags: 1 Player, Adventure, Arcade, Collecting, Cute, jump, jumping, pixel, Platform, retro, Robot, Science

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 冒险, 街机, 跳跃, 跳躍, 马里奥
+- 标签: 单人, 冒险, 街机, 跳跃, 跳跃, mario

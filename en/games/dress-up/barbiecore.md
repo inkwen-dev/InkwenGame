@@ -19,6 +19,6 @@ How about a new fashion trend? Hot pink and bubblegum are on the rise, but in th
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Barbie, Dress Up, Fashion, Game, Games, Girls, Makeover, Summer

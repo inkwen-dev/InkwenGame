@@ -21,4 +21,4 @@ Beach Run is a fun running game, and you can play it online. There are many pers
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boys, Brain, Fighting, Fun, HTML5, Kids, Obstacle, Online, Puzzle, Relaxation, running, Shooting
+- Tags: Android, Boys, Brain, fighting, Fun, HTML5, Kids, Obstacle, Online, Puzzle, Relaxation, running, Shooting

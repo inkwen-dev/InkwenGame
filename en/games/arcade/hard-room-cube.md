@@ -21,4 +21,4 @@ Hard Room Cube is an engaging and challenging game where players navigate a cute
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, amazing, Arcade, Arena, Brain, Casual, Crazy, Escape, Fun, Funny, jump, Puzzle, survival
+- Tags: 3D, 3D Games, amazing, Arcade, Arena, Brain, Casual, crazy, Escape, Fun, Funny, jump, Puzzle, survival

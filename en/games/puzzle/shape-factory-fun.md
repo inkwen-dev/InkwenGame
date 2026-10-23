@@ -21,4 +21,4 @@ Shape Factory Fun is a match-game about steel products as it happens in a factor
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Geometry, Match-3, Science
+- Tags: Casual, Geometry, Match 3, Science

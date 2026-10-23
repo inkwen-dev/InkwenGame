@@ -21,4 +21,4 @@ Sick of endless racing games with third person perspective? "Racing in Car 2" mi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Aircraft, Bike, Boy, Boys, Bubble, Bubble Shooter, Candy, drift, drifting, Driving, Fight, Game, Games, Gun, Mario, Parking, Simulation, Simulator, Street Fighting, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Aircraft, bike, Boy, Boys, Bubble, Bubble Shooter, Candy, drift, drifting, Driving, Fight, Game, Games, Gun, mario, parking, Simulation, Simulator, Street Fighting, truck

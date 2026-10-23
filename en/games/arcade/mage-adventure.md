@@ -21,4 +21,4 @@ Mage Adventure is an online Adventure game that pits players against each other 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Games, HTML5, jump, Jumping
+- Tags: Action, Adventure, Arcade, Games, HTML5, jump, jumping

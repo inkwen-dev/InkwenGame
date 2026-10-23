@@ -33,4 +33,4 @@ Escalating chaos – Start with a sniper rifle, unlock machine guns, grenades, a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Gun, Retro, Shooting, Sniper
+- Tags: Action, Gun, retro, Shooting, sniper

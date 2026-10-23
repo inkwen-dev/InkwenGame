@@ -19,6 +19,6 @@ Baby Panda is a food-loving bear who has a wide variety of delicious treats in h
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cook, Cooking, Cute, Educational, Food, Fruits, Fun, Girls, HTML5, Kids, Mobile, Panda
+- Tags: Animal, Baby, Cook, Cooking, Cute, educational, Food, Fruits, Fun, Girls, HTML5, Kids, Mobile, Panda

@@ -21,4 +21,4 @@ Fly in Minecraft world and bomb building. avoid creepers that flying, they shoot
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bomb, fly, Minecraft, Pixel, Shoot
+- Tags: Bomb, fly, Minecraft, pixel, Shoot

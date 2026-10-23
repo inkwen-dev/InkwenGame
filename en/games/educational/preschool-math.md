@@ -21,4 +21,4 @@ The objective of the game is to help players learn basic math concepts, such as 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, endless, HTML, HTML5, Math, Online, School
+- Tags: educational, endless, HTML, HTML5, math, Online, School

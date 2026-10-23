@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 8球台球, 成人, 街机, 球, 台球, 棋盘, 男孩, 男孩们, 赌场, Casual, 点击, 点击器, 游戏, 游戏, H5, 高分, HTML, HTML5, Hypercasual, 思维, 台球, Unity3D
+- 标签: 3D, 3D游戏, 8球台球, 成人, 街机, 球, 台球, 棋盘, 男孩, 男孩们, 赌场, 休闲, 点击, 点击器, 游戏, 网页游戏, H5, 高分, HTML, HTML5, 超休闲, 思维, 台球, Unity3D

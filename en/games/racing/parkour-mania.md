@@ -21,4 +21,4 @@ Experience a real Parkour Mania. Dash from rooftop to rooftop. Customize your ch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping, Multiplayer, Race, running
+- Tags: jumping, Multiplayer, Race, running

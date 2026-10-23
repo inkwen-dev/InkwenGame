@@ -19,6 +19,6 @@ Join SpongeBob and his friends in this exciting puzzle game based on the beloved
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Cartoon Network, Fun, Games, HTML5, Puzzle, Spongebob

@@ -19,6 +19,6 @@ Arcade game sports are the kind of video games that most people are acquainted w
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Skill, Unity3D, WebGL

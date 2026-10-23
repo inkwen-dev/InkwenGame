@@ -15,6 +15,6 @@ Unveil hidden mysteries as Wilhelm in a chilling atmospheric adventure through y
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Horror

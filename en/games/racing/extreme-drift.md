@@ -19,6 +19,6 @@ Extreme drift is a drift simulator on different cars. There are only 11 cars in 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Arcade, Car, Cars, drift, drifting, Driving, Fun, Funny, Game, Games, HTML5, Racing, Unity3D, WebGL

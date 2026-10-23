@@ -19,6 +19,6 @@ a relaxing jigsaw puzzle game where you assemble beautiful images piece by piece
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Casual, HTML5, Jigsaw, Logic, Mind, Puzzle

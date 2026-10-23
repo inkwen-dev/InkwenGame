@@ -21,4 +21,4 @@ he object of the game is to collect all the golden scarabs on each level using t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Block, Funny, Logic, Physics, Puzzle, temple
+- Tags: 1 Player, 2D, Adventure, Arcade, block, Funny, Logic, Physics, Puzzle, temple

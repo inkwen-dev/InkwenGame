@@ -21,4 +21,4 @@ Pixel Zombie Die Hard is a shooter game where you need to complete a specified k
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Pixel, Shooter, Shooting
+- Tags: pixel, Shooter, Shooting

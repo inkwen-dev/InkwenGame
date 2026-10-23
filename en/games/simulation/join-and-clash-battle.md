@@ -19,6 +19,6 @@ You have to rescue the imprisoned warriors in Join and Clash Battle, a fun and a
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, Boys, Castle, Casual, Clans, Clash, Defense, endless, Escape, Fun, Hypercasual, Simulation, WebGL

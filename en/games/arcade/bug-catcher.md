@@ -15,6 +15,6 @@ Plunge into the vibrant jungle of Bug Catcher, an engaging arcade adventure. Mas
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Arcade

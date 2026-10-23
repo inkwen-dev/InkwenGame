@@ -19,6 +19,6 @@ Buckle up for a wild solo ride! In Mad Car Arena, youll take control of a stunt-
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, BMX, crash, Racing

@@ -21,4 +21,4 @@ Assassin Hunter The best and most attractive killer hunting Become the legend of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Army, Battle, Escape, Games
+- Tags: 1 Player, Action, Adventure, Army, battle, Escape, Games

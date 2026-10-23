@@ -19,6 +19,6 @@ Dodge Game introduces Jump Circle, a new way to avoid hitting the line and score
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Avoid, Casual, Classic, endless, Fun, Game, Games, WebGL

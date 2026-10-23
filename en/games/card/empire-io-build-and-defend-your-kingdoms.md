@@ -21,4 +21,4 @@ Empire.io is an isometric tower defense style game combined with archer shooting
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2 Player, 3D, Android, Castle, Clans, Clash, Fight, Fighting, Kiss, Solitaire, Strategy, Tower Defense, Zombie
+- Tags: .io, .io Games, 2 Player, 3D, Android, Castle, Clans, Clash, Fight, fighting, Kiss, solitaire, strategy, Tower Defense, Zombie

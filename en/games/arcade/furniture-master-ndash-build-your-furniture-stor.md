@@ -19,6 +19,6 @@ Welcome to an exciting world where every player becomes the architect of their o
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Arcade, Balance, Best, Best Games, Brainrot, Casual, gta, idle, Mario, Minecraft, Miner, roblox
+- Tags: 1 Player, 2026 games, Arcade, Balance, Best, Best Games, Brainrot, Casual, gta, idle, mario, Minecraft, Miner, roblox

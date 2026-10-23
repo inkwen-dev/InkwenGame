@@ -19,6 +19,6 @@ Have you ever played a famous Steam running racing game called Falling Beans? Fa
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Jumping, Mobile, Obstacle, Platform, Racing, running, Timing, WebGL
+- Tags: 3D, Action, jumping, Mobile, Obstacle, Platform, Racing, running, Timing, WebGL

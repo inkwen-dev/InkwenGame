@@ -21,4 +21,4 @@ Cocktail Run is a 2D pixel platformer built for quick arcade fun. Run, jump, and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Arcade, Jumping, Platform, running
+- Tags: 2D, Action, Arcade, jumping, Platform, running

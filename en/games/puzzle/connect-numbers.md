@@ -21,4 +21,4 @@ This game challenges players to quickly move and swap numbers to connect them in
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Games, Highscore, HTML5, Kids, Math, Number, Puzzle
+- Tags: Fun, Games, Highscore, HTML5, Kids, math, Number, Puzzle

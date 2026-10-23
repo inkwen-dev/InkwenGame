@@ -25,4 +25,4 @@ A New Kind of Puzzle: Forget what you know about word quiz games. In Mindblow: G
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, Puzzle, Quiz, words
+- Tags: Brain, educational, Puzzle, Quiz, words

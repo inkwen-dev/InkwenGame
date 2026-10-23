@@ -21,4 +21,4 @@ Coach Bus Simulator is the first coach driving game that will teach you to drive
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, bus, Car, Cars, city, Collection, Crazy, Creation, Decoration, drift, drifting, Driving, Supercars, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, bus, Car, Cars, city, Collection, crazy, Creation, Decoration, drift, drifting, Driving, Supercars, Unity3D

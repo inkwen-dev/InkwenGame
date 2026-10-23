@@ -19,6 +19,6 @@ You can command the army of the Stick Kingdom and manage their resources and wor
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fighting, Mouse, Simulation, Street Fighting, War
+- Tags: fighting, Mouse, Simulation, Street Fighting, War

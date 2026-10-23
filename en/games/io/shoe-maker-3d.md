@@ -19,6 +19,6 @@ In this game, the player plays through the day-to-day life of a cobbler. Gamepla
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Casual, Design, Hypercasual, Shopping, Unity3D

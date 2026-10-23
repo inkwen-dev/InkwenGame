@@ -21,4 +21,4 @@ Use mouse or touch pad to play this game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Block, Halloween, HTML5, Mobile, Puzzle, Tetris
+- Tags: Animal, block, Halloween, HTML5, Mobile, Puzzle, tetris

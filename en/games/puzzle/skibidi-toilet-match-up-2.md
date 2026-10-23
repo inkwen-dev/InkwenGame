@@ -19,6 +19,6 @@ Welcome to this amazing Skibidi Toilet Cards memory game! Look carefully and rem
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Matching, Memory, Skibidi, Skibidi Toilet
+- Tags: Matching, memory, Skibidi, skibidi-toilet

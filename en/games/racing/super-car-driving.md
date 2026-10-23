@@ -19,6 +19,6 @@ Extreme Car Driving Simulator is the open world car simulator since 2014, thanks
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Boy, Boys, Collection, Crazy, Creation, Decoration, drift, drifting, Driving, Educational, Girl, Girls, Interactive Fiction, Sim, Simulation, Simulator, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Boy, Boys, Collection, crazy, Creation, Decoration, drift, drifting, Driving, educational, Girl, Girls, Interactive Fiction, Sim, Simulation, Simulator, Unity3D

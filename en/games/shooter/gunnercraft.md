@@ -21,4 +21,4 @@ Its time to fire your weapon, Steve. Fire your gun and start jumping. You can ju
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Arcade, Gun, Minecraft, Pixel, Shooter
+- Tags: 1 Player, 2D, Action, Arcade, Gun, Minecraft, pixel, Shooter

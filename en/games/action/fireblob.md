@@ -21,4 +21,4 @@ FireBlob is a Platform-Puzzle game where you command a small fireball in order t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Android, Arcade, HTML5, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Action, Android, Arcade, HTML5, pixel, Platform, retro

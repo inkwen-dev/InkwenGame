@@ -21,4 +21,4 @@ Kids True Color Kids Learn Color is Guessing the color of the crayon and earn po
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Boy, Color, Coloring, Educational, Girl, Guessing, HTML5, Kid, Kids, Puzzle, WebGL
+- Tags: Adult, Boy, Color, Coloring, educational, Girl, Guessing, HTML5, Kid, Kids, Puzzle, WebGL

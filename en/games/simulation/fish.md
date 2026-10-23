@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Animal, Boy, Boys, Brain, Casual, Classic, Fish, Fishing, Fun, Funny, Game, Games, Girl, Girls, Hypercasual, jump, Jumping, Kid, Kids, Maze, Mind, Mobile, Puzzle, Quiz
+- Tags: Android, Animal, Boy, Boys, Brain, Casual, Classic, Fish, Fishing, Fun, Funny, Game, Games, Girl, Girls, Hypercasual, jump, jumping, Kid, Kids, Maze, Mind, Mobile, Puzzle, Quiz

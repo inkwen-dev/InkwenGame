@@ -19,6 +19,6 @@ Meet the gorgeous Rennie the dragon princess. The princess is the heiress of an 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Celebrity, Creation, Cute, Decorate, Decoration, Design, dino, Dinosaur, Dragon, Dress Up, Fantasy, Fashion, Girl, Hair, HTML5, Makeover, Princess, Sword
+- Tags: Animal, Celebrity, Creation, Cute, Decorate, Decoration, Design, dino, Dinosaur, Dragon, Dress Up, Fantasy, Fashion, Girl, Hair, HTML5, Makeover, Princess, sword

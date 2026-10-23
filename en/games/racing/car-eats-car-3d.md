@@ -21,4 +21,4 @@ Car Eats Car 3D is a fast-paced action racing game with explosive car battles. F
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Alien, Battle, Car, Cartoon
+- Tags: 3D, Alien, battle, Car, Cartoon

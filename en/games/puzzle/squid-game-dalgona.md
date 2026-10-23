@@ -21,4 +21,4 @@ Just click on "START" to start the game. If you think that the game is too diffi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Fun, Memory, Puzzle
+- Tags: Brain, Fun, memory, Puzzle

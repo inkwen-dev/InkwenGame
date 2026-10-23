@@ -19,6 +19,6 @@ super drag drive game has a lot of success review and player this MONTH that sig
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Car, Cars, Highscore, Interactive, Interactive Fiction, Obstacle, Point And Click, Race, Racing, Sport, Sports
+- Tags: Action, Car, Cars, Highscore, Interactive, Interactive Fiction, Obstacle, Point And Click, Race, Racing, Sport, sports

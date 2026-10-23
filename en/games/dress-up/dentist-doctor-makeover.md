@@ -21,4 +21,4 @@ This is a simulated dentist game: the princesses come to your little clinic for 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Educational, Girl, Girls, Kids, Makeover, Princess, Simulation, Surgery
+- Tags: Doctor, educational, Girl, Girls, Kids, Makeover, Princess, Simulation, surgery

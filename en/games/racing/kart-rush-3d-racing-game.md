@@ -19,6 +19,6 @@ Welcome to Kart Rush! Let's take a great kart ride and totally fulfill your visi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Boys, Fun, H5, HTML5, Hypercasual, Kart, Kid, Kids, Race, Racing

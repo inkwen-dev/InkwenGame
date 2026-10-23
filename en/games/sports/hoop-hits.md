@@ -21,4 +21,4 @@ Hoop Hits is interesting sport logical puzzle game with 35 levels. You need to c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Basketball, Sport
+- Tags: Ball, basketball, Sport

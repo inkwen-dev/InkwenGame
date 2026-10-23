@@ -19,6 +19,6 @@ Cargo Racing is a fun driving game where you have to take your cargo to the dest
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Multiplayer, Race, Truck
+- Tags: Multiplayer, Race, truck

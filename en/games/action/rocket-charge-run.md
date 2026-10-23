@@ -21,4 +21,4 @@ Enjoy an exciting running game in the Rocket Charge Run. Youll run through excit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Avoid, Battle, running
+- Tags: Action, Avoid, battle, running

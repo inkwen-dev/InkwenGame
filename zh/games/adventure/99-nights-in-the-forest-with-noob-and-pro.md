@@ -71,4 +71,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 冒险, 制作, Minecraft, 生存, 双人游戏
+- 标签: 冒险, 制作, 我的世界, 生存, 双人

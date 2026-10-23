@@ -21,4 +21,4 @@ Hold on tight! Because the ants are coming for a shelter! Have you ever seen col
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Animal, Anime, Casual, Food, Fruits, HTML, HTML5, Hypercasual, Knight, Puzzle
+- Tags: Action, Animal, Anime, Casual, Food, Fruits, HTML, HTML5, Hypercasual, knight, Puzzle

@@ -21,4 +21,4 @@ The Elf Jungle Jumping Online Game is an adventure game that provides players wi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Game, Games, HTML5, jump, Jumping
+- Tags: Adventure, Arcade, Game, Games, HTML5, jump, jumping

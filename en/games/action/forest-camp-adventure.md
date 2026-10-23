@@ -19,6 +19,6 @@ Step into the thrilling world of Forest Camp, a challenging escape game set in a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, amazing, Animal, attack, Boys, Casual, Click, Clicker, Collection, Forest, Hypercasual, Kids, Platform, Wolf

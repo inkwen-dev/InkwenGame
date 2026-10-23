@@ -19,6 +19,6 @@ Jelly Connect challenges players to pair identical, squishy jellies using a path
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Hypercasual, Match 3, Puzzle

@@ -19,6 +19,6 @@ In the Brick Rush 3D, bridges are built and passed quickly on tracks. Collect br
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bricks, run, Stickman
+- Tags: Bricks, run, stickman

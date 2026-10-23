@@ -19,6 +19,6 @@ Here is a roadster racing car driving simulation game with three-dimensional gam
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boy, Car, Collecting, drift, Driving, HTML5, Kids, Mobile, Obstacle, Racing, Timing

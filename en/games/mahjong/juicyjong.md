@@ -32,4 +32,4 @@ Play JuicyJong, the ultimate color puzzle game! A fresh twist on Mahjong that ch
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Mahjong, Matching, Mobile, Puzzle
+- Tags: Brain, mahjong, Matching, Mobile, Puzzle

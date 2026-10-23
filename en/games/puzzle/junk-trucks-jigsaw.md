@@ -21,4 +21,4 @@ This is a jigsaw game with Junk Trucks. There is 12 interesting images with cart
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jigsaw, Kids, Puzzle, Truck
+- Tags: Jigsaw, Kids, Puzzle, truck

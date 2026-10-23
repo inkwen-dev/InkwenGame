@@ -21,4 +21,4 @@ Tap or click any card to reveal its icon. Memorize it and try to find its pair i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Card, Fruits, HTML5, Kids, Matching, Memory, Mobile, Puzzle
+- Tags: Board, card, Fruits, HTML5, Kids, Matching, memory, Mobile, Puzzle

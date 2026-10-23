@@ -19,6 +19,6 @@ Tile Connect Master - Blocks Fruit Match3 game is a classic triple match game, w
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Block, Bomb, Boys, Disney, Fruits, Girls, Logic, Match 3, Match3, Matching, Spiderman, Strategy, World
+- Tags: Baby, block, Bomb, Boys, Disney, Fruits, Girls, Logic, Match 3, Match3, Matching, Spiderman, strategy, World

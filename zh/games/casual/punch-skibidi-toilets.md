@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: HTML, 手机, 拳击, Skibidi, Skibidi 马桶
+- 标签: HTML, 移动设备, 拳击, Skibidi, skibidi-toilet

@@ -19,6 +19,6 @@ Among Us Space Run is fun arcade game suitable for all ages. You, as a Among Us 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Avoid, Boys, Collecting, HTML5, Hypercasual, jump, Jumping, Kids, Mobile, Platform, run, Skill, Space
+- Tags: Android, Avoid, Boys, Collecting, HTML5, Hypercasual, jump, jumping, Kids, Mobile, Platform, run, Skill, Space

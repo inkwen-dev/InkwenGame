@@ -21,4 +21,4 @@ AD 或 左右箭头键控制方向 Esc 键暂停
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D 游戏, 汽车, cars, 警察, 竞速, Unity3D, WebGL
+- 标签: 3D游戏, 汽车, 汽车, 警察, 比赛, Unity3D, WebGL

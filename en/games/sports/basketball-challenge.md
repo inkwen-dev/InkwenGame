@@ -21,4 +21,4 @@ Basketball Challenge is fun arcade game and it's suitable for all ages. Grab the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Ball, Basketball, Boys, Fun, HTML5, Kids, Mobile, Skill, Sport
+- Tags: Android, Arcade, Ball, basketball, Boys, Fun, HTML5, Kids, Mobile, Skill, Sport

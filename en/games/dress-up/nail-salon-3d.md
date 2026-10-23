@@ -19,6 +19,6 @@ Welcome to our Nail Salon 3D Game.You will enjoy coloring nails and applying gli
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Coloring, Decorate, Girl, Makeover, Nail, Nails

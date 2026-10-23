@@ -21,4 +21,4 @@ Dive into the most addictive number puzzle experience with 2048 Clean. Slide the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, 2026 games, 2048, Board, Classic, HTML5, html5 games, Math, Puzzle
+- Tags: .io, 1 Player, 2026 games, 2048, Board, Classic, HTML5, html5 games, math, Puzzle

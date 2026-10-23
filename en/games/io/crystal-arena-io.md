@@ -15,6 +15,6 @@ Enter the frenzied battle of Crystal Arena IO, where quick wits and speed are yo
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: .io

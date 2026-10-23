@@ -21,4 +21,4 @@ Finger Flick (a.k.a. Dedoball, Peg Game, or &ldquo;Peteleco&rdquo;) is a fast-pa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2D, Arcade, Soccer, Sports
+- Tags: 1 Player, 2 Player, 2D, Arcade, Soccer, sports

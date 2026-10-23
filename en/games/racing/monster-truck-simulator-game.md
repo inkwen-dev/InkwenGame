@@ -21,4 +21,4 @@ Start your adventure in Monster Demolish Mode, where you smash obstacles and des
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Best Games, Driving, monstertruck, Simulation, Simulator, Truck, trucks
+- Tags: 2026 games, Best Games, Driving, monstertruck, Simulation, Simulator, truck, trucks

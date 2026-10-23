@@ -19,6 +19,6 @@ Tap on the screen to help the little Shark swim inside the ocean and eat starfis
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Boy, Boys, Casual, Family, Flight, HTML5, Kids, Race, Racing, Shark
+- Tags: Baby, Boy, Boys, Casual, Family, flight, HTML5, Kids, Race, Racing, Shark

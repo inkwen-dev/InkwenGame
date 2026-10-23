@@ -19,6 +19,6 @@ Cliff Boi: Fail = Try Again! is a hilarious and addictive 2D cartoon side-scroll
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Cute, Hypercasual, jump, Jumping
+- Tags: Arcade, Casual, Cute, Hypercasual, jump, jumping

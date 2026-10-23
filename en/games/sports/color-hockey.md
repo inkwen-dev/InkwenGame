@@ -21,4 +21,4 @@ We present you our new colorful arcade sports game in which you have the control
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Cool, Fun, hockey, HTML5, WebGL
+- Tags: 2D, cool, Fun, hockey, HTML5, WebGL

@@ -19,6 +19,6 @@ Welcome to Easter Jig it Up!! Our Easter Jig it Up! Puzzle Slider game is a fun 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Click, Easter, Girls, HTML5, Jigsaw, Kids, Mobile, Puzzle, Simulation

@@ -21,4 +21,4 @@ Features - Fast-paced 3D first-person shooter - Game modes: zombie survival, arc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D Games, Battle, Battlegrounds, CSGO, Gun, Online, Shooter, Unity3D, weapons, WebGL, Zombie
+- Tags: .io Games, 3D Games, battle, Battlegrounds, CSGO, Gun, Online, Shooter, Unity3D, weapons, WebGL, Zombie

@@ -21,4 +21,4 @@ Tower of Fall is an exhilarating game where your objective is to jump down a com
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Arcade, Block, blocky, Casual, Fight, Fighting, free html5 games for your website, HTML5, Knight, Tower Defense, Zombie
+- Tags: 1 Player, 2D, Android, Arcade, block, blocky, Casual, Fight, fighting, free html5 games for your website, HTML5, knight, Tower Defense, Zombie

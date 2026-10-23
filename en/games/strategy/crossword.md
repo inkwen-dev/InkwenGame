@@ -19,6 +19,6 @@ Traditional crosswords began to evolve and take on new forms and variations. A h
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Collecting, HTML, HTML5, Hypercasual, Mind, New, Puzzle, Strategy, Word
+- Tags: Brain, Collecting, HTML, HTML5, Hypercasual, Mind, New, Puzzle, strategy, word

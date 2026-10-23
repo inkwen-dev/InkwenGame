@@ -34,4 +34,4 @@ A grim real-time strategy in a fictional dieselpunk world. Command companies of 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Army, Strategy, Tanks, War
+- Tags: Action, Army, strategy, tanks, War

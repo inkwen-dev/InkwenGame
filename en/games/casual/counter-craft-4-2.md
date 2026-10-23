@@ -15,6 +15,6 @@ Survive relentless waves of blocky zombies in Counter Craft 4. With strategic we
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Zombie

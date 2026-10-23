@@ -19,6 +19,6 @@ Arrow Fest is actually not a bow launching simulation game but a skillful avoidi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adult, Adventure, Arcade, Army, Batman, Bow, Casual, Chicken, Girl, Girls, Hypercasual, Kid, Kids, PacMan, Spiderman, Stickman, Super, Superhero
+- Tags: Action, Adult, Adventure, Arcade, Army, Batman, Bow, Casual, Chicken, Girl, Girls, Hypercasual, Kid, Kids, PacMan, Spiderman, stickman, Super, Superhero

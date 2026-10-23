@@ -19,6 +19,6 @@ Draw on the screen to create the suitable legs for your robot and try to be the 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Draw, HTML5, Hypercasual, Kids, Mobile, Obstacle, Online, Platform, Race, run, Skill, Skills

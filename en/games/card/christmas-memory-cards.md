@@ -19,6 +19,6 @@ We have prepared a Christmas concept memory card game for you. Have fun!
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Best, Card, Christmas, Click, Collecting, Collection, Fun, Funny, Game, Games, HTML5
+- Tags: 1 Player, Best, card, Christmas, Click, Collecting, Collection, Fun, Funny, Game, Games, HTML5

@@ -21,4 +21,4 @@ Puzzle with shapes in this game based on the classic 2048 game.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Best, Block, Brain, Casual, Logic, Puzzle, Stack
+- Tags: Android, Best, block, Brain, Casual, Logic, Puzzle, Stack

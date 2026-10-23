@@ -21,4 +21,4 @@ Find Biggest and Smallest Number is a fun and fast brain puzzle game. Look at th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Educational, Hypercasual, Math, Number, Puzzle
+- Tags: Click, educational, Hypercasual, math, Number, Puzzle

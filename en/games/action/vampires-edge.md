@@ -21,4 +21,4 @@ Vampires on Limit is an incredibly addictive arcade hit where simple rules yield
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Action, amazing, Android, Battle, Casual, Hypercasual, Mobile, survival, unity, Unity3D, WebGL
+- Tags: 1 Player, 2026 games, 2D, Action, amazing, Android, battle, Casual, Hypercasual, Mobile, survival, unity, Unity3D, WebGL

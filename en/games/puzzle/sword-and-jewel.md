@@ -19,6 +19,6 @@ Sword And Jewel is an addictive matching puzzle game that brings you a whole new
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Classic, Fun, Highscore, HTML5, Jewel, Kids, Match 3, Online, Relaxation, Strategy
+- Tags: Brain, Casual, Classic, Fun, Highscore, HTML5, Jewel, Kids, Match 3, Online, Relaxation, strategy

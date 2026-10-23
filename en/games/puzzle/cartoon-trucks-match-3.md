@@ -21,4 +21,4 @@ Change the place of two Cartoon Trucks to match 3 or more in a row, in which you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Match 3, Matching, Puzzle, Truck
+- Tags: Match 3, Matching, Puzzle, truck

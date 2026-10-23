@@ -19,6 +19,6 @@ It's a logic game in HTML5. Find the way out of the maze in the shortest time po
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Android, Animal, Arcade, Baby, Block, Brain, Casual, Crazy, Design, Family, Game, Ghost, Girl, Girls, HTML5, Logic, Maze, PacMan
+- Tags: 1 Player, 2D, Adventure, Android, Animal, Arcade, Baby, block, Brain, Casual, crazy, Design, Family, Game, Ghost, Girl, Girls, HTML5, Logic, Maze, PacMan

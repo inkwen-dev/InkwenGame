@@ -21,4 +21,4 @@ This is simple educational puzzle game. In this game you need to continuously to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Fun, HTML5, Kids, Mobile, Puzzle, School
+- Tags: educational, Fun, HTML5, Kids, Mobile, Puzzle, School

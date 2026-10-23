@@ -21,4 +21,4 @@ Jump and fly your way through danger in this rhythm-based action platformer! Pre
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, HTML5, jump, Jumping
+- Tags: Action, Arcade, HTML5, jump, jumping

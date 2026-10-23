@@ -21,4 +21,4 @@ World of Alice - Sports Cards World of Alice - Sports Cards is an educational ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Card, Cartoon, Educational, free games for your site, free games for your website, free html5 games for your website, HTML, html games for your website, HTML5, Kids, School, Sport, Sports
+- Tags: Best Games, card, Cartoon, educational, free games for your site, free games for your website, free html5 games for your website, HTML, html games for your website, HTML5, Kids, School, Sport, sports

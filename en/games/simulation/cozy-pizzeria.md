@@ -21,4 +21,4 @@ Run a cozy pizza shop that grows into a city-wide chain. Hire and manage staff, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Casual, Management, pizza, Restaurant, Simulation, Strategy
+- Tags: 3D, Casual, management, pizza, restaurant, Simulation, strategy

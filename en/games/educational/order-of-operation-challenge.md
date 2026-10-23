@@ -19,6 +19,6 @@ Follow the order of operations to solve each expression. Use BODMAS / PEMDAS rul
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Highscore, Logical, Math, Puzzle, School
+- Tags: educational, Highscore, Logical, math, Puzzle, School

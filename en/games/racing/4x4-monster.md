@@ -21,4 +21,4 @@ Go off road with a 4x4 monster truck. Control the heavy vehicle over mountains a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Car, Driving, HTML5, Mobile, Obstacle, Truck
+- Tags: Android, Car, Driving, HTML5, Mobile, Obstacle, truck

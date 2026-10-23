@@ -21,4 +21,4 @@ Playing this memory game your kids can learn lot of sea animals, how they spell,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Memory, Puzzle
+- Tags: Animal, memory, Puzzle

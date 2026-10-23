@@ -21,4 +21,4 @@ Subway Surfers World Tour: Singapore is the fifty-seven edition in the World Tou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Arcade, HTML, HTML5, Hypercasual, jump, Jumping, run, running, subway, Subway Surfers, Unity3D
+- Tags: 3D, 3D Games, Adventure, Arcade, HTML, HTML5, Hypercasual, jump, jumping, run, running, subway, Subway Surfers, Unity3D

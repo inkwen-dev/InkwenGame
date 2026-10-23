@@ -21,4 +21,4 @@ Another flavor of Classic Diamond collecting game Crush Match 3 puzzle game. You
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Action, Adventure, Candy, Mine, Minecraft, Ninja
+- Tags: 8 Ball Pool, Action, Adventure, Candy, Mine, Minecraft, ninja

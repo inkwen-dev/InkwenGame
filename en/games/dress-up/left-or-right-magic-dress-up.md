@@ -15,6 +15,6 @@ Unleash your inner stylist in Left or Right: Magic Dress Up! Choose your favorit
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: games-for-girls

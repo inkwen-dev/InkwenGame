@@ -19,6 +19,6 @@ Robo Galaxy Attack ! model 3D Robo is a best fast-paced top-down view space shoo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Avoid, Boy, Boys, HTML5, Robot, Space, WebGL

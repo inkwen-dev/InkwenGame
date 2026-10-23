@@ -21,4 +21,4 @@ In our adventure, theres a school monster that constantly chases you. Sometimes 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, mineblock, Minecraft, Pixel, Platform
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, mineblock, Minecraft, pixel, Platform

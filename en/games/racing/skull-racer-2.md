@@ -15,6 +15,6 @@ Embark on a high-speed adventure with Skull Racer, where monstrous cars navigate
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Driving

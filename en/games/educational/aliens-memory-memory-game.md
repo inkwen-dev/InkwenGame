@@ -19,6 +19,6 @@ Educational Memory Game (Cartoon Aliens) – Memory improvement is part of this 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Alien, Educational, HTML5, Kids, Memory, Puzzle, Space
+- Tags: Alien, educational, HTML5, Kids, memory, Puzzle, Space

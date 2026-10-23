@@ -21,4 +21,4 @@ Join the, Alvin Super Hero , in an action-packed superhero training game. Theodo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: run, running, Skateboard, subway, Subway Surfers, Super, Superhero
+- Tags: run, running, skateboard, subway, Subway Surfers, Super, Superhero

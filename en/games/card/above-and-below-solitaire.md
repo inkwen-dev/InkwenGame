@@ -21,4 +21,4 @@ The game is played with 2 decks of cards. At first, a card is dealt face up as a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Solitaire
+- Tags: card, solitaire

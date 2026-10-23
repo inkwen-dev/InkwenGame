@@ -21,4 +21,4 @@ Do you like moto, racing and retro games? Yes, then MOTO QUEST BIKE RACING is ta
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Bike, Classic, Moto, Racing
+- Tags: .io, bike, Classic, Moto, Racing

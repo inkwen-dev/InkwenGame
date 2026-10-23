@@ -19,6 +19,6 @@ Brick Block, one of the most popular games, is here! Destroy the blocks and go t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Ball, Block, Bricks, HTML5
+- Tags: 3D, Ball, block, Bricks, HTML5

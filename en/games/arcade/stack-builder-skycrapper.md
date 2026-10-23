@@ -19,6 +19,6 @@ Build a tower as high as you can out of blocks. Place the blocks as best as poss
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Block, Logic, Logical, Relaxation, Skills
+- Tags: 1 Player, 2D, block, Logic, Logical, Relaxation, Skills

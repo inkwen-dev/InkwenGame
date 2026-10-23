@@ -19,6 +19,6 @@ Its possible now to play Miraculous Memory Match Up game in your web browser for
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ben 10, Best, Boys, Card, Cartoon, Cartoon Network, Casual, Celebrity, Click, Family, Fun, Girls, HTML5, Matching, Memory, Miraculous Ladybug, Mobile, Skills
+- Tags: Arcade, Ben 10, Best, Boys, card, Cartoon, Cartoon Network, Casual, Celebrity, Click, Family, Fun, Girls, HTML5, Matching, memory, Miraculous Ladybug, Mobile, Skills

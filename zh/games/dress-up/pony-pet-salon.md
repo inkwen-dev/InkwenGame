@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 宝宝, 休闲, 换装, 女孩, HTML5, 孩子, 儿童, WebGL
+- 标签: 2D, 婴儿, 休闲, 装扮, 女孩, HTML5, 儿童, 儿童, WebGL

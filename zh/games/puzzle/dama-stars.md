@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2人游戏, 大脑, 家庭, 小孩, 地图游戏
+- 标签: 双人, 大脑, 家庭, 儿童, mapi games

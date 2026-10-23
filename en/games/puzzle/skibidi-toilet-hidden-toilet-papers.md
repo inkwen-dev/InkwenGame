@@ -21,4 +21,4 @@ Skibidi Toilet Hidden Toilet Papers is a free online funny and hidden object gam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Casual, Fun, Funny, Hidden, HTML5, Kids, Mobile, Skibidi, Skibidi Toilet, Skill
+- Tags: Best, Casual, Fun, Funny, Hidden, HTML5, Kids, Mobile, Skibidi, skibidi-toilet, Skill

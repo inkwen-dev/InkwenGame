@@ -21,4 +21,4 @@ The war of great leader and League of shinobi naruto ninja , many secret charact
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Escape, Fight, Fighting, Ninja, Ninjago, run, running, Shoot, Shoot 'Em Up, Shooter, Shooting, Street Fighting
+- Tags: Action, Escape, Fight, fighting, ninja, Ninjago, run, running, Shoot, Shoot 'Em Up, Shooter, Shooting, Street Fighting

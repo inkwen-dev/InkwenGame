@@ -21,4 +21,4 @@ Fiva 26: Soccer is a fast arcade football game you play straight in your browser
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Ball, Football, Soccer, Sport, Sports
+- Tags: Ball, Football, Soccer, Sport, sports

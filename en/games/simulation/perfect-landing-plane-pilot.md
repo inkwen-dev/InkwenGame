@@ -19,6 +19,6 @@ Perfect Landing, Plane Pilot is a 3D flying game where the sky is the only road 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, 2026 games, 3D, 3D Games, Arcade, Boys, endless, Hypercasual, Kids, Plane, Simulator, Skill, Skills

@@ -21,4 +21,4 @@ Nuts And Bolts Sort - Puzzle Game Introduction Looking for a game that is both c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Baby Games, Crazy, Puzzle, Unity3D
+- Tags: 3D, 3D Games, Baby Games, crazy, Puzzle, Unity3D

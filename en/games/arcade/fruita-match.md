@@ -19,6 +19,6 @@ Welcome to Fruita Match Up puzzle game. Tap to Flip Cards and use your memory to
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Difference, Fruits, Matching, Puzzle

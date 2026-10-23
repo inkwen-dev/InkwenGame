@@ -21,4 +21,4 @@ Super Chains a fun puzzle game. To capture and use them, create long links of ch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Block, Bricks, Casual, Puzzle, Superhero
+- Tags: Adventure, block, Bricks, Casual, Puzzle, Superhero

@@ -21,4 +21,4 @@ Embark on a grander adventure with Melody in Melodys Adventure 2! Explore 32 exp
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Collecting, Monster, Platform
+- Tags: Action, Arcade, Collecting, monster, Platform

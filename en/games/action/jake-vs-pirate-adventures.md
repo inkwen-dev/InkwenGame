@@ -19,6 +19,6 @@ A young sailor finds a hidden treasure on a remote island and decides to take it
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Jumping, Monster, Pirate, run, running, Zombie
+- Tags: Avoid, jumping, monster, Pirate, run, running, Zombie

@@ -19,6 +19,6 @@ Fruit Merge 2048 is a fun and addictive puzzle game that combines the classic 20
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2048, Fruits, Puzzle

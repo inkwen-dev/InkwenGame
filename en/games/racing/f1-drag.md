@@ -19,6 +19,6 @@ Do you like drag games and ever wonder dragging a car on formula track if so the
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Race, Racing, Sport, Sports
+- Tags: Arcade, Race, Racing, Sport, sports

@@ -19,6 +19,6 @@ Car Parking 3D is the latest car drive parking and totally genuine car parking g
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Cool, drift, drifting, Interactive Fiction, Parking, Police, Race
+- Tags: 3D, 3D Games, cool, drift, drifting, Interactive Fiction, parking, police, Race

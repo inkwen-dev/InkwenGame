@@ -19,6 +19,6 @@ il s'agit de la simulation de l'alphabet. vous n'avez qu'à prononcer un mot et 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Arcade, Educational, Kids
+- Tags: 2D, Action, Adventure, Arcade, educational, Kids

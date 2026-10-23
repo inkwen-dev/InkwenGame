@@ -21,4 +21,4 @@ Want to own your own dream house in a bustling metropolis? Dream Home allows you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Barbie, Cartoon, Color, Decorate, Design, Dress Up, Room, RPG, Simulator, Supercars
+- Tags: Barbie, Cartoon, Color, Decorate, Design, Dress Up, Room, rpg, Simulator, Supercars

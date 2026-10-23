@@ -19,6 +19,6 @@ Step into the Sorcerer Mahjong Marvels. Match mystical tiles adorned with enchan
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Fantasy, HTML5, Magic, Mahjong, Matching, Mobile
+- Tags: block, Fantasy, HTML5, Magic, mahjong, Matching, Mobile

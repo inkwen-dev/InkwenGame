@@ -19,6 +19,6 @@ It is a Halloween variation of Solitaire. You need to pass all 100 levels. Use j
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Halloween, Puzzle, Solitaire
+- Tags: card, Halloween, Puzzle, solitaire

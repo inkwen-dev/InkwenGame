@@ -21,4 +21,4 @@ The ship that is flying to Earth has been captured by traitors! You were sent to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Arcade, Arena, Army, Battle, Battlegrounds, Best, Blood, Bomb, Boy, Boys, Casual, Crazy, CSGO, endless, Fight, Fighting, Fire, Fun, Funny, Game, Games, Gun, Hot, Kill, Killing, Monster, Physics, Play, Shoot, Shoot 'Em Up, Shooter, Shooting, Simulator, Skill, Skills, Sniper, Unity3D, War, weapons, WebGL
+- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Arcade, Arena, Army, battle, Battlegrounds, Best, Blood, Bomb, Boy, Boys, Casual, crazy, CSGO, endless, Fight, fighting, Fire, Fun, Funny, Game, Games, Gun, Hot, Kill, Killing, monster, Physics, Play, Shoot, Shoot 'Em Up, Shooter, Shooting, Simulator, Skill, Skills, sniper, Unity3D, War, weapons, WebGL

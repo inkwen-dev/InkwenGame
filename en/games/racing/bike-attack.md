@@ -21,4 +21,4 @@ Bike Attack is a free online racing game. Do you want to try out this new racing
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Bike, Race, Racing
+- Tags: Action, Arcade, bike, Race, Racing

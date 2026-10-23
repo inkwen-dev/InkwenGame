@@ -21,4 +21,4 @@ Taiga: Expedition is a cozy 3D physics offroad delivery simulator. Drive vintage
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, cargo, Driving, Mobile, offroad, Physics, Simulator, Truck, trucks, vehicle
+- Tags: 3D, 3D Games, cargo, Driving, Mobile, offroad, Physics, Simulator, truck, trucks, vehicle

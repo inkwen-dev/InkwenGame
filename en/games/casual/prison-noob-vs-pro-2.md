@@ -15,6 +15,6 @@ Race against time in "Prison Noob vs Pro," navigating a treacherous underground 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: two-player

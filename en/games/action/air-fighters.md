@@ -21,4 +21,4 @@ Prepare for missions and take up the challenge of world supremacy now. Destroy y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Air, Aircraft, Fight, Fighting, Street Fighting, Unity3D
+- Tags: 3D, 3D Games, Air, Aircraft, Fight, fighting, Street Fighting, Unity3D

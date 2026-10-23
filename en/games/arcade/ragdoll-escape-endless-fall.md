@@ -19,6 +19,6 @@ Are you ready for an adrenaline-fueled, physics-based descent? In Ragdoll Escape
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Adventure, Arcade, endless, ragdoll

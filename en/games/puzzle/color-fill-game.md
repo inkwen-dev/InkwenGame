@@ -19,6 +19,6 @@ Color Fill is a free online mini-game for all kids that uses blocks as a filling
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Block, Boy, Color, Fun, HTML, HTML5, Kid, Mobile, Puzzle
+- Tags: Android, block, Boy, Color, Fun, HTML, HTML5, Kid, Mobile, Puzzle

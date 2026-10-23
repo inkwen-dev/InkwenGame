@@ -21,4 +21,4 @@ Just Swipe to Adjust Angle and Shift Direction, New Addictive Concept. Have Fun 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Casual, Cool, HTML5, run, running, WebGL
+- Tags: 3D, Casual, cool, HTML5, run, running, WebGL

@@ -19,6 +19,6 @@ A very addicting Puzzle Game, similar to the popular 2048 game, but with a diffe
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ballon, Block, Board, Brain, endless, Fun, Funny, Matching, Math, Number
+- Tags: Ballon, block, Board, Brain, endless, Fun, Funny, Matching, math, Number

@@ -19,6 +19,6 @@ Merge identical food items by moving them in any direction with the help of arro
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Board, Food, HTML5, Maze, Mobile
+- Tags: block, Board, Food, HTML5, Maze, Mobile

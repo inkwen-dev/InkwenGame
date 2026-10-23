@@ -21,4 +21,4 @@ Super Mario Adventure is an online game that you can play for free. This funny g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Boys, Collecting, Fun, HTML5, Hypercasual, Kids, Mario, Mobile, Skill, Superhero
+- Tags: Android, Arcade, Boys, Collecting, Fun, HTML5, Hypercasual, Kids, mario, Mobile, Skill, Superhero

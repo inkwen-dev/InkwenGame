@@ -21,4 +21,4 @@ Get Ready to play Disc Game with Ultimate fun , Aim Target Shoot the Disc New Di
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Hypercasual, Shoot, Shooter, Shooting, Sports, Superhero
+- Tags: Casual, Hypercasual, Shoot, Shooter, Shooting, sports, Superhero

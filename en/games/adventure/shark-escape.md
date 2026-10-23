@@ -15,6 +15,6 @@ Dive into an underwater thrill ride in Shark Escape! Navigate dangerous seas swa
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Action

@@ -21,4 +21,4 @@ A crossword puzzle is a creative crossword puzzle game that can inspire your pas
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Hypercasual, Puzzle, Word
+- Tags: Arcade, Hypercasual, Puzzle, word

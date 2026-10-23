@@ -19,6 +19,6 @@ Princesses are so different, funny and modest, thoughtful and romantic. Collect 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Elsa, Princess, Puzzle

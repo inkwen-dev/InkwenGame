@@ -19,6 +19,6 @@ American cars are among the best in the world of the car industry. In this game 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Casual, Difference, Fun, HTML5, Mobile, Skill, Supercars

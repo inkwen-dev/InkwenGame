@@ -19,6 +19,6 @@ Welcome to the world of monster track stunt games. Get ready for thrilling monst
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, Action, Adventure, Car, Monster, monstertruck, Race, Racing, Stunts
+- Tags: 2025 games, Action, Adventure, Car, monster, monstertruck, Race, Racing, Stunts

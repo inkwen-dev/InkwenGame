@@ -21,4 +21,4 @@ Ready to survive in a city full of zombies? Sounds easy, but if you run out of a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Bubble Shooter, Shoot, Shooting, Surgery, Zombie
+- Tags: Action, Adventure, Bubble Shooter, Shoot, Shooting, surgery, Zombie

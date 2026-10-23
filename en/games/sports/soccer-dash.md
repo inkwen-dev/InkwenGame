@@ -24,4 +24,4 @@ You have drag controls, drag to choose the direction of the kick, and release to
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Ball, Boys, Maze, popular, Skill, Soccer, Sports
+- Tags: Arcade, Ball, Boys, Maze, popular, Skill, Soccer, sports

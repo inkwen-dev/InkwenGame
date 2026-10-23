@@ -19,6 +19,6 @@ Fun tennis physics combined with great swipe controls to give the best tennis ex
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Arcade, Ball, Battle, Fun, Sport, Sports, Tennis
+- Tags: 1 Player, 3D, 3D Games, Arcade, Ball, battle, Fun, Sport, sports, Tennis

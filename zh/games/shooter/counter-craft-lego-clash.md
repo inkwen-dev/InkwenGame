@@ -21,4 +21,4 @@ Counter Craft Lego Clash 在乐高主题地图中提供激烈的多人对战，�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 动作, 冲突, 手工, CSGO, 枪械, 杀人, 乐高, 多人, 投篮, 射击游戏, 射击类, 射击, Unity3D, 战争, WebGL
+- 标签: 3D, 3D游戏, 动作, 冲突, 建造, CSGO, 枪械, 击杀, 乐高, 多人, 射击, 射击游戏, 射击类, 射击, Unity3D, 战争, WebGL

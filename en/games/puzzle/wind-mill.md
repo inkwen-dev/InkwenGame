@@ -19,6 +19,6 @@ Be careful about the color of the windmill and the colored bag of flour, in the 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Fun, HTML5, Kids, Mobile, Puzzle, Skill

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 双人, 双人游戏, 3D, 动作, 最佳游戏, 拳击, 战斗, 格鬥, HTML5
+- 标签: 单人, 双人, 双人游戏, 3D, 动作, 最佳游戏, Boxing, 格斗, 格斗, HTML5

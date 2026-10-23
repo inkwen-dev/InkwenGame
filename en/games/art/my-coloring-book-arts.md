@@ -21,4 +21,4 @@ This coloring book game has two modes. One is coloring mode in which you have lo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cartoon, Coloring, Educational, Fun, HTML5, Kids
+- Tags: Animal, Cartoon, Coloring, educational, Fun, HTML5, Kids

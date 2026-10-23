@@ -21,4 +21,4 @@ Hoist ho boys ! Play this fun Dominoes game in the caribbean, where pirates ques
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Mahjong, Multiplayer, Pirate
+- Tags: Board, mahjong, Multiplayer, Pirate

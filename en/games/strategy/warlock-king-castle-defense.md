@@ -24,4 +24,4 @@ Defend your castle from hordes of different enemies. Just destroy them one by on
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: pve, Strategy, Tower Defense, War
+- Tags: pve, strategy, Tower Defense, War

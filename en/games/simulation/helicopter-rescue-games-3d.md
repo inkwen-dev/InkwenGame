@@ -21,4 +21,4 @@ Helicopter Rescue Games 3D is an exciting rescue simulation game where you play 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Android, city, Helicopter, Rescue, Simulation, Simulator
+- Tags: 2026 games, Android, city, helicopter, Rescue, Simulation, Simulator

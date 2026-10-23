@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 圣诞节, 点击类, 家庭, 女孩, HTML, HTML5, 儿童, 管道, 赛车
+- 标签: 街机, 圣诞节, 点击器, 家庭, 女孩, HTML, HTML5, 儿童, 管道, 竞速

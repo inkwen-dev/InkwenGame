@@ -19,6 +19,6 @@ Onet Fruits is simple yet addicting pair solving puzzle game free or matching ga
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arcade, Candy, Casual, Fruits, Puzzle, Strategy
+- Tags: 2D, Adventure, Arcade, Candy, Casual, Fruits, Puzzle, strategy

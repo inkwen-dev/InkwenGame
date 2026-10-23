@@ -19,6 +19,6 @@ Find 5 differences between 2 Xmas photos.
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Christmas, Difference, Fun, Hidden, HTML5, Kids, Mobile, Puzzle

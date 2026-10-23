@@ -21,4 +21,4 @@ Ninja Warriors Puzzle game is free online game and you have 6 images in three mo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, Ninja, Puzzle
+- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, ninja, Puzzle

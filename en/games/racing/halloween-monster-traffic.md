@@ -19,6 +19,6 @@ Halloween is coming! The little monsters are ready to work! But the roads are fu
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Car, Casual, Girl, Halloween, Kids, Monster
+- Tags: Boys, Car, Casual, Girl, Halloween, Kids, monster

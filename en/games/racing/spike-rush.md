@@ -21,4 +21,4 @@ Dodge spikes, jump walls, fall into holes. Simple until it isnt. Speed keeps cli
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ai Games, Arcade, Ball, free html5 games for your website, Hypercasual, Jumping, mapi games, Racing
+- Tags: Ai Games, Arcade, Ball, free html5 games for your website, Hypercasual, jumping, mapi games, Racing

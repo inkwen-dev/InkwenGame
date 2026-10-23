@@ -19,6 +19,6 @@ Welcome to GasSpark, the high-pressure arcade reaction game where every barrel i
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Casual, Educational, Science
+- Tags: Best Games, Casual, educational, Science

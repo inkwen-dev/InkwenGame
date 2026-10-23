@@ -19,6 +19,6 @@ Hammered Out - is a game where you fly with your space ship trying to dodge all 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Click, Clicker, Fun, Space, Spaceship

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, 1 人, 双人, 双人游戏, 3D, 3D游戏, 球体, 竞速, 竞速, 技巧, WebGL
+- 标签: .io, 单人, 双人, 双人游戏, 3D, 3D游戏, 球, 比赛, 竞速, 技巧, WebGL

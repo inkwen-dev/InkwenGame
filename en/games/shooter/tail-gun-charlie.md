@@ -21,4 +21,4 @@ Tail Gun Charlie: An Epic War Simulator. Experience the thrill of flying an airp
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, airplane, Battle, Boys, fly, Plane, Space, War
+- Tags: 3D, airplane, battle, Boys, fly, Plane, Space, War

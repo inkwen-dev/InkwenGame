@@ -19,6 +19,6 @@ US City Pick Passenger Bus Game is best city coach simulator game. In city bus d
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, bus, city, Driving, HTML, HTML5, Racing, Simulation, Simulator

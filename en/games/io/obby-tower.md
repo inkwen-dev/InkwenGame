@@ -19,6 +19,6 @@ Climb a giant candy-colored tower, launch yourself off the walls, and parachute 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2026 games, Flight, fly, jump, Jumping, Minecraft, roblox
+- Tags: .io, .io Games, 2026 games, flight, fly, jump, jumping, Minecraft, roblox

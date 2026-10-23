@@ -19,6 +19,6 @@ Compete against other players to get a real parkour experience. Jump from wall t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Click, jump, Jumping, Ninja, run, running, Unity3D
+- Tags: 3D, 3D Games, Arcade, Click, jump, jumping, ninja, run, running, Unity3D

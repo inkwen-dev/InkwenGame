@@ -19,6 +19,6 @@ Parkour Race 3D - free racing game which lets you compete with others.
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Arcade, Casino, Casual, Fun, Funny, Hot, Hypercasual, Race, Racing, run, running, Sport, Sports, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Arcade, Casino, Casual, Fun, Funny, Hot, Hypercasual, Race, Racing, run, running, Sport, sports, Unity3D

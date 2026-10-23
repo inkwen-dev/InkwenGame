@@ -21,4 +21,4 @@ Arrowtix 是一款令人满足的脑力谜题游戏，你的目标是通过滑�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 箭矢, arrows, 逃脱, 益智
+- 标签: 箭矢, 箭头, 逃脱, 益智

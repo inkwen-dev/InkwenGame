@@ -21,4 +21,4 @@ You must clear the pillows from the screen. Combine colors to clean the screen. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Girl, Hypercasual, Logic, Puzzle, Strategy
+- Tags: Brain, Girl, Hypercasual, Logic, Puzzle, strategy

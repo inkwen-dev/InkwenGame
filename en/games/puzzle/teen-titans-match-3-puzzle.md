@@ -19,6 +19,6 @@ If you love the cartoon "Teen Titans", then this game will definitely appeal to 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Cartoon, Cartoon Network, Game, Jigsaw, Online, Puzzle

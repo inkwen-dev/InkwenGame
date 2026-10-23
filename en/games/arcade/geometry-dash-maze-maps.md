@@ -19,6 +19,6 @@ Welcome to one of the funniest and mega coolest skill games - Geometry Dash Maze
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Arena, Best Games

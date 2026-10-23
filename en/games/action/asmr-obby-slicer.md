@@ -21,4 +21,4 @@ ASMR Obby Slicer is a colorful 3D sword arena. Slice blocky pinatas and robots t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Arcade, Fighting, obby
+- Tags: 3D, Action, Arcade, fighting, obby

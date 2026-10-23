@@ -19,6 +19,6 @@ The good old classic hide &amp; seek. Play either as a seeker or as a hider and 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Action, Arcade, Online, Strategy
+- Tags: .io Games, Action, Arcade, Online, strategy

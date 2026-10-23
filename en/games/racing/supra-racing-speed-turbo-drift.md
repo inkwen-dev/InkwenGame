@@ -19,6 +19,6 @@ Welcome to Supra Racing Speed Turbo Drift, in this awesome game you will face th
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Car, drift, drifting, Driving, Race, Skill, Sport, Unity3D, WebGL

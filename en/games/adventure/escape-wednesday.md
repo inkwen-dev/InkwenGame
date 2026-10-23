@@ -19,6 +19,6 @@ Break through the monsters to get out of the maze! Many labyrinths will not let 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Escape, Monster, Skill
+- Tags: 3D, Escape, monster, Skill

@@ -19,6 +19,6 @@ Hill Racing! Race your way uphill If you're looking for a racing game that does 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Casual, Crazy, Race, Racing
+- Tags: Adventure, Arcade, Casual, crazy, Race, Racing

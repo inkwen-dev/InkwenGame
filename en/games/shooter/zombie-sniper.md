@@ -21,4 +21,4 @@ Zombie Sniper is a fun shooting game where you have to snipe all zombies!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Sniper, Zombie
+- Tags: sniper, Zombie

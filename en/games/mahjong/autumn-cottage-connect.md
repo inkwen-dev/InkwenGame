@@ -19,6 +19,6 @@ Autumn Cottage Connect is a cozy tile-connecting puzzle game filled with the war
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Adult, Best Games, Brain, Casual, Classic, Cute, Food, Game, garden, Mahjong, Matching
+- Tags: 1 Player, 2026 games, 2D, Adult, Best Games, Brain, Casual, Classic, Cute, Food, Game, garden, mahjong, Matching

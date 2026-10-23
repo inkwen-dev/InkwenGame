@@ -19,6 +19,6 @@ Space War Symphony is a fast, rhythm-tuned arcade shooter where your starship da
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, Ai Games, battleship, Bullet, Shooter

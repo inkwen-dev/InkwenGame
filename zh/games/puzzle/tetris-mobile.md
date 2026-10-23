@@ -21,4 +21,4 @@ Tetris Mobile 实际上是另一款免费的俄罗斯方块游戏。在游戏中
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 休闲, 趣味, HTML5, 儿童, 移动, 解谜, 技巧, 俄罗斯方块
+- 标签: 休闲, 有趣, HTML5, 儿童, 移动设备, 益智, 技巧, tetris

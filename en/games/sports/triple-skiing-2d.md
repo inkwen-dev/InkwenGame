@@ -21,4 +21,4 @@ Inside this open-world skiing adventure, you'll be able to explore whole mountai
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Ski, Sport, Sports
+- Tags: 1 Player, 2D, Ski, Sport, sports

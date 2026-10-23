@@ -19,6 +19,6 @@ Hit as many moles as possible before time runs out. Get the Super Hammer Power-u
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Crazy, Fun, Funny
+- Tags: Animal, Arcade, crazy, Fun, Funny

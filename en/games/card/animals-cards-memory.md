@@ -19,6 +19,6 @@ Click the cards to flip an animal. Memorize their position and match them up in 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Card, HTML5, Memory, Mobile
+- Tags: Animal, card, HTML5, memory, Mobile

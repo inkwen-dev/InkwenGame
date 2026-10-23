@@ -47,4 +47,4 @@ Every shot reveals the world—every wave pushes your limits.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, First Person Shooter, Mobile, pve, RPG, Shooting
+- Tags: 3D, Action, First Person Shooter, Mobile, pve, rpg, Shooting

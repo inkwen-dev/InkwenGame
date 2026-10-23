@@ -19,6 +19,6 @@ Pottery in HTML5 version! Sculpt your own pots and match the target shapes! Play
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Boy, Decorate, Fun, Girl

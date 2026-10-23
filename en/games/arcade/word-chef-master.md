@@ -21,4 +21,4 @@ Can you find all the cross words?
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Puzzle, Word
+- Tags: Arcade, Puzzle, word

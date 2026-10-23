@@ -21,4 +21,4 @@ Unblock Parking Car is simple and nice game. More than 3,000 puzzles
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, Car, HTML5, Parking, Puzzle
+- Tags: .io, .io Games, 1 Player, Car, HTML5, parking, Puzzle

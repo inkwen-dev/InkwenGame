@@ -21,4 +21,4 @@ Stickman Run - is a highly addictive game where you have to help the stickman ru
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, run, running, Skill, Stickman
+- Tags: Adventure, run, running, Skill, stickman

@@ -19,6 +19,6 @@ Stickman invites everyone to ride a skateboard with him on a new track, created 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Best, Hot, Race, Racing, run, running, Skateboard, Skating, subway, Subway Surfers
+- Tags: 3D, 3D Games, Best, Hot, Race, Racing, run, running, skateboard, Skating, subway, Subway Surfers

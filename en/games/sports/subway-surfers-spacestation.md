@@ -19,6 +19,6 @@ The Subway Surfers SpaceStation! - Experience unique architecture and dazzling b
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Race, Racing, run, running, subway, Subway Surfers

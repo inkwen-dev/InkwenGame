@@ -19,6 +19,6 @@ Ready for new adventure of attacking gems. Your mission is to destroy all.
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fire, Spaceship, Unity3D, WebGL

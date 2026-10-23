@@ -24,4 +24,4 @@ Candlebound Coven is a five-minute survivor-like roguelite set in the dreams of 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, cats, Monster, Skill, survival
+- Tags: Action, Arcade, cats, monster, Skill, survival

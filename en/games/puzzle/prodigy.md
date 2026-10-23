@@ -19,6 +19,6 @@ prodigy is an endless hardcore platformer where levels are chosen randomly. The 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Anime, Ben 10, Boy, Boys, Fun, Funny, Game, Games, jump, Jumping, Kid, Kids, Match-3, Pixel, Skill, Skills
+- Tags: Action, Adventure, Anime, Ben 10, Boy, Boys, Fun, Funny, Game, Games, jump, jumping, Kid, Kids, Match 3, pixel, Skill, Skills

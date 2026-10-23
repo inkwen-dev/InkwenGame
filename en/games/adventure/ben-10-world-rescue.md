@@ -19,6 +19,6 @@ Ten-year-old Ben Tennyson discovers a mysterious device named the Omnitrix on a 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Ben 10, Cartoon Network

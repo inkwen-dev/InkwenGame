@@ -21,4 +21,4 @@ Grab your drill and start digging straight down! Unlock the way to the depths of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Animal, Best, Brainrot, Brawl, Cartoon, Clicker, Dragon, gta, Minecraft, roblox, RPG, Skibidi
+- Tags: 3D Games, Action, Animal, Best, Brainrot, Brawl, Cartoon, Clicker, Dragon, gta, Minecraft, roblox, rpg, Skibidi

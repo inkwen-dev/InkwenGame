@@ -19,6 +19,6 @@ Try now "Chiellini Pool Soccer" and you can play the new game of Pool billiard s
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Billiard, Boy, Boys, Football, Pool, Soccer, Sport, Sports
+- Tags: 8 Ball Pool, Billiard, Boy, Boys, Football, pool, Soccer, Sport, sports

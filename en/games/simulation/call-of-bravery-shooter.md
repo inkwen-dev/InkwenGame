@@ -21,4 +21,4 @@ Call of Bravery Shooter: Dive into the ultimate FPS experience with lifelike 3D 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Battle, Boys, Gun, PvP, Shoot, Shooting, Simulation, War
+- Tags: 3D, battle, Boys, Gun, PvP, Shoot, Shooting, Simulation, War

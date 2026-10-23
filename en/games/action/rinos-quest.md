@@ -21,4 +21,4 @@ Rinos Quest is a 2D platformer where you need to collect the silver key while av
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Cute, Monster, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Cute, monster, pixel, Platform, retro

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 婴儿, 小哈泽尔, 男孩, 汽车, 汽车们, 家庭, HTML, HTML5, 孩子们, 模拟器
+- 标签: 婴儿, 小哈泽尔, 男孩, 汽车, 汽车, 家庭, HTML, HTML5, 儿童, 模拟器

@@ -21,4 +21,4 @@ Flappy Dunk Shoot is amazing game with classic and customise Balls. Tap the scre
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Arcade, Ball, Ballon, Basketball, Casual, fly, Game, Highscore, HTML, HTML5, Hypercasual, jump, Jumping, Online, Puzzle, Soccer, Sport, WebGL
+- Tags: .io Games, Arcade, Ball, Ballon, basketball, Casual, fly, Game, Highscore, HTML, HTML5, Hypercasual, jump, jumping, Online, Puzzle, Soccer, Sport, WebGL

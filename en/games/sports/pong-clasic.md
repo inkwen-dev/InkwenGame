@@ -21,4 +21,4 @@ Full game with great inspiration in Pong, one of the most classic Atari games of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Game, Games, HTML, HTML5, Kid, Kids, Sport, Sports, Tennis
+- Tags: Game, Games, HTML, HTML5, Kid, Kids, Sport, sports, Tennis

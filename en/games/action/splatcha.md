@@ -19,6 +19,6 @@ SPLATCHA! is a fast, juicy territorial paint duel. Two blobby rivals, one arena,
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player Games, Action, Arcade, Battle, Cute, paint
+- Tags: 1 Player, 2 Player Games, Action, Arcade, battle, Cute, paint

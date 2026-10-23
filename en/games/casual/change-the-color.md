@@ -19,6 +19,6 @@ Change the color in white and black, catch the same color for obtain the best sc
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Color, Funny, Game, Highscore, HTML5, Hypercasual, Skill, Skills

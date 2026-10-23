@@ -21,4 +21,4 @@ Dark Sector is an intense alien-raid action game set deep inside a hostile, clau
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, War, Warrior
+- Tags: battle, War, Warrior

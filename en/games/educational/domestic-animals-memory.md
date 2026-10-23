@@ -19,6 +19,6 @@ Domestic Animals Memory is a free online game from genre of memory and animals g
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Educational, Fun, HTML5, Kids, Memory, Skill
+- Tags: Animal, educational, Fun, HTML5, Kids, memory, Skill

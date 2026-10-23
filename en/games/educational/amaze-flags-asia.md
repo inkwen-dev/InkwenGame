@@ -21,4 +21,4 @@ Find out how much you are of the nations and countries of Asia by taking this sh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Educational, Kids, Mobile, Puzzle
+- Tags: 1 Player, educational, Kids, Mobile, Puzzle

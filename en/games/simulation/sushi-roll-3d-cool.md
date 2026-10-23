@@ -21,4 +21,4 @@
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Best, Cook, Cooking, Crafting, cut, Food, H5, Restaurant, Simulation
+- Tags: 3D Games, Best, Cook, Cooking, Crafting, cut, Food, H5, restaurant, Simulation

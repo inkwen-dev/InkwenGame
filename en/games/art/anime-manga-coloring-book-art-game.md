@@ -21,4 +21,4 @@ Do you like watching Anime and Manga? Do you like gorgeous Anime and Manga chara
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Draw, Drawing, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: Color, Coloring, Draw, drawing, Fun, Girl, Girls, H5, HTML5, Kid, Kids

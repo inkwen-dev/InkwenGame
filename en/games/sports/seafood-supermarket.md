@@ -19,6 +19,6 @@ This is a very interesting business game. The background of this game is set at 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Boy, Boys, Casual, Fun, Funny, Game, Games, Girl, Girls, Google, H5, HTML5, Kid, Kids, Mobile, running, Simulation, Sport, Stickman, Strategy
+- Tags: 3D Games, Action, Boy, Boys, Casual, Fun, Funny, Game, Games, Girl, Girls, Google, H5, HTML5, Kid, Kids, Mobile, running, Simulation, Sport, stickman, strategy

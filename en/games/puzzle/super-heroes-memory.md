@@ -21,4 +21,4 @@ Super Heroes Memory is a kid's memory game with all popular superheroes. at the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kids, Matching, Memory, Puzzle
+- Tags: Kids, Matching, memory, Puzzle

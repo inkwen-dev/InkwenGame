@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 猜测, 枪械, 策略
+- 标签: 猜谜, 枪械, 策略

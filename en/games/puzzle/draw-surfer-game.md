@@ -21,4 +21,4 @@ Draw Surfer is a free casual online drawing game for boys. You need to move your
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Avoid, Boy, Brain, Draw, Fun, HTML5, Kids, Obstacle, Online, Puzzle, Skill, Stickman
+- Tags: 3D, Android, Avoid, Boy, Brain, Draw, Fun, HTML5, Kids, Obstacle, Online, Puzzle, Skill, stickman

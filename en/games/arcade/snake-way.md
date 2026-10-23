@@ -19,6 +19,6 @@ Snake Way is a fun and challenging puzzle game where you guide colorful snakes t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Brain, Casual, Escape, Family, Hypercasual, Logic, Maze, Mobile, Puzzle, Snake, Strategy, WebGL
+- Tags: 1 Player, Arcade, Brain, Casual, Escape, Family, Hypercasual, Logic, Maze, Mobile, Puzzle, snake, strategy, WebGL

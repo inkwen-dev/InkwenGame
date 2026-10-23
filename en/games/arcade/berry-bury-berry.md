@@ -19,6 +19,6 @@ Berry Bury Berry is a colorful and addictive 3D arcade game where speed and prec
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arcade, Casual, Collecting, Color, Funny, HTML, Hypercasual, Kids, Skills

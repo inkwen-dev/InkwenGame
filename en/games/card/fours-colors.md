@@ -21,4 +21,4 @@ Fours Colors is a fast-paced and entertaining card game inspired by classic colo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Matching, Puzzle
+- Tags: card, Matching, Puzzle

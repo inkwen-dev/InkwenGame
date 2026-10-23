@@ -19,6 +19,6 @@ During the spread of the epidemic, personal hygiene is very important. Because N
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Bubble, Fun, Girl, Girls, H5, HTML5, Kid, Kids

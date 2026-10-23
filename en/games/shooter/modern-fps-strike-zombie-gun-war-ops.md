@@ -19,6 +19,6 @@ Fight the zombies with FPS Strike Modern Arena, sharpen your shooting skills, co
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, First Person Shooter, fps, Gun, Zombie

@@ -21,4 +21,4 @@ World of Alice - Pirate Treasure World of Alice - Pirate Treasure is an educatio
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Cartoon, Educational, free games for your site, free games for your website, Fun, Funny, html games for your website, Kids, Logic, mapi games, Maze, Pirate, School
+- Tags: Best Games, Cartoon, educational, free games for your site, free games for your website, Fun, Funny, html games for your website, Kids, Logic, mapi games, Maze, Pirate, School

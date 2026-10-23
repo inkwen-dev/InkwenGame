@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 球, 泡泡, 消除三连, Match3, 匹配
+- 标签: 球, 泡泡, 三消, 三消游戏, 匹配

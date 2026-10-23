@@ -21,4 +21,4 @@ Draw Climber 2 is an interesting race game. You have to draw a leg that makes su
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boy, Boys, Draw, Drawing, H5, HTML5, Hypercasual, Kid, Kids
+- Tags: 3D, 3D Games, Boy, Boys, Draw, drawing, H5, HTML5, Hypercasual, Kid, Kids

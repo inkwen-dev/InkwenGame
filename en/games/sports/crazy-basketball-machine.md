@@ -19,6 +19,6 @@ Experience the ultimate basketball shooting frenzy in Crazy Basketball Machine! 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baseball, Basketball, Casual, Hypercasual, Shoot, Sport, Sports
+- Tags: baseball, basketball, Casual, Hypercasual, Shoot, Sport, sports

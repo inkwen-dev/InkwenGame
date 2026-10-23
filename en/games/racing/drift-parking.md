@@ -19,6 +19,6 @@ Are you a park master? This game will let you park with different kind of vehicl
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: drift, drifting, Driving, Parking, Race, Racing
+- Tags: drift, drifting, Driving, parking, Race, Racing

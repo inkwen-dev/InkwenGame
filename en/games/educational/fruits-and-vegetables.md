@@ -21,4 +21,4 @@ Fruits and Vegetables With the Fruits and Vegetables game you learn the quantiti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Fruits, Kids
+- Tags: educational, Fruits, Kids

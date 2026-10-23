@@ -21,4 +21,4 @@ Pocket Jump – this is a great (flat style) arcade game with very beautiful gra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, jump, Jumping, Kiz 10, kiz10
+- Tags: 1 Player, jump, jumping, Kiz 10, kiz10

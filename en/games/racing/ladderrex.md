@@ -19,6 +19,6 @@ Ladderrex is a fast-paced racing game where timing and resource management decid
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Best Games, Bridge, Casual, crash, Fun, Hypercasual, Race, Racing

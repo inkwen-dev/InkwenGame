@@ -19,6 +19,6 @@ When you are playing fire engine games, your vehicle will be the most vital vehi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Truck, Unity3D, WebGL
+- Tags: Driving, truck, Unity3D, WebGL

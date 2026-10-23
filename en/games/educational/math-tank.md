@@ -21,4 +21,4 @@ Math tank is an 11 Mini games pack in one. Play the math as per your choice.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, HTML5, Math, Mobile, School, Tank
+- Tags: educational, HTML5, math, Mobile, School, Tank

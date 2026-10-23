@@ -21,4 +21,4 @@ Are you ready to step into the world of acrobatics and adrenaline? Flip Parkour 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Casual, Fun, Funny, Hypercasual, Jumping, Skill, Sport
+- Tags: 3D, Action, Casual, Fun, Funny, Hypercasual, jumping, Skill, Sport

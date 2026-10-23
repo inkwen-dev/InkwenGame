@@ -19,6 +19,6 @@ This is kids learning games where you can learn farm animals. When you click on 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Farm, Memory, Puzzle
+- Tags: Animal, Farm, memory, Puzzle

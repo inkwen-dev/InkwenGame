@@ -21,4 +21,4 @@ The BEST free, popular, and classic 45-number games & stack number block puzzles
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Balance, Best, Kids, Kiz 10, Math, Number, Puzzle
+- Tags: 1 Player, 2D, Balance, Best, Kids, Kiz 10, math, Number, Puzzle

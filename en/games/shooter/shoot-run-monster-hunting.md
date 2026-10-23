@@ -21,4 +21,4 @@ Welcome to the interesting parkour world of Shoot Run: Monster Hunting! In this 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Gun, Hunting
+- Tags: 1 Player, Gun, hunting

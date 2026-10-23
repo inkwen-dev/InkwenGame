@@ -21,4 +21,4 @@ Are you ready for something new like the incredible monster hero rescue city? Tr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Battle, Boy, Boys, city, HTML5, Kids, Mobile, Monster, Rescue, Superhero
+- Tags: 3D, Android, battle, Boy, Boys, city, HTML5, Kids, Mobile, monster, Rescue, Superhero

@@ -21,4 +21,4 @@ World of Alice - Baby animal World of Alice - Baby animal is an educational game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, Animal, Baby, Cartoon, Educational, Game, Games, HTML, HTML5, Kid, Kids, Mobile, Online, School, Word
+- Tags: .io, 1 Player, Animal, Baby, Cartoon, educational, Game, Games, HTML, HTML5, Kid, Kids, Mobile, Online, School, word

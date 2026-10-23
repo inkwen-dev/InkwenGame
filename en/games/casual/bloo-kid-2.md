@@ -19,6 +19,6 @@ After rescuing his girlfriend from the hands of the evil wizard, Bloo Kid and Pi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ben 10, Boys, Cartoon, Cartoon Network, Mario
+- Tags: Ben 10, Boys, Cartoon, Cartoon Network, mario

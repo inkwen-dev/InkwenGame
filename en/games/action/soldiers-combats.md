@@ -21,4 +21,4 @@ Soldiers Combat is a action packed game with Levels To clear each level you have
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 3D Games, Action, Fight, Fighting, Gun
+- Tags: 1 Player, 2 Player, 3D Games, Action, Fight, fighting, Gun

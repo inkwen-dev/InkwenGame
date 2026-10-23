@@ -21,4 +21,4 @@ Kids Math Online is a Educational game that offers a variety of free online math
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, endless, HTML, HTML5, Hypercasual, Online
+- Tags: educational, endless, HTML, HTML5, Hypercasual, Online

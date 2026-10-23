@@ -21,4 +21,4 @@ Tractor Game Farming Tractor is a high power vehicle that's why Heavy Duty Tract
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 3D, Adult, Adventure, Arcade, Best, Casual, Hypercasual, Online, Skills, Truck
+- Tags: 1 Player, 2 Player, 3D, Adult, Adventure, Arcade, Best, Casual, Hypercasual, Online, Skills, truck

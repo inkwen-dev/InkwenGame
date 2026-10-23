@@ -19,6 +19,6 @@ Princess Emma Mia and Belle are going to attend their college Toga party tonight
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Boy, Boys, Color, Coloring, Dress Up, Girl, Girls, Kid, Kids

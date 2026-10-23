@@ -15,6 +15,6 @@ Elevate a young girl's day with your fashion flair in BFF Art Class! Choose outf
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: games-for-girls

@@ -21,4 +21,4 @@ The Lost Planet TD V2.0, new game data, fixed bugs,add more gem. Once a dob5 spa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Defense, Strategy, Tower Defense
+- Tags: Defense, strategy, Tower Defense

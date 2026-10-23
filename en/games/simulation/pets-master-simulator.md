@@ -19,6 +19,6 @@ An amazing open world of animals and you can take each of them into your team! C
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Animal, Battle, Best Games, Casual, Collecting, Dragon, Mobile, Monster, unity
+- Tags: 1 Player, 3D, 3D Games, Animal, battle, Best Games, Casual, Collecting, Dragon, Mobile, monster, unity

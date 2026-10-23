@@ -19,6 +19,6 @@ Put the shaped blocks in the appropriate places in this old but very popular tet
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Block, Brain, Game, Games, HTML5, Puzzle, Tetris
+- Tags: Action, block, Brain, Game, Games, HTML5, Puzzle, tetris

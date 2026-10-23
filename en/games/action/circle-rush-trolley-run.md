@@ -21,4 +21,4 @@ Circle Rush Trolley Run is a super addictive arcade racing and running game that
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Obstacle, running, Skills
+- Tags: block, Obstacle, running, Skills

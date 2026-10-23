@@ -21,4 +21,4 @@ Find a couple of identical tiles to remove them from the playing field. If you c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Holiday, Mahjong, Puzzle, Winter
+- Tags: Christmas, Holiday, mahjong, Puzzle, Winter

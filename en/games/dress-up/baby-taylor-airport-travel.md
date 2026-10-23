@@ -21,4 +21,4 @@ Join Taylor, our adorable young adventurer, on her first airplane journey. This 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: airplane, Baby, Baby Games, Car, Cute, Educational, Fashion, Kid, Shopping, Simulation
+- Tags: airplane, Baby, Baby Games, Car, Cute, educational, Fashion, Kid, Shopping, Simulation

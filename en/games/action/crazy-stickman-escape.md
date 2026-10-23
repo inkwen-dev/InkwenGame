@@ -21,4 +21,4 @@ Crazy Stickman Escape is a puzzle-platform game in which you control two stickma
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Escape, New, Platform, Stickman
+- Tags: Adventure, Escape, New, Platform, stickman

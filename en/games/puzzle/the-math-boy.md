@@ -21,4 +21,4 @@ This is mathematical game where you need to choose a mathematical operation to p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Kids, Logic, Math, Number
+- Tags: Boy, Kids, Logic, math, Number

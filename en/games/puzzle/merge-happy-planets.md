@@ -21,4 +21,4 @@ Classic merge games are coming back with the Merge Happy Planets! Throw the plan
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Best, Brain, Crazy, Space
+- Tags: 1 Player, 2D, Arcade, Best, Brain, crazy, Space

@@ -21,4 +21,4 @@ Basketball Stars is a cool 2 player basketball game by MadPuffers. Choose your t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball
+- Tags: basketball

@@ -15,6 +15,6 @@ Guide a tiny robot through eight thrilling levels in a sci-fi world. Jump, dash,
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

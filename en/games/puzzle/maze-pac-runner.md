@@ -19,6 +19,6 @@ Pac Maze Runner is a puzzle game online and a free game that you will be addicte
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Anime, Arena, Army, Barbie, Candy, Draw, HTML5, Match 3, Music, Punch, running, Shooter, Sim, Skating, Snake, Sofia, Space, Strategy, Submachine, Subway Surfers, sumo, Superhero, Surgery, Tank, Taxi, Timing, tomb, Traffic, Typing, Violence, Wizard, Word, World, Worm, Worms, Zombie
+- Tags: Adventure, Anime, Arena, Army, Barbie, Candy, Draw, HTML5, Match 3, music, Punch, running, Shooter, Sim, Skating, snake, Sofia, Space, strategy, Submachine, Subway Surfers, sumo, Superhero, surgery, Tank, Taxi, Timing, tomb, Traffic, Typing, Violence, Wizard, word, World, worm, Worms, Zombie

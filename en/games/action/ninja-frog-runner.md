@@ -19,6 +19,6 @@ Ninja Frog Runner is an exhilarating 2D runner game that combines fast-paced act
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure

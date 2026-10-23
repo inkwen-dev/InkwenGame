@@ -19,6 +19,6 @@ Cleaning Simulator is a very fun simulation game. Although this game is 2D, it r
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Simulation

@@ -19,6 +19,6 @@ Get into the mesmerizing 3D world of Tunnel, where all you’ve got to do is sur
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adventure, Best, Boy, Boys, Click, Clicker, Color, Hot, Kid, Kids, Unity3D

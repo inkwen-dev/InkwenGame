@@ -19,6 +19,6 @@ Bananas Joe a fun puzzle game. Here is our cute little monkey which is really ve
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Arcade, Boy, Boys, Casual, HTML, HTML5, Monkey, Physics, Puzzle

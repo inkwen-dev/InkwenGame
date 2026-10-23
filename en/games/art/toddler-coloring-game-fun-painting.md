@@ -19,6 +19,6 @@ Toddler Coloring Game is an interesting drawing game. But, this is a special col
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boy, Boys, Color, Coloring, Draw, Fun, Girl, Girls, H5, HTML5, Kid, Kids

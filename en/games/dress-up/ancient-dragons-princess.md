@@ -21,4 +21,4 @@ Enter the magical realm of the Dragon Princess, Rennie, where elegance is paramo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Anime, Dragon, Dress Up, Fashion, Girls, Magic, Princess, princess-dress-up, RPG, story
+- Tags: Adventure, Anime, Dragon, Dress Up, Fashion, Girls, Magic, Princess, princess-dress-up, rpg, story

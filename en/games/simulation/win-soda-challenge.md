@@ -19,6 +19,6 @@ A casual puzzle game full of fun. The player needs to manipulate the can flexibl
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Click, Clicker, Cook, Cooking, Cool, Food, H5
+- Tags: Action, Click, Clicker, Cook, Cooking, cool, Food, H5

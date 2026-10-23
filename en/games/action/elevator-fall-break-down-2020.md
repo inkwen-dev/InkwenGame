@@ -19,6 +19,6 @@ Elevator Fall is the most unique game in 2020 Lower the elevator down, Avoid a c
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Casual, Hypercasual, running

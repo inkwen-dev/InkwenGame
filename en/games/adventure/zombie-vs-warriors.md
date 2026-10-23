@@ -19,6 +19,6 @@ This is an action/adventure match 3 game with 60 unique levels and enemies. But 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Casual, Hypercasual, Puzzle, Zombie

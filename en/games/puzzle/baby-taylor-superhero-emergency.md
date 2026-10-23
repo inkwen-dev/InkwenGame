@@ -21,4 +21,4 @@ We all know Taylor and she is a good friend of ours. But he also has a secret id
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cute, Doctor, Dress Up, Educational, Girl, Girls, Kids, Makeover, Simulation, Surgery
+- Tags: Baby, Cute, Doctor, Dress Up, educational, Girl, Girls, Kids, Makeover, Simulation, surgery

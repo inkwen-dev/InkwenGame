@@ -19,6 +19,6 @@ Drive a yellow taxi and park it into marked parking space. Park the taxi quickly
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Car, Cars, Driving, HTML5, Mobile, Parking, Simulation, Taxi
+- Tags: Android, Car, Cars, Driving, HTML5, Mobile, parking, Simulation, Taxi

@@ -19,6 +19,6 @@ Evil Invader is an exciting online top-down shooter game. In Evil Invader, you w
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Ghost, HTML, HTML5, run, running, Shoot, Shooter, Shooting, Zombie

@@ -19,6 +19,6 @@ Sudoku, originally called Number Place is a logic-based, combinatorial number-pl
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Casual, Educational, Puzzle, Sudoku, Unity3D, Word
+- Tags: Board, Casual, educational, Puzzle, Sudoku, Unity3D, word

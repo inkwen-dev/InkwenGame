@@ -19,6 +19,6 @@ Word Master Kids is an engaging educational game tailored for young learners, de
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Kid, Kids, Mentolatux, Puzzle, Unity3D, Word
+- Tags: Boy, Boys, Kid, Kids, Mentolatux, Puzzle, Unity3D, word

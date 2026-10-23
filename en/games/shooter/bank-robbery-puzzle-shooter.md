@@ -21,4 +21,4 @@ This game is about moving character from one given point to other point to reach
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Strategy
+- Tags: 3D Games, strategy

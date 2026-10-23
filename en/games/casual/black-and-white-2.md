@@ -19,6 +19,6 @@ Black and White 2 is a fast-paced arcade game where you control a cube that swit
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Casual, endless, Hypercasual, jump, mapi games
+- Tags: block, Casual, endless, Hypercasual, jump, mapi games

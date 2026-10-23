@@ -19,6 +19,6 @@ You will enjoy playing Friendship Puzzle game equipped with 12 different graphic
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Funny, Jigsaw, Kids, Mobile

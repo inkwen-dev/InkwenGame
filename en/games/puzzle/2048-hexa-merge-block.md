@@ -19,6 +19,6 @@ Join the numbers and get to the 2048 tile on the hexagon board! Swipe to move al
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, HTML5, Mobile, Puzzle
+- Tags: block, HTML5, Mobile, Puzzle

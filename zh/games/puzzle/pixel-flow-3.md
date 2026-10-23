@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 色彩, 逻辑, 像素
+- 标签: 颜色, 逻辑, 像素

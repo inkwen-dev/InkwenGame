@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 冒险, 街机, 最佳游戏, 方块, 圣诞节, NapTech Games, 解谜, puzzleblock
+- 标签: 2D, 冒险, 街机, 最佳游戏, 方块, 圣诞节, NapTech 游戏, 益智, 拼图块

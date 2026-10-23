@@ -21,4 +21,4 @@ Mario Kart Challenge is super online game for kids that you can play for free on
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boys, Car, Cartoon, Driving, Hypercasual, Kart, Kids, Mario, Race, Racing
+- Tags: 3D, Boys, Car, Cartoon, Driving, Hypercasual, Kart, Kids, mario, Race, Racing

@@ -21,4 +21,4 @@ A triple mahjong game with ocean theme. You can eliminate only three of same til
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Fish, Girls, HTML5, Mahjong, Match 3, Matching, Mobile
+- Tags: Clicker, Fish, Girls, HTML5, mahjong, Match 3, Matching, Mobile

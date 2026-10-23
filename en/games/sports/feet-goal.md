@@ -19,6 +19,6 @@ Play soccer anywhere with your Smartphone's camera! Feet Goal presents us with a
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Mobile, Sports
+- Tags: Android, Arcade, Mobile, sports

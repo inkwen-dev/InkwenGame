@@ -19,6 +19,6 @@ You have to flip a plastic bottle in the exciting arcade game Bottle Jump 3D! Ju
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: jump, Kid, Mobile, Platform

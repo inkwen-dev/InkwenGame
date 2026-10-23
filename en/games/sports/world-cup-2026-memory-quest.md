@@ -21,4 +21,4 @@ Get ready for the ultimate football memory challenge! Step into a colorful stadi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Brain, Fun, Hypercasual, Kids, Logic, Memory, Soccer
+- Tags: Boys, Brain, Fun, Hypercasual, Kids, Logic, memory, Soccer

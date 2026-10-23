@@ -19,6 +19,6 @@ HO, HO, HO! CHRISTMAS IS COMING SOON Your goal is to jump to the highest as you 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Ball, Music, Unity3D
+- Tags: Action, Arcade, Ball, music, Unity3D

@@ -19,6 +19,6 @@ In this Domestic Birds Puzzle game you have 6 images with domestic birds,in thre
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bird, Girls, HTML5, Jigsaw, Kids, Mobile, Puzzle

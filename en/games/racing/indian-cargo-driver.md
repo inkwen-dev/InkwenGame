@@ -21,4 +21,4 @@ You are a cargo driver and you have to deliver safely , to the given destination
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Driving, Truck
+- Tags: 3D, Driving, truck

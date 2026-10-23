@@ -21,4 +21,4 @@ Block Stacking is a very fun, leisure, and pressure-relieving game. The game is 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Block, Boy, Brain, Bricks, Fun, HTML5, Kids, Matching, Online, Puzzle, Relaxation
+- Tags: 3D, Android, block, Boy, Brain, Bricks, Fun, HTML5, Kids, Matching, Online, Puzzle, Relaxation

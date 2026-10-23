@@ -21,4 +21,4 @@ Jump or double jump to pass the spikes along the way. Collect coins along the wa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping, Stickman
+- Tags: jump, jumping, stickman

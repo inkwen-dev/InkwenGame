@@ -21,4 +21,4 @@ Spiderman Triple Jump Game, a single-touch jumping reaction game, has everything
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boy, Boys, HTML, HTML5, jump, Jumping, Racing, Spiderman, Super, Superhero
+- Tags: 2D, Boy, Boys, HTML, HTML5, jump, jumping, Racing, Spiderman, Super, Superhero

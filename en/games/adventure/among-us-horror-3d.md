@@ -19,6 +19,6 @@ A horror game based on the famous game, (among us), you have to get to the final
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Escape, Girls, Puzzle

@@ -21,4 +21,4 @@ Discover the mystery of Nonogram! A large number of puzzles are waiting for you 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jigsaw, Logic, Math, Puzzle, Sudoku, Word
+- Tags: Jigsaw, Logic, math, Puzzle, Sudoku, word

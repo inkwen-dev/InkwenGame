@@ -19,6 +19,6 @@ The world’s most popular football game is now available for android. Football 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 3D, 3D Games, 8 Ball Pool, Action, Adventure, Android, Anime, Arcade, Balance, Ball, Ballon, Board, Boxing, Candy, Cartoon, Casual, Collecting, Defense, Detective, Educational, endless, Fight, Football, Game, Games, Hypercasual, Management, Obstacle, Puzzle, Soccer, Sport, Sports, Tower Defense, World
+- Tags: 1 Player, 2 Player, 3D, 3D Games, 8 Ball Pool, Action, Adventure, Android, Anime, Arcade, Balance, Ball, Ballon, Board, Boxing, Candy, Cartoon, Casual, Collecting, Defense, Detective, educational, endless, Fight, Football, Game, Games, Hypercasual, management, Obstacle, Puzzle, Soccer, Sport, sports, Tower Defense, World

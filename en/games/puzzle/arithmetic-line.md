@@ -19,6 +19,6 @@ This is a game mix between calculation and ingenuity. Above the head there will 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Math, Point And Click
+- Tags: 1 Player, math, Point And Click

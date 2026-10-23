@@ -21,4 +21,4 @@ Are you ready for Squid Game Hook as two teams? Throw the hook at the opposing p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Action, Android, Arcade, Casual, Fun, Funny, Hypercasual, Kids, Mobile, Shoot, Shooting, Strategy, WebGL
+- Tags: .io, Action, Android, Arcade, Casual, Fun, Funny, Hypercasual, Kids, Mobile, Shoot, Shooting, strategy, WebGL

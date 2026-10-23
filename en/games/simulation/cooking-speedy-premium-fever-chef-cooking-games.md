@@ -21,4 +21,4 @@ Take part in this strategy and simulation cooking game, you can experience the m
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Burger, Cake, Candy, Cook, Cooking, Fish, Food, Restaurant, Simulation, Word
+- Tags: Burger, Cake, Candy, Cook, Cooking, Fish, Food, restaurant, Simulation, word

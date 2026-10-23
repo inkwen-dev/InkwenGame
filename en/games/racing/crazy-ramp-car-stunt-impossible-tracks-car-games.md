@@ -19,6 +19,6 @@ Crazy Ramp Car Stunt Impossible Tracks GT Car Racing Stunt Games Welcome to Craz
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Sports
+- Tags: Driving, sports

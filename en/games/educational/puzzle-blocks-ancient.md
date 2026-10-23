@@ -21,4 +21,4 @@ Puzzle game with several original solutions. The player has to solve the riddles
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Android, Casino, Casual, Classic, Click, Clicker, Fun, Funny, Kid, Kids, Logic, Math, Puzzle, Quiz
+- Tags: 1 Player, Android, Casino, Casual, Classic, Click, Clicker, Fun, Funny, Kid, Kids, Logic, math, Puzzle, Quiz

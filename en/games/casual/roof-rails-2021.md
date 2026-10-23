@@ -21,4 +21,4 @@ Extremely addictive and super fun. Grow your stick to the next level to get more
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Game, jump, Jumping, Pipe, Ski, Stickman, Train
+- Tags: 3D Games, Game, jump, jumping, Pipe, Ski, stickman, Train

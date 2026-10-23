@@ -21,4 +21,4 @@ Poppy Strike 5 是一款带有恐怖元素的第一人称射击游戏，你的�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, CSGO, 第一人称射击, 恐怖, Huggy, Poppy Playtime, 射击, 射击游戏, 射击, 射击, Unity3D
+- 标签: 3D, 3D游戏, CSGO, 第一人称射击, 恐怖, huggy, 波比游乐场, 射击, 射击游戏, 射击类, 射击, Unity3D

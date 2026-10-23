@@ -19,6 +19,6 @@ Enjoy your time by driving the Bmw city car rider 2021 testing your racing skill
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Adventure, Army, Boy, Boys, Bubble, Bubble Shooter, bus, Candy, Car, Cars, drift, drifting, Driving, Escape, Game, Games, Kids, Mario, Moto, Motorcycle, Parking, Sim, Simulation, Simulator, Spiderman, Supercars, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Adventure, Army, Boy, Boys, Bubble, Bubble Shooter, bus, Candy, Car, Cars, drift, drifting, Driving, Escape, Game, Games, Kids, mario, Moto, Motorcycle, parking, Sim, Simulation, Simulator, Spiderman, Supercars, truck

@@ -21,4 +21,4 @@ Educational Game, Specifically Made for Children! Introducing &ldquo;Kids Alphab
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Games, Baby Hazel, Best Games, Educational, Kid, Kids, Letters
+- Tags: Baby, Baby Games, Baby Hazel, Best Games, educational, Kid, Kids, Letters

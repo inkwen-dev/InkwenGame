@@ -21,4 +21,4 @@ It's party time girls as the most beautiful pony princess is celebrating her bir
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Baby Hazel, Barbie, Burger, Cake, Disney, Dress Up, Educational
+- Tags: 1 Player, Baby Hazel, Barbie, Burger, Cake, Disney, Dress Up, educational

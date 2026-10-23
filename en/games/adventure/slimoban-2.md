@@ -21,4 +21,4 @@ Slimoban 2 is the sequel of the Sokoban-inspired game, Slimoban, about a little 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Escape, Pixel, Puzzle, Retro
+- Tags: 2D, Adventure, Escape, pixel, Puzzle, retro

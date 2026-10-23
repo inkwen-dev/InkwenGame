@@ -19,6 +19,6 @@ Here is a bus driving simulation game for you to train your parking and stunt dr
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, bus, Collecting, Driving, HTML5, Mobile, Obstacle, Parking, Platform, Simulation
+- Tags: 3D, Avoid, bus, Collecting, Driving, HTML5, Mobile, Obstacle, parking, Platform, Simulation

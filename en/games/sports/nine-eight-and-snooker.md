@@ -19,6 +19,6 @@ Shall we play a game? "Eight, Nine and Snooker now in one 3D game. Everything yo
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 3D, 8 Ball Pool, Billiard, Casino, Pool, WebGL
+- Tags: 1 Player, 2 Player, 2 Player Games, 3D, 8 Ball Pool, Billiard, Casino, pool, WebGL

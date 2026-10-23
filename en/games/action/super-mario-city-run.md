@@ -19,6 +19,6 @@ Super Mario City Run is a crazy running game Tap or Click to run and jump across
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Best, Clicker, Hot, Mario, run, running
+- Tags: Adventure, Arcade, Best, Clicker, Hot, mario, run, running

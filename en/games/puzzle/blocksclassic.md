@@ -21,4 +21,4 @@ Blocks Classic is match two block breaking game where you have to clear all the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Matching, puzzleblock
+- Tags: block, Matching, puzzleblock

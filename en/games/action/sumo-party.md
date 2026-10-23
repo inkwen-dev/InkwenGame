@@ -21,4 +21,4 @@ How about some entertaining sumo wrestles with Huge Sumos game? You can play sin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arena, Fight, Fighting, sumo
+- Tags: Arena, Fight, fighting, sumo

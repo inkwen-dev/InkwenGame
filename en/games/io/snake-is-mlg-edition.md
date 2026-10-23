@@ -21,4 +21,4 @@ Snake: MLG Edition is a cool multiplayer snake game where you have to collect sn
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Animal, Arcade, H5, Multiplayer, Online, Snake
+- Tags: .io, Animal, Arcade, H5, Multiplayer, Online, snake

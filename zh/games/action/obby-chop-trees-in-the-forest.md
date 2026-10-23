@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 人游戏, 2026 年游戏, 3D, 街机, 合集, 切割, Forest, 游戏, 移动设备, roblox, 树木, unity, Unity3D, 武器
+- 标签: 单人, 2026 游戏, 3D, 街机, 收藏, 切割, 森林, 游戏, 移动设备, Roblox, 树, unity, Unity3D, 武器

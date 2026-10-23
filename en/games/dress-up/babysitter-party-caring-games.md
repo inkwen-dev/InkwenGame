@@ -21,4 +21,4 @@ It's time to show off your babysitting skills and give those little rascals the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cute, Decorate, Design, Dress Up, Educational, Fashion, Food, Girl, Girls, Kids, Makeover, Simulation
+- Tags: Baby, Cute, Decorate, Design, Dress Up, educational, Fashion, Food, Girl, Girls, Kids, Makeover, Simulation

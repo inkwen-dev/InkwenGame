@@ -19,6 +19,6 @@ The Happiest Fish adventure is here! Let's play with the happiest yellow fish. T
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Animal, Best, Fish, Fun, Island, Kids, Mobile, Shark

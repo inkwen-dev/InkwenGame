@@ -19,6 +19,6 @@ Dive into the fun with our vibrant jelly merging game! Explore a world filled wi
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Clash, Color, Coloring, Jelly, Jewel, Logic, Puzzle
+- Tags: block, Clash, Color, Coloring, Jelly, Jewel, Logic, Puzzle

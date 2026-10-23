@@ -21,4 +21,4 @@ Hex Merge Puzzle is a clean and addictive number-merging game designed to test y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Match 3, Matching, Math, Puzzle
+- Tags: Casual, Match 3, Matching, math, Puzzle

@@ -21,4 +21,4 @@ wasd- 移动 鼠标- 瞄准 观察四周 射击 tab- 菜单 空格键- 跳跃
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, Android, HTML5, 手机, 多人, 射击, Unity3D, WebGL, 僵尸
+- 标签: 3D游戏, 安卓, HTML5, 移动设备, 多人, 射击, Unity3D, WebGL, 僵尸

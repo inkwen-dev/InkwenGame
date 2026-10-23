@@ -21,4 +21,4 @@ Luxury Prado Driving New Car Parking Games is one of the 3D best fun games to pl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Cars, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing, Supercars
+- Tags: Action, Arcade, Cars, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, jumping, Race, Racing, Supercars

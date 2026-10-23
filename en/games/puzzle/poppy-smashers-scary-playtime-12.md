@@ -19,6 +19,6 @@ Welcome to Playtime Co.! How can you survive in the abandoned toy factory full o
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, 3D, 3D Games, Action, Adult, Adventure, Air, Aircraft, Android, Arkanoid, Army, Baby, Baby Hazel, Basketball, Batman, Battle, Battlegrounds, Bounce, Chicken, Christmas, Clash, Craft, Crafting, Difference, Ever After High, Game, Jigsaw, jump
+- Tags: 2 Player, 2 Player Games, 2D, 3D, 3D Games, Action, Adult, Adventure, Air, Aircraft, Android, Arkanoid, Army, Baby, Baby Hazel, basketball, Batman, battle, Battlegrounds, Bounce, Chicken, Christmas, Clash, Craft, Crafting, Difference, Ever After High, Game, Jigsaw, jump

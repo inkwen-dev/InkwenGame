@@ -19,6 +19,6 @@ Click On Screen To Change Directions Mouse Controls
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, 8 Ball Pool, Action, Arcade, Ball, Casual, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing, run, running, Unity3D
+- Tags: 3D, 3D Games, 8 Ball Pool, Action, Arcade, Ball, Casual, Fun, Funny, Hot, Hypercasual, jump, jumping, Race, Racing, run, running, Unity3D

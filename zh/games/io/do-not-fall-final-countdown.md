@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io游戏, 3D, 冒险, 避开, 男孩, 乐趣, 女孩们, 高分, HTML5, WebGL
+- 标签: .io 游戏, 3D, 冒险, 躲避, 男孩们, 有趣, 女孩, 高分, HTML5, WebGL

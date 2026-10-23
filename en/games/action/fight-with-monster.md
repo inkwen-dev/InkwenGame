@@ -21,4 +21,4 @@ Fight With Monster is an exciting action combat game where you face fierce monst
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fight, Monster, Superhero
+- Tags: battle, Fight, monster, Superhero

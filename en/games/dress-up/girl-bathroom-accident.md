@@ -19,6 +19,6 @@ Oh, no! The toilet is clogged, Zoe is helpless. She calls her beat friend Sofia 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Educational, Girl, Girls, Kids, Makeover, Simulation, Surgery
+- Tags: Doctor, educational, Girl, Girls, Kids, Makeover, Simulation, surgery

@@ -21,4 +21,4 @@ Pressed for Words A Fun Anagram Word Puzzler Easy to play, but with endless vari
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Game, Games, Puzzle, Word
+- Tags: Game, Games, Puzzle, word

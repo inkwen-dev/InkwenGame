@@ -21,4 +21,4 @@ Pitballs is a hypercasual game that lets you shoot balls into the pit. In boss b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arkanoid, Ball, Monster, Pinball
+- Tags: 1 Player, 2D, Arkanoid, Ball, monster, Pinball

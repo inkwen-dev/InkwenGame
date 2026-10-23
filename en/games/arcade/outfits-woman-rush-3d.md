@@ -19,6 +19,6 @@ Outfits Woman Rush is a very fun and interesting parkour game. The gameplay is f
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Girl, Girls, HTML, HTML5, Hypercasual

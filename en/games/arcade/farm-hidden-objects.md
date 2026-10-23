@@ -19,6 +19,6 @@ This is a classic point and click hidden object game. You need to find all of th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Farm, Hidden, HTML5, Mobile, Puzzle

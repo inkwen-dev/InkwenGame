@@ -19,6 +19,6 @@ The Lost Chicken is a 3d arcade game where players smash, bump and bounce throug
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Avoid, Chicken, HTML5, run, running, WebGL

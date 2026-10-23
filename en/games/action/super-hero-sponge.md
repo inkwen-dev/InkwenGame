@@ -19,6 +19,6 @@ Join the action-packed adventure with Super Hero Sponge! Embark on an epic journ
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Mentolatux, Spongebob, Superhero, Unity3D

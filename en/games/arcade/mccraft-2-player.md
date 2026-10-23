@@ -21,4 +21,4 @@ In this adventure, the boy in the blue shirt and the girl in the green shirt nee
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, mineblock, Minecraft, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, mineblock, Minecraft, pixel

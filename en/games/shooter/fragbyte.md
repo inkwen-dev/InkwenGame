@@ -21,4 +21,4 @@ FRAGBYTE is a fast-paced 3D first-person wave survival shooter that runs right i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arena, First Person Shooter, fps, Shooter, Sniper, Stickman, survival
+- Tags: 3D, Arena, First Person Shooter, fps, Shooter, sniper, stickman, survival

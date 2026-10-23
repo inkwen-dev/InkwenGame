@@ -21,4 +21,4 @@ Pony Fly in a Fantasy World is a game of reflexes in which you have to keep your
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Arcade, Girl, Horse, jump
+- Tags: .io Games, Arcade, Girl, horse, jump

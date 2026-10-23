@@ -15,6 +15,6 @@ Challenge your strategy skills in 4 Colors PGS, a card game blending simplicity 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Card
+- Tags: card

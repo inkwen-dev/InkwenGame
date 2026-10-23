@@ -21,4 +21,4 @@ Maria likes to play football. She is the captain of the school team. She bought 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Dress Up, Fashion, Fun, Game, Girl, HTML5, Sport, Sports
+- Tags: Cartoon, Dress Up, Fashion, Fun, Game, Girl, HTML5, Sport, sports

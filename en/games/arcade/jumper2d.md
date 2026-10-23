@@ -21,4 +21,4 @@ Game Control "Space" try Overcome all obstacles to get a high score in the game.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Arena, jump, Jumping, Skill, Skills
+- Tags: 1 Player, 2D, Arcade, Arena, jump, jumping, Skill, Skills

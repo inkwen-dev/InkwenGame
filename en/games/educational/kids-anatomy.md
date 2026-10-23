@@ -21,4 +21,4 @@ Discover body parts! fun anatomy learning game for kids with puzzles, quizzes, a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Games, Baby Hazel, Best Games, Educational, Kid, Kids, NapTech Games
+- Tags: Baby, Baby Games, Baby Hazel, Best Games, educational, Kid, Kids, NapTech Games

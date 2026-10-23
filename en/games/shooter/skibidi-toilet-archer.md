@@ -21,4 +21,4 @@ Skibidi Toilet Archer: Unleash your aim and timing in this quirky arcade challen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bow, Shooting, Skibidi, Skibidi Toilet
+- Tags: Arcade, Bow, Shooting, Skibidi, skibidi-toilet

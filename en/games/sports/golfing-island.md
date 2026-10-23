@@ -21,4 +21,4 @@ Prepare to enjoy a fun and different golf game. Overcome 20 hard levels full of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Golf, Obstacle, Platform, Shooting, Sports
+- Tags: Arcade, Ball, golf, Obstacle, Platform, Shooting, sports

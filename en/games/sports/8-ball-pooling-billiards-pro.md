@@ -19,6 +19,6 @@ Drag and drop to adjust the white ball hitting angle -Click the fine-tuning butt
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, 8 Ball Pool, Ball, Bejeweled, Billiard, Board, Classic, Game, HTML5, Logic, Multiplayer, Pokemon, Pool
+- Tags: 2 Player, 2 Player Games, 2D, 8 Ball Pool, Ball, Bejeweled, Billiard, Board, Classic, Game, HTML5, Logic, Multiplayer, Pokemon, pool

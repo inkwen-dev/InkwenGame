@@ -19,6 +19,6 @@ Fashion Nail Art Diy Blog is an online Kids game. Have fun Blogging with Sofia i
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Design, Fashion, Funny, Girls, Nail

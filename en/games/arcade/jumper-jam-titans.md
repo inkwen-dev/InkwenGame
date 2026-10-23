@@ -21,4 +21,4 @@ Jump and go up by escaping enemies. You can unlock new levels and players. Enjoy
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Funny, jump, Jumping
+- Tags: 1 Player, 2D, Funny, jump, jumping

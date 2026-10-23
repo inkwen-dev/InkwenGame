@@ -19,6 +19,6 @@ Take care of the purple penguin. Keep him alive for as long as you can. Watch ou
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Animal, Arcade, Casual, Fish, Snow, Winter

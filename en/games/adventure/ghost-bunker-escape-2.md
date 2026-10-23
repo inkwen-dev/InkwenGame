@@ -19,6 +19,6 @@ The bunker escape challenge is centered around an old, decrepit barn located nea
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Escape, Point And Click, Room

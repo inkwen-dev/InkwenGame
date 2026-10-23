@@ -21,4 +21,4 @@ Sports Mini Battles is a brilliant collection of sports-based games. You can eit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 2D, Arcade, Casual, Hypercasual, Sport, Sports
+- Tags: 2 Player Games, 2D, Arcade, Casual, Hypercasual, Sport, sports

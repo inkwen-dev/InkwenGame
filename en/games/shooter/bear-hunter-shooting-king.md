@@ -21,4 +21,4 @@ Return to the wilderness in the most visually stunning FPS hunting simulator on 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Animal, Battle, Gun, jump
+- Tags: Adventure, Animal, battle, Gun, jump

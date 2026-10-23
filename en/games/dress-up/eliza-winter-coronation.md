@@ -19,6 +19,6 @@ Princess Elisa assumes the throne this winter. She's getting ready to be queen. 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Cute, Decorate, Decoration, Design, Disney, Dress Up, Elsa, Fashion, Frozen, Girl, Hair, Holiday, HTML5, Jewel, Makeover, Princess, Snow, Winter

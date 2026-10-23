@@ -21,4 +21,4 @@ Pipe Connect: Games Puzzle is a brilliant puzzle solver with an acute attention 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Color, Mind, Pipe, Puzzle, Strategy, water
+- Tags: Arcade, Brain, Color, Mind, Pipe, Puzzle, strategy, water

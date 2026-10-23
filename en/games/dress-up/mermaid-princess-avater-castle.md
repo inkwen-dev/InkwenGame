@@ -21,4 +21,4 @@ This is a dress-up and decorating game for girls. If you like games where you cr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dress Up, Memory, Mermaid
+- Tags: Dress Up, memory, Mermaid

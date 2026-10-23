@@ -21,4 +21,4 @@ WASD 或 方向键 - 驾驶 T - 时间变慢 R ESC - 重置场景 Tab - 下一�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 3D, 3D游戏, 汽车, 汽车们, 漂移, 漂移, 驾驶, 乐趣, 搞笑, HTML5, 特技, Unity3D
+- 标签: 单人, 3D, 3D游戏, 汽车, 汽车, 漂移, 漂移, 驾驶, 有趣, 搞笑, HTML5, 特技, Unity3D

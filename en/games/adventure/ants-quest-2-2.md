@@ -15,6 +15,6 @@ Embark on a daring journey as a heroic ant in Ants Quest 2. Collect sugar cubes,
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

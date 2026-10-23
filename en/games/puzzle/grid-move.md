@@ -21,4 +21,4 @@ Grid Move Game For Fun
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Bricks
+- Tags: block, Bricks

@@ -19,6 +19,6 @@ If you are curious about the love harmony between your partner, write your names
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Funny, Games, Girl, Girls, HTML5, Love

@@ -21,4 +21,4 @@ Spooky Vending Machine is an amazing game that helps your child to learn math by
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Brain, Educational, Family, Game, Games, Ghost, Halloween, HTML, HTML5, Kid, Kids, Math, Monster, Simulation, Simulator, Zombie
+- Tags: 2D, Brain, educational, Family, Game, Games, Ghost, Halloween, HTML, HTML5, Kid, Kids, math, monster, Simulation, Simulator, Zombie

@@ -21,4 +21,4 @@ Try to become the biggest shark on the server in this fun online .io game.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arena, Battle, Multiplayer, Online, Shark
+- Tags: Arena, battle, Multiplayer, Online, Shark

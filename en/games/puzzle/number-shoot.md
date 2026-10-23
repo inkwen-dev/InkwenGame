@@ -19,6 +19,6 @@ Tap the screen to shoot the number bubble The same numbers will be merged to a l
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2048, Bubble Shooter, Number

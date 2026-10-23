@@ -21,4 +21,4 @@ Weighted Seesaw is an exhilarating test of skill and adaptability. Progress thro
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Balance, Block, Draw, Puzzle
+- Tags: 2D, Balance, block, Draw, Puzzle

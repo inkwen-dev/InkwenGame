@@ -19,6 +19,6 @@ Get ready for the best high heels game EVER! This shoe game is fun, this runway 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Adventure, Arcade, Game, Games, Girl, Girls, Hypercasual, run, running, Stunts, War

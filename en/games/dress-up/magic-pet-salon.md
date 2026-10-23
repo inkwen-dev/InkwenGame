@@ -21,4 +21,4 @@ Magic Pet Salon is open for business! The little witch Luna owns a pet salon sho
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cleaning, Cute, Girl, Girls, Hair, Kids, Magic, Makeover, Nails, Simulation, Surgery
+- Tags: Animal, Cleaning, Cute, Girl, Girls, Hair, Kids, Magic, Makeover, Nails, Simulation, surgery

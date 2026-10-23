@@ -19,6 +19,6 @@ Tech Match is a computers tech match-3 game with CPU, Keyboard, Mouse etc all th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Machine, Match 3, Puzzle

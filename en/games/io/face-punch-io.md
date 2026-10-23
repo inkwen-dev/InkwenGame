@@ -19,6 +19,6 @@ Step onto the ring to knock out all champions with your brutal punches for real 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2D, Android, Arcade, Battle, Cool, Hot
+- Tags: .io, .io Games, 1 Player, 2D, Android, Arcade, battle, cool, Hot

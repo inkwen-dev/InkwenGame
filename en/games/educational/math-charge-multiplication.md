@@ -21,4 +21,4 @@ Sink the enemy subs before they sink you. Just dial in their depth (which happen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Math
+- Tags: educational, math

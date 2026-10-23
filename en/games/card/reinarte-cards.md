@@ -21,4 +21,4 @@ There are several fun card games for you to spend your time testing your knowled
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casual, Classic, Game, Solitaire
+- Tags: card, Casual, Classic, Game, solitaire

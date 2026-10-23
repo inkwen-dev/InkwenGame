@@ -19,6 +19,6 @@ In this game, you will grab your favorite basketball and will try to score as ma
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Basketball, Sport
+- Tags: Ball, basketball, Sport

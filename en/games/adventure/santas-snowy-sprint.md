@@ -19,6 +19,6 @@ Santas Snowy Sprint is a festive adventure packed with holiday cheer and nonstop
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Best Games, Cartoon, Casual, Christmas, Crazy, Planet, Race, Santa, Santa Claus, Winter
+- Tags: Adventure, Best Games, Cartoon, Casual, Christmas, crazy, Planet, Race, Santa, Santa Claus, Winter

@@ -15,6 +15,6 @@ Dive into Machine Man, a dynamic adventure where strategy and skill are pivotal 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: robots

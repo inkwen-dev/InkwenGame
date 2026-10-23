@@ -19,6 +19,6 @@ Pixel Paintball Wars is a fast-paced multiplayer shooter that blends retro pixel
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Mentolatux, paint, paintball, Shooting, unity, War, WebGL

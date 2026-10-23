@@ -21,4 +21,4 @@ Get ready for an epic adventure in Titans Defense Run! This exciting arcade game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bomb, run, Stickman
+- Tags: Arcade, Bomb, run, stickman

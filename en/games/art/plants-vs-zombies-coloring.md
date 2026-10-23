@@ -21,4 +21,4 @@ Plants vs. Zombies Coloring Game is a creative and relaxing game that lets playe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Draw, Drawing, Educational, Hypercasual, Plant, School, Zombie
+- Tags: Color, Coloring, Draw, drawing, educational, Hypercasual, Plant, School, Zombie

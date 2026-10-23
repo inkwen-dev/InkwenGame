@@ -15,6 +15,6 @@ Leap through a vibrant blocky world in Bloxy Block Parkour! Master challenging j
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Skill

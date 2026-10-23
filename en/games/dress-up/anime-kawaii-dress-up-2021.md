@@ -21,4 +21,4 @@ Lots of stylish items Enjoy a whole body of fashion Use the share function to sh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping
+- Tags: jumping

@@ -21,4 +21,4 @@ WASD或方向键移动 空格键跳跃 左键点击或Z键开火 右键点击投
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 卡通, 射手, Unity3D, WebGL
+- 标签: 3D游戏, 卡通, 射击类, Unity3D, WebGL

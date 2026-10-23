@@ -19,6 +19,6 @@ The taller your heels are, the easier it will be to escape from the walls. Diffe
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Animal, Arcade, Avoid, Escape, Puzzle, Rescue, run, running

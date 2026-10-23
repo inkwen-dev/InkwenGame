@@ -19,6 +19,6 @@ Start by pressing the left button anywhere on the screen Release the button to t
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, html games for your website, HTML5, html5 games, html5 games for your site, Kid, Kids, Sport, Sports
+- Tags: basketball, html games for your website, HTML5, html5 games, html5 games for your site, Kid, Kids, Sport, sports

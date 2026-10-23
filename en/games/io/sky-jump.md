@@ -21,4 +21,4 @@ This is an endless platformer game with a geometric style graphics, where player
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, Action, Adventure, Battle, Best, Block, Classic, Click, Game, Games, jump, Jumping, Play, PvP
+- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, Action, Adventure, battle, Best, block, Classic, Click, Game, Games, jump, jumping, Play, PvP

@@ -19,6 +19,6 @@ Brikzo is a game where there are sand-blocks coming which wrester hits and break
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Boxing, Casual, Clicker

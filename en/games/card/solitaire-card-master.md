@@ -19,6 +19,6 @@ Master the classic Klondike solitaire! Move cards by alternating color and desce
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Brain, Casual, Poker, Solitaire
+- Tags: 2D, Brain, Casual, Poker, solitaire

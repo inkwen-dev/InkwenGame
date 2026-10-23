@@ -19,6 +19,6 @@ Dodge the sudden charges of 67, time your movements perfectly, and reach the fin
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, catch, Robot, run, running

@@ -21,4 +21,4 @@ Hangman Game is an educational and casual game that has the function of stimulat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Educational, Fun, HTML5, Kids, Mobile, Skill, Word
+- Tags: Animal, educational, Fun, HTML5, Kids, Mobile, Skill, word

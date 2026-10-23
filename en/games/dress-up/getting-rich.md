@@ -19,6 +19,6 @@ This is an interesting casual parkour game. In the game players will be able to 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Burger, Collecting, Decoration, Dress Up, Fashion, Girl, H5, running

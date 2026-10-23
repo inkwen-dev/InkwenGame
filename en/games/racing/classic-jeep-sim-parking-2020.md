@@ -19,6 +19,6 @@ Welcome to another great parking game Classic Jeep Sim Parking 2020, not every d
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Parking, Unity3D, WebGL
+- Tags: Driving, parking, Unity3D, WebGL

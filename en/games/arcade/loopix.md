@@ -43,4 +43,4 @@ Features:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: .io, Action, Arcade, Skill, Snake, survival
+- Tags: .io, Action, Arcade, Skill, snake, survival

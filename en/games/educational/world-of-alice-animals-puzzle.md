@@ -19,6 +19,6 @@ World of Alice - Animal Puzzle World of Alice - Animal Puzzle is an educational 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Best Games, Cartoon, Educational, free games for your site, free games for your website, free html5 games for your website, html games for your website, html5 games, html5 games for your site, Kids, Logic, Logical, School
+- Tags: Animal, Best Games, Cartoon, educational, free games for your site, free games for your website, free html5 games for your website, html games for your website, html5 games, html5 games for your site, Kids, Logic, Logical, School

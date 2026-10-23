@@ -19,6 +19,6 @@ You are about to be a babysitter in this game and you will take care of the 2 ye
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cooking, Cute, Decorate, Design, Doctor, Dress Up, Educational, Girl, Girls, Kids, Simulation
+- Tags: Baby, Cooking, Cute, Decorate, Design, Doctor, Dress Up, educational, Girl, Girls, Kids, Simulation

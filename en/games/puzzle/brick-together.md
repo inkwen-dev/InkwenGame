@@ -21,4 +21,4 @@ Control the yellow block to push single colored blocks. Blocks of the same color
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, Color, HTML5, Lego, Logic, Match 3, Matching, Puzzle
+- Tags: 1 Player, block, Color, HTML5, Lego, Logic, Match 3, Matching, Puzzle

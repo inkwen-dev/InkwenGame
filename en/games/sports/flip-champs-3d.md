@@ -21,4 +21,4 @@
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arena, Balance, Physics, Sport, Sports, Turn
+- Tags: Adventure, Arena, Balance, Physics, Sport, sports, Turn

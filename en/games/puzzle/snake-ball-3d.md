@@ -21,4 +21,4 @@ At Snake Ball 3D its time to test your reflex, as you collect hundreds of balls 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Ball, Best, Boys, Brain, Collecting, Family, Fun, Girls, Highscore, HTML5, Hypercasual, Obstacle, Puzzle, Snake
+- Tags: 3D, Avoid, Ball, Best, Boys, Brain, Collecting, Family, Fun, Girls, Highscore, HTML5, Hypercasual, Obstacle, Puzzle, snake

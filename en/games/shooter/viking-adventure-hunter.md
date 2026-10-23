@@ -19,6 +19,6 @@ Destroy all enemies and dodge obstacles that want to impede your progress.
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Arcade, Game, Online, Shooter

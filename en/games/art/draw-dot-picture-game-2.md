@@ -21,4 +21,4 @@ Welcome to Draw One Miss Part Brain Games, the addictive puzzle game where logic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, Casual, Draw, Drawing, Hypercasual
+- Tags: 2025 games, Casual, Draw, drawing, Hypercasual

@@ -19,6 +19,6 @@ Evolution Arena: Battle Royale is a 3D evolution action game where you start as 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Adventure, amazing, Animal, Battlegrounds, Game, MMO, Simulator, Skill, survival, World

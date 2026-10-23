@@ -21,4 +21,4 @@ Welcome to Block Puzzle, a simple but addictive puzzle game! Block Puzzle is a f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Puzzle
+- Tags: block, Puzzle

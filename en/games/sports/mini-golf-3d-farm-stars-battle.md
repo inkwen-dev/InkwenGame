@@ -21,4 +21,4 @@ Minigolf farm stars is the best mini golf clash 3D game ever. It is almost like 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Games, Golf, Sports
+- Tags: 3D, 3D Games, Games, golf, sports

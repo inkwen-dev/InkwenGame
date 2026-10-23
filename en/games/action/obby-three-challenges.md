@@ -21,4 +21,4 @@ THREE LEVELS. ONE CHANCE. NO MERCY. Every great champion starts somewhere. Today
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Boys, free games for your site, jump, Jumping, Mobile, Obstacle, Platform, roblox, run, running, unity games for your site, WebGL
+- Tags: 1 Player, 3D, Boys, free games for your site, jump, jumping, Mobile, Obstacle, Platform, roblox, run, running, unity games for your site, WebGL

@@ -19,6 +19,6 @@ Do you like motorbikes? If so, you’re in the right place. Motorbike Simulator 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Moto, Motorcycle, Simulator, Unity3D, WebGL

@@ -19,6 +19,6 @@ Our princess Clara is going to do the diamond robbery in the city to support som
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fantasy, Golf, Matching, Puzzle
+- Tags: Fantasy, golf, Matching, Puzzle

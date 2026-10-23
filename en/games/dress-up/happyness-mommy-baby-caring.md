@@ -21,4 +21,4 @@ So great! Sofia is a mom now! Can you help Sofia take care of her baby? Firstly,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cute, Dress Up, Educational, Food, Girl, Girls, Kids, Makeover, Simulation
+- Tags: Baby, Cute, Dress Up, educational, Food, Girl, Girls, Kids, Makeover, Simulation

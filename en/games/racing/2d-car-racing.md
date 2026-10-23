@@ -19,6 +19,6 @@ Speeding up with Nitrous gases, maces, missiles and more power-ups are waiting f
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Car, Fun, Funny, HTML5, Racing, Retro
+- Tags: 2 Player, 2 Player Games, 2D, Car, Fun, Funny, HTML5, Racing, retro

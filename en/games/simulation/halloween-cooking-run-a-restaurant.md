@@ -19,6 +19,6 @@ Prepare, cook, and serve tasty meals from all over the world! Dash from classica
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cook, Cooking, Fun, Girl, Girls, H5, Halloween, HTML5, Kid, Kids, Restaurant
+- Tags: Baby, Cook, Cooking, Fun, Girl, Girls, H5, Halloween, HTML5, Kid, Kids, restaurant

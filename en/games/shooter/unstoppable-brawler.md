@@ -46,4 +46,4 @@ Key Features:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Arcade, Fighting
+- Tags: 3D, Action, Arcade, fighting

@@ -21,4 +21,4 @@ Get into Ski It, a charming cartoon-style skiing game where you control one of f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, HTML5, Ski, Sports
+- Tags: Arcade, HTML5, Ski, sports

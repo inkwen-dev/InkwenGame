@@ -21,4 +21,4 @@ Matching Trucks is in the genre of matching games. You need to connect three or 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kids, Match 3, Matching, Puzzle, Truck
+- Tags: Kids, Match 3, Matching, Puzzle, truck

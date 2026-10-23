@@ -21,4 +21,4 @@ Flap your winged basketball and dunk it through the hoops! Tap to fly, dive into
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Basketball, flappy-bird, Physics, Skill
+- Tags: Arcade, basketball, flappy-bird, Physics, Skill

@@ -21,4 +21,4 @@ Become a superhero with Power Girls and their miraculous pets! When Super City c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Dress Up, Fun, Girl, Girls, H5, HTML5, Makeover, Monster, Superhero
+- Tags: 2D, Animal, Dress Up, Fun, Girl, Girls, H5, HTML5, Makeover, monster, Superhero

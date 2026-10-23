@@ -19,6 +19,6 @@ SpiderMan - Vice City Gangster Fight 2021 is an epic open world third person sup
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, 3D Games, Batman, Ben 10, Car, Cars, Cartoon Network, Music, Spiderman, Superhero
+- Tags: 2 Player, 2 Player Games, 3D, 3D Games, Batman, Ben 10, Car, Cars, Cartoon Network, music, Spiderman, Superhero

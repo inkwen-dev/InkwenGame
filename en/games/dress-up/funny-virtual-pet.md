@@ -21,4 +21,4 @@ Have you ever thought about taking care of a marmot in your daily life? Meet the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Boy, Boys, cut, Decorate, Design, Dress Up, Educational, Fashion, Girl, Girls, Grooming, Makeover, Simulation
+- Tags: Animal, Boy, Boys, cut, Decorate, Design, Dress Up, educational, Fashion, Girl, Girls, Grooming, Makeover, Simulation

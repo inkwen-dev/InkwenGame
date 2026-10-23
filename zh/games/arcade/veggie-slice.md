@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 街机, 休闲, 经典, 切割, 免费游戏供您的网站使用, 游戏, 高分, HTML, 切割, 滑动, 触屏, Unity3D, WebGL
+- 标签: 单人, 街机, 休闲, 经典, 切割, 免费游戏供您的网站使用, 网页游戏, 高分, HTML, 切割, 滑动, 触摸屏, Unity3D, WebGL

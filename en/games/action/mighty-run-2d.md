@@ -21,4 +21,4 @@ Mighty Run is an exciting platformer where you jump, dodge obstacles, and battle
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Mario, Platform
+- Tags: Adventure, mario, Platform

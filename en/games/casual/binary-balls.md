@@ -19,6 +19,6 @@ Binary Balls is a game where there are two types of balls coming which have eith
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Casual, Clicker, Color

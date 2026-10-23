@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 最佳, 男孩, cars, Cartoon Network, 漂移, 漂移驾驶, 驾驶, 女孩, HTML5, 超休闲, 技巧, 超跑
+- 标签: 冒险, 最佳, 男孩, 汽车, 卡通频道, 漂移, 漂移, 驾驶, 女孩, HTML5, 超休闲, 技巧, 超跑

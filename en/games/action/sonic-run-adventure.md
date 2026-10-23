@@ -19,6 +19,6 @@ Sonic Run Adventure is fun running game suitable for all ages. Run with Sonic, t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Celebrity, Collecting, HTML5, jump, Kids, Mobile, Platform, run, running, Skill

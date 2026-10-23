@@ -21,4 +21,4 @@ In Solitaire TriPeaks Garden you can play hundreds of levels filled with the mos
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Card, Cat, HTML5, Logical, Puzzle, Relaxation, Solitaire
+- Tags: Arcade, card, Cat, HTML5, Logical, Puzzle, Relaxation, solitaire

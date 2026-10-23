@@ -21,4 +21,4 @@ Play as an RPG hero in this fun adventure game from ASRonlineGames.com. Be caref
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: RPG
+- Tags: rpg

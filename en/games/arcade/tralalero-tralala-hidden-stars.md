@@ -19,6 +19,6 @@ Discover the Magic in Tralalero Tralala Hidden Stars. Sparkly Adventures Await. 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boys, Brainrot, Brainrot Italian, Brainrot sahuuur, Fun, Girls, Hidden, Italian Brainrot, Kids, Skill

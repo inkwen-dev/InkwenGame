@@ -21,4 +21,4 @@ Wood Block Brain Puzzle Looking for a fun and addictive puzzle game that will ke
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, Best Games, Block, Brain, Classic, free games for your site, Logic, mineblock, Puzzle, Relaxation
+- Tags: 2025 games, Best Games, block, Brain, Classic, free games for your site, Logic, mineblock, Puzzle, Relaxation

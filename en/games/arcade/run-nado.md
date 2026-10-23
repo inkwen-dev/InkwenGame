@@ -19,6 +19,6 @@ Run Nado is an exhilarating endless runner game where players navigate through d
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Android, Arcade, HTML5, iPad, iPhone, Mobile, Unity3D, WebGL

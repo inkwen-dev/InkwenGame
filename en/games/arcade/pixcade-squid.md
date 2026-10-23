@@ -21,4 +21,4 @@ In the world of the twin pixel brothers, there are chests they need to collect, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, pixel

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, Android, 街机, 最佳, 休闲, 有趣, 搞笑, 女孩, 女孩们, 热门, 休闲, 孩子们, 换装, 跑, 跑步, Unity3D, WebGL
+- 标签: 3D, 安卓, 街机, 最佳, 休闲, 有趣, 搞笑, 女孩, 女孩, 热门, 超休闲, 儿童, 改造, 跑, 奔跑, Unity3D, WebGL

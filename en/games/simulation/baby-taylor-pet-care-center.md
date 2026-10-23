@@ -19,6 +19,6 @@ Baby Taylor Pet Care Center is an online Kids game, its playable on all smartpho
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cleaning, Cute, Decorate, Design, Doctor, Educational, Girl, Girls, Simulation, Surgery
+- Tags: Animal, Baby, Cleaning, Cute, Decorate, Design, Doctor, educational, Girl, Girls, Simulation, surgery

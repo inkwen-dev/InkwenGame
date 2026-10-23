@@ -19,6 +19,6 @@ You are into new car games 2022 where you can enjoy Mega Ramps Ultimate races.
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Action, Arcade, Car, Cars, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing
+- Tags: .io, Action, Arcade, Car, Cars, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, jumping, Race, Racing

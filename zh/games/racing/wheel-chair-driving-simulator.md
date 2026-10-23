@@ -21,4 +21,4 @@ WASD - 用于控制轮椅和汽车
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 救护车, 汽车, 汽车, 轮椅, 驾驶, 模拟器, Unity3D, WebGL, 方向盘
+- 标签: 救护车, 汽车, 汽车, 轮椅, 驾驶, 模拟器, Unity3D, WebGL, 轮子

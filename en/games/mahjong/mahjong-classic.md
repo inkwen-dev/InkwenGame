@@ -27,4 +27,4 @@ In the game you will find popular fields: Turtle, Fort, Crab, Spider, Cat, Drago
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mahjong
+- Tags: mahjong

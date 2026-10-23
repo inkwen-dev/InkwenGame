@@ -21,4 +21,4 @@ The ultimate mini golf battle! Become King of the golf battle match! The perfect
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Boys, Girls, Golf, Sport, Sports
+- Tags: 3D, Action, Boys, Girls, golf, Sport, sports

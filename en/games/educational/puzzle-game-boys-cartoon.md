@@ -21,4 +21,4 @@ Puzzle Game Boys is a great game to help children improve their abilities and sp
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Cartoon, Casual, Educational, HTML5, Kids, Puzzle
+- Tags: Best, Cartoon, Casual, educational, HTML5, Kids, Puzzle

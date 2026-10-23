@@ -21,4 +21,4 @@ Drawing Rainbow Rescue is an exciting adventure game where the player has to dra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Android, Arcade, Draw, Drawing, Escape, Fun, Ninjago, Puzzle
+- Tags: Adventure, Android, Arcade, Draw, drawing, Escape, Fun, Ninjago, Puzzle

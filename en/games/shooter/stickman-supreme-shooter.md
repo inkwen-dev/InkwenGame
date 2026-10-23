@@ -21,4 +21,4 @@ Get ready to start your journey as a real stickman shooter and use all your migh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Gun, Shooter, Stickman, weapons
+- Tags: 3D, Action, Gun, Shooter, stickman, weapons

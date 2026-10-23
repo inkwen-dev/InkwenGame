@@ -15,6 +15,6 @@ Leap into action with Ninja Run Jump, a fast-paced platformer that tests your ti
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Ninja
+- Tags: ninja

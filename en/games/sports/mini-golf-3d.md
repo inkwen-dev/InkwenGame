@@ -21,4 +21,4 @@ Mini Golf 3D is a smooth and addictive arcade experience with 40+ progressively 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Games Ai, Golf, mapi games, Sport, Sports
+- Tags: 8 Ball Pool, Games Ai, golf, mapi games, Sport, sports

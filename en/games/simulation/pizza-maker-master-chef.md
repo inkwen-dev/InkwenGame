@@ -19,6 +19,6 @@ Create your own delicious pizza and make this a mouth-watering experience. First
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cooking, Cute, Decorate, Educational, Girl, Girls, Kids, Simulation
+- Tags: Cooking, Cute, Decorate, educational, Girl, Girls, Kids, Simulation

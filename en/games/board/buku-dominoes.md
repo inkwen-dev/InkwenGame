@@ -21,4 +21,4 @@ Play Dominoes with friends with the Domino Master, a fast-paced, fantastic multi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Strategy
+- Tags: Board, strategy

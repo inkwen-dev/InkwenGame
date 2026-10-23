@@ -15,6 +15,6 @@ Chop your way to fortune in Splits Wood! With each satisfying click, split logs 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Clicker

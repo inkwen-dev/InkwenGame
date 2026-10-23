@@ -21,4 +21,4 @@ La meilleure simulation de parking de tous les temps est de retour sur vos table
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Driving, Parking, Race, Racing, Unity3D
+- Tags: 3D, 3D Games, Driving, parking, Race, Racing, Unity3D

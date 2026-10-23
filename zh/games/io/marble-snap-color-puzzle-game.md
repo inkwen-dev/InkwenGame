@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 单人游戏, 3D游戏, Android, 街机, 球类, 最佳游戏, 颜色, 碰撞, crazygamesunblocked, 有趣, 轻度休闲, 思维, 整理
+- 标签: .io 游戏, 单人, 3D游戏, 安卓, 街机, 球, 最佳游戏, 颜色, 碰撞, crazygamesunblocked, 有趣, 超休闲, 思维, 整理

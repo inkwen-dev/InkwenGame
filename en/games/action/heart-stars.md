@@ -19,6 +19,6 @@ Heart Star is a puzzle game created by Adventure Islands. Change the world aroun
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Click, Clicker, Monster, run, running, temple
+- Tags: Adventure, Click, Clicker, monster, run, running, temple

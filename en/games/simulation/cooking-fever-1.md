@@ -19,6 +19,6 @@ Cook, serve and enjoy delicious food at Cooking Fest. This cooking game lets you
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Burger, Food, Girl, Kid, Kids, Unity3D

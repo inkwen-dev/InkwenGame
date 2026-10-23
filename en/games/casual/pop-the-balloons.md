@@ -19,6 +19,6 @@ Pop The Balloon is a vibrant, fast-paced arcade game where you tap on rising bal
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, HTML, html5 games, Hypercasual, NapTech Games, Point And Click

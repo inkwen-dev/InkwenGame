@@ -21,4 +21,4 @@ Run super chef pizza cooking and serving restaurant, make your own yummy pizza t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Boys, Car, Cartoon, Cartoon Network, Cook, Cooking, Games, Kids, Makeover, Online, Super, Truck
+- Tags: .io, .io Games, Boys, Car, Cartoon, Cartoon Network, Cook, Cooking, Games, Kids, Makeover, Online, Super, truck

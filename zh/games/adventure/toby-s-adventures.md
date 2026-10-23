@@ -21,4 +21,4 @@ Toby 的冒险是一款解谜平台游戏。收集所有食物并到达门口以
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Adventure, 动物, HTML5, 儿童, 益智, 雪
+- 标签: 冒险, 动物, HTML5, 儿童, 益智, 雪花

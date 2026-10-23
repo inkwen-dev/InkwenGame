@@ -21,4 +21,4 @@ The unreliable ninja, forgot how to fly, can you help him go further?
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Ninja, Ninjago, Skill
+- Tags: Boy, ninja, Ninjago, Skill

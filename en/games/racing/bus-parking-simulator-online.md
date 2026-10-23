@@ -19,6 +19,6 @@ Here is a hard-core bus-parking simulation game. With 3D modern buses in a parki
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, bus, Driving, Mobile, Parking, Simulation
+- Tags: 3D, Avoid, bus, Driving, Mobile, parking, Simulation

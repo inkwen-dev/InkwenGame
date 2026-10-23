@@ -91,4 +91,4 @@ A: Yes, there is a brief tutorial at the beginning that provides basic knowledge
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Strategy, Tower Defense, Zombie
+- Tags: strategy, Tower Defense, Zombie

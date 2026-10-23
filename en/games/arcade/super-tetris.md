@@ -21,4 +21,4 @@ Super Tetris is a casual game where the blocks fall and must be placed in the em
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Classic, Fun, HTML5, Kids, Logic, Mobile, Skill, Tetris
+- Tags: Arcade, Casual, Classic, Fun, HTML5, Kids, Logic, Mobile, Skill, tetris

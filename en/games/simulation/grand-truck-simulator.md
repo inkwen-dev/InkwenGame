@@ -25,4 +25,4 @@ Feel the thrill of heavy vehicle transport, test your driving skills, and prove 
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, Driving, Simulation, Truck
+- Tags: Boys, Driving, Simulation, truck

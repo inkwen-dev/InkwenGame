@@ -21,4 +21,4 @@ Play Tom and Jerry I Can Draw Game online in your web browser and mobile at Supe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Brain, Cat, Color, Coloring, Draw, Drawing, Educational, Family, Girls, Skills
+- Tags: Boys, Brain, Cat, Color, Coloring, Draw, drawing, educational, Family, Girls, Skills

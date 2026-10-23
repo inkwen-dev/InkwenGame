@@ -21,4 +21,4 @@ Have you ever fantasized about being a millionaire casino mogul? Embark on a thr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Android, Business, Casino, Casual, iPad, iPhone, Management, Mobile, Mouse, Online, Simulation, Simulator
+- Tags: 1 Player, Android, Business, Casino, Casual, iPad, iPhone, management, Mobile, Mouse, Online, Simulation, Simulator

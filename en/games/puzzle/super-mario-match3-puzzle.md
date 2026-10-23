@@ -19,6 +19,6 @@ Transform into characters in the mario world such as mario, mushroom. . . You wi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Mario, Puzzle
+- Tags: Arcade, mario, Puzzle

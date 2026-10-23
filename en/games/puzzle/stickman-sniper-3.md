@@ -19,6 +19,6 @@ Take down all of your targets in this fun online stickman sniper game.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Gun, Puzzle, Sniper, Stickman, weapons
+- Tags: 1 Player, Gun, Puzzle, sniper, stickman, weapons

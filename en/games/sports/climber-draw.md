@@ -21,4 +21,4 @@ When you get stuck, you can draw another shape to pass!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, Adventure, Crazy, Games, HTML5, Simulation, Sports, Superhero
+- Tags: .io Games, 1 Player, Adventure, crazy, Games, HTML5, Simulation, sports, Superhero

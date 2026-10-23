@@ -19,6 +19,6 @@ Features • Christmas theme • Multiplayer or single-player gameplay • Multi
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Christmas, Multiplayer, Shooting, Snow, Unity3D, WebGL

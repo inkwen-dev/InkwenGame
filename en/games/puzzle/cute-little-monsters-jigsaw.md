@@ -21,4 +21,4 @@ Cute Little Monsters Jigsaw is a free online game in the jigsaw puzzle genre. Yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, Monster, Puzzle
+- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, monster, Puzzle

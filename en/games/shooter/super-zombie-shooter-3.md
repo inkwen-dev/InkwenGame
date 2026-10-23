@@ -15,6 +15,6 @@ Survive relentless undead assaults in Super Zombie Shooter! Navigate 3D environm
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: First Person Shooter

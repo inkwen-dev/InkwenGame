@@ -21,4 +21,4 @@ Welcome to Foot Clinic, the #1 ASMR nail salon game. Scrub, scrape, pluck, and p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Air, Boy, Boys, Collection, Crazy, Creation, Decoration, Educational, Fashion, Girl, Girls, Logic, Relaxation, Simulation, Unity3D
+- Tags: .io, .io Games, Action, Air, Boy, Boys, Collection, crazy, Creation, Decoration, educational, Fashion, Girl, Girls, Logic, Relaxation, Simulation, Unity3D

@@ -19,6 +19,6 @@ Dive into the exciting world of city racing! Choose a car from the garage - each
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, amazing, Car, Cars, Driving, free html5 games for your website, Game, Race, Racing, Road, Traffic, transport, unity

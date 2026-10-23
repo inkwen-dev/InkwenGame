@@ -19,6 +19,6 @@ A heartwarming game that celebrates love, romance, and the joy of togetherness! 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Jigsaw, valentine, valentine day, valentines

@@ -19,6 +19,6 @@ Instruments For Kids is a very fun game!. Is an HTML5 game designed for children
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Baby, Baby Hazel, Color, Music
+- Tags: 1 Player, 2D, Baby, Baby Hazel, Color, music

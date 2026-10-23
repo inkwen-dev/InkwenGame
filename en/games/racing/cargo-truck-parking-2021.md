@@ -21,4 +21,4 @@ Are you ready for driving on the sky road to perform impossible car stunt. Get b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Car, Cars, Race, Racing, Simulation, Simulator, Space, Sport, Sports, Supercars, Unity3D
+- Tags: 3D, 3D Games, Car, Cars, Race, Racing, Simulation, Simulator, Space, Sport, sports, Supercars, Unity3D

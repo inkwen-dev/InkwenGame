@@ -21,4 +21,4 @@ Annoying Uncle Punch The Meme Game Get ready for a fun and chaotic meme-style ex
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Crazy, Punch
+- Tags: Casual, crazy, Punch

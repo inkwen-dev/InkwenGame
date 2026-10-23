@@ -19,6 +19,6 @@ Ben 10 Subway Ultimate Alien Game, you can always enjoy with your heros we put l
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Adventure, Subway Surfers

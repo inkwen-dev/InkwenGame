@@ -19,6 +19,6 @@ In our new exciting game, you will manage a real dental hospital. And every day 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Doctor, Educational, Girls, HTML5, Kids, Mobile, Simulation, Surgery
+- Tags: Animal, Doctor, educational, Girls, HTML5, Kids, Mobile, Simulation, surgery

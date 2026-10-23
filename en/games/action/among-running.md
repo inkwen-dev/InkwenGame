@@ -19,6 +19,6 @@ Amoung run is an interactive game of choosing time in which you have to get as f
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Avoid, Boys, Funny, Girls, HTML5, Jumping, Mobile, Skills
+- Tags: 1 Player, Avoid, Boys, Funny, Girls, HTML5, jumping, Mobile, Skills

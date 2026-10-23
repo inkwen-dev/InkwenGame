@@ -21,4 +21,4 @@ Minions are the numerous creatures that appear in the Despicable Me franchise, w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Card, Memory, Puzzle
+- Tags: Brain, card, memory, Puzzle

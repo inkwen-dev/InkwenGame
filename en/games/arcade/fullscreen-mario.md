@@ -21,4 +21,4 @@ Full Mario game remake in HTML5 for your enjoyment!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Castle, Mario, Obstacle
+- Tags: 2D, Action, Adventure, Castle, mario, Obstacle

@@ -21,4 +21,4 @@ This is a challenging puzzle platformer in which you have to complete a level. T
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Brain, Cool, HTML5, Logic, Pixel, Platform
+- Tags: 1 Player, 2D, Arcade, Brain, cool, HTML5, Logic, pixel, Platform

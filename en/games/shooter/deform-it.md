@@ -19,6 +19,6 @@ Deform It is a game about deforming objects. There are 13 different ball options
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Ball, Casual, Clicker, Shoot

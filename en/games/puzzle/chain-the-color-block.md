@@ -21,4 +21,4 @@ Mouse
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Board, Bricks, Classic, Color, Hypercasual, Match 3
+- Tags: block, Board, Bricks, Classic, Color, Hypercasual, Match 3

@@ -21,4 +21,4 @@ Develop your passing skills in these brain-teasers known as Soccer challenge. Cl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Mobile, Puzzle, Soccer, Sports
+- Tags: HTML5, Mobile, Puzzle, Soccer, sports

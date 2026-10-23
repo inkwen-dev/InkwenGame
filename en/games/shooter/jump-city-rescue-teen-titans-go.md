@@ -21,4 +21,4 @@ It's possible now to play Jump City Rescue - Teen Titans Go a Cartoon Network ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Anime, Army, Battle, Ben 10, Best, Bomb, Boys, Brain, Cartoon, Cartoon Network, Defense, Family, Girls, HTML5, Jumping, Kids, Mobile, Monster, Rescue, running, Shooting, Superhero
+- Tags: Action, Adventure, Anime, Army, battle, Ben 10, Best, Bomb, Boys, Brain, Cartoon, Cartoon Network, Defense, Family, Girls, HTML5, jumping, Kids, Mobile, monster, Rescue, running, Shooting, Superhero

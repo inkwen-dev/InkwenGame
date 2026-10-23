@@ -21,4 +21,4 @@ Ropeman is an arcade-style old-school game in which you try to climb the ropes w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Air, Arcade, Boy, Boys, Classic, Click, Clicker, HTML5, Pixel, Retro, Rocket, Skill, Skills, Unity3D, WebGL
+- Tags: 1 Player, 2D, Adventure, Air, Arcade, Boy, Boys, Classic, Click, Clicker, HTML5, pixel, retro, Rocket, Skill, Skills, Unity3D, WebGL

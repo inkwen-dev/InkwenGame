@@ -19,6 +19,6 @@ Super Breakout is the most amazing Arcade puzzle game of all times! Control your
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Block, Bricks, Clicker, Hot, Puzzle
+- Tags: Best, block, Bricks, Clicker, Hot, Puzzle

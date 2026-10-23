@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 女孩, 跑步, 水
+- 标签: 女孩, 奔跑, 水

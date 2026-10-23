@@ -21,4 +21,4 @@ Run, jump and tumble through 25 obstacle courses across five colorful worlds! Ra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Jumping, Obstacle, Physics, ragdoll, running
+- Tags: 1 Player, jumping, Obstacle, Physics, ragdoll, running

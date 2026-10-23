@@ -19,6 +19,6 @@ Test your shooting skills in this awesome game Bottle Shooting 3D, select your w
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Shooter, Unity3D, WebGL

@@ -21,4 +21,4 @@ This is a knife-throwing game, when you hit an apple you get points. Go as far a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Click, Math, Point And Click
+- Tags: 1 Player, Click, math, Point And Click

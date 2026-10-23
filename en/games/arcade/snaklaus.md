@@ -21,4 +21,4 @@ Snaklaus is a casual and fun game. Your objective is to collect as many presents
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Avoid, Christmas, Snake
+- Tags: Adventure, Arcade, Avoid, Christmas, snake

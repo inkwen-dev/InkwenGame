@@ -19,6 +19,6 @@ Get ready for an adrenaline-fueled roller-coaster adventure like no other in Thr
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Arcade, Driving, Simulation, Simulator

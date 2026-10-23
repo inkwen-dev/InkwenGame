@@ -19,6 +19,6 @@ In the tough arcade game Floppy Skibidi, you take control of a flying toilet. Yo
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Android, Cartoon, Fun, Funny, Game, HTML, HTML5, Online, Ski, Skibidi, Skibidi Toilet
+- Tags: 2D, Action, Adventure, Android, Cartoon, Fun, Funny, Game, HTML, HTML5, Online, Ski, Skibidi, skibidi-toilet

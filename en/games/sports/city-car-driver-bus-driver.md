@@ -19,6 +19,6 @@ The most challenging car driving school and parking simulator game of 2021 Now y
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baseball, Basketball, Brawl, bus, Car, Cars, Casino, Castle, Casual, Christmas, Clash, Classic, Draw, Drawing, Love, Simulation, Simulator, subway, Subway Surfers, Supercars, Truck, War
+- Tags: baseball, basketball, Brawl, bus, Car, Cars, Casino, Castle, Casual, Christmas, Clash, Classic, Draw, drawing, Love, Simulation, Simulator, subway, Subway Surfers, Supercars, truck, War

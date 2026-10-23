@@ -17,4 +17,4 @@ Join Tori on a thrilling 2D platform escapade! Conquer eight intricate levels by
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Monster
+- Tags: monster

@@ -21,4 +21,4 @@ You need to use a magnet to pull the rope to the finish line, but you need to go
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Bridge, Casual, fly, Logic, New, Physics, Puzzle, Road, Skill, Snake, Turn
+- Tags: Arcade, Best, Bridge, Casual, fly, Logic, New, Physics, Puzzle, Road, Skill, snake, Turn

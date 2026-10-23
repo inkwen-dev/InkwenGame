@@ -19,6 +19,6 @@ Lollipop Escape Mania is a delightful platformer adventure where sugary clouds a
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, Casual, Food

@@ -21,4 +21,4 @@ A very long and entertaining story is beginning with the Grand Cyber City game. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Bike, Cars, drifting, Driving, Flight, gta, Motorcycle, Race, Rocket, Simulation, Simulator, WebGL
+- Tags: Action, battle, bike, Cars, drifting, Driving, flight, gta, Motorcycle, Race, Rocket, Simulation, Simulator, WebGL

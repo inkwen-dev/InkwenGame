@@ -21,4 +21,4 @@ Amazing prison game adventure of thrilling word prisoner escape games with tacti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Escape, Gun, Pixel, Prison, Shooting, Stickman
+- Tags: Action, Escape, Gun, pixel, Prison, Shooting, stickman

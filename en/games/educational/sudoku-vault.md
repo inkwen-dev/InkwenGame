@@ -19,6 +19,6 @@ Sudoku Vault is a logic-based puzzle game featuring 4x4, 6x6, and 9x9 boards &md
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Educational, Logic, Puzzle, Skill, Sudoku
+- Tags: Brain, educational, Logic, Puzzle, Skill, Sudoku

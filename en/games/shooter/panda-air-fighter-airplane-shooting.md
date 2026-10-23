@@ -19,6 +19,6 @@ The coolest, most intense free "airplane shooting game" is here to give you a re
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Air, Fighting, Shooting
+- Tags: Action, Air, fighting, Shooting

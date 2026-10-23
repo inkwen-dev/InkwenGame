@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 教育, 有趣, HTML5, 孩子们, 字母, 记忆, Mobile, 技巧
+- 标签: 教育, 有趣, HTML5, 儿童, 字母, 记忆, 移动设备, 技巧

@@ -21,4 +21,4 @@ Rise from the box underground to the championship and become a boxing star. Impr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Boxing, Sport, Sports
+- Tags: 1 Player, Boxing, Sport, sports

@@ -21,4 +21,4 @@ Fling Knight, an immersive and captivating gaming experience, was meticulously c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Castle, HTML5, jump, Jumping, Knight, Mobile
+- Tags: Arcade, Castle, HTML5, jump, jumping, knight, Mobile

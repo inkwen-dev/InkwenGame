@@ -21,4 +21,4 @@ Military Tanks Jigsaw game is free online game and you have 6 images of in three
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle, Tanks
+- Tags: Army, Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle, tanks

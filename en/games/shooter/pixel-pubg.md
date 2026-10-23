@@ -21,4 +21,4 @@ Pixel PUBG is a 3D shooting game where you have to choose from five different ch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Battlegrounds, Gun, Pixel, Unity3D, weapons, WebGL
+- Tags: battle, Battlegrounds, Gun, pixel, Unity3D, weapons, WebGL

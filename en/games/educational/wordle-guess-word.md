@@ -21,4 +21,4 @@ The rules are very simple: You need to guess the hidden word (from 4 to 11 lette
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Guessing, Hidden, Letters, Quiz, Word
+- Tags: Guessing, Hidden, Letters, Quiz, word

@@ -15,6 +15,6 @@ Set sail with Grandpa's Fishing Boat, a charming 2D fishing adventure. Navigate 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Fishing

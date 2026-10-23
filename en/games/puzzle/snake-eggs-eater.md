@@ -19,6 +19,6 @@ This is another snake game, where snake want to eat eggs. So your job is to navi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Puzzle, Snake
+- Tags: Puzzle, snake

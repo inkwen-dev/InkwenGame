@@ -21,4 +21,4 @@ WASD - 驾驶坦克、直升机、汽车及角色；鼠标 - 观察周围、射�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 战斗, 战场, 多人游戏, 射手, 射击游戏, 坦克, 坦克, Unity3D, 战争, WebGL
+- 标签: 战斗, 战场, 多人, 射击类, 射击, 坦克, tanks, Unity3D, 战争, WebGL

@@ -15,6 +15,6 @@ Navigate a thrilling 2D sci-fi world as a daring robot in Moo Bot 2. Conquer int
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

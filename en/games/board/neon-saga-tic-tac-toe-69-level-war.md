@@ -21,4 +21,4 @@ Are you ready to redefine everything you know about the classic game of X&rsquo;
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Brain, free html5 games for your website, Fun, Funny, HTML5, html5 games, Puzzle, puzzleblock, Strategy
+- Tags: Board, Brain, free html5 games for your website, Fun, Funny, HTML5, html5 games, Puzzle, puzzleblock, strategy

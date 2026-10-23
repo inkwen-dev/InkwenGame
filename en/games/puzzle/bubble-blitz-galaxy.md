@@ -19,6 +19,6 @@ Welcome to Bubble Blitz Galaxy! Aim and shoot bubbles towards similar ones to co
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, HTML5, Mobile, Point And Click, Shooter

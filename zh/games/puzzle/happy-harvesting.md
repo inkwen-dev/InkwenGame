@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Farm, 水果, HTML5, 三消, 匹配, 手机
+- 标签: 农场, 水果, HTML5, 三消, 匹配, 移动设备

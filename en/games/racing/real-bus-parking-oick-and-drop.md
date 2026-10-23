@@ -21,4 +21,4 @@ Bus Parking: Pick and Drop is an engaging driving simulation game that challenge
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: bus, carparking, city, Driving, Mentolatux, Parking, Sim, Unity3D
+- Tags: bus, carparking, city, Driving, Mentolatux, parking, Sim, Unity3D

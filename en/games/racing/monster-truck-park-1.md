@@ -21,4 +21,4 @@ Brain for Monster Truck Parking is a unique and imaginative driving game in whic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Car, Cars, drift, drifting, Fun, Funny, Hypercasual, Parking, Race, Racing, Supercars, Truck
+- Tags: Action, Arcade, Car, Cars, drift, drifting, Fun, Funny, Hypercasual, parking, Race, Racing, Supercars, truck

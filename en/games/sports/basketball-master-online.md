@@ -21,4 +21,4 @@ Basketball Master is an arcade-basketball game to try to get consecutive scores.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Baseball, Basketball, Fun, HTML5, Hypercasual, Kids, Mobile
+- Tags: Arcade, Ball, baseball, basketball, Fun, HTML5, Hypercasual, Kids, Mobile

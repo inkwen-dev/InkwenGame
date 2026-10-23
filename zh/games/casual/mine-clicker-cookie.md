@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 方块, 休闲, 点击, 点击器, 闲置, 挖掘, Minecraft, 矿工
+- 标签: 单人, 方块, 休闲, 点击, 点击器, idle, 挖掘, 我的世界, 矿工

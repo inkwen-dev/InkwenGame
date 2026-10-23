@@ -21,4 +21,4 @@ Strategize a plan, upgrade your knights, fight the horde and destroy their castl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Army, Battle, Clicker, Monster, War
+- Tags: Action, Army, battle, Clicker, monster, War

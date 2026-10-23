@@ -39,4 +39,4 @@ Observation and Focus as you play.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Math, Number, Puzzle
+- Tags: Brain, math, Number, Puzzle

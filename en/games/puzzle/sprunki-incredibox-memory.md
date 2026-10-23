@@ -19,6 +19,6 @@ This time in the game Sprunki Incredibox Memory you will need to improve your me
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Funny, Kids, Memory, Music, Skill
+- Tags: Fun, Funny, Kids, memory, music, Skill

@@ -21,4 +21,4 @@ Chrome Dino Game is an endless side-scrolling runner: jump and duck to dodge cac
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Dinosaur, Retro, runner, running
+- Tags: Arcade, Dinosaur, retro, runner, running

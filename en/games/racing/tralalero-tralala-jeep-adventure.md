@@ -19,6 +19,6 @@ Tralalero Tralala Jeep Adventure is a bumpy ride of giggles and thrills. Hop int
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boys, Brainrot Italian, Car, Collecting, Driving, Hypercasual, Italian Brainrot, jeep, Kids, Mobile, Tralalero Tralala

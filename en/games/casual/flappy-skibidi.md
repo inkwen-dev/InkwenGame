@@ -19,6 +19,6 @@ Flappy Skibidi is super fun flappy game that you can play online for free. Help 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Collecting, fly, jump, Skibidi, Skibidi Toilet, Skill
+- Tags: Avoid, Collecting, fly, jump, Skibidi, skibidi-toilet, Skill

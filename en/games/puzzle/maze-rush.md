@@ -19,6 +19,6 @@ Maze Rush is a game loved by players. There are many levels in the game. Maze Ru
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Ball, Boy, Boys, Brain, Logic

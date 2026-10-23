@@ -21,4 +21,4 @@ Fight back against hordes of sinister creepers. Choose from 11 different weapons
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Alien, Arcade, Arena, Battle, Blood, Boys, Castle, Classic, CSGO, Dungeon, Fight, Fighting, Fire, Fun, Gun, Hot, jump, Jumping, Mobile, Pixel, Retro, Robot, Shooter, Shooting, Undead, Unity3D, weapons, WebGL
+- Tags: 1 Player, 3D, 3D Games, Action, Alien, Arcade, Arena, battle, Blood, Boys, Castle, Classic, CSGO, Dungeon, Fight, fighting, Fire, Fun, Gun, Hot, jump, jumping, Mobile, pixel, retro, Robot, Shooter, Shooting, Undead, Unity3D, weapons, WebGL

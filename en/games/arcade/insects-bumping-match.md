@@ -19,6 +19,6 @@ Slide the ice cream blocks towards another identical block to eliminate both. Us
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Block, HTML5, Matching, Mobile, Puzzle
+- Tags: Animal, Arcade, block, HTML5, Matching, Mobile, Puzzle

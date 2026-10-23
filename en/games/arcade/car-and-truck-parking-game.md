@@ -26,4 +26,4 @@ Welcome to the world of car and truck parking games. Get ready to experience the
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, Car, Driving, Parking, Truck
+- Tags: Boys, Car, Driving, parking, truck

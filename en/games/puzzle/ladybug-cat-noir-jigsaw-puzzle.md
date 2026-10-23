@@ -19,6 +19,6 @@ Are you like Ladybug & Cat Noir ? and you want play new game of Ladybug & Cat No
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Cat, Jigsaw, Ladybug, Miraculous Ladybug, Puzzle

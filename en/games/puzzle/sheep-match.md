@@ -19,6 +19,6 @@ Everyone is playing the elimination game. It is said that only 0.1% of people ca
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Baby, Difference, Match-3, Match3, Matching, Puzzle
+- Tags: 2D, Arcade, Baby, Difference, Match 3, Match3, Matching, Puzzle

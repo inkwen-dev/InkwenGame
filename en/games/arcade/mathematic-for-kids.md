@@ -21,4 +21,4 @@ Mathematic for Kids Train your brain and beat the clock! Solve fun math equation
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ai Games, Arcade, Brain, free html5 games for your website, mapi games, Math
+- Tags: Ai Games, Arcade, Brain, free html5 games for your website, mapi games, math

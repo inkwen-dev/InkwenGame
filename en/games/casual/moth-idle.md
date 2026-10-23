@@ -19,6 +19,6 @@ Moth Idle is a simple idle game where you have a field of lamps and some moths. 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, fly

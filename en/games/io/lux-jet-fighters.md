@@ -19,6 +19,6 @@ Welcome to Jet Fighters Lux, an adventurous jet fighter airplane simulator with 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D Games, Action, Adventure, Aircraft, Battle, Battlegrounds, Casual, Fight, Machine, Magic, Plane, sky
+- Tags: .io Games, 1 Player, 3D Games, Action, Adventure, Aircraft, battle, Battlegrounds, Casual, Fight, Machine, Magic, Plane, sky

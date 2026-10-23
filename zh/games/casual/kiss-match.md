@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 安卓, kids, 亲吻, 匹配, 移动
+- 标签: 安卓, 儿童, 亲吻, 匹配, 移动设备

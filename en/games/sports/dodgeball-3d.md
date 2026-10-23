@@ -21,4 +21,4 @@ Dodgeball is a water sport game in which you will be able to play various entert
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, 3D Games, Ball, Boxing, Pool, Shoot, Shooter
+- Tags: 2 Player, 2 Player Games, 3D, 3D Games, Ball, Boxing, pool, Shoot, Shooter

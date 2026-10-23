@@ -21,4 +21,4 @@ The best car driving simulator game of 2020 comes with the most realistic drivin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Adventure, Car, Cars, Hypercasual, Race, Racing, Simulation, Simulator, Stunts, Supercars, Truck, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Adventure, Car, Cars, Hypercasual, Race, Racing, Simulation, Simulator, Stunts, Supercars, truck, Unity3D

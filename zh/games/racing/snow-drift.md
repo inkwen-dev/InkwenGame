@@ -21,4 +21,4 @@ WASD - 驾驶
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 躲避, 男孩, 汽车, 漂移, HTML5, 竞速, 雪, WebGL
+- 标签: 躲避, 男孩, 汽车, 漂移, HTML5, 比赛, 雪花, WebGL

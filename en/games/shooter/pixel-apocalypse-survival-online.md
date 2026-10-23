@@ -19,6 +19,6 @@ Tens of billions of the dead are destroying the Earth and also continuously. The
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Crazy, Minecraft, Multiplayer, Online, Shoot, Shooter, Shooting, Unity3D, WebGL, Zombie
+- Tags: crazy, Minecraft, Multiplayer, Online, Shoot, Shooter, Shooting, Unity3D, WebGL, Zombie

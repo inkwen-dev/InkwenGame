@@ -21,4 +21,4 @@ Boss Hunter Run is an exciting parkour adventure game that blends battling, and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, running, Stickman
+- Tags: battle, running, stickman

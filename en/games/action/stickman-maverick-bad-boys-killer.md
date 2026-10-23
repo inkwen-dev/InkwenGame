@@ -21,4 +21,4 @@ You are the ultimate stickman soldier and your mission is to kill all the bad bo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Battle, Kill, Stickman, War, weapons
+- Tags: Action, Adventure, battle, Kill, stickman, War, weapons

@@ -19,6 +19,6 @@ Show the world that it's possible to break heads as a job and still be able to p
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Battle, Boxing, Fighting, Street Fighting, weapons, Zombie
+- Tags: Action, Arcade, battle, Boxing, fighting, Street Fighting, weapons, Zombie

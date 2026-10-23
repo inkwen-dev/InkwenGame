@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 摩托车, 驾驶, 摩托, 摩托车, Unity3D, WebGL
+- 标签: 自行车, 驾驶, 摩托, 摩托车, Unity3D, WebGL

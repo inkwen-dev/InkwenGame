@@ -21,4 +21,4 @@ MAGIC JOJO SIWA PIANO TILES it's a challenging game and also it's really easy ju
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Games, Girl, Music
+- Tags: Arcade, Casual, Games, Girl, music

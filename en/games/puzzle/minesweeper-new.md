@@ -19,6 +19,6 @@ Minesweeper is a classic addictive puzzle game with different difficulty levels 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bomb, Casual, free html5 games for your website, html games for your website, HTML5, html5 games, html5 games for your site, Logic, Mine, Puzzle

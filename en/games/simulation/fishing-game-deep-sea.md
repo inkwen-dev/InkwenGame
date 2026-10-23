@@ -21,4 +21,4 @@ Time for a Fishing!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Action, Adult, Adventure, Arcade, Board, Casual, Fish, Fishing, Hypercasual, IO, PacMan, sky, Space
+- Tags: .io, .io Games, Action, Adult, Adventure, Arcade, Board, Casual, Fish, Fishing, Hypercasual, PacMan, sky, Space

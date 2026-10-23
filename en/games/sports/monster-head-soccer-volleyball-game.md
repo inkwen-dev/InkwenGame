@@ -21,4 +21,4 @@ In this lively and colourful sports game you will be serving and attacking your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Baseball, Best, Bounce, Football, Turn Based
+- Tags: Ball, baseball, Best, Bounce, Football, Turn Based

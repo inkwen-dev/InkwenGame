@@ -21,4 +21,4 @@ Do you crave explosive puzzle action? Dive into Dice Merge Challenges, a game th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2048, Arcade, Block, Board, Casual, Hypercasual, mineblock, Puzzle, puzzleblock, Tetris
+- Tags: 1 Player, 2048, Arcade, block, Board, Casual, Hypercasual, mineblock, Puzzle, puzzleblock, tetris

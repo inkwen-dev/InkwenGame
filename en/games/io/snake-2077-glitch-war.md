@@ -27,4 +27,4 @@ Can you survive the glitch and top the global leaderboard?
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: .io, PvP, Snake
+- Tags: .io, PvP, snake

@@ -21,4 +21,4 @@ Hey player, would you like to have a cooking competition with your friend? In th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Arcade, Arena, Battle, mineblock, Minecraft, Platform
+- Tags: 2 Player, 2 Player Games, 2D, Arcade, Arena, battle, mineblock, Minecraft, Platform

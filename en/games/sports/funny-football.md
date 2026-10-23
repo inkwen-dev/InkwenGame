@@ -21,4 +21,4 @@ Get ready for the Funny Football with this wild game that mixes soccer with pach
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Funny, Shooter, Shooting, Sport, Sports
+- Tags: Football, Funny, Shooter, Shooting, Sport, sports

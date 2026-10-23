@@ -17,4 +17,4 @@ Dive into the nostalgia of 3D Pinball - Space Cadet, where a vibrant space-theme
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Retro
+- Tags: retro

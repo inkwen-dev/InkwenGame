@@ -19,6 +19,6 @@ Find the Missing Number is a fun and educational math puzzle game. Look at the n
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Educational, Logic, Math, Number
+- Tags: Brain, Casual, educational, Logic, math, Number

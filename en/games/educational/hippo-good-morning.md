@@ -21,4 +21,4 @@ This is an educational game designed for kids. Each citizen has his interesting 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kids
+- Tags: educational, Kids

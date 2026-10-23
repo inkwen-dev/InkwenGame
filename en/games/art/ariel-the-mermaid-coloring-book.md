@@ -19,6 +19,6 @@ The Little Mermaid Coloring book: Ariel The Mermaid coloring book for kids , 8 P
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boys, Color, Coloring, Game, Girls, Kids, Mario, Mermaid, Online, Puzzle, Summer
+- Tags: 2D, Boys, Color, Coloring, Game, Girls, Kids, mario, Mermaid, Online, Puzzle, Summer

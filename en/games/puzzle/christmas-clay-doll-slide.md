@@ -19,6 +19,6 @@ Play this slide puzzle games of the christmas clay doll. It's include 3 images a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, HTML5, Mobile

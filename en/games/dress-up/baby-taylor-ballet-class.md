@@ -21,4 +21,4 @@ Baby Taylor has always loved the elegant and beautiful dance of ballet. Her drea
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Dancing, Decorate, Decoration, Design, Dress Up, Educational, Girl, Girls, Kids, Makeover, Simulation
+- Tags: Baby, Dancing, Decorate, Decoration, Design, Dress Up, educational, Girl, Girls, Kids, Makeover, Simulation

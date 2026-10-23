@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 方块, 矿井, Minecraft, Moto, 摩托车, 竞速, 赛车, 跑步, 卡车
+- 标签: 方块, 挖掘, 我的世界, 摩托, 摩托车, 比赛, 竞速, 奔跑, 卡车

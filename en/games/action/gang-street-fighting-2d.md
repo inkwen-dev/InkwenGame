@@ -21,4 +21,4 @@ A fun and excellent vintage fighting action game, Gang Street Fighting 2D allows
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Fight, Fighting, Street Fighting, Unity3D, WebGL
+- Tags: 1 Player, 2D, Fight, fighting, Street Fighting, Unity3D, WebGL

@@ -21,4 +21,4 @@ Enter the most nervous stickman battles. In Stick Hero Fight, you as a mighty st
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fight, Stickman, Superhero
+- Tags: battle, Fight, stickman, Superhero

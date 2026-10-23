@@ -21,4 +21,4 @@ Welcome to the famous Super Flappy Mario. The rules are very simple : Tap to fly
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Clicker, fly, Hot, Mario, Superhero
+- Tags: Best, Clicker, fly, Hot, mario, Superhero

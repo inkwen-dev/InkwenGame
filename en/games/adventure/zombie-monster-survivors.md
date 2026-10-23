@@ -21,4 +21,4 @@ In a world ravaged by a zombie virus, you are one of the last survivors. Each pl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mobile, Monster, survival, Zombie
+- Tags: Mobile, monster, survival, Zombie

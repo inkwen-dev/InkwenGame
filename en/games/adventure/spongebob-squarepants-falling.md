@@ -19,6 +19,6 @@ Fly up all-new worlds in SpongeBob Squarepants Falling! SpongeBob is flying to f
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Baby, Bounce, Boy, Boys, Casual, Flight, fly, H5, HTML5, Race, sky
+- Tags: Action, Adventure, Baby, Bounce, Boy, Boys, Casual, flight, fly, H5, HTML5, Race, sky

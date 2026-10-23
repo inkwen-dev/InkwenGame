@@ -19,6 +19,6 @@ The game "Stair Run 2" is a continuation of your favorite game about running ove
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Boy, Boys, Collecting, HTML, HTML5, Hypercasual, Kid, Kids, run, running, Side Scrolling

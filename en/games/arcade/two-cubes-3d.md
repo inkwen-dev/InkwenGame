@@ -19,6 +19,6 @@ Two Cubes 3D game is a vertical endless retro tunnel game. Try to control the cu
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 3D Games, Arcade, Skills

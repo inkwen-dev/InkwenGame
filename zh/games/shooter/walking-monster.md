@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 街机, HTML5, 儿童, 怪物, 射击, 僵尸
+- 标签: 动作, 街机, HTML5, 儿童, monster, 射击, 僵尸

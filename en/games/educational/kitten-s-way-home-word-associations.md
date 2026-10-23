@@ -23,4 +23,4 @@ Test yourself and your erudition. Can you guess all the associations?
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, Puzzle, Quiz, scrabble, two-player, words
+- Tags: Brain, educational, Puzzle, Quiz, scrabble, two-player, words

@@ -19,6 +19,6 @@ Play as a God, build your own solar. Roaming the universe to collect GP (God poi
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Hypercasual, Physics, Planet, Sandbox, Simulation, Space, Unity3D

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 街机, 躲避, 最佳, 休闲, 收集, 有趣, 女孩, HTML5
+- 标签: 安卓, 街机, 躲避, 最佳, 休闲, 收集, 有趣, 女孩, HTML5

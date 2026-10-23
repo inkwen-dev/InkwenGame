@@ -19,6 +19,6 @@ Stand your ground in wave after wave of enemies in this unique twist on the clas
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Fun, Racing, Shoot, Shooter, Space

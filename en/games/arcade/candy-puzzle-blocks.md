@@ -19,6 +19,6 @@ You love the Tetris game, you also love candy games, then this game is dedicated
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Block, Brain, Candy, Casual, Mobile, Tetris
+- Tags: Arcade, Best, block, Brain, Candy, Casual, Mobile, tetris

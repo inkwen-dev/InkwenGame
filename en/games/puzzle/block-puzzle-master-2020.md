@@ -21,4 +21,4 @@ Simple but addictive puzzle game! "Block Puzzle Master 2020 very funny and class
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Puzzle
+- Tags: block, Puzzle

@@ -21,4 +21,4 @@ spelling words is a fun puzzle game. it's good to learn to spell for your kids a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Casual, Educational, Hypercasual, Kids, Puzzle
+- Tags: Baby, Casual, educational, Hypercasual, Kids, Puzzle

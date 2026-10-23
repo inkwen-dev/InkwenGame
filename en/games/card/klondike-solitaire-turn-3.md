@@ -21,4 +21,4 @@ A classic solitaire game where you draw cards 3 by 3. You must rebuild the 4 sui
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Solitaire
+- Tags: card, solitaire

@@ -21,4 +21,4 @@ Have fun dressing up your ponies ! You own several ponies and it's time to dress
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Dress Up, Family, Girls, Horse, Hypercasual
+- Tags: Arcade, Casual, Dress Up, Family, Girls, horse, Hypercasual

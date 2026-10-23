@@ -19,6 +19,6 @@ Bubble Hunter is a cool bubble shooter game. You are a little boy who goes on an
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Android, Arcade, Bejeweled, Boys, Classic, Girls, HTML5, Jewel

@@ -21,4 +21,4 @@ Do you love Real kung fu fighting games or ring fighting battles games or best s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Boys, Fight, Fighting, Street Fighting
+- Tags: Action, Boys, Fight, fighting, Street Fighting

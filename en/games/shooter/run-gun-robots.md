@@ -19,6 +19,6 @@ Run Gun Robots is a run and gun game, where you have to jump from building to bu
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Android, Avoid, Casual, Escape, Jumping, Mobile, Pixel, Retro, Robot, run, running, Shoot, Shooter, Shooting, Side Scrolling
+- Tags: 1 Player, 2D, Action, Adventure, Android, Avoid, Casual, Escape, jumping, Mobile, pixel, retro, Robot, run, running, Shoot, Shooter, Shooting, Side Scrolling

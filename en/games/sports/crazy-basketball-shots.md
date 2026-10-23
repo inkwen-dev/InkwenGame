@@ -21,4 +21,4 @@ Step into the thrilling world of Crazy Basketball Shots, where precision meets f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Crazy, Hypercasual, Kids, Shoot, Sport, Sports
+- Tags: basketball, crazy, Hypercasual, Kids, Shoot, Sport, sports

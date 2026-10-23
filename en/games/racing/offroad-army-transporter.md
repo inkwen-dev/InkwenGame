@@ -21,4 +21,4 @@ If you like to play car driving simulation games, you will like this vehicle dri
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Adventure, Arcade, Army, Boy, Car, Driving, Parking, Simulation, Tank, Truck, vehicle, WebGL
+- Tags: 1 Player, 3D, Adventure, Arcade, Army, Boy, Car, Driving, parking, Simulation, Tank, truck, vehicle, WebGL

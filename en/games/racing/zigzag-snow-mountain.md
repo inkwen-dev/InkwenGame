@@ -19,6 +19,6 @@ Just Freeskiing is a highly authentic ski/freeski simulation with sheer endless 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player Games, 3D Games, Adventure, Arcade, Casual, drifting, Fun, Hypercasual, Island, Snow

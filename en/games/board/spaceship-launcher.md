@@ -21,4 +21,4 @@ Click on 3 or more similar blocks to get them eliminated. Your goal is to clear 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Board, HTML5, Mobile, Puzzle, Space, Spaceship
+- Tags: block, Board, HTML5, Mobile, Puzzle, Space, Spaceship

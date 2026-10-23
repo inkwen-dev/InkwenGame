@@ -19,6 +19,6 @@ Welcome to the underwater connect puzzle game part2 called Sea fish Onet. be qui
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Clicker, Fish, Mahjong, Matching, Puzzle
+- Tags: Casual, Clicker, Fish, mahjong, Matching, Puzzle

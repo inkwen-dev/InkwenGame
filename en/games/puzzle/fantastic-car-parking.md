@@ -21,4 +21,4 @@ Extreme Car Parking Game 3D: Car Racing Free Games drives you crazy. Broken Diam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Ballon, Barbie, Block, Boy, Boys, Bricks, Bubble, Bubble Shooter, bus, Candy, Car, Cars, Chicken, city, Dancing, drift, Driving, Fashion, Hello Kitty, Mario, Parking, Play, Race, Racing, Simulation, Slacking, Snow, Supercars
+- Tags: Adult, Ballon, Barbie, block, Boy, Boys, Bricks, Bubble, Bubble Shooter, bus, Candy, Car, Cars, Chicken, city, Dancing, drift, Driving, Fashion, Hello Kitty, mario, parking, Play, Race, Racing, Simulation, Slacking, Snow, Supercars

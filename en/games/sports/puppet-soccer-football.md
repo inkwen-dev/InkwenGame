@@ -19,6 +19,6 @@ Smash the football and score goals in this addicting pocket puppet soccer 2019 g
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Game, Games, Soccer, Sport, Sports
+- Tags: Football, Game, Games, Soccer, Sport, sports

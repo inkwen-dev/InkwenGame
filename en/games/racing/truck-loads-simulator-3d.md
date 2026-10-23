@@ -19,6 +19,6 @@ Truck Loads Simulator 3D is a unique truck game in the categories of cargo truck
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boys, Car, Driving, HTML5, Simulation, Truck, WebGL
+- Tags: 3D, Boys, Car, Driving, HTML5, Simulation, truck, WebGL

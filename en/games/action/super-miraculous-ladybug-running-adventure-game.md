@@ -19,6 +19,6 @@ Super adventure of Ladybug ! Be ready to enjoy this jumping and running game! Ne
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Cat, jump, Ladybug, Mario, Miraculous Ladybug, run, Super, World
+- Tags: Adventure, Cat, jump, Ladybug, mario, Miraculous Ladybug, run, Super, World

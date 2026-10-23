@@ -21,4 +21,4 @@ You can plow, sow and harvest using lots of different machines ! Sell your harve
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Casual, Farm, Hypercasual, Simulation, Simulator, Strategy
+- Tags: Adventure, Arcade, Casual, Farm, Hypercasual, Simulation, Simulator, strategy

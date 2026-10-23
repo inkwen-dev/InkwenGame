@@ -21,4 +21,4 @@ he best hot the wheels scale up & down game to race and jump like a happy car dr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, Action, Adventure, Anime, Arcade, Casual, Clash, Crazy, Fun, Games, Hypercasual, Racing
+- Tags: .io Games, 3D, Action, Adventure, Anime, Arcade, Casual, Clash, crazy, Fun, Games, Hypercasual, Racing

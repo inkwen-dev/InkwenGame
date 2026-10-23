@@ -21,4 +21,4 @@ Welcome to Avoid You Dying game. Hit the target to complete the levels. Sounds f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Kids, Shooting, Stickman
+- Tags: Action, Kids, Shooting, stickman

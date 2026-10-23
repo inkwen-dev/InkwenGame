@@ -19,6 +19,6 @@ The snakes are trapped! Need your help to escape. Very simple but brain-burning 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Animal, Arcade, Casual, Escape, Hypercasual, Online, Puzzle, Quiz, Snake
+- Tags: 3D Games, Animal, Arcade, Casual, Escape, Hypercasual, Online, Puzzle, Quiz, snake

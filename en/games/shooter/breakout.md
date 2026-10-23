@@ -21,4 +21,4 @@ Welcome to the most addictive and fun brick breaker game you’ve ever seen or p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Bricks, Casual, HTML5, Shoot, Shoot 'Em Up, Shooting
+- Tags: Arcade, block, Bricks, Casual, HTML5, Shoot, Shoot 'Em Up, Shooting

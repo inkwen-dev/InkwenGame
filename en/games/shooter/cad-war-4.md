@@ -19,6 +19,6 @@ Most recently, your soldier participated in a hostage rescue operation that ende
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Boy, HTML5, Shoot, Shoot 'Em Up, Shooter, weapons, WebGL

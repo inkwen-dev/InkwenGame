@@ -21,4 +21,4 @@ Dangerous zombies have overrun the city, pushing humanity to the brink of extinc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2026 games, Arcade, Battle, Best Games, Enemy, Shooting, Skill, Superhero, survival
+- Tags: .io Games, 2026 games, Arcade, battle, Best Games, Enemy, Shooting, Skill, Superhero, survival

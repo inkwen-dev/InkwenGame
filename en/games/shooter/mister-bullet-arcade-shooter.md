@@ -32,4 +32,4 @@ Forward to the Battle!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, cool-games, Gun, Shooting, Sniper
+- Tags: Action, Arcade, cool-games, Gun, Shooting, sniper

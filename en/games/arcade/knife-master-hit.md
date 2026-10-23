@@ -19,6 +19,6 @@ Knife Master Hit - Throw On Target is best challenge game. Throw the knife on ro
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Arcade, unity

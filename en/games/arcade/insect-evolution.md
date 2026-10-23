@@ -21,4 +21,4 @@ Insect Evolution is a casual mobile game for passing levels; you are a little an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Strategy
+- Tags: Action, strategy

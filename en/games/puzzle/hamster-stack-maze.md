@@ -19,6 +19,6 @@ Hamster Stack Maze is a very fun leisure puzzle game for boys for free. In the g
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Animal, Boy, Brain, Fun, HTML5, Kids, Maze, Online, Puzzle, Skill, Stack

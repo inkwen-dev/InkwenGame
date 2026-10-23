@@ -21,4 +21,4 @@ Do you like to participate in exciting bike races? Cycle Sprint is a good choice
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Bike, Boy, Boys, H5, HTML5, Kid, Kids, Race, Racing
+- Tags: 3D, 3D Games, bike, Boy, Boys, H5, HTML5, Kid, Kids, Race, Racing

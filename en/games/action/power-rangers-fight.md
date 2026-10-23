@@ -19,6 +19,6 @@ Power Rangers have to protect his mystical powerhouse from enemies. You have to 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Boy, Cartoon, Fight, Fighting, Game, HTML5
+- Tags: Action, Boy, Cartoon, Fight, fighting, Game, HTML5

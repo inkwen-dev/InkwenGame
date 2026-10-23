@@ -19,6 +19,6 @@ Choose one of 4 couples with different skin colors and dress them up for a date!
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Casual, Dress Up, Girl, Girls, HTML5, Hypercasual

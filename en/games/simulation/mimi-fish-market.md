@@ -19,6 +19,6 @@ Mimi the cat just took over a tiny fish stall on a sunny wooden pier - and she h
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Animal, Cat, Cool, Fishing, Simulation
+- Tags: 1 Player, 3D, 3D Games, Animal, Cat, cool, Fishing, Simulation

@@ -19,6 +19,6 @@ You want to know what it&rsquo;s like to run your own burger joint? Well, now yo
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Cooking, Decoration, Food, Funny, HTML5, Management, Mobile, Simulation
+- Tags: Android, Cooking, Decoration, Food, Funny, HTML5, management, Mobile, Simulation

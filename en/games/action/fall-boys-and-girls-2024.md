@@ -21,4 +21,4 @@ Fall Boys and Girls 2024 brings a thrilling twist to competitive gaming! Join co
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fall Boys, Fall Guys, Jumping, Mentolatux, Multiplayer, run, running, unity games, WebGL
+- Tags: Fall Boys, Fall Guys, jumping, Mentolatux, Multiplayer, run, running, unity games, WebGL

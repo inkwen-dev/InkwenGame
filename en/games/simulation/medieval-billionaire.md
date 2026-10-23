@@ -21,4 +21,4 @@ Dreaming about becoming rich? Stop dreaming and start working on it right now! O
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Click, endless, Management
+- Tags: Best, Click, endless, management

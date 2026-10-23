@@ -19,6 +19,6 @@ Try to be the best basketball shooter in the league. How many basket can you mak
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Basketball, Bounce, Casual, Shoot, Sports
+- Tags: Arcade, Ball, basketball, Bounce, Casual, Shoot, sports

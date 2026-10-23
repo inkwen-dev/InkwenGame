@@ -21,4 +21,4 @@ Classic Sudoku Puzzle is an addictive number game to test your brain power. You 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Word
+- Tags: 1 Player, word

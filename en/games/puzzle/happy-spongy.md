@@ -19,6 +19,6 @@ The Spongy is sad because it is empty. Your mission is to draw a line to fill th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Casual, Puzzle

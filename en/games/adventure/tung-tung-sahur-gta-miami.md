@@ -19,6 +19,6 @@ Tung Tung Sahur: GTA Miami drops you into the chaotic, neon-soaked streets of Mi
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, gta, Stunts

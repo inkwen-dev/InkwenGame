@@ -21,4 +21,4 @@ Train your brain in this addictive logical arcade challenge with classic block s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Game, Games, HTML, HTML5, Jewel, Logic, Logical, Math, Puzzle, Tetris
+- Tags: block, Game, Games, HTML, HTML5, Jewel, Logic, Logical, math, Puzzle, tetris

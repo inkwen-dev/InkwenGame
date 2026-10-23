@@ -19,6 +19,6 @@ Play Endless Sprunki and try to reach the best possible record! The goal of the 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, mapi games, Sprunki

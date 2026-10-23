@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 街机, cars, 疯狂, 漂移, 驾驶, 无尽, HTML5
+- 标签: 2D, 街机, 汽车, 疯狂, 漂移, 驾驶, 无尽, HTML5

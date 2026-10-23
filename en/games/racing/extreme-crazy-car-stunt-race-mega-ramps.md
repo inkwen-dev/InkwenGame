@@ -19,6 +19,6 @@ Playing vertical ramp car racing stunts on your mobile device and living on the 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Best Games, Car, drift, drifting, Driving, Memory, Race, Racing
+- Tags: 3D, Adventure, Best Games, Car, drift, drifting, Driving, memory, Race, Racing

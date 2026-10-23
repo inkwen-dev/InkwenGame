@@ -19,6 +19,6 @@ Ice Cream Chocolate Doll Cake Maker 2020 This Cute Doll bakery boss has opened a
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cake, Candy, Christmas, Classic, Coloring, Cooking, Dating, Decoration, Games, Girls, Kids, Restaurant
+- Tags: Cake, Candy, Christmas, Classic, Coloring, Cooking, Dating, Decoration, Games, Girls, Kids, restaurant

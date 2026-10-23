@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 格鬥, 搞笑
+- 标签: 格斗, 搞笑

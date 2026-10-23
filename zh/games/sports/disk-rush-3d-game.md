@@ -21,4 +21,4 @@ Disk Rush & 3D 游戏是一款快节奏的3D街机游戏，你需要反应迅速
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 躲避, 益智, 运动
+- 标签: 3D游戏, 躲避, 益智, 体育

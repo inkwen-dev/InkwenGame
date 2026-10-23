@@ -21,4 +21,4 @@ Elemental Barrage is a casual volley shooter. Monsters march down the board row 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Bubble Shooter, Highscore, Monster, Shoot
+- Tags: Ball, Bubble Shooter, Highscore, monster, Shoot

@@ -19,6 +19,6 @@ The most fun squeeze the bus game of the year is here, Overloaded Bus is a super
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Boy, Brain, bus, Car, Driving, Game, HTML5, Kids, Obstacle, Online, Puzzle, Simulation

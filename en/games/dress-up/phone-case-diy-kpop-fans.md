@@ -21,4 +21,4 @@ Welcome to Phone Case DIY Kpop Fans, a casual fashion design game that you can p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cool, Design, Fashion, iPhone
+- Tags: cool, Design, Fashion, iPhone

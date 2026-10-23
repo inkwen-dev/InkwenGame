@@ -21,4 +21,4 @@ Dinosaur Jigsaw is a free online game from genre of puzzle and jigsaw really sui
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Family, HTML, HTML5, Jigsaw, Kids, Mobile, Puzzle
+- Tags: educational, Family, HTML, HTML5, Jigsaw, Kids, Mobile, Puzzle

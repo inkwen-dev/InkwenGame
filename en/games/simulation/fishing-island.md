@@ -21,4 +21,4 @@ Turn a tiny pier into a giant automated fishing port! Fish with your rod from th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, cozy, Fishing, idle, Management, tycoon
+- Tags: 3D, Arcade, cozy, Fishing, idle, management, tycoon

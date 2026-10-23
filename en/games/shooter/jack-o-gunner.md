@@ -21,4 +21,4 @@ Jack-O Gunner is a casual action and survival game with Halloween theme. Your ai
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Android, Arena, Crazy, endless, Fun, Halloween, Hypercasual, Monster, Shoot, Shoot 'Em Up, Shooter, Shooting
+- Tags: 1 Player, 3D, 3D Games, Action, Android, Arena, crazy, endless, Fun, Halloween, Hypercasual, monster, Shoot, Shoot 'Em Up, Shooter, Shooting

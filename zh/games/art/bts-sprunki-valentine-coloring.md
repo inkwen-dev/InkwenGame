@@ -21,4 +21,4 @@ BTS Sprunki 情人节涂色是一款专为儿童设计的有趣且免费的在�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 涂色, 免费HTML5游戏，适用于您的网站, HTML5, 休闲类, 儿童, 学校, Sprunki
+- 标签: 着色, 免费HTML5游戏供您的网站使用, HTML5, 超休闲, 儿童, 学校, 斯普朗基

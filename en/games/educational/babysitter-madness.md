@@ -21,4 +21,4 @@ Do you want to be a babysitter? Let's learn about the babysitter and baby care! 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: Baby, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

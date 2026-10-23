@@ -21,4 +21,4 @@ Christmas Trucks Memory is a game where you have to memorize the positions of di
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, HTML5, Memory, Puzzle
+- Tags: Christmas, HTML5, memory, Puzzle

@@ -1,0 +1,24 @@
+# 公主糖果化妆 - 甜美女孩换装
+
+<a href="https://inkwengame.com/zh/games/princess-candy-makeup-sweet-girls-makeover" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/princess-candy-makeup-sweet-girls-makeover/cover.jpg)
+
+欢迎来到公主糖果化妆！让我们一起学习造型吧！这次他们为你准备了全新的东西，各种各样的甜点。糖果、冰淇淋、蛋糕、巧克力、棒棒糖……但你相信吗？它们都可以作为配饰，搭配衣服、发型、妆容和首饰。现在是否充满好奇？快来一探究竟，用想象力设计属于你的风格吧。
+
+## 怎么玩
+
+点击或轻触
+
+## 介绍
+
+欢迎来到公主糖果化妆！让我们一起学习造型吧！这次他们为你准备了全新的东西，各种各样的甜点。糖果、冰淇淋、蛋糕、巧克力、棒棒糖……但你相信吗？它们都可以作为配饰，搭配衣服、发型、妆容和首饰。现在是否充满好奇？快来一探究竟，用想象力设计属于你的风格吧。
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/dress-up" target="_blank" rel="noopener noreferrer">换装</a>
+- 画面方向: portrait
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 装扮, 女孩, 女孩, H5, HTML5, 超休闲, 儿童, 儿童, 改造

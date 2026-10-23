@@ -55,4 +55,4 @@ Can you become the ultimate arena champion? Roll the dice and find out !
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Multiplayer, Stickman, Strategy
+- Tags: Multiplayer, stickman, strategy

@@ -21,4 +21,4 @@ Get ready for a fun and creative journey with Tom Coloring Book! Explore 20 deli
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cat, Color, Coloring, Draw, Drawing, Girls, Hello Kitty, HTML5, Hypercasual, Kids, School
+- Tags: Boys, Cat, Color, Coloring, Draw, drawing, Girls, Hello Kitty, HTML5, Hypercasual, Kids, School

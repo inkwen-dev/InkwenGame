@@ -21,4 +21,4 @@ This is Block Tetriz game with Christmas theme. Use left, right and down keys to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Board, Christmas, Fun, HTML, HTML5, Mobile, Puzzle, Tetris
+- Tags: block, Board, Christmas, Fun, HTML, HTML5, Mobile, Puzzle, tetris

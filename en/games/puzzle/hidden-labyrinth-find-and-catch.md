@@ -15,6 +15,6 @@ Navigate mesmerizing mazes in Hidden Labyrinth - Find and Catch. Steer your blue
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Puzzle

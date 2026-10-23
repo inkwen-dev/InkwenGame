@@ -21,4 +21,4 @@ You just need to match the pictures to the correct words. How To Play: It’s re
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Educational, Family, HTML, HTML5, Letters, Matching, Word
+- Tags: Animal, educational, Family, HTML, HTML5, Letters, Matching, word

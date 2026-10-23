@@ -21,4 +21,4 @@ Play Hulk Bubble Shooter Games is a fun Game bubble burst game with 70 unique le
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Bubble Shooter, Drawing, HTML5, Match 3, Mobile
+- Tags: Anime, Bubble Shooter, drawing, HTML5, Match 3, Mobile

@@ -21,4 +21,4 @@ Doomsday Zombie TD is a cool and exciting tower defense game. You aim to defend 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Defense, Strategy, Tower Defense, weapons, Zombie
+- Tags: Defense, strategy, Tower Defense, weapons, Zombie

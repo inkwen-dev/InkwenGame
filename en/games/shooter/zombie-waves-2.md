@@ -21,4 +21,4 @@ Face endless chaos in Zombie Waves, an intense action and strategy game. Waves o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Defense, Fighting, Strategy, Zombie
+- Tags: Defense, fighting, strategy, Zombie

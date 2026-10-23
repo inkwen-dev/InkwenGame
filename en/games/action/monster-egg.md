@@ -19,6 +19,6 @@ Begin the wildest evolution adventure ever in Monster Egg! This is not just a si
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, eggs, Monster, running
+- Tags: Action, eggs, monster, running

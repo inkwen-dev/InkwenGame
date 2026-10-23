@@ -19,6 +19,6 @@ SlovoLom - is an exciting word puzzle , in which you need to make new words from
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Brain, Educational, HTML5, html5 games, Kids, Levels, Logic, Puzzle, unity games for your site, Unity3D, Word
+- Tags: 2D, Brain, educational, HTML5, html5 games, Kids, Levels, Logic, Puzzle, unity games for your site, Unity3D, word

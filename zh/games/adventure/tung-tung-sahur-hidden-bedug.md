@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 惊人的, 隐藏, 恐怖
+- 标签: 单人, 2D, 惊人, 隐藏, 恐怖

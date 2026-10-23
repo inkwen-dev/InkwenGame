@@ -21,4 +21,4 @@ Do you love adventure games? Welcome to Piggy Mario! You are the fat piggy and s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Best, Hot, Mario
+- Tags: Adventure, Arcade, Best, Hot, mario

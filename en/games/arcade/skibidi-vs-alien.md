@@ -21,4 +21,4 @@ Skibidi Vs. Alien is an endless runner survival game where you play as Skibidi, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Alien, Arcade, Casual, Fun, Game, Games, HTML, HTML5, Hypercasual, Online, Skibidi, Skibidi Toilet
+- Tags: Action, Adventure, Alien, Arcade, Casual, Fun, Game, Games, HTML, HTML5, Hypercasual, Online, Skibidi, skibidi-toilet

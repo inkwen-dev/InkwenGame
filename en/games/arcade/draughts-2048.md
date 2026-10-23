@@ -21,4 +21,4 @@ Relaxing game with awesome physics and sound effects. Merge draughts and partici
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Cool, Fun
+- Tags: 3D, Arcade, cool, Fun

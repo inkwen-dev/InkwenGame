@@ -21,4 +21,4 @@ An old school arcade game comes for retro game lovers! Try to reach to highest s
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Click, jump, Jumping, Pixel, Platform
+- Tags: Animal, Arcade, Click, jump, jumping, pixel, Platform

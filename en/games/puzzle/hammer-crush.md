@@ -19,6 +19,6 @@ Hammer Crush is the latest sensation, revolving around aligning elements to targ
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Android, HTML5, Hypercasual, iPad, iPhone, Kids, Mentolatux, Mobile, Puzzle, Unity3D, WebGL

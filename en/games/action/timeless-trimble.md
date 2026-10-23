@@ -19,6 +19,6 @@ Explore the world of action with a smooth simulation and gameplay of &lsquo;Time
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Casual, Platform

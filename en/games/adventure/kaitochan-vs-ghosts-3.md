@@ -15,6 +15,6 @@ Dive into the eerie world of Kaitochan vs Ghosts, a captivating 2D platformer. N
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Horror

@@ -21,4 +21,4 @@ Yui Christmas Adventure is a 2D Christmas themed platformer where you play as an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Christmas, Collecting, Girl, jump, Jumping, Monster, Pixel, Platform, Retro, Snow
+- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Christmas, Collecting, Girl, jump, jumping, monster, pixel, Platform, retro, Snow

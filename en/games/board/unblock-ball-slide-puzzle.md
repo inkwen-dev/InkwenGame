@@ -19,6 +19,6 @@ Unblock Ball is a simple and addictive rolling ball puzzle game. Use and storm y
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Block, Board, Brain, HTML5, Physics, Puzzle, WebGL
+- Tags: Ball, block, Board, Brain, HTML5, Physics, Puzzle, WebGL

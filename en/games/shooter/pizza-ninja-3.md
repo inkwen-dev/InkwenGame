@@ -21,4 +21,4 @@ Pizza ingredients juggling through the air, ninja slicing skills needed! Custome
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, HTML, HTML5, Ninja, Shooting
+- Tags: Action, Arcade, HTML, HTML5, ninja, Shooting

@@ -19,6 +19,6 @@ Spinny Santa Claus is super fun free to play online game with the Cristmas theme
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, Christmas, Girls, HTML5, Hypercasual, jump, Kids, Mobile, Obstacle, Puzzle, Skill, Winter

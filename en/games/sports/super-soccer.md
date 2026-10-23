@@ -21,4 +21,4 @@ Super Soccer is an unblocked game to play online in your browser for free, free 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Football, Fun, Girls, Soccer, Sport, Sports
+- Tags: Boys, Football, Fun, Girls, Soccer, Sport, sports

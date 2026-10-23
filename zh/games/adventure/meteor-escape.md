@@ -21,4 +21,4 @@ PC 左移 — A 或 ← 键 右移 — D 或 → 键 移动设备 点击屏幕�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 2D, 动作
+- 标签: 单人, 2D, 动作

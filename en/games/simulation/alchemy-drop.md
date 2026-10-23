@@ -19,6 +19,6 @@ Doodle Alchemy is a game with amazing graphics and effects. Off-beat music and s
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Hypercasual, Simulation, Simulator

@@ -19,6 +19,6 @@ Cowboy Jungle Adventures is so easy and super exciting runner game to jump and r
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, jump, Jumping, run, running
+- Tags: 3D, Action, Adventure, jump, jumping, run, running

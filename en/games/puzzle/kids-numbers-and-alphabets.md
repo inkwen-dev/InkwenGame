@@ -19,6 +19,6 @@ This is puzzle game for kids. In this game the kids will learn numbers and lette
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Kids, Letters, Number, Puzzle

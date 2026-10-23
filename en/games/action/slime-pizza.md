@@ -19,6 +19,6 @@ The slime is sticky and will stick to objects and different surfaces - use this 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Collecting, Obstacle, Platform

@@ -21,4 +21,4 @@ Girls are searching for brand new shoes for the party tonight. Design the stylis
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Air, Boy, Boys, Collection, Creation, Decoration, Educational, Fashion, Girl, Girls, Interactive Fiction, School, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Air, Boy, Boys, Collection, Creation, Decoration, educational, Fashion, Girl, Girls, Interactive Fiction, School, Unity3D

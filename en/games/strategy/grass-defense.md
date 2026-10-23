@@ -21,4 +21,4 @@ Grass Defense is a strategic tower defense where you must protect the wilderness
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mouse, Strategy, Tower Defense
+- Tags: Mouse, strategy, Tower Defense

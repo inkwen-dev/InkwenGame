@@ -21,4 +21,4 @@ Everybody likes sweet Ice Cream! Make your Ice Cream with your favorite flavor! 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Cooking, Cool, Decorate, Decoration, Fun, Funny, Girls, Ice
+- Tags: Color, Cooking, cool, Decorate, Decoration, Fun, Funny, Girls, Ice

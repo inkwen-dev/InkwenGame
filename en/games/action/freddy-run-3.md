@@ -21,4 +21,4 @@ Freddy founds himself trapped once again inside a terrifying nightmare so he nee
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boys, Dungeon, Ghost, Jumping, Kids, Monster, Platform, running
+- Tags: 2D, Boys, Dungeon, Ghost, jumping, Kids, monster, Platform, running

@@ -21,4 +21,4 @@
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Color, Cooking, Cool, Crafting, Cute, Food, H5
+- Tags: Clicker, Color, Cooking, cool, Crafting, Cute, Food, H5

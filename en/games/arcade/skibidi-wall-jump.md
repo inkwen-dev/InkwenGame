@@ -19,6 +19,6 @@ Skibidi Wall Jump is an exhilarating and visually captivating platformer game th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Clicker, Skibidi, Skibidi Toilet
+- Tags: Adventure, Arcade, Clicker, Skibidi, skibidi-toilet

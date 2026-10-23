@@ -81,4 +81,4 @@ Perfect for: word puzzle lovers, trivia fans, vocabulary builders, and anyone wh
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Educational, Puzzle, Quiz, trivia, words
+- Tags: educational, Puzzle, Quiz, trivia, words

@@ -21,4 +21,4 @@ Ice Cream Toppings is a delightful and fast-paced online game made especially fo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Cooking, Creation, Funny, Girls, Hypercasual, Matching, Memory, Puzzle, Skill
+- Tags: Adventure, Arcade, Cooking, Creation, Funny, Girls, Hypercasual, Matching, memory, Puzzle, Skill

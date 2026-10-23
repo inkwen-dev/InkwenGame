@@ -19,6 +19,6 @@ Adventure Rush is an online platform game full of action and challenges. Run thr
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Ball, free html5 games for your website, Geometry, Jumping, kiz10, running
+- Tags: Adventure, Ball, free html5 games for your website, Geometry, jumping, kiz10, running

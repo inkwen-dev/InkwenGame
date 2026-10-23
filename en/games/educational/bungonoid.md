@@ -21,4 +21,4 @@ Bungonoid is a simple one touch arcade game that is a little like break out and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Educational, Family, HTML, HTML5, Kids, Puzzle, School, Word
+- Tags: Boys, educational, Family, HTML, HTML5, Kids, Puzzle, School, word

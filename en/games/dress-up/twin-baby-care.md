@@ -19,6 +19,6 @@ Twin Baby Care is a delightful caring game. Play as a loving caregiver and take 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cute, Doctor, Dress Up, Educational, Family, Food, Fun, Girls, HTML5, Kids, Mobile
+- Tags: Baby, Cute, Doctor, Dress Up, educational, Family, Food, Fun, Girls, HTML5, Kids, Mobile

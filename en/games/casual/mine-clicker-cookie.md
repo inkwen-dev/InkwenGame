@@ -21,4 +21,4 @@ Welcome to Mine Clicker: Cookie! An addictive clicker where Minecraft meets cook
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, Casual, Click, Clicker, idle, Mine, Minecraft, Miner
+- Tags: 1 Player, block, Casual, Click, Clicker, idle, Mine, Minecraft, Miner

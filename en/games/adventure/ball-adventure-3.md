@@ -15,6 +15,6 @@ Embark on a gripping journey in Ball Adventure, where you must guide a ball thro
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Skill

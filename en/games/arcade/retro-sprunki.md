@@ -19,6 +19,6 @@ Retro Sprunki is an endless pixel-style adventure game where players guide a cha
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, endless, mapi games, Pixel, Retro, Sprunki
+- Tags: Arcade, endless, mapi games, pixel, retro, Sprunki

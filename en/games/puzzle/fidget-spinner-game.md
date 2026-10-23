@@ -19,6 +19,6 @@ Most relaxing fidget spinner simulator in your pocket! You have 5 swipes to set 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Arcade, Arena, Bubble Shooter, Hypercasual, Physics, Spaceship, Spiderman, Sports
+- Tags: 8 Ball Pool, Arcade, Arena, Bubble Shooter, Hypercasual, Physics, Spaceship, Spiderman, sports

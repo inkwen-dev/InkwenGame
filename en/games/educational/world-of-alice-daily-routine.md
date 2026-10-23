@@ -21,4 +21,4 @@ Click on the task corresponding to your schedule
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Cartoon, Educational, free games for your website, free html5 games for your website, games for your website, HTML, html games for your website, HTML5, html5 games, html5 games for your site, Kids, School, Word
+- Tags: Best Games, Cartoon, educational, free games for your website, free html5 games for your website, games for your website, HTML, html games for your website, HTML5, html5 games, html5 games for your site, Kids, School, word

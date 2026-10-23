@@ -21,4 +21,4 @@ BTS Sprunki Coloring Book is the ultimate coloring adventure for kids! This live
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Coloring, Educational, Fun, Hypercasual, Kids, School
+- Tags: Cartoon, Coloring, educational, Fun, Hypercasual, Kids, School

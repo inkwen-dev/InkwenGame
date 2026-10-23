@@ -19,6 +19,6 @@ Color Mixed Up an educational game to play on! Opps all the word got mixed up! a
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bejeweled, Block, Educational, Family, Puzzle, Word
+- Tags: Bejeweled, block, educational, Family, Puzzle, word

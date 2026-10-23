@@ -21,4 +21,4 @@ Slither, eat, defeat! Play this free addicting online & offline snake blast game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Battle, Fun, Games, Puzzle, Quiz, Snake
+- Tags: Arcade, battle, Fun, Games, Puzzle, Quiz, snake

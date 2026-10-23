@@ -21,4 +21,4 @@ This is a fun dental clinic game that combines Martha and bear cartoon character
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cartoon, Fun, Girls, HTML5, Kids, Mobile, Puzzle, Simulation, Surgery
+- Tags: Animal, Cartoon, Fun, Girls, HTML5, Kids, Mobile, Puzzle, Simulation, surgery

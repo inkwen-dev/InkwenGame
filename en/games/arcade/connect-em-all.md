@@ -19,6 +19,6 @@ Play Connect Em All Online and Solve Colorful Dot Puzzles. Connect Em All is an 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Avoid, Board, Brain, Collecting, Fun, Hypercasual, Kids, Logic, Logical, Puzzle

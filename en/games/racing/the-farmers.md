@@ -19,6 +19,6 @@ The goal of the game is only for players to build a farm that is completely thei
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D, Car, Cars, Farm, HTML, HTML5, Multiplayer

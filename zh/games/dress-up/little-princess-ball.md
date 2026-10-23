@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 芭比, 医生, 朵拉, 换装, 时尚, 马里奥
+- 标签: 芭比, 医生, 多拉, 装扮, 时尚, mario

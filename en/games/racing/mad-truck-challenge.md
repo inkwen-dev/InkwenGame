@@ -19,6 +19,6 @@ Drive to survive and destroy other cars of your enemies in the most mad car ride
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Hypercasual, Race, Racing, Supercars, Truck
+- Tags: Car, Cars, Hypercasual, Race, Racing, Supercars, truck

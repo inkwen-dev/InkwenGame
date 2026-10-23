@@ -19,6 +19,6 @@ Vehicle Parking Master 3D is a tough and realistic vehicle parking simulation ga
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boys, Girls, Kid, Kids, Logic, Parking, Puzzle
+- Tags: 3D, Boys, Girls, Kid, Kids, Logic, parking, Puzzle

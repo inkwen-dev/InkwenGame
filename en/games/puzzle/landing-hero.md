@@ -19,6 +19,6 @@ Take control of the skies! In Landing Hero, youre the air traffic controller. Dr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, airplane, Casual, Mouse

@@ -19,6 +19,6 @@ Funny Shapes is fun online game for the little ones. Love these different activi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Baby, Fun, Girls, HTML5, Kids, Mobile, Puzzle, School

@@ -19,6 +19,6 @@ A golf game, a race...Welcome to Golf Race, the most amazing crossover! Who said
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Girl, Girls, Golf, Sport, Sports
+- Tags: Boy, Boys, Girl, Girls, golf, Sport, sports

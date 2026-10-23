@@ -21,4 +21,4 @@ Short Ride is a bikeriding action and survival game where you guide a very unluc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, 2026 games, 2D, Adult, Adventure, Arena, Best Games, Bike, free games for your site, free html5 games for your website, Obstacle, unblocked, unblocked games
+- Tags: .io, 1 Player, 2026 games, 2D, Adult, Adventure, Arena, Best Games, bike, free games for your site, free html5 games for your website, Obstacle, unblocked, unblocked games

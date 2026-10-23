@@ -19,6 +19,6 @@ Bubble Pop is simple yet addictive! Select your level, Aim and shoot 2 or more s
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Bubble, Bubble Shooter, Casual, Fruit, Fruits, Hypercasual, Match 3, Match3, Matching, Puzzle, Shoot, Shooter, Shooting

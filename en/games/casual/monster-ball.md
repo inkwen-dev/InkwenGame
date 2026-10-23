@@ -21,4 +21,4 @@ Monster Ball is a game simple and fun for kid. Just click and get high score.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Click, Jumping, Monster
+- Tags: 1 Player, Click, jumping, monster

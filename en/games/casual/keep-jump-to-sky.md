@@ -19,6 +19,6 @@ Keep Jump to Sky is a fun jumping melody game. Collect coins by jumping over the
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Ball, Collecting, Craft, Hypercasual, Jumping, Music, Relaxation
+- Tags: 3D, Ball, Collecting, Craft, Hypercasual, jumping, music, Relaxation

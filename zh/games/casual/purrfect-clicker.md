@@ -21,4 +21,4 @@ Purrfect Clicker 是终极的猫咪点击冒险！通过点击、滑动和轻触
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 动物, 猫, 点击, 点击器
+- 标签: 单人, 动物, 猫, 点击, 点击器

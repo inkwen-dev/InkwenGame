@@ -19,6 +19,6 @@ Sugar flow is a puzzle drawing game where you need to draw lines to guide the su
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Draw, Drawing
+- Tags: 2D, Draw, drawing

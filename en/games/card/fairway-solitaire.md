@@ -21,4 +21,4 @@ Fairway Solitaire is a well-polished golf solitaire game with a unique theme. Th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Card, Golf, Logic, Puzzle, Solitaire
+- Tags: Animal, card, golf, Logic, Puzzle, solitaire

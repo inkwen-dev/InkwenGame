@@ -21,4 +21,4 @@ Pixel Drift 是一款具有复古风格的俄罗斯方块游戏，拥有 CRT 荧
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 方块, 休闲, 俄罗斯方块
+- 标签: 方块, 休闲, tetris

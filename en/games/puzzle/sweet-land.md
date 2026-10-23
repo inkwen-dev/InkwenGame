@@ -21,4 +21,4 @@ A fun and addictive game that will help you escape the madness of the world and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Block, Candy, Fruit, Fruits, Hot, Mahjong, Match 3, Match3, Matching, Puzzle
+- Tags: Best, block, Candy, Fruit, Fruits, Hot, mahjong, Match 3, Match3, Matching, Puzzle

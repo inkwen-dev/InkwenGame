@@ -21,4 +21,4 @@ Math Game is a very fun educational game that will test your math skills. Try to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Fun, HTML5, Kids, Logic, Logical, Math, Mobile, Skill
+- Tags: educational, Fun, HTML5, Kids, Logic, Logical, math, Mobile, Skill

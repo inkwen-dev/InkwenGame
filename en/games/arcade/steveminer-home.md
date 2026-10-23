@@ -19,6 +19,6 @@ Are you ready for Miner Steve's adventure full of dangers? Help him survive and 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Android, Arcade, Block, Minecraft, Miner
+- Tags: 1 Player, 2D, Adventure, Android, Arcade, block, Minecraft, Miner

@@ -19,6 +19,6 @@ Enjoy a real bus simulator where you have to take your job seriously, all you ha
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: bus, Simulation, Unity3D, WebGL

@@ -21,4 +21,4 @@ Forget about the basketball games you played before. Are you ready for a game th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Baseball, Basketball, Pinball
+- Tags: 1 Player, 2D, baseball, basketball, Pinball

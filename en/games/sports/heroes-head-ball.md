@@ -21,4 +21,4 @@ Have you ever seen him play football with his head? yes, its a football game whe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Android, Arcade, Arena, Ball, Battle, Best, Boy, Boys, Highscore, Soccer
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Android, Arcade, Arena, Ball, battle, Best, Boy, Boys, Highscore, Soccer

@@ -19,6 +19,6 @@ This is no ordinary top-down farming game. The full 3d perspective offers hundre
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Boys, Farm, Game, Girls, Kids, Love

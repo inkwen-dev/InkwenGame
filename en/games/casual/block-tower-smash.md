@@ -19,6 +19,6 @@ Smash your way down a spinning tower of colorful blocks! Hold to crash your ball
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Hypercasual, Minecraft, Mobile, onetouch

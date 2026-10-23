@@ -21,4 +21,4 @@ Stickman shooting survival game survive and upgrade your gun and character abili
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Casual, Hypercasual, Shooting, Stickman, survival
+- Tags: 3D, Action, Casual, Hypercasual, Shooting, stickman, survival

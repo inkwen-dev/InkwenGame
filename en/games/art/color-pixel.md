@@ -21,4 +21,4 @@ All you need to do is drawing color by the right numbers and you will have a fas
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Drawing, Girl, Number
+- Tags: Casual, drawing, Girl, Number

@@ -19,6 +19,6 @@ A captivating board game set in a unique forest-themed atmosphere! Enjoy classic
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2025 games, 2D, Ai Games, Best Games, Board, Brain, Casual, Classic, Logic, Logical, Strategy, two player games
+- Tags: 2 Player, 2 Player Games, 2025 games, 2D, Ai Games, Best Games, Board, Brain, Casual, Classic, Logic, Logical, strategy, two player games

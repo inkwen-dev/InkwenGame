@@ -21,4 +21,4 @@ The first and only in the world!! Realistic Dragon Police Panzer!! The Most Real
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Car, city, Fire, Game, Games, Interactive Fiction, Police, Simulation, Simulator, Truck
+- Tags: 1 Player, 3D, 3D Games, Action, Car, city, Fire, Game, Games, Interactive Fiction, police, Simulation, Simulator, truck

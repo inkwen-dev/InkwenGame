@@ -19,6 +19,6 @@ Rail Run is a Sliding games with rails collection. It's a really Fun sliding on 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, endless, run, running

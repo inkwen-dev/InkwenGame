@@ -21,4 +21,4 @@ Collect all the coins scattered in the Coin Royale game and start earning. You c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Android, Arcade, Best, Brain, Casual, Fun, Funny, Hot, Hypercasual, Kids, Math, Puzzle, run, running, Unity3D, WebGL
+- Tags: 3D, Action, Android, Arcade, Best, Brain, Casual, Fun, Funny, Hot, Hypercasual, Kids, math, Puzzle, run, running, Unity3D, WebGL

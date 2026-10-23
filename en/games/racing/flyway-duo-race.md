@@ -19,6 +19,6 @@ A Duo Race is beginning on the Flying Way by controlling casual-style cars in tw
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 3D, Air, Avoid, Car, Driving, Flight, fly, Race, Racing
+- Tags: 1 Player, 2 Player, 2 Player Games, 3D, Air, Avoid, Car, Driving, flight, fly, Race, Racing

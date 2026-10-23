@@ -21,4 +21,4 @@ Jungle themed game based on the popular classic Chinese game. To play remove pai
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, HTML5, Mahjong, Matching, Mobile, Puzzle
+- Tags: Arcade, HTML5, mahjong, Matching, Mobile, Puzzle

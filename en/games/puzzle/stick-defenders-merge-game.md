@@ -21,4 +21,4 @@ Stick Defenders is an action and merging game where you combine stickman units i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Boys, Fun, Skills, Stickman
+- Tags: Action, Boys, Fun, Skills, stickman

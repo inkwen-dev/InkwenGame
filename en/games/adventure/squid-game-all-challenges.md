@@ -19,6 +19,6 @@ Welcome to Squid Game All Challenges the thrilling and fascinating 3D traditiona
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Adventure, Avoid, Best, Blood, Boys, Brain, Escape, Family, Games, Girls, Highscore, HTML5, Mobile, Puzzle, Rescue, Unity3D, WebGL

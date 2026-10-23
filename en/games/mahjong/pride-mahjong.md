@@ -19,6 +19,6 @@ You have to find three identical tiles with food to destroy them. The tiles are 
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Card, HTML5, Logic, Mahjong, Puzzle, Summer
+- Tags: block, card, HTML5, Logic, mahjong, Puzzle, Summer

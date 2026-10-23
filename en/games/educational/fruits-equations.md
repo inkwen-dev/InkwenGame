@@ -21,4 +21,4 @@ Fruits Equations is a math puzzle game. In this game you need to find the values
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Fruits, HTML5, Kids, Math, Mobile, Puzzle, School
+- Tags: educational, Fruits, HTML5, Kids, math, Mobile, Puzzle, School

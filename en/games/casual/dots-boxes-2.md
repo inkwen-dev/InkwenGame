@@ -15,6 +15,6 @@ Engage in strategic battles with Dots & Boxes, where every line drawn might lead
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: two-player

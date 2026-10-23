@@ -33,4 +33,4 @@ Start assembling the picture - initially the picture will be black and white. Lo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Color, Drawing, Puzzle
+- Tags: Brain, Color, drawing, Puzzle

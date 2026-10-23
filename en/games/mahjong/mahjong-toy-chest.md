@@ -21,4 +21,4 @@ Race the clock and clean up your playroom by matching pairs of identical toys: l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, 3D Games, Adventure, Arcade, HTML, HTML5, Kid, Kids, Mahjong, Puzzle
+- Tags: 1 Player, 2D, 3D Games, Adventure, Arcade, HTML, HTML5, Kid, Kids, mahjong, Puzzle

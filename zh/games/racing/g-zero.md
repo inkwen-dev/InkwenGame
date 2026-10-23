@@ -21,4 +21,4 @@ D-PAD 方向键 移动 A-BUTTON W 加速 B-BUTTON Q 刹车 START ENTER 开始游
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车, 赛车, 体育
+- 标签: 汽车, 竞速, 运动

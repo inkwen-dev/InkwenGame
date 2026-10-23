@@ -15,6 +15,6 @@ Plunge into River Revive, where you sail through vivid landscapes as an eco-warr
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Casual

@@ -21,4 +21,4 @@ Making Pizza has never been more fun! Pizza Maker cooking games introduce the wo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Air, Boy, Boys, Collection, Creation, Decoration, Educational, Fashion, Girl, Girls, Interactive Fiction, Mario, Minion, Relaxation, Seduction, Simulation, Violence
+- Tags: .io, .io Games, Action, Air, Boy, Boys, Collection, Creation, Decoration, educational, Fashion, Girl, Girls, Interactive Fiction, mario, Minion, Relaxation, Seduction, Simulation, Violence

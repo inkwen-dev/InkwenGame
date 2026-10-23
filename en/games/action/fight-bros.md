@@ -21,4 +21,4 @@ Have you ever thrown a stone with a slingshot before? shoot and beat your friend
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Arcade, Arena, Battle, Fight, H5
+- Tags: 2 Player, 2 Player Games, 2D, Action, Arcade, Arena, battle, Fight, H5

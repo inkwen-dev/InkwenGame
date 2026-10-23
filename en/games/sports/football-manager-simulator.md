@@ -19,6 +19,6 @@ In this new era, all national leagues have been removed and now all teams play i
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Management, Soccer
+- Tags: management, Soccer

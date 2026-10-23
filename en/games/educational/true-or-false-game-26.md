@@ -21,4 +21,4 @@ Test your erudition and intuition in this addictive quiz! You have to dive into 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Educational, free html5 games for your website, Guessing, HTML5, Logic, Mobile, Quiz, World
+- Tags: Brain, Casual, educational, free html5 games for your website, Guessing, HTML5, Logic, Mobile, Quiz, World

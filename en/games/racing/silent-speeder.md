@@ -19,6 +19,6 @@ Prepare for a visit onto the silent film era, with these artfully crafted and si
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, endless, Race, Racing

@@ -21,4 +21,4 @@ The defense game with over 11 million downloads is back with more advanced graph
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Strategy, Zombie
+- Tags: strategy, Zombie

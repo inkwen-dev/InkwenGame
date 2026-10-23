@@ -38,4 +38,4 @@ Can you park like a pro? Start your engine and find out!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Boys, Car, Driving, Parking, Skill
+- Tags: 3D, Boys, Car, Driving, parking, Skill

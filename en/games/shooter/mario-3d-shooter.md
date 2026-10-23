@@ -19,6 +19,6 @@ Play Mario 3D Shooter, an action-packed adventure where Mario must rescue the pr
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Arena, Avoid, Boy, Escape, Gun, Mario, Maze, Shooter, Skill, survival
+- Tags: Arcade, Arena, Avoid, Boy, Escape, Gun, mario, Maze, Shooter, Skill, survival

@@ -21,4 +21,4 @@ It is the world most attractive puzzle game, many people play Block vs Block II 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Board, Casual, Crazy, Strategy, Tetris
+- Tags: block, Board, Casual, crazy, strategy, tetris

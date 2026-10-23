@@ -19,6 +19,6 @@ Do it up! - and nothing else! If, at times, you don&rsquo;t understand what&rsqu
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, city, Highscore, jump, Jumping, OnlyUp, Physics, Race, run, running, unity, Unity3D
+- Tags: 3D, 3D Games, city, Highscore, jump, jumping, OnlyUp, Physics, Race, run, running, unity, Unity3D

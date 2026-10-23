@@ -19,6 +19,6 @@ Bricks Breaker is a fast-paced arcade game where you aim, shoot, and smash color
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Arena, Bricks

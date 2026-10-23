@@ -21,4 +21,4 @@ Are you curious about other’s life? In this game, Taylor will show you what to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Coloring, Cute, Educational, Food, Girl, Girls, Kids, Puzzle, Simulation
+- Tags: Baby, Coloring, Cute, educational, Food, Girl, Girls, Kids, Puzzle, Simulation

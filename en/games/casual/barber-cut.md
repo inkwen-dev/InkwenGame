@@ -19,6 +19,6 @@ Barber Cut Brand new Satisfying Game with Hair Cut , Just Swipe Your Trimmer cut
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Casual, Cool, HTML5, WebGL
+- Tags: 3D, Avoid, Casual, cool, HTML5, WebGL

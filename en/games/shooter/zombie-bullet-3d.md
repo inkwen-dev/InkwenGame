@@ -19,6 +19,6 @@ Shoot all the zombies with weapons that you choose! want to kill in style? use y
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Bomb, Boy, Boys, Cartoon, Crazy, CSGO, Defense, Fight, Fire, Physics, Shoot, Shooter, Shooting, Unity3D, weapons, WebGL, Zombie
+- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Bomb, Boy, Boys, Cartoon, crazy, CSGO, Defense, Fight, Fire, Physics, Shoot, Shooter, Shooting, Unity3D, weapons, WebGL, Zombie

@@ -21,4 +21,4 @@ Guide your bouncing hero up endless platforms! Dodge monsters, collect rewards, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Fun, Funny, Hypercasual, jump, Jumping
+- Tags: Casual, Fun, Funny, Hypercasual, jump, jumping

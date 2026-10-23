@@ -19,6 +19,6 @@ Cubic Rush is a fast-paced, minimalist 2D endless runner where rhythm and timing
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, 2D, Adventure, amazing, Arcade, Avoid, Best, Best Games, Game, HTML, survival

@@ -21,4 +21,4 @@ Math Advanced is an intellectual game that tests your calculation skills and qui
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Click, Math, Puzzle
+- Tags: Casual, Click, math, Puzzle

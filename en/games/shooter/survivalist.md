@@ -21,4 +21,4 @@ You start with three survivors and one road. Every gate is worth more the longer
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bomb, Gun, Monster, Rocket, run, Shooter, Shooting
+- Tags: Bomb, Gun, monster, Rocket, run, Shooter, Shooting

@@ -19,6 +19,6 @@ Tetris 24 is a classic puzzle game where you must rotate and move falling blocks
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Puzzle, puzzleblock

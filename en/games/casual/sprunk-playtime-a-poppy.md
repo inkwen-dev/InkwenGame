@@ -23,4 +23,4 @@ Dive into Sprunk: Playtime a Poppy, a chilling Incredibox mod blending music-mak
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Music
+- Tags: music

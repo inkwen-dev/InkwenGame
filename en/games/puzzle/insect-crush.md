@@ -19,6 +19,6 @@ Are you looking for a game where you can have fun? Insect Cush game is for you. 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Anime, Bubble, Candy, Casual, Fantasy, Fun, Funny, Game, Girl, Girls, Halloween, HTML5, Kid, Kids, Monster
+- Tags: 2D, Animal, Anime, Bubble, Candy, Casual, Fantasy, Fun, Funny, Game, Girl, Girls, Halloween, HTML5, Kid, Kids, monster

@@ -15,6 +15,6 @@ Unleash your puzzle-solving prowess in Groot Jigsaw Tile Mania. Navigate a blend
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: jigsaw-puzzles

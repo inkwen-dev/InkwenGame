@@ -21,4 +21,4 @@ Get ready light it up to jump, flip, light-it up and Neon!!! Light it Up Game is
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, Stickman
+- Tags: .io Games, 1 Player, stickman

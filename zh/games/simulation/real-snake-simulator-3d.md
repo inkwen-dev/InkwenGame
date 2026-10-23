@@ -21,4 +21,4 @@ WASD 方向键 - 移动 鼠标移动 - 摄像机 空格键 左键点击 - 抬头
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 动物, 战斗, 收集, Skibidi, Skibidi Toilet, 祖玛
+- 标签: 冒险, 动物, 战斗, 收集, Skibidi, skibidi-toilet, 祖玛

@@ -19,6 +19,6 @@ Any color is a coloring game where you use unique color palettes to fill up the 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Creation, Draw, Drawing, Fun, Funny, Kid, Kids
+- Tags: Color, Coloring, Creation, Draw, drawing, Fun, Funny, Kid, Kids

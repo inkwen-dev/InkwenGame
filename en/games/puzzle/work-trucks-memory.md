@@ -21,4 +21,4 @@ This is memory game with working trucks. Tap on the cards and they will flip. Ma
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Memory, Puzzle, Truck
+- Tags: memory, Puzzle, truck

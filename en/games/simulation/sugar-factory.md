@@ -19,6 +19,6 @@ A tasty take on a coin pusher X merger game. -Drop cookies and desserts into the
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Cake, Candy, Click, Clicker, Cook, Cooking, Food, Point And Click

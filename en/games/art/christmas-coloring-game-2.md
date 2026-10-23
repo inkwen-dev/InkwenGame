@@ -21,4 +21,4 @@ Christmas Coloring Game 2 is a very popular drawing game. As you can see from th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Christmas, Coloring, Cute, Drawing, Educational, Fun, Holiday, HTML5, Mobile, Winter
+- Tags: Boys, Christmas, Coloring, Cute, drawing, educational, Fun, Holiday, HTML5, Mobile, Winter

@@ -19,6 +19,6 @@ Bomber Man is fun puzzle game. Push boxes or crates into target point or goals t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Boy
+- Tags: Arcade, block, Boy

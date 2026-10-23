@@ -21,4 +21,4 @@ A fun and addictive puzzle game. Tap the pin to move it, avoid black color, colo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Brain, Color, Fun, HTML, Mobile, Truck
+- Tags: Arcade, Best, Brain, Color, Fun, HTML, Mobile, truck

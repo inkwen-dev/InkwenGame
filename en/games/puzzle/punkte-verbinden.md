@@ -19,6 +19,6 @@ Fang die Punkte ein und zieh, um den sequentiellen Pfad für jede Form zu verbin
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Brain, WebGL

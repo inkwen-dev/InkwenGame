@@ -19,6 +19,6 @@ Tap the screen to carefully control the ball through the obstacles. The ball can
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Best, Color, HTML5, Mobile

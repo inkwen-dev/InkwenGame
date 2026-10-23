@@ -19,6 +19,6 @@ You love playing golf, you also love Halloween, this game is dedicated to you. L
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Brain, Halloween, HTML, HTML5, Mobile

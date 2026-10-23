@@ -21,4 +21,4 @@ Welcome to Hexa Tile Trio! Your goal is to clear the board by sorting hex tiles 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Brain, Casual, hexa, hexagon, Match 3, Matching, sorting, Stack
+- Tags: block, Brain, Casual, hexa, hexagon, Match 3, Matching, sorting, Stack

@@ -19,6 +19,6 @@ Pizza Maker: My Pizzeria Game is the ideal fast food cooking game in which you c
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Boy, Burger, Cake, Candy, Cook, Cooking, Fish, Food, Game, Games, Girl, Girls, Ice, Restaurant, Simulation
+- Tags: 1 Player, Boy, Burger, Cake, Candy, Cook, Cooking, Fish, Food, Game, Games, Girl, Girls, Ice, restaurant, Simulation

@@ -21,4 +21,4 @@ Challenge your brain in Block Puzzle Legend. Enjoy the ultimate classic puzzle g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Classic, Hypercasual, Matching
+- Tags: block, Classic, Hypercasual, Matching

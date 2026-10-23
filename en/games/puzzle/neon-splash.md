@@ -19,6 +19,6 @@ Neon Splash is a brand new hypercasual puzzle game. Your goal is to guide glowin
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Fun, Girls, HTML5, Kids, Mobile

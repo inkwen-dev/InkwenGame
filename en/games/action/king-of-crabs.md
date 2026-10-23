@@ -19,6 +19,6 @@ Easy to operate the krab,The Shell Gallery will show each roles armor, speed, sk
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fight
+- Tags: battle, Fight

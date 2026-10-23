@@ -19,6 +19,6 @@ Rabbit Adventure is an arcade-style game where you have to jump as a rabbit alon
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Avoid, Best, Collecting, Fun, Funny, Kids, Obstacle, Rabbit, Skill

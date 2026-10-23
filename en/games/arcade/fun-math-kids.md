@@ -21,4 +21,4 @@ Math educational games for kids to learn to count, add, subtract, numbers & more
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Cleaning, Educational, Games, Kids, Math, Number
+- Tags: Arcade, Cleaning, educational, Games, Kids, math, Number

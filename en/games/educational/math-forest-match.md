@@ -21,4 +21,4 @@ Embark on an exciting mathematical journey deep into the heart of the enchanted 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Matching, Math
+- Tags: educational, Matching, math

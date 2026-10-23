@@ -19,6 +19,6 @@ In Squid Marble Game, aim carefully and take your shot to get the marble through
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Adventure, Arcade, Best, Billiard, Casual, Hypercasual, Kids, Puzzle, WebGL

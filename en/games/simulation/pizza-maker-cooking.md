@@ -21,4 +21,4 @@ Let's start your baking kitchen. Cook delicious finger licking recipes for your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cook, Cooking, Decorate, Educational, Girl, Girls, Kids, Simulation
+- Tags: Cook, Cooking, Decorate, educational, Girl, Girls, Kids, Simulation

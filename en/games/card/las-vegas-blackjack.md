@@ -21,4 +21,4 @@ Enjoy authentic atmosphere of Las Vegas casino. You have unique opportunity to t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casino, HTML, HTML5
+- Tags: card, Casino, HTML, HTML5

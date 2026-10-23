@@ -19,6 +19,6 @@ Have fun with this 2D fighting game Mr Noob Fighter is a game of moving and figh
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fighting, Jumping, kiz10, Minecraft
+- Tags: fighting, jumping, kiz10, Minecraft

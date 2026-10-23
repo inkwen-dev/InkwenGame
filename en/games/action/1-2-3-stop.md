@@ -21,4 +21,4 @@ Today I will provide you 1 2 3, Stop . 1 2 3, Stop is a game that is very popula
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, 3D, 3D Games, Action, Adventure, Arcade, Fighting, Unity3D
+- Tags: 2D, 3D, 3D Games, Action, Adventure, Arcade, fighting, Unity3D

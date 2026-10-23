@@ -15,6 +15,6 @@ Dive into Inoi's surreal desert world, where quick reflexes and strategic double
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Monster
+- Tags: monster

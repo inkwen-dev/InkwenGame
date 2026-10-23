@@ -21,4 +21,4 @@ The dark robotic kingdom wants to take over Earth and turn it into a metal robot
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Action, Adventure, Battle, Shoot 'Em Up, Shooting, War
+- Tags: 2 Player, 2 Player Games, Action, Adventure, battle, Shoot 'Em Up, Shooting, War

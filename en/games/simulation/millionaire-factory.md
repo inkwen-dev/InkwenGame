@@ -51,4 +51,4 @@ The game offers a growth journey that starts with a small piece of Metal 🔩 an
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, idle, Management, Mouse, Simulation, Strategy, tycoon
+- Tags: Clicker, idle, management, Mouse, Simulation, strategy, tycoon

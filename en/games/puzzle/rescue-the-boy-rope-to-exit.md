@@ -19,6 +19,6 @@ Swipe the rope with your finger and cut the rope to boy fell down and move to ex
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Puzzle, unity

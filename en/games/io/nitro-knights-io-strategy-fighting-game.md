@@ -19,6 +19,6 @@ Nitro Knights.io is undoubtedly one of the most interesting multiplayer online b
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Aircraft, Boy, Boys, Fight, Fighting, Fun, Kid, Kids, Multiplayer
+- Tags: .io, .io Games, Aircraft, Boy, Boys, Fight, fighting, Fun, Kid, Kids, Multiplayer

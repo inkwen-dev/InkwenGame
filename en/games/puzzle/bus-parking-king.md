@@ -19,6 +19,6 @@ Welcome to the bus parking game adventure, a bus simulator game, where you can p
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 8 Ball Pool, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Game, Games, Simulation, Simulator, Supercars

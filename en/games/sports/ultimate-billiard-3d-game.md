@@ -23,4 +23,4 @@ Experience authentic billiards gameplay with advanced physics that make every sh
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Ball, Physics, Pool, Skill, Sports
+- Tags: 3D, Ball, Physics, pool, Skill, sports

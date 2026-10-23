@@ -19,6 +19,6 @@ Slice the stars, not the bomb - that's all you need to know to get started with 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Avoid, Best, Click, cut, Hypercasual, Ninja, Obstacle, Physics, Pixel, Slicing
+- Tags: 2D, Avoid, Best, Click, cut, Hypercasual, ninja, Obstacle, Physics, pixel, Slicing

@@ -19,6 +19,6 @@ Racing Cars Coloring is fun online coloring game for kids.If you love racing and
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Car, Cars, Color, Coloring, Fun, Kids, Racing, School

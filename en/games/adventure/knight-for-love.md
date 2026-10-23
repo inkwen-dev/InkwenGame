@@ -21,4 +21,4 @@ Knight must rescue his lover, the princess. Now you control the knight to hit th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collection, Kids, Knight, Love, Princess
+- Tags: Collection, Kids, knight, Love, Princess

@@ -19,6 +19,6 @@ upercar parking games gives you chance to become pro in learning car parking of 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Action, Arcade, Car, Cars, drift, drifting, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing
+- Tags: .io Games, Action, Arcade, Car, Cars, drift, drifting, Fun, Funny, Hot, Hypercasual, jump, jumping, Race, Racing

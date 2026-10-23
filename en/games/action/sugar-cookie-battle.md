@@ -19,6 +19,6 @@ Play squid candy cookie honeycomb game and begin this adventurous gameplay of da
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Avoid, Drawing, Fun, H5, Kids, Logic, Mind
+- Tags: 2D, Arcade, Avoid, drawing, Fun, H5, Kids, Logic, Mind

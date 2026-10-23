@@ -19,6 +19,6 @@ In Skibidi Toilet Hunter, assume the role of a determined Skibidi armed with WAS
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Mentolatux, Science, Skibidi, Skibidi Toilet, Space, Top Down, Unity3D, WebGL
+- Tags: 3D Games, Mentolatux, Science, Skibidi, skibidi-toilet, Space, Top Down, Unity3D, WebGL

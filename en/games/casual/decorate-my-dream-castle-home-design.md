@@ -19,6 +19,6 @@ The little princess will hold a grand ball in the castle. She is planning to red
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Decorate, Decoration, Design, Fun, Girl, Girls, H5, HTML5, Kid, Kids

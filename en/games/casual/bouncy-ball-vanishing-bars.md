@@ -19,6 +19,6 @@ Get ready for a bouncing challenge in Bouncy Ball - Vanishing Bars! Keep your ba
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Jumping, Physics, Rhythm
+- Tags: Ball, jumping, Physics, Rhythm

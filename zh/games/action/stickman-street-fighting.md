@@ -21,4 +21,4 @@ Stickman!!! 通过街道关卡，击败敌方 Stickman 战士！收集近战武�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 3D, 战斗, 格斗, Stickman, 街头格斗, Unity3D, 暴力
+- 标签: 单人, 3D, 格斗, 格斗, 木偶人, 街头格斗, Unity3D, 暴力

@@ -19,6 +19,6 @@ Mahjong Solitaire: World Tour elevates tile-matching. Solve levels to explore gl
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Casual, Logic, Logical, Mahjong, Match 3, Matching, Solitaire
+- Tags: 1 Player, Adventure, Casual, Logic, Logical, mahjong, Match 3, Matching, solitaire

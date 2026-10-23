@@ -21,4 +21,4 @@ The monster that controls your fusion process must eventually defeat the final b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Fighting, running, swipe
+- Tags: 3D, Action, fighting, running, swipe

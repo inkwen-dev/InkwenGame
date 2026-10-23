@@ -21,4 +21,4 @@ Monster Round is a hyper casual online game that is perfect for gamers who want 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Avoid, Best, Casual, Classic, Crazy, endless, Fun, Funny, Game, Games, H5, Highscore, HTML5, Hypercasual
+- Tags: 1 Player, 2D, Arcade, Avoid, Best, Casual, Classic, crazy, endless, Fun, Funny, Game, Games, H5, Highscore, HTML5, Hypercasual

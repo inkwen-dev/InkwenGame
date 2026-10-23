@@ -19,6 +19,6 @@ Night Neon Racers game is a 3D car racing game with various game modes. You can 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Arcade, Cars, crash, drift, drifting, Driving, gta, Race, Racing, Simulator, Supercars, vehicle

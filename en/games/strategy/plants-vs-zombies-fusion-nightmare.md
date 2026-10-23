@@ -25,4 +25,4 @@ Welcome to the ruins of the suburban zone, where the old rules no longer apply. 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, Strategy, Tower Defense, Zombie
+- Tags: Boys, strategy, Tower Defense, Zombie

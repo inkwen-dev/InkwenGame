@@ -21,4 +21,4 @@ Among Us 跳跃 - 是一款受《Among Us》启发的非官方游戏，在这款
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1人, 动作, 冒险, 安卓, 街机, 有趣, 跳跃, 红色, WebGL
+- 标签: 单人, 动作, 冒险, 安卓, 街机, 有趣, 跳跃, 红色, WebGL

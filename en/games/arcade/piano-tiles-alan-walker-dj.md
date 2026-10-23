@@ -21,4 +21,4 @@ Try to match the music beat by taping on black tiles, and enjoy your favorite Al
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Best, Games, Hot, HTML5, Magic, Mobile, Music, Point And Click, Timing
+- Tags: Action, Adventure, Arcade, Best, Games, Hot, HTML5, Magic, Mobile, music, Point And Click, Timing

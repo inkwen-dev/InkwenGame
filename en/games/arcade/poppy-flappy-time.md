@@ -19,6 +19,6 @@ Welcome to Poppy Flappy Time! This game is similar to the famous Flappy Bird gam
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Bird, Clicker, fly, Mario
+- Tags: Adventure, Arcade, Bird, Clicker, fly, mario

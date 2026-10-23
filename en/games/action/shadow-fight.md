@@ -21,4 +21,4 @@ Shadow Fight 2 est un jeu captivant réunissant le RPG avec le simple jeu de com
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Dragon Ball Z, Fight, Fighting, Street Fighting
+- Tags: 3D, 3D Games, Action, Dragon Ball Z, Fight, fighting, Street Fighting

@@ -21,4 +21,4 @@ Shoot the bats on Halloween night with the pumpkin contains the right comparison
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bubble Shooter, Math, Shooting
+- Tags: Bubble Shooter, math, Shooting

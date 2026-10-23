@@ -21,4 +21,4 @@ Tap and slide the soccer ball, control its angle and power, then shoot towards t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Ballon, Basketball, Boy, Boys, endless, Football, Physics, Soccer, Sport, Sports, World
+- Tags: Ball, Ballon, basketball, Boy, Boys, endless, Football, Physics, Soccer, Sport, sports, World

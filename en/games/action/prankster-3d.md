@@ -19,6 +19,6 @@ Prankster 3D is an original free online puzzle game for kids. In this game, you 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Avoid, Boy, Escape, Fun, HTML5, Kids, Online, Puzzle, running

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 平衡, 战斗, 卡片, 时机
+- 标签: 平衡, 战斗, 卡牌, 时机

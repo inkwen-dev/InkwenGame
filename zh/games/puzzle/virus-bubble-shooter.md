@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1人游戏, Android, 泡泡, 泡泡射击, 医生, HTML5, 小孩, 移动设备
+- 标签: 单人, 安卓, 泡泡, 泡泡射击, 医生, HTML5, 儿童, 移动设备

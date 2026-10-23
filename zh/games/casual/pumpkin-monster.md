@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 万圣节, 手机, 物理
+- 标签: 2D, 万圣节, 移动设备, 物理

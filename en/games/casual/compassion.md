@@ -17,4 +17,4 @@ Compassion invites you to relive the retro glory days with strategic fights agai
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Retro
+- Tags: retro

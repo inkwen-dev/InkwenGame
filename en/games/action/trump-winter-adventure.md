@@ -21,4 +21,4 @@ Trump Winter Adventure is a fun and free online game for kids! Help the cheerful
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Celebrity, Christmas, Collecting, Fun, Hypercasual, jump, Jumping, run, running, Skill
+- Tags: Avoid, Celebrity, Christmas, Collecting, Fun, Hypercasual, jump, jumping, run, running, Skill

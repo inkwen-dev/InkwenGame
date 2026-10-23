@@ -21,4 +21,4 @@ Dora Memory Cards is a puzzle game for kids. The objective of the game is to mat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dora, Memory
+- Tags: Dora, memory

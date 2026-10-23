@@ -21,4 +21,4 @@ Welcome to PixelBlock, where classic block puzzle mechanics meet explosive, sati
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, Puzzle, puzzleblock
+- Tags: 1 Player, block, Puzzle, puzzleblock

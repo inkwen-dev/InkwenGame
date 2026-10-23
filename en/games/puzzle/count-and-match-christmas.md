@@ -21,4 +21,4 @@ The rules are very simple and intuitive for everyone; So You just drag' n' drop 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Family, Girl, Girls, Kids, Match 3, Matching, Math, Puzzle
+- Tags: Christmas, Family, Girl, Girls, Kids, Match 3, Matching, math, Puzzle

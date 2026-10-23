@@ -19,6 +19,6 @@ Hit the waves in Summer Rider 3D, a sun-soaked surf adventure inspired by high-s
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, jetski, Skill, Summer, surfers

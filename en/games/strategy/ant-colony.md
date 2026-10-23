@@ -19,6 +19,6 @@ ANT COLONY is a relaxing puzzle where a tiny ant crew hauls a pixel picture away
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Brain, Casual, Logic, Pixel, Puzzle, Relaxation, Strategy
+- Tags: 1 Player, Brain, Casual, Logic, pixel, Puzzle, Relaxation, strategy

@@ -21,4 +21,4 @@ Robot Chopter is a arcade game, shoot the enemy and collect the jewel to earn sc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, fly, Helicopter, HTML5, Pixel, Shoot, Shooter
+- Tags: 1 Player, fly, helicopter, HTML5, pixel, Shoot, Shooter

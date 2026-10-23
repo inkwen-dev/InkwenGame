@@ -19,6 +19,6 @@ Hey Kids Daily dental care is very important for oral hygiene and tooth health w
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Doctor, Kids

@@ -19,6 +19,6 @@ Bubble World returns with a modern taste including a new adventure mode. Try to 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, H5, HTML, HTML5, Match 3, Match3, Matching, Mobile, Punch, Puzzle, Shoot, Shooter

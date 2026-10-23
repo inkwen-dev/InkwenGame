@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 飞行, 有趣, HTML5, 孩子们, 移动设备, 拼图, 技巧
+- 标签: 飞, 有趣, HTML5, 儿童, 移动设备, 益智, 技巧

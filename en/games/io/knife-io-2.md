@@ -15,6 +15,6 @@ In Knife io, unleash your inner blade master in a fast-paced duel of wits and re
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Fighting
+- Tags: fighting

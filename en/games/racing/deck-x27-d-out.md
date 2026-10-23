@@ -21,4 +21,4 @@ The Ninja Turtles are taking a break from battling their enemies to skateboard t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Best, H5, Hot, HTML5, New, Ninja, Ninjago, Race, Racing
+- Tags: Action, Adventure, Best, H5, Hot, HTML5, New, ninja, Ninjago, Race, Racing

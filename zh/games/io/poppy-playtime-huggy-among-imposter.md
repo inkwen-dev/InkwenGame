@@ -21,4 +21,4 @@ Poppy Playtime Huggy 与冒牌者是一款关于合作与背叛的游戏……�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 单人, 3D 游戏, 街机, 击杀
+- 标签: .io 游戏, 单人, 3D游戏, 街机, 杀戮

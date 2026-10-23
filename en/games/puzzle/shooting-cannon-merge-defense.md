@@ -19,6 +19,6 @@ Shooting Cannon Merge Defense is an interesting free online game designed for bo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boy, Brain, Fun, HTML5, Kids, Number, Online, Puzzle, Shooting, Skill

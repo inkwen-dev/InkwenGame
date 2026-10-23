@@ -21,4 +21,4 @@ This Game is a new concept in hospital games that you would surely love. and lik
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, Cartoon, Cartoon Network, Doctor, Kids, Simulation, Surgery
+- Tags: Baby, Baby Hazel, Cartoon, Cartoon Network, Doctor, Kids, Simulation, surgery

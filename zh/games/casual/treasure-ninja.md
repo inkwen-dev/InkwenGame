@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, Bejeweled, 休闲, 游戏, HTML5, 超休闲, Matching, 忍者
+- 标签: 单人, 2D, 宝石迷阵, 休闲, 网页游戏, HTML5, 超休闲, 匹配, 忍者

@@ -19,6 +19,6 @@ Play Mr Shooter New 2 tap quickly to pass many challenging missions, at each lev
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Brain, Fight, Game, Games, Shoot, Shooter

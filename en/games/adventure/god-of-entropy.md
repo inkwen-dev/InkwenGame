@@ -29,4 +29,4 @@ A falling‑sand simulation with both story and sandbox modes. Freely experiment
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, story, Strategy
+- Tags: Adventure, story, strategy

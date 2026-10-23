@@ -19,6 +19,6 @@ Press your finger and adjust the direction to shoot and release finger, if you h
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, Fruit, Funny, Game, Games, HTML5, Match 3

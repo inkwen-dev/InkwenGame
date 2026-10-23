@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 动作, 最佳, HTML5, 骑士, 马里奥, 平台, 横向卷轴
+- 标签: 单人, 动作, 最佳, HTML5, knight, mario, 平台, 横向滚动

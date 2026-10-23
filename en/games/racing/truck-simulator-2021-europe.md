@@ -19,6 +19,6 @@ Here is a truck driving transport simulation game with a 3D game engine. As a pr
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Driving, Simulator, Timing, Truck, WebGL
+- Tags: 3D, Android, Driving, Simulator, Timing, truck, WebGL

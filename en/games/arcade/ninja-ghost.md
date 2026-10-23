@@ -21,4 +21,4 @@ Ninja Ghost immerses you in the world of a ninja on a mission to confront notori
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, HTML5, iPad, iPhone, Level, Mentolatux, Mobile, Ninja, Unity3D, WebGL
+- Tags: Android, HTML5, iPad, iPhone, Level, Mentolatux, Mobile, ninja, Unity3D, WebGL

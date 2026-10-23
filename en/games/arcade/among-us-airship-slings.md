@@ -19,6 +19,6 @@ Among us airship slings is a fun game. Get out of the traps and escape by helico
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Aircraft, Alien, Android, Arcade, Arena, Jumping
+- Tags: 1 Player, 2D, Action, Aircraft, Alien, Android, Arcade, Arena, jumping

@@ -19,6 +19,6 @@ Mathematic is fun addictive puzzle game.This game is best for kids who wants to 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kids, Math, Number, Puzzle
+- Tags: Kids, math, Number, Puzzle

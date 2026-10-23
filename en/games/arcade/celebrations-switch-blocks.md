@@ -21,4 +21,4 @@ Hi there, pals The year 2024 has arrived. Let&rsquo;s begin the festivities by p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Puzzle, Tetris
+- Tags: block, Puzzle, tetris

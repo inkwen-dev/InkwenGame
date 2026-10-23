@@ -21,4 +21,4 @@ In Stickman Sniper: Western Gun, you become a brave Western gunslinger. Grab you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Shoot, Sniper, Stickman
+- Tags: Shoot, sniper, stickman

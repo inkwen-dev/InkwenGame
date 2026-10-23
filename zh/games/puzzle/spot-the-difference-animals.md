@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动物, 休闲, 差异, 有趣, HTML5, 儿童, 手机
+- 标签: 动物, 休闲, 找不同, 有趣, HTML5, 儿童, 移动设备

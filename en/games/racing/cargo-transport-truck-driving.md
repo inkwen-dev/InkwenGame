@@ -19,6 +19,6 @@ Euro Truck Cargo Transport: Forklift Truck Game Enjoy Euro Truck Cargo Transport
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Boy, Boys, bus, Car, Cars, city, Driving, Game, Games, Kids, Parking, Plane, RPG, Simulation, Simulator, Truck, Unity3D
+- Tags: 3D, 3D Games, Adventure, Boy, Boys, bus, Car, Cars, city, Driving, Game, Games, Kids, parking, Plane, rpg, Simulation, Simulator, truck, Unity3D

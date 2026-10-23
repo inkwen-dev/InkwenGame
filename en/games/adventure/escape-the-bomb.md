@@ -15,6 +15,6 @@ Dive into Escape the Bomb, where agile reflexes are your best ally. Navigate thr
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Casual

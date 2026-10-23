@@ -21,4 +21,4 @@ Watch your ball carefully as it rolls to avoid all the neon blocks that are tryi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bricks, Puzzle, Tetris
+- Tags: Bricks, Puzzle, tetris

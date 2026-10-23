@@ -19,6 +19,6 @@ Coloring Dinosaurs For Kids is a painting, drawing and coloring game for kids! H
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Dinosaur, Draw, Drawing, Educational, Kid, Kids
+- Tags: Color, Coloring, Dinosaur, Draw, drawing, educational, Kid, Kids

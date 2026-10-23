@@ -19,6 +19,6 @@ Are you ready for an 8-bit gaming adventure? In this 8-bit game, youll need to g
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Craft, Minecraft, Miner, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Craft, Minecraft, Miner, pixel

@@ -19,6 +19,6 @@ Godzilla Runner Game is a fast-paced endless runner where you control the legend
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, Action, Adventure, Arcade, crazygamesunblocked, dino, Dinosaur, running, unblocked, unblockedgames66, unblockedgamesatschool

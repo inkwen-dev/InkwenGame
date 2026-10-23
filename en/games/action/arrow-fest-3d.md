@@ -21,4 +21,4 @@ Pick the best gates and destroy everyone on your way in Arrow Fest ! It is time 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Battle, Hypercasual
+- Tags: 3D, Action, battle, Hypercasual

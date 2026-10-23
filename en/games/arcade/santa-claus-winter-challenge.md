@@ -19,6 +19,6 @@ Santa Claus Winter Challenge is an amazing and free to play online puzzle game s
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Avoid, Boys, Christmas, Draw, Fun, Girls, HTML5, Kids, Skill, Winter

@@ -21,4 +21,4 @@ Have fun with this free new game Rublox Space Farm is a strategy, casual and puz
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bomb, Puzzle, Strategy
+- Tags: Bomb, Puzzle, strategy

@@ -21,4 +21,4 @@ Flip Master is an exciting game about acrobatics and parkour! Perform spectacula
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping, Levels, Mobile, Obstacle, Stunts
+- Tags: jumping, Levels, Mobile, Obstacle, Stunts

@@ -19,6 +19,6 @@ Tap, tap, tap ... jump, jump, jump. Jump from one tree to the other, defeat enem
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D, Adventure, Arcade, Battle, Clash, Fight, Fun, jump, Jumping, Killing, Ninja, Unity3D, War
+- Tags: .io Games, 2 Player Games, 3D, Adventure, Arcade, battle, Clash, Fight, Fun, jump, jumping, Killing, ninja, Unity3D, War

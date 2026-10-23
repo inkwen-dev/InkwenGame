@@ -19,6 +19,6 @@ You need to collect all the coins at every level. There are two modes in game: t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Logic, Pixel, Platform, Puzzle, Retro
+- Tags: Logic, pixel, Platform, Puzzle, retro

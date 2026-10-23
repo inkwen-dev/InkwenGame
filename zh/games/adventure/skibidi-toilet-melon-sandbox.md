@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Poppy Playtime, 沙盒, Skibidi, Skibidi 马桶
+- 标签: 波比游乐场, 沙盒, Skibidi, skibidi-toilet

@@ -19,6 +19,6 @@ This is a thrilling real-time survival strategy game where you control a growing
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Horror, Knight, Shooter, Shooting, Zombie
+- Tags: Action, Horror, knight, Shooter, Shooting, Zombie

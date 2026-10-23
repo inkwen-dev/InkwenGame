@@ -21,4 +21,4 @@ Welcome to Sigil Seeker!\\\\nEmbark on a quest to collect mystical sigils by tap
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, html5 games, Mahjong, Matching, Mobile
+- Tags: Clicker, html5 games, mahjong, Matching, Mobile

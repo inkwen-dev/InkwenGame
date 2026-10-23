@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Animal, Arcade, Block, Brain, Classic, Click, Clicker, Color, Coloring, Fun, Funny, Girl, Girls, Highscore, Kid, Kids, Maze, Mind, Mobile, Puzzle, Quiz
+- Tags: Android, Animal, Arcade, block, Brain, Classic, Click, Clicker, Color, Coloring, Fun, Funny, Girl, Girls, Highscore, Kid, Kids, Maze, Mind, Mobile, Puzzle, Quiz

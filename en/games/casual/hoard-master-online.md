@@ -19,6 +19,6 @@ This is a black hole game. You only need a mouse slide or a finger to control th
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Best Games, Funny, Hypercasual, Physics, slide

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 幽灵, 万圣节, 消除3, 怪物, 僵尸
+- 标签: 幽灵, 万圣节, 三消, monster, 僵尸

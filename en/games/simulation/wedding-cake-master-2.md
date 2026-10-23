@@ -19,6 +19,6 @@ Wedding Cake Master is an online HTML5 game, it's playable in browsers such as s
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, Cake, Color, Cook, Cooking, Elsa, Girls, RPG
+- Tags: Baby, Baby Hazel, Cake, Color, Cook, Cooking, Elsa, Girls, rpg

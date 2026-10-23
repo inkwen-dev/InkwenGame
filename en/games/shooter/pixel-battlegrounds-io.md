@@ -21,4 +21,4 @@ Pixel Battlegrounds.IO is a shooting game, you can choose different characters, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Pixel, Shooting
+- Tags: .io, pixel, Shooting

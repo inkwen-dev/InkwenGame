@@ -21,4 +21,4 @@ Tap To Match The Crazy Cakes As Many As You Can! Memory Test: Giddy Cake Game ne
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Family, HTML, HTML5, Kids, Memory, Puzzle
+- Tags: Brain, Family, HTML, HTML5, Kids, memory, Puzzle

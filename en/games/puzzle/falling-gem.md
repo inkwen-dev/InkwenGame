@@ -19,6 +19,6 @@ Welcome to Falling Gem, the ultimate gem-matching puzzle game that will captivat
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Best Games, Bubble Shooter, free games for your site, free games for your website, free html5 games for your website, Game, Games, games for your website, Shoot, Shooter, Shooting

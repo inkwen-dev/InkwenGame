@@ -21,4 +21,4 @@ Pro Builder 3D 是一款令人满足的建造与销售模拟游戏，讲述如�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 建造者, 建设, 房屋, 闲暇, 模拟
+- 标签: 3D, 建造者, 建造, 房子, idle, 模拟

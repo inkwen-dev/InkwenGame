@@ -19,6 +19,6 @@ A fun animal adventure filled with hidden words! Animal Word Search Quest is a c
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collecting, Fun, HTML5, Hypercasual, Puzzle, Skill, Word
+- Tags: Collecting, Fun, HTML5, Hypercasual, Puzzle, Skill, word

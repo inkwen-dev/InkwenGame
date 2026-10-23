@@ -21,4 +21,4 @@ Let your kids showcase their creativity this Easter by painting and decorating E
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Coloring, Decorate, Decoration, Drawing, Easter, Fun, Girls, HTML5, Kids, Mobile, Princess
+- Tags: Cartoon, Coloring, Decorate, Decoration, drawing, Easter, Fun, Girls, HTML5, Kids, Mobile, Princess

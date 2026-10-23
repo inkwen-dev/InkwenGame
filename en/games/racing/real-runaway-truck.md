@@ -21,4 +21,4 @@ Runaway Truck is a very interesting simulated driving game with interesting musi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boy, Car, Fun, Girl, Kid, Racing, running, Truck
+- Tags: 3D, Boy, Car, Fun, Girl, Kid, Racing, running, truck

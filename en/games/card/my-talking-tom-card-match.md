@@ -19,6 +19,6 @@ This simple but elegant memory card matching game was designed for anyone that w
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Card, Games, Memory, New
+- Tags: Brain, card, Games, memory, New

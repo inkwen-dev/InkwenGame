@@ -21,4 +21,4 @@ Dive into an exciting underwater adventure with Fish Hunting Game! Explore the d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, amazing, Fish, Fun, Hunting
+- Tags: 2026 games, amazing, Fish, Fun, hunting

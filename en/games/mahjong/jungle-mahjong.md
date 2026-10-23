@@ -21,4 +21,4 @@ Jungle Mahjong is tiles based pair matching game. Collect the pairs of identical
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mahjong, Matching, Mobile, Puzzle
+- Tags: mahjong, Matching, Mobile, Puzzle

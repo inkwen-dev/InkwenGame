@@ -19,6 +19,6 @@ Sylvester and Tweety are cartoon characters. Sylvester is a cat and chases Tweet
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cartoon, Cat, Decorate, Dress Up, Fashion, Fun, Game, HTML5

@@ -19,6 +19,6 @@ Whats better to do on a foreign planet than collecting gems? Thats right. Avoidi
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Alien, Fashion, Fun, Funny, Geometry, Highscore, Jelly, Rocket, Space, Spaceship, Timing

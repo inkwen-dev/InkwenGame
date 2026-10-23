@@ -21,4 +21,4 @@ ABC words is a game developed for children with the aim of teaching words throug
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cartoon, Click, Clicker, Educational, Family, Game, Games, HTML, HTML5, Kid, Kids, Letters, Logic, Mobile, Online, Puzzle, Quiz, School
+- Tags: Baby, Cartoon, Click, Clicker, educational, Family, Game, Games, HTML, HTML5, Kid, Kids, Letters, Logic, Mobile, Online, Puzzle, Quiz, School

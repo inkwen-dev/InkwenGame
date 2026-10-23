@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 3D, 汉堡, 休闲, 收集, 合集, 颜色, 烹饪, 超休闲, 竞速, 竞速, Stickman, WebGL
+- 标签: .io 游戏, 3D, 汉堡, 休闲, 收集, 收藏, 颜色, 厨艺, 超休闲, 比赛, 竞速, 木偶人, WebGL

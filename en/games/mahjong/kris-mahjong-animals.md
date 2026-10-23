@@ -21,4 +21,4 @@ In Kris Mahjong Animals, be prepared to test your attention! Cats and Lions and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Baby, Cat, Cute, Funny, Girl, Logic, Mahjong, Puzzle
+- Tags: 1 Player, Animal, Baby, Cat, Cute, Funny, Girl, Logic, mahjong, Puzzle

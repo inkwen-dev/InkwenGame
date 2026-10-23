@@ -21,4 +21,4 @@ F 键进入或离开车辆，Tab 键打开菜单，WASD 键控制车辆或角色
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 最佳, 汽车, 汽车, 疯狂, 驾驶, 超级, 超级跑车, Unity3D, WebGL
+- 标签: 3D, 3D游戏, 最佳, 汽车, 汽车, 疯狂, 驾驶, 超级, 超跑, Unity3D, WebGL

@@ -21,4 +21,4 @@ Welcome to Fruit Picking Fun, a delightful and engaging game for all ages! Dive 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Games, Baby Hazel, Best, Best Games, Educational, Hypercasual, Kids, NapTech Games, Online, Puzzle
+- Tags: Baby, Baby Games, Baby Hazel, Best, Best Games, educational, Hypercasual, Kids, NapTech Games, Online, Puzzle

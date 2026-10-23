@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 汽车们, 驾驶, 枪械
+- 标签: 动作, 汽车, 驾驶, 枪械

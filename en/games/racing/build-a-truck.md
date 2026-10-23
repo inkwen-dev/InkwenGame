@@ -21,4 +21,4 @@ Build A Truck is a very fun game. In this game, you can assemble the coolest tru
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Car, Driving, Fun, HTML5, Kids, Mobile, Truck
+- Tags: Boys, Car, Driving, Fun, HTML5, Kids, Mobile, truck

@@ -21,4 +21,4 @@ Power Link is an electrifying puzzle game that challenges players to connect cir
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2048, 2D, Best, Best Games, Puzzle, puzzleblock, Strategy
+- Tags: 1 Player, 2048, 2D, Best, Best Games, Puzzle, puzzleblock, strategy

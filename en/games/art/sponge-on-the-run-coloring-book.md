@@ -21,4 +21,4 @@ First, you choose which one of the eight pages you want to color. On the bottom 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Coloring, Draw, Drawing, Puzzle
+- Tags: 1 Player, Coloring, Draw, drawing, Puzzle

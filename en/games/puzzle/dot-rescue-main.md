@@ -19,6 +19,6 @@ Connect Dots is addictive line puzzle game. Let's connect two same color dots.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 2 Player, 2D, 3D, Action, Adventure, Arcade, Ball, Bubble Shooter, Fun, Funny, Hot, jump, Puzzle, Unity3D

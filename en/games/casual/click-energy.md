@@ -19,6 +19,6 @@ Click Energy is a fast-paced casual game where every second counts! Tap on the a
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Hypercasual, Pixel
+- Tags: Click, Hypercasual, pixel

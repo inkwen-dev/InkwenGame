@@ -21,4 +21,4 @@ Follow the game instructions
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2048, 3D, Arcade, Math, Number
+- Tags: 2048, 3D, Arcade, math, Number

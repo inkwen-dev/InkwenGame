@@ -21,4 +21,4 @@ Compete to become the richest and fastest player in the world! Steal eggs from p
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Adventure, Arcade, Clicker, Monster, obby, running, Simulation
+- Tags: 3D, Adventure, Arcade, Clicker, monster, obby, running, Simulation

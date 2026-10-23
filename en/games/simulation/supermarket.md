@@ -19,6 +19,6 @@ Have you ever thought of own a chain supermarket? Now you have a wonderful chanc
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Management, Shopping
+- Tags: management, Shopping

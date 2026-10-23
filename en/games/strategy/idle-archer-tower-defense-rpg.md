@@ -21,4 +21,4 @@ Welcome brave archer heroes to the enchanting realm of Idle Archer Tower Defense
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Bow, Castle, Defense, Kids, Magic, Mobile, Online, RPG, Skills, Stickman, Tower Defense, War
+- Tags: 1 Player, 2D, Bow, Castle, Defense, Kids, Magic, Mobile, Online, rpg, Skills, stickman, Tower Defense, War

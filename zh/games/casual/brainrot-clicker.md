@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 最佳, 最佳游戏, 脑残, 卡通, 休闲, 疯狂, 游戏, HTML5, 意大利脑残梗, 特技, Tralalero Tralala, 东东东守夜, WebGL, 世界
+- 标签: 最佳, 最佳游戏, 脑残, 卡通, 休闲, 疯狂, 游戏, HTML5, 意大利脑残, 特技, 特拉拉雷 特拉拉, 咚咚咚 萨胡尔, WebGL, 世界

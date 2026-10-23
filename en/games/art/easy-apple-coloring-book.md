@@ -21,4 +21,4 @@ Easy Apple Coloring Book is a fun and relaxing coloring book made especially for
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Coloring, Drawing, Educational, Fun, Girls, School
+- Tags: Boys, Coloring, drawing, educational, Fun, Girls, School

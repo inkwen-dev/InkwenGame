@@ -19,6 +19,6 @@ The match-3 puzzle game that’ll make you go bananas! Fruits Mania : Elly’s t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Baby, Ball, Battle, Click
+- Tags: Adventure, Baby, Ball, battle, Click

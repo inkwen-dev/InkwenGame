@@ -19,6 +19,6 @@ Now is the World Cup, let's have fun! Behind these pictures are small difference
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Difference, Football, HTML5, Kids, Skill, Soccer

@@ -21,4 +21,4 @@ Car racing is a fascinating sight, but it is especially interesting when heavy v
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Best Games, Difference, Fun, HTML5, Kids, Mobile, Skill, Truck
+- Tags: Best, Best Games, Difference, Fun, HTML5, Kids, Mobile, Skill, truck

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, Android, 女孩, HTML5, iPad, iPhone, 造型改造, Mentolatux, 移动, 技巧, unity
+- 标签: 3D, 安卓, 女孩, HTML5, iPad, iPhone, 改造, Mentolatux, 移动设备, 技巧, unity

@@ -21,4 +21,4 @@ Tall Man Runner is an addictive arcade game. I guess you will fall in love with 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Collecting, Jumping, Kids, Mobile, Platform, running, Skill
+- Tags: Avoid, Collecting, jumping, Kids, Mobile, Platform, running, Skill

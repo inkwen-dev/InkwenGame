@@ -21,4 +21,4 @@ Controle o Skibidi Toilet como um personagem rapido e voraz, desvie dos inimigos
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Escape, running, Skibidi, Skibidi Toilet
+- Tags: Action, Arcade, Escape, running, Skibidi, skibidi-toilet

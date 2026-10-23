@@ -19,6 +19,6 @@ The red hand slap is the ultimate slap hand gaming experience that you always de
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Arkanoid, Army, Baby Hazel

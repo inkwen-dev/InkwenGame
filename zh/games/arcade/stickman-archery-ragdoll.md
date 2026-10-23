@@ -21,4 +21,4 @@ Stickman 弓箭手 是一位线条流畅、体格健壮的黑色 stickman 战士
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 物理, 逼真, Stickman
+- 标签: 物理, 真实, 木偶人

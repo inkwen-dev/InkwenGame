@@ -19,6 +19,6 @@ Magic knife is a casual game when the player thew the knife and it backs to the 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 2026 games, 3D Games, Adventure, arrow, attack, Bridge, Casual, Fire, Hidden, Levels, sky, Zombie

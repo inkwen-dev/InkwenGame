@@ -19,6 +19,6 @@ Flappy Talking Tom is an online game that you can play for free. You may have pl
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Avoid, Boys, Collecting, fly, Fun, HTML5, jump, Kids, Skill

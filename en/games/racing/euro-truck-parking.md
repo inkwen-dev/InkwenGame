@@ -19,6 +19,6 @@ Euro Truck Parking is an exciting truck-driving and parking simulation game wher
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Best Games, city, Driving, Fun, Parking, Simulation, Truck
+- Tags: 1 Player, Best Games, city, Driving, Fun, parking, Simulation, truck

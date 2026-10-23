@@ -19,6 +19,6 @@ It is a challenging puzzle game. Playing this game is very simple. You need to m
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Board, HTML5, Logical, Mobile, Skill
+- Tags: block, Board, HTML5, Logical, Mobile, Skill

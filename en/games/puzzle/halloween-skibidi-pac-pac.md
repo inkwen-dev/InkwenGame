@@ -21,4 +21,4 @@ Get Ready for Halloween Skibidi Pac Pac! Dive into the Halloween-themed maze, wh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Collecting, Halloween, Hypercasual, Kids, PacMan, Skibidi, Skibidi Toilet, Skill
+- Tags: Avoid, Collecting, Halloween, Hypercasual, Kids, PacMan, Skibidi, skibidi-toilet, Skill

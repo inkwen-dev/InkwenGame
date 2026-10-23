@@ -21,4 +21,4 @@ Jump in the circle and obtain points for reach the best score and gems for purch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Casual, Funny, Game, HTML5, Hypercasual, jump, Jumping, Mobile, Skill, Skills
+- Tags: Ball, Casual, Funny, Game, HTML5, Hypercasual, jump, jumping, Mobile, Skill, Skills

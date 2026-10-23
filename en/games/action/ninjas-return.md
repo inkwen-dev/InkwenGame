@@ -21,4 +21,4 @@ Help our ninja hero save his beloved wife from the evil Dark Ninja! To progress,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ninja, Ninjago, Platform, Princess, Sword
+- Tags: ninja, Ninjago, Platform, Princess, sword

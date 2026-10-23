@@ -21,4 +21,4 @@ Choose the best jailbreak story from the best criminal escape master games of 20
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Action, Arcade, Best, Clicker, Crazy, Games, HTML, HTML5, Mobile, Point And Click, Unity3D, WebGL
+- Tags: 1 Player, 3D Games, Action, Arcade, Best, Clicker, crazy, Games, HTML, HTML5, Mobile, Point And Click, Unity3D, WebGL

@@ -21,4 +21,4 @@ Welcome to Set The BOX, a fun and addictive physics-based puzzle game where you 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Baby Games, Best Games, Block
+- Tags: 1 Player, 2D, Baby Games, Best Games, block

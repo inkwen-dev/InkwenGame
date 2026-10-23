@@ -15,6 +15,6 @@ Guide Santa's sleigh through a balloon-infested North Pole in Xmas Furious! Navi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Arcade

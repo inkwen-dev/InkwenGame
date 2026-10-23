@@ -19,6 +19,6 @@ The ultimate hide and seek game is about to begin! You need to disguise yourself
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Avoid, Boy, Fun, Funny, Girl, Hypercasual, Kid, run

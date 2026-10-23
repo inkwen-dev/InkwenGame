@@ -19,6 +19,6 @@ Messi makes the move to a new Continent and new challenges await. Participate in
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Football, Soccer, Sport

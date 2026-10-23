@@ -21,4 +21,4 @@ Jumper the Game is a game Arcade it’s a classic style game, dodge the obstacle
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Arcade, Puzzle, Retro
+- Tags: 1 Player, Action, Adventure, Arcade, Puzzle, retro

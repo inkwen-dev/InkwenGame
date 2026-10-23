@@ -21,4 +21,4 @@ Slide the shapes blocks towards another block having identical shape to eliminat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Board, Educational, HTML5, Kids, Mobile, Puzzle, School
+- Tags: block, Board, educational, HTML5, Kids, Mobile, Puzzle, School

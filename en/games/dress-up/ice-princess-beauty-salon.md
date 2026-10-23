@@ -19,6 +19,6 @@ Have a great time alongside the ice princess and discover the wonders of her mag
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cooking, Decoration, Design, Dress Up, Educational, Fashion, Girl, Girls, Kids, Makeover, Princess, Simulation
+- Tags: Baby, Cooking, Decoration, Design, Dress Up, educational, Fashion, Girl, Girls, Kids, Makeover, Princess, Simulation

@@ -19,6 +19,6 @@ Samurai II sends Daisuke on a quest for revenge across the war-scorched countrys
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Fight, Fighting, Ninja, Samurai, Street Fighting, Superhero
+- Tags: Action, Fight, fighting, ninja, Samurai, Street Fighting, Superhero

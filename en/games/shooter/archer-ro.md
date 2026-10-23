@@ -21,4 +21,4 @@ Archer.ro is a strategy game in which the player can build it's empire and use h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Shoot, Strategy, Superhero, WebGL
+- Tags: 2D, Shoot, strategy, Superhero, WebGL

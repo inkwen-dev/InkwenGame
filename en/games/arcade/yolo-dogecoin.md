@@ -21,4 +21,4 @@ This is a real stock exchange game) Where you can soar to millions or become ban
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Arcade, Baby, Business, Casual, Click, Clicker, Crazy, endless, Funny, Highscore, HTML5, Hypercasual, Mobile, New, World
+- Tags: 1 Player, 2D, Action, Adventure, Arcade, Baby, Business, Casual, Click, Clicker, crazy, endless, Funny, Highscore, HTML5, Hypercasual, Mobile, New, World

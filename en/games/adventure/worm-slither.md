@@ -21,4 +21,4 @@ Worm Slither is fun addictive adventure game.Eat the bugs to make your worm bigg
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Casual, Slither, Snake, Worm, Worms
+- Tags: Adventure, Casual, Slither, snake, worm, Worms

@@ -21,4 +21,4 @@ Cuphead And Mugman Run is a classic run and gun action game heavily focused on b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, jump, Jumping, run, running
+- Tags: Adventure, Arcade, jump, jumping, run, running

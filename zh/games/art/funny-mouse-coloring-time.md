@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 颜色, 涂色, HTML5, 休闲, 孩子们, Mobile, 学校
+- 标签: 颜色, 着色, HTML5, 超休闲, 儿童, 移动设备, 学校

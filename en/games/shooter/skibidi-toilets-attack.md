@@ -21,4 +21,4 @@ Skibidi Toilet Attack game is a horror game with a character of Skibidi Toilet, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Funny, Shooter, Skibidi Toilet
+- Tags: 3D, Action, Funny, Shooter, skibidi-toilet

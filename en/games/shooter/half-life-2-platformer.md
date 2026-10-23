@@ -19,6 +19,6 @@ Take Gordon Freeman through five chapters in an illustrated Half-Life 2 action p
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Platform, Shoot, Shoot 'Em Up, Shooter, Shooting

@@ -19,6 +19,6 @@ Arnie Attack 1 game has a lot of success review and player this MONTH that signi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Bubble Shooter, Interactive, Interactive Fiction, Kill, Killing, Road, Shoot, Shoot 'Em Up, Shooter, Shooting, Skill, Skills

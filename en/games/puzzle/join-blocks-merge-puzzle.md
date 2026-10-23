@@ -21,4 +21,4 @@ Join Blocks - We promise you will love this puzzle game. It will help you to tra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Puzzle
+- Tags: block, Puzzle

@@ -19,6 +19,6 @@ This driving popular super car simulator 3D ensures realistic car damage and acc
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Car, Cars, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, Interactive, jump, Jumping, Parking, Race, Racing, Simulation, Simulator
+- Tags: .io Games, Car, Cars, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, Interactive, jump, jumping, parking, Race, Racing, Simulation, Simulator

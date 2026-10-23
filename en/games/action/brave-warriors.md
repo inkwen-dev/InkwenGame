@@ -21,4 +21,4 @@ This platform adventure and action game, where warriors must cross the valley of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting, Fun, HTML5, Mobile, Platform, Skill
+- Tags: Fight, fighting, Fun, HTML5, Mobile, Platform, Skill

@@ -21,4 +21,4 @@ In Pigeon Ascent, take care of your own pigeon as they fight increasingly strong
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bird, Fight, Fighting
+- Tags: Bird, Fight, fighting

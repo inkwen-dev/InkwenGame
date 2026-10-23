@@ -19,6 +19,6 @@ Police Chase Car Racing Game is a free online car racing game. Police Chase Car 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Hypercasual, Police, Race, Racing
+- Tags: Arcade, Hypercasual, police, Race, Racing

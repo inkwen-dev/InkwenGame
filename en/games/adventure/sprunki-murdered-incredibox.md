@@ -21,4 +21,4 @@ Now its time to murder Sprunki inin this epic fight! Grab any item to burn Sprun
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: huggy, Skibidi Toilet, Sprunki, Superhero
+- Tags: huggy, skibidi-toilet, Sprunki, Superhero

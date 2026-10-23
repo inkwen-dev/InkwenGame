@@ -19,6 +19,6 @@ Welcome to Scary Granny House - The Horror Game... Granny keeps you locked in he
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Crazy, Escape, Ghost, Halloween, House, Unity3D
+- Tags: Adventure, crazy, Escape, Ghost, Halloween, House, Unity3D

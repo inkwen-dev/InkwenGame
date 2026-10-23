@@ -22,4 +22,4 @@ This browser-based tower defense game features a classic 2D top-down perspective
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Strategy, Tower Defense
+- Tags: strategy, Tower Defense

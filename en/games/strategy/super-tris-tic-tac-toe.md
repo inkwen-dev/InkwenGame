@@ -19,6 +19,6 @@ Super Tris is a fun and colorful take on the classic Tic-Tac-Toe game! Challenge
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, HTML5, mapi games, Strategy
+- Tags: Brain, Casual, HTML5, mapi games, strategy

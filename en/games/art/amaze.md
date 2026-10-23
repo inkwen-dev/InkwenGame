@@ -36,4 +36,4 @@ Get ready to be amazed! In this game, pop and move the ball to paint your way th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Color, Drawing, Maze, Puzzle
+- Tags: Color, drawing, Maze, Puzzle

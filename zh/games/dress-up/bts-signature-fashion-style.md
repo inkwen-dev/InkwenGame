@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩, 可爱, 装扮, 时尚
+- 标签: 男孩们, 可爱, 装扮, 时尚

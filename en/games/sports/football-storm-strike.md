@@ -21,4 +21,4 @@ Be the Hero of football game Score unlimited goals in this ultimate football str
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Hypercasual, Puzzle, Strategy
+- Tags: Football, Hypercasual, Puzzle, strategy

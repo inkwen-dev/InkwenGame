@@ -21,4 +21,4 @@
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Balance, Brain, Classic, Crazy, Sports
+- Tags: Action, Adventure, Balance, Brain, Classic, crazy, sports

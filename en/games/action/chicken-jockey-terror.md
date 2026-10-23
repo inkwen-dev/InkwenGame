@@ -15,6 +15,6 @@ Enter the eerie world of Chicken Jockey Terror, where you, a zombie child on a b
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Action

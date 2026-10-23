@@ -21,4 +21,4 @@ Winter Math Warm-up is a math puzzle game. In this game you need to find the val
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, HTML5, Logical, Math, Mobile, Puzzle, School, Winter
+- Tags: educational, HTML5, Logical, math, Mobile, Puzzle, School, Winter

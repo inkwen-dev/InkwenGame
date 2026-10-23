@@ -21,4 +21,4 @@ Challenge your mind with the Ultimate Digital Rubiks Cube Simulator! From beginn
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Memory, Puzzle
+- Tags: Best Games, memory, Puzzle

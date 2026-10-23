@@ -19,6 +19,6 @@ Welcome to Candy Manor! Renovate the mansion and solve challenging puzzles with 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 8 Ball Pool, Aircraft, Arcade, Arena, Arkanoid, Army, Barbie, Battlegrounds, Billiard, Board, Boy, Boys, Brawl, Bubble, Bubble Shooter, Candy, Car, Clans, Clash, Cleaning, Craft, Girl, Girls, Grooming, Silver

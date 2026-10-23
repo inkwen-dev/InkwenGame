@@ -21,4 +21,4 @@ Neon Space Jump is addictive flash game where you need to control neon ball to j
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, jump, Jumping, Kids, Space
+- Tags: Ball, jump, jumping, Kids, Space

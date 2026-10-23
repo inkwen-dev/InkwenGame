@@ -21,4 +21,4 @@ We offer you to enjoy the puzzle game about Among As. This is an ancient Chinese
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Arcade, Mahjong, Online, Puzzle
+- Tags: .io Games, Arcade, mahjong, Online, Puzzle

@@ -15,6 +15,6 @@ Run to shape your destiny in Truth Runner. Dash through diverse terrains, aspiri
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Casual

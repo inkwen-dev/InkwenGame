@@ -21,4 +21,4 @@ Descend into the subway and head towards a new adventure in the endless runner S
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, H5, Hot, HTML, HTML5, jump, Jumping, Racing, run, running, subway, Subway Surfers
+- Tags: 3D, 3D Games, Adventure, H5, Hot, HTML, HTML5, jump, jumping, Racing, run, running, subway, Subway Surfers

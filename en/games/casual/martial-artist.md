@@ -21,4 +21,4 @@ This time, you are a martial artist, and you will experience the combination of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: RPG, Superhero, Turn Based
+- Tags: rpg, Superhero, Turn Based

@@ -21,4 +21,4 @@ Survive as long as possible and collect the baits to rank high on the leaderboar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Multiplayer, Shark, Slither, Snake, Worms
+- Tags: .io, .io Games, Multiplayer, Shark, Slither, snake, Worms

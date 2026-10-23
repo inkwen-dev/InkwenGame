@@ -21,4 +21,4 @@ The Dark Lord Dracula woke up and he is completely famished! Take control of the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Blood, Boy, Boys, Classic, Click, Clicker, Girl, Girls, Halloween, jump, Jumping, Kid, Kids, Mobile, Monster, run, running
+- Tags: Blood, Boy, Boys, Classic, Click, Clicker, Girl, Girls, Halloween, jump, jumping, Kid, Kids, Mobile, monster, run, running

@@ -19,6 +19,6 @@ Race against opponents, and stack all the pieces of boards you can pick up along
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D, 3D Games, Action, Collection, Game, Games, Race, run, running, Simulation, Stack, Strategy, subway
+- Tags: .io Games, 1 Player, 3D, 3D Games, Action, Collection, Game, Games, Race, run, running, Simulation, Stack, strategy, subway

@@ -47,4 +47,4 @@ Key Features:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, cozy, Management, Physics, Simulation
+- Tags: 3D, cozy, management, Physics, Simulation

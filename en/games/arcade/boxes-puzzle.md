@@ -21,4 +21,4 @@ Boxes Puzzle game prepared with colorful cubes is waiting for you! You must brea
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Block, Bricks, Classic, Click, Puzzle
+- Tags: Arcade, Best, block, Bricks, Classic, Click, Puzzle

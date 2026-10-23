@@ -21,4 +21,4 @@ Interesting platform game for kids, where you need to collect coins and to pass 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Collection, Jumping, Platform
+- Tags: Avoid, Collection, jumping, Platform

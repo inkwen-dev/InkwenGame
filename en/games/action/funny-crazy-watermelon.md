@@ -19,6 +19,6 @@ Funny Crazy Watermelon &mdash; a platformer with physics. Play as a funny creatu
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Arcade, Ball, Best, Casual, Crazy, Mobile, New, Platform, watermelon
+- Tags: 1 Player, 2026 games, 2D, Arcade, Ball, Best, Casual, crazy, Mobile, New, Platform, watermelon

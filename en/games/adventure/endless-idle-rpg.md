@@ -21,4 +21,4 @@ Endless, an idle incremental RPG where your hero automatically fights waves of e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Fantasy, idle, RPG, Skills
+- Tags: 1 Player, Action, Fantasy, idle, rpg, Skills

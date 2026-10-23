@@ -15,6 +15,6 @@ Immerse yourself in Sugar Grid Quest, a vibrant puzzle adventure where fitting h
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Block
+- Tags: block

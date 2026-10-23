@@ -19,6 +19,6 @@ Reach the finish line on time with your extreme luxury and extremely expensive c
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Arcade, Car, Cars, Parking, Race, Racing, Supercars
+- Tags: 1 Player, 3D, 3D Games, Arcade, Car, Cars, parking, Race, Racing, Supercars

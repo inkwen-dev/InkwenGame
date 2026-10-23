@@ -21,4 +21,4 @@ Monster Truck is a fun 2D game where you get to control a monster truck! Perform
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, HTML5, Mobile, Monster, Truck
+- Tags: 2D, HTML5, Mobile, monster, truck

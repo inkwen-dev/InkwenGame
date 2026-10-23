@@ -19,6 +19,6 @@ In Traffic Driver game your job is to save the car from traffic. Drive and pass 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Car, Driving, Traffic

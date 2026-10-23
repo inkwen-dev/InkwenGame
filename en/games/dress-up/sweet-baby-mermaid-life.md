@@ -21,4 +21,4 @@ Dive into the magical underwater world and learn about the secret life of cute a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cleaning, Cooking, Decorate, Doctor, Dress Up, Girl, Girls, Kids, Makeover, Nail, Simulation, Surgery
+- Tags: Animal, Baby, Cleaning, Cooking, Decorate, Doctor, Dress Up, Girl, Girls, Kids, Makeover, Nail, Simulation, surgery

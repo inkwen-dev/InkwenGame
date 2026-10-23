@@ -19,6 +19,6 @@ An exciting puzzle about balls in a cup. Your task is to make all the balls colo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Ball, Best, Bounce, Casual, Collecting, Collection, HTML5, Hypercasual, Logic, Logical, Physics, Puzzle

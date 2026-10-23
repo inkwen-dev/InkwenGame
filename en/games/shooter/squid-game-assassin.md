@@ -19,6 +19,6 @@ Create an assassination plan against the workers and the killer doll and destroy
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Android, Arcade, Battle, Best, Clash, HTML5, Hypercasual, Kids, Mobile, Shooter, Strategy, War, WebGL
+- Tags: 3D, Action, Adventure, Android, Arcade, battle, Best, Clash, HTML5, Hypercasual, Kids, Mobile, Shooter, strategy, War, WebGL

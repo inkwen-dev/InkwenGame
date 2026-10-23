@@ -21,4 +21,4 @@ Is baseball your passion? Do you never miss a match? Do you want to play this ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Baseball, Game, Kid, Sport
+- Tags: Ball, baseball, Game, Kid, Sport

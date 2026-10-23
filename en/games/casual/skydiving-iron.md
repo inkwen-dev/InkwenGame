@@ -21,4 +21,4 @@ In this game you have to manage your own iron man, dodge enemy missiles and coll
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Boy, Collecting, Flight, fly, HTML5, Superhero, WebGL
+- Tags: 3D, Avoid, Boy, Collecting, flight, fly, HTML5, Superhero, WebGL

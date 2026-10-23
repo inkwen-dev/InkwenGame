@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 猫, 教育, 家庭, 休闲
+- 标签: 猫, 教育, 家庭, 超休闲

@@ -19,6 +19,6 @@ Roll the Ball: Sliding Block Rolling Puzzle is the wooden jigsaw game. Play this
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Block, Puzzle, Side Scrolling
+- Tags: Arcade, Ball, block, Puzzle, Side Scrolling

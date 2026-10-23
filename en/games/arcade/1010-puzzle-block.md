@@ -21,4 +21,4 @@ Drag and drop the objects with mouse
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Hypercasual, Puzzle, Tetris
+- Tags: 2D, Arcade, Hypercasual, Puzzle, tetris

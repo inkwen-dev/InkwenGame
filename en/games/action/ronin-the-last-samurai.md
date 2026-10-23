@@ -19,6 +19,6 @@ Era of doom. One warrior survives, and faces death of the Shogun. Collect the eq
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Fight, Fighting, Ninja, Samurai, Street Fighting, Super, War
+- Tags: Action, Adventure, Fight, fighting, ninja, Samurai, Street Fighting, Super, War

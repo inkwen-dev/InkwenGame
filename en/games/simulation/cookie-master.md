@@ -21,4 +21,4 @@ Cookie Master is a simulation game in which you create and decorate different ty
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cooking, Decorate, Decoration, Food, Girl, Girls, H5, Restaurant, Simulation, Simulator
+- Tags: Cooking, Decorate, Decoration, Food, Girl, Girls, H5, restaurant, Simulation, Simulator

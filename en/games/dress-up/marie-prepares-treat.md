@@ -19,6 +19,6 @@ Princess Marie loves to cook. Holidays are approaching and the girl decided to c
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Cooking, Decorate, Dress Up, Fashion, Girl, Holiday, HTML5, Ladybug, Love, Princess

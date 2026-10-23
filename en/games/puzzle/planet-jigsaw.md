@@ -19,6 +19,6 @@ The planets in this game are not like the planets you have seen before! Combine 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Fun, Girl, Girls, Jigsaw, Kid, Kids, Planet, Puzzle, Space, Spaceship

@@ -32,4 +32,4 @@ GAME FEATURES:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cats, Drawing, Puzzle
+- Tags: cats, drawing, Puzzle

@@ -21,4 +21,4 @@ With this car puzzle game, you need to park your car by solving the parking jam 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Baby Hazel, Candy, drift, drifting, Driving, Monkey, Monster, Moto, Motorcycle, Parking, Race, Racing, Space
+- Tags: 8 Ball Pool, Baby Hazel, Candy, drift, drifting, Driving, Monkey, monster, Moto, Motorcycle, parking, Race, Racing, Space

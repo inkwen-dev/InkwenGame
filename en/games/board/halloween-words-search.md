@@ -19,6 +19,6 @@ Find the word in straight line of blocks (Horizontally, vertically or diagonally
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Educational, Halloween, HTML5, Mobile, Puzzle, Word
+- Tags: Board, educational, Halloween, HTML5, Mobile, Puzzle, word

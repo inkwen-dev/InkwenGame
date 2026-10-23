@@ -24,4 +24,4 @@ Become the ultimate hunter in Hunting Master, a fun and strategic archery shooti
 - Plays on: mobile
 - Game language: en
 - Developer: Playgama
-- Tags: archery, Hunting
+- Tags: archery, hunting

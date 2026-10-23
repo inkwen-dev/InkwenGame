@@ -19,6 +19,6 @@ The Evil Goblin King living in the Creek has taken Small Uncle captive and stole
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Cartoon, Cartoon Network, HTML5

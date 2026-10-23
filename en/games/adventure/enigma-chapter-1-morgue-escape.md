@@ -15,6 +15,6 @@ Escape a eerie morgue in "Enigma Chapter 1: Morgue Escape." Use your wits to sol
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

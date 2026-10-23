@@ -19,6 +19,6 @@ Ben10 Hidden Objects.. Find all hidden objects in the scene. Total 21 Levels
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ben 10, Hidden, HTML5, Kids, Mobile, Puzzle

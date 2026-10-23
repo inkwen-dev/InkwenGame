@@ -21,4 +21,4 @@ Use your special skills to move around and avoid touching the falling spikes. If
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, HTML5, Kids
+- Tags: Arcade, block, HTML5, Kids

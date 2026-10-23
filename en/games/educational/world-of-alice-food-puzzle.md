@@ -19,6 +19,6 @@ World of Alice - Food Puzzle World of Alice - Food Puzzle is a game developed fo
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Games, Best Games, Cartoon, Cute, Educational, Food, free games for your site, free games for your website, games for your website, Kids, Puzzle, puzzleblock, School, unity games for your website
+- Tags: Baby Games, Best Games, Cartoon, Cute, educational, Food, free games for your site, free games for your website, games for your website, Kids, Puzzle, puzzleblock, School, unity games for your website

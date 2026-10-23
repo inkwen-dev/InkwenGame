@@ -19,6 +19,6 @@ Destroy all the enemies with the only help of your tank… and your hability. Mo
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bomb, HTML, HTML5, Shoot 'Em Up, Shooter, Shooting, Tank, War, weapons

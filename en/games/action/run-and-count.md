@@ -19,6 +19,6 @@ Check how well you can count. Choose what you want to train and be ready to stra
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Collecting, Game, Math, run, running
+- Tags: 2D, Collecting, Game, math, run, running

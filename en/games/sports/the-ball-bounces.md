@@ -21,4 +21,4 @@ Move the ball forward through the streets of the city, but there are many differ
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Ball, Basketball, Casual, Clicker
+- Tags: 3D, Arcade, Ball, basketball, Casual, Clicker

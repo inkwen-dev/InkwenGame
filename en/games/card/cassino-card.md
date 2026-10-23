@@ -21,4 +21,4 @@ The aim is to capture cards from a layout on the table, by playing a card from y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Best, Card
+- Tags: battle, Best, card

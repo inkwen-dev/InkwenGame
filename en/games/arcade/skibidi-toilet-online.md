@@ -21,4 +21,4 @@ Welcome to the thrilling world of Toilet Monster Battle, where players embark on
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Android, Arcade, Mobile, Skibidi Toilet
+- Tags: 3D, Adventure, Android, Arcade, Mobile, skibidi-toilet

@@ -21,4 +21,4 @@ Do you also struggle with your math grades and are always uninterested in the su
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Boys, Brain, Educational, HTML5, Kids, Math, Mobile, Puzzle, Skill
+- Tags: Animal, Boys, Brain, educational, HTML5, Kids, math, Mobile, Puzzle, Skill

@@ -21,4 +21,4 @@ In this game, you will become a plumber. The main mission is to connect the pipe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Pipe, Strategy
+- Tags: Pipe, strategy

@@ -21,4 +21,4 @@ Enter the merged world of insect combat. In Merge Ant: Insect Fusion, you&rsquo;
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Card, Enemies
+- Tags: Army, card, Enemies

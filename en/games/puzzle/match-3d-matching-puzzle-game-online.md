@@ -21,4 +21,4 @@ Get ready for a new, challenging and original matching pairs game. You need to m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Best, Casual, Educational, Fun, Games, Girl, Hot, Hypercasual, Kids, Mobile, Online
+- Tags: 3D, Arcade, Best, Casual, educational, Fun, Games, Girl, Hot, Hypercasual, Kids, Mobile, Online

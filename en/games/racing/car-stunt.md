@@ -21,4 +21,4 @@ Fun and enjoyment filled stunt car game with casual fun and also challenging lev
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D, Car, Driving, Online, Parking, Stunts
+- Tags: .io Games, 1 Player, 3D, Car, Driving, Online, parking, Stunts

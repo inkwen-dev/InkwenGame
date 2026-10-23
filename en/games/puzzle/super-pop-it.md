@@ -19,6 +19,6 @@ Super Pop It! is a fun relaxing game and a unique game to play on. This is a sup
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2D, Arcade, Boys, Bubble, Casual, Click, Clicker, Collecting, Collection, Family, Fun, Funny, Games, Girls, HTML5, Hypercasual, Kid, Kids, Mobile, New, Relaxation, Simulation, Simulator, WebGL

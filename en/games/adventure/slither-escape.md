@@ -19,6 +19,6 @@ Slither Escape is the perfect snake puzzle for playing online on your mobile or 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Puzzle, Slither, Snake
+- Tags: Color, Puzzle, Slither, snake

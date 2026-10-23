@@ -21,4 +21,4 @@ You will perform gymnastics at the sports meeting, make the most correct judgmen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Ball, Skills, Sports
+- Tags: Action, Ball, Skills, sports

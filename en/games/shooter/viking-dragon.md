@@ -19,6 +19,6 @@ Vikings prefer to act together, but in the game Viking Dragon you will get acqua
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dragon, Fighting, HTML5, Mobile, Shoot, Skill
+- Tags: Dragon, fighting, HTML5, Mobile, Shoot, Skill

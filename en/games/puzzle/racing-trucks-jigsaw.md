@@ -21,4 +21,4 @@ This is a jigsaw game with racing trucks. Here you can play in five different im
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jigsaw, Kids, Logical, Puzzle, Truck
+- Tags: Jigsaw, Kids, Logical, Puzzle, truck

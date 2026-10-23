@@ -21,4 +21,4 @@ Discover our amazing helicopter shooter game full of action! Fly in the sky with
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Helicopter, Shoot 'Em Up, Shooter, Shooting, sky, War
+- Tags: Action, helicopter, Shoot 'Em Up, Shooter, Shooting, sky, War

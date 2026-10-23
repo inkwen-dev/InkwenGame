@@ -21,4 +21,4 @@ Conquer your competition in intense head-to-head MONSTER TRUCK races that includ
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Car, Cars, Crazy, Racing, Supercars, Truck, Unity3D, WebGL
+- Tags: Best, Car, Cars, crazy, Racing, Supercars, truck, Unity3D, WebGL

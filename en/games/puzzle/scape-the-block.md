@@ -19,6 +19,6 @@ Scape The Block is a platform game where you have to move through the platform a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Block, Collecting, Puzzle
+- Tags: Avoid, block, Collecting, Puzzle

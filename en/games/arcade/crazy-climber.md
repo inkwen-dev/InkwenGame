@@ -21,4 +21,4 @@ Crazy Climber is a new game of action similar to the 1980's fun and popular retr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Retro
+- Tags: Action, Arcade, retro

@@ -19,6 +19,6 @@ Battleship War is a HTML5 Multiplayer Game. Hit all the ships of your enemy and 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Battlegrounds, Board, Strategy, Turn, Turn Based, War
+- Tags: battle, Battlegrounds, Board, strategy, Turn, Turn Based, War

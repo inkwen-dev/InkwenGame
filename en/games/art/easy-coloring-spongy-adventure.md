@@ -21,4 +21,4 @@ Easy Coloring Spongy Adventure is a fun and relaxing HTML5 coloring game made fo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Coloring, Drawing, Fun, Hypercasual, Kids, Spongebob
+- Tags: Cartoon, Coloring, drawing, Fun, Hypercasual, Kids, Spongebob

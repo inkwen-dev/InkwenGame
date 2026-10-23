@@ -27,4 +27,4 @@ Soccer Legends 2026 is a fast-paced arcade soccer game where you can play solo o
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 1v1, Arcade, Ball, Boys, Multiplayer, Soccer, Sports, two-player
+- Tags: 1v1, Arcade, Ball, Boys, Multiplayer, Soccer, sports, two-player

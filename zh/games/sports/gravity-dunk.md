@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2026年游戏, 冒险, crazygamesunblocked, 无尽, flappybird, 飞, 体育, 无限制游戏, unblockedgames66, 学校无屏蔽游戏
+- 标签: 单人, 2026 游戏, 冒险, crazygamesunblocked, 无尽, flappybird, 飞, 运动, 无限制游戏, unblockedgames66, 学校无限制游戏

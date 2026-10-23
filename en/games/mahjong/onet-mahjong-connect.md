@@ -21,4 +21,4 @@ Onet Mahjong Connect is an easy and fun puzzle game where players match identica
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, html5 games, Mahjong, Matching, Mobile, Skill
+- Tags: Brain, html5 games, mahjong, Matching, Mobile, Skill

@@ -21,4 +21,4 @@ This is a roguelike turret game featuring gacha mechanics and base building. It 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Robot, Strategy, Tower Defense
+- Tags: Action, Robot, strategy, Tower Defense

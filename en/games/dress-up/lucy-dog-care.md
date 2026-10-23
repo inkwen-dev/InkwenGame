@@ -19,6 +19,6 @@ Meet Lucy and become an instant friend because she will need you in no time. Whe
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Decorate, Design, Dress Up, Educational, Fashion, Girl, Girls, Grooming, Kids, Makeover
+- Tags: Animal, Baby, Decorate, Design, Dress Up, educational, Fashion, Girl, Girls, Grooming, Kids, Makeover

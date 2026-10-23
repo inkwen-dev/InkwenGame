@@ -21,4 +21,4 @@ Establishing a new criterion in graphics for best car games, the CSR2 delivers h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Best, Car, Cars, Crazy, drift, drifting, Driving, Game, Games, Racing, Road, Sim, Simulation, Simulator, Unity3D, WebGL
+- Tags: 1 Player, 3D, 3D Games, Action, Best, Car, Cars, crazy, drift, drifting, Driving, Game, Games, Racing, Road, Sim, Simulation, Simulator, Unity3D, WebGL

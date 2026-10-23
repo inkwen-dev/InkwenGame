@@ -19,6 +19,6 @@ Hello unicorn babies, fun kids school is now open in these mini-town free games.
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Arena, Best, Games, Kids, New, Puzzle, School, World

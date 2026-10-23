@@ -21,4 +21,4 @@ If you want to hone your accuracy and shooting skills, or just like to spend tim
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Gun, Kid, Kids, Kill, Killing, Shoot, Shooting, Sniper, Stickman, Unity3D
+- Tags: 3D, 3D Games, Gun, Kid, Kids, Kill, Killing, Shoot, Shooting, sniper, stickman, Unity3D

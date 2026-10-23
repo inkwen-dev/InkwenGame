@@ -19,6 +19,6 @@ In these days Mom is busy caring and playing with Baby Matt. This has made our d
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Hazel, Girls, Kids

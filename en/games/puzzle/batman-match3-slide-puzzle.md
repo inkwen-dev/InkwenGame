@@ -19,6 +19,6 @@ Try our collection of jigsaw puzzles about the Knight of the Night - Batman. 12 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Collection, Game, Jigsaw, Online, Puzzle

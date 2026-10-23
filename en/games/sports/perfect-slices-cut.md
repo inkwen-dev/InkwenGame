@@ -19,6 +19,6 @@ Chop like a real master. It's so satisfying!
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Board, Casual, cut, Fruit, Fruits, Fun, Funny, Hypercasual, Knight, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Board, Casual, cut, Fruit, Fruits, Fun, Funny, Hypercasual, knight, Unity3D

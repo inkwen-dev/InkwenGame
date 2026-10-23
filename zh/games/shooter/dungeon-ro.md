@@ -21,4 +21,4 @@ Dungeon.ro 是一款全新的 2D 射击游戏，包含类似等级系统和升�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 地牢, 移动设备, 投篮, 射击, WebGL
+- 标签: 2D, 地牢, 移动设备, 射击, 射击, WebGL

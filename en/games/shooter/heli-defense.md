@@ -19,6 +19,6 @@ Defense your country from enemies with your helicopter. You can shoot all time a
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Helicopter, Shoot, Shooting, Tank
+- Tags: helicopter, Shoot, Shooting, Tank

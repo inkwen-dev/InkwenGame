@@ -21,4 +21,4 @@ Moto Bike: Offroad Racing is a racing game for real racers with extremely crazy 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, endless, Fight, Games, offroad, Race, Stunts
+- Tags: bike, endless, Fight, Games, offroad, Race, Stunts

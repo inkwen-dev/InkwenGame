@@ -19,6 +19,6 @@ We moved in a new neighbourhood just few days ago. It's a peaceful and neighbour
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collecting, Escape, Shooter, weapons, Zombie

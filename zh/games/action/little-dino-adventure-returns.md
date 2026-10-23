@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动物, 躲避, 收集, 恐龙, Dinosaur, 乐趣, HTML5, 儿童, 平台, 技巧
+- 标签: 动物, 躲避, 收集, 恐龙, Dino, 有趣, HTML5, 儿童, 平台, 技巧

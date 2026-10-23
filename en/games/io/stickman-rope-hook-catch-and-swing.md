@@ -21,4 +21,4 @@ Discover Stickman Rope Hook, the new game. Tap to hook and make a stunts, With y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Stickman, Strategy
+- Tags: .io Games, stickman, strategy

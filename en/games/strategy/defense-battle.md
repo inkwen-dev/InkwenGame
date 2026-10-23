@@ -19,6 +19,6 @@ Defense Battle is a defend game style game like the acclaimed Plants vs Zombies,
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Defense, Fight, Fighting, HTML5, Mobile, Skill, Strategy, Tower Defense, War
+- Tags: battle, Defense, Fight, fighting, HTML5, Mobile, Skill, strategy, Tower Defense, War

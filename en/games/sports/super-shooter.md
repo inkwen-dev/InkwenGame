@@ -19,6 +19,6 @@ To be a professional football player and enjoy the fun of the stadium. Let's try
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Football, Soccer, Sport, Sports
+- Tags: Ball, Football, Soccer, Sport, sports

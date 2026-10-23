@@ -19,6 +19,6 @@ Compare pictures and try to spot the difference between them. Search and find hi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Difference, Puzzle

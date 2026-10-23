@@ -21,4 +21,4 @@ Your mission is simple: Slide your finger on the screen of your smartphone or ta
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Ball, Basketball, Best, Boys, Classic, Football, HTML5
+- Tags: Adventure, Arcade, Ball, basketball, Best, Boys, Classic, Football, HTML5

@@ -21,4 +21,4 @@ Play 3D Bus Parking game in your web browser for free at Superkidgames.com and m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Boys, bus, Driving, Girls, Highscore, HTML5, Mobile, Parking
+- Tags: 3D, Avoid, Boys, bus, Driving, Girls, Highscore, HTML5, Mobile, parking

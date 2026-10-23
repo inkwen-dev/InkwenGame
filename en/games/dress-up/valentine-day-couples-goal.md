@@ -19,6 +19,6 @@ Let's celebrate this Valentine's day with these lovable couples, They would like
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Kissing, Love, Makeover

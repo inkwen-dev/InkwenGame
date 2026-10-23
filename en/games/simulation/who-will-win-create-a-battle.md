@@ -21,4 +21,4 @@ Create a battle and watch who wins! Build your own card or use a ready-made one.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Android, Arena, attack, Battle, builder, building, construction, destruction, Enemy, Gun, Simulator
+- Tags: 3D, 3D Games, Android, Arena, attack, battle, builder, building, construction, destruction, Enemy, Gun, Simulator

@@ -21,4 +21,4 @@ Slither into the arena and grow the mightiest merge snake! Every segment has a n
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: .io, Arcade, merge, Number, Puzzle, Skill, Snake
+- Tags: .io, Arcade, merge, Number, Puzzle, Skill, snake

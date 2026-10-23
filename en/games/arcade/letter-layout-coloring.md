@@ -21,4 +21,4 @@ Immerse yourself in the captivating world of Letter Layout Coloring! This puzzle
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Clicker, Drawing, Kids, Mobile, Unity3D, WebGL
+- Tags: Arcade, Clicker, drawing, Kids, Mobile, Unity3D, WebGL

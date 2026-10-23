@@ -15,6 +15,6 @@ Prepare for intense football excitement in Head Soccer 2026! Use your head—lit
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Soccer

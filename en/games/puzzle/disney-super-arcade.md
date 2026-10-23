@@ -21,4 +21,4 @@ It's possible now to play Disney Super Arcade game in your web browser for free 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Animal, Arcade, Bejeweled, Best, Boys, Brain, Bubble, Bubble Shooter, Cartoon, Cartoon Network, Casual, Clicker, Cool, Cute, Disney, Educational, Flight, fly, Fun, Girls, HTML5, Hypercasual, Logic, running, Superhero, Zombie
+- Tags: Adventure, Animal, Arcade, Bejeweled, Best, Boys, Brain, Bubble, Bubble Shooter, Cartoon, Cartoon Network, Casual, Clicker, cool, Cute, Disney, educational, flight, fly, Fun, Girls, HTML5, Hypercasual, Logic, running, Superhero, Zombie

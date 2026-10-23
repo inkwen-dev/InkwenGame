@@ -19,6 +19,6 @@ Block Sort: Colormania is a fun color sort block puzzle game! Stack, match and s
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Brain, Logic, Puzzle, sort, sorting
+- Tags: block, Brain, Logic, Puzzle, sort, sorting

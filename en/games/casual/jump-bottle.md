@@ -21,4 +21,4 @@ Climb as high as you can, but be careful You can fall. Play this fantastic gamer
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Boy, HTML5, jump, Jumping, Play
+- Tags: Best, Boy, HTML5, jump, jumping, Play

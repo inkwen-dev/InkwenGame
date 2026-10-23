@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 驾驶, 技巧, 运动, Unity3D, WebGL
+- 标签: 驾驶, 技巧, 体育, Unity3D, WebGL

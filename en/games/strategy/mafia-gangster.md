@@ -21,4 +21,4 @@ Are you ready for gang wars? Fight and defend your territory with bandits trying
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Best, Casual, Defense, Hot, Hypercasual, Shoot, Shooter, Strategy, Tower Defense, War, WebGL
+- Tags: Action, Best, Casual, Defense, Hot, Hypercasual, Shoot, Shooter, strategy, Tower Defense, War, WebGL

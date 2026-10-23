@@ -21,4 +21,4 @@ Prepare yourself for some amazing aerial adventures in the enormous metropolis d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Flight, fly, Obstacle, Skill
+- Tags: 1 Player, 2D, Arcade, flight, fly, Obstacle, Skill

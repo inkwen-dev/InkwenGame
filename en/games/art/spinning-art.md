@@ -21,4 +21,4 @@ Spin and Draw is your ultimate creativity app! Create stunning, hypnotic designs
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Draw, Drawing, spin-wheel
+- Tags: Draw, drawing, spin-wheel

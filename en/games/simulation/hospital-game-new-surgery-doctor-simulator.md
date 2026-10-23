@@ -19,6 +19,6 @@ Cure your way through the quirkiest and funniest diseases in My Hospital - the u
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Baby, Baby Hazel, Boys, Cartoon, Cartoon Network, Doctor, Girls, Kid, Kids, Simulation, Surgery
+- Tags: .io Games, Baby, Baby Hazel, Boys, Cartoon, Cartoon Network, Doctor, Girls, Kid, Kids, Simulation, surgery

@@ -19,6 +19,6 @@ Penalty Kicks is an HTML sports game. Your team has chosen you to score the deci
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Football, HTML5, Soccer, Sport, Sports
+- Tags: 1 Player, Football, HTML5, Soccer, Sport, sports

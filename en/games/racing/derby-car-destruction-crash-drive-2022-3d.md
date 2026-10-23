@@ -21,4 +21,4 @@ All the lovers of Car Games 3D are welcome in Derby Car Destruction Crash Drive 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Car, Casual, Crazy, drift, drifting, Driving
+- Tags: 1 Player, 3D, 3D Games, Car, Casual, crazy, drift, drifting, Driving

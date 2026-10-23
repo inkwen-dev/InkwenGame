@@ -21,4 +21,4 @@ Kids Quiz is an interactive learning game designed to help children learn variou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Game, Kids, Math, Quiz
+- Tags: 2D, Game, Kids, math, Quiz

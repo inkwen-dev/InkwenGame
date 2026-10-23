@@ -19,6 +19,6 @@ Welcome to Tractor Pull Premier League 2020. It is going to be tractor vs. tract
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Family, Fantasy, Farm, Fighting, Strategy
+- Tags: Family, Fantasy, Farm, fighting, strategy

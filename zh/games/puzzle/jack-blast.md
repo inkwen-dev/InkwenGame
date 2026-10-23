@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 炸弹, 家庭, 万圣节, HTML, HTML5, 地图游戏, 解谜
+- 标签: 2D, 炸弹, 家庭, 万圣节, HTML, HTML5, mapi games, 益智

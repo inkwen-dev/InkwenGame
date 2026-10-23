@@ -19,6 +19,6 @@ Try to run and escape zombies, collect powerful item will help you faster. Red I
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Hypercasual, run, running

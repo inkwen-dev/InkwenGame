@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 街机, Grimace, Grimace Shake, 超休闲
+- 标签: 冒险, 街机, 格里马斯, 格里马斯奶昔, 超休闲

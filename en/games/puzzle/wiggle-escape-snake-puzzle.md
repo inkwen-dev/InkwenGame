@@ -26,4 +26,4 @@ A standout feature is the sandbox mode. Here you can freely choose shapes, exper
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Puzzle, Snake
+- Tags: Puzzle, snake

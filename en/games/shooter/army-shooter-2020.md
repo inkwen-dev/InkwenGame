@@ -19,6 +19,6 @@ Soldier! The enemy bases need to be taken down. Around the globe are multiple en
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Shoot, Shooter, Sniper, weapons
+- Tags: Army, Shoot, Shooter, sniper, weapons

@@ -21,4 +21,4 @@ Chicken Jockey Deadflip is a chaotic, high-flying, circus-themed platformer wher
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fish, Fishing, Flight, free html5 games for your website, Minecraft
+- Tags: Fish, Fishing, flight, free html5 games for your website, Minecraft

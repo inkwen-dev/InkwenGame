@@ -19,6 +19,6 @@ Cyber Cars Punk Racing is a 3D car driving game with futuristic cars and theme. 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 3D, 3D Games, Action, Air, Arcade, Avoid, Battle, Car, Collection, Crazy, drifting, Driving, fly, Police, Racing, Stunts, Supercars
+- Tags: 2 Player Games, 3D, 3D Games, Action, Air, Arcade, Avoid, battle, Car, Collection, crazy, drifting, Driving, fly, police, Racing, Stunts, Supercars

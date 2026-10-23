@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 冒险, 男孩, 装扮, 家庭, 时尚, 女孩, 变身, 拼图, Unity3D
+- 标签: 2D, 冒险, 男孩们, 装扮, 家庭, 时尚, 女孩, 改造, 益智, Unity3D

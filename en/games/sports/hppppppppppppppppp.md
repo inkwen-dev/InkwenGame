@@ -19,6 +19,6 @@ If you are tired of work, play this head soccer game, it will help you relieve s
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Fight, Fighting, Fun, Funny, Hidden, Horse, House, Mobile, Soccer, Sport, Sports, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Fight, fighting, Fun, Funny, Hidden, horse, House, Mobile, Soccer, Sport, sports, Unity3D

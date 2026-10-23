@@ -21,4 +21,4 @@ Select the difficulty level in the main menu - easy, medium, high, depending on 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, 8 Ball Pool, Adult, Arcade, Ball, Billiard, Board, Boy, Boys, Casino, Casual, Click, Clicker, Game, Games, H5, Highscore, HTML, HTML5, Hypercasual, Mind, Pool, Unity3D
+- Tags: 3D, 3D Games, 8 Ball Pool, Adult, Arcade, Ball, Billiard, Board, Boy, Boys, Casino, Casual, Click, Clicker, Game, Games, H5, Highscore, HTML, HTML5, Hypercasual, Mind, pool, Unity3D

@@ -19,6 +19,6 @@ Catch The Cat is a game where you need to punch the cats that are showing from t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Cat, Fish, Games, Kids, Puzzle

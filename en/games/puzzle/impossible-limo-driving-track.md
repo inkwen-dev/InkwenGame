@@ -21,4 +21,4 @@ Do you love impossible games? If yes, it's your time to play impossible driving 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Action, Basketball, Boys, Bubble, Bubble Shooter, Candy, Car, drift, drifting, Driving, Game, Games, Girl, Girls, Parking, Simulation, Simulator, sky, Supercars, Truck
+- Tags: .io Games, Action, basketball, Boys, Bubble, Bubble Shooter, Candy, Car, drift, drifting, Driving, Game, Games, Girl, Girls, parking, Simulation, Simulator, sky, Supercars, truck

@@ -21,4 +21,4 @@ ColoringBook-MagicPen 是一款专为学龄前儿童和幼儿设计的游戏。�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 卡通, 休闲, 涂色, 涂色
+- 标签: 街机, 卡通, 休闲, 颜色, 着色

@@ -19,6 +19,6 @@ Get caught up in minecraft epic runner adventures and help titans go escape his 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Mine, Minecraft, Miner, run, running, subway, Subway Surfers, surfers, temple

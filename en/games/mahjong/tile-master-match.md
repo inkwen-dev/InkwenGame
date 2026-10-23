@@ -21,4 +21,4 @@ Tile Master Match Game requires you to match 3 blocks of the same element, you w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Casual, Classic, H5, kiz10, Logic, Mahjong, Puzzle
+- Tags: 1 Player, Animal, Casual, Classic, H5, kiz10, Logic, mahjong, Puzzle

@@ -19,6 +19,6 @@ Tattoo Drawing online game : All you need to do is fill in the ink. Take your ti
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2D, Android, Anime, Baby Hazel, Block, Cartoon
+- Tags: .io, .io Games, 2D, Android, Anime, Baby Hazel, block, Cartoon

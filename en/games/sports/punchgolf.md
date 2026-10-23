@@ -19,6 +19,6 @@ Exciting game of platforming golf! features: - Tap to Jump or Punch down your go
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Animal, Arcade, Ball, Boxing

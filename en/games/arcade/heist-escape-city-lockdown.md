@@ -58,4 +58,4 @@ Works on desktop and mobile
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Arcade, Car, Driving, Police
+- Tags: 3D, Action, Arcade, Car, Driving, police

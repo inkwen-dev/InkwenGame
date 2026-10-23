@@ -19,6 +19,6 @@ We have a passion for casual and hyper-casual games, so we decided to try out a 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Click, jump, Jumping, Kids, Mentolatux, Skills, Unity3D, WebGL
+- Tags: Boys, Click, jump, jumping, Kids, Mentolatux, Skills, Unity3D, WebGL

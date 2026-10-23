@@ -19,6 +19,6 @@ Garden Design Games is a beautiful game, where you have many jobs to accomplish,
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cleaning, Decorate, Girls, Plant

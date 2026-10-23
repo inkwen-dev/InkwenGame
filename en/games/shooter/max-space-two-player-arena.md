@@ -19,6 +19,6 @@ Welcome to the Max Space. Second game of the sequel offers you challenge with yo
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Arcade, Battle, Fight, Gun, PvP, Shooting
+- Tags: 2 Player, Arcade, battle, Fight, Gun, PvP, Shooting

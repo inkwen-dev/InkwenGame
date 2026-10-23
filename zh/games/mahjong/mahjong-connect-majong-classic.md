@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 经典, 游戏, 游戏, 麻将, 解谜
+- 标签: 经典, 游戏, 网页游戏, mahjong, 益智

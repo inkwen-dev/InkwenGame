@@ -21,4 +21,4 @@ explore adorable Animal Puzzles that help to develop our kid's memory, logical t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Animal, Board, Matching, Memory, Puzzle
+- Tags: 1 Player, 2D, Animal, Board, Matching, memory, Puzzle

@@ -19,6 +19,6 @@ Rambo War-METAL SLUG is the finest of 2D Action-Shooting games in NEOGEO, is now
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Aircraft, Fight, Fighting, Island, War, Zombie
+- Tags: 2D, Action, Adventure, Aircraft, Fight, fighting, Island, War, Zombie

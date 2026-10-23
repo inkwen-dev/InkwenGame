@@ -21,4 +21,4 @@ WASD - 移动 左键鼠标 - 射击 鼠标滚轮 - 切换武器 R - 重新装填
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 3D, 动作, 杀人, 射击游戏, 射击, 射击, 亡灵, Unity3D, WebGL, 僵尸
+- 标签: 单人, 3D, 动作, 击杀, 射击游戏, 射击类, 射击, 僵尸, Unity3D, WebGL, 僵尸

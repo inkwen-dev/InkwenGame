@@ -19,6 +19,6 @@ What about riding your Dirt Bike over seven continents in lots of different coun
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Bike, Moto, Motorcycle, Sport, Sports, Stunts
+- Tags: 2 Player, 2 Player Games, bike, Moto, Motorcycle, Sport, sports, Stunts

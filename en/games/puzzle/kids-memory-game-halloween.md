@@ -19,6 +19,6 @@ This is a memory game with Halloween theme in which you have to match the cards 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Fun, Halloween, HTML5, Memory, Skill
+- Tags: 1 Player, Fun, Halloween, HTML5, memory, Skill

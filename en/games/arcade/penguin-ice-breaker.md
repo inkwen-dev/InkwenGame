@@ -19,6 +19,6 @@ Penguin Ice Breaker is a puzzle game. In this game, you need to break the Iceber
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: jump, Kids, Puzzle, Skills

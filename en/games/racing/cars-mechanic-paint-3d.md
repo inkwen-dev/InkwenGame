@@ -19,6 +19,6 @@ Cars Paint 3D! Swipe to move your car in a maze city puzzle! Advance to next lev
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, 3D Games, 8 Ball Pool, Cars, Cartoon Network, Casual, drifting, Driving, Google, House, Motorcycle, New, Princess, Supercars, Taxi, World

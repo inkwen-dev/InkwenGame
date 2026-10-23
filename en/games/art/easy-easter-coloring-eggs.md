@@ -21,4 +21,4 @@ Relax and get creative with Easy Easter Coloring Eggs! A fun and calming colorin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Drawing, Easter, eggs, Hypercasual, Kids, painting, School
+- Tags: Coloring, drawing, Easter, eggs, Hypercasual, Kids, painting, School

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 经典, 免费游戏供您的网站使用, 乐趣, 搞笑, 游戏, 供您的网站使用的游戏, HTML游戏供您的网站使用, HTML5游戏, 矿井, mineblock, Minecraft, 矿工, 监狱, unity游戏
+- 标签: 经典, 免费游戏供您的网站使用, 有趣, 搞笑, 网页游戏, 你的网站上的游戏, HTML游戏供您的网站使用, HTML5游戏, 挖掘, mineblock, 我的世界, 矿工, 监狱, unity游戏

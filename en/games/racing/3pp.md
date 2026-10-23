@@ -19,6 +19,6 @@ Are you ready to play Ultimate Crazy Car Driving and Car Stunt Simulator on sky 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Car, Cars, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, Interactive, jump, Jumping, Race, Racing
+- Tags: Action, Adventure, Arcade, Car, Cars, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, Interactive, jump, jumping, Race, Racing

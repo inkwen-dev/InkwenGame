@@ -19,6 +19,6 @@ The tactical shooter Noobik Battlegrounds is waiting for you in its ranks, fight
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Arena, Battle, Battlegrounds, Cool, Enemies, Enemy, Minecraft, Multiplayer, Online, onlinegames io, Shoot, Shooter, Shooting
+- Tags: .io, Arena, battle, Battlegrounds, cool, Enemies, Enemy, Minecraft, Multiplayer, Online, onlinegames io, Shoot, Shooter, Shooting

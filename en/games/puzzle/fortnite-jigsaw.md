@@ -21,4 +21,4 @@ Fortnite Jigsaw is a free online game from genre of puzzle and jigsaw games. In 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Battle, Fun, HTML5, Jigsaw, Mobile, Skill
+- Tags: 1 Player, Arcade, battle, Fun, HTML5, Jigsaw, Mobile, Skill

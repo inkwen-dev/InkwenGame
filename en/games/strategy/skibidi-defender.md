@@ -21,4 +21,4 @@ Skibidi Defender is an action-packed unity script game that combines article rew
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Defense, Skibidi, Skibidi Toilet, Tower Defense, Unity3D, WebGL
+- Tags: Arcade, Defense, Skibidi, skibidi-toilet, Tower Defense, Unity3D, WebGL

@@ -21,4 +21,4 @@ Lemonade Ninja is based on the very popular game fruit ninja. The same concept a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, endless, Family, Fruit, Fruits, Girls, Kids, Ninja
+- Tags: Boys, endless, Family, Fruit, Fruits, Girls, Kids, ninja

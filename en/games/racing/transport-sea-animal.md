@@ -19,6 +19,6 @@ It is a challenging game in which you have to control a truck and transport huge
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boy, Car, HTML5, Race, Simulator, Truck, WebGL
+- Tags: 3D, Boy, Car, HTML5, Race, Simulator, truck, WebGL

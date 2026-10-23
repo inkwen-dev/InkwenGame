@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 游戏, 乐高, 怪物, 在线, 赛车, 太空, 卡车
+- 标签: 游戏, 乐高, monster, 在线, 竞速, 太空, 卡车

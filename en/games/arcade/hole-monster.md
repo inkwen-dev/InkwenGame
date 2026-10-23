@@ -21,4 +21,4 @@ The most relaxing and addictive game! Easy swipe controls, stunning graphics and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Creation, Monster, Puzzle, Quiz
+- Tags: Arcade, Creation, monster, Puzzle, Quiz

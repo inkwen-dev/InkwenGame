@@ -19,6 +19,6 @@ Customers who were looking for a master Pet Trainer found you. Take cats on the 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Animal, Cat, Fun, Funny, Hypercasual, run, running

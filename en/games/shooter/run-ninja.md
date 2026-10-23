@@ -21,4 +21,4 @@ Ninja needs to complete the task! There are evil demon samurais trying to stop h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, HTML5, Hypercasual, Jumping, Ninja, Platform, Relaxation, run, running, Shooting
+- Tags: Casual, HTML5, Hypercasual, jumping, ninja, Platform, Relaxation, run, running, Shooting

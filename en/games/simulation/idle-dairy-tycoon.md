@@ -19,6 +19,6 @@ Build your own dairy empire from a single cow! Collect fresh milk, sell it for c
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Click, Clicker, idle, Mouse

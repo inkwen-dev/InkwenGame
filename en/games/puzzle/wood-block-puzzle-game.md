@@ -19,6 +19,6 @@ Wood block puzzle is a wood style block game. Easy to play, but difficult to be 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Block, HTML5, Puzzle
+- Tags: 2D, block, HTML5, Puzzle

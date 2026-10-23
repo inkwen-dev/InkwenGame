@@ -19,6 +19,6 @@ Motorbike Racers game is a free online game and you have 6 images in three modes
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, HTML5, Jigsaw, Mobile, Motorcycle, Puzzle, Racing
+- Tags: bike, HTML5, Jigsaw, Mobile, Motorcycle, Puzzle, Racing

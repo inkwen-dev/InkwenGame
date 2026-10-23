@@ -21,4 +21,4 @@ Car.io 是一款令人愉悦的街机游戏体验，让人联想到 Papper.io 2�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 2D, Android, 汽车, 点击, HTML5, iPad, iPhone, 孩子们, Mentolatux, 移动设备
+- 标签: .io 游戏, 2D, 安卓, 汽车, 点击, HTML5, iPad, iPhone, 儿童, Mentolatux, 移动设备

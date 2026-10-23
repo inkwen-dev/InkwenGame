@@ -19,6 +19,6 @@ Bead Mosaic Fun is a popular bead puzzle game that offers a relaxing and enjoyab
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Casual, Fashion, H5, HTML5, Kids, Online, Pixel
+- Tags: Animal, Casual, Fashion, H5, HTML5, Kids, Online, pixel

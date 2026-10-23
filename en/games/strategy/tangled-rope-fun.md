@@ -19,6 +19,6 @@ Enjoy the new mind teasing game here. Sort the ropes and untangle the knots in t
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boy, Brain, Fun, Girl, HTML, Hypercasual, Mobile, Online, Puzzle, Strategy
+- Tags: 3D, Boy, Brain, Fun, Girl, HTML, Hypercasual, Mobile, Online, Puzzle, strategy

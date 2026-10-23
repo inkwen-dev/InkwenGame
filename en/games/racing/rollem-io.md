@@ -21,4 +21,4 @@ Rollem.io is a free IOGame. If you love animals, and especially these tiny ones 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Jumping, Multiplayer, Online, Race, Racing, Skill
+- Tags: Animal, jumping, Multiplayer, Online, Race, Racing, Skill

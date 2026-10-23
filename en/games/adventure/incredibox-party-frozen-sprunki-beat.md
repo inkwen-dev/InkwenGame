@@ -21,4 +21,4 @@ Get ready to dive into a unique mix of music, horror, and beats in the Incredibo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Horror, Music, Rhythm, Sprunki
+- Tags: Horror, music, Rhythm, Sprunki

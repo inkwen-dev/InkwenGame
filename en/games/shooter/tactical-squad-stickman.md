@@ -21,4 +21,4 @@ Even kindergarten graduates know what killers do. But the fact that this crimina
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Adventure, Battle, Battlegrounds, Click, Clicker, Fight, Fighting, Gun, HTML, HTML5, Shoot, Shoot 'Em Up, Shooting, Sniper, Stickman, War
+- Tags: Action, Adventure, battle, Battlegrounds, Click, Clicker, Fight, fighting, Gun, HTML, HTML5, Shoot, Shoot 'Em Up, Shooting, sniper, stickman, War

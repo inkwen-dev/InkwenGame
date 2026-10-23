@@ -19,6 +19,6 @@ FlapCat Halloween is a game with mild horror theme. And keeping the difficulty o
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Aircraft, Arcade, Best, Boys, Casual, Cat, Girls, Halloween, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Platform

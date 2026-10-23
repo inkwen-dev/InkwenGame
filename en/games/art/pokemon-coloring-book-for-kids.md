@@ -21,4 +21,4 @@ Pokemon Coloring Book for kids has a lot of unique pictures hand drawn about Pok
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Color, Coloring, Draw, Drawing
+- Tags: Cartoon, Color, Coloring, Draw, drawing

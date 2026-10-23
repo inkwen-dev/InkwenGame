@@ -21,4 +21,4 @@ City Takeover is an arcade game that is both entertaining and addictive. It's a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Avoid, Boy, city, Kids, Obstacle, Skill, Strategy, War
+- Tags: Arcade, Avoid, Boy, city, Kids, Obstacle, Skill, strategy, War

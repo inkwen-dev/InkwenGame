@@ -21,4 +21,4 @@ Draw Bridge Puzzle is a creative and exciting puzzle game that combines drawing 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Draw, Drawing
+- Tags: 1 Player, 2026 games, Draw, drawing

@@ -21,4 +21,4 @@ Basketball Shot one game has a lot of success review and player this MONTH that 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Bubble Shooter, Interactive, Interactive Fiction, Shoot, Shoot 'Em Up, Shooter, Shooting, Sport, Sports
+- Tags: Action, Bubble Shooter, Interactive, Interactive Fiction, Shoot, Shoot 'Em Up, Shooter, Shooting, Sport, sports

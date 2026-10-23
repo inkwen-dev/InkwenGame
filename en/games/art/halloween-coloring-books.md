@@ -21,4 +21,4 @@ Halloween coloring books game has a lot of success review and player this MONTH 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cleaning, Color, Coloring, Educational, Halloween, Kid, Kids, Turn Based
+- Tags: Cleaning, Color, Coloring, educational, Halloween, Kid, Kids, Turn Based

@@ -21,4 +21,4 @@ Try to reach the target before time runs out. Adjust the weight by pressing the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Arcade, Ball, Basketball, Best
+- Tags: 3D Games, Arcade, Ball, basketball, Best

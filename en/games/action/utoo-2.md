@@ -21,4 +21,4 @@ Utoo 2 is a 2D platformer where you have to collect blue cubes while avoiding th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Cute, jump, Jumping, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Cute, jump, jumping, pixel, Platform, retro

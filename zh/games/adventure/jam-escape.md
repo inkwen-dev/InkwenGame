@@ -21,4 +21,4 @@ Parking Guru 是一款令人上瘾的停车解谜游戏，你需要重新排列�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 逻辑, 解谜
+- 标签: 单人, 2D, 逻辑, 益智

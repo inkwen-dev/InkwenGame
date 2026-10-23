@@ -19,6 +19,6 @@ In the new exciting game Falling Bricks, you can test your reaction speed and ag
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Fun, HTML5, Kids, Mobile, Puzzle, Skill

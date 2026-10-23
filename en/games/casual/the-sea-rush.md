@@ -21,4 +21,4 @@ Use your imagination and discover what the ocean holds. Rescue all the fishes th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Fish, HTML5
+- Tags: block, Fish, HTML5

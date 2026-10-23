@@ -19,6 +19,6 @@ Super Lule is your new hero when it comes to latest platform games available fre
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping, Mario, Obstacle, running, Superhero
+- Tags: jump, jumping, mario, Obstacle, running, Superhero

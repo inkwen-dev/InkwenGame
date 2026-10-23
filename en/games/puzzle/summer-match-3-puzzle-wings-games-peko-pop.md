@@ -19,6 +19,6 @@ Triple Match Match 3 blocks of the same element to the box you will pass the lev
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Adventure, Arcade, Baby, Baby Hazel, Ball, Ballon, Boy, Girl, HTML, HTML5, Hypercasual, Logic, Match 3, Match3, Matching, Puzzle, WebGL

@@ -21,4 +21,4 @@ Snake Remix - 3 Games in 1! Experience the classic snake game like never before!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Classic, Highscore, Puzzle, Snake
+- Tags: 1 Player, Classic, Highscore, Puzzle, snake

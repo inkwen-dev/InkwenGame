@@ -19,6 +19,6 @@ Pet Party Columns is an online HTML5 game , it's playable in browsers such as sa
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Block, Puzzle
+- Tags: Animal, block, Puzzle

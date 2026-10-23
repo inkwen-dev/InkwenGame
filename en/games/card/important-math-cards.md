@@ -19,6 +19,6 @@ Important Math Cards is a game where a card contains multiplication answer while
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Math, Memory, Puzzle
+- Tags: Click, math, memory, Puzzle

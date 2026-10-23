@@ -21,4 +21,4 @@ Are you a genius? Are you ready to challenge your memory? We are very happy to i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ben 10, Brain, Casual, Fun, Funny, Girl, Girls, Hypercasual, Kid, Kids, Math, Memory, Puzzle
+- Tags: Ben 10, Brain, Casual, Fun, Funny, Girl, Girls, Hypercasual, Kid, Kids, math, memory, Puzzle

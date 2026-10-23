@@ -21,4 +21,4 @@ Color Stair is an endless game where you have to avoid obstacles and break some 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Ballon, Casual, Hypercasual, Music, Rhythm
+- Tags: Arcade, Ball, Ballon, Casual, Hypercasual, music, Rhythm

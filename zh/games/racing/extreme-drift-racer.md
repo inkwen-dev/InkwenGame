@@ -21,4 +21,4 @@ bull WASD 控制车辆 bull 空格键 手刹 bull Shift 漂移加速
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车, 汽车改装, 漂移, 漂移驾驶, 有趣, 竞速, 赛车
+- 标签: 汽车, 汽车改装, 漂移, 漂移, 有趣, 比赛, 竞速

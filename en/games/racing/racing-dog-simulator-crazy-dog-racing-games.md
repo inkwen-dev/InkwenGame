@@ -19,6 +19,6 @@ Everyone is sick of typical racing games and now they want something new in the 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, HTML, HTML5, Race, Racing, Simulation, Simulator

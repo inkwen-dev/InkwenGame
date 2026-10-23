@@ -19,6 +19,6 @@ Trump Wobble Walk Challenge is a hilariously fun ragdoll game packed with crazy 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Celebrity, Fun, HTML5, Hypercasual, Mobile, Physics, run, Skill

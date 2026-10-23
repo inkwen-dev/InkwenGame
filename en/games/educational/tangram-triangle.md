@@ -26,4 +26,4 @@ Tangram Triangle is a captivating mobile puzzle game that reimagines the classic
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: blocks, Brain, Educational, Logic, Puzzle
+- Tags: blocks, Brain, educational, Logic, Puzzle

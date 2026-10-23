@@ -21,4 +21,4 @@ Casual Music Game (Rock Music) developed for fun of all people, in the style of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, HTML5, Kids, Music
+- Tags: Arcade, HTML5, Kids, music

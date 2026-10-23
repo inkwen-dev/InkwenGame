@@ -21,4 +21,4 @@ Ninja Drop is a game in which you drop your ninja star (shuriken) for popping th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Ball, Ninja
+- Tags: 1 Player, Ball, ninja

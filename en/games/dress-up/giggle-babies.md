@@ -19,6 +19,6 @@ Giggle Babies is a very cute Caring game. In this game, you will take care of cu
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Games, Cute, Decorate, Dress Up, Educational, Fashion, Food, Fun, HTML5, Magic, Mobile
+- Tags: Baby, Baby Games, Cute, Decorate, Dress Up, educational, Fashion, Food, Fun, HTML5, Magic, Mobile

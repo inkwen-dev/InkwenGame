@@ -15,6 +15,6 @@ Navigate a dynamic world as a nimble dot in "Don't Collide Pls!" Test your refle
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: hyper-casual

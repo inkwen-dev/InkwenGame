@@ -19,6 +19,6 @@ Today is the wedding of Elsa and Jack. Elsa has been looking forward to it for a
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Cleaning, Decorate, Dress Up, Elsa, Frozen, Girl, Girls, Kids, Love, Makeover, Princess, Simulation

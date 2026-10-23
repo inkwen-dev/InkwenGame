@@ -15,6 +15,6 @@ Immerse yourself in TenGrid, a dynamic block-fitting puzzle where quick thinking
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Tetris
+- Tags: tetris

@@ -51,4 +51,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 猫, 音乐
+- 标签: 猫咪, 音乐

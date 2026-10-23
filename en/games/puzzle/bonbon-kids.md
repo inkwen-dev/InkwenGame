@@ -19,6 +19,6 @@ Bonbon Kids is the game name which is a dice-based game in candy setting. Candie
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Casual, Puzzle, War

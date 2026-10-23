@@ -19,6 +19,6 @@ How good and fast is your mathematics skills?
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Kid, Kids, Math
+- Tags: Adventure, Arcade, Kid, Kids, math

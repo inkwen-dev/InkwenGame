@@ -21,4 +21,4 @@ Skibidi Toilet 对战 Camera Man 一款射击游戏，是一款有趣且富有�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 最佳游戏, NapTech Games, 射击, 射击, 射击, 斯基比迪, 斯基比迪马桶
+- 标签: 2D, 最佳游戏, NapTech 游戏, 射击, 射击类, 射击, Skibidi, skibidi-toilet

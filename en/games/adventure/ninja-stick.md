@@ -21,4 +21,4 @@ Ninja Stick is a GREAT game that helps learning mesurement, training your brain 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, jump, Jumping, Ninja, Stickman
+- Tags: Adventure, jump, jumping, ninja, stickman

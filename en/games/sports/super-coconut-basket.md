@@ -21,4 +21,4 @@ Super Coconut Basketball a fun sports game to play on! Tap and throw the ball, c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Sport, Sports
+- Tags: basketball, Sport, sports

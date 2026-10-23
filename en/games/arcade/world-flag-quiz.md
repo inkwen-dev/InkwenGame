@@ -19,6 +19,6 @@ World Flag Quiz is a fast-paced, fun, and educational mobile game that challenge
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, quests, Quiz, Retro, World
+- Tags: 1 Player, Arcade, quests, Quiz, retro, World

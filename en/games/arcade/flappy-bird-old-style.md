@@ -19,6 +19,6 @@ Play Flappy bird old style here online and is for free. Click or Tap on the scre
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bird, Brain, Casual, Hot, Hypercasual, Mario, Pipe, Super
+- Tags: Bird, Brain, Casual, Hot, Hypercasual, mario, Pipe, Super

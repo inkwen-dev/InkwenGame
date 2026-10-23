@@ -21,4 +21,4 @@ In the village where Martin lives,the village chief&rsquo;s magic crystal can ma
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, jump, Mario
+- Tags: Adventure, jump, mario

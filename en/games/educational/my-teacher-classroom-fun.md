@@ -19,6 +19,6 @@ My Teacher Classroom Fun is not only a room cleaning but also an educational puz
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cleaning, Design, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Music, School
+- Tags: Cleaning, Design, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids, music, School

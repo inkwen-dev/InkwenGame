@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩, 休闲, 点击类, 游戏, HTML5, 超休闲, 儿童, 怪物, 赛车
+- 标签: 男孩们, 休闲, 点击器, 网页游戏, HTML5, 超休闲, 儿童, monster, 竞速

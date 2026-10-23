@@ -21,4 +21,4 @@ Formula Stunts is the second sequel to the 3D car racing simulation. The player 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Crazy, Fun, Funny, Race, Racing, Stunts, Unity3D
+- Tags: 1 Player, 3D, 3D Games, crazy, Fun, Funny, Race, Racing, Stunts, Unity3D

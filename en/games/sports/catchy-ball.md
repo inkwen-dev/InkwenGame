@@ -19,6 +19,6 @@ In this super fun Football game the main goal is to stop the ball! so try and en
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Ball, Boy, endless, Football, HTML, HTML5, Sport, Sports
+- Tags: 1 Player, Arcade, Ball, Boy, endless, Football, HTML, HTML5, Sport, sports

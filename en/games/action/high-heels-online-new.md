@@ -19,6 +19,6 @@ High Heels Online is undoubtedly the most interesting new arcade games this year
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Block, Collecting, Highscore, Hot, HTML, HTML5, Hypercasual, Kids, Mobile, Obstacle, Online, Platform, Skill, Skills
+- Tags: 3D, Avoid, block, Collecting, Highscore, Hot, HTML, HTML5, Hypercasual, Kids, Mobile, Obstacle, Online, Platform, Skill, Skills

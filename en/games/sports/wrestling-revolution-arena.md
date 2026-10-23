@@ -21,4 +21,4 @@ The heavyweight champion of wrestling. The Wrestling Revolution Arena 3D rumbles
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 3D Games, Action, Arena, Battle, Best Games, Fighting, Game, Multiplayer, PvP, Sports
+- Tags: 2026 games, 3D Games, Action, Arena, battle, Best Games, fighting, Game, Multiplayer, PvP, sports

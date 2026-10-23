@@ -19,6 +19,6 @@ Accelerate, soar through the air, and execute a variety of impressive maneuvers 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Balance, Bike, BMX, BMX Games, Boy, Driving, Highscore, jump, Kids, Mobile, Obstacle, Online, Skill, Stunts
+- Tags: Balance, bike, BMX, BMX Games, Boy, Driving, Highscore, jump, Kids, Mobile, Obstacle, Online, Skill, Stunts

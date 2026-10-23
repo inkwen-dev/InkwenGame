@@ -21,4 +21,4 @@ Embark on an epic journey through the world of cards in Card Quest: Solitaire! T
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Logic, Puzzle, Relaxation, Solitaire
+- Tags: Brain, Logic, Puzzle, Relaxation, solitaire

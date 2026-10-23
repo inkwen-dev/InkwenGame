@@ -36,4 +36,4 @@ Can your designs stand up to the pressure and lead to victory? Let's paint!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing, Logic, Physics, Puzzle, Stickman
+- Tags: drawing, Logic, Physics, Puzzle, stickman

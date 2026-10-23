@@ -19,6 +19,6 @@ Techno Basket Ball is an electrifying fusion of sports and technology, offering 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Ball, Basketball, Unity3D, WebGL
+- Tags: 1 Player, Arcade, Ball, basketball, Unity3D, WebGL

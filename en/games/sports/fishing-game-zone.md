@@ -21,4 +21,4 @@ Welcome to Fishing GameZone, the latest 3D arcade fishing game you can't miss. T
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Arcade, Baseball, Bounce, Boy, Boys, Fight, Fighting, Fire, Fish, Fishing, Game, Games, Street Fighting
+- Tags: 3D Games, Arcade, baseball, Bounce, Boy, Boys, Fight, fighting, Fire, Fish, Fishing, Game, Games, Street Fighting

@@ -19,6 +19,6 @@ Monkeys who are eager to enjoy juicy fruits are eagerly awaiting you. They are c
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Candy, Fruit, Fruits, Hot, HTML, HTML5, Hypercasual, Match 3, Match3, Matching, Monkey, Puzzle, World

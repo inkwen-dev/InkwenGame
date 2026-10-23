@@ -19,6 +19,6 @@ This new version of this horror game has many cool novelties. So if you are a hu
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Boys, Girls, Horse
+- Tags: 3D, Action, Adventure, Boys, Girls, horse

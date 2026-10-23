@@ -21,4 +21,4 @@ Our cute Janissary character is getting into struggle by arrow shots this tine. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Action, Arcade, Battle, HTML5, Mobile, War
+- Tags: 2 Player, 2 Player Games, Action, Arcade, battle, HTML5, Mobile, War

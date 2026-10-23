@@ -21,4 +21,4 @@ Welcome to Trrafic Mayhem If you are looking for a driving game, you are at the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, drifting, Driving, Hypercasual, Racing, Strategy, Traffic
+- Tags: Car, Cars, drifting, Driving, Hypercasual, Racing, strategy, Traffic

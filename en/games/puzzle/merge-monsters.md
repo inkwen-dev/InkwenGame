@@ -21,4 +21,4 @@ Meet a colorful collection of quirky monsters in this card-merging puzzle! Move 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2048, Brain, Card, Matching, Mobile, Monster, Number
+- Tags: 2048, Brain, card, Matching, Mobile, monster, Number

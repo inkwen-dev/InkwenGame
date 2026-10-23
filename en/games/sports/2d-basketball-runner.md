@@ -21,4 +21,4 @@ the game control is simple and easy is just hold left mouse button on the ball a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Basketball, running, Sport, Sports
+- Tags: 1 Player, 2D, basketball, running, Sport, sports

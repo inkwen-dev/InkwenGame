@@ -21,4 +21,4 @@ Welcome to the exciting world of animegao with our new dress-up game for girls! 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Games, Craft, Cute, Design, Dress Up, Fantasy, Fashion, Girl, HTML5, RPG
+- Tags: Baby, Baby Games, Craft, Cute, Design, Dress Up, Fantasy, Fashion, Girl, HTML5, rpg

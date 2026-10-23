@@ -21,4 +21,4 @@ Counter Craft 2 丧尸在我的世界场景中带来紧张刺激的丧尸射击�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 3D游戏, 动作, CSGO, 枪械, Minecraft, 投篮, 射击游戏, 射击类, 射击, 亡灵, Unity3D, WebGL, 僵尸
+- 标签: 单人, 3D, 3D游戏, 动作, CSGO, 枪械, 我的世界, 射击, 射击游戏, 射击类, 射击, 僵尸, Unity3D, WebGL, 僵尸

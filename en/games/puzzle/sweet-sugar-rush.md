@@ -19,6 +19,6 @@ Sweet Sugar Rush is connect Match game with colorful and beautiful graphics
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Candy, Casual, Color, endless, HTML5, Hypercasual, Match 3, Matching

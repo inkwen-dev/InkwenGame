@@ -19,6 +19,6 @@ Become a dentist and help our friends to have a healthy mouth. Brian, Katie, Fra
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Aircraft, Boy, Boys, Bubble, Collection, Crazy, Creation, Decoration, Doctor, Educational, Girl, Girls, School, Unity3D
+- Tags: .io, .io Games, Action, Aircraft, Boy, Boys, Bubble, Collection, crazy, Creation, Decoration, Doctor, educational, Girl, Girls, School, Unity3D

@@ -19,6 +19,6 @@ Hey, you are skilled enough to find each word hidden in the magic garden! Drag a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Family, mapi games, Word
+- Tags: Brain, Casual, Family, mapi games, word

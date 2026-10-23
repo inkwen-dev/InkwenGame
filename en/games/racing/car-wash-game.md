@@ -21,4 +21,4 @@ So, today our car wash is very popular. Lots of cars of various models came here
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Android, Car, Cars, Casual, Crazy, Police
+- Tags: 3D, Adventure, Android, Car, Cars, Casual, crazy, police

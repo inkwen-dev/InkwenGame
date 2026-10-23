@@ -21,4 +21,4 @@ Let you command a strategic tower defense mission, your goal is very clear: to p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fighting, Strategy, War
+- Tags: fighting, strategy, War

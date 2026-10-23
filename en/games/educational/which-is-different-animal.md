@@ -21,4 +21,4 @@ Click on a image which is different from others.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Difference, Educational, Hidden, HTML5, Mobile, Puzzle
+- Tags: Animal, Difference, educational, Hidden, HTML5, Mobile, Puzzle

@@ -21,4 +21,4 @@ Pomni Coloring Book is fun coloring book for everyone! If you like Digital Circu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, digital circus, Drawing, free html5 games for your website, HTML, HTML5, Kids
+- Tags: Color, Coloring, digital circus, drawing, free html5 games for your website, HTML, HTML5, Kids

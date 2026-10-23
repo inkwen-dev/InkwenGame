@@ -21,4 +21,4 @@ Touch the screen to kill the slime. If you don't get rid of the slime quickly, y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Hypercasual, Knight, run
+- Tags: 1 Player, Hypercasual, knight, run

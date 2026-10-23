@@ -58,4 +58,4 @@ A: There are at least 30 levels in the game, including daily challenges.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, Monster, pve, Strategy, Tower Defense
+- Tags: Boys, monster, pve, strategy, Tower Defense

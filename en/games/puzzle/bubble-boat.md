@@ -19,6 +19,6 @@ The bubble shooter game that is very easy to play. Once you start playing you wo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Boat, Bubble, Bubble Shooter, Casual, Color, Match 3, Match3, Puzzle

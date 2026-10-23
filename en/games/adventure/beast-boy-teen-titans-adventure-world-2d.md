@@ -21,4 +21,4 @@ Beast Boy and raven Titans Go Hero - Titans Teen Superhero jungle adventure run 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 2D, 3D Games, Action, Adventure, Boys, Cartoon Network, Mario, Minecraft, Rescue, Zombie
+- Tags: 2 Player Games, 2D, 3D Games, Action, Adventure, Boys, Cartoon Network, mario, Minecraft, Rescue, Zombie

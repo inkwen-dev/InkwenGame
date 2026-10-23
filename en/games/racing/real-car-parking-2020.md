@@ -19,6 +19,6 @@ Real Car Parking 2020 new Hard Drive is full of fun and enjoyment. This car park
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Arena, Car, Parking, Simulation
+- Tags: 3D Games, Action, Arena, Car, parking, Simulation

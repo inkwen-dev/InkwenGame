@@ -19,6 +19,6 @@ Run fast run and do amazing parkour tricks with renovated Parkour Simulator 3D r
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Parking, run, running, Sport, Sports
+- Tags: parking, run, running, Sport, sports

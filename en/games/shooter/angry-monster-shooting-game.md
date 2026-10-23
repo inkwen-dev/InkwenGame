@@ -21,4 +21,4 @@ Monster Killing City Shooting 2 is new intense 3D first person action shooter ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Monster, Shoot 'Em Up, Shooter, Shooting
+- Tags: monster, Shoot 'Em Up, Shooter, Shooting

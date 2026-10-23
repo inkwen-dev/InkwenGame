@@ -19,6 +19,6 @@ Blocky Combat SWAT is an action-packed offline game that propels the player into
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Block, Pixel, Shooting, weapons, WebGL, Zombie
+- Tags: 1 Player, 3D Games, block, pixel, Shooting, weapons, WebGL, Zombie

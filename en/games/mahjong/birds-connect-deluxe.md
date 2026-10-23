@@ -21,4 +21,4 @@ Bird Connect Deluxe is a classic puzzle game. In this you need to eliminate all 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bird, Fun, HTML5, Mahjong, Matching, Mobile, Puzzle
+- Tags: Arcade, Bird, Fun, HTML5, mahjong, Matching, Mobile, Puzzle

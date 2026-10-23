@@ -28,4 +28,4 @@ But don't worry, you can always start over and try to beat your previous record.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Snake
+- Tags: snake

@@ -19,6 +19,6 @@ A - Move Left D - Move Right W - Jump J - Jetpack K - Parachute L - Laser Gun - 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Funny, HTML5, Mario, Penguin, Platform, Side Scrolling, Superhero
+- Tags: Funny, HTML5, mario, Penguin, Platform, Side Scrolling, Superhero

@@ -21,4 +21,4 @@ Embark on a delightful platform puzzle adventure with Scribble World, where you 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adult, Adventure, Android, Escape, Monster, Platform, Puzzle, Space
+- Tags: 1 Player, 2D, Adult, Adventure, Android, Escape, monster, Platform, Puzzle, Space

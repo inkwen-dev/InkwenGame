@@ -21,4 +21,4 @@ A peaceful walk turns into a jurney in the world of [b]Mr. Evilsun[/b]’s psych
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Ball, HTML5, jump, Jumping, Platform
+- Tags: 1 Player, 2D, Ball, HTML5, jump, jumping, Platform

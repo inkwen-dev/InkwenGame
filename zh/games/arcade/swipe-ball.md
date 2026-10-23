@@ -21,4 +21,4 @@ W A S D 或 方向键
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 球, 最佳, 休闲, 酷炫, 无尽, 有趣, 超休闲, 儿童, 解谜, 技巧, Unity3D, WebGL
+- 标签: 街机, 球, 最佳, 休闲, 酷, 无尽, 有趣, 超休闲, 儿童, 益智, 技能, Unity3D, WebGL

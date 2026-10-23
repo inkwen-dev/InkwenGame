@@ -21,4 +21,4 @@ To win in this game you have to do all the yellow blocks green. To do this, drag
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Block, HTML5, Puzzle
+- Tags: 1 Player, 2D, Arcade, block, HTML5, Puzzle

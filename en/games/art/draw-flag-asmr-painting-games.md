@@ -65,4 +65,4 @@ Download the make the flag quiz game and enjoy the colorful journey of the art k
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing, Quiz
+- Tags: drawing, Quiz

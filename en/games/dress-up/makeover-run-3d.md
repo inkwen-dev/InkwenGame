@@ -19,6 +19,6 @@ Makeover Run 3D is a casual dress-up parkour game. Just slide to control the gir
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Casual, Dress Up, Logic, running, slider

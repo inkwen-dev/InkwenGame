@@ -21,4 +21,4 @@ Locoman 2 is a simple 2D platformer where you have to collect silver keys while 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Cute, jump, Jumping, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Cute, jump, jumping, pixel, Platform, retro

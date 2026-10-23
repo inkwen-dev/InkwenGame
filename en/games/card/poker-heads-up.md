@@ -19,6 +19,6 @@ We offer you an online poker game (heads up). Poker is a popular card game, the 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Online, Poker

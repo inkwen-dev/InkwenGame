@@ -19,6 +19,6 @@ The daughter of Santa Claus has to collect all present gifts that are scattered 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Christmas, Girl, Platform, running, Santa, Winter

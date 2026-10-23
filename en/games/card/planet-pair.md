@@ -19,6 +19,6 @@ Planet Pair is a memory game with pairs of planets. Each round has 3 phases of i
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, HTML, HTML5, Memory, Planet, Puzzle
+- Tags: card, HTML, HTML5, memory, Planet, Puzzle

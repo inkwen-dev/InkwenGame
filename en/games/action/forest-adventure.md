@@ -19,6 +19,6 @@ Forest Adventure is an immersive escape game set in a magical forest. As a round
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, amazing, Arcade, Ball, Battle, Escape, Forest, Game, HTML5, jungle, Levels, Platform
+- Tags: 1 Player, 2D, Adventure, amazing, Arcade, Ball, battle, Escape, Forest, Game, HTML5, jungle, Levels, Platform

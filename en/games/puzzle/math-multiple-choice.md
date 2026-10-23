@@ -21,4 +21,4 @@ Math Multiple Choice is mathematical game where you have several choice to choos
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Kids, Math, Puzzle
+- Tags: Brain, Kids, math, Puzzle

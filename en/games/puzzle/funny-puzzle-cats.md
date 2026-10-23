@@ -21,4 +21,4 @@ Each level is a separate picture that needs to be assembled from many pieces. Yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Baby Games, Best Games, Casual, Cat, Click, Cool, Fun, Funny, Kid, Kids, Puzzle
+- Tags: 1 Player, 2026 games, 2D, Baby Games, Best Games, Casual, Cat, Click, cool, Fun, Funny, Kid, Kids, Puzzle

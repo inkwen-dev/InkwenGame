@@ -19,6 +19,6 @@ This is a tower - defense game where players need to protect their territory fro
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Tower Defense
+- Tags: Action, battle, Tower Defense

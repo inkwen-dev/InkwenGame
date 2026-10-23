@@ -21,4 +21,4 @@ Spatial Inverse is an innovative, free-to-play physics puzzle game where you man
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Adventure, Best Games, Block, Bricks, Logic, Mind, Physics, Puzzle, puzzleblock, Science
+- Tags: 1 Player, 2026 games, Adventure, Best Games, block, Bricks, Logic, Mind, Physics, Puzzle, puzzleblock, Science

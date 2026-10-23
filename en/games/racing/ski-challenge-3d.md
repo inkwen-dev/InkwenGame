@@ -21,4 +21,4 @@ Welcome to the snow world, and enter the exciting ski match challenge. Could you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Avoid, Board, HTML5, Ice, Mobile, Obstacle, Online, Racing, Skateboard, Ski, Skill, Skills, Snow, Winter
+- Tags: 3D, 3D Games, Arcade, Avoid, Board, HTML5, Ice, Mobile, Obstacle, Online, Racing, skateboard, Ski, Skill, Skills, Snow, Winter

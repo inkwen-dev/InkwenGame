@@ -21,4 +21,4 @@ In the game, you need to take care of the kid who does not give anyone to get bo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Casual, Cute, Educational, Girl, Girls, H5, HTML5
+- Tags: Baby, Casual, Cute, educational, Girl, Girls, H5, HTML5

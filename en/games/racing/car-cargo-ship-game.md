@@ -19,6 +19,6 @@ Welcome to the car transport ship simulator game. The ultimate cargo transport a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, Action, Adventure, Car, Cars, Driving, Parking, ship, ships, waterslide
+- Tags: 2025 games, Action, Adventure, Car, Cars, Driving, parking, ship, ships, waterslide

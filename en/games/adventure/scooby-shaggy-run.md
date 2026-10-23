@@ -19,6 +19,6 @@ Our heroes Scooby Doo and Shaggy are running away from evil ghosts. Jump over ob
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Animal, Boy, Cartoon, Fun, Game, Girls, HTML5, run

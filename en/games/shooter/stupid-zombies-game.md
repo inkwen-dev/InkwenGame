@@ -19,6 +19,6 @@ Stupid Zombies is a puzzle zombie shooting game developed by MarketJS. In this g
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Physics, Puzzle, Shooting, Skills, Zombie

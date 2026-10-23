@@ -19,6 +19,6 @@ It's so much fun to decorate your own home to fit your taste and style. The righ
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Cooking, Decorate, Design, Dress Up, Girl, Girls, Kids, Makeover, Simulation

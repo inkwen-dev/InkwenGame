@@ -21,4 +21,4 @@ Swing into action as Spider-Man in Spider Jump! Experience the exhilarating adve
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Clicker, Jumping, Spiderman, Unity3D, WebGL
+- Tags: 1 Player, Arcade, Clicker, jumping, Spiderman, Unity3D, WebGL

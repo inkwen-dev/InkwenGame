@@ -19,6 +19,6 @@ MineJump - Are you ready to jump? The game is a Doodle Jump mechanically. But th
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Boys, Highscore, Hypercasual, Jumping, Mine, Minecraft, Pixel, Skill
+- Tags: Avoid, Boys, Highscore, Hypercasual, jumping, Mine, Minecraft, pixel, Skill

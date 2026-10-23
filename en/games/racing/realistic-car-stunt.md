@@ -21,4 +21,4 @@ newest idea of mega ramp car stunt simulator to prepare you for impossible stunt
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, drift, Driving, Jumping, Race, Racing, Stunts, Supercars
+- Tags: Car, Cars, drift, Driving, jumping, Race, Racing, Stunts, Supercars

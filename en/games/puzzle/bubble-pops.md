@@ -19,6 +19,6 @@ Bubble Pop is an addictive hyper casual mobile game. Select groups of two or mor
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Ballon, Bubble, Bubble Shooter, Cartoon, Casual, Color, Point And Click, Relaxation, WebGL

@@ -19,6 +19,6 @@ Challenge an online player or a friend in two player mode in this fun 3D online 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, Funny, Physics, Sports
+- Tags: .io, .io Games, 3D, Funny, Physics, sports

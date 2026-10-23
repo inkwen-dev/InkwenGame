@@ -19,6 +19,6 @@ Do you know powerful a ring blade is? Cut Grass will show you a famous Mexican w
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Mobile, Platform, Puzzle, Unity3D

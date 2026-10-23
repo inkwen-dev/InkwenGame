@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 动作, 飞机, 飞机, 飞行, NapTech Games, 在线, 射手
+- 标签: 单人, 动作, 飞机, 飞机, 飞行, NapTech 游戏, 在线, 射击类

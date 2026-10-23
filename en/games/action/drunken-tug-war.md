@@ -19,6 +19,6 @@ The Drunken game series continues with Tug War in its new episode. The aim of th
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, Balance, Battle, Fun, Funny, Retro, War
+- Tags: 1 Player, 2 Player, 2 Player Games, Balance, battle, Fun, Funny, retro, War

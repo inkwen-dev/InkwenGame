@@ -15,6 +15,6 @@ Unleash the ultimate popcorn popping frenzy with every click and watch your scor
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Clicker

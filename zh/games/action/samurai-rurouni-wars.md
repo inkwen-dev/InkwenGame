@@ -21,4 +21,4 @@ WASD 移动 J 攻击1 K 攻击2 空格键 滚动
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 战斗, 格斗游戏, Mentolatux, 武士, 剑, unity, Unity3D, 战争, 战士, WebGL
+- 标签: 格斗, 格斗, Mentolatux, 武士, 剑, unity, Unity3D, 战争, 战士, WebGL

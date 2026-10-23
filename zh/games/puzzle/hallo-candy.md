@@ -21,4 +21,4 @@ Hallo Candy 在线三消益智游戏是一款适合任何喜欢长时间游玩�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 糖果, 游戏, 游戏, HTML, HTML5, 三消, 三消游戏, 匹配, 益智
+- 标签: 街机, 糖果, 游戏, 网页游戏, HTML, HTML5, 三消, 三消游戏, 匹配, 益智

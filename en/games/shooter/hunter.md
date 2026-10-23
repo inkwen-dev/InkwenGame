@@ -19,6 +19,6 @@ Hunter is a 3D game where you can get prepared for hunting, a great simulator wh
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Sniper, Unity3D, WebGL
+- Tags: 3D Games, sniper, Unity3D, WebGL

@@ -21,4 +21,4 @@ This is Coloring Game with Volvo Trucks. You can choose from eight images with V
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Puzzle, Truck
+- Tags: Coloring, Puzzle, truck

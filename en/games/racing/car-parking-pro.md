@@ -19,6 +19,6 @@ Do you have enough confidence in your driving skills especially parking in car g
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Car, Driving, Mobile, Obstacle, Parking, Platform, Simulation, WebGL
+- Tags: 3D, Avoid, Car, Driving, Mobile, Obstacle, parking, Platform, Simulation, WebGL

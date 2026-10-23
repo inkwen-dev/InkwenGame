@@ -19,6 +19,6 @@ Wipe Insight Master is a free drawing online game for boys. Use your finger to d
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Brain, Draw, Puzzle

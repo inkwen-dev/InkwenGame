@@ -21,4 +21,4 @@ Get ready for an action-packed jumping battle! Control your character, jump over
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Casual, Fight, Fighting, Hypercasual
+- Tags: Ball, Casual, Fight, fighting, Hypercasual

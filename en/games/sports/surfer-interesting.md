@@ -19,6 +19,6 @@ It allows every player to experience a very exciting and exciting game. In this 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Avoid, Block, Boy, Boys, Collecting, Collection, Fun, Funny, Game, Games, Girl, Girls, H5, Highscore, HTML5, Kid, Kids, Obstacle, run, Sport
+- Tags: 3D Games, Avoid, block, Boy, Boys, Collecting, Collection, Fun, Funny, Game, Games, Girl, Girls, H5, Highscore, HTML5, Kid, Kids, Obstacle, run, Sport

@@ -21,4 +21,4 @@ Sime Sticky is a puzzle game where you arrange monster blocks to score high. Mat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Casual, Classic, Click
+- Tags: block, Casual, Classic, Click

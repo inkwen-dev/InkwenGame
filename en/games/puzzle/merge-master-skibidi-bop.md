@@ -19,6 +19,6 @@ Discover the fantasy world of skibidi monsters in the Merge Master: Skibidi Bop!
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Alien, Android, Arena, Battle, Best, Boy, Boys, Fight, Kids, Kill, Monster, Skibidi Toilet, Strategy, War
+- Tags: Alien, Android, Arena, battle, Best, Boy, Boys, Fight, Kids, Kill, monster, skibidi-toilet, strategy, War

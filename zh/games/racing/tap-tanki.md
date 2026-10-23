@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 平台, 赛车, 坦克, 坦克, 火车
+- 标签: 平台, 竞速, 坦克, tanks, 火车

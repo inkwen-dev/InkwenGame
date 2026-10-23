@@ -21,4 +21,4 @@ Being an amazing auto taxi car driver, right after you complete your ride throug
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Car, Cars, drift, drifting, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing
+- Tags: Action, Arcade, Car, Cars, drift, drifting, Fun, Funny, Hot, Hypercasual, jump, jumping, Race, Racing

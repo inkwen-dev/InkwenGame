@@ -26,4 +26,4 @@ Go! Up! Samurai offers an action-packed HTML5 gaming experience. Dive into a vib
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Ninja
+- Tags: Action, ninja

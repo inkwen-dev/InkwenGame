@@ -19,6 +19,6 @@ Repo androids for two - a team platformer for two players on one device. The pec
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Android, Arcade, Best, Best Games, Cool, Crazy, free games for your site, Mobile, Physics, Platform, two player games
+- Tags: 2 Player, 2 Player Games, 2D, Android, Arcade, Best, Best Games, cool, crazy, free games for your site, Mobile, Physics, Platform, two player games

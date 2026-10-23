@@ -21,4 +21,4 @@ Iron Snout is an online fighting game where you play as a pig, and have to fight
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Boy, Boys, Fight, Fighting, Fun, H5, HTML5, Kid, Kids
+- Tags: Animal, Boy, Boys, Fight, fighting, Fun, H5, HTML5, Kid, Kids

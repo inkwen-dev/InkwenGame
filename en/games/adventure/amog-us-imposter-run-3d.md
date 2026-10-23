@@ -19,6 +19,6 @@ Amog Us: Imposter Run 3D is a parkour speedrun challenge game! Speedrun all the 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Adventure, Alien, Highscore, jump, Jumping, Skill, Space, Spaceship
+- Tags: 1 Player, 3D, Adventure, Alien, Highscore, jump, jumping, Skill, Space, Spaceship

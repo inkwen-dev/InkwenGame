@@ -19,6 +19,6 @@ Food Educational Games For Kids includes 5 mini-games. Learning games for toddle
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Cute, Educational, Fun, Girls, HTML5, Kids, Matching, Mobile, Puzzle
+- Tags: Coloring, Cute, educational, Fun, Girls, HTML5, Kids, Matching, Mobile, Puzzle

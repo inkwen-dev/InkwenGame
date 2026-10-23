@@ -21,4 +21,4 @@ Stretch the stick the more you can to reach and walk on the platforms. Beware! I
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, HTML, Mobile, Puzzle, Skibidi, Skibidi Toilet, Stickman
+- Tags: Casual, HTML, Mobile, Puzzle, Skibidi, skibidi-toilet, stickman

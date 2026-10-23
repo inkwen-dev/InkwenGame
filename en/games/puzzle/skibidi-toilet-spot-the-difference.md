@@ -21,4 +21,4 @@ Do you love to watch skibidi toilet ? This an amazing spot the differences game 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Difference, Skibidi, Skibidi Toilet
+- Tags: Difference, Skibidi, skibidi-toilet

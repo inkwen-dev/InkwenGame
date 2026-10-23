@@ -21,4 +21,4 @@ Xoka is a 2D platformer where you play as a ghost who have to collect the orbs o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Funny, Ghost, jump, Jumping, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Funny, Ghost, jump, jumping, pixel, Platform, retro

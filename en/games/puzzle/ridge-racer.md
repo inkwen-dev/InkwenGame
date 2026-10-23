@@ -19,6 +19,6 @@ Ridge Racer is a very competitive game. You need to drive your car, beat other c
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Match-3, Race, Racing, Sport, Sports
+- Tags: Car, Cars, Match 3, Race, Racing, Sport, sports

@@ -19,6 +19,6 @@ Step into the heart of the jungle with Jump Tarzan Adventure, an exciting action
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, HTML5, html5 games, Jumping, Platform
+- Tags: 2D, Action, Adventure, HTML5, html5 games, jumping, Platform

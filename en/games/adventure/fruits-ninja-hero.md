@@ -19,6 +19,6 @@ Fruits Ninja Hero is an action ninja game. Aim and release the slingshot to rele
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Boy, Fruits, Ninja
+- Tags: Action, Adventure, Boy, Fruits, ninja

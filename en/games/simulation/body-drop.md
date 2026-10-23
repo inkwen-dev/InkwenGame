@@ -21,4 +21,4 @@ Body Drop is an exciting game with realistic physics and excellent three&mdash;d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: destroy, destroying, destruction, Fun, Physics, Simulator, Stickman
+- Tags: destroy, destroying, destruction, Fun, Physics, Simulator, stickman

@@ -21,4 +21,4 @@ A fast-paced arcade game about a fighter caught in the middle of a street showdo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Android, Best, Best Games, Boy, Boys, Casual, Fight, Fighting, Hypercasual, Mobile, Street Fighting
+- Tags: 1 Player, 2026 games, 2D, Android, Best, Best Games, Boy, Boys, Casual, Fight, fighting, Hypercasual, Mobile, Street Fighting

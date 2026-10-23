@@ -22,4 +22,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 教育, HTML5, html5游戏, 孩子, 儿童, NapTech Games, 在线, 技巧
+- 标签: 教育, HTML5, HTML5游戏, 儿童, 儿童, NapTech 游戏, 在线, 技能

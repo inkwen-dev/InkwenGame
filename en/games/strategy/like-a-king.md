@@ -21,4 +21,4 @@ Play Like a king game in your web browser for free at Superkidgames.com and more
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Battle, Boys, Castle, Fun, Girls, HTML5, Kid, Magic, Mobile, Strategy, Tower Defense, War
+- Tags: Adventure, battle, Boys, Castle, Fun, Girls, HTML5, Kid, Magic, Mobile, strategy, Tower Defense, War

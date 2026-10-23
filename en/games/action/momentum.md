@@ -19,6 +19,6 @@ MOMENTUM is a high-speed endless runner that challenges your reflexes! Control a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, amazing, Arcade, Best, Best Games, Boys, Brainrot, endless, Girls, run, running

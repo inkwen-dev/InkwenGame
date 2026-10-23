@@ -19,6 +19,6 @@ Mom is not at home today, the children make a mess in the room, help mom clean a
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cleaning, Cute, Decorate, Educational, Girl, Girls, Kids, Simulation
+- Tags: Baby, Cleaning, Cute, Decorate, educational, Girl, Girls, Kids, Simulation

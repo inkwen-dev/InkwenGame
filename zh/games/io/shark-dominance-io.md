@@ -21,4 +21,4 @@ PC 移动 鼠标 速度 D 键 移动设备 移动 触摸 速度 第二根触摸
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 多人, 鲨鱼, 滑行, 蛇, 蠕虫
+- 标签: .io, .io 游戏, 多人, 鲨鱼, 滑行, snake, 蠕虫

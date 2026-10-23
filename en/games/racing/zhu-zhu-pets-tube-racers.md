@@ -19,6 +19,6 @@ Right now on our website you will get the opportunity to play the game called Th
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Anime, Arcade, Cartoon, Cartoon Network, Cat, HTML5, Jumping, Kids, Rabbit, Race, run, running
+- Tags: Animal, Anime, Arcade, Cartoon, Cartoon Network, Cat, HTML5, jumping, Kids, Rabbit, Race, run, running

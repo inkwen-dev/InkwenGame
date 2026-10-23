@@ -19,6 +19,6 @@ The best police games are back with car parking missions. Presented by Door to A
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, Cars, Parking, Police
+- Tags: 3D, Car, Cars, parking, police

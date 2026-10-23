@@ -21,4 +21,4 @@ You are a little pixel and you must survive as long as possible! Go from orbit t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Hypercasual, Pixel
+- Tags: Arcade, Hypercasual, pixel

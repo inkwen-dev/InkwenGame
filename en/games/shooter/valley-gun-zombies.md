@@ -21,4 +21,4 @@ In the valley there were zombies, it's time for you to uncover a sniper rifle an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, H5, Shoot, Shooter, Shooting, Sniper, Zombie
+- Tags: 3D, Action, H5, Shoot, Shooter, Shooting, sniper, Zombie

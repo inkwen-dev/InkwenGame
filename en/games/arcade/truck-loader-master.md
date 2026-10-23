@@ -21,4 +21,4 @@ Here is a cargo block loading simulation game with two-dimensional game art anim
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, HTML5, Mobile, Truck
+- Tags: 2D, Arcade, HTML5, Mobile, truck

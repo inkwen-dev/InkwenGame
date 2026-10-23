@@ -19,6 +19,6 @@ Sky Burger is fun addictive hyper casual game.In this game, we have lots of ingr
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Casual, Hypercasual

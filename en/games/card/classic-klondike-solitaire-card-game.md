@@ -21,4 +21,4 @@ Klondike solitaire is one of the most addictive solitaire card games. It is play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Card, Classic, Game, Poker, Solitaire
+- Tags: Board, card, Classic, Game, Poker, solitaire

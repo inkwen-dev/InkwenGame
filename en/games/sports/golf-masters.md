@@ -19,6 +19,6 @@ Pass Levels Using Golf Ball!
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2D, Golf, Puzzle, Sport, Sports
+- Tags: .io, .io Games, 1 Player, 2D, golf, Puzzle, Sport, sports

@@ -21,4 +21,4 @@ WormRoyale.io Battle Royale game with worms!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Battle, Multiplayer, Slither, Worm, Worms
+- Tags: .io, .io Games, battle, Multiplayer, Slither, worm, Worms

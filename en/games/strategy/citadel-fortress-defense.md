@@ -21,4 +21,4 @@ Citadel: Fortress Defense is a 3D medieval strategy game in first person. Each d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, building, Castle, Defense, Fantasy, Knight, Strategy, survival, Tower Defense
+- Tags: 1 Player, 3D, building, Castle, Defense, Fantasy, knight, strategy, survival, Tower Defense

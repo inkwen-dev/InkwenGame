@@ -21,4 +21,4 @@ Tank Battle is very popular TV game since 8-bit console present. Infinity Tank B
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Classic, Shooting, Strategy, Tank, Tanks, weapons
+- Tags: Arcade, Classic, Shooting, strategy, Tank, tanks, weapons

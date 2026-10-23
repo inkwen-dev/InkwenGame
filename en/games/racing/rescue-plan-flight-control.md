@@ -19,6 +19,6 @@ The airport is in a bit of a mess and needs your help to get the plane to the ta
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Avoid, Boy, Flight, Game, Kid, Parking, Plane, Puzzle
+- Tags: 3D, 3D Games, Avoid, Boy, flight, Game, Kid, parking, Plane, Puzzle

@@ -19,6 +19,6 @@ The cute minion is coming! A total of nine cute minion images can be collected w
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Boy, Boys, Casual, Cute, Girl, Girls, H5, HTML5, Jigsaw, Minion, Puzzle

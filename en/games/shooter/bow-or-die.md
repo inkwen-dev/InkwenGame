@@ -19,6 +19,6 @@ Test your archery reflexes in Bow or Die, a fast-paced physics survival action g
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 2D, Action, arrow, attack, Avoid, Clicker, Defense, Shooter, Shooting, Stickman
+- Tags: 2026 games, 2D, Action, arrow, attack, Avoid, Clicker, Defense, Shooter, Shooting, stickman

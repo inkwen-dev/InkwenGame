@@ -21,4 +21,4 @@ Jelly number 1024 - your main game task is to drag two identical numbers to make
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arcade, jump, Jumping, Puzzle, Race
+- Tags: 2D, Adventure, Arcade, jump, jumping, Puzzle, Race

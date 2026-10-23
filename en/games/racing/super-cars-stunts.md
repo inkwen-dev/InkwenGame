@@ -19,6 +19,6 @@ Pick your vehicle and prepare for exciting ramp vehicle stunts racing in the lat
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Android, Car, Cars, HTML5, Mobile, Racing, Stunts, Supercars, WebGL

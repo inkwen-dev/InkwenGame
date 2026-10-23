@@ -21,4 +21,4 @@ Noob Ninja Guardian plays like Fruit Ninja, which is also a 2D skillful arcade g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Fight, Fighting, Fun, H5, HTML5, Kid, Kids, Street Fighting
+- Tags: Boy, Boys, Fight, fighting, Fun, H5, HTML5, Kid, Kids, Street Fighting

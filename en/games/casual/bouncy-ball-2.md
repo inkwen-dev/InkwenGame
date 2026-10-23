@@ -21,4 +21,4 @@ The best addictive brain games You eat the stars to all the way. It's easier tha
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Boys, Music, Pool
+- Tags: 3D Games, Boys, music, pool

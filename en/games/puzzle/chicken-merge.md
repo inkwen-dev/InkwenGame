@@ -32,4 +32,4 @@ Chicken Merge is a merge game with tower defense elements in which your objectiv
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: merge, Strategy, Tower Defense
+- Tags: merge, strategy, Tower Defense

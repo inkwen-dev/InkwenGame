@@ -19,6 +19,6 @@ Solitaire World 125 types of games is inspired by the world&rsquo;s most popular
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Best, Brain, Card, Classic, Fun, Logic, Mobile, Skill, Solitaire
+- Tags: 1 Player, 2D, Best, Brain, card, Classic, Fun, Logic, Mobile, Skill, solitaire

@@ -21,4 +21,4 @@ Dino Runner is an exciting endless jumping game where your goal is to leap from 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, HTML5, jump, Jumping
+- Tags: Adventure, Arcade, HTML5, jump, jumping

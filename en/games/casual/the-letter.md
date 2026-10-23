@@ -15,6 +15,6 @@ Uncover hidden truths in The Letter, a stealth-infused, 3D platformer set in a v
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Brain

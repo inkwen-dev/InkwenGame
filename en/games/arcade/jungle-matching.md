@@ -19,6 +19,6 @@ Jungle Matching is fun html5 game for kids that you can play for free. The aim o
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Animal, Boys, Fun, Girls, HTML5, Kids, Memory, Puzzle, School
+- Tags: Android, Animal, Boys, Fun, Girls, HTML5, Kids, memory, Puzzle, School

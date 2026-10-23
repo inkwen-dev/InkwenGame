@@ -19,6 +19,6 @@ Switch and match Candies in this tasty puzzle adventure to progress to the next 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Block, Bubble, Candy, Match 3, Puzzle, Shooter
+- Tags: 2D, block, Bubble, Candy, Match 3, Puzzle, Shooter

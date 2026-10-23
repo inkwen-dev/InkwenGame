@@ -21,4 +21,4 @@ Chef Us is a fun and engaging action game. Your mission is simple: Execute all l
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Battle, Cook, Cooking, Food, Hypercasual, Kill, Killing, Puzzle, Skill, weapons
+- Tags: Action, battle, Cook, Cooking, Food, Hypercasual, Kill, Killing, Puzzle, Skill, weapons

@@ -19,6 +19,6 @@ Grimace Shake Coloring Book! Choose the purple color to paint the grimace creatu
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Coloring, Grimace, Grimace Shake

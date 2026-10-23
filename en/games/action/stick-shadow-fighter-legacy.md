@@ -19,6 +19,6 @@ Have fun with this entertaining new game called Stick Shadow Fighter Legacy enjo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dragon Ball Z, Fighting, kiz10, Stickman
+- Tags: Dragon Ball Z, fighting, kiz10, stickman

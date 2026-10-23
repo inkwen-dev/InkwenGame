@@ -30,4 +30,4 @@ Dive into the thrilling world of Sumo Fury, where you can acquire powerful wrest
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Fighting, wrestling
+- Tags: fighting, wrestling

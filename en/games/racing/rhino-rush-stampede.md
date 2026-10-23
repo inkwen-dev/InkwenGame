@@ -19,6 +19,6 @@ Rhino Stampede is a runner game where you help a little blue rhinoceros make his
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Animal, Arcade, Dinosaur, H5, Monkey, New, Platform, running

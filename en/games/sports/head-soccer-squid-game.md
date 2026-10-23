@@ -21,4 +21,4 @@ Head Soccer Squid Game is a free soccer game in which you may compete against so
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, Arcade, Best, Crazy, HTML, HTML5, Mobile, Soccer, Unity3D, WebGL
+- Tags: 2D, Android, Arcade, Best, crazy, HTML, HTML5, Mobile, Soccer, Unity3D, WebGL

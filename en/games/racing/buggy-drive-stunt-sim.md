@@ -21,4 +21,4 @@ Play Buggy Drive Stunt Simulator, you can change buggy from 4 cars and get speed
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Car, Driving, Truck, Unity3D, WebGL
+- Tags: 1 Player, Car, Driving, truck, Unity3D, WebGL

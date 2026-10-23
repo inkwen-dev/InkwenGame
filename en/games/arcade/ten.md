@@ -21,4 +21,4 @@ Move the tiles around merging similar blocks, which will add one to the tile. Ke
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Mind, Number, Puzzle, Strategy
+- Tags: Arcade, Casual, Mind, Number, Puzzle, strategy

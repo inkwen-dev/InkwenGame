@@ -21,4 +21,4 @@ Touch and Leap is a game where you have to jump from pole to pole without fallin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, jump, Jumping, Kids, Puzzle
+- Tags: Ball, jump, jumping, Kids, Puzzle

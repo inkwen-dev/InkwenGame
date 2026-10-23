@@ -21,4 +21,4 @@ Fight for glory in this cartoony fast-paced top-down online multiplayer shooter 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Battle, Cartoon, Multiplayer, Online, Shooter, Tank, Tanks
+- Tags: .io, battle, Cartoon, Multiplayer, Online, Shooter, Tank, tanks

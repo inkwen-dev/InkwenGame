@@ -19,6 +19,6 @@ Welcome to New Dentist Game : Dental Care Free Doctor Games : Going to the crazy
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2D, 3D, 3D Games, Action, Arcade, Casual, Hypercasual, Unity3D

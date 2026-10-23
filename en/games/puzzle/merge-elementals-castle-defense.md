@@ -37,4 +37,4 @@
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Magic, merge, Strategy, Tower Defense
+- Tags: Magic, merge, strategy, Tower Defense

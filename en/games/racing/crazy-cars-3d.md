@@ -21,4 +21,4 @@ It is easy to overcome the challenges if you can show the skills of accurate dri
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Car, Cars, H5, HTML, HTML5, Hypercasual, Strategy, Unity3D
+- Tags: 3D, 3D Games, Arcade, Car, Cars, H5, HTML, HTML5, Hypercasual, strategy, Unity3D

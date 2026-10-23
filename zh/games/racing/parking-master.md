@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 汽车, 驾驶, HTML, HTML5, 停车, 赛车, 技巧, 技能, 超跑
+- 标签: 单人, 2D, 汽车, 驾驶, HTML, HTML5, 停车, 比赛, 技巧, 技能, 超跑

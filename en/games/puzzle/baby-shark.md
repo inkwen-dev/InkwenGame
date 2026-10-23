@@ -21,4 +21,4 @@ Use Your Mouse
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Brain, Match 3, Memory, Puzzle
+- Tags: 3D, Brain, Match 3, memory, Puzzle

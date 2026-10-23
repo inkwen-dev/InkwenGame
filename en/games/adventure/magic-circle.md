@@ -19,6 +19,6 @@ Magic Circle is an online game where you try to set a new high score by jumping 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Crazy, Fun, Funny, Game, Games, HTML, HTML5, Online
+- Tags: 1 Player, 2D, Adventure, crazy, Fun, Funny, Game, Games, HTML, HTML5, Online

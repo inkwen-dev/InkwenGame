@@ -15,6 +15,6 @@ Tricky Arrow delivers fast-paced action where your precision and reflexes are pu
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: archery

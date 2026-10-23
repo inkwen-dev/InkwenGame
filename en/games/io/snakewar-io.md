@@ -84,4 +84,4 @@ Collect delicious fruits scattered across the map to increase your size and scor
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: .io, Multiplayer, Snake
+- Tags: .io, Multiplayer, snake

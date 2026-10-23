@@ -19,6 +19,6 @@ Hexa Color Sort is a fun and relaxing color sorting puzzle game that challenges 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Adventure, Best Games, Casual, Fun, hexa, Puzzle

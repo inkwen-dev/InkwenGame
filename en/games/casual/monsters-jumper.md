@@ -21,4 +21,4 @@ An addicted hypercasual game, simple to control, nice design, fun and relax-able
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Casual, Fun, Games, HTML5, jump, Jumping, Mobile
+- Tags: Best, Casual, Fun, Games, HTML5, jump, jumping, Mobile

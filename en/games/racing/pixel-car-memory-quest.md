@@ -21,4 +21,4 @@ Start your engines and put your memory to the ultimate test in Pixel Car Memory 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Cars, Educational, Fun, Hypercasual, Kids, Logic, Memory
+- Tags: Arcade, Brain, Cars, educational, Fun, Hypercasual, Kids, Logic, memory

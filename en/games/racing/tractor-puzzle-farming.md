@@ -19,6 +19,6 @@ In Tractor Puzzle Farming game you need to solve the farming puzzle. The goal of
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Boys, Driving, Farm, Girls, HTML5, Kids, Mobile

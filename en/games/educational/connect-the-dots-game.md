@@ -19,6 +19,6 @@ Educational game designed for number learning and tracing with the help of fun a
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kids, Number, Puzzle
+- Tags: educational, Kids, Number, Puzzle

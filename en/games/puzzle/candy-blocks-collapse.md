@@ -21,4 +21,4 @@ Click on 2 or more than 2 candy blocks to eliminate them. To complete a level yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Candy, Clicker, Collecting, Girls, HTML5, Matching, Mobile
+- Tags: block, Candy, Clicker, Collecting, Girls, HTML5, Matching, Mobile

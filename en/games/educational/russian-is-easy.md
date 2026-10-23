@@ -19,6 +19,6 @@ Russian is easy&rdquo; is an exciting game for those who want to improve their s
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, Brain, Educational, HTML, html5 games, Interactive, Logical, Mobile, Super, WebGL
+- Tags: 1 Player, 2025 games, Brain, educational, HTML, html5 games, Interactive, Logical, Mobile, Super, WebGL

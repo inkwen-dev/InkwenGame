@@ -21,4 +21,4 @@ Prison Escape Online is a fantastically stickman game where you... Well, help hi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, kiz10, Prison, Stickman
+- Tags: Escape, kiz10, Prison, stickman

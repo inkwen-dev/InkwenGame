@@ -19,6 +19,6 @@ Mega Ramp Car Racing Stunt Games Get ready to enjoy stunt car games 2021. It’s
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Bike, Boys, Car, Cars, drift, drifting, Game, Games, gta, Mario, Simulation, Supercars, Truck
+- Tags: 8 Ball Pool, bike, Boys, Car, Cars, drift, drifting, Game, Games, gta, mario, Simulation, Supercars, truck

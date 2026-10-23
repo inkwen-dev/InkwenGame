@@ -19,6 +19,6 @@ Build your criminal empire in a fun 3D idle heist adventure! Rob jewelry stores,
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Arcade, Car, Escape, idle, Police, Simulation, Stealth, Thief
+- Tags: 3D, Action, Adventure, Arcade, Car, Escape, idle, police, Simulation, Stealth, Thief

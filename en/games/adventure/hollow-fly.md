@@ -15,6 +15,6 @@ Navigate haunting labyrinths and dodge menacing foes in Hollow Fly. Collect keys
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

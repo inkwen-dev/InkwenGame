@@ -21,4 +21,4 @@ Get ready for fun and action-packed gang warfare. Fight against gang members try
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Best, Casual, Defense, Hot, Hypercasual, Shoot, Shooter, Strategy, Tower Defense, War, WebGL
+- Tags: Action, Best, Casual, Defense, Hot, Hypercasual, Shoot, Shooter, strategy, Tower Defense, War, WebGL

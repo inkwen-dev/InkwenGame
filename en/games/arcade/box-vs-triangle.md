@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Aircraft, Android, Animal, Arcade, Baby, Baby Hazel, Block, Boxing, Bricks, Casual, Classic, Fun, Funny, Hypercasual, Kid, Kids, Math, Mobile, Sandbox, Super, Superhero
+- Tags: Aircraft, Android, Animal, Arcade, Baby, Baby Hazel, block, Boxing, Bricks, Casual, Classic, Fun, Funny, Hypercasual, Kid, Kids, math, Mobile, Sandbox, Super, Superhero

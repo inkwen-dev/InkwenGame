@@ -19,6 +19,6 @@ Geometry Rush Challenge is an online game that you can play for free. Your objec
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Avoid, Block, Collecting, fly, Fun, HTML5, Hypercasual, Kids, Shopping, Skill
+- Tags: Android, Arcade, Avoid, block, Collecting, fly, Fun, HTML5, Hypercasual, Kids, Shopping, Skill

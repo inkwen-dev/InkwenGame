@@ -34,4 +34,4 @@ A boss guards every 5th stage. Defeat them to earn gold and rare parts, then upg
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Arcade, pve, Skill, Sports
+- Tags: 3D, Action, Arcade, pve, Skill, sports

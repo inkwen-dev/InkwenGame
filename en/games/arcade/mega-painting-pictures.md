@@ -19,6 +19,6 @@ IN MEGA PAINTING PICTURES YOU WILL FIND 48 BEAUTIFUL DRAWINGS THAT YOU CAN PAINT
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Color, Educational, HTML5, Kid, Kids, Mobile, Puzzle
+- Tags: Arcade, Casual, Color, educational, HTML5, Kid, Kids, Mobile, Puzzle

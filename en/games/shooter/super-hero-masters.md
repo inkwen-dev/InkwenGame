@@ -19,6 +19,6 @@ Hero Masters is a single-player game in which you will have a real fight with th
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, H5, Hypercasual, Shooting, Spiderman, Superhero

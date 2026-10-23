@@ -19,6 +19,6 @@ Mythic Auto Chess Realms is an auto chess strategy adventure game that combines 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Battle, Brain, Fantasy, Fight, Logic, Magic, Online, RPG, Strategy, Undead
+- Tags: Adventure, battle, Brain, Fantasy, Fight, Logic, Magic, Online, rpg, strategy, Undead

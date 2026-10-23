@@ -21,4 +21,4 @@ The world's defense war against Metal Army continues from where it left off. In 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Battle, Monster, Shoot 'Em Up, War, Zombie
+- Tags: 2 Player, 2 Player Games, battle, monster, Shoot 'Em Up, War, Zombie

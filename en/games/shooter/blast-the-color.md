@@ -19,6 +19,6 @@ Shoot the enemies up. Don't let them conquer you. Get more scores and show up wi
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Color, Retro, Shooter, Space
+- Tags: 2D, Color, retro, Shooter, Space

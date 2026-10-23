@@ -21,4 +21,4 @@ Get ready to master the ultimate car parking puzzle! In Parking Poly Cars, your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Cars, Casual, Hypercasual, Mobile, Parking, Puzzle, unity games
+- Tags: 1 Player, 3D Games, Cars, Casual, Hypercasual, Mobile, parking, Puzzle, unity games

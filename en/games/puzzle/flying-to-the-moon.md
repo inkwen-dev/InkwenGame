@@ -19,6 +19,6 @@ In this Flying to the Moon game you have 6 images in three modes to play. Choose
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle, Rocket, Space, Spaceship

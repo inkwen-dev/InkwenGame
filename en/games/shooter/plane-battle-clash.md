@@ -21,4 +21,4 @@ Plane Battle Clash is an action game where you fight with armed planes in the sk
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Air, Battle, Collection, Flight, fly, Hypercasual, Mobile, Plane, Platform, Shooter
+- Tags: 3D, Air, battle, Collection, flight, fly, Hypercasual, Mobile, Plane, Platform, Shooter

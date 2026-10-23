@@ -21,4 +21,4 @@ Pixel Ninja Temple Impossible platform game AppGratis
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Game, jump, Jumping, Ninja, Ninjago, Online
+- Tags: Arcade, Game, jump, jumping, ninja, Ninjago, Online

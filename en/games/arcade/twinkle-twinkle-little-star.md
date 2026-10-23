@@ -21,4 +21,4 @@ Help the star to find its way back up. How fast are you? Touch the yellow star. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, Arcade, Casual, Classic, Highscore, Hypercasual, Kid, Kids, Music
+- Tags: 2D, Android, Arcade, Casual, Classic, Highscore, Hypercasual, Kid, Kids, music

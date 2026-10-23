@@ -19,6 +19,6 @@ Animal Racing: Idle Park is an addictive racing animal transform game that will 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Multiplayer, Racing, running

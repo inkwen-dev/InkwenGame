@@ -19,6 +19,6 @@ Learn math by playing with Stickman. Brain game, math problem. Practice your ski
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Casual, Educational, Game, Games, HTML5, Math, School, Stickman
+- Tags: 2D, Casual, educational, Game, Games, HTML5, math, School, stickman

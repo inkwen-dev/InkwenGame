@@ -21,4 +21,4 @@ Ultra Pixel Burgeria is not merely a restaurant management simulation game but a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Business, Cooking, Food, Girl, Girls, H5, HTML5, Kid, Kids, Pixel
+- Tags: 2D, Business, Cooking, Food, Girl, Girls, H5, HTML5, Kid, Kids, pixel

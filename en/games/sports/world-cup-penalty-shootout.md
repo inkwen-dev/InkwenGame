@@ -21,4 +21,4 @@ The World Cup is here now and it’s time to play World Cup Penalty Shootout. Pi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Soccer, Sport, Sports
+- Tags: Football, Soccer, Sport, sports

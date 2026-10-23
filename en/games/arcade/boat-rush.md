@@ -19,6 +19,6 @@ Boat rush is a boat running game in which you have to go as far as possible by b
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boat, Boys, Collecting, Fun, Funny, HTML5, Skills

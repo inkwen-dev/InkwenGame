@@ -21,4 +21,4 @@ Ratomilton 与 Sprunki 是一款令人兴奋的物理益智游戏，玩家需要
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 鼠标, 物理, Sprunki
+- 标签: 鼠标, 物理, 斯普朗基

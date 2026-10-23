@@ -21,4 +21,4 @@ Welcome to the biggest supermarket in the Town! Baby and Mommy Panda have to do 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Educational, Fun, Girl, Girls, H5, HTML5, Shopping
+- Tags: 2D, educational, Fun, Girl, Girls, H5, HTML5, Shopping

@@ -19,6 +19,6 @@ Void Drop 3D is a fast-paced 3D action game where you fall endlessly into the un
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Arcade, Casual, Fun, Funny, Geometry, Hypercasual, Physics

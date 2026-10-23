@@ -21,4 +21,4 @@ Welcome to Challenge the Basketball, an exciting and addictive basketball challe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, amazing, Basketball, Football, Fun, Sports
+- Tags: 2026 games, amazing, basketball, Football, Fun, sports

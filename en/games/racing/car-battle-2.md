@@ -21,4 +21,4 @@ CarBattle is an exciting car combat game where you can create and upgrade your o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Car, Tank, weapons
+- Tags: battle, Car, Tank, weapons

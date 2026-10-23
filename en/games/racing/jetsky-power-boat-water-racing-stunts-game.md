@@ -19,6 +19,6 @@ To play the water racing games or jet ski games is always a great source of fun 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Boat, HTML, HTML5, Race, Racing, sky

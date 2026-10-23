@@ -19,6 +19,6 @@ You’ve always dreamed to become a super-heroe ? You’ve always wanted to fly 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Defense, Fun, Funny, Gun, Kid, Kids, Kill, Killing, Robot, Shoot, Shooter, Shooting, Skill, Skills, Tower Defense, War

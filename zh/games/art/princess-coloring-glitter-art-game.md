@@ -1,0 +1,24 @@
+# 公主涂色闪粉 - 艺术游戏
+
+<a href="https://inkwengame.com/zh/games/princess-coloring-glitter-art-game" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/princess-coloring-glitter-art-game/cover.jpg)
+
+公主涂色闪粉是一款非常有趣的涂色游戏。在这款游戏中，我们为您准备了4种不同的小游戏来享受。为公主图片涂色、自由绘画、洗衣服和有趣的拼图。每种小游戏都会给您带来不同的惊喜。例如，在涂色和绘画的小游戏中，美丽的动态贴纸会让您的眼睛闪闪发光。此外，我们还为您准备了许多美丽的颜色，让您尽情创作。如果您在寻找涂色游戏…
+
+## 怎么玩
+
+点击或轻触
+
+## 介绍
+
+公主涂色闪粉是一款非常有趣的涂色游戏。在这款游戏中，我们为您准备了4种不同的小游戏来享受。为公主图片涂色、自由绘画、洗衣服和有趣的拼图。每种小游戏都会给您带来不同的惊喜。例如，在涂色和绘画的小游戏中，美丽的动态贴纸会让您的眼睛闪闪发光。此外，我们还为您准备了许多美丽的颜色，让您尽情创作。如果您在寻找涂色游戏，这款游戏是您的最佳选择！
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/art" target="_blank" rel="noopener noreferrer">绘画</a>
+- 画面方向: portrait
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 颜色, 着色, 绘画, 绘画, 有趣, 女孩, 女孩, H5, HTML5, 公主

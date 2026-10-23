@@ -19,6 +19,6 @@ Lego games are popular all over the world. You can use all kinds of small parts 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Block, Bricks, Educational, H5, HTML, HTML5, Hypercasual, Jigsaw, Kids, Matching, Mobile, Simulation, Simulator
+- Tags: 3D, 3D Games, block, Bricks, educational, H5, HTML, HTML5, Hypercasual, Jigsaw, Kids, Matching, Mobile, Simulation, Simulator

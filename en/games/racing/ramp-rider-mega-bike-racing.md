@@ -21,4 +21,4 @@ Get ready for thrilling motorcycle racing in Ramp Rider Mega Bike Racing! Ride p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Race, Racing, Simulation, Stunts
+- Tags: bike, Race, Racing, Simulation, Stunts

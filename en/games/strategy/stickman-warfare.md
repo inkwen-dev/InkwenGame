@@ -19,6 +19,6 @@ In a dystopian future, the world is in brink of war. It is time when humanity ne
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Army, Battle, Battlegrounds, Defense, Shooter, Stickman, Tower Defense, War
+- Tags: 1 Player, Action, Army, battle, Battlegrounds, Defense, Shooter, stickman, Tower Defense, War

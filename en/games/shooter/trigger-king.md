@@ -19,6 +19,6 @@ Real shooters never take their fingers off the trigger and do it: run, jump, run
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, Fighting, Shooting
+- Tags: .io, 1 Player, fighting, Shooting

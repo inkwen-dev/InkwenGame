@@ -21,4 +21,4 @@ In this game, anyone can test themselves in the battle against hordes of zombies
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Battle, Battlegrounds, Defense, Fight, Fighting, HTML, HTML5, Hypercasual, Kill, Killing, Strategy, War, Zombie
+- Tags: Arcade, battle, Battlegrounds, Defense, Fight, fighting, HTML, HTML5, Hypercasual, Kill, Killing, strategy, War, Zombie

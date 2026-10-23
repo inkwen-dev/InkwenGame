@@ -19,6 +19,6 @@ Mad Race Future Cars is an adrenaline-pumping racing game set in a futuristic wo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Driving, Mentolatux, Racing, Supercars, unity, vehicle, WebGL

@@ -19,6 +19,6 @@ This addicting collection offers 15 arcade mini-games, each with unique graphics
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Animal, Arcade, Casual, Cat, Collection, HTML5

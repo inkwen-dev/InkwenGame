@@ -19,6 +19,6 @@ The beautiful princess Ella and Mia are planning their Christmas day. So, They h
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Barbie, Christmas, Decorate, Decoration, Disney, Dora, Dress Up, Girls

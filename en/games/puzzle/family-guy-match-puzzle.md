@@ -19,6 +19,6 @@ Family Guy is a big fan of various puzzles, which they are happy to solve to imp
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Cartoon, Game, Jigsaw, Kids, Movie, Online, Punch, Puzzle

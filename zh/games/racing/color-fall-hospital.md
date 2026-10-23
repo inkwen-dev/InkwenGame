@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 最佳, 大脑, 汽车, 汽车们, 涂色, 涂色, 热门, HTML, HTML5, 思维
+- 标签: 最佳, 大脑, 汽车, 汽车, 颜色, 着色, 热门, HTML, HTML5, 思维

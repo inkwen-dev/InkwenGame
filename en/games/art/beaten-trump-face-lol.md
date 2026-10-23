@@ -21,4 +21,4 @@ Get ready to laugh out loud in Beaten Trump Face LOL &ndash; the wacky face-defo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Draw, Drawing, Funny
+- Tags: Draw, drawing, Funny

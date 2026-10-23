@@ -21,4 +21,4 @@ Hexa Puzzle is FUN and challenging! Let's see you find the right combination of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Matching, Puzzle
+- Tags: block, Matching, Puzzle

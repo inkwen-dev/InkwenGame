@@ -21,4 +21,4 @@ Play Baby Pony Sisters pet care game for girls and boys and travel back in time 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cute, Decorate, Design, Dress Up, Educational, Girl, Girls, Kids, Makeover, Simulation
+- Tags: Animal, Baby, Cute, Decorate, Design, Dress Up, educational, Girl, Girls, Kids, Makeover, Simulation

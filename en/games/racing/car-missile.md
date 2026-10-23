@@ -19,6 +19,6 @@ Homing missiles that chase you through the city, get power-ups to defend yoursel
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Fighting, Fire
+- Tags: Car, fighting, Fire

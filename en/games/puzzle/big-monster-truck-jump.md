@@ -19,6 +19,6 @@ Big Monster Truck Jump is jumping game where the bigger monster truck must jump 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Puzzle, Truck
+- Tags: jump, Puzzle, truck

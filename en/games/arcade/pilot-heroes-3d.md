@@ -19,6 +19,6 @@ Welcome to Pilote Heroes 3D Tap left and right to control your pilote and collec
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Flight, fly, Plane
+- Tags: Arcade, flight, fly, Plane

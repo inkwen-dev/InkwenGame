@@ -15,6 +15,6 @@ Jump into Santa's boots in Santas Present 2, a lively 2D platformer. Navigate tr
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

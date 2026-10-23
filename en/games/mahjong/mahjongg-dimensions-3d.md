@@ -21,4 +21,4 @@ Mahjongg Dimensions 3D literally adds a dimension of fun to your match-making ex
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Mahjong, Puzzle
+- Tags: 3D Games, mahjong, Puzzle

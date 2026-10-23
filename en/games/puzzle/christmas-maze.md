@@ -19,6 +19,6 @@ Christmas Maze is an online game that you can play for free. Christmas Maze is a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Christmas, Fun, HTML5, Kids, Maze, Obstacle, Skill, Winter

@@ -21,4 +21,4 @@ A new puzzle hardcore game that challenges you! 10 hardcore levels. To complete 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Best, Block, Boy, Boys, Logic, New, Platform, Puzzle
+- Tags: 1 Player, 2D, Arcade, Best, block, Boy, Boys, Logic, New, Platform, Puzzle

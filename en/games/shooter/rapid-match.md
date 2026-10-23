@@ -21,4 +21,4 @@ Tap, match, and clear the row! In this fast-paced puzzle game where timing and p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Clicker, Halloween, Shoot 'Em Up, Shooter
+- Tags: block, Clicker, Halloween, Shoot 'Em Up, Shooter

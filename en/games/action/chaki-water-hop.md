@@ -21,4 +21,4 @@ Pass the Chaki through the water without drowning. Jumping on the platform and b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping, Platform, Puzzle
+- Tags: jumping, Platform, Puzzle

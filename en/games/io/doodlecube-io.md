@@ -21,4 +21,4 @@ Doodle your way to victory in this creative building game inspired by skribbl.io
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Arcade, Arena, Casual, Craft, Cute, Draw, Drawing, Girl, Mine, Minecraft, Multiplayer, WebGL
+- Tags: .io, .io Games, 3D, 3D Games, Arcade, Arena, Casual, Craft, Cute, Draw, drawing, Girl, Mine, Minecraft, Multiplayer, WebGL

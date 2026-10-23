@@ -21,4 +21,4 @@ Our administrative team has decided to offer you another new game, a new and bea
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Elsa, Frozen, Surgery
+- Tags: Doctor, Elsa, Frozen, surgery

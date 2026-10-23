@@ -19,6 +19,6 @@ The formula of words is an intellectual game of logic. The game consists of 2 mo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Educational, HTML5, Hypercasual, Jigsaw, Logic, Logical, Matching, Mind, Mobile, Play, Puzzle, Relaxation, Word
+- Tags: Brain, Casual, educational, HTML5, Hypercasual, Jigsaw, Logic, Logical, Matching, Mind, Mobile, Play, Puzzle, Relaxation, word

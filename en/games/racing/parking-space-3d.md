@@ -21,4 +21,4 @@ Can you let all of car out of this parking space?
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, Parking, Puzzle
+- Tags: 3D, Car, parking, Puzzle

@@ -21,4 +21,4 @@ NumberBee is a colorful 3-level kids math adventure where little learners help B
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Educational, Kids, Math, Number
+- Tags: 2026 games, educational, Kids, math, Number

@@ -21,4 +21,4 @@ There are more mobile games than any of the epic military strategy games! Your c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Strategy, War, World
+- Tags: battle, strategy, War, World

@@ -19,6 +19,6 @@ Use as many arrows as you need, but be smart enough and don’t shoot yourself a
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Shoot, Shooter

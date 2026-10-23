@@ -19,6 +19,6 @@ Enter the dark and mystical world of Warden of the Crypt, where you take on the 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Android, apocalypse, Best Games, Casual, Games

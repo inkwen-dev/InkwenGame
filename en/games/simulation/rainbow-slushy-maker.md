@@ -19,6 +19,6 @@ If you love to play ice games to make yummy carnivals foods and beverage? You wi
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Burger, Cook, Cooking, Food, Fruits, Games, Girls, Jewel, Kids, Magic, Online, Restaurant
+- Tags: 3D, Burger, Cook, Cooking, Food, Fruits, Games, Girls, Jewel, Kids, Magic, Online, restaurant

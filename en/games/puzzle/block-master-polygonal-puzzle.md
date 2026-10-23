@@ -21,4 +21,4 @@ A game about collecting blocks. But not the usual ones. Instead of the familiar 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Brain, Casual, construction, Logic, Logical, Match 3, Matching, Mobile, Puzzle, puzzleblock, Relaxation, Skill, Strategy
+- Tags: block, Brain, Casual, construction, Logic, Logical, Match 3, Matching, Mobile, Puzzle, puzzleblock, Relaxation, Skill, strategy

@@ -19,6 +19,6 @@ Enjoy the digital jungle and obstacles in this addictive game of endless run. Co
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, endless, Hypercasual, jump, Jumping, running
+- Tags: 3D, endless, Hypercasual, jump, jumping, running

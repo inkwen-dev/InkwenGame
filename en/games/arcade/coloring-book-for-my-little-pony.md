@@ -19,6 +19,6 @@ Are you into My Little Pony ? My Little Pony Coloring Book: A Stunning Coloring 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Cartoon, Color, Coloring, Draw, Drawing, Kids, Puzzle
+- Tags: Arcade, Cartoon, Color, Coloring, Draw, drawing, Kids, Puzzle

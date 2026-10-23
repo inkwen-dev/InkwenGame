@@ -21,4 +21,4 @@ Super bike racing free online games - play free Super bike racing games. Little 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Moto, Motorcycle, Race, Racing, Road
+- Tags: bike, Moto, Motorcycle, Race, Racing, Road

@@ -21,4 +21,4 @@ Finger Soccer Tournament is an engaging game where players pick teams to outscor
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mobile, Multiplayer, Soccer, Sports, two-player
+- Tags: Mobile, Multiplayer, Soccer, sports, two-player

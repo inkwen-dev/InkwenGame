@@ -19,6 +19,6 @@ As one of the most popular games, Parkour takes female characters as the selling
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 3D Games, Avoid, Coloring, Funny, Hair, Kids, running

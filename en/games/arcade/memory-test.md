@@ -21,4 +21,4 @@ Test your memory and intellect by doing this Memory Test. Memory Test is a fun l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Brain, Casual, HTML5, Logic, Logical, Memory, Mobile, Quiz, Skills, Word
+- Tags: 1 Player, Arcade, Brain, Casual, HTML5, Logic, Logical, memory, Mobile, Quiz, Skills, word

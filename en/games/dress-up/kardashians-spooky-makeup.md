@@ -19,6 +19,6 @@ The famous Kardashian sisters look bright and spectacular at every event. The Ha
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Celebrity, Cute, Dress Up, Girl, Girls, Halloween

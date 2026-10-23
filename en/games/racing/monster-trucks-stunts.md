@@ -19,6 +19,6 @@ Monster Trucks Stunts is an adrenaline-pumping, action-packed mobile game that p
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, monstertruck, Stunts, Truck, unity, Unity3D, WebGL
+- Tags: Driving, monstertruck, Stunts, truck, unity, Unity3D, WebGL

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 休闲, 家庭, 女孩, 万圣节, HTML, HTML5, 儿童, 移动, 怪物, 物理, 益智
+- 标签: 2D, 休闲, 家庭, 女孩, 万圣节, HTML, HTML5, 儿童, 移动设备, monster, 物理, 益智

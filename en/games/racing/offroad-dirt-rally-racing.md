@@ -21,4 +21,4 @@ Race colorful dirt bikes across rugged rally courses packed with sharp turns, st
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Bike, Motorcycle, offroad, Racing, Sports
+- Tags: 3D, Arcade, bike, Motorcycle, offroad, Racing, sports

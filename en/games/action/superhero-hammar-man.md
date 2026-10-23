@@ -21,4 +21,4 @@ Become a mighty futuristic hero and protect the city from danger in this action-
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, attack, Best, Fight, Fighting, Fun
+- Tags: 3D Games, Action, attack, Best, Fight, fighting, Fun

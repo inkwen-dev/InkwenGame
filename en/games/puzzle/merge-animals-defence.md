@@ -19,6 +19,6 @@ Merge Animals Defence Step into the lab and unleash your inner mad scientist! Me
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Animal, Battle, Clicker, Defense, Farm, Game, Puzzle, Strategy, Tower Defense
+- Tags: 2026 games, Animal, battle, Clicker, Defense, Farm, Game, Puzzle, strategy, Tower Defense

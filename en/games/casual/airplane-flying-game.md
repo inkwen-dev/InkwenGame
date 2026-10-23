@@ -15,6 +15,6 @@ Embark on a thrilling airborne adventure, mastering the skies in the Airplane Fl
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: airplane

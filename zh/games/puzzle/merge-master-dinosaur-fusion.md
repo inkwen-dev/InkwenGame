@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 街机, 战斗, 大脑, 恐龙, 移动设备, 解谜, 模拟, Unity3D, 战争
+- 标签: 3D, 街机, 战斗, 大脑, Dino, 移动设备, 益智, 模拟, Unity3D, 战争

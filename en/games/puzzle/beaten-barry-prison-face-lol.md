@@ -19,6 +19,6 @@ Get ready to laugh out loud in Beaten Barry Prison Face LOL &ndash; the wacky fa
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2D, Draw, Tung Tung

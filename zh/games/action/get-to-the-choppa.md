@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 冒险, 城市, H5, HTML, HTML5, 击杀, 杀人, 警察, 跑, 跑步, Stickman
+- 标签: 动作, 冒险, 城市, H5, HTML, HTML5, 杀戮, 击杀, 警察, 跑, 奔跑, 木偶人

@@ -21,4 +21,4 @@ Mungos Rescue 是由 8B Games/Games2mad 开发的一款点击式游戏。想象�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 逃脱, 点击
+- 标签: 逃脱, 点击式

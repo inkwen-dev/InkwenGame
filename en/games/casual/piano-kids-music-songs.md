@@ -21,4 +21,4 @@ Piano Kids – Music & Songs is a great fun music box created especially for kid
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Boy, Boys, Girl, Girls, H5, Kid, Kids, Music
+- Tags: 1 Player, Boy, Boys, Girl, Girls, H5, Kid, Kids, music

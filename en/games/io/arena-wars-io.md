@@ -19,6 +19,6 @@ Arena Wars is a fun io game where you can evolve by collecting gems and eliminat
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Action, Mobile, weapons

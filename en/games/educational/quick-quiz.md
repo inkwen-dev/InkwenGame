@@ -21,4 +21,4 @@ Are you ready to play in the Quick Quiz game? The goal is really simple: try to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Girls, HTML5, Letters, Mobile, Puzzle, Quiz, Word
+- Tags: Boys, Girls, HTML5, Letters, Mobile, Puzzle, Quiz, word

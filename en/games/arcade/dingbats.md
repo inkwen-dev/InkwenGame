@@ -21,4 +21,4 @@ Dingbats a unique crossword puzzle! You need to pay attention to how the cues fo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Boy, Brain, Casual, Kid, Letters, Puzzle, Word
+- Tags: 2D, Arcade, Boy, Brain, Casual, Kid, Letters, Puzzle, word

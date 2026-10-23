@@ -19,6 +19,6 @@ There are not too many dress up games in the Paw Patrol Games category of our we
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dress Up, Driving, Makeover, Mario, Motorcycle
+- Tags: Dress Up, Driving, Makeover, mario, Motorcycle

@@ -21,4 +21,4 @@ HissHope is a dangerous games of snakes. LOL! They never bite you. You are just 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Clicker, Snake
+- Tags: Action, Clicker, snake

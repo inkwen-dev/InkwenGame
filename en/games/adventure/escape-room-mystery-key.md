@@ -19,6 +19,6 @@ Escape Room Mystery Key is an intense escape room adventure filled with horror a
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Horror, Puzzle, School

@@ -15,6 +15,6 @@ Enter the strategic world of Straight 4 Multiplayer, where you challenge an oppo
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Board

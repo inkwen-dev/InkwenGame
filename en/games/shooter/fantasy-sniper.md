@@ -21,4 +21,4 @@ Use your sniper rifle to find and shoot all fantasy creatures on each level.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Gun, Shoot, Shoot 'Em Up, Shooter, Shooting, Sniper, Unity3D, WebGL
+- Tags: 3D, Action, Gun, Shoot, Shoot 'Em Up, Shooter, Shooting, sniper, Unity3D, WebGL

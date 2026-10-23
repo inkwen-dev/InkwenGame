@@ -19,6 +19,6 @@ Jewelry Shop is a fun webgl game with amazing graphics and multiple game modes. 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Girl, Girls, Jewel, Mobile, Shopping

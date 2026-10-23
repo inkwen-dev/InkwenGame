@@ -21,4 +21,4 @@ Dive into the engaging realm of Draw or Delete LoveStory, a fascinating puzzle g
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, cozy, Drawing, hidden-object, Love, Mobile, Point And Click, story
+- Tags: Brain, cozy, drawing, hidden-object, Love, Mobile, Point And Click, story

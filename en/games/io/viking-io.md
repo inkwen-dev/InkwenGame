@@ -21,4 +21,4 @@ Viking.io is a great run and jump game. Run with you Viking faster you can jump 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2 Player, 2D, Aircraft, Alien, Android, Arcade, Arena, Battle, Board, Dragon, Flight, Friv, Ghost, Gold, Google, Highscore, Holiday, Island, Killing, King, Kiz 10, kiz10, Knight, Mine, Minecraft, Movie, Multiplayer, Stickman, Strategy
+- Tags: .io, .io Games, 1 Player, 2 Player, 2D, Aircraft, Alien, Android, Arcade, Arena, battle, Board, Dragon, flight, Friv, Ghost, Gold, Google, Highscore, Holiday, Island, Killing, King, Kiz 10, kiz10, knight, Mine, Minecraft, Movie, Multiplayer, stickman, strategy

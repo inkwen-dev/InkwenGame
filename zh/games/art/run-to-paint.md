@@ -21,4 +21,4 @@ Paint Run 3D 新款令人满足的游戏，通过色彩绘制路径，像画家�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 涂色, 休闲
+- 标签: 3D, 着色, 超休闲

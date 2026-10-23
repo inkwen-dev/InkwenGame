@@ -19,6 +19,6 @@ You are Mörsermann! Click to propel yourself in the air by using your grenade l
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, endless, Highscore, jump, Jumping
+- Tags: Arcade, endless, Highscore, jump, jumping

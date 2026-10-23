@@ -19,6 +19,6 @@ Your mission is to click quickly on the mouse to throw an arrow to the same colo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Arcade, Best, HTML, HTML5, Mobile, WebGL

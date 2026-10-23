@@ -19,6 +19,6 @@ Welcome to Minecraft Archer Explore tons of challenging levels. Just aim your ar
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, HTML5, Minecraft, Shooting

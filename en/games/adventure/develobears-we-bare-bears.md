@@ -19,6 +19,6 @@ It's possible now to play Develobears - We Bare Bears game in your web browser f
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Animal, Boys, Brain, Cartoon, Cartoon Network, Family, Fun, Girls, HTML5, Kids, Mobile, Puzzle, Skills

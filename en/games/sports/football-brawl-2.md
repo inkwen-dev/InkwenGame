@@ -15,6 +15,6 @@ Jump into the chaotic world of Football Brawl, where heads and feet brawl in hil
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Sports
+- Tags: sports

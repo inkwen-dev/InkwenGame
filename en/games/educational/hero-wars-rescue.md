@@ -19,6 +19,6 @@ Hero Wars Rescue is an arcade simulator puzzle about the knight who saves beauti
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Educational, Puzzle, Superhero, War
+- Tags: Casual, educational, Puzzle, Superhero, War

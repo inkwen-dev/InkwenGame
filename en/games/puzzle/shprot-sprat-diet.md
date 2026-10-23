@@ -21,4 +21,4 @@ Shprot - Sprat Diet . Hardcore game where you help the fish to get to the canned
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Funny, HTML5, Pixel, Puzzle
+- Tags: 2D, Funny, HTML5, pixel, Puzzle

@@ -19,6 +19,6 @@ Toy Crush will lead you to a world of juicy blocks. Start your puzzle adventure 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bejeweled, Best, Block, Clicker, Color, Hot, Hypercasual, Match 3, Match3, Puzzle
+- Tags: Bejeweled, Best, block, Clicker, Color, Hot, Hypercasual, Match 3, Match3, Puzzle

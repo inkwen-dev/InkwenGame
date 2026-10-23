@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 绘画, 繪畫, 有趣, 解谜
+- 标签: 绘画, 绘画, 有趣, 益智

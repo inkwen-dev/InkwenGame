@@ -41,4 +41,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 怪物, 多人
+- 标签: monster, 多人

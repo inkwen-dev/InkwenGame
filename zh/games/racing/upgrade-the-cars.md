@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2025年游戏, 2026年游戏, 3D, 3D游戏, 安卓, 汽车, 汽车改装, 汽车, 驾驶, 闲置, iPhone, 赛车, Unity3D
+- 标签: 单人, 2025年游戏, 2026 游戏, 3D, 3D游戏, 安卓, 汽车, 汽车改装, 汽车, 驾驶, idle, iPhone, 竞速, Unity3D

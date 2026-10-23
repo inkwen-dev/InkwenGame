@@ -21,4 +21,4 @@ Test your memory with this memory game. First select the difficulty level. The h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Memory, Puzzle
+- Tags: Brain, memory, Puzzle

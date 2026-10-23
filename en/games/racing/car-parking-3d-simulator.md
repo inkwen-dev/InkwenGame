@@ -21,4 +21,4 @@ Car parking is back in the sequel to the biggest mobile parking simulation game 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Best, Car, Cars, Color, Driving, Hypercasual, Parking, Simulation, Simulator, Supercars, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Best, Car, Cars, Color, Driving, Hypercasual, parking, Simulation, Simulator, Supercars, Unity3D

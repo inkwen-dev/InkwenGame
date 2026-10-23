@@ -19,6 +19,6 @@ A virtual coloring book containing a collection of black and white pictures is p
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Coloring, Fun, HTML5, Mobile

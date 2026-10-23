@@ -19,6 +19,6 @@ Draw The Bike Bridge is a fun arcade game where the player has to draw a path fo
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Casual, Kids
+- Tags: bike, Casual, Kids

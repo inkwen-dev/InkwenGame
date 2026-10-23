@@ -21,4 +21,4 @@ Paint or Seek is a original hide and seek action game where you can paint your c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Color, Coloring, Creation, Draw, Drawing, Hidden, hunter, Multiplayer, Online, PvP, Sandbox, Shooting
+- Tags: Action, Adventure, Color, Coloring, Creation, Draw, drawing, Hidden, hunter, Multiplayer, Online, PvP, Sandbox, Shooting

@@ -21,4 +21,4 @@ Watermelon Day is a 2D cute little challenging platformer where you play as Wate
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Cute, Fruits, jump, Jumping, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Cute, Fruits, jump, jumping, pixel, Platform, retro

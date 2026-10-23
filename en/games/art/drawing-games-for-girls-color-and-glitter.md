@@ -19,6 +19,6 @@ This kids drawing worksheet with animated pictures for little princesses has eve
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Color, Coloring, Draw, Drawing, Educational, Fun, Girl, Girls, H5, HTML5
+- Tags: 2D, Color, Coloring, Draw, drawing, educational, Fun, Girl, Girls, H5, HTML5

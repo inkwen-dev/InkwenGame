@@ -21,4 +21,4 @@ The most important day of the year is here! And we are so happy about it! Come o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cake, Decorate, Decoration, Educational, Fun, Girls, HTML5, Kid, Mobile, Simulation
+- Tags: Animal, Baby, Cake, Decorate, Decoration, educational, Fun, Girls, HTML5, Kid, Mobile, Simulation

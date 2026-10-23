@@ -19,6 +19,6 @@ Ben 10: Super Slime Ben is the follow-up to the hit free-to-play game Super Slim
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, 8 Ball Pool, Action, Arcade, Ben 10, Bird, Cartoon, Cartoon Network, Hello Kitty, Jelly, jump, Puzzle, Race, run, running, Side Scrolling, subway, Subway Surfers, Super

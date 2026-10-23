@@ -21,4 +21,4 @@ Jigsolitaire Deluxe is a refined card-based puzzle where every level turns into 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Card, Relaxation, Solitaire
+- Tags: 1 Player, card, Relaxation, solitaire

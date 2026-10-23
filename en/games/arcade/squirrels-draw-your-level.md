@@ -19,6 +19,6 @@ Draw levels and compete to see who will get to the acorn first! Forget about bor
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Animal, Best, Best Games, Cool, Draw, Drawing, free games for your site, Mobile, New, two player games
+- Tags: 2 Player, 2 Player Games, 2D, Animal, Best, Best Games, cool, Draw, drawing, free games for your site, Mobile, New, two player games

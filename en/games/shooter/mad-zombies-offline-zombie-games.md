@@ -19,6 +19,6 @@ Kill Zombies using skulls and catapult in this epic game that made a legacy!! Fi
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Cartoon Network, Casual, Classic, Escape, Hot, Pixel, Shooter, Shooting
+- Tags: 2D, Cartoon Network, Casual, Classic, Escape, Hot, pixel, Shooter, Shooting

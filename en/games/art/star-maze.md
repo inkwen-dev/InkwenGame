@@ -19,6 +19,6 @@ Star Maze is a challenging Maze game with 100 levels. Paint your way through a m
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Brain, Color, Coloring, HTML5, Kids, Logical, Mobile, Puzzle

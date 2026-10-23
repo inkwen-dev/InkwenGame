@@ -19,6 +19,6 @@ Classic Snake Game &ndash; HTML5 + Responsive + Touch Support Bring back the nos
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Bomb, Snake
+- Tags: Best Games, Bomb, snake

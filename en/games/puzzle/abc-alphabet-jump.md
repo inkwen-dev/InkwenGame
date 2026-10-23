@@ -19,6 +19,6 @@ is a game to learn the alphabet in an easy and fun way. Jump over the letters in
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Boy, Boys, Girl, Girls, jump, Jumping, Kid, Kids
+- Tags: 1 Player, 2D, Boy, Boys, Girl, Girls, jump, jumping, Kid, Kids

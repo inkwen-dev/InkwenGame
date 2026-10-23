@@ -17,4 +17,4 @@ Enter a medieval realm with Flip & Match, where memory and strategy are your all
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Card
+- Tags: card

@@ -19,6 +19,6 @@ Try not to hit the roadblock with zig zag moves and collect stars! Features: - C
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Game, Games, Hypercasual, Multiplayer

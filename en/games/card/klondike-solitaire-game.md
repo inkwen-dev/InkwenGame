@@ -19,6 +19,6 @@ Relax and challenge your mind with Klondike Solitaire, one of the most popular a
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Action, Adventure, Best Games, Casino, Puzzle

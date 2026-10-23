@@ -19,6 +19,6 @@ Are you ready to drive Super Car in city? Drive the powerful Super Cars like Bug
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2 Player Games, 3D Games, Adult, Adventure, Aircraft, Arcade, Ballon, Batman, Boys, Bridge, Bubble, Bubble Shooter, Burger, bus, Candy, Car, Cars, drift, drifting, Driving, Fashion, Game, Games, Girl, Girls, Mario, Moto, Motorcycle, Race, Racing, Simulation, Simulator, Spiderman, Sport, Supercars, Truck
+- Tags: .io Games, 1 Player, 2 Player Games, 3D Games, Adult, Adventure, Aircraft, Arcade, Ballon, Batman, Boys, Bridge, Bubble, Bubble Shooter, Burger, bus, Candy, Car, Cars, drift, drifting, Driving, Fashion, Game, Games, Girl, Girls, mario, Moto, Motorcycle, Race, Racing, Simulation, Simulator, Spiderman, Sport, Supercars, truck

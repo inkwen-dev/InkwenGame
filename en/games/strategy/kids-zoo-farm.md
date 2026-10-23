@@ -19,6 +19,6 @@ Choose The Right Voice
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Boy, Boys, Girl, Girls, HTML, HTML5, Kid, Kids, Strategy
+- Tags: Animal, Boy, Boys, Girl, Girls, HTML, HTML5, Kid, Kids, strategy

@@ -19,6 +19,6 @@ This cute blonde girl is a model and she is goint to attend a motor show tonight
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cute, Decoration, Dress Up, Girl, Girls, Makeover

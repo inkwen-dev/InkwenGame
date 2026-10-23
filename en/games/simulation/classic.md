@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Brain, Classic, Cooking, Fun, Funny, Girl, Girls, Kid, Kids, Kill, Killing, Math, Mind, Mobile, Puzzle, Quiz, Shoot, Shooter, Shooting, Skill, Skills, Stickman
+- Tags: Android, Brain, Classic, Cooking, Fun, Funny, Girl, Girls, Kid, Kids, Kill, Killing, math, Mind, Mobile, Puzzle, Quiz, Shoot, Shooter, Shooting, Skill, Skills, stickman

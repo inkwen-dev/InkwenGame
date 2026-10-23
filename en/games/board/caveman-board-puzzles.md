@@ -19,6 +19,6 @@ It is a time bound game where one needs to find 1 difference between two identic
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Clicker, Difference, HTML5, Kids, Mobile, Puzzle

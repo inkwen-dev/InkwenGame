@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Android, Arcade, Cartoon, Cartoon Network, Classic, Disney, Fun, Funny, jump, Jumping, Kid, Kids, Mobile, run, running, Ski, Skill, Skills, Space, Sport, Sports, Super, Supercars, Superhero
+- Tags: Action, Adventure, Android, Arcade, Cartoon, Cartoon Network, Classic, Disney, Fun, Funny, jump, jumping, Kid, Kids, Mobile, run, running, Ski, Skill, Skills, Space, Sport, sports, Super, Supercars, Superhero

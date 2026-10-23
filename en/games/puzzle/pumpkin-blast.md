@@ -21,4 +21,4 @@ Hey Jack needs your help to escape from this dark prison! The main goal is to la
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bomb, Halloween, HTML5, Monster, Puzzle
+- Tags: Bomb, Halloween, HTML5, monster, Puzzle

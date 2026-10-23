@@ -23,4 +23,4 @@ This is a fresh take on solitaire card games, combining classic mechanics with m
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, cards, Classic, Educational, Mobile, Puzzle, Solitaire, trivia, words
+- Tags: Brain, cards, Classic, educational, Mobile, Puzzle, solitaire, trivia, words

@@ -21,4 +21,4 @@ Race through traffic in Bike Rivals! Dodge obstacles, overtake opponents and cha
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, Bike, Driving, motorbike, Racing
+- Tags: 3D, Arcade, bike, Driving, motorbike, Racing

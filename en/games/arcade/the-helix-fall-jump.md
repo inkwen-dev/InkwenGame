@@ -19,6 +19,6 @@ Helix Jump is a 3D arcade hyper casual game where players smash and bounce throu
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, HTML5, jump, Jumping, Mobile
+- Tags: Ball, HTML5, jump, jumping, Mobile

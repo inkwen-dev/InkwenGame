@@ -21,4 +21,4 @@ Mouse click or tap to play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, 2D, Arcade, Pixel
+- Tags: 1 Player, 2025 games, 2D, Arcade, pixel

@@ -21,4 +21,4 @@ Welcome to Merge Cafe Game. Buy tasty cakes, merge them to unlock new recipes an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Casual, Clicker, Fun, Girls, Highscore, HTML5, Hypercasual, Management, Mobile
+- Tags: Boys, Casual, Clicker, Fun, Girls, Highscore, HTML5, Hypercasual, management, Mobile

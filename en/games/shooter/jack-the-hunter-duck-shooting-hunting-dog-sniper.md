@@ -19,6 +19,6 @@ Mouse Click Arrows
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adult, Adventure, Aircraft, Animal, Ball, Battle, Boy, Crazy, Disney, fly, Girl, Gun, HTML, HTML5, Hypercasual, Logical, Shoot, Shooter, Shooting, Sniper, WebGL
+- Tags: Action, Adult, Adventure, Aircraft, Animal, Ball, battle, Boy, crazy, Disney, fly, Girl, Gun, HTML, HTML5, Hypercasual, Logical, Shoot, Shooter, Shooting, sniper, WebGL

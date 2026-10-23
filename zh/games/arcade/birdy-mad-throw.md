@@ -21,4 +21,4 @@ Birdy Mad Throw 是一款混乱的街机游戏，一只愤怒的小鸟将凭借�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 愤怒的小鸟, 街机, 乐趣, 投掷
+- 标签: 2D, 愤怒的小鸟, 街机, 有趣, 投掷

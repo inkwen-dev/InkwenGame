@@ -21,4 +21,4 @@ Play one of the most realistic parking games on the market. Drive various cars e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Adventure, Arcade, Car, Cars, Mobile, Parking, Race, Racing, Simulation, Simulator, Supercars, Unity3D
+- Tags: 3D Games, Adventure, Arcade, Car, Cars, Mobile, parking, Race, Racing, Simulation, Simulator, Supercars, Unity3D

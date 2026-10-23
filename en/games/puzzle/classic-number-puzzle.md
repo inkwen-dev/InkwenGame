@@ -25,4 +25,4 @@
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Classic, Logic, Math, Number, Puzzle
+- Tags: Brain, Classic, Logic, math, Number, Puzzle

@@ -21,4 +21,4 @@ Get ready for an exciting Bike Racing 3D experience! Ride powerful motorcycles t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, attack, Bike, Games, Racing
+- Tags: 3D Games, attack, bike, Games, Racing

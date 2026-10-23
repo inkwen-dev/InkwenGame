@@ -19,6 +19,6 @@ Stack Ball is a 3d arcade game where players smash, bump and bounce through revo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Arcade

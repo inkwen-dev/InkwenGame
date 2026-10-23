@@ -21,4 +21,4 @@ Tricks is a fun, colorful, motorcycle racing game by Yello Games where you'll no
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Mine, Minecraft, Moto, Motorcycle, Race, Racing, running, Truck
+- Tags: block, Mine, Minecraft, Moto, Motorcycle, Race, Racing, running, truck

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 单人游戏, 2人, 动作, 冒险, Android, 婴儿, 最佳, 桥梁
+- 标签: .io, .io 游戏, 单人, 双人, 动作, 冒险, 安卓, 婴儿, 最佳, 桥

@@ -19,6 +19,6 @@ It's time to wake up! Take baby to the feeding chair in the Kitchen and feed bab
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cooking, Cute, Dress Up, Educational, Food, Girl, Girls, Kids, Makeover, Simulation
+- Tags: Baby, Cooking, Cute, Dress Up, educational, Food, Girl, Girls, Kids, Makeover, Simulation

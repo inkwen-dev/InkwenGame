@@ -21,4 +21,4 @@ ChickZ Stack 是一款有趣且令人上瘾的街机游戏，飞翔的小鸡们�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 鸟类, 小鸡, 飞翔, 堆叠
+- 标签: 小鸟, 鸡, 飞, 堆叠

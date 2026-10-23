@@ -19,6 +19,6 @@ You can now become a nurse ! Play as a nurse and take care of the patients. They
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Doctor, Family, Girls, Hypercasual, Management
+- Tags: Casual, Doctor, Family, Girls, Hypercasual, management

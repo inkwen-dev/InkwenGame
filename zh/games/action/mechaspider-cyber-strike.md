@@ -21,4 +21,4 @@ V 键锁定/解锁鼠标 1-4 键选择机器人形态下的武器 点击射击 �
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 街机, 格斗游戏, 怪兽, 机器人, 超级英雄, Unity3D, WebGL
+- 标签: 冒险, 街机, 格斗, monster, 机器人, 超级英雄, Unity3D, WebGL

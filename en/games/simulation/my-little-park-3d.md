@@ -29,4 +29,4 @@ Build swings, carousels, and other attractions, improve the park infrastructure,
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, idle, Management, tycoon
+- Tags: 3D, idle, management, tycoon

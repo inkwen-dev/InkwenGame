@@ -21,4 +21,4 @@ Here is a truck transport-driving simulation game with 3D environments. You need
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, Driving, HTML5, Mobile, Simulation, Truck
+- Tags: 3D, Car, Driving, HTML5, Mobile, Simulation, truck

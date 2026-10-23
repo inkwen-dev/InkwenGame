@@ -21,4 +21,4 @@ Guess The Flag Quiz is a great option if you are looking for some trivia games f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Educational, Guessing, Puzzle, Quiz
+- Tags: Casual, educational, Guessing, Puzzle, Quiz

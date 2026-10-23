@@ -19,6 +19,6 @@ Six kids are sitting in the chair and their teeth are a disaster. Grab the right
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Educational, endless, hospital, Kids, mapi games, Simulation, Skill, Surgery
+- Tags: Casual, educational, endless, hospital, Kids, mapi games, Simulation, Skill, surgery

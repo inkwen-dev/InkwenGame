@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 2026年游戏, 2D, 冒险, Android, HTML5, 消除3, 消除3, 匹配
+- 标签: 单人, 2026 游戏, 2D, 冒险, 安卓, HTML5, 三消, 三消游戏, 匹配

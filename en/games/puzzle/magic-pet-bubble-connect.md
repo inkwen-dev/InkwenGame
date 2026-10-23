@@ -19,6 +19,6 @@ Start an exciting adventure in the cutest animal puzzle matching game! Swipe and
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Brain, Bubble, Casual, Hypercasual, Mahjong, Puzzle
+- Tags: Animal, Brain, Bubble, Casual, Hypercasual, mahjong, Puzzle

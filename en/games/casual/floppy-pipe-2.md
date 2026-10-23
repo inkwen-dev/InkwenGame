@@ -15,6 +15,6 @@ Navigate thrilling skies as a flying pipe in Floppy Pipe, dodging quirky chicken
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Casual

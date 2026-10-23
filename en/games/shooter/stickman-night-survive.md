@@ -19,6 +19,6 @@ Now that Halloween is here, the gloomiest day of the year, its time to bring bac
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Halloween, kiz10, Shooting, Stickman, survival
+- Tags: Halloween, kiz10, Shooting, stickman, survival

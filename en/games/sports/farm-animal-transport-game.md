@@ -21,4 +21,4 @@ The Farm Animal Cargo are grazing around in the farm so make sure you don't hit 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Android, Animal, Arcade, Cleaning, Farm, Horse, Strategy, Traffic
+- Tags: 3D Games, Android, Animal, Arcade, Cleaning, Farm, horse, strategy, Traffic

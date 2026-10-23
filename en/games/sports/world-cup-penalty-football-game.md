@@ -21,4 +21,4 @@ Are you a soccer fan? Well, so are we! And since the 2014 World Cup is coming up
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Soccer, Sport, Sports, World
+- Tags: Football, Soccer, Sport, sports, World

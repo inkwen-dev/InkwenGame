@@ -21,4 +21,4 @@ You are the commander of an elite unit of combat koloboks and the goal of your l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arena, Army, MMO, Shoot, Strategy, War
+- Tags: Arena, Army, MMO, Shoot, strategy, War

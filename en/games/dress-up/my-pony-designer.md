@@ -19,6 +19,6 @@ Pony creator game where you can create your magic pony. The design is all yours,
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Coloring, Creation, Decorate, Design, Dress Up, Girl, Horse, HTML5, Kids, Makeover, Pony
+- Tags: Cartoon, Coloring, Creation, Decorate, Design, Dress Up, Girl, horse, HTML5, Kids, Makeover, Pony

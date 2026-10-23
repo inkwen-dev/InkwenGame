@@ -15,6 +15,6 @@ Leap through vibrant 2D landscapes, collecting fruits and vanquishing foes in Ru
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: platformer

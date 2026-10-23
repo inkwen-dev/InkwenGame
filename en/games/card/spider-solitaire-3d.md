@@ -21,4 +21,4 @@ Standard Spider Solitaire cards patience game with 3D cards and animated 3D back
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Android, Card, Cartoon, Hypercasual
+- Tags: 3D Games, Android, card, Cartoon, Hypercasual

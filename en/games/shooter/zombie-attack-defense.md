@@ -19,6 +19,6 @@ Zombie Attack: Defense is an electrifying 2D game where you face hordes of hungr
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: attack, Best, Bomb, Defense, Shooting, Skill, Zombie

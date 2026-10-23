@@ -19,6 +19,6 @@ A very long adventure begins with the Rocket Stunt Cars game on a huge desert ma
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Boys, Car, city, drift, drifting, Driving, Game, HTML5, Race, Racing, Road, Rocket, Simulation, Simulator, Sport, Stunts, Supercars, Unity3D, WebGL

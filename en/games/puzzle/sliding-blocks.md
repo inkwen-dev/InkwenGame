@@ -19,6 +19,6 @@ Help your orange blocks to reach the indicated locations. Move blocks in the rig
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Brain, Obstacle
+- Tags: block, Brain, Obstacle

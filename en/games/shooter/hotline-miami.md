@@ -19,6 +19,6 @@ Hotline Miami is an exciting 2D top-down shooter. Players are immersed in a vibr
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Action, amazing, Gun, Hot, Kill, Music, Shooter, sound, Top Down
+- Tags: 1 Player, 2026 games, 2D, Action, amazing, Gun, Hot, Kill, music, Shooter, sound, Top Down

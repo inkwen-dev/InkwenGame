@@ -19,6 +19,6 @@ Match groups of the same fruit to "eat" them. Many challenges to play. Many swee
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Brain, HTML5, Match 3, Match3, Matching, Mobile

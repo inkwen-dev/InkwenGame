@@ -21,4 +21,4 @@ Prince of Persia Dash is a puzzle adventure game. Control an armored prince to c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mario, Superhero
+- Tags: mario, Superhero

@@ -28,4 +28,4 @@ But the challenge doesn’t stop at the bees. The dog must also avoid lava, wate
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: dog, Drawing
+- Tags: dog, drawing

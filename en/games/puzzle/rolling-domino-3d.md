@@ -19,6 +19,6 @@ Rolling Domino 3D - arcade game, take control of the ball and choose its directi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Ball, Obstacle, Unity3D, WebGL

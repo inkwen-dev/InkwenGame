@@ -19,6 +19,6 @@ Flat Jumper 2 is a game in which you need to jump on colored platforms and choos
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Color, Fun, HTML5, jump, Jumping, Kids, Mobile, Skill
+- Tags: Arcade, Ball, Color, Fun, HTML5, jump, jumping, Kids, Mobile, Skill

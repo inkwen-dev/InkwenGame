@@ -21,4 +21,4 @@ Color creativity in this coloring adventure designed for kids. Packed with adora
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Baby, Baby Games, Color, Coloring, Educational
+- Tags: 2D, Baby, Baby Games, Color, Coloring, educational

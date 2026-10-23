@@ -21,4 +21,4 @@ Demolition hysteria has been unleashed! Do you want to participate in severe cra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, Car, Cars, Interactive, Pixel, Unity3D, WebGL
+- Tags: 1 Player, block, Car, Cars, Interactive, pixel, Unity3D, WebGL

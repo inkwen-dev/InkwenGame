@@ -21,4 +21,4 @@ Tab键切换屏幕
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩, 烹饪, 女孩, 儿童
+- 标签: 男孩们, 厨艺, 女孩, 儿童

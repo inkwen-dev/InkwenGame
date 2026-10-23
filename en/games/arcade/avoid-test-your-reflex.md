@@ -19,6 +19,6 @@ Slide your way through the death wheels and collect coins to unlock new cool cha
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Arcade, Avoid, Blood, Hypercasual

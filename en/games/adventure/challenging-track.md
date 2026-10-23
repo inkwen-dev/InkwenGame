@@ -19,6 +19,6 @@ Challenging Track is a difficult parkour game. Are you ready to embark on this w
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Fun, Pixel
+- Tags: 1 Player, 2D, Action, Adventure, Fun, pixel

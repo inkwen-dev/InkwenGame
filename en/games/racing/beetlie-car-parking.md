@@ -21,4 +21,4 @@ A Beetle Car Parking over sea view and drive in sky with your selected vehicle. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Casual, Hypercasual, Parking
+- Tags: Adventure, Casual, Hypercasual, parking

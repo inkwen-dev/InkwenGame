@@ -19,6 +19,6 @@ Mad Hatter Rush is a fast-paced cartoon adventure runner set in a surreal Wonder
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Avoid, Casual, Collecting, Fantasy, jump, Jumping, Levels, Obstacle, run, running, World of Alice
+- Tags: Adventure, Avoid, Casual, Collecting, Fantasy, jump, jumping, Levels, Obstacle, run, running, World of Alice

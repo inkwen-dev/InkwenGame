@@ -19,6 +19,6 @@ World of Alice - Memory Game is an enchanting educational game designed for chil
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Cartoon, Cute, Educational, free games for your site, HTML5, Kids, Logic, Memory, Mobile, School, touchscreen, World of Alice
+- Tags: Best Games, Cartoon, Cute, educational, free games for your site, HTML5, Kids, Logic, memory, Mobile, School, touchscreen, World of Alice

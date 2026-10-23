@@ -21,4 +21,4 @@ Take control of 3 combat ships to fight your enemies Fight as a squadron or assi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting, Fun, Games, HTML5, Kids, Planet
+- Tags: Fight, fighting, Fun, Games, HTML5, Kids, Planet

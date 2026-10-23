@@ -21,4 +21,4 @@ Are you ready to take on the challenge and survive the barrage of fireballs from
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Kids, Puzzle, Sword
+- Tags: Arcade, Kids, Puzzle, sword

@@ -21,4 +21,4 @@ Proceed upwards using the green tubes and you must watch out for the red tubes. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Fun, jump, Mario, Stickman
+- Tags: Adventure, Arcade, Fun, jump, mario, stickman

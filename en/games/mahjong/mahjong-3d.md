@@ -19,6 +19,6 @@ Welcome to Mahjong 3D! Enjoy the ancient board game classic now in it's most imm
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Classic, Mahjong
+- Tags: 3D, Arcade, Classic, mahjong

@@ -21,4 +21,4 @@ Drive a taxi and park it into marked parking spots. Drive fast to get three star
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Driving, HTML5, Mobile, Parking, Taxi
+- Tags: Car, Driving, HTML5, Mobile, parking, Taxi

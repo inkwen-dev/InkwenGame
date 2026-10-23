@@ -27,4 +27,4 @@ Snake Army Defense is a colorful 3D tower defense game where squads of soldiers 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Arcade, Strategy, Tower Defense
+- Tags: 3D, Action, Arcade, strategy, Tower Defense

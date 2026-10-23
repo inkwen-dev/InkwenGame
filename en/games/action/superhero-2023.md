@@ -19,6 +19,6 @@ Welcome to an exhilarating new adventure in the world of flying iron superheroes
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Fighting, Fun, Super, Superhero
+- Tags: Action, Adventure, fighting, Fun, Super, Superhero

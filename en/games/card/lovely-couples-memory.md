@@ -21,4 +21,4 @@ Click the cards to reveal a couple. Memorize it so that you can match to similar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Card, Fun, Girl, HTML, HTML5, Kids, Love, Matching, Memory, Mobile
+- Tags: Arcade, card, Fun, Girl, HTML, HTML5, Kids, Love, Matching, memory, Mobile

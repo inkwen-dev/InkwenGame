@@ -19,6 +19,6 @@ Spinning Colors is a nice game you have to tap the color shown on the center of 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Coloring, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Mind, Puzzle

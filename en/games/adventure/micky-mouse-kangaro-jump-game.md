@@ -19,6 +19,6 @@ In Micky Mouse Kangaroo Jump, soar into the air to reach places begging to be ex
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Adventure, Cartoon, jump, Jumping, Play, run
+- Tags: 3D Games, Action, Adventure, Cartoon, jump, jumping, Play, run

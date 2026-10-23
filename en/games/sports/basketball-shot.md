@@ -19,6 +19,6 @@ Basketball shoot is simple play with one touch or one click. Challenge your inge
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Sport, Sports
+- Tags: basketball, Sport, sports

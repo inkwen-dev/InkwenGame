@@ -19,6 +19,6 @@ Boost your brain with logic puzzles and go in maze!
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Games, Maze, Online, Punch, Puzzle, Rabbit

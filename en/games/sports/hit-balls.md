@@ -19,6 +19,6 @@ Simple pool table to exercise logic, fun and relieve stress. To score you have t
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, HTML5, Logic, Mobile, Pool, Skills
+- Tags: Ball, HTML5, Logic, Mobile, pool, Skills

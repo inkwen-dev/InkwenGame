@@ -19,6 +19,6 @@ Use your modern sniper rifle to find and shoot all enemy forces in the urban are
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Gun, Shoot, Shoot 'Em Up, Shooter, Shooting, Sniper, Unity3D, WebGL
+- Tags: 3D, Action, Gun, Shoot, Shoot 'Em Up, Shooter, Shooting, sniper, Unity3D, WebGL

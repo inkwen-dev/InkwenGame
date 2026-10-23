@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 1人, 球, 方块风格, 乐趣, HTML5, 鼠标, 益智方块
+- 标签: .io, .io 游戏, 单人, 球, 方块状, 有趣, HTML5, 鼠标, 拼图块

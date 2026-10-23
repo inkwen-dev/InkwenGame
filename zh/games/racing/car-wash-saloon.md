@@ -21,4 +21,4 @@ Car Wash Guys 始终致力于为您提供快速、友好且干净的洗车体验
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车, 竞速, 体育
+- 标签: 汽车, 比赛, 运动

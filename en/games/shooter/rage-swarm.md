@@ -21,4 +21,4 @@ Take powerful weapons and make your way through a huge number of enemies in orde
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Bullet, free html5 games for your website, HTML5, kiz10, Monster, Shoot 'Em Up
+- Tags: Action, Adventure, Bullet, free html5 games for your website, HTML5, kiz10, monster, Shoot 'Em Up

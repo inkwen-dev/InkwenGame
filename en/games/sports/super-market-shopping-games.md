@@ -21,4 +21,4 @@ Kids supermarket is funny games for kids with educational elements. Mommy makes 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 3D Games, Baby, Baby Hazel, Ball, Baseball, Basketball, Burger, Cake, Candy, Fun, hockey, Sword, Unity3D
+- Tags: 2 Player Games, 3D Games, Baby, Baby Hazel, Ball, baseball, basketball, Burger, Cake, Candy, Fun, hockey, sword, Unity3D

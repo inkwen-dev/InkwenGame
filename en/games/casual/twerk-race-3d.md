@@ -21,4 +21,4 @@ Nothing is more fun than twerking... Except a runner game with twerking! Here is
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Dancing, Girls, Music
+- Tags: Boys, Dancing, Girls, music

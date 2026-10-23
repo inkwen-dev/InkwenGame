@@ -19,6 +19,6 @@ Cats love boxes! Launch cats of different sizes into the box. If two cats of the
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cat, Cute, Girl, Physics, Puzzle

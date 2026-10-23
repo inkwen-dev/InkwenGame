@@ -19,6 +19,6 @@ Ever had a think to drive a sports car in the city and driving for free. Here ar
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Car, city, drift, Driving, HTML, HTML5, Mobile, Online, Simulation, Simulator, Skill

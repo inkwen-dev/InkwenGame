@@ -19,6 +19,6 @@ Play at Pumpkin Pot and dive into a spooky, fun-filled puzzle adventure set in a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Family, Halloween, HTML5, mapi games, Mobile, Physics, Puzzle

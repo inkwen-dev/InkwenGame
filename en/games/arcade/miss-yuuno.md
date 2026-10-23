@@ -19,6 +19,6 @@ Miss Yuuno is a 2D adventure platformer where you play as a girl called Yuuno wh
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Cute, Ghost, Girl, jump, Jumping, Monster, Pixel, Retro
+- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Cute, Ghost, Girl, jump, jumping, monster, pixel, retro

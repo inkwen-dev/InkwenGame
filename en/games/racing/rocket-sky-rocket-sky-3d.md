@@ -19,6 +19,6 @@ In Rocket Sky! you can use your keyboard controls to move your rocket left or ri
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2 Player, 2D, 3D Games, Action, Aircraft, Android, Arcade, Best, Boxing, Car, Casual, Craft, Crafting, Crazy, Defense, Ever After High, Fantasy, Flight, Fun, Funny, Interactive, Mine, Minecraft, Miner, Obstacle, Plane, Rocket, Sandbox, sky, Traffic, Unity3D
+- Tags: .io, .io Games, 1 Player, 2 Player, 2D, 3D Games, Action, Aircraft, Android, Arcade, Best, Boxing, Car, Casual, Craft, Crafting, crazy, Defense, Ever After High, Fantasy, flight, Fun, Funny, Interactive, Mine, Minecraft, Miner, Obstacle, Plane, Rocket, Sandbox, sky, Traffic, Unity3D

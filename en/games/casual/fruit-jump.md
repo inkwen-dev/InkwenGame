@@ -21,4 +21,4 @@ Fruit Jump is a HTML5 arcade Game. Collect more fruit to earn score, avoid the s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Click, jump, Jumping, Pixel
+- Tags: 2D, Click, jump, jumping, pixel

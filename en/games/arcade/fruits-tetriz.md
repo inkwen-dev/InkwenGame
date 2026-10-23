@@ -21,4 +21,4 @@ Use left, right and down keys to move the fruit blocks. Use up key to rotate the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Fruits, HTML5, Mobile, Puzzle, Tetris
+- Tags: Arcade, block, Fruits, HTML5, Mobile, Puzzle, tetris

@@ -19,6 +19,6 @@ Sky Warrior Alien Attacks game has a lot of success review and player this MONTH
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Air, Aircraft, Alien, Animal, Bubble Shooter, Fairy, Shoot, Shoot 'Em Up, Shooter, Shooting, sky

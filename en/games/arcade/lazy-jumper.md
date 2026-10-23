@@ -19,6 +19,6 @@ Lazy Jumper is an arcade game to make the lazy guy jump around and enter the swi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Arcade, Fun, jump, Jumping, WebGL
+- Tags: 1 Player, 3D, Arcade, Fun, jump, jumping, WebGL

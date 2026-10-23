@@ -58,4 +58,4 @@ Can you organize the traffic, find the perfect route, and clear every parking lo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Car, Parking, Puzzle
+- Tags: Car, parking, Puzzle

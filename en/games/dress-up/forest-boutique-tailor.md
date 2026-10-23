@@ -21,4 +21,4 @@ Forest Boutique Little Tailor is an online Kids game. Choose from a wide range o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Drawing, Dress Up, Fashion, Girl, Girls, Kids
+- Tags: drawing, Dress Up, Fashion, Girl, Girls, Kids

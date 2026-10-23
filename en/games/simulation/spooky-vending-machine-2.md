@@ -21,4 +21,4 @@ Pick an item, enter its code, and collect your Halloween treat! Spooky Vending M
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Halloween, Machine, mapi games, Monster, Puzzle, Simulation, Zombie
+- Tags: Brain, Halloween, Machine, mapi games, monster, Puzzle, Simulation, Zombie

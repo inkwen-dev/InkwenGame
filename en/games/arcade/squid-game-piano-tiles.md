@@ -21,4 +21,4 @@ Piano Tiles squid game Homura LISA - squid game online Movie Are you a fan of th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Best, Clicker, Game, Hot, HTML5, Hypercasual, Magic, Mobile, Music, Point And Click, Puzzle, Timing
+- Tags: Action, Arcade, Best, Clicker, Game, Hot, HTML5, Hypercasual, Magic, Mobile, music, Point And Click, Puzzle, Timing

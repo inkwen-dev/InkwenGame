@@ -19,6 +19,6 @@ tes-vous pr t devenir un h ros un espion et une l gende R solvez des d fis d rou
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Arcade

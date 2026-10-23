@@ -21,4 +21,4 @@ Chasing/Running endlessly for collecting coins(Money). Try to avoid traps &amp; 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Android, Hypercasual, Pixel
+- Tags: 1 Player, Android, Hypercasual, pixel

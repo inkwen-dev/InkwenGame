@@ -15,6 +15,6 @@ Indulge in the bizarre yet addictive thrill of Banana Touch, where persistence i
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Clicker

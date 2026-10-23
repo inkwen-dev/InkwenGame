@@ -21,4 +21,4 @@ The challenge for real basketball and streetball players! Jump with the ball and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Game, Games, HTML, HTML5, Sport, Sports
+- Tags: basketball, Game, Games, HTML, HTML5, Sport, sports

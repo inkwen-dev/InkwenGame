@@ -21,4 +21,4 @@ The song quiz full of free music
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Guessing, Music, Puzzle
+- Tags: Guessing, music, Puzzle

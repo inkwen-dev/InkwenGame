@@ -40,4 +40,4 @@ Take aim, manage your shots, and show the monsters what a noob can really do.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Monster
+- Tags: monster

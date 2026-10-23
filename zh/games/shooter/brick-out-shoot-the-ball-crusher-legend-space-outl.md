@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 成人, 街机, 宝宝, Baby Hazel, 球, 男孩, 砖块, 家庭, 女孩, HTML, HTML5, 超休闲, 逻辑, 拼图, 投篮, 射击, WebGL
+- 标签: 成人, 街机, 婴儿, 小哈泽尔, 球, 男孩, 砖块, 家庭, 女孩, HTML, HTML5, 超休闲, 逻辑, 益智, 射击, 射击, WebGL

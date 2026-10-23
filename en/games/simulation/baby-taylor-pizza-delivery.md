@@ -19,6 +19,6 @@ Pizzas are so tasty and yummy to eat but what is better than eating a pizza? Tay
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cooking, Decorate, Girl, Girls, Kid, Kids, Simulation

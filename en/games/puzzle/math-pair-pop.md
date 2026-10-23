@@ -19,6 +19,6 @@ Math Pair Pop : This is a game where you have to remember cards with numbers N w
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Math, Memory, Number, Puzzle
+- Tags: math, memory, Number, Puzzle

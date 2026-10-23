@@ -19,6 +19,6 @@ Its the year 2057. You are a group of geologists and other scientists from diffe
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Horror, Interactive Fiction, Pixel, RPG, Top Down
+- Tags: Horror, Interactive Fiction, pixel, rpg, Top Down

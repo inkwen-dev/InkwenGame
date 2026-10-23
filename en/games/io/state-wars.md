@@ -19,6 +19,6 @@ State io Wars is an online strategy game that involves directing your forces to 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: onlinegames io, Strategy
+- Tags: onlinegames io, strategy

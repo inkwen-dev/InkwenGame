@@ -19,6 +19,6 @@ Get amazed, as you Dive into the world of stress releasing games, and the ball r
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, Casual, Coloring

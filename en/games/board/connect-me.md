@@ -19,6 +19,6 @@ You should put the tiles in the correct position by dragging, dropping and rotat
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Block, Board, HTML5, Mobile, Puzzle
+- Tags: Android, block, Board, HTML5, Mobile, Puzzle

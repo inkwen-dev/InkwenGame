@@ -45,4 +45,4 @@ Once your quota is full, you must race to the exit door to unlock the next room 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Skill, Snake
+- Tags: Arcade, Skill, snake

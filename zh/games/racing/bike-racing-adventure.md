@@ -21,4 +21,4 @@ W 向上箭头 rarr 前进 S 向下箭头 rarr 后退 A 向左箭头 rarr 左移
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 惊人, 摩托车, 休闲, 乐趣, 竞速
+- 标签: 惊人, 自行车, 休闲, 有趣, 竞速

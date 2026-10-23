@@ -19,6 +19,6 @@ Are you ready to survive on a small island floating high in the sky? Start your 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Arcade, Block, mineblock, Minecraft
+- Tags: 3D, 3D Games, Adventure, Arcade, block, mineblock, Minecraft

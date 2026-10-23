@@ -21,4 +21,4 @@ Get ready for an electrifying soccer experience with Flick n Goal! Choose your t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Football, Soccer, Sports
+- Tags: Casual, Football, Soccer, sports

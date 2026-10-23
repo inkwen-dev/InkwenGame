@@ -19,6 +19,6 @@ Get ready for an exciting fight with the SuperHero Fighters game. Fighting duels
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, Fighting, Spiderman, Sports, Street Fighting, Superhero
+- Tags: 2 Player, 2 Player Games, 3D, fighting, Spiderman, sports, Street Fighting, Superhero

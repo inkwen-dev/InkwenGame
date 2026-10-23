@@ -21,4 +21,4 @@ Use mouse or touchscreen to play this game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Candy, Educational, HTML5, Logical, Math, Mobile, School, Skill
+- Tags: Candy, educational, HTML5, Logical, math, Mobile, School, Skill

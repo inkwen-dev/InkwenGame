@@ -21,4 +21,4 @@ Monster Truck Puzzle Quest is super fun online game that you can play for free o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Baby, Boy, Fun, Girl, HTML5, Hypercasual, Kids, Mobile, Monster, Puzzle, Truck
+- Tags: Android, Baby, Boy, Fun, Girl, HTML5, Hypercasual, Kids, Mobile, monster, Puzzle, truck

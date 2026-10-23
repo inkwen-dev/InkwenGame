@@ -21,4 +21,4 @@ This is a restaurant management simulation game, start as a street food bar, hir
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Cooking, Cool, Food, Point And Click, Restaurant
+- Tags: Casual, Cooking, cool, Food, Point And Click, restaurant

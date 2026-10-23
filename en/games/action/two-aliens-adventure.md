@@ -19,6 +19,6 @@ Two Aliens Adventure is a fun platformer game! Control two aliens, at the same t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Alien, Arcade, Best, Boy, Funny, Game, Girl, HTML5, jump, Jumping, Pixel, Platform
+- Tags: Adventure, Alien, Arcade, Best, Boy, Funny, Game, Girl, HTML5, jump, jumping, pixel, Platform

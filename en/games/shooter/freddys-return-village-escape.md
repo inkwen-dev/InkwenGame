@@ -19,6 +19,6 @@ Immerse yourself in this 3D gametheres no need to fear the monster Freddy. To fa
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Horror, kiz10, Shooter

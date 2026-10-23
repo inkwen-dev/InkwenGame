@@ -19,6 +19,6 @@ Play NowAvoid the obstacles as you race for a high score.Game directions: Arrow 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Race, Racing, Sport, Sports
+- Tags: Adventure, Arcade, Race, Racing, Sport, sports

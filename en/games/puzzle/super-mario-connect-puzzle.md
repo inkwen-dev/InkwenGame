@@ -21,4 +21,4 @@ Super Mario Connect Puzzle is a game in which blocks with various patterns are c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mario, Match 3, Match3, Matching, Puzzle, Super
+- Tags: mario, Match 3, Match3, Matching, Puzzle, Super

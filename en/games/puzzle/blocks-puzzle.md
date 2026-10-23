@@ -19,6 +19,6 @@ Blocks Puzzle or also called 1010 is a simple HTML5 puzzle game. Drag blocks int
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block
+- Tags: block

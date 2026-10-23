@@ -21,4 +21,4 @@ In Draw Weapon - Fight Party, you can draw your own weapons. Feel free to write 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Draw, Fight, weapons
+- Tags: battle, Draw, Fight, weapons

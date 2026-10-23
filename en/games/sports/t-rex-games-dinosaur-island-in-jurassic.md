@@ -19,6 +19,6 @@ Join T-rex to travel across mountains, deserts, and forests in search of trapped
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Animal, Anime, Boys, Cartoon, dino, Dinosaur, Games, Girls, Island, Sports
+- Tags: Adventure, Animal, Anime, Boys, Cartoon, dino, Dinosaur, Games, Girls, Island, sports

@@ -21,4 +21,4 @@ W 箭头向上 rarr 前进 S 箭头向下 rarr 后退 A 箭头向左 rarr 左移
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2025 games, 冒险, 桥梁, 泡泡, 奔跑
+- 标签: 2025年游戏, 冒险, 桥, 泡泡, 奔跑

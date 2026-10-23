@@ -21,4 +21,4 @@ Aimistry &ndash; Learn Chemistry Through Precision and Play! Get ready to test y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Educational, Math, Science
+- Tags: Casual, educational, math, Science

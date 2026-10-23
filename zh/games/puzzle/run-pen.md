@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 企鹅, 解谜, 跑
+- 标签: 企鹅, 益智, 跑

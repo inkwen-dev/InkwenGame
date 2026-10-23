@@ -21,4 +21,4 @@ Are you a pro when it comes to racing GT bikes or are you more of a difficult bi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Driving, Moto, Motorcycle, Unity3D, WebGL
+- Tags: bike, Driving, Moto, Motorcycle, Unity3D, WebGL

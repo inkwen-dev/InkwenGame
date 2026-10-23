@@ -19,6 +19,6 @@ Puzzle Game Girls is a great game to help children improve their abilities and s
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Cartoon, Casual, Educational, Girls, HTML5, Puzzle
+- Tags: Best, Cartoon, Casual, educational, Girls, HTML5, Puzzle

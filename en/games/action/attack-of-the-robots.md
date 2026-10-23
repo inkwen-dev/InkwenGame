@@ -19,6 +19,6 @@ You'll love the Ant-Man and the WASP: Attack of the Robots game if you have alwa
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Best, Click, Clicker, Fighting, H5, Hot, HTML5, New, Robot, Superhero
+- Tags: Action, Adventure, Best, Click, Clicker, fighting, H5, Hot, HTML5, New, Robot, Superhero

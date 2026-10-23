@@ -21,4 +21,4 @@ This new pizza delivery is very efficient in this city as scooter delivery is in
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Bike, Racing
+- Tags: Adventure, bike, Racing

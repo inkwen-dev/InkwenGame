@@ -21,4 +21,4 @@ The kingdom is under attack by evil orcs! Gather your knights, merge them to cre
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: merge, RPG
+- Tags: merge, rpg

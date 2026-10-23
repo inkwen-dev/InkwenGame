@@ -19,6 +19,6 @@ Batman Ice Age game. Batman Ice Age is a Action game to play free online. Batman
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Batman, Boys, Fighting, Fun, Girls, Shooting
+- Tags: 2D, Action, Adventure, Batman, Boys, fighting, Fun, Girls, Shooting

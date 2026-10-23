@@ -19,6 +19,6 @@ Play around with materials and feel their physics, features: - powder / sand - l
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Physics, Pixel, Sandbox, Simulation
+- Tags: Physics, pixel, Sandbox, Simulation

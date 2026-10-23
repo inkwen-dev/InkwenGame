@@ -21,4 +21,4 @@ Dribble, shoot, score, WIN! Grab the ball and take on the world with basketball.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Basketball, Multiplayer, Sport, Sports
+- Tags: .io, .io Games, 3D, 3D Games, Action, basketball, Multiplayer, Sport, sports

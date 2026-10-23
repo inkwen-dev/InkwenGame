@@ -19,6 +19,6 @@ Basketball game with 2 modes of play and 4 achievements to win, tournament and s
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Sports
+- Tags: basketball, sports

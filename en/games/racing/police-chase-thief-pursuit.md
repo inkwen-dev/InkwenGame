@@ -19,6 +19,6 @@ Bring us to top by playing chases and feels the adrenaline of the car racing whi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, drifting, Fight, Police, Race, run
+- Tags: Car, drifting, Fight, police, Race, run

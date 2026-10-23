@@ -21,4 +21,4 @@ Impulse Ball 2 is a game in which you need to move the color balls with impulses
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Best, Casual, Fun, Funny, Golf, Hypercasual, Kids, Logic, Mobile, Skill, Sport
+- Tags: Ball, Best, Casual, Fun, Funny, golf, Hypercasual, Kids, Logic, Mobile, Skill, Sport

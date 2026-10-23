@@ -21,4 +21,4 @@ Spot the Odd One is a fun game where user taps the picture that doesn&rsquo;t ma
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Difference, Educational, html5 games, Kids, Logical, Mobile
+- Tags: Difference, educational, html5 games, Kids, Logical, Mobile

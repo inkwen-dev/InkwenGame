@@ -21,4 +21,4 @@ Touch Down this is a very interesting sports game. Train to improve your stats f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Boy, Boys, Football, HTML5, run, running, Sport, Sports, WebGL
+- Tags: 3D, Arcade, Boy, Boys, Football, HTML5, run, running, Sport, sports, WebGL

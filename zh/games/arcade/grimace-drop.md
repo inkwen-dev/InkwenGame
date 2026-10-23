@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 男孩, Grimace, Grimace Shake, HTML, HTML5, 儿童, 物理, 拼图
+- 标签: 街机, 男孩, 格里马斯, 格里马斯奶昔, HTML, HTML5, 儿童, 物理, 益智

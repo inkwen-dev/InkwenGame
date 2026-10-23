@@ -19,6 +19,6 @@ Rick And Morty Arcade Good thing there are hundreds of versions of your grandson
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, jump, Jumping, run, running
+- Tags: Adventure, Arcade, jump, jumping, run, running

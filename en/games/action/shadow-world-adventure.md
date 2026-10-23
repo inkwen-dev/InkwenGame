@@ -19,6 +19,6 @@ Use keyboard arrows or use the in screen arrows
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Mario, Platform
+- Tags: Action, Adventure, Arcade, mario, Platform

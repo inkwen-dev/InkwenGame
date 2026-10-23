@@ -21,4 +21,4 @@ Subway Surfers World Tour: Zurich 2020 is the one hundred twenty-first update of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, HTML, HTML5, Hypercasual, jump, Jumping, Puzzle, run, running, subway, Subway Surfers, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, HTML, HTML5, Hypercasual, jump, jumping, Puzzle, run, running, subway, Subway Surfers, Unity3D

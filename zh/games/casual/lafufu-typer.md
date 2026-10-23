@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1人, 2D, 惊人, 休闲, 涂色, 可爱, 乐趣, 搞笑, HTML, 供您的网站使用的HTML5游戏, 超休闲, 儿童, Labubu
+- 标签: 单人, 2D, 惊人, 休闲, 颜色, 可爱, 有趣, 搞笑, HTML, 适用于您网站的HTML5游戏, 超休闲, 儿童, Labubu

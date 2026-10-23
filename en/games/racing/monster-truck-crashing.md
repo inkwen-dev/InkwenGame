@@ -21,4 +21,4 @@ Stallion Games has released several new and updated truck racing stunts games, o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Crazy, Driving, Truck, Unity3D, WebGL
+- Tags: Best, crazy, Driving, truck, Unity3D, WebGL

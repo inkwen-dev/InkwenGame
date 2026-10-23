@@ -19,6 +19,6 @@ Ninja Turtles not only fight criminals and save the world or their hometown from
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Cook, Cooking, Girl, Girls, H5, Ninja, Ninjago
+- Tags: Boy, Boys, Cook, Cooking, Girl, Girls, H5, ninja, Ninjago

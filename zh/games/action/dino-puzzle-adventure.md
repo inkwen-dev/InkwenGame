@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 冒险, 安卓, 恐龙, HTML5, 物理, 平台
+- 标签: 动作, 冒险, 安卓, Dino, HTML5, 物理, 平台

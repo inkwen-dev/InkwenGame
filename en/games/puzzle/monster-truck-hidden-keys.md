@@ -19,6 +19,6 @@ Monster Truck Hidden Keys is a free online skill and hidden object game. Find ou
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Hidden, Kids, Skill, Truck
+- Tags: Fun, Hidden, Kids, Skill, truck

@@ -19,6 +19,6 @@ Experience the thrill of Car Racing Winter Game with AI! Race through snowy trac
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Cars, Mentolatux, Race, Unity3D, WebGL, Winter

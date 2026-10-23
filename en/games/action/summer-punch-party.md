@@ -32,4 +32,4 @@ Summer Punch Party is a fast-paced first-person action game where you punch wave
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Fighting
+- Tags: Action, fighting

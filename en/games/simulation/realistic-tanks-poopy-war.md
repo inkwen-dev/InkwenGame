@@ -21,4 +21,4 @@ In the offline campaign, you must rain rockets down on an armada of opposing tan
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Shooting, Simulator, Tank, Tanks, Unity3D, WebGL
+- Tags: 1 Player, 3D Games, Shooting, Simulator, Tank, tanks, Unity3D, WebGL

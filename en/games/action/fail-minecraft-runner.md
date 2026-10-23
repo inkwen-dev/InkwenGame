@@ -19,6 +19,6 @@ Learn to walk before you run and Minecraft across the finish line. Put one leg i
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Hypercasual, Mine, Minecraft, run, running, Stickman
+- Tags: Arcade, Casual, Hypercasual, Mine, Minecraft, run, running, stickman

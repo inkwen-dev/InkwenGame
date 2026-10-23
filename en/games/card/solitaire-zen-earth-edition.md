@@ -19,6 +19,6 @@ SOLITAIRE : ZEN EARTH EDITION is the most zen and relaxing solitaire game of all
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Classic, King, Logic, Puzzle, Solitaire
+- Tags: Classic, King, Logic, Puzzle, solitaire

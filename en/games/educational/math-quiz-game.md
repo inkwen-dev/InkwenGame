@@ -19,6 +19,6 @@ How good are you at Math? Play this game to confirm that. It's good for brain tr
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Boy, Boys, Brain, Educational, Girl, Girls, HTML5, Kid, Kids, Math, Mobile
+- Tags: Best, Boy, Boys, Brain, educational, Girl, Girls, HTML5, Kid, Kids, math, Mobile

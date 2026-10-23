@@ -19,6 +19,6 @@ Embark on a thrilling adventure and become the ultimate dungeon champion in this
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Dungeon, Monster, RPG, Vampire
+- Tags: Adventure, Dungeon, monster, rpg, Vampire

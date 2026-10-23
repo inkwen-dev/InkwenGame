@@ -19,6 +19,6 @@ Can you imagine parkour on the roof? This is undoubtedly a thrilling thing. In t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Arcade, Avoid, Boy, Collecting, H5, HTML, HTML5, Kids, Mobile, Obstacle, Online, Platform, Skill, Skills

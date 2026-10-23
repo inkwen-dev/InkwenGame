@@ -21,4 +21,4 @@ Thank you for providing the information about the game Challenging Track. This g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Family, HTML, HTML5, Kids, Matching, Math, Number, School
+- Tags: Christmas, Family, HTML, HTML5, Kids, Matching, math, Number, School

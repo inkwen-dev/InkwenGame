@@ -21,4 +21,4 @@ There are three books and each of it has numbers on it. Look for the number whic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Fun, HTML5, Kids, Mobile, Number, Skill
+- Tags: educational, Fun, HTML5, Kids, Mobile, Number, Skill

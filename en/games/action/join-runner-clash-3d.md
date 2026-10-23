@@ -19,6 +19,6 @@ Join Runner Clash 3D is an impressive online arcade game. Kids can play this gam
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Arcade, Avoid, Boy, Brain, Fun, HTML5, Kids, Number, Obstacle, Online, Platform, Puzzle, running

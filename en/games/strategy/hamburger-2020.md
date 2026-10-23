@@ -21,4 +21,4 @@ Hamburger 2020 is super addictive hyper casual game. Easy To play and hard to ma
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Burger, Casual, Hypercasual, Strategy
+- Tags: Burger, Casual, Hypercasual, strategy

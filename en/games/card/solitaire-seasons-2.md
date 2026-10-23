@@ -15,6 +15,6 @@ Explore the vivid landscapes of Solitaire Seasons, where each card game is a ste
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Card
+- Tags: card

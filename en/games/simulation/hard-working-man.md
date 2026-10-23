@@ -21,4 +21,4 @@ Hard Working Man is an offline farming and survival simulator. Start with nothin
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: construction, Crafting, Farm, Management, Simulation
+- Tags: construction, Crafting, Farm, management, Simulation

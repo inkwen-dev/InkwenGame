@@ -19,6 +19,6 @@
 - 分类: <a href="https://inkwengame.com/zh/puzzle" target="_blank" rel="noopener noreferrer">益智</a>
 - 画面方向: portrait
 - 可玩设备: desktop, mobile
-- 游戏语言: en
+- 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 2026游戏, 2D, 安卓, 最佳游戏, 方块, 休闲, 色彩, HTML5, 轻度休闲, 益智, 拼图方块, 放松, 学校无屏蔽游戏
+- 标签: 单人, 2026 游戏, 2D, 安卓, 最佳游戏, 方块, 休闲, 颜色, HTML5, 超休闲, 益智, 拼图块, 放松, 学校无限制游戏

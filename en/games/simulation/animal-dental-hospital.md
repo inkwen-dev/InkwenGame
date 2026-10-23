@@ -21,4 +21,4 @@ Is being a dentist your dream job? Then you must not miss this game! Come to pla
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Doctor, Fun, Girls, HTML5, Kids, Mobile, Puzzle, Simulation, Surgery
+- Tags: Animal, Doctor, Fun, Girls, HTML5, Kids, Mobile, Puzzle, Simulation, surgery

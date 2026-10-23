@@ -19,6 +19,6 @@ Stack Bounce is a 3d arcade game where players smash, bump and bounce through re
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Arcade, Bounce, Casual, Games, Play, Stack

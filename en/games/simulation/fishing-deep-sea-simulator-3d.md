@@ -19,6 +19,6 @@ Grab your rod and weigh anchor, we’re setting sail for an island tour of the b
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, 3D Games, Action, Adventure, Arcade, Casual, Fish, Fishing, Fun, Funny, Hot, Hypercasual, IO, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Casual, Fish, Fishing, Fun, Funny, Hot, Hypercasual, Unity3D

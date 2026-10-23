@@ -35,4 +35,4 @@ Ideal for fans of word solitaire, word games, and logic puzzles
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cards, Puzzle, Solitaire, words
+- Tags: cards, Puzzle, solitaire, words

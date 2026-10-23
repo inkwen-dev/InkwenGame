@@ -21,4 +21,4 @@ Brace yourself for an epic space battle in Move n Hit - Space! Navigate your spa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Aircraft, Battle, Space, Spaceship
+- Tags: Aircraft, battle, Space, Spaceship

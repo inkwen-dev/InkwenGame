@@ -21,4 +21,4 @@ WASD 驾驶
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 公交车, 汽车停车, 城市, 驾驶, Mentolatux, 停车, 模拟, Unity3D
+- 标签: 公交车, 停车, 城市, 驾驶, Mentolatux, 停车, 模拟, Unity3D

@@ -21,4 +21,4 @@ Baby Shark Coloring Book is cool coloring game for kids and adults. Play Baby Sh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Color, Coloring, Design, Draw, Drawing, Fish, Shark
+- Tags: Cartoon, Color, Coloring, Design, Draw, drawing, Fish, Shark

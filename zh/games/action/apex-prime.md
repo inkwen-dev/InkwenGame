@@ -21,4 +21,4 @@ WASD 空格键跳跃 J 键挥砍 K 键投掷长矛 E 键从恐龙上下来 跳�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 街机, 格鬥, 马里奥, Unity3D, WebGL
+- 标签: 冒险, 街机, 格斗, mario, Unity3D, WebGL

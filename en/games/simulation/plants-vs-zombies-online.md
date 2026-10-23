@@ -21,4 +21,4 @@ Collect Heroes with outrageous and incredible super powers and build your ultima
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Farm, Hot, HTML5, Hypercasual, Plant, Simulation, Strategy, Zombie
+- Tags: Best, Farm, Hot, HTML5, Hypercasual, Plant, Simulation, strategy, Zombie

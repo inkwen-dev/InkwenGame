@@ -21,4 +21,4 @@ Try to avoid massive amounts of football opponents to score more touchdowns you 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Battle, Boy, Boys, Casual, endless, Football, HTML, HTML5, Mobile, Soccer, Sport
+- Tags: 2D, Arcade, battle, Boy, Boys, Casual, endless, Football, HTML, HTML5, Mobile, Soccer, Sport

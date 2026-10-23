@@ -19,6 +19,6 @@ An endless runner adventure through pixelated landscapes Features Infinite proce
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: endless, Family, Highscore, Hypercasual, run, running

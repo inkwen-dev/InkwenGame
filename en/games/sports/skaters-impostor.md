@@ -21,4 +21,4 @@ Skaters Impostor, are you ready to play a new game Among us? Get ready to ride a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, Mobile, Skateboard, Sport, subway
+- Tags: 2D, Android, Mobile, skateboard, Sport, subway

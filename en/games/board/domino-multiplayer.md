@@ -21,4 +21,4 @@ Domino Multiplayer is a HTML5 Board Game. Enjoy this stylish version of the clas
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Strategy, Turn, Turn Based
+- Tags: Board, strategy, Turn, Turn Based

@@ -19,6 +19,6 @@ Cocktail Party 3D is an excellent puzzle game where you progress by matching coc
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Candy, Cartoon, Cartoon Network, Collecting, Cook, Cooking, Crazy, Match 3, Match3, Memory, Mobile
+- Tags: 3D, 3D Games, Candy, Cartoon, Cartoon Network, Collecting, Cook, Cooking, crazy, Match 3, Match3, memory, Mobile

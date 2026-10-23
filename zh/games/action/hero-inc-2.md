@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 男孩, 休闲, 搞笑
+- 标签: 动作, 男孩们, 休闲, 搞笑

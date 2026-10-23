@@ -21,4 +21,4 @@ Aidan in Danger is an exciting platformer where you play as Aidan, a young red-h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Jumping, Pixel, Platform, Shooting
+- Tags: Arcade, jumping, pixel, Platform, Shooting

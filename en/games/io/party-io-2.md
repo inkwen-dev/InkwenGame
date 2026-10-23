@@ -21,4 +21,4 @@ Party.io 2 is much more fun now with its renewed backgrounds! You can choose one
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Fight, Fighting, Funny, Kid, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Fight, fighting, Funny, Kid, Unity3D

@@ -15,6 +15,6 @@ Navigate through dynamic traffic in Drive in the Traffic, a high-speed arcade ch
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Driving

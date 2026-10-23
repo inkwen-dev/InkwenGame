@@ -19,6 +19,6 @@ Airplane game is the best experience of flight simulation games of modern era in
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Air, Arcade, Baby Hazel, fly, Plane, Planet, Shooter, Shooting, sky, Space, Spaceship

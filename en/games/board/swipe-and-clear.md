@@ -19,6 +19,6 @@ Swipe and Clear is a challenging and addictive puzzle game that puts your strate
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Board, Cleaning, Puzzle
+- Tags: block, Board, Cleaning, Puzzle

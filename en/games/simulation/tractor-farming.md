@@ -19,6 +19,6 @@ Be a modern farmer and develop your own bussiness, you have some hard work on th
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Farm, Simulation, Simulator, Unity3D, WebGL

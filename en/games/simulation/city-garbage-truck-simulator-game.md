@@ -21,4 +21,4 @@ Take a seat and start your city garbage truck simulator job in fully modeled and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, city, Game, Games, HTML, HTML5, Simulation, Simulator, Truck
+- Tags: 3D Games, city, Game, Games, HTML, HTML5, Simulation, Simulator, truck

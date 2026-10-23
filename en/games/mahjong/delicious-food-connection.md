@@ -19,6 +19,6 @@ Connect all the delicious food tiles and clear the board in this html5 connectio
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collection, Food, Mahjong
+- Tags: Collection, Food, mahjong

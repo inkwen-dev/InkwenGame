@@ -21,4 +21,4 @@ Mahjong Bird Tiles is a relaxing Mahjong solitaire game where your objective is 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bird, Block, Mahjong, Matching
+- Tags: Bird, block, mahjong, Matching

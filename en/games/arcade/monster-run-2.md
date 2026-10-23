@@ -19,6 +19,6 @@ Evil Pen did it again! He zapped our beloved hero, Square, with his new and powe
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Alien, Arcade, Ben 10, Best, Bomb, Cartoon, Cute, Fight, gta, Hypercasual, jump, Jumping
+- Tags: 1 Player, Action, Adventure, Alien, Arcade, Ben 10, Best, Bomb, Cartoon, Cute, Fight, gta, Hypercasual, jump, jumping

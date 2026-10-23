@@ -19,6 +19,6 @@ Among Us Jigsaw Puzzle Game is a fascinating puzzle game about impostors among c
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Casual, Classic, Educational, Girl, Girls, H5, HTML5, Jigsaw, Puzzle
+- Tags: Boy, Boys, Casual, Classic, educational, Girl, Girls, H5, HTML5, Jigsaw, Puzzle

@@ -21,4 +21,4 @@ Cotton Candy Shop is the best candy game Become the creator of great food and su
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Candy, Girl, Restaurant
+- Tags: 2D, Candy, Girl, restaurant

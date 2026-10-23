@@ -21,4 +21,4 @@ Experience the greatest air battles in Air Combat! Embark on daring aerial war a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Air, Aircraft, Battle, Mobile, Plane, War, weapons, WebGL
+- Tags: 2D, Air, Aircraft, battle, Mobile, Plane, War, weapons, WebGL

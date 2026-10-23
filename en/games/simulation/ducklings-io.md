@@ -19,6 +19,6 @@ Its time to relax, youre a duck now, Quack! Swim around and rescue as many duckl
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, Animal, Collecting, Cool, Cute, Kid, Kids, Simulation, Skill, Slither, touch
+- Tags: .io Games, 3D, Animal, Collecting, cool, Cute, Kid, Kids, Simulation, Skill, Slither, touch

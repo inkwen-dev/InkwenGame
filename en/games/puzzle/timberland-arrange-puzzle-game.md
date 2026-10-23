@@ -19,6 +19,6 @@ The puzzle game is original for the development of the mind. An educational game
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Coloring, free games for your site, free html5 games for your website, Funny, Hypercasual, Kids, Match 3, Mind, Mobile, Puzzle, sort, swipe, unity

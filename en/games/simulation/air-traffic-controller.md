@@ -21,4 +21,4 @@ Have you ever dreamed of piloting airplanes when you were a child? With this gam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Aircraft, Casual, Helicopter, Management, Puzzle, Simulation, Strategy, Traffic
+- Tags: Aircraft, Casual, helicopter, management, Puzzle, Simulation, strategy, Traffic

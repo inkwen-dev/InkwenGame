@@ -19,6 +19,6 @@ Knockout Stumble Run Royale Fall Games is an epic running royale 3D game to adve
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Anime, kiz10, Knight, run, running, Stunts
+- Tags: Adventure, Anime, kiz10, knight, run, running, Stunts

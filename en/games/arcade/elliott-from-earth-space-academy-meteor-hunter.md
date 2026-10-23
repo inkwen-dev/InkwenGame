@@ -19,6 +19,6 @@ PlayElliott From Earth - Space Academy: Meteor Hunter Game online in your web br
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Boy, Brain, Cartoon, Cartoon Network, Disney, Fun, Girl, Highscore, HTML5, Kid, Mobile, Rocket, Skills, Space, Spaceship

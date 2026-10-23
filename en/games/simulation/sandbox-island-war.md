@@ -21,4 +21,4 @@ Get ready for a wonderful pixel battle in Pixel Island War! This strategy game b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Pixel, Simulation
+- Tags: pixel, Simulation

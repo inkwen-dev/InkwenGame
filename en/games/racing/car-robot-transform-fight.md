@@ -21,4 +21,4 @@ Here is a third-person 3D robot racing and fighting simulation game with Transfo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Car, Driving, Fighting, HTML5, Mobile, Racing, Robot, Simulation
+- Tags: 3D, Avoid, Car, Driving, fighting, HTML5, Mobile, Racing, Robot, Simulation

@@ -21,4 +21,4 @@ Get a job or feed in the garbage. Buy a house or sleep in a squatting area. Have
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: city, Pixel, Simulation
+- Tags: city, pixel, Simulation

@@ -21,4 +21,4 @@ Dino Hunter 3D FPS shooting champion offers you a chance to experience deadly 3D
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Best, Crazy, dino, Dinosaur, Games, Multiplayer, Simulation, Unity3D, WebGL
+- Tags: 3D Games, Best, crazy, dino, Dinosaur, Games, Multiplayer, Simulation, Unity3D, WebGL

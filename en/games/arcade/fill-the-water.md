@@ -21,4 +21,4 @@ Fill The Water is a fun arcade game in which you must fill a sad empty tank to m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Drawing, Hypercasual, Puzzle
+- Tags: Arcade, drawing, Hypercasual, Puzzle

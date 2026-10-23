@@ -21,4 +21,4 @@ Lemmings Savior is a highly addictive game where you control a life craft to bou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Craft, Crafting, endless, Girl, Girls, HTML, HTML5, jump, Jumping
+- Tags: Animal, Arcade, Craft, Crafting, endless, Girl, Girls, HTML, HTML5, jump, jumping

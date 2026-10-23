@@ -19,6 +19,6 @@ Astro Playtime is a game for kids where they have to match-3 of the same type of
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Match 3, Planet, Puzzle, Science

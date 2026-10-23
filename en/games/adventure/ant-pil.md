@@ -19,6 +19,6 @@ Ant-pil is a physics-based marble game with 50 challenging levels. The goal is t
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, 2026 games, 2D, amazing, Best, Best Games, Brain, Brainrot, Holiday, Mind

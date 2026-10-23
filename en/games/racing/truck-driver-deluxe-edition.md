@@ -21,4 +21,4 @@ A brand new project from developers is now ready as cargo delivery truck driving
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Casual, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing
+- Tags: Action, Arcade, Casual, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, jumping, Race, Racing

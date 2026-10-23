@@ -21,4 +21,4 @@ Soccer Rebound is football played on a pinball table. You control the two flippe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Soccer, Sport, Sports
+- Tags: 1 Player, Soccer, Sport, sports

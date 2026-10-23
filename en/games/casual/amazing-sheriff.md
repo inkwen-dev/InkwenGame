@@ -15,6 +15,6 @@ Hop between spinning planetoids as a daring sheriff in this quirky space adventu
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: addictive

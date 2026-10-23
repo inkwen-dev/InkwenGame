@@ -15,6 +15,6 @@ Navigate war-torn cityscapes as an aid driver in this thrilling top-down arcade 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Racing

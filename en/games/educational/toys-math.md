@@ -19,6 +19,6 @@ This is a math puzzle game where you buy a set of toys in each level. Each toy h
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kids, Math, Number, School, Shopping, Skill
+- Tags: educational, Kids, math, Number, School, Shopping, Skill

@@ -21,4 +21,4 @@ Draw To Pee is a brain-burning free puzzle game. Draw lines to let the character
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Avoid, Boy, Brain, Drawing, Fun, HTML5, Kids, Obstacle, Online, Puzzle, Skill
+- Tags: 3D, Android, Avoid, Boy, Brain, drawing, Fun, HTML5, Kids, Obstacle, Online, Puzzle, Skill

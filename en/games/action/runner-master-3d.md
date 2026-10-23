@@ -21,4 +21,4 @@ its simple game count on skills and brain you need to collect the diamonds to be
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Brain, jump, Jumping, Puzzle, running, Skill
+- Tags: 3D, Action, Brain, jump, jumping, Puzzle, running, Skill

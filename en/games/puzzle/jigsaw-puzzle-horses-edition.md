@@ -21,4 +21,4 @@ A wide selection of high quality free jigsaw puzzles on horseback will bring hou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Block, Casual, Horse, Puzzle
+- Tags: Animal, block, Casual, horse, Puzzle

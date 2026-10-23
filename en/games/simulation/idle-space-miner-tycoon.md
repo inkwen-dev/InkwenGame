@@ -19,6 +19,6 @@ Take charge of your own space mining company and establish a global empire! Begi
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, idle, Miner, Space

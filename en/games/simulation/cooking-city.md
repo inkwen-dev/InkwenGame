@@ -67,4 +67,4 @@ A: The music complements the game, but it is not necessary for gameplay.
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: Cooking, Food, Girls, Restaurant
+- Tags: Cooking, Food, Girls, restaurant

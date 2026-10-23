@@ -15,6 +15,6 @@ Guide Hug and Kis, two alien pals, in their peaceful escape from a galactic outp
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: two-player

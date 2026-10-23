@@ -21,4 +21,4 @@ Use your brain in this unique puzzle game. You will need precise aim and laser f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Adventure, Arcade, Battle, Ben 10, Best, Boxing, Boy, Boys, Brain, Fun, Funny, Game, Games, Girls, HTML, HTML5, jump, kiz10, Logic, Match 3, Multiplayer, Online, Punch, Puzzle, Simulator, Super, Supercars, Superhero, Unity3D, WebGL, Zombie
+- Tags: 3D Games, Action, Adventure, Arcade, battle, Ben 10, Best, Boxing, Boy, Boys, Brain, Fun, Funny, Game, Games, Girls, HTML, HTML5, jump, kiz10, Logic, Match 3, Multiplayer, Online, Punch, Puzzle, Simulator, Super, Supercars, Superhero, Unity3D, WebGL, Zombie

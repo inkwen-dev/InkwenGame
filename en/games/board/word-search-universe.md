@@ -21,4 +21,4 @@ Word Search Universe is a fun and relaxing puzzle game where you search for hidd
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Educational, Hidden, html5 games, Mobile, Puzzle, Word
+- Tags: Board, educational, Hidden, html5 games, Mobile, Puzzle, word

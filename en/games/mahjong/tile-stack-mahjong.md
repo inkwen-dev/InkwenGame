@@ -19,6 +19,6 @@ Tile Stack Mahjong is a fun and challenging Mahjong puzzle game where strategy a
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Board, Brain, Fun, Hypercasual, Kids, Mahjong, Matching, Puzzle, Skill
+- Tags: Arcade, Board, Brain, Fun, Hypercasual, Kids, mahjong, Matching, Puzzle, Skill

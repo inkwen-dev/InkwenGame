@@ -19,6 +19,6 @@ Imagine the satisfaction of becoming an otolaryngologist! Utilize your remarkabl
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Best, Casual, Doctor, Girl, Kids, Mobile, Online, Simulator, Surgery
+- Tags: 1 Player, 2D, Best, Casual, Doctor, Girl, Kids, Mobile, Online, Simulator, surgery

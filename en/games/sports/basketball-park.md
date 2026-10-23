@@ -21,4 +21,4 @@ Start the game with 10 balls. Drag and release to shoot. Score without touching 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Ball, Basketball, Highscore, Sports
+- Tags: 1 Player, 3D, 3D Games, Ball, basketball, Highscore, sports

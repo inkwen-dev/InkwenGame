@@ -19,6 +19,6 @@ Classic Car Parking 2025 challenges your precision and driving skills with reali
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, carparking, Classic, Driving, Mentolatux, Parking, Skill, unity, WebGL
+- Tags: Car, carparking, Classic, Driving, Mentolatux, parking, Skill, unity, WebGL

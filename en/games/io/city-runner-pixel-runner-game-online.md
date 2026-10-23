@@ -21,4 +21,4 @@ With City Runner, Try to go as far as possible,, beat your opponents be the firs
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, Adventure, Arcade, Casual, city, Fun, Games, Hypercasual, Kids, Online, Pixel, Puzzle, running
+- Tags: .io Games, 3D, Adventure, Arcade, Casual, city, Fun, Games, Hypercasual, Kids, Online, pixel, Puzzle, running

@@ -21,4 +21,4 @@ Welcome to this fantastic hyper-casual squid game called' squid all challenges '
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Mario
+- Tags: Action, Adventure, mario

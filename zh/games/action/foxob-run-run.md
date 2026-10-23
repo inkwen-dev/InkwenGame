@@ -21,4 +21,4 @@ W A S D
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动物, 鸡, 无尽, 农场, 跑步
+- 标签: 动物, 鸡, 无尽, 农场, 奔跑

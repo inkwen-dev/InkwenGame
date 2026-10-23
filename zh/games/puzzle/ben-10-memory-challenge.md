@@ -21,4 +21,4 @@ Ben 10 记忆挑战是一款适合所有 Ben 10 爱好者的免费在线游戏�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, Ben 10, 男孩, 卡通, 乐趣, 女生, HTML5, 儿童, 记忆
+- 标签: 安卓, Ben 10, 男孩们, 卡通, 有趣, 女孩, HTML5, 儿童, 记忆

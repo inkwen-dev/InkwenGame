@@ -19,6 +19,6 @@ Use your finger and flap your wings to fly be careful to try to avoid all danger
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Flight, fly, Racing
+- Tags: Arcade, flight, fly, Racing

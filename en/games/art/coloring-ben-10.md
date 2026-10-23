@@ -19,6 +19,6 @@ Coloring Ben 10 is a good coloring game. the Ben 10 aliens series and learn to c
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Anime, Ben 10, Color, Coloring

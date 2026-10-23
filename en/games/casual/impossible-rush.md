@@ -19,6 +19,6 @@ Impossible Rush game has a lot of success review and player this MONTH that sign
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Balance, Ball, Ballon, Clash, Classic, Click, Clicker, Point And Click, Slacking, Truck
+- Tags: 1 Player, 2D, Balance, Ball, Ballon, Clash, Classic, Click, Clicker, Point And Click, Slacking, truck

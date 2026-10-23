@@ -19,6 +19,6 @@ A puzzle game with stylish shoes. Combine the pieces and get the most stylish sh
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Girl, Girls, Kid, Kids, Puzzle

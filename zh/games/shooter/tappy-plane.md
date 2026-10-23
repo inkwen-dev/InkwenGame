@@ -21,4 +21,4 @@ PC 鼠标左键或空格键起飞，手机轻触屏幕起飞
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 街机, 无尽, 跳跃, 跳躍, 飞机, 射击, 射击, Unity3D, WebGL
+- 标签: 2D, 街机, 无尽, 跳跃, 跳跃, 飞机, 射击, 射击类, Unity3D, WebGL

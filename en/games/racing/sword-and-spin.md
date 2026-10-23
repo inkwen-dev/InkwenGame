@@ -21,4 +21,4 @@ In Sword and Spin, you&rsquo;re a brave warrior with a sword, racing through cha
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, running, Sword, Warrior
+- Tags: Arcade, running, sword, Warrior

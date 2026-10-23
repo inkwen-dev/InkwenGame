@@ -19,6 +19,6 @@ Stickman Army The Resistance is a fun game you can play in your web browser for 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Battle, Battlegrounds, Bomb, Boys, Defense, Gun, HTML5, Mobile, Stickman, Submachine, Tower Defense, War
+- Tags: Action, Adventure, battle, Battlegrounds, Bomb, Boys, Defense, Gun, HTML5, Mobile, stickman, Submachine, Tower Defense, War

@@ -21,4 +21,4 @@ FZ FoosBall - HTML5 games. use your skill to play game. Foxzin.com with tons of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Hypercasual, Kid, Kids, Sport, Sports
+- Tags: Hypercasual, Kid, Kids, Sport, sports

@@ -19,6 +19,6 @@ Fruit Ninja is an arcade game where you have to swipe and slash your way through
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: cut, Fruits, Kid, Skills

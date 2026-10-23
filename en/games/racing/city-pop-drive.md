@@ -28,4 +28,4 @@ Five maps (Seaside, Midnight Expressway, Crossing City, Maple Pass, Snow Resort)
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Adventure, Arcade, Car, Driving, Racing, Retro, Skill
+- Tags: 3D, Action, Adventure, Arcade, Car, Driving, Racing, retro, Skill

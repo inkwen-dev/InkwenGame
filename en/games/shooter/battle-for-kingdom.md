@@ -21,4 +21,4 @@ We welcome you to the legendary world of wise Kings, great Lords and valiant Her
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Boy, Boys, Dragon, Dragon Ball Z, Fun, Funny, Girl, Kill, Killing, King, Shooter, Shooting, Skill, Skills, War
+- Tags: battle, Boy, Boys, Dragon, Dragon Ball Z, Fun, Funny, Girl, Kill, Killing, King, Shooter, Shooting, Skill, Skills, War

@@ -21,4 +21,4 @@ City Bike is a riding game set in the streets of a city. To be successful, you h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Bike, Collecting, drift, Driving, Hypercasual, Mobile, Platform, run, Stunts
+- Tags: 3D, Avoid, bike, Collecting, drift, Driving, Hypercasual, Mobile, Platform, run, Stunts

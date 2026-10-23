@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 蛋糕, 卡片, 逻辑, 麻将, 解谜, 夏季
+- 标签: 蛋糕, 卡牌, 逻辑, mahjong, 益智, 夏天

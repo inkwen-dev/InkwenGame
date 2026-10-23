@@ -19,6 +19,6 @@ Relive the classic fun of Lode Retro Adventure, a 2D pixel game that will make y
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boys, Collecting, Cute, Girls, Kids, Mine, Pixel
+- Tags: 2D, Boys, Collecting, Cute, Girls, Kids, Mine, pixel

@@ -21,4 +21,4 @@ Fortress Defense is a tower defense strategy game with unusual drag-and-drop upg
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Defense, Strategy, Tower Defense
+- Tags: 2D, Action, Defense, strategy, Tower Defense

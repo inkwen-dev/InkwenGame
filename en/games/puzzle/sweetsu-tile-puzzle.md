@@ -21,4 +21,4 @@ Sweet Tile Puzzle is a relaxing yet strategic game. Match 3 identical Japanese-t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, html5 games, Matching, Mobile, Puzzle, Skill
+- Tags: block, html5 games, Matching, Mobile, Puzzle, Skill

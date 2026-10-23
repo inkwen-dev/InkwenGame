@@ -21,4 +21,4 @@ Here you come with how skillful you are to shoot an stickman, try to aim in oppo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Blood, Fun, Shooting, Stickman
+- Tags: Action, Blood, Fun, Shooting, stickman

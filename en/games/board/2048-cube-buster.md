@@ -21,4 +21,4 @@ Using 2048 as an element, here players will experience a new elimination game, t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Block, Board, Bricks, HTML5, Hypercasual, Kids, Matching, Mobile, Number, Online, Skill, Skills
+- Tags: 3D, 3D Games, block, Board, Bricks, HTML5, Hypercasual, Kids, Matching, Mobile, Number, Online, Skill, Skills

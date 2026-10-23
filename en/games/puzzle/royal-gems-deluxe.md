@@ -21,4 +21,4 @@ Shuffle and shift the falling group of gems so that they can form a horizontal o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collecting, Girls, HTML5, Match-3, Matching, Mobile, Puzzle, Tetris
+- Tags: Collecting, Girls, HTML5, Match 3, Matching, Mobile, Puzzle, tetris

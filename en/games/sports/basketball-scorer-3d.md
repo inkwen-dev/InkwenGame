@@ -19,6 +19,6 @@ all need to do is put the ball in the basket it a bit hard there a 7 levels only
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Basketball, Sport
+- Tags: 1 Player, 3D, basketball, Sport

@@ -21,4 +21,4 @@ This is a simple game which let's you feel how it's like to be a Hog Rider. I'm 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Battle
+- Tags: 1 Player, Action, Adventure, battle

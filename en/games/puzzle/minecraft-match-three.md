@@ -21,4 +21,4 @@ Match three in the world of Minecraft Help steve to dig a mine
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Bejeweled, Bounce, Casual, Logic, Match 3, Match3, Matching, Minecraft, Pixel, Puzzle, Relaxation, Turn Based
+- Tags: 1 Player, Bejeweled, Bounce, Casual, Logic, Match 3, Match3, Matching, Minecraft, pixel, Puzzle, Relaxation, Turn Based

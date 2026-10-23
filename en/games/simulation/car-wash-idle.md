@@ -37,4 +37,4 @@ Run the ultimate free online car wash idle game. Clean cars, upgrade your garage
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, idle, Management, Simulation, tycoon
+- Tags: 3D, Arcade, idle, management, Simulation, tycoon

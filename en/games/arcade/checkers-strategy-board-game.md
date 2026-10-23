@@ -21,4 +21,4 @@ Checkers (Draughts) – a traditional and inspiring board game that gives you a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Game, Games, Strategy
+- Tags: Board, Game, Games, strategy

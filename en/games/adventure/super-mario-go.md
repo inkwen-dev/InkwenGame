@@ -21,4 +21,4 @@ Super Mario Go Adventure game How to play: keyboard buttons 'Left' and 'Right' t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Mario
+- Tags: Adventure, mario

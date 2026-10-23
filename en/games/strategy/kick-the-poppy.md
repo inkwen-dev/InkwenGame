@@ -19,6 +19,6 @@ Do you love poppy playtime games? This game will amaze you! Tap on boxes to rele
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Ballon, Brain, Clicker, Physics, Puzzle, Strategy
+- Tags: Ball, Ballon, Brain, Clicker, Physics, Puzzle, strategy

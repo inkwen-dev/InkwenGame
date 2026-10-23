@@ -19,6 +19,6 @@ Welcome to the world of dragon adventure! Here youll have to fly as far as you c
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Best Games, Brainrot sahuuur, Cartoon, Cute, Dragon, Dragon Ball Z, Driving, Dungeon, egg, eggs, Games, Italian Brainrot, roblox

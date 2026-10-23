@@ -21,4 +21,4 @@ Have you ever heard of the game of cutting fruit, this is a very new version Hav
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Fish, Fishing, Game, Ninja, Ninjago, Online
+- Tags: Adventure, Arcade, Fish, Fishing, Game, ninja, Ninjago, Online

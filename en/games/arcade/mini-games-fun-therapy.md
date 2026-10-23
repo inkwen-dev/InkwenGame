@@ -19,6 +19,6 @@ A very interesting collection of super relaxing games. Do you want to play some 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, amazing, Arcade, Baby Games, Brain, Brainrot, Crazy
+- Tags: 3D, 3D Games, amazing, Arcade, Baby Games, Brain, Brainrot, crazy

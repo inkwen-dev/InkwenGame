@@ -21,4 +21,4 @@ Save The Duck game provides a captivating way to pass time through its straightf
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Best, Brain, Cute, iPad, iPhone, Mobile, Online, Physics, Science, Strategy
+- Tags: 1 Player, 2D, Android, Best, Brain, Cute, iPad, iPhone, Mobile, Online, Physics, Science, strategy

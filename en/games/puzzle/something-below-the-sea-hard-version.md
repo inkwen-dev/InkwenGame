@@ -19,6 +19,6 @@ A team of scientists spotted an area of the planet with an immense amount of gar
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Arcade, Bubble, html5 games for your site, Island, ship, Shoot, Shooter

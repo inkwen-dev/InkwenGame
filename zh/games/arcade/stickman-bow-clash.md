@@ -21,4 +21,4 @@ Stickman Bow Clash 是 Stickman Archery Ragdoll 的动作激烈续作！拿起�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 街机, 竞技场, 箭, 箭矢, 弓, Stickman
+- 标签: 单人, 街机, 竞技场, 箭矢, 箭头, 弓箭, 木偶人

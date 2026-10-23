@@ -21,4 +21,4 @@ Bazooka Hyper is a hypercasual game where you try to blast stickman enemies with
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Arcade, Battle, Casual, Clash, Gun, Hypercasual, Kill, Shooter, Stickman
+- Tags: 3D, Action, Arcade, battle, Casual, Clash, Gun, Hypercasual, Kill, Shooter, stickman

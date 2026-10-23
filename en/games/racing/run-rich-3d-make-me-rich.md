@@ -21,4 +21,4 @@ Race or run rich it's new life simulation game, the run rich game teaching you h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Adventure, Car, Cars, Dora, Game, Games, Girl, Girls, Hypercasual, jump, Jumping, Play, Princess, Race, Racing, run, running, Simulation, Simulator, Stunts, Supercars
+- Tags: 3D Games, Adventure, Car, Cars, Dora, Game, Games, Girl, Girls, Hypercasual, jump, jumping, Play, Princess, Race, Racing, run, running, Simulation, Simulator, Stunts, Supercars

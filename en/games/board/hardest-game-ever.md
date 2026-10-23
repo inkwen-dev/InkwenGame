@@ -19,6 +19,6 @@ Are you ready to try the hardest game ever? Work your way through 60 incredibly 
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Board, Boy, Brain, Fun, Funny, Girl, Puzzle, Retro
+- Tags: Ball, Board, Boy, Brain, Fun, Funny, Girl, Puzzle, retro

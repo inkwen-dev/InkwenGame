@@ -19,6 +19,6 @@ Zombies and zombie dog attack in modern city kill all zombie and save your city 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boys, HTML5, Shooter, WebGL, Zombie

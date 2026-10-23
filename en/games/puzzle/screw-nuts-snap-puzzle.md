@@ -19,6 +19,6 @@ Screw Nuts Snap Puzzle is a colorful puzzle game about matching screws and choos
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Brain, Logic, Match-3
+- Tags: 1 Player, 2D, Brain, Logic, Match 3

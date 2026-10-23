@@ -27,4 +27,4 @@ Clash of Tanks is real time strategy tank game. Objective is to destroy the oppo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Army, Strategy, Tanks, Tower Defense, War
+- Tags: Army, strategy, tanks, Tower Defense, War

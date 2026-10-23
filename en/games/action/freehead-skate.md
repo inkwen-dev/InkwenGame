@@ -21,4 +21,4 @@ Freehead Skateis a fast-paced, arcade-style game that challenges players to jump
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Fun, Games, Highscore, HTML5, jump, Jumping, Kids, Obstacle, Play
+- Tags: 1 Player, 2D, Action, Fun, Games, Highscore, HTML5, jump, jumping, Kids, Obstacle, Play

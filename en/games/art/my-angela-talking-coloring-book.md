@@ -21,4 +21,4 @@ My Angela Talking Coloring Book has a lot of unique pictures hand drawn about An
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Draw, Drawing, Puzzle
+- Tags: Color, Coloring, Draw, drawing, Puzzle

@@ -19,6 +19,6 @@ Match candies, complete levels and collect coins. Don't forget to get all achiev
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Best, Candy, Match 3, Matching

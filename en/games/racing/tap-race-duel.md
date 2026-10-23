@@ -15,6 +15,6 @@ Engage in exhilarating 1v1 racing duels where each tap fuels your speed. Test yo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Racing

@@ -19,6 +19,6 @@ In the 3D puzzle game Wobble Man Online, you just need to open the door and come
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Avoid, Brain, H5, Hot, House, HTML, HTML5, Mobile, Online, Point And Click, Police, Puzzle, Room, Strategy
+- Tags: 3D, 3D Games, Adventure, Avoid, Brain, H5, Hot, House, HTML, HTML5, Mobile, Online, Point And Click, police, Puzzle, Room, strategy

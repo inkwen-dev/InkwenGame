@@ -19,6 +19,6 @@ Super Mario Physics is a Crazy Physics puzzle game Tap or Boxes to release the g
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Clicker, Mario, Physics, Puzzle
+- Tags: Brain, Clicker, mario, Physics, Puzzle

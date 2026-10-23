@@ -19,6 +19,6 @@ Retro Running Boxes features an exciting one-player mode and a unique two-player
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, HTML, jump, Jumping, mapi games, Mobile, Pixel, Race, Racing, Retro, running
+- Tags: block, HTML, jump, jumping, mapi games, Mobile, pixel, Race, Racing, retro, running

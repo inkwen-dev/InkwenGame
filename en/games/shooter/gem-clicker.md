@@ -21,4 +21,4 @@ Gem clicker is a clicker with elements of improving your character. The game is 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Casual, Clicker, Collecting, HTML5, RPG, Strategy, weapons
+- Tags: 1 Player, 2D, Casual, Clicker, Collecting, HTML5, rpg, strategy, weapons

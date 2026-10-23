@@ -19,6 +19,6 @@ Jetpack Jumpers is an online game that puts you in the shoes of an intrepid adve
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Game, Games, HTML5, Hypercasual, Mobile, Obstacle, Platform

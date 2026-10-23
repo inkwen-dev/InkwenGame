@@ -21,4 +21,4 @@ This is an educational game designed for children. Do you know what to do when t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Games, Educational, Panda
+- Tags: Baby Games, educational, Panda

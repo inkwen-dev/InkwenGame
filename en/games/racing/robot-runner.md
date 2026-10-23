@@ -19,6 +19,6 @@ Run with your robot into a dark abandoned factory! But beware an infinite path o
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boys, endless, HTML, HTML5, jump, Jumping, Kids, Racing, Robot, Space
+- Tags: Arcade, Boys, endless, HTML, HTML5, jump, jumping, Kids, Racing, Robot, Space

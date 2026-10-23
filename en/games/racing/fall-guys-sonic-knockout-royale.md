@@ -21,4 +21,4 @@ Participate in the ultimate mobile run royale games and rush Sonic Sonic opponen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Batman, Hot, New, Prison, Race, Racing, run, running, Spiderman, Stickman
+- Tags: Action, Adventure, Batman, Hot, New, Prison, Race, Racing, run, running, Spiderman, stickman

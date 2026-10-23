@@ -19,6 +19,6 @@ Chicken Dash is a fun and fast platform game where you help a little chicken run
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Chicken, HTML, Hypercasual, Jumping, NapTech Games, Platform
+- Tags: Arcade, Chicken, HTML, Hypercasual, jumping, NapTech Games, Platform

@@ -19,6 +19,6 @@ Welcome to Coin Collector! Move your character to catch shiny falling coins whil
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Bomb, Boy, Collecting, endless, Fun, Girl, Gold, Relaxation, Skill

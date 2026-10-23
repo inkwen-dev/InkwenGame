@@ -21,4 +21,4 @@ Sprunky兄弟陷入竞争，开始了一场较量。两位Sprunky兄弟都非常
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人, 双人游戏, 2D, 街机, 竞技场, 平台, Sprunki
+- 标签: 双人, 双人游戏, 2D, 街机, 竞技场, 平台, 斯普朗基

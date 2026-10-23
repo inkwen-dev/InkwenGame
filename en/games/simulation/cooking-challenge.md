@@ -21,4 +21,4 @@ A hungry customer is an impatient customer. Which needs to be served as soon as 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Burger, Casual, Food, Fun, Funny, Girls, HTML5, Hypercasual, Kids, Mobile, Restaurant, Skill, Strategy
+- Tags: Burger, Casual, Food, Fun, Funny, Girls, HTML5, Hypercasual, Kids, Mobile, restaurant, Skill, strategy

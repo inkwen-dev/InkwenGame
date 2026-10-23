@@ -21,4 +21,4 @@ Pirate Defense is a tower defense strategy game. You need to place the defenses 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Defense, New, Pirate, Strategy, War
+- Tags: Army, Defense, New, Pirate, strategy, War

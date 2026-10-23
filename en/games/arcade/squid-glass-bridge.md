@@ -21,4 +21,4 @@ Do you want to play a fun Squid Game? Glass Bridge game from Squid Game is now o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Arcade, Best, Casual, Hypercasual, jump, Jumping, Kids, Road, Skill, WebGL
+- Tags: 3D, Action, Adventure, Arcade, Best, Casual, Hypercasual, jump, jumping, Kids, Road, Skill, WebGL

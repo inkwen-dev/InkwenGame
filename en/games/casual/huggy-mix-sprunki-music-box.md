@@ -21,4 +21,4 @@ Welcome to the wonderful world of Huggy Mix Sprunki Music Box. This music game i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Enemy, Fun, Music, Rhythm
+- Tags: Enemy, Fun, music, Rhythm

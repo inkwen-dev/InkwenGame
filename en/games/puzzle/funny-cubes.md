@@ -19,6 +19,6 @@ A match two game where you have to solve puzzles. There are more than 100 levels
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Match3, Matching, Puzzle, unity

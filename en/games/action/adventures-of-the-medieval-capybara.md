@@ -19,6 +19,6 @@ Aventuras da Capivara Medieval is an exciting endless runner, where you become t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, HTML5, run, running

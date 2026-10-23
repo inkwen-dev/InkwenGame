@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, HTML, HTML5, 迷宫, 我的世界, 怪物, 物理, 跑, 射击
+- 标签: 3D, 3D游戏, HTML, HTML5, 迷宫, 我的世界, monster, 物理, 跑, 射击

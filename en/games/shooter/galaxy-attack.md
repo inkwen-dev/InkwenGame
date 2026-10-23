@@ -19,6 +19,6 @@ Earths last hope is in your hands, take control of the lone spaceship and protec
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Alien, HTML5, Mobile, Shooting, Space

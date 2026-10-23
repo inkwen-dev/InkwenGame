@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 休闲, 经典, 点击, 无尽, 游戏, 火热, HTML5, 超休闲, 跳跃, 移动, 在线, 复古, Unity3D, WebGL
+- 标签: 单人, 2D, 休闲, 经典, 点击, 无尽, 游戏, 热门, HTML5, 超休闲, 跳跃, 移动设备, 在线, 复古, Unity3D, WebGL

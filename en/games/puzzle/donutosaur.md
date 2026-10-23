@@ -19,6 +19,6 @@ Feed hungry adorable monster named Donatosaur. He likes candies but the thing he
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Adventure, Ball, Brain, Bubble, Candy, Color, Funny, Girls, Physics, Platform, Puzzle

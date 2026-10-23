@@ -21,4 +21,4 @@ Lets Play Haaland Coloring Book Online! Haaland Coloring Book is a fun and creat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boys, Coloring, Educational, Fun, Girls, HTML5, Mobile, painting, School
+- Tags: Arcade, Boys, Coloring, educational, Fun, Girls, HTML5, Mobile, painting, School

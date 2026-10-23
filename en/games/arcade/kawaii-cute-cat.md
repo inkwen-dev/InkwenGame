@@ -19,6 +19,6 @@ Kawaii Sweetie Cat Yumi Cat-themed kids game full of cute cats. Become a cat, co
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Android, Animal, Arcade, Cat, Girl, Girls, Multiplayer

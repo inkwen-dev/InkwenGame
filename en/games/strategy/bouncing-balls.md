@@ -21,4 +21,4 @@ If you are finding the champion of time killer, dont miss this Html 5 game Bounc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Brain, Number, Puzzle, Skills, Strategy
+- Tags: Ball, Brain, Number, Puzzle, Skills, strategy

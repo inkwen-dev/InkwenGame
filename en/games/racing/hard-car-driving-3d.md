@@ -19,6 +19,6 @@ Enjoy your time by driving the city car rider 2022 testing your racing skills on
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, 3D Games, Action, Arcade, Car, Cars, Casual, Fun, Funny, Games, Hypercasual, Parking, Race, Racing, Super, Supercars
+- Tags: .io Games, 3D, 3D Games, Action, Arcade, Car, Cars, Casual, Fun, Funny, Games, Hypercasual, parking, Race, Racing, Super, Supercars

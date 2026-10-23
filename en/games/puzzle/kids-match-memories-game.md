@@ -19,6 +19,6 @@ This is a memory game with Kids. Tap on the Object to Drag And Drop To The Right
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cars, HTML5, Match3, Matching, Memory, Puzzle
+- Tags: Cars, HTML5, Match3, Matching, memory, Puzzle

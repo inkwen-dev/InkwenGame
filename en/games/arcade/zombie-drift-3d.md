@@ -19,6 +19,6 @@ Zombie Drift 3D is a popular driving game. It doesn't require you to race or rac
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Brain, drift, Kids, Mobile, Puzzle, Skill, Zombie

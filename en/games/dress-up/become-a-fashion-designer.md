@@ -21,4 +21,4 @@ Do you want to be a Fashion Designer? It’s time for you to create stunning out
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Design, Dress Up, Educational, Fashion, Girl, Girls
+- Tags: Casual, Design, Dress Up, educational, Fashion, Girl, Girls

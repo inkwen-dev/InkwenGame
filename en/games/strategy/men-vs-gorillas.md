@@ -21,4 +21,4 @@ Men vs Gorilla &ndash; The Ultimate Evolution Battle! Step into the wild showdow
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Fight, Strategy
+- Tags: 3D, Action, Fight, strategy

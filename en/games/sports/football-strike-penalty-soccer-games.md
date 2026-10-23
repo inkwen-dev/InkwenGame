@@ -21,4 +21,4 @@ Football Strike is easy to play and offers endless competitive football fun! Tak
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Soccer, Sport, Sports, Strategy
+- Tags: Football, Soccer, Sport, sports, strategy

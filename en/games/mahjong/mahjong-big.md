@@ -19,6 +19,6 @@ Are you ok to play "Mahjong Big", the best and coolest Mahjong solitaire game ev
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Mahjong, Puzzle, Stack
+- Tags: Arcade, Brain, mahjong, Puzzle, Stack

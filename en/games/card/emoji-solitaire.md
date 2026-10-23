@@ -26,4 +26,4 @@ Starting with simple piles, the puzzle complexity expands as you unlock new leve
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Puzzle, Solitaire
+- Tags: Puzzle, solitaire

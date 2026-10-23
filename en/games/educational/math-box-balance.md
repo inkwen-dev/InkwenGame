@@ -21,4 +21,4 @@ Math Box Balance is a puzzle game with numbers. Early levels have 2 boxes, and a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Logic, Math, School, Skill
+- Tags: educational, Logic, math, School, Skill

@@ -19,6 +19,6 @@ This is the most amazing bubble shooter Games Welcome to the magical bubble shoo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Bubble, Bubble Shooter, Casual, Clicker, Hot, HTML5, Hypercasual, Puzzle

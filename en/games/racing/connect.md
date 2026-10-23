@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Candy, Car, Cars, Casual, Classic, Click, Clicker, Fun, Funny, Hypercasual, Kid, Kids, Math, Memory, Mobile, Puzzle
+- Tags: Android, Candy, Car, Cars, Casual, Classic, Click, Clicker, Fun, Funny, Hypercasual, Kid, Kids, math, memory, Mobile, Puzzle

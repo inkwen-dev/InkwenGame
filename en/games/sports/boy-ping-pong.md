@@ -19,6 +19,6 @@ Boy Ping Pong dive into an exciting adventure as a skilled young individual, arm
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Casual, Fun, Kids, Skill, Sport

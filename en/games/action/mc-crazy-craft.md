@@ -21,4 +21,4 @@ You will change the hours with its beautiful levels and very fluid gameplay. Hav
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Arcade, Battle, Crafting, Crazy, HTML5, Minecraft
+- Tags: 1 Player, 2D, Action, Adventure, Arcade, battle, Crafting, crazy, HTML5, Minecraft

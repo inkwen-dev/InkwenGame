@@ -21,4 +21,4 @@ Bird Surfing is a 3D online game, where you’ll be flying with a bird over beau
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Animal, Bird, Collecting, Cool, fly, sky
+- Tags: 3D, 3D Games, Adventure, Animal, Bird, Collecting, cool, fly, sky

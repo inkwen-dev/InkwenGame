@@ -19,6 +19,6 @@ Mummy Land is a free online platformer game where you play as a mummy trying to 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Best, Casual, HTML, HTML5, Hypercasual, jump, Jumping, Online
+- Tags: Action, Adventure, Best, Casual, HTML, HTML5, Hypercasual, jump, jumping, Online

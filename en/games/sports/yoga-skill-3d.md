@@ -19,6 +19,6 @@ Yoga Skill 3D is a laid-back game where you guide a girl through yoga poses to p
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Click, Girl, Girls, HTML5, Hypercasual, iPad, iPhone, Mentolatux, Mobile, Sport, Yoga

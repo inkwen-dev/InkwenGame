@@ -21,4 +21,4 @@ Welcome to the Super Mario jungle run. This time, Adventurer will have a magical
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, jump, Mario, Monster, run
+- Tags: Adventure, jump, mario, monster, run

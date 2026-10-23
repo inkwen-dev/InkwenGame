@@ -19,6 +19,6 @@ It is a colorful puzzle game, in which you need to find 1 different item from a 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, HTML5, Kids, Mobile, Puzzle, Quiz, School
+- Tags: educational, HTML5, Kids, Mobile, Puzzle, Quiz, School

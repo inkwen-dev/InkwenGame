@@ -21,4 +21,4 @@ Have you ever wanted to drive a modified buggy? Then here is your chance to test
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Boy, Cars, Monster, Simulator, Skills, Truck, Unity3D, WebGL
+- Tags: 1 Player, 3D Games, Boy, Cars, monster, Simulator, Skills, truck, Unity3D, WebGL

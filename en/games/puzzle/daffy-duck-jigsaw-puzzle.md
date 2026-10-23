@@ -19,6 +19,6 @@ Daffy Duck Jigsaw Puzzle is a free online game from genre of puzzle and jigsaw g
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Cartoon, Fun, Jigsaw, Kids, Mobile, Skill

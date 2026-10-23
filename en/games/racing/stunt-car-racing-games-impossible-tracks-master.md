@@ -21,4 +21,4 @@ Car Stunt Ramp Racing Tracks 3D: Apic Studio introduce 3d stunt game for challen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Adventure, Arcade, Car, Cars, Mobile, Parking, Race, Racing, Simulation, Simulator, Supercars, Taxi, Unity3D
+- Tags: 3D Games, Action, Adventure, Arcade, Car, Cars, Mobile, parking, Race, Racing, Simulation, Simulator, Supercars, Taxi, Unity3D

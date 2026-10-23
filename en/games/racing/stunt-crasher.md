@@ -19,6 +19,6 @@ Stunt Crasher is a fun game where you can jump off the ramp and hit the obstacle
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Car, Cars, Stunts, Unity3D, WebGL

@@ -19,6 +19,6 @@ In this game you can play with a Flappy Poppy! Just Tap to fly and try to pass a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 3D, 3D Games, Action, Adult, Adventure, Alien, Arcade, Boy, Boys, Hello Kitty, Interactive

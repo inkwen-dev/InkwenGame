@@ -19,6 +19,6 @@ Shooting in Space in other objects and space ships. But, you can control the tim
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Platform, Puzzle, Shooting, Space, Spaceship

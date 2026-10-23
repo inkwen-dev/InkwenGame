@@ -19,6 +19,6 @@ Bored? Do you want something exciting? Platformer game will make your day intere
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arcade, Boy, Boys, HTML5, Pixel, Platform, WebGL
+- Tags: 2D, Adventure, Arcade, Boy, Boys, HTML5, pixel, Platform, WebGL

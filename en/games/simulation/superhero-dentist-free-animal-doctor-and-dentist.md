@@ -21,4 +21,4 @@ Be the best dentist at this Superhero clinic! All our patient is the Superhero, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, Boys, Cartoon, Cartoon Network, Disney, Doctor, Fun, Games, Girls, Kids, Simulation, Surgery
+- Tags: Baby, Baby Hazel, Boys, Cartoon, Cartoon Network, Disney, Doctor, Fun, Games, Girls, Kids, Simulation, surgery

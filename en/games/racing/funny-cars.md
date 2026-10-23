@@ -19,6 +19,6 @@ Get ready for a crazy driving adventure! Race through busy roads, avoid obstacle
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Car, Driving, Fun, Levels, Traffic, tree, trucks, Unity3D, WebGL, wheels

@@ -19,6 +19,6 @@ Imposter Assassin Killer - FREE fun game of Impostors, your mission is simple: C
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, 3D

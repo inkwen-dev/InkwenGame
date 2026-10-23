@@ -19,6 +19,6 @@ White Dot – This is a game in which you need to destroy the white ball bypassi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Game, Games, HTML, HTML5, Hypercasual, Kid, Kids

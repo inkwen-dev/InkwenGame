@@ -21,4 +21,4 @@ Fastest action bus platformer! New levels weekly! "Epic Rush" has been made a se
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, bus, Car, Driving, jump, Jumping
+- Tags: Arcade, bus, Car, Driving, jump, jumping

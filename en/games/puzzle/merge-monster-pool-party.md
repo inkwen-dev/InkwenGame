@@ -19,6 +19,6 @@ After Farmland, we brought a different perspective to Merge type games with Merg
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Alien, Ballon, Bomb, Bubble, Clicker, Highscore, Hypercasual, Monster, Tetris
+- Tags: Alien, Ballon, Bomb, Bubble, Clicker, Highscore, Hypercasual, monster, tetris

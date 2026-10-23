@@ -19,6 +19,6 @@ Here is a relaxation vehicle survival game with 3D stickman models and vehicles.
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arena, Battlegrounds, Car, Clash, Ever After High, Farm, Fight, H5

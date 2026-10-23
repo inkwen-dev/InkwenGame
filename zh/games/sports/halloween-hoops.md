@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 篮球, 万圣节, 怪物, 射击, 运动
+- 标签: 篮球, 万圣节, monster, 射击, 体育

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩, 点击, 差异, 女孩, 恐怖, HTML5, unity游戏, Unity3D
+- 标签: 男孩们, 点击, 找不同, 女孩, 恐怖, HTML5, unity游戏, Unity3D

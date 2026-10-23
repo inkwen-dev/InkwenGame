@@ -21,4 +21,4 @@ Collect the maximum score by exploding the tiles.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Brain, Casual, Clicker, Color, Kids, Logic, Match 3, Match3, Matching, Monster, Puzzle, puzzleblock
+- Tags: block, Brain, Casual, Clicker, Color, Kids, Logic, Match 3, Match3, Matching, monster, Puzzle, puzzleblock

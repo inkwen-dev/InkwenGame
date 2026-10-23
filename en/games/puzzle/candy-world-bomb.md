@@ -19,6 +19,6 @@ Candy World bomb - The Candy strikes back with gorgeous sweet graphics and sever
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Candy, Crazy, HTML5, Hypercasual, Match 3, Mobile, Puzzle
+- Tags: Candy, crazy, HTML5, Hypercasual, Match 3, Mobile, Puzzle

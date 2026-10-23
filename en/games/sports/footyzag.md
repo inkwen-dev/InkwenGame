@@ -21,4 +21,4 @@ Pass the ball to your teammate and score! Complete challenging levels and unlock
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Football, Soccer, Sports
+- Tags: Cartoon, Football, Soccer, sports

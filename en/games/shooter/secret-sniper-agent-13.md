@@ -21,4 +21,4 @@ Hitman Sniper Agent is a fun 2D shooting game where you can snipe your enemies! 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mobile, Sniper
+- Tags: Mobile, sniper

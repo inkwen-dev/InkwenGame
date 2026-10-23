@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, Android, 点击器, HTML5, Mobile, 点击操作, 技巧, Unity3D, WebGL
+- 标签: 2D, 安卓, 点击器, HTML5, 移动设备, 点击式, 技巧, Unity3D, WebGL

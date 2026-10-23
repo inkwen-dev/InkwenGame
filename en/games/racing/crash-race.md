@@ -21,4 +21,4 @@ Crash Race is an exciting online racing game that allows players to compete agai
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2D, Car, Crazy, Game, Games, HTML5, Multiplayer, Online, Race, Racing
+- Tags: 2 Player, 2D, Car, crazy, Game, Games, HTML5, Multiplayer, Online, Race, Racing

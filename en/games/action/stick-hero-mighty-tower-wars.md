@@ -21,4 +21,4 @@ Prepare yourself to fight top battles, defeat monsters and enemies. Calculate an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Battle, Boy, Casual, Girl, Hypercasual, Puzzle, Skills, Stickman
+- Tags: 2D, Arcade, battle, Boy, Casual, Girl, Hypercasual, Puzzle, Skills, stickman

@@ -21,4 +21,4 @@ MoonstoneAlchemist is a match-3 game with 70+ fun yet challenging levels for fre
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Crazy
+- Tags: Adventure, crazy

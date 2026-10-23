@@ -15,6 +15,6 @@ Navigate your plane through ever-changing skies in Tap Tap Plane. Elevate with e
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Casual

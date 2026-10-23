@@ -15,6 +15,6 @@ Master the art of parking in Dr. Parking, the addictive driving simulation. Navi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Simulation

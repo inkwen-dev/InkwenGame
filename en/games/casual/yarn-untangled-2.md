@@ -15,6 +15,6 @@ Untangle vibrant yarn balls with a playful kitty in Yarn Untangled. Test your pr
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: hyper-casual

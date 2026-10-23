@@ -21,4 +21,4 @@ Crazy Dentist in action! The cutest dentist salon is here to assist you to disco
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Girl, Girls, Puzzle, Simulation, Surgery
+- Tags: Girl, Girls, Puzzle, Simulation, surgery

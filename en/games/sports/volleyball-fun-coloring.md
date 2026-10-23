@@ -21,4 +21,4 @@ Dive into the colorful world of Volleyball Fun Coloring: a cheerful and free onl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Coloring, Educational, Fun, Girls, Hypercasual, School, Sport
+- Tags: Boys, Coloring, educational, Fun, Girls, Hypercasual, School, Sport

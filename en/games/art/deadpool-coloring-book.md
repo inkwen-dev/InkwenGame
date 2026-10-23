@@ -21,4 +21,4 @@ Deadpool Coloring Book: A Fantastic Coloring Book For Adults. A Way To Relax And
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cartoon, Color, Coloring, Draw, Drawing, Girls, Kids, Superhero, Undead
+- Tags: Boys, Cartoon, Color, Coloring, Draw, drawing, Girls, Kids, Superhero, Undead

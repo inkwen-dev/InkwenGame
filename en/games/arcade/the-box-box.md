@@ -21,4 +21,4 @@ Push the boxes into the correct place and find the solution to more than 70 chal
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Hypercasual, Mario
+- Tags: Adventure, Arcade, Hypercasual, mario

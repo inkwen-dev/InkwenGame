@@ -19,6 +19,6 @@ Do you remember the times without internet? Passing time playing the same old ga
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casual, HTML, HTML5, King, Logic, Logical, Puzzle, Solitaire
+- Tags: card, Casual, HTML, HTML5, King, Logic, Logical, Puzzle, solitaire

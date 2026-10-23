@@ -19,6 +19,6 @@ Chubsee is a hefty Lil bird and the world seems to be working against him. He'll
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Bird, endless, Flight, fly, Racing
+- Tags: Animal, Bird, endless, flight, fly, Racing

@@ -21,4 +21,4 @@ Are you good at guessing a word from provided letters in random order? Here is a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Brain, Letters, Mobile, Puzzle, Unity3D, Word
+- Tags: 2D, Arcade, Brain, Letters, Mobile, Puzzle, Unity3D, word

@@ -19,6 +19,6 @@ Just enjoy the remake of the popular offline and endless game, that you know fro
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Best Games, Classic, dino, Dinosaur, endless, Hypercasual, Jumping, Platform, Retro, running, Skill, unity games
+- Tags: 3D, Action, Best Games, Classic, dino, Dinosaur, endless, Hypercasual, jumping, Platform, retro, running, Skill, unity games

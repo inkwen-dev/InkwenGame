@@ -21,4 +21,4 @@ Crazy Bar Brawl 🍻🥊 throws you straight into the most chaotic, hilarious, a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Fighting, Funny
+- Tags: fighting, Funny

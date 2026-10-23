@@ -19,6 +19,6 @@ Collect your own color dumbbell and Build up your body !! You break through the 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Adventure, Boys, HTML, HTML5, run, running, Strategy
+- Tags: 3D Games, Adventure, Boys, HTML, HTML5, run, running, strategy

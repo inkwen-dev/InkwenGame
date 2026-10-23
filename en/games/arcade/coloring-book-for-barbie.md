@@ -21,4 +21,4 @@ Coloring Book for Barbie and drawing and that’s why coloring books were always
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Color, Coloring, Draw, Drawing, Game, New, Puzzle
+- Tags: Arcade, Best, Color, Coloring, Draw, drawing, Game, New, Puzzle

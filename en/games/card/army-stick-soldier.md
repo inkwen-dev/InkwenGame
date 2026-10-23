@@ -19,6 +19,6 @@ A game in which you are a soldier and you have to run through a path full of obs
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Game, Online, Solitaire, Stickman
+- Tags: Army, Game, Online, solitaire, stickman

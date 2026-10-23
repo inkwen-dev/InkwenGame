@@ -21,4 +21,4 @@ Surf Crazy, is very fun and addictive casual game, vest up to three stars to mak
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Sports, Summer, surfers
+- Tags: Adventure, sports, Summer, surfers

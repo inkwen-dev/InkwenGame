@@ -21,4 +21,4 @@ This is very funny and simple game! The apples are falling and you've got to cat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ballon, Basketball, Bird, Bounce, Casual
+- Tags: Ballon, basketball, Bird, Bounce, Casual

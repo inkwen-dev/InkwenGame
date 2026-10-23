@@ -19,6 +19,6 @@ My Farm Empire is a fun and relaxing game that lets you create your own farm par
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Casual, Collecting, Farm, Food, Fruit, Girls, Kids, Stickman
+- Tags: Boys, Casual, Collecting, Farm, Food, Fruit, Girls, Kids, stickman

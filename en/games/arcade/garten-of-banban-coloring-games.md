@@ -19,6 +19,6 @@ Welcome to the world of Garten of Banban Coloring Pages. Our game is perfect for
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Color, Coloring, Draw, Drawing, Games, Puzzle
+- Tags: Arcade, Color, Coloring, Draw, drawing, Games, Puzzle

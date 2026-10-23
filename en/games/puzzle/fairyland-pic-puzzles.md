@@ -19,6 +19,6 @@ Fairyland pic puzzles is a simple puzzle game. You need to arrange the pieces of
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Fairy, Fantasy, HTML5, Jigsaw, Kids, Memory, Mobile, Puzzle
+- Tags: Board, Fairy, Fantasy, HTML5, Jigsaw, Kids, memory, Mobile, Puzzle

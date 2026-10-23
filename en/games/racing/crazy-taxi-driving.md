@@ -21,4 +21,4 @@ Be careful while driving and Racing the Ultimate Latest the mountain car and avo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Action, Arcade, Car, Cars, Casual, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing
+- Tags: .io Games, Action, Arcade, Car, Cars, Casual, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, jumping, Race, Racing

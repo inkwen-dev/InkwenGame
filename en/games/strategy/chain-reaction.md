@@ -19,6 +19,6 @@ In another galaxy, a small planet is the home of strange molecules. These multic
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Color, Logic, Space, Strategy
+- Tags: Brain, Casual, Color, Logic, Space, strategy

@@ -19,6 +19,6 @@ One more apple... but will your tail still fit? SNACK &amp; WARP is a colorful p
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Brain, Casual, Logic, Physics, Snake, WebGL, Worm
+- Tags: 1 Player, 2D, Brain, Casual, Logic, Physics, snake, WebGL, worm

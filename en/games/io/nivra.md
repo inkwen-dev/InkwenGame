@@ -19,6 +19,6 @@ In a world shattered by endless wars, the land has turned into a barren wastelan
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2025 games, Action, Adventure, Arcade, Arena, attack, free html5 games for your website, games for your website, Tank, Tanks
+- Tags: .io Games, 1 Player, 2025 games, Action, Adventure, Arcade, Arena, attack, free html5 games for your website, games for your website, Tank, tanks

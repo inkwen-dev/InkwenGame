@@ -21,4 +21,4 @@ Tank fight in Ice Age!!!!. Set your round limit and start fighting against your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 3D, Bomb, Fight, Fighting, Ice, Multiplayer, Snow, Tank, Tanks, War
+- Tags: 2 Player, 3D, Bomb, Fight, fighting, Ice, Multiplayer, Snow, Tank, tanks, War

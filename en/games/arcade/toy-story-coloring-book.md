@@ -21,4 +21,4 @@ Toy Story Coloring Book: Jumbo Coloring Books With High Quality Images Based On 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Boys, Cartoon, Cartoon Network, Collecting, Color, Coloring, Disney, Draw, Drawing, Game, Girls, Kids, Online
+- Tags: 2D, Arcade, Boys, Cartoon, Cartoon Network, Collecting, Color, Coloring, Disney, Draw, drawing, Game, Girls, Kids, Online

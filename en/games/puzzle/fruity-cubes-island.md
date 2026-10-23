@@ -21,4 +21,4 @@ Fruity Cubes Island is a delicious cube blasting puzzle game . Everyone loves a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Puzzle
+- Tags: block, Puzzle

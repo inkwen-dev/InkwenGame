@@ -19,6 +19,6 @@ Offroad land cruiser driving in HD and realistic environment is now available on
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Driving, Games, Island, Road, WebGL

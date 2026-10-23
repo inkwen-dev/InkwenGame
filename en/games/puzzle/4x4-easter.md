@@ -19,6 +19,6 @@ Move pieces of Easter cartoons to form the picture shown to the right side of th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Easter, HTML5, Jigsaw, Kids, Mobile, Puzzle

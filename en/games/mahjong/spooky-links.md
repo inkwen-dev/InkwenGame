@@ -21,4 +21,4 @@ Spooky Link is a relaxing Halloween-themed game where you connect matching spook
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Halloween, Mahjong, Matching, Puzzle
+- Tags: Halloween, mahjong, Matching, Puzzle

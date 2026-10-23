@@ -21,4 +21,4 @@ Accept the challenge and conquer the truest of natures wonders! Tap the screen t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping, Platform, running
+- Tags: jumping, Platform, running

@@ -21,4 +21,4 @@ This is apocalyptic Drifting game with full of actions and smash zombies by derb
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Arcade, Best, Boys, Car, Cars, Casual, Girls, Helicopter, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Race, Racing
+- Tags: 3D, Action, Adventure, Arcade, Best, Boys, Car, Cars, Casual, Girls, helicopter, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Race, Racing

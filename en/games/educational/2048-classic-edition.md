@@ -21,4 +21,4 @@ The great puzzle classic, 2048, is back in this edition for all you number lover
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Educational, Family, Logic, Math, Number, Puzzle, Strategy
+- Tags: Brain, Casual, educational, Family, Logic, math, Number, Puzzle, strategy

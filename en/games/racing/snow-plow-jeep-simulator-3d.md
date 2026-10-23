@@ -19,6 +19,6 @@ When winter comes the yard is constantly snowing, which sleeps the whole area. B
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Cars, Driving, Simulation, Simulator, Snow

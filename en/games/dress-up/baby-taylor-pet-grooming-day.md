@@ -21,4 +21,4 @@ Its all about adorable pets and tons of fun! You get to be the ultimate pet styl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Baby Games, Cleaning, Cute, Design, Educational, Girl, Girls, Grooming, Makeover, Simulation
+- Tags: Animal, Baby, Baby Games, Cleaning, Cute, Design, educational, Girl, Girls, Grooming, Makeover, Simulation

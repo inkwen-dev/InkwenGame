@@ -21,4 +21,4 @@ W S A D 或 方向键 移动
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 街机, 黄金, 谷歌
+- 标签: 3D游戏, 街机, 金币, 谷歌

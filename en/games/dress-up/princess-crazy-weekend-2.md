@@ -19,6 +19,6 @@ Ariel and Elsa agree to spend a crazy and happy weekend together. They have to p
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Dress Up, Elsa, Frozen, Girl, Girls, Hair, Kids, Makeover, Nail, Princess, Simulation

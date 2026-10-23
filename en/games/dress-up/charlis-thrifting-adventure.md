@@ -21,4 +21,4 @@ Have you ever been to a thrift shop? Well now is your chance to go shopping at t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Barbie, Cartoon, Cute, Dress Up, Elsa, Fashion, Girls, RPG
+- Tags: 2D, Barbie, Cartoon, Cute, Dress Up, Elsa, Fashion, Girls, rpg

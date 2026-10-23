@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, 动物, 马, 受欢迎的
+- 标签: 3D, 动物, horse, 受欢迎的

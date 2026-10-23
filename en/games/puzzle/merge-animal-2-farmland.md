@@ -19,6 +19,6 @@ Welcome to Farmland. You will have a lot of fun in this game where farm animals 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Clicker, Escape, Tetris
+- Tags: Animal, Clicker, Escape, tetris

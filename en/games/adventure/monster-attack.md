@@ -19,6 +19,6 @@ The city is under attack. Use your superhero strength to protect the innocent ag
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: city, Monster, WebGL
+- Tags: city, monster, WebGL

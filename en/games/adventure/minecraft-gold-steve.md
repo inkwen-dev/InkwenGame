@@ -21,4 +21,4 @@ Minecraft Gold Steve is fun and addicting online game suitable for all ages. Thi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, Cartoon, Craft, Crafting, Crazy, Minecraft, Miner
+- Tags: 2 Player, 2 Player Games, 3D, Cartoon, Craft, Crafting, crazy, Minecraft, Miner

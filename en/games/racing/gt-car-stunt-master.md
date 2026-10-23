@@ -19,6 +19,6 @@ Welcome to the GT Car Stunt Master 3D which are based on Car driving simulator c
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Boy, Car, Cars, Dinosaur, drift, drifting, Driving, Game, Games, Moto, Motorcycle, Simulation, Simulator

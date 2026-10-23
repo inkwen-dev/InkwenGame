@@ -19,6 +19,6 @@ It is a raw puzzle game with 4 different "Teddy Bear" characters. Match 3 identi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Hot, Mobile, New, Puzzle

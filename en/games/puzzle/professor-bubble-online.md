@@ -21,4 +21,4 @@ Professor Bubble needs your help! In his excitement over his new bubble machine,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bejeweled, Bubble, Bubble Shooter, Game, Match-3, Match3, Matching, Online
+- Tags: Arcade, Bejeweled, Bubble, Bubble Shooter, Game, Match 3, Match3, Matching, Online

@@ -19,6 +19,6 @@ Your swamp is under attack! grab a weapon and defend your home from the invading
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Kiz 10, kiz10, Strategy
+- Tags: Action, Kiz 10, kiz10, strategy

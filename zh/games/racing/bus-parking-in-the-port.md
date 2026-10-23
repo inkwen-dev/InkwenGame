@@ -21,4 +21,4 @@ WASD - 驾驶 C - 摄像头
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 男孩们, 公交车, HTML5, 停车, 竞速, WebGL
+- 标签: 3D, 男孩们, 公交车, HTML5, 停车, 比赛, WebGL

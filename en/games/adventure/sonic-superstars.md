@@ -19,6 +19,6 @@ Adventure through the mystical Northstar Islands in this all-new take on classic
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Anime, Best Games, Cartoon Network, Casual, Dragon Ball Z, HTML5, Superhero

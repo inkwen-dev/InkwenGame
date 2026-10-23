@@ -19,6 +19,6 @@ Rally Championship 2 offers a nostalgic journey back to the classic 2D arcade ra
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Car, car tuning, Cars, drifting, Driving, HTML, HTML5, Race, Racing, Supercars

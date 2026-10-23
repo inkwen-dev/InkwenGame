@@ -21,4 +21,4 @@ Chitu Adventures 2 is a 2D platformer where you play as an employee called Chitu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Boy, Cartoon, Collecting, Cute, jump, Jumping, Pixel, Platform, Retro, Robot, Science
+- Tags: 1 Player, 2D, Adventure, Arcade, Boy, Cartoon, Collecting, Cute, jump, jumping, pixel, Platform, retro, Robot, Science

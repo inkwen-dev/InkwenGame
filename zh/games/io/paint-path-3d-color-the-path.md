@@ -21,4 +21,4 @@ Paint Path 3D 是一款全新且极具挑战性又令人满足的游戏，以涂
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 3D, 3D游戏, 颜色, 涂色, 水果, 有趣, 搞笑, 热门, 跑, 跑步, Unity3D
+- 标签: .io, .io 游戏, 3D, 3D游戏, 颜色, 着色, 水果, 有趣, 搞笑, 热门, 跑, 奔跑, Unity3D

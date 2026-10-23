@@ -15,6 +15,6 @@ Dive into the fiery challenge of Lava Blox, a thrilling 3D platformer set in a l
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: parkour

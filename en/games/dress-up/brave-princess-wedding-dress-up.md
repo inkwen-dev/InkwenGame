@@ -19,6 +19,6 @@ This princess is a very brave princess. A lot of princes tried to charm her but 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Disney, Dress Up, Girl, Girls, Princess

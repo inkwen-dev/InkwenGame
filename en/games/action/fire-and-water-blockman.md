@@ -19,6 +19,6 @@ In our adventure, you need to help the fire and water blockman characters. They 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Battle, Block, Minecraft, Stickman
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, battle, block, Minecraft, stickman

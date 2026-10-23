@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Bike, Cartoon, Cartoon Network, Classic, Click, Clicker, Fun, Funny, jump, Jumping, Kid, Kids, Mobile, run, running, Skill, Skills, Sport, Sports, Superhero, Traffic, Truck
+- Tags: Android, bike, Cartoon, Cartoon Network, Classic, Click, Clicker, Fun, Funny, jump, jumping, Kid, Kids, Mobile, run, running, Skill, Skills, Sport, sports, Superhero, Traffic, truck

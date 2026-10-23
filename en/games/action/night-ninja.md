@@ -19,6 +19,6 @@ Night Ninja is an exhilarating HTML5 game where players embody a stealthy ninja 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, amazing, arrow, Best Games, Fight, Fighting, free html5 games for your website, HTML, html games for your website, html5 games, Knight, Ninja, Platform
+- Tags: 1 Player, 2D, amazing, arrow, Best Games, Fight, fighting, free html5 games for your website, HTML, html games for your website, html5 games, knight, ninja, Platform

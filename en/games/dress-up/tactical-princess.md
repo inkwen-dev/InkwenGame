@@ -21,4 +21,4 @@ Holiday dedicated to the defenders of the Fatherland is approaching. The princes
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Dress Up, Girl, Gun, Hair, Holiday, HTML5, Logical, Memory, Princess, Puzzle, weapons
+- Tags: Army, Dress Up, Girl, Gun, Hair, Holiday, HTML5, Logical, memory, Princess, Puzzle, weapons

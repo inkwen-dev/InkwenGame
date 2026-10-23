@@ -19,6 +19,6 @@ You are on vacation and good protected there and it is summer and sadly remain w
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Truck, Unity3D, WebGL
+- Tags: Driving, truck, Unity3D, WebGL

@@ -21,4 +21,4 @@ The princess's son was born! He is a healthy baby, but the princess is now incon
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cook, Cooking, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: Baby, Cook, Cooking, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

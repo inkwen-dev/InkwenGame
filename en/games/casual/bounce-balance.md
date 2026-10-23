@@ -19,6 +19,6 @@ Control the ball to jump onto the board and keep it balanced to avoid falling.As
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Balance, Bounce

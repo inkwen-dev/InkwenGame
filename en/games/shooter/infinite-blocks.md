@@ -21,4 +21,4 @@ Join the battle against the advancing block army in Infinite Blocks. Defend your
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, HTML5, Matching, Mobile, Shooter
+- Tags: block, HTML5, Matching, Mobile, Shooter

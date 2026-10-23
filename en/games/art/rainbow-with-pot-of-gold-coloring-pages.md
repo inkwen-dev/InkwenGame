@@ -15,6 +15,6 @@ Unleash your creativity with Rainbow With Pot Of Gold Coloring Pages, an interac
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Coloring

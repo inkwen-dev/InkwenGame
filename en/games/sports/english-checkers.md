@@ -21,4 +21,4 @@ Immerse yourself in the exciting world of Checkers English, where every game is 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Board, Brain, HTML5, Logic, Mobile, Multiplayer, Online, Puzzle, PvP, Relaxation, Strategy, Turn Based
+- Tags: 2 Player, Board, Brain, HTML5, Logic, Mobile, Multiplayer, Online, Puzzle, PvP, Relaxation, strategy, Turn Based

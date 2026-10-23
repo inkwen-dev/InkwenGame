@@ -19,6 +19,6 @@ Get ready for an exciting motorcycle racing adventure in Rush to Crush! Race thr
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Multiplayer, Racing, Stunts
+- Tags: bike, Multiplayer, Racing, Stunts

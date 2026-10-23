@@ -19,6 +19,6 @@ Parking Jam Delivery Traffic is a unique and awesome game. It is not a car game,
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Food, Logic, Parking, Puzzle, Simulation, Traffic
+- Tags: 3D, Food, Logic, parking, Puzzle, Simulation, Traffic

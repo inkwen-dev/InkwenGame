@@ -19,6 +19,6 @@ Zombie Terror is the first person free Zombies Shooting game. A Bio Chemical Eff
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Shoot, Shooter, Shooting, Zombie

@@ -21,4 +21,4 @@ ShapeShifter 是一款引人入胜的解谜游戏，考验你的智慧与反应�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 动作, 冒险, 街机, 点击器, 技巧, Unity3D, WebGL
+- 标签: 单人, 3D, 动作, 冒险, 街机, 点击器, 技能, Unity3D, WebGL

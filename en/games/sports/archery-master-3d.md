@@ -19,6 +19,6 @@ The World's #1 Archery game is now on weB! Archery Master 3D is the hottest and 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Shoot, Shooting, Sports
+- Tags: 3D, 3D Games, Arcade, Shoot, Shooting, sports

@@ -19,6 +19,6 @@ Challenge your skills in Stick Roll Arena ! Roll the dice to summon your stickma
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: endless, free html5 games for your website, Mobile, WebGL

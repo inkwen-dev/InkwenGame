@@ -24,4 +24,4 @@ In this intense survival game you find yourself trapped in a haunted environment
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Monster, survival
+- Tags: monster, survival

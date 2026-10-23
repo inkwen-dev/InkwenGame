@@ -19,6 +19,6 @@ Match three or more identical sports equipments and reach the target of each lev
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Match 3, Match3, Matching, Mobile, Sport, Sports
+- Tags: HTML5, Match 3, Match3, Matching, Mobile, Sport, sports

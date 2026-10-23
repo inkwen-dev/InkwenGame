@@ -19,6 +19,6 @@ Swipe your finger to dash along corridors and eat boxes as the snake’s body be
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Number, Snake
+- Tags: Arcade, Number, snake

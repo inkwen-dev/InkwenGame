@@ -19,6 +19,6 @@ SushiBoom - the addictive sushi puzzle game online. Match-3 sushi puzzle game. M
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Brain, Clicker, Hypercasual, Puzzle

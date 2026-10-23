@@ -21,4 +21,4 @@ Pixel Christmas is a festive-themed tetris game. Presents are falling from the s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Christmas, Game, Games, HTML, HTML5, Mobile, Online, Santa, Santa Claus, Tetris
+- Tags: 1 Player, 2D, Arcade, Christmas, Game, Games, HTML, HTML5, Mobile, Online, Santa, Santa Claus, tetris

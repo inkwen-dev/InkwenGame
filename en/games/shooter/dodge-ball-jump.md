@@ -21,4 +21,4 @@ Welcome to Dodge Ball Jump Hypercasual Game! Swipe up to fill the guys belly to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Hypercasual, Jumping
+- Tags: Hypercasual, jumping

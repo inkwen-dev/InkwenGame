@@ -19,6 +19,6 @@ Have fun playing intense bicycle games like BMX Cycle, an excellent game, and dr
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Android, Bike, Driving, HTML5, Mobile, Simulator, Skill, Unity3D, WebGL
+- Tags: 3D, 3D Games, Android, bike, Driving, HTML5, Mobile, Simulator, Skill, Unity3D, WebGL

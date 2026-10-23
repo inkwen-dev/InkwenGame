@@ -19,6 +19,6 @@ Kitty Kuro is trying to escape from her mother. Her mother is a chef who loves c
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Animal, Arcade, Cat, Cute, Hello Kitty, Mobile

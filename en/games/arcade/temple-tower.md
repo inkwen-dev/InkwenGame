@@ -19,6 +19,6 @@ Build the tallest tower in the world to reach the sky with a power of one-tap ga
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, endless, HTML5, Hypercasual, Stack, temple

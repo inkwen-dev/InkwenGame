@@ -19,6 +19,6 @@ Skibidi Toilet Monster Fight is a zany game where players click and drag Skibidi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Fight, Mentolatux, Monster, Skibidi, Skibidi Toilet, Unity3D, WebGL
+- Tags: Click, Fight, Mentolatux, monster, Skibidi, skibidi-toilet, Unity3D, WebGL

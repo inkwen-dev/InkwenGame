@@ -21,4 +21,4 @@ You can test your pattern detection skills in this relaxed mahjong &amp; connect
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Food, HTML5, html5 games, Mahjong, Mobile
+- Tags: Food, HTML5, html5 games, mahjong, Mobile

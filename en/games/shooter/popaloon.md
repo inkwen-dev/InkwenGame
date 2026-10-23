@@ -19,6 +19,6 @@ POP-A-LOON is an addictive shooter-style game with a limited violence cartoon vi
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Action, Best, Cartoon, Casual, Defense, endless, First Person Shooter, fps, Multiplayer, Shoot 'Em Up, Shooter, Strategy, Subway Surfers
+- Tags: 2 Player, Action, Best, Cartoon, Casual, Defense, endless, First Person Shooter, fps, Multiplayer, Shoot 'Em Up, Shooter, strategy, Subway Surfers

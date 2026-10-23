@@ -21,4 +21,4 @@ The Great Mahjong is an HTML5 online game with a pleasing design and many availa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Board, Game, Games, HTML, HTML5, Mahjong, Play
+- Tags: 1 Player, Board, Game, Games, HTML, HTML5, mahjong, Play

@@ -21,4 +21,4 @@ Oops! The poor penguin is trapped, come to Penguin Rescue Squad and set up a res
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Boy, Boys, Brain, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Penguin, Puzzle
+- Tags: Animal, Boy, Boys, Brain, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Penguin, Puzzle

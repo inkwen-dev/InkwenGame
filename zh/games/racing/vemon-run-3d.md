@@ -21,4 +21,4 @@ Vemon Run 3D 带来一款有趣的街机跑酷游戏。踏入一个生动的 3D 
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 乐趣, 赛车, 奔跑
+- 标签: 3D, 有趣, 竞速, 奔跑

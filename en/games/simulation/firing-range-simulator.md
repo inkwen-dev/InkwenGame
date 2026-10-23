@@ -19,6 +19,6 @@ Have you ever wanted to just walk around and shoot stuff? Now you can! In this s
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Action, Gun, Shooter, Shooting, Unity3D, WebGL

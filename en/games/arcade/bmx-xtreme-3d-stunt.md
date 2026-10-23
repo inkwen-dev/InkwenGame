@@ -21,4 +21,4 @@ BMX stunt with 100 levels is good for any type of use from your website, second 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Bike, Fun, Stunts, Unity3D, WebGL
+- Tags: 1 Player, bike, Fun, Stunts, Unity3D, WebGL

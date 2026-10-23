@@ -15,6 +15,6 @@ Navigate colorful challenges in Draw Line by strategically crafting paths for bo
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Drawing
+- Tags: drawing

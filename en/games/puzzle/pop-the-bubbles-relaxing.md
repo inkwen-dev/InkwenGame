@@ -19,6 +19,6 @@ A simple and captivating game designed to help you unwind and escape the daily h
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, 2D, amazing, Best Games, Bubble, Bubble Shooter, Casual, endless, free html5 games for your website, html games for your website, Match 3, Match3, Relaxation

@@ -19,6 +19,6 @@ Royal Thumble is a casual game where you choose your wrestler and smash, strike,
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Fighting
+- Tags: Casual, fighting

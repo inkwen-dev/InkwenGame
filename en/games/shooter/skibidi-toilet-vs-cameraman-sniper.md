@@ -19,6 +19,6 @@ Camera man are trying to survive in toilet mans red light green light game. If t
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Battle, Enemy, Gun, Prison, Shooting, Skibidi, Skibidi Toilet, Sniper, War, weapons, WebGL
+- Tags: 3D, Action, battle, Enemy, Gun, Prison, Shooting, Skibidi, skibidi-toilet, sniper, War, weapons, WebGL

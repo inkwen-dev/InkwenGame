@@ -21,4 +21,4 @@ Slap Kings is a 3D reflection game suitable for relaxing. You can hit other peop
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Battle, Boy, Fun, Funny, Girl, Kid, Skill
+- Tags: 3D, Action, battle, Boy, Fun, Funny, Girl, Kid, Skill

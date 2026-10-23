@@ -21,4 +21,4 @@ The hospital in the town has received many patients. Come to the town medical ce
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Games, Doctor, Educational
+- Tags: Baby Games, Doctor, educational

@@ -19,6 +19,6 @@ Lofys - Numbers is an educational game for children with more than 40 exercises 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kids, Number, School
+- Tags: educational, Kids, Number, School

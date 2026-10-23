@@ -21,4 +21,4 @@ Mini Stills is a retro-style game where you guide a blob character to his goal: 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Pixel, Retro
+- Tags: Arcade, pixel, retro

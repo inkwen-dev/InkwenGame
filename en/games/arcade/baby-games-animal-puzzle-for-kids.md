@@ -19,6 +19,6 @@ Baby Games Animal Puzzle for Kids is an engaging and educational html5 game desi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Baby Games, Kids, Puzzle

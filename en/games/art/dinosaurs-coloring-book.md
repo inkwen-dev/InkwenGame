@@ -19,6 +19,6 @@ This is a simple yet fun drawing games for kids. Play the now and you'll soon be
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Color, Coloring, Design, Dinosaur, Draw, Drawing
+- Tags: Animal, Color, Coloring, Design, Dinosaur, Draw, drawing

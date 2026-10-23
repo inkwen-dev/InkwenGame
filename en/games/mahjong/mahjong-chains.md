@@ -19,6 +19,6 @@ Mahjong Chains is a classic connect game. Find identical mahjong stones to conne
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Brain, Casual, Classic, Mahjong, Matching, Puzzle
+- Tags: 1 Player, 2D, Brain, Casual, Classic, mahjong, Matching, Puzzle

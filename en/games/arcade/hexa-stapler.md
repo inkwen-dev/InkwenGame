@@ -19,6 +19,6 @@ Hexa Stapler is a fascinating and fun game waiting for your decision. The game i
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Fun, Logic, Logical, Mobile, Skill

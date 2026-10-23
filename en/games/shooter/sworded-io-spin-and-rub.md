@@ -31,4 +31,4 @@ Compete and rise as the ultimate warrior
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: .io, Action, Arcade, Fighting
+- Tags: .io, Action, Arcade, fighting

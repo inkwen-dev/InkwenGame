@@ -21,4 +21,4 @@ Play Hercules Bubble Shooter Games is a fun Game bubble burst game with 70 uniqu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Arcade, Jigsaw, Strategy
+- Tags: Anime, Arcade, Jigsaw, strategy

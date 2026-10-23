@@ -21,4 +21,4 @@ Mechabots is a simulation game in which the player must assemble his own robot. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dragon, Gun, Robot, Sword
+- Tags: Dragon, Gun, Robot, sword

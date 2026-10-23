@@ -21,4 +21,4 @@ Super Mario Endless Run is a great arcade game. Jump or duck to avoid the bullet
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Avoid, Fun, HTML5, jump, Jumping, Kids, Mario, Mobile, run, running, Superhero
+- Tags: Android, Avoid, Fun, HTML5, jump, jumping, Kids, mario, Mobile, run, running, Superhero

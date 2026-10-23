@@ -19,6 +19,6 @@ If you liked Only Up, Then this game is for you! A game where cat climb up in a 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Animal, Boys, Casual, Cat, Cute, endless, Girls, Hypercasual

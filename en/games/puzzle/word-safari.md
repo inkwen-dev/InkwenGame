@@ -19,6 +19,6 @@ Word Safari takes you on a wild hunt through letter jungles! Spot hidden words a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ai Games, Brain, Family, free html5 games for your website, Kids, Letters, mapi games, Word
+- Tags: Ai Games, Brain, Family, free html5 games for your website, Kids, Letters, mapi games, word

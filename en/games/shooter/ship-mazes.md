@@ -19,6 +19,6 @@ Forward to new naval exploits! Join exciting battles on the water, where you are
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, Arcade, Battle, Battlegrounds, Boat, Classic, Level, Levels, Shoot, Shooting, War
+- Tags: 1 Player, 2 Player, Arcade, battle, Battlegrounds, Boat, Classic, Level, Levels, Shoot, Shooting, War

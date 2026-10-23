@@ -21,4 +21,4 @@ Coloring Dinosaurs Book is a painting, drawing and coloring game for kids! Hello
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Dinosaur, Educational
+- Tags: Color, Coloring, Dinosaur, educational

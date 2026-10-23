@@ -21,4 +21,4 @@ Discover Stickman Hook, the new MadBox game. Tap to hook and make incredible jum
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Girl, Girls, jump, Kids, Stickman
+- Tags: Boys, Girl, Girls, jump, Kids, stickman

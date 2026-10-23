@@ -19,6 +19,6 @@ Craft your unique tentacled monster in the laboratory. Navigate through levels, 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Alien, Battle, Casual, Creation, demolition, Fantasy, Fighting, Fire, Frozen, Hypercasual, Killing, WebGL
+- Tags: 3D, Action, Alien, battle, Casual, Creation, demolition, Fantasy, fighting, Fire, Frozen, Hypercasual, Killing, WebGL

@@ -21,4 +21,4 @@ Help flapping bird flying in the sky safely and avoid terrible viruses (like cor
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Casual, Classic, Click, endless, Game, Hot, HTML5, Hypercasual, jump, Mobile, Online, Retro, Unity3D, WebGL
+- Tags: 1 Player, 2D, Casual, Classic, Click, endless, Game, Hot, HTML5, Hypercasual, jump, Mobile, Online, retro, Unity3D, WebGL

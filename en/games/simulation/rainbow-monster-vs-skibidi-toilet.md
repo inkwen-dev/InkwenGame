@@ -21,4 +21,4 @@ Rainbow Monster VS Skibidi Toilet is a combination between action and stealth ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Fantasy, Mario, Music, Play, Rhythm, Simulation, Skibidi Toilet, Stealth, Unity3D, WebGL
+- Tags: 1 Player, 3D, 3D Games, Fantasy, mario, music, Play, Rhythm, Simulation, skibidi-toilet, Stealth, Unity3D, WebGL

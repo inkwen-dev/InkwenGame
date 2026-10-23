@@ -19,6 +19,6 @@ Super Pig on Xmas is a 2D Platformer where the player needs to collect candies a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Christmas, Pixel, Platform
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Christmas, pixel, Platform

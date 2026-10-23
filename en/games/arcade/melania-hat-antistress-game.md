@@ -19,6 +19,6 @@ Melania Hat Antistress Game is a charming and free online game designed especial
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Celebrity, Fun, Funny, Hypercasual, Kids, Relaxation

@@ -19,6 +19,6 @@ Stay on the wall and do as many zigzags as you can! Just tap the screen to chang
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 2026 games, 3D Games, Best Games, free games for your site, free games for your website, free html5 games for your website

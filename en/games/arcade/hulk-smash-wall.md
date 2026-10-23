@@ -19,6 +19,6 @@ Top fun free super hulk game! Face difficulties and challenge obstacles. Go forw
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Best, Casual, Hot, Hypercasual, Mobile, New, Superhero

@@ -19,6 +19,6 @@ Play one of the most realistic parking games on the market. Drive various cars e
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Anime, Boys, Car, Cars, Cartoon, Casual, Game, Games, Girls, Hypercasual, Parking, Race, Racing, Sport, Sports, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Anime, Boys, Car, Cars, Cartoon, Casual, Game, Games, Girls, Hypercasual, parking, Race, Racing, Sport, sports, Unity3D

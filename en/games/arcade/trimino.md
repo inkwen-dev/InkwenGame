@@ -30,4 +30,4 @@ Includes a tutorial, daily rewards, quests, cosmetic skins, and light monetizati
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Board, Logic, Matching, Puzzle, Strategy
+- Tags: Arcade, Board, Logic, Matching, Puzzle, strategy

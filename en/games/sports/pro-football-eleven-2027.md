@@ -21,4 +21,4 @@ Pro Football Eleven 2027 is a 3D football game by BREYMANTECH, played at full el
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Car, Football, Rocket, Soccer, Sword, World
+- Tags: Ball, Car, Football, Rocket, Soccer, sword, World

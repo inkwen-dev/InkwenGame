@@ -21,4 +21,4 @@ Stickman Warriors Superhero Fight delivers fast-paced battles where every dodge,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arena, Fighting, Stickman, Superhero
+- Tags: Arena, fighting, stickman, Superhero

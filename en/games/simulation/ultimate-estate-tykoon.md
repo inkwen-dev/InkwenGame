@@ -15,6 +15,6 @@ Craft your real estate empire in Ultimate Estate Tykoon. Design and upgrade prop
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: tycoon

@@ -19,6 +19,6 @@ The little fox started his new adventure! He needs to collect diamonds, coins, a
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Boy, Boys, Fun, H5, HTML5, Kid, Kids

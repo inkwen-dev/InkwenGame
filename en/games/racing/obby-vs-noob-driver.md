@@ -19,6 +19,6 @@ You must help Obby and Noob in their adventure. Drive the car yourself in the ad
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Car, Cars

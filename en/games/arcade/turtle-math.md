@@ -19,6 +19,6 @@ Turtle Math is an online math game that tests your knowledge of basic math facts
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Boy, Boys, Educational, Game, Games, Girl, Girls, HTML5, Math, Puzzle
+- Tags: 2D, Arcade, Boy, Boys, educational, Game, Games, Girl, Girls, HTML5, math, Puzzle

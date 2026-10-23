@@ -19,6 +19,6 @@ Hey Girls! These cute princess are ready for patricks day celebration. So help t
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Best, Boys, Casual, Decoration, Disney, Games, Girls, HTML5, Kids, Princess

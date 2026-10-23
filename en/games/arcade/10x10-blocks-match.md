@@ -21,4 +21,4 @@ Pick and drop sets of blocks to complete vertical and horizontal rows. Once you 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Board, HTML5, Mobile, Puzzle, Tetris
+- Tags: Arcade, block, Board, HTML5, Mobile, Puzzle, tetris

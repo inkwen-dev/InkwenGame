@@ -19,6 +19,6 @@ From folks who brought you Run Race 3D.  Experience full parkour experience wi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Interactive, Kids, Race, run, running, Stickman
+- Tags: Interactive, Kids, Race, run, running, stickman

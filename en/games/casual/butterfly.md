@@ -15,6 +15,6 @@ Glide through a radiant forest as a butterfly, mastering seamless maneuvers to c
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Animal

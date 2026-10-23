@@ -21,4 +21,4 @@ In this amazing construction puzzle you have to drop the blocks with different s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Balance, Best, Block, Bricks, Casual, HTML5, Hypercasual, Logic, Logical, Puzzle, Stack, Tetris
+- Tags: 2D, Balance, Best, block, Bricks, Casual, HTML5, Hypercasual, Logic, Logical, Puzzle, Stack, tetris

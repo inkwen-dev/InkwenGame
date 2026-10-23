@@ -23,4 +23,4 @@ Master realistic vehicle physics, responsive steering, and smooth camera control
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Car, Driving, Parking, Simulation, Skill
+- Tags: Arcade, Car, Driving, parking, Simulation, Skill

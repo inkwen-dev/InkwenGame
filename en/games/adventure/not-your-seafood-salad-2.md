@@ -19,6 +19,6 @@ Dont be they prey! Youve had enough of the food chain and are rebelling against 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arena, survival, Top Down

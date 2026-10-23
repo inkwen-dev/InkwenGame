@@ -19,6 +19,6 @@ Drive a fast race car on a 3D circuit and chase the perfect lap. Track your lap 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Cars, Driving, Race, Racing

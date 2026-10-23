@@ -21,4 +21,4 @@ Eliminate all terrorists from the city.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Avoid, Battle, city, Driving, endless, Fighting, Police, Racing, Shooter, Shooting, Street Fighting
+- Tags: Action, Adventure, Arcade, Avoid, battle, city, Driving, endless, fighting, police, Racing, Shooter, Shooting, Street Fighting

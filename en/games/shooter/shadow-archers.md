@@ -21,4 +21,4 @@ Play as the legendary Shadow bow master. Defend yourself and destroy enemies wit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bow, Casual, HTML5, Shoot 'Em Up, Shooting, Stickman
+- Tags: Bow, Casual, HTML5, Shoot 'Em Up, Shooting, stickman

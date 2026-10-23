@@ -19,6 +19,6 @@ This game is made in construct 2 with photon. This multiplayer game can be playe
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Android, Battle, Battlegrounds, Fight, Fighting, Mobile, Multiplayer, Plane
+- Tags: .io, .io Games, Android, battle, Battlegrounds, Fight, fighting, Mobile, Multiplayer, Plane

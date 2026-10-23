@@ -21,4 +21,4 @@ Easy Coloring Kitty is a super fun and relaxing coloring game made just for kids
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Coloring, Educational, Girls, Hello Kitty, HTML5, Hypercasual, School
+- Tags: Arcade, Coloring, educational, Girls, Hello Kitty, HTML5, Hypercasual, School

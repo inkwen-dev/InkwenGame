@@ -21,4 +21,4 @@ Head Soccer 2022 is a fast-paced sports football game where you can challenge al
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Football, Game, Games, Highscore, HTML, HTML5, Kid, Kids, Soccer, Sport, Sports
+- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Football, Game, Games, Highscore, HTML, HTML5, Kid, Kids, Soccer, Sport, sports

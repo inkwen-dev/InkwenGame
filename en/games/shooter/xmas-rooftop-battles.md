@@ -21,4 +21,4 @@ Time to put on your Santa hat and get ready for some action packed fun. Try to s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, Battle, Christmas, Shooter, Shooting, Sniper
+- Tags: .io Games, 2 Player Games, battle, Christmas, Shooter, Shooting, sniper

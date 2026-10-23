@@ -15,6 +15,6 @@ Transform grimy vehicles into gleaming masterpieces in this immersive car wash s
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Car

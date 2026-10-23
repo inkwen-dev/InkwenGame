@@ -21,4 +21,4 @@ Take part in a mountain bike downhill racing challenge. You control a bicycle ru
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Bike, jump, Motorcycle, Physics, Racing, Skill, Sport, Sports, Stunts
+- Tags: 2D, bike, jump, Motorcycle, Physics, Racing, Skill, Sport, sports, Stunts

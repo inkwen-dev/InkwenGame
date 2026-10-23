@@ -21,4 +21,4 @@ Who doesn't love pandas? It's hard to refuse such a cute animal and that is why 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cleaning, HTML5, Kid, Kids, Makeover, Management, Mobile
+- Tags: Cleaning, HTML5, Kid, Kids, Makeover, management, Mobile

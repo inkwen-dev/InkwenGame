@@ -21,4 +21,4 @@ Dangerous Jump vs Doodle Jump is a platforming video game. In Dangerous Jump, th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Arcade, Best, Bounce, jump, Jumping, Mobile
+- Tags: 1 Player, 2D, Action, Arcade, Best, Bounce, jump, jumping, Mobile

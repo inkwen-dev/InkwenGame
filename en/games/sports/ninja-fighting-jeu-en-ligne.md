@@ -21,4 +21,4 @@ FIGHTING KING OF RING Join the fighting club of warrior legends and battle maste
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting
+- Tags: Fight, fighting

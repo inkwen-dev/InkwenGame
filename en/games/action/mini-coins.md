@@ -21,4 +21,4 @@ Mini Coins is an arcade game where you must collect all the coins in the level b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Pixel, Platform, Retro
+- Tags: Arcade, pixel, Platform, retro

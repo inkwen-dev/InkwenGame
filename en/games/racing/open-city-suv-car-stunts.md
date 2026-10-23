@@ -40,4 +40,4 @@ Enjoy complete freedom, explore the open city, perform insane SUV stunts, delive
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Car, Driving, Police, Racing, Simulation
+- Tags: 3D, Car, Driving, police, Racing, Simulation

@@ -21,4 +21,4 @@ Do you want to run your own restaurant? Want to experience the blend of collabor
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cooking, Fun, Restaurant, Simulation
+- Tags: Cooking, Fun, restaurant, Simulation

@@ -21,4 +21,4 @@ Swipe left and right, control the tiger to increase its tail, and successfully r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Math, Race, Racing, running
+- Tags: math, Race, Racing, running

@@ -19,6 +19,6 @@ Sketer Bear Jump is a fun-filled, sky-high adventure where a bouncy bear takes o
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, angryplants, Animal, Click, Cute, endless, free games for your site, html5 games

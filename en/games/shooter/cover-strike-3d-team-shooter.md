@@ -19,6 +19,6 @@ The gameplay of multiplayer shooting games is very action-packed & thrilling. Do
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arena, Army, Battle, Boat, Bomb
+- Tags: Adventure, Arena, Army, battle, Boat, Bomb

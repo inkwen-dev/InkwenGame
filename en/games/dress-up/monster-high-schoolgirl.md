@@ -19,6 +19,6 @@ Monster High Clawdeen Wolf girl is preparing for school. Which school clothes do
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Decorate, Dress Up, Fashion, Game, Girl, Girls, HTML5, Magic, Monster
+- Tags: Cartoon, Decorate, Dress Up, Fashion, Game, Girl, Girls, HTML5, Magic, monster

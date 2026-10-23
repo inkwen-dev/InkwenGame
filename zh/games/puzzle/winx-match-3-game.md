@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 涂色, 游戏, HTML5, 在线, 益智
+- 标签: 街机, 着色, 游戏, HTML5, 在线, 益智

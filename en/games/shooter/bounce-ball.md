@@ -21,4 +21,4 @@ Bounce Ball is an elegant, relaxing and inspiring puzzle game. Challenge your br
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Block, Shoot
+- Tags: Arcade, Ball, block, Shoot

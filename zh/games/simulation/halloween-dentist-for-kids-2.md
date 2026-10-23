@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 万圣节, mapi games, 怪物, 模拟, 僵尸
+- 标签: 万圣节, mapi games, monster, 模拟, 僵尸

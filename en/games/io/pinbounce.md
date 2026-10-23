@@ -19,6 +19,6 @@ Pinbounce Pinbounce is a pinball game with a minimalist design in which the play
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, Ball, Bounce, Classic, Game, HTML, HTML5, Hypercasual, Online, Physics, Pinball, Retro
+- Tags: .io Games, 1 Player, Ball, Bounce, Classic, Game, HTML, HTML5, Hypercasual, Online, Physics, Pinball, retro

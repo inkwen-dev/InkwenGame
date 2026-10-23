@@ -21,4 +21,4 @@ our goal in Survive The Glass Bridge game developed by meyagames.com team is to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Army, Casual, Crazy, Hypercasual, Jumping, Kids, Killing
+- Tags: 3D, Arcade, Army, Casual, crazy, Hypercasual, jumping, Kids, Killing

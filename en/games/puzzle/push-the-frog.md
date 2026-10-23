@@ -19,6 +19,6 @@ Control your little frog to eat all the mosquitoes. Master the length of the fro
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Brain, H5, Kids, Levels, Logic, Logical, Online

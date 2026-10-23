@@ -21,4 +21,4 @@ My Tiny Cute Piano is Interactive, colorful, and fun, it's designed to help your
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Family, Girls, HTML, HTML5, Kid, Mobile, Music
+- Tags: Clicker, Family, Girls, HTML, HTML5, Kid, Mobile, music

@@ -19,6 +19,6 @@ Slope Ufo is a game where you try to move forward in endless space without hitti
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Air, Best, Boys, Brain, Click, Cool, Escape, Girls, HTML5, Hypercasual, Obstacle, Platform, Point And Click
+- Tags: 2D, Air, Best, Boys, Brain, Click, cool, Escape, Girls, HTML5, Hypercasual, Obstacle, Platform, Point And Click

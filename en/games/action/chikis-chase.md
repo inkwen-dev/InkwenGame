@@ -19,6 +19,6 @@ Enjoy this entertaining new game CHIKIS CHASE is a casual game help the little c
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Hypercasual, Jumping, kiz10, running
+- Tags: Hypercasual, jumping, kiz10, running

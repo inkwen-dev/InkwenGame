@@ -21,4 +21,4 @@ Experience the real joy of cooking with TASTY WORLD — one of the best food man
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Burger, Cake, Candy, Chicken, Cook, Cooking, Fish, Food, Restaurant, Simulation, World
+- Tags: Burger, Cake, Candy, Chicken, Cook, Cooking, Fish, Food, restaurant, Simulation, World

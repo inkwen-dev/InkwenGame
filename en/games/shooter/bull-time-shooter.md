@@ -21,4 +21,4 @@ A fast-paced action shooter where bulls are the enemy and survival depends on qu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Animal, Bullet, fps, Shooter, Sniper
+- Tags: 3D, Animal, Bullet, fps, Shooter, sniper

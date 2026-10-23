@@ -21,4 +21,4 @@ Tired of boring, uninventive card games, mindless casino simulators and classic 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Collecting, Collection, Mahjong, Puzzle
+- Tags: 1 Player, 2D, Collecting, Collection, mahjong, Puzzle

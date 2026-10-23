@@ -19,6 +19,6 @@ Hungry Rabbit Arcade is an online arcade game full of fun and action. In our arc
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Game, Games, Platform

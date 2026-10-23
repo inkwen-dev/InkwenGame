@@ -21,4 +21,4 @@ CircleMatrix 是一款易于使用的游戏，适合所有年龄段的人，让�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 超休闲, 益智, 分拣
+- 标签: 单人, 超休闲, 益智, 整理

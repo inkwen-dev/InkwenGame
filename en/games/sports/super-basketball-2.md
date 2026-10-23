@@ -21,4 +21,4 @@ Use your mouse to play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Basketball, Boy, Boys, Family, Sport, Sports
+- Tags: Arcade, basketball, Boy, Boys, Family, Sport, sports

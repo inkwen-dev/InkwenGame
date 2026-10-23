@@ -21,4 +21,4 @@ In Real Truck Parking you have to drive a big truck without a body. The task is 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Boys, Driving, Parking, Simulator, Skill, Truck
+- Tags: 3D Games, Boys, Driving, parking, Simulator, Skill, truck

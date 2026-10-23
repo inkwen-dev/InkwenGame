@@ -19,6 +19,6 @@ Play as a farmer who got tired of the hard daily work at the farm. Jump into the
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, Car, Driving, HTML5, Mobile, Obstacle, Racing, Truck, vehicle
+- Tags: 2D, Android, Car, Driving, HTML5, Mobile, Obstacle, Racing, truck, vehicle

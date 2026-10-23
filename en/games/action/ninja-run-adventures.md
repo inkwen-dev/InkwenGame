@@ -19,6 +19,6 @@ Ninja Run Adventures is a jumping platform game where you need to control the ni
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collecting, jump, Jumping, Kids, Ninja, Platform
+- Tags: Collecting, jump, jumping, Kids, ninja, Platform

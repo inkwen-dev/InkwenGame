@@ -21,4 +21,4 @@ Come try your hand at our online Halloween game, Circle. See how high of a score
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Crazy, Funny, Game, Games, Halloween, HTML, HTML5, Online
+- Tags: 1 Player, 2D, crazy, Funny, Game, Games, Halloween, HTML, HTML5, Online

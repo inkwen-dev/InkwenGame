@@ -21,4 +21,4 @@ Welcome to the exciting and challenging world of &ldquo;Decipher,&rdquo; a game 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Puzzle, Word
+- Tags: educational, Puzzle, word

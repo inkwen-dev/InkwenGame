@@ -19,6 +19,6 @@ Charade 3D Game is a fun and entertaining party game that challenges your creati
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Adventure, Best Games, Fun, Puzzle, puzzleblock

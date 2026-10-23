@@ -19,6 +19,6 @@ Collect sheep in this Zuma-style game. Play as a herding dog and group sheep of 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Bubble Shooter, Farm, Zuma

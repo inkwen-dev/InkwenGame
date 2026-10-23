@@ -19,6 +19,6 @@ Jump and Run to save your Love in Jumping Ball Puzzle adventure games! Evil mini
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Bounce, Cool
+- Tags: 1 Player, 2D, Adventure, Arcade, Bounce, cool

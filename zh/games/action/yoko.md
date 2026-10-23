@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 收集, 跳跃, 马里奥, 像素, 平台, 跑酷
+- 标签: 收集, 跳跃, mario, 像素, 平台, 跑

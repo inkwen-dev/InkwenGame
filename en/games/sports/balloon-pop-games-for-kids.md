@@ -21,4 +21,4 @@ Play the cutest magic balloon free games for toddlers and little kids! Animals p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 8 Ball Pool, Arcade, Arena, Arkanoid, Army, Baby, Balance, Ball, Ballon, Barbie, Billiard, Board, Bounce, Boy, Boys, Game, Girl, Girls, Magic, Management
+- Tags: .io Games, 2 Player Games, 8 Ball Pool, Arcade, Arena, Arkanoid, Army, Baby, Balance, Ball, Ballon, Barbie, Billiard, Board, Bounce, Boy, Boys, Game, Girl, Girls, Magic, management

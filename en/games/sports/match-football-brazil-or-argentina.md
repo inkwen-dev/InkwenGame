@@ -21,4 +21,4 @@ Watch the Brazil versus Argentina match online by finding a reputable website th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Football, Fun, Funny, Game, Games, Highscore, HTML5, Online, Soccer, Sport, Sports
+- Tags: Arcade, Football, Fun, Funny, Game, Games, Highscore, HTML5, Online, Soccer, Sport, sports

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 有趣, HTML, HTML5, 儿童, 拼图, 问答, 学校, 模拟, 模拟器
+- 标签: 3D, 有趣, HTML, HTML5, 儿童, 益智, 问答, 学校, 模拟, 模拟器

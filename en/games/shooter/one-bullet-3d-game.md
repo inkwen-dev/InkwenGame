@@ -21,4 +21,4 @@ One Bullet 3D Game is an exciting action shooting game that tests your aim, timi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Action, Adventure, Best Games, Gun, Shooting, Sniper
+- Tags: 2026 games, Action, Adventure, Best Games, Gun, Shooting, sniper

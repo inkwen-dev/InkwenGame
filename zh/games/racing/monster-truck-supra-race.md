@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 最佳, 汽车, 汽车, 疯狂, 赛车, 超跑, 卡车, Unity3D, WebGL
+- 标签: 最佳, 汽车, 汽车, 疯狂, 竞速, 超跑, 卡车, Unity3D, WebGL

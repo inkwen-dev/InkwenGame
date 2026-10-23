@@ -19,6 +19,6 @@ Minicraft Duello is a 2 player TNT game where your mission is to explode your fr
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Action, Minecraft, Mobile

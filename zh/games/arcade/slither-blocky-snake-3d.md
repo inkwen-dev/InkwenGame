@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, Android, 最佳, 疯狂, HTML5, 我的世界, 移动设备, 滑行, 蛇, Unity3D, WebGL
+- 标签: 3D, 3D游戏, 安卓, 最佳, 疯狂, HTML5, 我的世界, 移动设备, 滑行, snake, Unity3D, WebGL

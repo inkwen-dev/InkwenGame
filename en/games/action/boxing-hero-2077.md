@@ -21,4 +21,4 @@ In Boxing Hero 2077, you step into the future of boxing as a rookie boxer strivi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Boxing, Fighting, idle, Skills
+- Tags: 3D Games, Boxing, fighting, idle, Skills

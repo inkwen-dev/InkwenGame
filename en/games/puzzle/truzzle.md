@@ -19,6 +19,6 @@ Do you like puzzle games? If you enjoy it, Triangle Puzzle Guru will give you a 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Puzzle

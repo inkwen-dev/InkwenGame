@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2026 games, Adventure, 最佳, Best Games, Casual, 疯狂, 逃脱, 轻度休闲, 思维, 益智, 贪吃蛇
+- 标签: 2026 游戏, 冒险, 最佳, 最佳游戏, 休闲, 疯狂, 逃脱, 超休闲, 思维, 益智, snake

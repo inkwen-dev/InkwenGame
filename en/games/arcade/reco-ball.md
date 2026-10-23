@@ -19,6 +19,6 @@ Reco Ball is a 2D cute little platformer where you play as a ball who have to co
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Ball, Cartoon, Collecting, Cute, Funny, jump, Jumping, Pixel, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Ball, Cartoon, Collecting, Cute, Funny, jump, jumping, pixel, retro

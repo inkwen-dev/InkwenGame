@@ -21,4 +21,4 @@ Push to Go &ndash; 一款有趣且令人上瘾的解谜冒险游戏！准备好�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 免费HTML5游戏供您的网站使用, 供您的网站使用的游戏, 适用于您网站的HTML游戏, 益智, WebGL
+- 标签: 免费HTML5游戏供您的网站使用, 你的网站上的游戏, HTML游戏供您的网站使用, 益智, WebGL

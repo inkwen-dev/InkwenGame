@@ -21,4 +21,4 @@ FZ Tank vs Tiles - HTML5 Games. You can choose color to shot. Try your best to g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Kid, Kids, Tank, Tanks
+- Tags: Arcade, Kid, Kids, Tank, tanks

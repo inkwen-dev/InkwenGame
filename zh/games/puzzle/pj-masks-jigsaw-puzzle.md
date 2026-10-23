@@ -21,4 +21,4 @@ Zazgames 是一个您可以无限玩在线拼图游戏的地方。我们希望�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 休闲, 涂色, 绘画, 逃脱, 游戏, 游戏, HTML, HTML5, 拼图, 益智
+- 标签: 2D, 休闲, 着色, 绘画, 逃脱, 游戏, 网页游戏, HTML, HTML5, 拼图, 益智

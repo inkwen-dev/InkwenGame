@@ -21,4 +21,4 @@ Pong Neon 是一款经典的乒乓球游戏，采用酷炫的霓虹主题。没�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 球, 运动, 网球
+- 标签: 球, 体育, 网球

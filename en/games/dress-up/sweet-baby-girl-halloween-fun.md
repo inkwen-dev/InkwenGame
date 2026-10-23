@@ -19,6 +19,6 @@ Halloween is coming! Play with Sweet Baby Girl and have the most adventurous and
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Coloring, Cute, Decorate, Decoration, Dress Up, Fun, Girl, Halloween, HTML5, Kids, Makeover, Mobile, Puzzle, Zombie

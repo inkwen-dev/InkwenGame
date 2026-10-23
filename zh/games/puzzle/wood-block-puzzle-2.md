@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 点击, 超休闲, Mentolatux, 益智, puzzleblock, 技巧
+- 标签: 点击, 超休闲, Mentolatux, 益智, 拼图块, 技巧

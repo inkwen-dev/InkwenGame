@@ -21,4 +21,4 @@ How are your cycling skills? Are you interested in challenging the ever-changing
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Arcade, Avoid, Bike, Boy, Highscore, jump, Kids, Mobile, Obstacle, Online
+- Tags: 1 Player, Adventure, Arcade, Avoid, bike, Boy, Highscore, jump, Kids, Mobile, Obstacle, Online

@@ -21,4 +21,4 @@ Combine fast-paced control and selected soundtracks. A unique world is construct
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Classic, Click, Clicker
+- Tags: Arcade, block, Classic, Click, Clicker

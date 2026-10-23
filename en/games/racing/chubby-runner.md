@@ -21,4 +21,4 @@ Chubby Runner is jump runner game where chubby kids need to jump over coming veh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Jumping, Puzzle, running
+- Tags: Car, jumping, Puzzle, running

@@ -32,4 +32,4 @@ Battle against intelligent AI opponents across three difficulty levels, or chall
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Multiplayer, penalty, Soccer, Sports
+- Tags: Arcade, Multiplayer, penalty, Soccer, sports

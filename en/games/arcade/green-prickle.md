@@ -21,4 +21,4 @@ Green Prickle is title of the game and as well as obstacles that must be overcom
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Ball, Casual, Click, Jumping, Logic
+- Tags: 1 Player, Arcade, Ball, Casual, Click, jumping, Logic

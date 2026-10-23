@@ -21,4 +21,4 @@ In this Halloween Jigsaw game you can choose your favorite images with Halloween
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Halloween, Jigsaw, Puzzle, Truck
+- Tags: Halloween, Jigsaw, Puzzle, truck

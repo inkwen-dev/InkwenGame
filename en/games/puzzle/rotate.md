@@ -19,6 +19,6 @@ In this game you can choose to play with a circle, triangle, square or hexagon. 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Ball, HTML5, Kids, Puzzle

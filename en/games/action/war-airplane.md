@@ -19,6 +19,6 @@ Destroy enemy planes. Collect all the bombs. Don't forget to take health supplie
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Boys, Fight, Flight, Fun, Game, HTML5, Plane, War
+- Tags: Action, Boys, Fight, flight, Fun, Game, HTML5, Plane, War

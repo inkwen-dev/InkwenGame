@@ -21,4 +21,4 @@ Roguelike RPG 是一款沉浸式冒险游戏，玩家将探索不断变化的 RP
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, Mentolatux, 角色扮演, Unity3D, WebGL
+- 标签: 动作, Mentolatux, rpg, Unity3D, WebGL

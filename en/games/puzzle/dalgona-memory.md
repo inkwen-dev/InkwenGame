@@ -21,4 +21,4 @@ This is a Memory Gamewith Dalgona Candies Figures, like: Star, Smile, Hexagon, C
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Logic, Memory
+- Tags: Logic, memory

@@ -19,6 +19,6 @@ Fish Hunt Saga is fun addictive hyper casual skill endless game. Catch fishes an
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Fish, Fishing, Hypercasual, Skill, Skills

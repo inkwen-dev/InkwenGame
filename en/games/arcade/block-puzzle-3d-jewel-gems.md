@@ -19,6 +19,6 @@ Block Puzzle - Jewel Gems 3D is the best online puzzle game you can play anytime
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Hypercasual, Puzzle, Tetris
+- Tags: Arcade, block, Hypercasual, Puzzle, tetris

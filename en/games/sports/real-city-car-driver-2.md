@@ -19,6 +19,6 @@ Welcome to the new exciting crazy car stunt game . Golden guns offer you the bes
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, Baseball, Basketball, bus, Car, Cars, Casino, Castle, Christmas, Game, Games, Love, Mermaid, Race, Racing, Supercars, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, baseball, basketball, bus, Car, Cars, Casino, Castle, Christmas, Game, Games, Love, Mermaid, Race, Racing, Supercars, truck

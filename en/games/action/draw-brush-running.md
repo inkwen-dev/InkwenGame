@@ -21,4 +21,4 @@ In the game, you can freely master your own color pen and successfully complete 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Draw, Drawing, Mind
+- Tags: 3D, 3D Games, Adventure, Draw, drawing, Mind

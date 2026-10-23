@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 卡片, 休闲, 手机
+- 标签: 3D, 3D游戏, 卡牌, 休闲, 移动设备

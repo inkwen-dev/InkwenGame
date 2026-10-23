@@ -21,4 +21,4 @@ Stickman Race 3D is New Race 3D Game with Opponent Stickman Players , Run , Jump
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Casual, Game, Hypercasual, jump, Jumping, run, running, Stickman
+- Tags: 3D, Casual, Game, Hypercasual, jump, jumping, run, running, stickman

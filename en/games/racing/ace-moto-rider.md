@@ -21,4 +21,4 @@ Here is a first-person motorbike driving 3D game. In fact, it is a skillful avoi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Bike, Boy, Driving, HTML5, Kid, Mobile, Motorcycle, Racing, Simulation
+- Tags: 3D, Avoid, bike, Boy, Driving, HTML5, Kid, Mobile, Motorcycle, Racing, Simulation

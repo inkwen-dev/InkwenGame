@@ -19,6 +19,6 @@ Best game NAME for Lover NAME NAME is awesome game coloring book for kids with c
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adult, Arcade, Boys, Cartoon, Cartoon Network, Color, Coloring, Educational, Game, Girls, Kids, Online, Puzzle, RPG
+- Tags: 2D, Adult, Arcade, Boys, Cartoon, Cartoon Network, Color, Coloring, educational, Game, Girls, Kids, Online, Puzzle, rpg

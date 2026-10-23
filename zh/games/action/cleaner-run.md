@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, 女生, 跑步, Unity3D
+- 标签: 3D, 3D游戏, 女孩, 奔跑, Unity3D

@@ -15,6 +15,6 @@ Immerse yourself in Astra Shooter 3D, where precision and timing define your suc
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Shooter

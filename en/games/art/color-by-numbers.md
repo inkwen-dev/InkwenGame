@@ -21,4 +21,4 @@ Each pixel block has a number inside. You can just color by number, and you’ll
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Color, Coloring, Educational, Kids, Quiz
+- Tags: block, Color, Coloring, educational, Kids, Quiz

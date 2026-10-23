@@ -21,4 +21,4 @@ Shopping Mall Girl - Supermarket Shopping Games 3D Be the shopping mall girl lov
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, Action, Mario, Simulation, Simulator, WebGL
+- Tags: .io Games, 1 Player, Action, mario, Simulation, Simulator, WebGL

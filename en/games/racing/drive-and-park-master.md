@@ -21,4 +21,4 @@ Drive through busy streets, find the perfect parking spot, and slide into positi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Car, city, Driving, Parking, Skill
+- Tags: 3D, Arcade, Car, city, Driving, parking, Skill

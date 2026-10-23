@@ -19,6 +19,6 @@ THE REAL DRIFTING SIMULATOR - Drift Racing gives you a uniquely simple and intui
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: drift, drifting, Driving, Halloween, Holiday, Memory
+- Tags: drift, drifting, Driving, Halloween, Holiday, memory

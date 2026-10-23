@@ -21,4 +21,4 @@ This is a collection of games for toddlers. Our games offer a variety of game mo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collection, Educational, eggs, Relaxation
+- Tags: Collection, educational, eggs, Relaxation

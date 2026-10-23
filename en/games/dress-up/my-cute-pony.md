@@ -21,4 +21,4 @@ All girls love ponies. It is so much fun to beautify them, feed them and spend t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Dress Up, Fun, Funny, Game, Girl, Girls, Horse, HTML5, Magic, Pony
+- Tags: Animal, Dress Up, Fun, Funny, Game, Girl, Girls, horse, HTML5, Magic, Pony

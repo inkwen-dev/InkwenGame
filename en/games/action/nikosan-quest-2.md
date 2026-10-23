@@ -21,4 +21,4 @@ Nikosan Quest 2 is a 2D platformer where you play as an anime girl called Nikosa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Collecting, Cute, Girl, jump, Jumping, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Collecting, Cute, Girl, jump, jumping, pixel, Platform, retro

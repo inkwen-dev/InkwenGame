@@ -19,6 +19,6 @@ Welcome to the amazing magical world of solitaire! Here you can make yourself at
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Mahjong, Solitaire
+- Tags: 1 Player, 2D, mahjong, solitaire

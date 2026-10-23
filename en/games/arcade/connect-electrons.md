@@ -19,6 +19,6 @@ Connect Electrons is fun html5 game and you can play it for free. The aim of the
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Fun, HTML5, Puzzle, Skill

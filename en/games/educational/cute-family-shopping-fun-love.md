@@ -21,4 +21,4 @@ Cute Family Shopping is a very fun shopping game. Abundant merchandise departmen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Boy, Boys, Educational, Family, Fun, Girl, Girls, H5, HTML5, Hypercasual, Shopping
+- Tags: Baby, Boy, Boys, educational, Family, Fun, Girl, Girls, H5, HTML5, Hypercasual, Shopping

@@ -19,6 +19,6 @@ Play Paper Racers game in your web browser for free at Superkidgames.com and mor
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Avoid, Cartoon, Crafting, HTML5, Mobile, Race, Racing, subway, Supercars

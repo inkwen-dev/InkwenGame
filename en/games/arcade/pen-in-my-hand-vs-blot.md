@@ -21,4 +21,4 @@ Pen in my hand vs Blot - in this game you need to draw a line avoiding obstacles
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Cool, Game, HTML5
+- Tags: 1 Player, Arcade, cool, Game, HTML5

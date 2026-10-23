@@ -19,6 +19,6 @@ Halloween Puzzle Game is a simple remake of classic Lines matching game. It's ad
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Halloween, Kids, Match 3, Monster, Puzzle
+- Tags: Halloween, Kids, Match 3, monster, Puzzle

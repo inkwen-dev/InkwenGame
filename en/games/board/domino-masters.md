@@ -21,4 +21,4 @@ Dominate the board in this four-player Dominoes game that runs seamlessly in you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Board, Brain, Casual, Classic, Crazy, Educational, kiz10, Logic, Logical
+- Tags: Best Games, Board, Brain, Casual, Classic, crazy, educational, kiz10, Logic, Logical

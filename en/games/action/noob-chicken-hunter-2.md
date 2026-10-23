@@ -15,6 +15,6 @@ Escape a perilous forest in Noob Chicken Hunter, where nimble maneuvering and sh
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: platformer

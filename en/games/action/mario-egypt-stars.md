@@ -19,6 +19,6 @@ Mario Egypt Stars is a brand new html5 game featuring your beloved superhero, wh
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping, Mario, Obstacle, Platform, running, Superhero
+- Tags: jumping, mario, Obstacle, Platform, running, Superhero

@@ -21,4 +21,4 @@ Move Color Jump 2 is a free online fun and puzzle game. Flat Jumper 2 is a game 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Color, jump, Jumping, Puzzle
+- Tags: Ball, Color, jump, jumping, Puzzle

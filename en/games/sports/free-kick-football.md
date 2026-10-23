@@ -19,6 +19,6 @@ Ultra-fast multiplayer free-kick action: this is Football Strike! ... Take on Ca
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Football, HTML, HTML5, Shoot, Shooting, Sport, Sports
+- Tags: 1 Player, 3D, 3D Games, Football, HTML, HTML5, Shoot, Shooting, Sport, sports

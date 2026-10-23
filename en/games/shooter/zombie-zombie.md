@@ -19,6 +19,6 @@ Zombie Shooter Lemmy vs Zombies - is a pixeled 2D bloodbath of zombie apocalypse
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Blood, Bomb, Clash, Gun, Killing, Shooting, Zombie

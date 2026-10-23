@@ -19,6 +19,6 @@ Skygarden Siege is a casual arcade shmup where nature fights back against the Ir
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Aircraft, Arcade, attack, Battle, Bullet, Classic, Enemies, Shoot 'Em Up
+- Tags: Aircraft, Arcade, attack, battle, Bullet, Classic, Enemies, Shoot 'Em Up

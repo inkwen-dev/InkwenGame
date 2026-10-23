@@ -21,4 +21,4 @@ Are you into Paw Patrol ? Paw Patrol Coloring Book: A Stunning Coloring Book Inc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Cartoon, Color, Coloring, Draw, Drawing, Kids, Online, Puzzle
+- Tags: Arcade, Cartoon, Color, Coloring, Draw, drawing, Kids, Online, Puzzle

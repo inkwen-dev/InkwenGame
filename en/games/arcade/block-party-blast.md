@@ -21,4 +21,4 @@ Block Party Blast is the most satisfying block puzzle game youll play! Place col
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Block, Casual, Color, Coloring, endless, Fun, Funny, Hypercasual, Levels, Puzzle, puzzleblock
+- Tags: 1 Player, 2D, Arcade, block, Casual, Color, Coloring, endless, Fun, Funny, Hypercasual, Levels, Puzzle, puzzleblock

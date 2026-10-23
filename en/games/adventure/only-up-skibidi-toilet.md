@@ -21,4 +21,4 @@ Going up as far as possible, as sikibidi toilet jump around to be the top
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, jump, Jumping, OnlyUp, Skibidi, Skibidi Toilet, Skill
+- Tags: Action, Adventure, jump, jumping, OnlyUp, Skibidi, skibidi-toilet, Skill

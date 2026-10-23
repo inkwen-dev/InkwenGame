@@ -19,6 +19,6 @@ Get ready to embark on an exciting and action-packed journey with Drift Master. 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Arcade, Best, Best Games, Car, Cars, Crazy, drift, drifting, Driving, free games for your website, games for your website
+- Tags: 1 Player, 3D, Action, Arcade, Best, Best Games, Car, Cars, crazy, drift, drifting, Driving, free games for your website, games for your website

@@ -21,4 +21,4 @@ Destroy the slime aliens and explore magic space maze in Doom Dr SciFi Shooter.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting, Shooter, Shooting, WebGL
+- Tags: Fight, fighting, Shooter, Shooting, WebGL

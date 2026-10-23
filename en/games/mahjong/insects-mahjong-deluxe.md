@@ -21,4 +21,4 @@ Simplified classic Mahjong game with Insects theme. You can eliminate pair of si
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Board, HTML5, Mahjong, Matching, Mobile, Puzzle
+- Tags: Arcade, Board, HTML5, mahjong, Matching, Mobile, Puzzle

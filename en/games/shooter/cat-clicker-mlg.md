@@ -19,6 +19,6 @@ Cat Clicker MLG combines 2 aspects of gaming everyone loves: clicker games and M
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cat, Click, Clicker, Cool, Fun, Funny
+- Tags: Cat, Click, Clicker, cool, Fun, Funny

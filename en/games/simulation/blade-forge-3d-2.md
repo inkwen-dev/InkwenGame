@@ -15,6 +15,6 @@ Enter the intense world of Blade Forge 3D, where creativity meets combat. As the
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Simulation

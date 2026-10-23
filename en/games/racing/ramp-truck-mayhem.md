@@ -21,4 +21,4 @@ Unleash the roar of the monster truck Bandit as you launch off massive wooden ra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Driving, monstertruck, Racing, Truck, Unity3D, WebGL
+- Tags: Car, Driving, monstertruck, Racing, truck, Unity3D, WebGL

@@ -19,6 +19,6 @@ Princess Milana decided to immerse herself in the traditions of Japanese fashion
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Celebrity, Cute, Decorate, Decoration, Design, Disney, Dress Up, Fashion, Girl, Hair, HTML5, Makeover, Princess, Samurai

@@ -21,4 +21,4 @@ Zazgames 是一个你可以无限玩在线拼图游戏的地方。看看你能�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 拼图, 谜题
+- 标签: 拼图, 益智

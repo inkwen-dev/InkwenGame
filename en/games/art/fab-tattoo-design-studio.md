@@ -21,4 +21,4 @@ Get ready to feel the satisfaction of watching your art become real tattoos! Rel
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Drawing, Puzzle
+- Tags: Adventure, drawing, Puzzle

@@ -19,6 +19,6 @@ Medieval themed stickman defense game with lots of action.
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Stickman
+- Tags: 1 Player, stickman

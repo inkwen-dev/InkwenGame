@@ -21,4 +21,4 @@ Our angry grandmother is back again and you'll be on the run. But this time she 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Adventure, HTML5, jump, Jumping, Race, Racing, run, running, subway, Subway Surfers
+- Tags: 3D Games, Action, Adventure, HTML5, jump, jumping, Race, Racing, run, running, subway, Subway Surfers

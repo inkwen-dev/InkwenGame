@@ -19,6 +19,6 @@ Tower Platformer 3D is a simple 3D platform game where you climb a huge ruined t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Jumping, Obstacle
+- Tags: Adventure, jumping, Obstacle

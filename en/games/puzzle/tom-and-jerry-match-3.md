@@ -21,4 +21,4 @@ Tom And Jerry Match 3 – this cool game three in a row, in which you have to pu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Kids, Memory, Mobile, Puzzle
+- Tags: Fun, HTML5, Kids, memory, Mobile, Puzzle

@@ -19,6 +19,6 @@ Get ready for an extremely new, simple, original, but at the same time challengi
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D, 3D Games, 8 Ball Pool, Batman, Bejeweled, Classic, Crazy, Fun, Hypercasual, Kids, Puzzle, Wizard, World
+- Tags: .io Games, 1 Player, 3D, 3D Games, 8 Ball Pool, Batman, Bejeweled, Classic, crazy, Fun, Hypercasual, Kids, Puzzle, Wizard, World

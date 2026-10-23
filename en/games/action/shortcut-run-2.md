@@ -19,6 +19,6 @@ Race against opponents, and stack up all the floorboards you can pick up along t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Anime, Arcade, Balance, Casual, Game, Games, jump, Jumping, Mind, run, running, Strategy, Super, Superhero
+- Tags: 3D, 3D Games, Adventure, Anime, Arcade, Balance, Casual, Game, Games, jump, jumping, Mind, run, running, strategy, Super, Superhero

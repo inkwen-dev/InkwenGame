@@ -21,4 +21,4 @@ Shoot and score with Dunk Challenge, a 2D basketball game that will make you bou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Basketball, Boys, Casual, Girls, Highscore, Kids
+- Tags: 2D, basketball, Boys, Casual, Girls, Highscore, Kids

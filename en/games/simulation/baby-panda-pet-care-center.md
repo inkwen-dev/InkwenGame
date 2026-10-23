@@ -21,4 +21,4 @@ Baby Panda Pet Care Center is an interesting educational game. In this game, you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational
+- Tags: educational

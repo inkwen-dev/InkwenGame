@@ -21,4 +21,4 @@ Fashion Beauty and makeup Coloring Book For Kids is a free drawing game for your
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Draw, Drawing, Fashion, Kids, Makeover
+- Tags: Color, Coloring, Draw, drawing, Fashion, Kids, Makeover

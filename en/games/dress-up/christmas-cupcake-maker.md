@@ -21,4 +21,4 @@ Sofia's cake shop is very popular among girls, she often makes beautiful and del
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cake, Christmas, Cooking, Decorate, Design, Dress Up, Educational, Fashion, Girl, Girls, Holiday, Kids, Simulation
+- Tags: Cake, Christmas, Cooking, Decorate, Design, Dress Up, educational, Fashion, Girl, Girls, Holiday, Kids, Simulation

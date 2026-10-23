@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 敌人, 有趣, 音乐, 节奏
+- 标签: 敌方, 有趣, 音乐, 节奏

@@ -15,6 +15,6 @@ Heal and nurture an adorable puppy back to health in Funny Puppy Care. Enjoy bat
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Dress Up

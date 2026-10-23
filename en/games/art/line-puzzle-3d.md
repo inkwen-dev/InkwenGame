@@ -19,6 +19,6 @@ Line Puzzle 3D is a creative drawing game where you guide a pencil to trace 3D s
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Draw, Drawing, Hypercasual, Puzzle
+- Tags: Casual, Draw, drawing, Hypercasual, Puzzle

@@ -21,4 +21,4 @@ Baby Supermarket is a vibrant and educational game designed for young children, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Games, Educational, Kid, Kids, NapTech Games
+- Tags: Baby Games, educational, Kid, Kids, NapTech Games

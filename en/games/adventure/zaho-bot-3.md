@@ -15,6 +15,6 @@ Guide your robot through a labyrinth of high-tech dangers in Zaho Bot, a thrilli
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

@@ -19,6 +19,6 @@ Cube Battle Royale is actually a third-person shooting simulation game with 3D p
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Battlegrounds, Boy, Boys, Fight, Fighting, Fun, H5, HTML5, Kid, Kids, Monster, Shoot, Shooting
+- Tags: battle, Battlegrounds, Boy, Boys, Fight, fighting, Fun, H5, HTML5, Kid, Kids, monster, Shoot, Shooting

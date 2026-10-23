@@ -21,4 +21,4 @@ COLOR ROAD - 点击并按住以绘制道路。道路上有许多障碍物，务�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 涂色
+- 标签: 街机, 颜色

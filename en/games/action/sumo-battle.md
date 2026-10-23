@@ -21,4 +21,4 @@ Sumo wrestlers break all the canons of the sport; they do not look slender, musc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Battle, Fight, Fighting, Funny, sumo
+- Tags: 3D, 3D Games, Arcade, battle, Fight, fighting, Funny, sumo

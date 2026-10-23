@@ -21,4 +21,4 @@ Minecraft Mario Jigsaw Puzzle is an online jigsaw html5 game that you can play f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Jigsaw, Kids, Mario, Minecraft, Puzzle, Skill
+- Tags: Fun, HTML5, Jigsaw, Kids, mario, Minecraft, Puzzle, Skill

@@ -21,4 +21,4 @@ Winter Snow Plough Puzzle is a free online game from the genre of puzzle and jig
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle, Snow, Truck, Winter
+- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle, Snow, truck, Winter

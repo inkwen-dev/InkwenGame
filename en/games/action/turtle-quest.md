@@ -19,6 +19,6 @@ Explore the mysterious adventure, collect Yellow Liquid to save Master and Beat 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Casual, Platform

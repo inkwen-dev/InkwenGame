@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 进食, 食物, 女生, Unity3D, WebGL
+- 标签: 街机, 进食, 食物, 女孩, Unity3D, WebGL

@@ -19,6 +19,6 @@ Hey do you want to become a hand doctor? Wearing stethoscope and looking profess
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Doctor, Family, Girl, Girls, Simulator

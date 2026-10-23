@@ -19,6 +19,6 @@ Welcome to another awesome demolition single player and multiplayer. This time i
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Race, Racing, Skill, Skills, Unity3D, WebGL

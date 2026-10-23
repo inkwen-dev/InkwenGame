@@ -21,4 +21,4 @@ Can you keep Pilot Ryan flying? In this high-octane action game, youll be dodgin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: airplane, Battle, Bomb
+- Tags: airplane, battle, Bomb

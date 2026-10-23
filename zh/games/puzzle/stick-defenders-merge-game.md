@@ -21,4 +21,4 @@ Stick Defenders 是一款动作与合并类游戏，你可将木人单位合并�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 男孩们, 有趣, 技巧, 忍者
+- 标签: 动作, 男孩们, 有趣, 技能, 木偶人

@@ -21,4 +21,4 @@ This is a real-time strategy tower defense game. You need to deploy your troops 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Defense, Strategy, War
+- Tags: 3D, Action, Defense, strategy, War

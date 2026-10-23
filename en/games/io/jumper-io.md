@@ -21,4 +21,4 @@ Jump.io this is a very fun game. In this game you need to use all your skill and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Boy, Boys, Casual, HTML5, Hypercasual, jump, Jumping, run, running, Skill, Skills, WebGL
+- Tags: 3D, Arcade, Boy, Boys, Casual, HTML5, Hypercasual, jump, jumping, run, running, Skill, Skills, WebGL

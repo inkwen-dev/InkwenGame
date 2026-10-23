@@ -21,4 +21,4 @@ It is one of the most fun games. Select your ball and start to break the ground 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Casual, Fun, Hypercasual, Jumping
+- Tags: 1 Player, 3D, Action, Casual, Fun, Hypercasual, jumping

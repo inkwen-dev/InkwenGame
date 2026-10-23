@@ -35,4 +35,4 @@ Soldiers block the way, but everything around you can become a weapon. Grab enem
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Monster, Physics, Puzzle
+- Tags: 3D, Action, monster, Physics, Puzzle

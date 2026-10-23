@@ -19,6 +19,6 @@ Stacky Dash is an arcade relaxing game. To gather ample bricks and arrive at the
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Block, Casual, Collecting, Game, Kid, Kids, run
+- Tags: 3D, Arcade, block, Casual, Collecting, Game, Kid, Kids, run

@@ -19,6 +19,6 @@ Little Panda Birthday Party is an APP that helps babies learn to love and share.
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Cake, Cooking, Cute, Decorate, Design, Dress Up, Fashion, Girl, Girls, Kids, Makeover, Simulation

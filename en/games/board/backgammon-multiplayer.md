@@ -19,6 +19,6 @@ Backgammon Multiplayer is a HTML5 Board Game. Enjoy this stylish version of the 
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Logic, Strategy, Turn, Turn Based
+- Tags: Board, Logic, strategy, Turn, Turn Based

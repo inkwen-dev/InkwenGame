@@ -21,4 +21,4 @@ Welcome to the Super Mario universe! Our legendary hero lives in a beautiful and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jigsaw, Mario
+- Tags: Jigsaw, mario

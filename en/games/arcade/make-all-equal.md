@@ -21,4 +21,4 @@ Each level has boxes with numbers in them. There is a target number listed at th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Educational, HTML5, Mobile, Number, Puzzle, School
+- Tags: Arcade, educational, HTML5, Mobile, Number, Puzzle, School

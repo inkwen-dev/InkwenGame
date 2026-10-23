@@ -19,6 +19,6 @@ The Magic Girl Fighting Angels is a magic parkour game, which tests the reaction
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Casual, Fun, Girl, Girls, Google, H5, HTML5, Hypercasual, Kid, Kids, Play, Race, run, Sport, War, Witch

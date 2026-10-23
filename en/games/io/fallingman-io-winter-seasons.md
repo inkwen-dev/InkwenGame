@@ -19,6 +19,6 @@ In this Fallingman.io Game, which consists of 3 different Trails, you have to tr
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, Adventure, Arcade, Multiplayer

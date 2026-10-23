@@ -21,4 +21,4 @@ Break into the world of thrilling 2D top-down shooter Tanks of the Galaxy and ta
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Race, Racing, Tank, Tanks
+- Tags: battle, Race, Racing, Tank, tanks

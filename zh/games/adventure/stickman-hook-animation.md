@@ -23,4 +23,4 @@ Stickman Hook 是一款有趣的遊戲，讓你可以測試自己的技巧。你
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 芭比, 点击, 点击器, HTML, HTML5, 超休闲, 思维, 小人
+- 标签: 冒险, 芭比, 点击, 点击器, HTML, HTML5, 超休闲, 思维, 木偶人

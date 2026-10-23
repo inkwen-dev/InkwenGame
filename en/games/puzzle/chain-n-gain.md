@@ -21,4 +21,4 @@ Try this cute casual puzzle game. Connect matching items in chains for explosive
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Casual, Collecting, Highscore, Kid, Kids, Level, Levels, Logic, Matching, Mobile, Puzzle, Relaxation, Turn Based
+- Tags: block, Casual, Collecting, Highscore, Kid, Kids, Level, Levels, Logic, Matching, Mobile, Puzzle, Relaxation, Turn Based

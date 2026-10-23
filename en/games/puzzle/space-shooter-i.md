@@ -21,4 +21,4 @@ Save the galaxy from SpaceShooter We need your help! Our galaxy is attacked by e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Bubble Shooter, Shooter, sky, Space, Spaceship
+- Tags: battle, Bubble Shooter, Shooter, sky, Space, Spaceship

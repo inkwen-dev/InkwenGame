@@ -19,6 +19,6 @@ You need to go through all 80 levels to free all 80 pandas. Use jokers and bonus
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Card, Girl, Logic, Puzzle
+- Tags: Animal, card, Girl, Logic, Puzzle

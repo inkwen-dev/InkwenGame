@@ -15,6 +15,6 @@ Dive into Number Merge, a fast-paced twist on 2048. Swipe to merge tiles, build 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: 2048

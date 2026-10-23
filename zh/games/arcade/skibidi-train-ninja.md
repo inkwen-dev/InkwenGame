@@ -21,4 +21,4 @@ Skibidi 电车忍者是一款令人兴奋的移动端游戏，玩家将化身敏
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 跳跃, 忍者, Skibidi, Skibidi Toilet, 火车
+- 标签: 街机, 跳跃, 忍者, Skibidi, skibidi-toilet, 火车

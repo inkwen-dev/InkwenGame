@@ -19,6 +19,6 @@ You love the Tetris game, you also love the Halloween holiday! This game is dedi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Brain, Casual, Halloween, HTML, HTML5, Puzzle

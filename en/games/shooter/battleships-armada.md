@@ -19,6 +19,6 @@ Diplomacy is over! Let the bombs rain over your enemy’s fleet and prove your s
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Board, Classic, Game, HTML5, Strategy, Turn Based
+- Tags: battle, Board, Classic, Game, HTML5, strategy, Turn Based

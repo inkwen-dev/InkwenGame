@@ -19,6 +19,6 @@ Bomb Evolution is an exhilarating cannon shooting arcade game that boasts vibran
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Bomb, Boy, Collecting, Girl, Kid, running

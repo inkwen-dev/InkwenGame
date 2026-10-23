@@ -19,6 +19,6 @@ Halloween is coming! Are you ready to plunge into the spine-chilling atmosphere 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Funny, Halloween, Kids, Matching, Memory, Skills
+- Tags: Best Games, Funny, Halloween, Kids, Matching, memory, Skills

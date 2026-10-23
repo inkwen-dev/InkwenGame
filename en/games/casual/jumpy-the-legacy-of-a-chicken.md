@@ -19,6 +19,6 @@ A little nervous chicken, which has been affected by hormones, is ready to escap
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Baby, Boy, Boys, Chicken, Click, Clicker, Game, Games, Girl, Girls, jump, Jumping, Mobile, Point And Click, Timing
+- Tags: 1 Player, 2D, Baby, Boy, Boys, Chicken, Click, Clicker, Game, Games, Girl, Girls, jump, jumping, Mobile, Point And Click, Timing

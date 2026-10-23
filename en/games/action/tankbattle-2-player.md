@@ -21,4 +21,4 @@ Are you ready for the battle of tanks? Its duel time, the tanks are going to war
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Battle, Tank, Tanks
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, battle, Tank, tanks

@@ -21,4 +21,4 @@ Shisen-sho is a mahjong puzzle game to remove all mahjong tiles according to rul
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Mahjong, Puzzle, Solitaire
+- Tags: Casual, mahjong, Puzzle, solitaire

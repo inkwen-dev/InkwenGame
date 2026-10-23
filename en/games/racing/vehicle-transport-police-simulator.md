@@ -21,4 +21,4 @@ Vehicle Transport Police Simulator is an action-packed game where players drive 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, bus, Car, Cars, Driving, Mentolatux, military, Simulation, Truck, Unity3D, WebGL
+- Tags: Army, bus, Car, Cars, Driving, Mentolatux, military, Simulation, truck, Unity3D, WebGL

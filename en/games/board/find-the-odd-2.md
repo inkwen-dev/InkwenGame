@@ -21,4 +21,4 @@ It is a colorful puzzle game, in which you need to find 1 different item from a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Educational, Hidden, HTML5, Kids, Mobile, Puzzle, School
+- Tags: Board, educational, Hidden, HTML5, Kids, Mobile, Puzzle, School

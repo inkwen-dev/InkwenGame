@@ -19,6 +19,6 @@ Prepare for a near impossible challenge in the world of Xtreme Spike Jumping Squ
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: jump, Skill

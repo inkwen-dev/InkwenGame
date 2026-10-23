@@ -21,4 +21,4 @@ Sam Up 是一款 HTML5 飞行射击游戏
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 冒险, 街机, 点击, 无尽, HTML5, 休闲, 怪物
+- 标签: 单人, 2D, 冒险, 街机, 点击, 无尽, HTML5, 超休闲, monster

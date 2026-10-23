@@ -21,4 +21,4 @@ Best jigsaw game with Rapunzel! Enjoy lot of fun with this puzzle jigsaw game!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Disney, Educational, Girl, Girls, H5, HTML5, Jigsaw, Princess, Puzzle
+- Tags: Casual, Disney, educational, Girl, Girls, H5, HTML5, Jigsaw, Princess, Puzzle

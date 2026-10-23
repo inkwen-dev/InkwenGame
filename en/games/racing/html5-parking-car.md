@@ -19,6 +19,6 @@ Drive the car to the spot parking slot. Avoid any collision with other cars or w
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Driving, HTML5, Mobile, Parking, Race, Racing
+- Tags: Car, Cars, Driving, HTML5, Mobile, parking, Race, Racing

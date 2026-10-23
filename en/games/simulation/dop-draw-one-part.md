@@ -21,4 +21,4 @@ Draw the missing part and use your brain to pass the puzzles of the game. Drawin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Brain, Draw, Drawing, Math, Memory, Mind, Puzzle, Simulation
+- Tags: 1 Player, Brain, Draw, drawing, math, memory, Mind, Puzzle, Simulation

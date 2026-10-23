@@ -19,6 +19,6 @@ Italian Brainrot Tung Tung Sahur Anomaly offers a whimsical twist on the classic
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brainrot, Chicken, Italian Brainrot, Minecraft, Tung Tung Tung, Tung Tung Tung Sahur

@@ -19,6 +19,6 @@ This is the most beautiful dress up games in 2018, you have your own fashion sal
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Barbie, Dress Up, Fun, Game, Games, Girl, Girls, Makeover

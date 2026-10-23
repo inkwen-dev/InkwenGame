@@ -21,4 +21,4 @@ Tyran.io 是一款以恐龙为主题的大逃杀游戏。成为最后存活的�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 动物, 战斗, Dino, 多人游戏, 射击, 武器
+- 标签: .io 游戏, 动物, 战斗, Dino, 多人, 射击类, 武器

@@ -19,6 +19,6 @@ How to Cubes King Game Tap to Fill Blocks and Cubes Fill Blocks and Cubes like K
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boy, Boys, Brain, HTML5, Logic, Logical, WebGL

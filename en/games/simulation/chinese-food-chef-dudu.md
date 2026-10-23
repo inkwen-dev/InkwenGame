@@ -19,6 +19,6 @@ Are you a fan of Chinese food? Do you want to discover the mystery of delicious 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Food, Restaurant, Simulation
+- Tags: Food, restaurant, Simulation

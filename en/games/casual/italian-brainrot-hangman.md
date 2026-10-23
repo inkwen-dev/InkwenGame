@@ -19,6 +19,6 @@ Your friends tung tung tung sahur, tralaleo tralala, and more need your help to 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Fun, Memory
+- Tags: Clicker, Fun, memory

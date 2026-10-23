@@ -19,6 +19,6 @@ Penguin Love Puzzle &ndash; Template for Construct 3 is a game Arcade it&rsquo;s
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adult, Adventure, Android, Arcade, Arena, iPhone, Platform, Puzzle

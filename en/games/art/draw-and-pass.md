@@ -21,4 +21,4 @@ Draw and Pass is a fun drawing puzzle game with 50 different images featuring in
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Best, Draw, Drawing, Funny, Kids, Puzzle, Skill
+- Tags: 2D, Best, Draw, drawing, Funny, Kids, Puzzle, Skill

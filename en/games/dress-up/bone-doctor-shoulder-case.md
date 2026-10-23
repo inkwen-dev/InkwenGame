@@ -21,4 +21,4 @@ Oouch, our cheerleader took a tumble and hurt her shoulder. Help fix her up with
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Dress Up, Simulation, Surgery
+- Tags: Doctor, Dress Up, Simulation, surgery

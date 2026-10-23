@@ -21,4 +21,4 @@ Armored Wolf - 2D tank shooter with a very addictive gameplay, made in the best 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Shoot, Shoot 'Em Up, Shooter, Shooting, Tank, Tanks, War
+- Tags: Shoot, Shoot 'Em Up, Shooter, Shooting, Tank, tanks, War

@@ -19,6 +19,6 @@ Ninjatris is a merge numbers game. You have to merge two same numbers. The numbe
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Fun, Matching, Math, Mobile, Number, Puzzle
+- Tags: 1 Player, Fun, Matching, math, Mobile, Number, Puzzle

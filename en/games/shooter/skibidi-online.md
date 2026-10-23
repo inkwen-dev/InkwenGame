@@ -21,4 +21,4 @@ Skibidi Online is a multiplayer shooter game! Shoot attacking Skibidi Toilets in
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Multiplayer, Shooter, Skibidi, Skibidi Toilet
+- Tags: .io, .io Games, 3D, 3D Games, Action, Multiplayer, Shooter, Skibidi, skibidi-toilet

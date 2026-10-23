@@ -21,4 +21,4 @@ These bees are dangerous! Doge is in danger! Could you protect Doge from the bad
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 2D, Action, Adventure, Arcade, Casino, Casual, Hypercasual, jump, Jumping
+- Tags: .io, 2D, Action, Adventure, Arcade, Casino, Casual, Hypercasual, jump, jumping

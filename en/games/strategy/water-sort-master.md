@@ -21,4 +21,4 @@ Water Sort Master is the ultimate liquid puzzle game! Test your brain with 6 uni
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, Brain, Casual, Color, HTML5, html5 games, Logic, Mobile, Puzzle, Relaxation, sort, Strategy, water
+- Tags: 1 Player, 2025 games, Brain, Casual, Color, HTML5, html5 games, Logic, Mobile, Puzzle, Relaxation, sort, strategy, water

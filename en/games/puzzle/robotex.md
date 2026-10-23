@@ -19,6 +19,6 @@ During the clashes with their opponents, many transformers received serious dama
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, HTML5, Kids, Mobile, Puzzle, Robot, Skill

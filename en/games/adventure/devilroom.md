@@ -19,6 +19,6 @@ DevilComing is a 2D survival gamePlayers will play a human and survive in Devils
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Ghost, Halloween, survival

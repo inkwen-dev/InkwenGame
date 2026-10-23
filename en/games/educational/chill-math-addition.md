@@ -21,4 +21,4 @@ In this game, a winter image is hidden beneath addition expression tiles. Player
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, html5 games, Math, Mobile, Puzzle, School
+- Tags: educational, html5 games, math, Mobile, Puzzle, School

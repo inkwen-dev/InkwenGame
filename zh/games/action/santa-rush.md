@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 圣诞节, 无尽, HTML5, 跳跃, 平台, 跑步, Stickman
+- 标签: 圣诞节, 无尽, HTML5, 跳跃, 平台, 奔跑, 木偶人

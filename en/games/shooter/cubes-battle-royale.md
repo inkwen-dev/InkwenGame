@@ -21,4 +21,4 @@ A city of cubes and 2 heroes lost in the city are ready for the mission. Differe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Battle, Battlegrounds, Shoot 'Em Up, Shooting
+- Tags: 2 Player, 2 Player Games, battle, Battlegrounds, Shoot 'Em Up, Shooting

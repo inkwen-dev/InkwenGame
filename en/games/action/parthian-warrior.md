@@ -21,4 +21,4 @@ Features: • Two maps • Five weapons at your disposal including a shield
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Sword, War, weapons
+- Tags: battle, sword, War, weapons

@@ -19,6 +19,6 @@ Dive into a smart, satisfying hexagon puzzle that&rsquo;s easy to learn and tric
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Adventure, amazing, Best Games, Brain, free games for your site, free games for your website, Fun, Hypercasual, Interactive, Puzzle, puzzleblock

@@ -19,6 +19,6 @@ Here in this wild bull city attack simulator, you need to control the wild angry
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Animal, Arcade, Battle, Boys, city, Crazy, dino, Sim, Simulator
+- Tags: Action, Animal, Arcade, battle, Boys, city, crazy, dino, Sim, Simulator

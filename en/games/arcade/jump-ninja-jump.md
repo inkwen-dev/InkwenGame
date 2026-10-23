@@ -21,4 +21,4 @@ Jump Ninja Jump is a great arcade-action game with very beautiful graphics. The 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Android, Arcade, Avoid, Boys, HTML5, jump, Jumping, Kids, Ninja, Skill
+- Tags: Action, Android, Arcade, Avoid, Boys, HTML5, jump, jumping, Kids, ninja, Skill

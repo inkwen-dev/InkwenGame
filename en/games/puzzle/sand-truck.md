@@ -21,4 +21,4 @@ Sand Truck Is a logical game with trucks. In this game you have to control a san
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Kids, Logical, Puzzle, Truck
+- Tags: Color, Kids, Logical, Puzzle, truck

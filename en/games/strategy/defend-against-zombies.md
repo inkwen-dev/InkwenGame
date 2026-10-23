@@ -19,6 +19,6 @@ A tower defense game in which zombie hordes are headed straight for a city full 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Halloween, Tower Defense, Undead, Zombie

@@ -15,6 +15,6 @@ Race through sun-soaked highways in a thrilling escape as R.E.P.O, a rogue robot
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Escape

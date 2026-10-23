@@ -19,6 +19,6 @@ Survive, craft, and explore a vast untamed world in Everwild Survival, where eve
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Best, Best Games, building, Cooking, Crafting, Farm, Fishing, Food, Forest, Hunting, survival
+- Tags: 2026 games, Best, Best Games, building, Cooking, Crafting, Farm, Fishing, Food, Forest, hunting, survival

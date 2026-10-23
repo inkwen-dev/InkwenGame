@@ -21,4 +21,4 @@ In Blob Hero, you become a brave hero facing endless waves of enemies and monste
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fight, survival
+- Tags: battle, Fight, survival

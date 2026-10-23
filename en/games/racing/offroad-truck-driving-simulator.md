@@ -19,6 +19,6 @@ Offroad Truck Driving Simulator is the ultimate off-road mud truck driving game 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 3D, 3D Games, cargo, Driving, offroad, Simulator, transport, Truck, vehicle
+- Tags: 2026 games, 3D, 3D Games, cargo, Driving, offroad, Simulator, transport, truck, vehicle

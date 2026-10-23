@@ -21,4 +21,4 @@ AWSD 和移动端操作提示出现
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 冒险, 技巧
+- 标签: 单人, 2D, 冒险, 技能

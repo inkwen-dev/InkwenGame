@@ -21,4 +21,4 @@ This is memory game with cute owl in cards. Touch the cards and pair two cards w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Kids, Memory, Puzzle
+- Tags: Animal, Kids, memory, Puzzle

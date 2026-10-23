@@ -21,4 +21,4 @@ Cube Jumping is a 3D Game that you absolutely like. the game aimes to test your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Android, Click, Fun, HTML5, iPhone, Kids, Mobile, Skibidi, Skibidi Toilet
+- Tags: Adventure, Android, Click, Fun, HTML5, iPhone, Kids, Mobile, Skibidi, skibidi-toilet

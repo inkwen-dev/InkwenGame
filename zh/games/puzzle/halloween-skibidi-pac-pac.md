@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 躲避, 收集, 万圣节, 超休闲, 儿童, PacMan, Skibidi, Skibidi Toilet, 技巧
+- 标签: 躲避, 收集, 万圣节, 超休闲, 儿童, 吃豆人, Skibidi, skibidi-toilet, 技巧

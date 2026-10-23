@@ -21,4 +21,4 @@ Get behind the wheels of offroad monster truck of this offroad driving game. Tak
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Arena, Car, Race, Stunts, Truck
+- Tags: 3D Games, Arena, Car, Race, Stunts, truck

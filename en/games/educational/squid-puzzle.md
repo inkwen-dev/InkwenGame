@@ -21,4 +21,4 @@ SQUID PUZZLE is a really funny educational game which is a patience game from th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Draw, Educational, Fun, Funny, Girls
+- Tags: Boys, Draw, educational, Fun, Funny, Girls

@@ -21,4 +21,4 @@ Do you want to play with some of the greatest icons in the sport? Thanks to Bask
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Game, Games, HTML5, Sport, Sports
+- Tags: basketball, Game, Games, HTML5, Sport, sports

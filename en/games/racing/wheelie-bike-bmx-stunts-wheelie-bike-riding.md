@@ -19,6 +19,6 @@ Experience the thrill of bicycle wheelies in our latest bike racing game! Wheeli
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, HTML5, Racing
+- Tags: bike, HTML5, Racing

@@ -19,6 +19,6 @@ This is an action jumping game. A cute koala child wants to go to heaven. At thi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Boy, Boys, Casual, endless, Fun, Funny, Game, Games, Girl, Girls, H5, HTML5, Hypercasual, jump, Jumping, Kid, Kids, Mobile, Rhythm, running, Skill, sky
+- Tags: Action, Boy, Boys, Casual, endless, Fun, Funny, Game, Games, Girl, Girls, H5, HTML5, Hypercasual, jump, jumping, Kid, Kids, Mobile, Rhythm, running, Skill, sky

@@ -19,6 +19,6 @@ Super Onion Boy is a fun platform game, your mission is to save the princess fro
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arcade, Fun, Mario, Platform, Retro
+- Tags: 2D, Adventure, Arcade, Fun, mario, Platform, retro

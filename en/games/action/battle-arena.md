@@ -19,6 +19,6 @@ Battle Arena is a game where you can choose the player, and than wait to see you
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arena, Battle, Fighting, Street Fighting
+- Tags: Arena, battle, fighting, Street Fighting

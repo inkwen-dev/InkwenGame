@@ -19,6 +19,6 @@ Download & play Juicy Fruit Slicer, the perfect cut game for the whole family! S
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Fruit, Fruits, Kid, Kids

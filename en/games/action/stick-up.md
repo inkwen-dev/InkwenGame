@@ -21,4 +21,4 @@ Let Stickman rise up high and escape from dangers and obstacles.Protect stick fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Arcade, endless, Escape, OnlyUp, Platform, Stickman, survival
+- Tags: 1 Player, Action, Arcade, endless, Escape, OnlyUp, Platform, stickman, survival

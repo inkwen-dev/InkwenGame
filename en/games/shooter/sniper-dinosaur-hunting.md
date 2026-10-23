@@ -19,6 +19,6 @@ Roaming through lush and immersive environments, youll need to use your keen obs
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: dino, Dinosaur, hunter, Hunting, Shooting, Sniper, Unity3D, WebGL
+- Tags: dino, Dinosaur, hunter, hunting, Shooting, sniper, Unity3D, WebGL

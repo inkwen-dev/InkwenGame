@@ -19,6 +19,6 @@ It’s time to show your driving skills on high speed among the multitude of car
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Car, Cars, Traffic, Unity3D, WebGL

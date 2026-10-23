@@ -19,6 +19,6 @@ Drive your bike on the snow. Use yours skills to finished 8 levels. Very importa
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Driving, HTML5, Motorcycle, Racing
+- Tags: bike, Driving, HTML5, Motorcycle, Racing

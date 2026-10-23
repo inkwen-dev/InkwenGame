@@ -30,4 +30,4 @@ No fluff, no waiting — just clean, snappy strategy you can play in a few minut
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Strategy
+- Tags: strategy

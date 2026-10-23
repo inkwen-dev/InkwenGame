@@ -19,6 +19,6 @@ Block Stacking is a fun stacking and reaction game where you have to stop moving
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Block, Casual, Relaxation, Stack
+- Tags: 1 Player, 3D, block, Casual, Relaxation, Stack

@@ -21,4 +21,4 @@ Use your cue to shoot balls into holes gain score and stars so you can progress 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, 3D Games, 8 Ball Pool, HTML5, Pool
+- Tags: 2 Player, 2 Player Games, 3D, 3D Games, 8 Ball Pool, HTML5, pool

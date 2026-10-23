@@ -19,6 +19,6 @@ This game is fun and engaging action game. Your mission is simple: Execute all l
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 3D Games, Animal, Bike, Brain, Game, Kill, Killing, Knight, Love, Mine, Puzzle, Shark
+- Tags: 2 Player Games, 3D Games, Animal, bike, Brain, Game, Kill, Killing, knight, Love, Mine, Puzzle, Shark

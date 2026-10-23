@@ -21,4 +21,4 @@ The adventure of two loving hearts in the game Kissy Missy and Huggy Wuggy. This
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Best, Boy, Boys, Castle, Fire, Funny, Game, Games, Girl, Girls, Hot, HTML, HTML5, Logic, Logical, Love, Stickman, Super
+- Tags: 2 Player, 2 Player Games, 2D, Best, Boy, Boys, Castle, Fire, Funny, Game, Games, Girl, Girls, Hot, HTML, HTML5, Logic, Logical, Love, stickman, Super

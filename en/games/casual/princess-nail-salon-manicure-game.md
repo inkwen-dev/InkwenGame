@@ -19,6 +19,6 @@ Although the area of the nails is small, an excellent manicurist can also draw b
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Girl, Girls, Kid, Kids, Nail, Nails, Princess

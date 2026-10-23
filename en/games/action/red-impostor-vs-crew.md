@@ -19,6 +19,6 @@ Red Imposter vs. Crew is a fun and engaging Action game. Your mission is simple:
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Hypercasual, Kill, Killing, Puzzle, Skill, weapons
+- Tags: Action, battle, Hypercasual, Kill, Killing, Puzzle, Skill, weapons

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 烹饪, 烹饪, 食物, 女孩, HTML5, 冰淇淋
+- 标签: 烹饪, 厨艺, 食物, 女孩, HTML5, 冰

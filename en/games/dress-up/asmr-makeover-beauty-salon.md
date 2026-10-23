@@ -19,6 +19,6 @@ ASMR Makeover Beauty Salon is a very fun Makeover game. In this game, some custo
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, Cleaning, Doctor, Dress Up, Fun, Hair, HTML5, Kid, Kids, Makeover, Mobile, Relaxation

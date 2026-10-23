@@ -21,4 +21,4 @@ Alienwolf Studios 让你在我们的动物医疗中心担任兽医，为动物�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动物, 猫, 教育, 小孩
+- 标签: 动物, 猫, 教育, 儿童

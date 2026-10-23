@@ -17,4 +17,4 @@ Step into the shoes of a museum guard challenged by eco-terrorist threats. Patro
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Crazy
+- Tags: crazy

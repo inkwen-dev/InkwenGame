@@ -24,4 +24,4 @@ The cricket match game allows you to play from short 2-over matches to thrilling
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, cricket, Skill, Sports
+- Tags: 3D, Action, cricket, Skill, sports

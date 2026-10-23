@@ -21,4 +21,4 @@ Car Driving Simulator is the best car simulator of 2022, thanks to its advanced 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Best, Boy, Boys, Collection, Creation, Decoration, drift, drifting, Driving, Educational, Girl, Girls, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Best, Boy, Boys, Collection, Creation, Decoration, drift, drifting, Driving, educational, Girl, Girls, Unity3D

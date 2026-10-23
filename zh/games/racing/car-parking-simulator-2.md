@@ -21,4 +21,4 @@ WASD 方向键控制前进 C 切换摄像头视角 空格键刹车 Tab Esc 暂�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 汽车们, 停车, 模拟器, Unity3D, WebGL
+- 标签: 3D游戏, 汽车, 停车, 模拟器, Unity3D, WebGL

@@ -21,4 +21,4 @@ Stage platform game, 11 stages + final stage. Go through precision challenges, t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Arcade, Best, Boxing, Boy, Boys, Classic, Game, HTML5, jump, Jumping, Mario, Retro
+- Tags: 1 Player, 2D, Action, Adventure, Arcade, Best, Boxing, Boy, Boys, Classic, Game, HTML5, jump, jumping, mario, retro

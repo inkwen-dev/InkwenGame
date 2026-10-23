@@ -19,6 +19,6 @@ Whats it like to free fall at 100mph while trying to avoid random obstacles? Fin
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boys, Family, Flight, fly, HTML, HTML5, Kids, Mobile, Racing, Robot
+- Tags: 3D, Boys, Family, flight, fly, HTML, HTML5, Kids, Mobile, Racing, Robot

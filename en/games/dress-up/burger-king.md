@@ -21,4 +21,4 @@ Cooking Burger Maker Restaurant - Kitchen Cooking Become foodie chef with amazin
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Burger, Casual, Cook, Cooking, Food, Games, Girls, Hypercasual, Makeover, Online, Restaurant
+- Tags: 3D, Arcade, Burger, Casual, Cook, Cooking, Food, Games, Girls, Hypercasual, Makeover, Online, restaurant

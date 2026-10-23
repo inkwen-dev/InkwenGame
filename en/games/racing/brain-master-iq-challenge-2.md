@@ -19,6 +19,6 @@ Brain Master IQ Challenge 2 is an addictive brain-burning puzzle game. Parking, 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Brain, Cars, Draw, Funny, H5, Parking, Skill, Strategy
+- Tags: Boys, Brain, Cars, Draw, Funny, H5, parking, Skill, strategy

@@ -21,4 +21,4 @@ Deadswitch 3 is a fast-paced multiplayer shooter with plenty of game modes, maps
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2D, Action, Battlegrounds, CSGO, Helicopter, Multiplayer, Platform, Shooter, Undead, WebGL, Zombie
+- Tags: .io, .io Games, 2D, Action, Battlegrounds, CSGO, helicopter, Multiplayer, Platform, Shooter, Undead, WebGL, Zombie

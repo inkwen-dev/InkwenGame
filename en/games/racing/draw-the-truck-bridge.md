@@ -21,4 +21,4 @@ Draw The Truck Bridge is a fun kids game where you draw the path of trucks to th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Draw, Drawing, Kid, Kids
+- Tags: Car, Draw, drawing, Kid, Kids

@@ -25,4 +25,4 @@
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Educational, Food, Mobile, words
+- Tags: educational, Food, Mobile, words

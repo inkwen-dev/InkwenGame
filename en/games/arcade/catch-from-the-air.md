@@ -21,4 +21,4 @@ In Catch From the Air, your mission is to collect and survive as long as possibl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Casual, Hypercasual, Music
+- Tags: 2D, Arcade, Casual, Hypercasual, music

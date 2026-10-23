@@ -21,4 +21,4 @@ Use mouse or arrow keys on keyboard
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Collecting, Truck
+- Tags: Christmas, Collecting, truck

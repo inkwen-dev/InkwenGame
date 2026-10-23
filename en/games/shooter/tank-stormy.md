@@ -21,4 +21,4 @@ Are you ready for the relentless battle of tanks? You can play "2 Player" mode a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, Battle, Bomb, Tank, War
+- Tags: 2 Player Games, battle, Bomb, Tank, War

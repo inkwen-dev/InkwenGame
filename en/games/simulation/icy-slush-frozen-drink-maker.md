@@ -21,4 +21,4 @@ Welcome to the awesome rainbow slushy maker frozen dessert shop! This is your ch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Boys, Burger, Cook, Cooking, Educational, Elsa, Frozen, Games, Girls, Hot, HTML5, Ice, Kids, Online, Truck, WebGL
+- Tags: Best, Boys, Burger, Cook, Cooking, educational, Elsa, Frozen, Games, Girls, Hot, HTML5, Ice, Kids, Online, truck, WebGL

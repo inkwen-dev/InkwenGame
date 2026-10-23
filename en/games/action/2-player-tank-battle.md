@@ -21,4 +21,4 @@ Lots of action and fun, two player tank war game.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Battle, Tank, Tanks, War
+- Tags: 2 Player, 2 Player Games, battle, Tank, tanks, War

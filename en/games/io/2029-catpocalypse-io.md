@@ -15,6 +15,6 @@ In "2029 Catpocalypse.io," cats armed with an array of weapons take on mutated c
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Animal

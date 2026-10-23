@@ -19,6 +19,6 @@ Delicious Breakfast Cooking is a very addictive cooking game. We've prepared 4 d
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, Cook, Cooking, Cute, Food, Fruits, Fun, Girls, HTML5, Kids, Mobile

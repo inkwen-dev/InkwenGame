@@ -21,4 +21,4 @@ Tab 打开游戏菜单 WASD 移动 鼠标瞄准射击 滚轮切换武器
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 方块风格, Mentolatux, 多人, 射击, WebGL
+- 标签: 方块状, Mentolatux, 多人, 射击, WebGL

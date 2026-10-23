@@ -21,4 +21,4 @@ Taylor and dad will visit uncle James, a man who lives in a farm with lots of an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Dress Up, Educational, Girl, Girls, Kids, Simulation
+- Tags: Animal, Baby, Dress Up, educational, Girl, Girls, Kids, Simulation

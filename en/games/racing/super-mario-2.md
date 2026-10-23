@@ -19,6 +19,6 @@ A new kind of Mario game that you can play with one hand. You control Mario by t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Mario, Super, Superhero
+- Tags: jump, mario, Super, Superhero

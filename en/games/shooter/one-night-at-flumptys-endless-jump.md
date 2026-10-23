@@ -21,4 +21,4 @@ In the game &ldquo;One Night at Flumptys: Endless Jump&rdquo; you control a char
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping, Shooting
+- Tags: jumping, Shooting

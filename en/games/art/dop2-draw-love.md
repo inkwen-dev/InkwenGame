@@ -22,4 +22,4 @@ Help a funny couple escape tricky situations in this hilarious puzzle game! Solv
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing, Love, Mobile, Puzzle
+- Tags: drawing, Love, Mobile, Puzzle

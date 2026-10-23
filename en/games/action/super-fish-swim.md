@@ -19,6 +19,6 @@ Super Swim Fish game invites you to the world of fish! Take a fun jogging journe
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Casual, Fish, Girl, Kids, Mobile, Pool, run, running, Super, WebGL
+- Tags: 3D, Arcade, Casual, Fish, Girl, Kids, Mobile, pool, run, running, Super, WebGL

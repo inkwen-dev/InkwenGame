@@ -19,6 +19,6 @@ Now Sprunki has a nightmare. He has transformed to the snake and have to escaped
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 3D, Animal, Arcade, Snake, Sprunki
+- Tags: 2 Player, 3D, Animal, Arcade, snake, Sprunki

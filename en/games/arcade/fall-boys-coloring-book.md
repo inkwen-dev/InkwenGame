@@ -21,4 +21,4 @@ Fall Boys Coloring Book is a fun and creative coloring game where you can bring 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Coloring, Educational, Fall Boys, Fall Guys, Fun, Hypercasual, Kids, School
+- Tags: Arcade, Coloring, educational, Fall Boys, Fall Guys, Fun, Hypercasual, Kids, School

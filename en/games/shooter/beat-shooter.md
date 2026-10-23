@@ -19,6 +19,6 @@ You can find worldwide Epic masterpieces, such as Faded by Alan Walker, Alone by
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Game, HTML5, Hypercasual, Music, Online, Shooter, Shooting
+- Tags: Arcade, Casual, Game, HTML5, Hypercasual, music, Online, Shooter, Shooting

@@ -21,4 +21,4 @@ Keyboard WASD Arrows Touch Gamepad
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, Game, Pixel, Platform, Puzzle
+- Tags: Escape, Game, pixel, Platform, Puzzle

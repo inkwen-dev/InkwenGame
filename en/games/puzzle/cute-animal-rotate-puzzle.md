@@ -19,6 +19,6 @@ Enter the whimsical world of our rotate puzzle game, where adorable animals awai
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Boy, Brain, Casual, Cute, Educational, Fun, Girl, Jigsaw, Kid, Kids, Puzzle
+- Tags: 1 Player, Animal, Boy, Brain, Casual, Cute, educational, Fun, Girl, Jigsaw, Kid, Kids, Puzzle

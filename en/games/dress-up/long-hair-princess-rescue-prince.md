@@ -21,4 +21,4 @@ The queen gave birth to a princess that had hair with special healing powers. We
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cleaning, Decorate, Design, Dress Up, Fun, Girls, Hair, HTML5, Kids, Makeover, Mobile, Princess, Puzzle, Rescue, Surgery
+- Tags: Cleaning, Decorate, Design, Dress Up, Fun, Girls, Hair, HTML5, Kids, Makeover, Mobile, Princess, Puzzle, Rescue, surgery

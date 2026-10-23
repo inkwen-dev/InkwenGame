@@ -21,4 +21,4 @@ Dragon Shadow Battle : Super Hero Legend officially debuted as a major event on 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, Dragon, Fight, Fighting, Games, Kill
+- Tags: 2 Player Games, Dragon, Fight, fighting, Games, Kill

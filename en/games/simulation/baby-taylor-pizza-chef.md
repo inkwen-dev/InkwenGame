@@ -21,4 +21,4 @@ The pizzeria is open! Free pizza games for kids are here! Enjoy Baby Taylor Pizz
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Games, Cooking, Cute, Decorate, Educational, Food, Girl, Girls, Kids, Simulation
+- Tags: Baby, Baby Games, Cooking, Cute, Decorate, educational, Food, Girl, Girls, Kids, Simulation

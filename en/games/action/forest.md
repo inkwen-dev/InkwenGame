@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Android, Animal, Arcade, Candy, Cartoon, Cartoon Network, Cat, Classic, Cute, Fun, Funny, Game, Games, jump, Jumping, Kid, Kids, Mind, Minion, Mobile, Puzzle, run, running, Superhero
+- Tags: 2D, Action, Android, Animal, Arcade, Candy, Cartoon, Cartoon Network, Cat, Classic, Cute, Fun, Funny, Game, Games, jump, jumping, Kid, Kids, Mind, Minion, Mobile, Puzzle, run, running, Superhero

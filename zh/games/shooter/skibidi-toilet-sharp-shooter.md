@@ -21,4 +21,4 @@ Skibidi Toilet 狙击手是一款令人兴奋且富有挑战性的射击游戏�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 射击, 斯基比迪, 斯基比迪马桶, 忍者
+- 标签: 射击类, Skibidi, skibidi-toilet, 木偶人

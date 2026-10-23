@@ -19,6 +19,6 @@ Park Safe is an exciting game that tests your focus and timing. The car moves au
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Car, car tuning, Casual, free games for your site, HTML5, Hypercasual, Race, Racing

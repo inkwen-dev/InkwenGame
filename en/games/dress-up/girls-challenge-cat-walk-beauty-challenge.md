@@ -21,4 +21,4 @@ All the baddies are choosing the most beautiful outfits for the catwalk! Your go
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D, 3D Games, 8 Ball Pool, Action, Adult, Adventure, Arcade, Bejeweled, Car, Cars, Cat, Fight, Fighting, Girl, Girls, Ladybug, Logic, Miraculous Ladybug, Street Fighting, Supercars, Unity3D
+- Tags: .io Games, 2 Player Games, 3D, 3D Games, 8 Ball Pool, Action, Adult, Adventure, Arcade, Bejeweled, Car, Cars, Cat, Fight, fighting, Girl, Girls, Ladybug, Logic, Miraculous Ladybug, Street Fighting, Supercars, Unity3D

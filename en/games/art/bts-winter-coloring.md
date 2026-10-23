@@ -21,4 +21,4 @@ BTS Winter Coloring is a delightful, free online coloring game made just for kid
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Coloring, Draw, Drawing, Girls, Hypercasual, Kids, Winter
+- Tags: Christmas, Coloring, Draw, drawing, Girls, Hypercasual, Kids, Winter

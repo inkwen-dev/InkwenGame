@@ -19,6 +19,6 @@ Block Push Game is a classic logic puzzle game where your goal is to move and pu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, amazing, Casual, Fun

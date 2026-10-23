@@ -21,4 +21,4 @@ Tenpin Bowling is the popular sport which has become a trend lately. It is a fre
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Casino, Casual, Hypercasual, Sport, Sports
+- Tags: Android, Arcade, Casino, Casual, Hypercasual, Sport, sports

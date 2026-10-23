@@ -21,4 +21,4 @@ If your phone is covered in sludge and you like repairing things, then it means 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Casual, Family, Management
+- Tags: Boy, Casual, Family, management

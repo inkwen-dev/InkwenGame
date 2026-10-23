@@ -33,4 +33,4 @@ Get to new islands and collect more cool brainrots!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Management
+- Tags: 3D, management

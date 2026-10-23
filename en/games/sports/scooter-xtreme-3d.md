@@ -19,6 +19,6 @@ Scooter Xtreme 3D is a cool scooter racing game where you must drive your scoot 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Best, Bike, H5, Hot, HTML, HTML5, Moto, Motorcycle, Sport, Sports
+- Tags: 3D, 3D Games, Adventure, Best, bike, H5, Hot, HTML, HTML5, Moto, Motorcycle, Sport, sports

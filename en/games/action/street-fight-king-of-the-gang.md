@@ -21,4 +21,4 @@ Knock-out all your ennemies to be the king of the gang ! A new fighting game is 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Fight, Fighting, Street Fighting
+- Tags: Action, Arcade, Fight, fighting, Street Fighting

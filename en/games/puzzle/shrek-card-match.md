@@ -21,4 +21,4 @@ Shrek is a 2001 American computer-animated fantasy film loosely based on William
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Cartoon, Cartoon Network, Educational, Match3, Memory, Puzzle
+- Tags: Brain, Cartoon, Cartoon Network, educational, Match3, memory, Puzzle

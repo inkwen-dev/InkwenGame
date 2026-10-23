@@ -19,6 +19,6 @@ Flappy Sprunki Adventure is a super fun flappy game for kids and grown ups. Your
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Collecting, fly, Hypercasual, Jumping, Kids, Physics, Skill, Sprunki
+- Tags: Avoid, Collecting, fly, Hypercasual, jumping, Kids, Physics, Skill, Sprunki

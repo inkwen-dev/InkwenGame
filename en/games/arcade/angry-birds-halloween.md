@@ -21,4 +21,4 @@ Angry Birds Halloween take your chances in the Star Cup as you go head-to-head a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, jump, Jumping
+- Tags: Action, Arcade, jump, jumping

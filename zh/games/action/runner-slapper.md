@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 平台, 跑步, Unity3D
+- 标签: 街机, 平台, 奔跑, Unity3D

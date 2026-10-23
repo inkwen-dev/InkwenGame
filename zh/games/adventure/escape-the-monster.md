@@ -43,4 +43,4 @@ P 键暂停。M 键静音。
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 逃脱, 迷宫, 怪物
+- 标签: 逃脱, 迷宫, monster

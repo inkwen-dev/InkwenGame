@@ -19,6 +19,6 @@ Let's Fart Brandon is a funny action parody game featuring fart with Brandon. Br
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Avoid, Battle, Escape, Fun, HTML5, Prison, WebGL
+- Tags: Action, Adventure, Avoid, battle, Escape, Fun, HTML5, Prison, WebGL

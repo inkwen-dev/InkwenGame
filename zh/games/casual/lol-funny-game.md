@@ -21,4 +21,4 @@ LOL搞笑游戏是一款超级有趣的在线儿童游戏，你可以在电脑�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 乐趣, 搞笑, HTML5, 儿童, 移动设备
+- 标签: 安卓, 有趣, 搞笑, HTML5, 儿童, 移动设备

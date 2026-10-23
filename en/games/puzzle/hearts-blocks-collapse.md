@@ -21,4 +21,4 @@ Click on blocks to remove them in this fun heart filled game. Remove hearts of t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bejeweled, Block, Girls, HTML5, Matching, Mobile
+- Tags: Bejeweled, block, Girls, HTML5, Matching, Mobile

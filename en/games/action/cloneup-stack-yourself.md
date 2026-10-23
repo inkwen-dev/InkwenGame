@@ -21,4 +21,4 @@ CloneUp &ndash; Stack Yourself is a 2D pixel-art platformer where your greatest 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Hypercasual, Logic, Pixel, Platform, Side Scrolling
+- Tags: Casual, Hypercasual, Logic, pixel, Platform, Side Scrolling

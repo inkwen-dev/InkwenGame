@@ -21,4 +21,4 @@ Avoid obstacles, collect coins and ammo. Using the rocket boos fly up to get bul
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Jumping, Kids, Mobile, Puzzle, Skill
+- Tags: Fun, HTML5, jumping, Kids, Mobile, Puzzle, Skill

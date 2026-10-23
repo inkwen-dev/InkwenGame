@@ -21,4 +21,4 @@ WASD - 移动 F - 上下车 C - 切换摄像机
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 双人, 3D 遊戲, 动作, gta
+- 标签: 单人, 双人, 3D游戏, 动作, gta

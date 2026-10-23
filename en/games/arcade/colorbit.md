@@ -19,6 +19,6 @@ Hyper-casual fun game with minimalist visual and procedural difficulty. To play 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Casual, Hypercasual, jump, Jumping, Physics
+- Tags: 2D, Arcade, Casual, Hypercasual, jump, jumping, Physics

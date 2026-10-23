@@ -15,6 +15,6 @@ Soar through vibrant skies in Jetpack Heroes, navigating intricate worlds full o
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Skill

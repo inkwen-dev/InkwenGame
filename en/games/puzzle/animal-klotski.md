@@ -21,4 +21,4 @@ Animal Klotski is a charming and addictive Klotski puzzle game where every move 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Block, Brain, Logic, slider
+- Tags: Animal, block, Brain, Logic, slider

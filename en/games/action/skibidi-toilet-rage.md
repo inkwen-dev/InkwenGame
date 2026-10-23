@@ -19,6 +19,6 @@ Skibidi Toilet takes action in some country with a rage to conquer. Save with yo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Brawl, Fighting, Skibidi Toilet, Street Fighting, Unity3D
+- Tags: 3D, Brawl, fighting, skibidi-toilet, Street Fighting, Unity3D

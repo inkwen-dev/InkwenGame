@@ -19,6 +19,6 @@ It is a special birthday party. You can organize your own party and become the r
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Casual, Cook, Cooking, Family, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids, Panda

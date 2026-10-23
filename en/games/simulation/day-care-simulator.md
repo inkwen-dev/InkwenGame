@@ -19,6 +19,6 @@ Daycare Baby Games is a fun &amp; engaging daycare game where you get to experie
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 2026 games, Arcade, Baby, Baby Games, Casual, Game, Girls, html5 games for your site, Kids, Play, Simulator

@@ -21,4 +21,4 @@ The #1 fishing hit game is now available on Android! Join over 16 MILLION Ninja 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fishing, Ninja
+- Tags: Fishing, ninja

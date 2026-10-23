@@ -19,6 +19,6 @@ Get ready for an action-packed impostor game. Grow your family with the food fou
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, Battle, Best, Casual, Farm, Fun, Funny, Kids, Mobile, Multiplayer, Strategy, WebGL
+- Tags: .io, .io Games, 3D, battle, Best, Casual, Farm, Fun, Funny, Kids, Mobile, Multiplayer, strategy, WebGL

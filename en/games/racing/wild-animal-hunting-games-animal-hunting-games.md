@@ -19,6 +19,6 @@ Game Grip Studio represents Wild Animal Hunting Games : Animal Hunting Games, th
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Adventure, Animal, Dinosaur, Driving, HTML, HTML5, Shooting

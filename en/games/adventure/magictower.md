@@ -21,4 +21,4 @@ It is said that the queen is a powerful sorceress, and the princess sisters have
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, RPG
+- Tags: 1 Player, 2D, Adventure, rpg

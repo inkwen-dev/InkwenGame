@@ -54,4 +54,4 @@ Available in 9 languages.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Food, Management, pizza, Restaurant, Simulation, tycoon
+- Tags: 3D, Food, management, pizza, restaurant, Simulation, tycoon

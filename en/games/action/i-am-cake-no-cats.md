@@ -19,6 +19,6 @@ Use the A and D keys to move back and forth and progress through the game The ga
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Animal, Arcade, Cat, Platform

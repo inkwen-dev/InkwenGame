@@ -19,6 +19,6 @@ Welcome to Extreme Golf 2d Game. Who says Golf is the richest person's game? Her
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Boys, Fun, Golf, Kids, Sports
+- Tags: Ball, Boys, Fun, golf, Kids, sports

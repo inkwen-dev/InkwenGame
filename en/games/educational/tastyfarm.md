@@ -19,6 +19,6 @@ Tasty Farm is a fun and addictive sorting puzzle! Organize your fresh harvest in
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Casual, Color, Educational, Farm, Fruits, Hypercasual, Kids, Matching, sorting
+- Tags: 1 Player, Casual, Color, educational, Farm, Fruits, Hypercasual, Kids, Matching, sorting

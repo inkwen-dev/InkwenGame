@@ -21,4 +21,4 @@ You in the game Cooking Place will help the chef to serve the customers. In fron
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Boys, Burger, Food, Fun, Funny, Girls, HTML5, Kids, Mobile, Restaurant, Skill
+- Tags: Best, Boys, Burger, Food, Fun, Funny, Girls, HTML5, Kids, Mobile, restaurant, Skill

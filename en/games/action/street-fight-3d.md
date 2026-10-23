@@ -21,4 +21,4 @@ You are welcome to fight for your survival in this epic game. Goons up your alle
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Arcade, Brawl, Fight, Fighting, Punch, Street Fighting, WebGL
+- Tags: 3D Games, Arcade, Brawl, Fight, fighting, Punch, Street Fighting, WebGL

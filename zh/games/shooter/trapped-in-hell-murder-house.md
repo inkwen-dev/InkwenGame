@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 逃脱, 怪物, 拼图, 亡灵, 武器
+- 标签: 逃脱, monster, 益智, 僵尸, 武器

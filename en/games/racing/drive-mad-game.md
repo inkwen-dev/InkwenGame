@@ -21,4 +21,4 @@ Drive Mad is a car game where you drive on a track filled with obstacles. Your a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Arcade, Boy, Car, Driving, Monster, Truck
+- Tags: 3D Games, Arcade, Boy, Car, Driving, monster, truck

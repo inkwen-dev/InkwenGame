@@ -19,6 +19,6 @@ Welcome to our new game Dinosaur Jumper, which takes you back to prehistoric tim
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, dino, Dinosaur, Fun, jump, Jumping, Kids
+- Tags: Action, dino, Dinosaur, Fun, jump, jumping, Kids

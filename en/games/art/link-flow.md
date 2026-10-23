@@ -21,4 +21,4 @@ Enter the mesmerizing world of Link Flow, where logic meets creativity in a capt
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Color, Drawing, Logic, Matching, Puzzle
+- Tags: Brain, Color, drawing, Logic, Matching, Puzzle

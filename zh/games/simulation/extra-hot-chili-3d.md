@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 街机, 烹饪, 烹饪, H5, 热门, HTML, HTML5, 超休闲, Unity3D
+- 标签: 3D, 3D游戏, 街机, 烹饪, 厨艺, H5, 热门, HTML, HTML5, 超休闲, Unity3D

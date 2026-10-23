@@ -21,4 +21,4 @@ Hit and Dodge the opponents to reach touchdown! Super cool game on NFL, the most
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Crazy, Football, Game, Online, Soccer, Sport, Sports
+- Tags: 3D, crazy, Football, Game, Online, Soccer, Sport, sports

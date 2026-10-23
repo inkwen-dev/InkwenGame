@@ -21,4 +21,4 @@ The farmers noob has all his animals escaping from the barn and hiding in the fo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Arcade, Block, mineblock, Minecraft
+- Tags: 1 Player, 2D, Action, Adventure, Arcade, block, mineblock, Minecraft

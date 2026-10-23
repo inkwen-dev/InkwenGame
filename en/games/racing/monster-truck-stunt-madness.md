@@ -19,6 +19,6 @@ Are you mad for the stunt tracks?, then take your driving to the whole New World
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Girls, Monster, Stunts, Truck
+- Tags: Boys, Girls, monster, Stunts, truck

@@ -19,6 +19,6 @@ Kids Dentist Games is a cute dentist game. In the game, you play as an experienc
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Baby Games, Cat, Cute, Doctor, Educational, Fun, HTML5, Mobile
+- Tags: Animal, Baby, Baby Games, Cat, Cute, Doctor, educational, Fun, HTML5, Mobile

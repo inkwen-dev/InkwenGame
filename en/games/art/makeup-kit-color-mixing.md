@@ -21,4 +21,4 @@ Makeup Kit Color Mixing is a very cute art game. In this game, you can choose a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Creation, Cute, Design, Draw, Drawing, Fun, Girls, HTML5, Kids, Mobile
+- Tags: Color, Coloring, Creation, Cute, Design, Draw, drawing, Fun, Girls, HTML5, Kids, Mobile

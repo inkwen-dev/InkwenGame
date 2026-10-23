@@ -21,4 +21,4 @@ Meet the cutest pet friends the Cat and the Dog! Feed, bath, style, and dress up
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cat, Educational, Girl, Girls, H5, HTML5
+- Tags: Animal, Baby, Cat, educational, Girl, Girls, H5, HTML5

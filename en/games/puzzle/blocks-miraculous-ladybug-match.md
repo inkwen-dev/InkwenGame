@@ -21,4 +21,4 @@ Challenge your brain with a new simple block Miraculous ladybug. You will love i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Ladybug, Miraculous Ladybug, Puzzle
+- Tags: block, Ladybug, Miraculous Ladybug, Puzzle

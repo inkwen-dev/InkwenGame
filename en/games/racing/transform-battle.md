@@ -19,6 +19,6 @@ This is an exciting Autobot game! You need to collect parts to upgrade and evolv
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Battle, Car
+- Tags: 3D, 3D Games, Adventure, battle, Car

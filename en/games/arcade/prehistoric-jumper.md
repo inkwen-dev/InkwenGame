@@ -21,4 +21,4 @@ Prehistoric Jumper is a thrilling arcade game where players control a daring cav
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, HTML5, iPad, iPhone, Mobile, Retro, Unity3D, WebGL
+- Tags: Android, Arcade, HTML5, iPad, iPhone, Mobile, retro, Unity3D, WebGL

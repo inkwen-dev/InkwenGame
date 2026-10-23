@@ -19,6 +19,6 @@ Your task in the game Parking Challenge is to find the place intended for you an
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Best, Boy, Car, Cars, Driving, HTML5, Mobile, Parking, Skill
+- Tags: 1 Player, Best, Boy, Car, Cars, Driving, HTML5, Mobile, parking, Skill

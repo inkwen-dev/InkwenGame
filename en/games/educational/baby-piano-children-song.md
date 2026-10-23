@@ -21,4 +21,4 @@ Do you like playing musical instruments? If you love music, we have just the gam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Music
+- Tags: educational, music

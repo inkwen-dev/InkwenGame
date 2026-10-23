@@ -19,6 +19,6 @@ Play Candy Fruit Crush Match3 Puzzle Game and enjoy tons of challenging levels &
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Brain, Bubble, Candy, Casual, Color, Fruit, Fruits, HTML5, Hypercasual, Jewel, Match 3, Match3, Matching, Puzzle

@@ -21,4 +21,4 @@ The most amusing and simple game in the world! Zipline Rescue Little Jerry
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Arcade, Cartoon, Casual, Fun, Funny, Hot, Hypercasual, jump, Jumping, Rescue, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Arcade, Cartoon, Casual, Fun, Funny, Hot, Hypercasual, jump, jumping, Rescue, Unity3D

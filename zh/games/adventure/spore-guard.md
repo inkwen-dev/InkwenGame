@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 怪物, PVE, 生存
+- 标签: monster, PVE, 生存

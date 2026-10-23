@@ -21,4 +21,4 @@ Challenge your friends and family members to 2-player arcade tank battle! Mini T
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Battle, Fight, Shooting, Tank, Tanks
+- Tags: 2 Player, 2 Player Games, 2D, Action, battle, Fight, Shooting, Tank, tanks

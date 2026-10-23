@@ -21,4 +21,4 @@ Fight Match is a classic casual puzzle game, with classic elimination gameplay, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Battle, Boy, Collecting, Fight, Girl, Kid, Match 3, Mobile
+- Tags: 3D, battle, Boy, Collecting, Fight, Girl, Kid, Match 3, Mobile

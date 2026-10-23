@@ -19,6 +19,6 @@ Super Droid Adventure is an arcade game where you help the little Robot to defea
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping, Kids, Mario, Mobile, Pixel, Platform, Retro
+- Tags: jump, jumping, Kids, mario, Mobile, pixel, Platform, retro

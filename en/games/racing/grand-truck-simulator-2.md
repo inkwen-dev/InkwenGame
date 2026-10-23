@@ -21,4 +21,4 @@ Do you like truck-driving simulation games? Grand Truck Simulator offers you a c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Truck
+- Tags: Car, truck

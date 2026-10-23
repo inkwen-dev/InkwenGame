@@ -21,4 +21,4 @@ Your lover, the princess has been caught by the bad guy. Let us step on an adven
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Avoid, Boy, Boys, Fun, H5, HTML5, Hypercasual, Kid, Kids, Pixel
+- Tags: Adventure, Avoid, Boy, Boys, Fun, H5, HTML5, Hypercasual, Kid, Kids, pixel

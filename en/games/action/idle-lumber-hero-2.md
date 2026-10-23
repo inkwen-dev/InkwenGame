@@ -15,6 +15,6 @@ Dive into the life of a woodsman in Idle Lumber Hero. Chop trees, sell wood, and
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Action

@@ -21,4 +21,4 @@ Pick ingredients and make Hamburgers, receive money and build the bridge to go t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, Burger, Casual, Collecting, Collection, Color, Cooking, Hypercasual, Race, Racing, Stickman, WebGL
+- Tags: .io Games, 3D, Burger, Casual, Collecting, Collection, Color, Cooking, Hypercasual, Race, Racing, stickman, WebGL

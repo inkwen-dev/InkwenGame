@@ -19,6 +19,6 @@ Help small defenseless sheep find their way back home. They are completely lost 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Arcade, Brain, Logic, Puzzle

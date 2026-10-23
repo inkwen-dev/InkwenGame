@@ -21,4 +21,4 @@ Halloween crosswords is a game with words and clues. Read the clue first and cli
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Word
+- Tags: 1 Player, word

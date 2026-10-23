@@ -50,4 +50,4 @@ Use clever tactics to cut off and eliminate your rivals. Grab powerful-ups like 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: .io, Action, Mobile, Retro, Strategy
+- Tags: .io, Action, Mobile, retro, strategy

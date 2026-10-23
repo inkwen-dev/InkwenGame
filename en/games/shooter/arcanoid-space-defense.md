@@ -19,6 +19,6 @@ Get ready for an explosive arcade adventure! Arcanoid Space Defense reimagines t
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Arkanoid, Shooting, Skill, Space, Spaceship

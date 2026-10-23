@@ -19,6 +19,6 @@ Snowland Adventurre is a 3D platform land game, discover and collect all the jew
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Arcade, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Ice, Kid, Kids

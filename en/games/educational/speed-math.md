@@ -19,6 +19,6 @@ Dive into the exciting world of Speed Math, a brain-teasing puzzle game designed
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Brain, Click, Educational, Fun, Games, Kids, Math, Mobile, Number, touchscreen
+- Tags: 2D, Brain, Click, educational, Fun, Games, Kids, math, Mobile, Number, touchscreen

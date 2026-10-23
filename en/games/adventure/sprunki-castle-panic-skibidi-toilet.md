@@ -21,4 +21,4 @@ Now Sprunki Castle Panic Skibidi Toilet must escape from Skibidi Toilet in Castl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, huggy, Skibidi, Skibidi Toilet, Sprunki
+- Tags: Christmas, huggy, Skibidi, skibidi-toilet, Sprunki

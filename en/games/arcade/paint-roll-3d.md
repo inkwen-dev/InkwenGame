@@ -21,4 +21,4 @@ Paint Roll 3d new Paint roller Game with 100 + color Levels Have Fun
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Casual, Color, Coloring, Draw, Drawing, Game, Hypercasual, Online, PacMan, Side Scrolling
+- Tags: 3D, Arcade, Casual, Color, Coloring, Draw, drawing, Game, Hypercasual, Online, PacMan, Side Scrolling

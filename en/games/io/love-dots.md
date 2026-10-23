@@ -19,6 +19,6 @@ It's time to use your brain and find a way to bump the balls! The rule's easy, j
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, HTML5, Hypercasual, Love, Mobile, Puzzle

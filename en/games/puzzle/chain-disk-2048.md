@@ -19,6 +19,6 @@ Chain Disk 2048 is a refreshing 2048 game. Each disk has numbers on it, and you 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Kids, Matching, Mobile, Skill

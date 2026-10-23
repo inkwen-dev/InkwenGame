@@ -21,4 +21,4 @@ Help! Doctor, I hurt my feet, ouch! It is so painful! Could you please help me t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Doctor, Educational, Fun, Girl, Girls, Kid, Kids, Surgery
+- Tags: 2D, Doctor, educational, Fun, Girl, Girls, Kid, Kids, surgery

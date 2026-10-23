@@ -21,4 +21,4 @@ Can you become the longest python? If your head touches opponent, you will explo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2D, Animal, Snake
+- Tags: .io, .io Games, 1 Player, 2D, Animal, snake

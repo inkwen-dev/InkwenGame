@@ -21,4 +21,4 @@ Step into the traffic controller in Traffic Control. Your mission is to manage t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2026 games, Brain, Cars, Casual, city, HTML5, Management, Puzzle, Road, Strategy, Traffic, Train
+- Tags: .io Games, 2026 games, Brain, Cars, Casual, city, HTML5, management, Puzzle, Road, strategy, Traffic, Train

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2026年游戏, 方块, crazygamesunblocked, 益智, 学校无屏蔽游戏
+- 标签: 单人, 2026 游戏, 方块, crazygamesunblocked, 益智, 学校无限制游戏

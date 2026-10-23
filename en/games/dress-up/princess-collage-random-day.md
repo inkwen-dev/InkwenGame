@@ -19,6 +19,6 @@ Our princess are enjoying their college life. Random day, The girls are getting 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Barbie, Boys, Dress Up, Fashion, Girls, Kids

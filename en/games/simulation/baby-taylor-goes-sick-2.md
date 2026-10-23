@@ -19,6 +19,6 @@ It's bright sun outside but our cheerful Taylor, who always wake up early mornin
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cute, Doctor, Girl, Girls, Kids, Simulation, Surgery
+- Tags: Baby, Cute, Doctor, Girl, Girls, Kids, Simulation, surgery

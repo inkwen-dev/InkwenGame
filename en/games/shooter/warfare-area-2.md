@@ -21,4 +21,4 @@ Take the rifle and get ready for a battle in this 3D first person shooter game p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Android, Army, Battle, Boys, Gun, HTML5, Killing, Mobile, Shoot, Shooter, Shooting, War, weapons
+- Tags: 3D, 3D Games, Action, Android, Army, battle, Boys, Gun, HTML5, Killing, Mobile, Shoot, Shooter, Shooting, War, weapons

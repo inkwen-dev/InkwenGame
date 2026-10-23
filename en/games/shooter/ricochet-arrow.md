@@ -19,6 +19,6 @@ kill dangerous skeleton men in 30 different levels. Determine your target before
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boy, Clicker, Kill, Mobile, Shooting

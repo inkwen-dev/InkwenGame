@@ -19,6 +19,6 @@ Cozy Sort: Theme Collect is a relaxing triple-match sorting puzzle game where yo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cool, Food, Match 3
+- Tags: cool, Food, Match 3

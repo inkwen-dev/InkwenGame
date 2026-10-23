@@ -19,6 +19,6 @@ Touch the screen to draw a line Hold on 10 seconds to prevent the bees from hurt
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Brain, Click, Clicker, Mind, Puzzle

@@ -19,6 +19,6 @@ TenTrix Block is an exciting block puzzle game that challenges your logic and st
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Puzzle, puzzleblock
+- Tags: block, Puzzle, puzzleblock

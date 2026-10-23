@@ -21,4 +21,4 @@ Mountain Rider is a physics simulation game template where you ride down the cha
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Bike, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids
+- Tags: Action, bike, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids

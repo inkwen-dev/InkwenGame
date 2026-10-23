@@ -19,6 +19,6 @@ Cat vs Rats! Many mice robots invaded the land of cats. All led by the King and 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Best, Boys, Casual, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Puzzle

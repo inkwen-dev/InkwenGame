@@ -21,4 +21,4 @@ BLOKKU 是一款令人上瘾的方块拼图游戏！将方块拖放到 11x11 的
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: AI 游戏, 方块, 地图游戏, 拼图, 益智方块, 俄罗斯方块
+- 标签: AI游戏, 方块, mapi games, 益智, 拼图块, tetris

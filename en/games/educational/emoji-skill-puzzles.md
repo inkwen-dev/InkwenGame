@@ -21,4 +21,4 @@ Emoji Skill Puzzles is an engaging skill game. Featuring levels constructed enti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Educational, Fun, Funny, Kids, Matching, Memory, Mobile, Skill
+- Tags: Best, educational, Fun, Funny, Kids, Matching, memory, Mobile, Skill

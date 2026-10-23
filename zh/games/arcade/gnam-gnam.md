@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 可爱, 女孩, 女孩们, HTML, HTML5, 儿童, 怪物
+- 标签: 街机, 可爱, 女孩, 女孩, HTML, HTML5, 儿童, monster

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 婴儿, 婴儿游戏, 换装, 时尚, 发型, HTML5, 儿童, 小孩
+- 标签: 安卓, 婴儿, 婴儿游戏, 装扮, 时尚, 头发, HTML5, 儿童, 儿童

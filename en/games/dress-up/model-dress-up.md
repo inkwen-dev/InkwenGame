@@ -19,6 +19,6 @@ Model Dress up is a fun dressup game with amazing graphics and customization. Ta
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Dress Up, Girl, Girls, Kids, Mobile

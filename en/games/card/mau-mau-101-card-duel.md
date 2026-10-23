@@ -15,6 +15,6 @@ Dive into Mau-Mau - 101 Card Duel, where both wit and strategy shine. Discard yo
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Card
+- Tags: card

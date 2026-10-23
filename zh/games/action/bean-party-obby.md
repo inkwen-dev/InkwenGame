@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 六边形, 跳跃, 儿童, 障碍, 平台, 跑步, 生存
+- 标签: hexagon, 跳跃, 儿童, 障碍, 平台, 奔跑, 生存

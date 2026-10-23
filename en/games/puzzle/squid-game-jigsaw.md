@@ -19,6 +19,6 @@ Squid Game Jigsaw is a brain puzzle assembly Game. Squid Game Jigsaw comes with 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Brain, Click, Clicker, Game, H5, Hot, HTML, HTML5, Hypercasual, Jigsaw, Kid, Kids, Mind, Puzzle, Strategy
+- Tags: Best, Brain, Click, Clicker, Game, H5, Hot, HTML, HTML5, Hypercasual, Jigsaw, Kid, Kids, Mind, Puzzle, strategy

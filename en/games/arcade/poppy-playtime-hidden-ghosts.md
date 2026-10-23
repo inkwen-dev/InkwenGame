@@ -19,6 +19,6 @@ Poppy Playtime Hidden Ghosts is a fun online skill and hidden object game. Find 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Fun, Ghost, Hidden, Mobile, Puzzle, Skill

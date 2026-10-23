@@ -21,4 +21,4 @@ Cooking Fever is one of the newest and most addictive restaurant food cooking ga
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Android, Burger, Cake, Casual, Cook, Cooking, Food, Girl, Girls, H5, Restaurant, Simulation, Simulator
+- Tags: Android, Burger, Cake, Casual, Cook, Cooking, Food, Girl, Girls, H5, restaurant, Simulation, Simulator

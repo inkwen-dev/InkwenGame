@@ -19,6 +19,6 @@ Are you ready for some online games multiplayer or choose to run alone? After th
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Multiplayer, Pixel, Shoot, Shooter, Shooting, Unity3D, WebGL
+- Tags: Car, Multiplayer, pixel, Shoot, Shooter, Shooting, Unity3D, WebGL

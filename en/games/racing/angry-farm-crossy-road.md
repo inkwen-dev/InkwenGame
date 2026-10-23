@@ -19,6 +19,6 @@ The farm gate had been left open! The farm's chickens ran outside to see what wa
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Animal, Arcade, Avoid, Boy, Car, Chicken, Collecting, Game, Kid, Obstacle, Relaxation

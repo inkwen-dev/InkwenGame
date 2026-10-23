@@ -15,6 +15,6 @@ Craft your own cosmic paradise in The Earth Evolution! Strategically place build
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Strategy
+- Tags: strategy

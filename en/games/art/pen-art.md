@@ -21,4 +21,4 @@ Just Tap to Draw Art images to avoid Obstacles. Have Fun! Enjoy the TOP Trending
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Casual, Cool, Funny, HTML5, WebGL
+- Tags: 3D, Avoid, Casual, cool, Funny, HTML5, WebGL

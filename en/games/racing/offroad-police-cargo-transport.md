@@ -19,6 +19,6 @@ Offroad Police Cargo Transport is a nice offroad driving game where you will dri
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, Driving, Police, Road, Truck, WebGL
+- Tags: 3D, Car, Driving, police, Road, truck, WebGL

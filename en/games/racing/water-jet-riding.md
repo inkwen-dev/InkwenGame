@@ -21,4 +21,4 @@ This is a simple speedboat racing game. Your goal is to travel the maximum dista
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Avoid, Boat, Driving, endless, HTML5, html5 games for your site, Mouse, Race, Racing, Side Scrolling, Sports, water
+- Tags: Adventure, Arcade, Avoid, Boat, Driving, endless, HTML5, html5 games for your site, Mouse, Race, Racing, Side Scrolling, sports, water

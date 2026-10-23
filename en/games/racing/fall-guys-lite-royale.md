@@ -21,4 +21,4 @@ Run away from your Fall Guys or they will knock you over! Start playing the most
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Adventure, Battle, endless
+- Tags: 3D Games, Adventure, battle, endless

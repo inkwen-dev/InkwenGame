@@ -19,6 +19,6 @@ Winnie-the-Pooh, also called Pooh Bear, is a fictional anthropomorphic teddy bea
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Card, Puzzle
+- Tags: Brain, card, Puzzle

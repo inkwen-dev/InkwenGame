@@ -21,4 +21,4 @@ Descend into the subway and head towards a new adventure in the endless runner S
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Arcade, HTML, HTML5, Hypercasual, jump, Jumping, run, running, subway, Subway Surfers, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Arcade, HTML, HTML5, Hypercasual, jump, jumping, run, running, subway, Subway Surfers, Unity3D

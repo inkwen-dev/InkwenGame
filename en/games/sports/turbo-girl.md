@@ -19,6 +19,6 @@ This is a very wonderful leisure puzzle game. The game uses a beautiful painting
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, Action, Adventure, Arena, Bounce, H5, Sports
+- Tags: .io Games, 1 Player, Action, Adventure, Arena, Bounce, H5, sports

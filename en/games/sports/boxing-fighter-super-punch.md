@@ -21,4 +21,4 @@ Try to punch all boxers coming from both side to attack you. Beat em Up !!! BOXI
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boxing, Fight, Fighting, Pixel, Punch
+- Tags: Boxing, Fight, fighting, pixel, Punch

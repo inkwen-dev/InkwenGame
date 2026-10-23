@@ -21,4 +21,4 @@ Now it's time to go out of town, into the forest for a picnic. It's time to coll
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Best, Boys, Girls, Kids, Planet, Road, Sports
+- Tags: Adventure, Best, Boys, Girls, Kids, Planet, Road, sports

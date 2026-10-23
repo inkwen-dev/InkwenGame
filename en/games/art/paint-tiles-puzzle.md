@@ -19,6 +19,6 @@ Welcome to Paint Tiles Puzzle, where creativity meets logic in a colorful puzzle
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Drawing, Fun
+- Tags: Brain, drawing, Fun

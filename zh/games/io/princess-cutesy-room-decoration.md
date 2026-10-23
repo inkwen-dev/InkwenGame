@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 单人, 婴儿, 宝宝哈泽尔
+- 标签: .io, .io 游戏, 单人, 婴儿, 小哈泽尔

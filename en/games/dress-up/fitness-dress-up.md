@@ -21,4 +21,4 @@ Good news for all fitness girls, sports fashionistas, athletes and fans of makeo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Arena, Baby, Celebrity, Crazy, Decorate, Design, Dress Up, Fashion, Girl, Girls, Hair, Love, Makeover, Princess, Sports
+- Tags: Arcade, Arena, Baby, Celebrity, crazy, Decorate, Design, Dress Up, Fashion, Girl, Girls, Hair, Love, Makeover, Princess, sports

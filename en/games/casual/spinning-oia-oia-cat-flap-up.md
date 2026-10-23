@@ -15,6 +15,6 @@ Embark on an upward arcade adventure with the lovable Oia Oia Cat, dodging swift
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Casual

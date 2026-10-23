@@ -21,4 +21,4 @@ You are brave soldier train to escape from this dark castle. To do that you need
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Fun, HTML5, Jumping, Kids, Mobile, Puzzle, Skill
+- Tags: Adventure, Fun, HTML5, jumping, Kids, Mobile, Puzzle, Skill

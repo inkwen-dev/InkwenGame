@@ -19,6 +19,6 @@ Place defensive units for a short period of time and stop animal waves. Don't le
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Boys, Cartoon, Cartoon Network, Game, Girls, Kids, Online, Tower Defense

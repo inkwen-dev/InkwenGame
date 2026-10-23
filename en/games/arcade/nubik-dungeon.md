@@ -21,4 +21,4 @@ Immerse yourself in the exciting world of dungeons, where incredible adventures 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, Arcade, Jumping, Kids, Levels, Pixel, unity
+- Tags: 2D, Android, Arcade, jumping, Kids, Levels, pixel, unity

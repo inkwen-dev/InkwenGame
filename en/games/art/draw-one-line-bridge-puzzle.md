@@ -25,4 +25,4 @@ Play Draw One Line Bridge Puzzle, a free brain-teasing game where you build brid
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing, Puzzle
+- Tags: drawing, Puzzle

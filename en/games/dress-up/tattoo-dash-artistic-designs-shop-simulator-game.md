@@ -19,6 +19,6 @@ Hey Tattoo Lovers!! Here's one of the best game for a tattoo artist or a tattoo 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Anime, Arcade, Best, Boys, Cartoon, Cartoon Network, Casual, Design, Fashion, Fun, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Princess

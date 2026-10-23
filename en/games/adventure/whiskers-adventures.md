@@ -19,6 +19,6 @@ Whiskers Adventures is a fun mobile game offering exciting adventures as players
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Block, Casual, Game, Games, Puzzle, puzzleblock, Unity3D
+- Tags: 3D, 3D Games, Adventure, block, Casual, Game, Games, Puzzle, puzzleblock, Unity3D

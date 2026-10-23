@@ -19,6 +19,6 @@ When you hear that you are going to the hospital, your baby is very scared? In f
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cute, Doctor, Dress Up, Educational, Girl, Girls, Kids, Simulation, Surgery
+- Tags: Animal, Baby, Cute, Doctor, Dress Up, educational, Girl, Girls, Kids, Simulation, surgery

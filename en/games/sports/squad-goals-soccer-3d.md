@@ -21,4 +21,4 @@ Squad Goals is fun and simple 3D soccer game that can quickly turn into a crazy 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Alien, Android, Animal, Ball, Basketball, Football, Robot, Skill, Soccer, Sport, Sports, Tennis, Zombie
+- Tags: 3D, Alien, Android, Animal, Ball, basketball, Football, Robot, Skill, Soccer, Sport, sports, Tennis, Zombie

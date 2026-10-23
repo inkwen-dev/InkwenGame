@@ -21,4 +21,4 @@ Burrito Bison is here and he’s brought friends! With more than 15 million play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Fight, fly, jump, Jumping
+- Tags: Adventure, Arcade, Fight, fly, jump, jumping

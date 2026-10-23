@@ -21,4 +21,4 @@ Play one of the most realistic parking games on the market. Drive various cars e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 8 Ball Pool, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, Cat, Chicken, drift, drifting, Fashion, Games, Girl, Girls, Mario, Sports, Supercars, Superhero, tomb
+- Tags: .io Games, 8 Ball Pool, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, Cat, Chicken, drift, drifting, Fashion, Games, Girl, Girls, mario, sports, Supercars, Superhero, tomb

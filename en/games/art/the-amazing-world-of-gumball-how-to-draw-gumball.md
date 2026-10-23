@@ -21,4 +21,4 @@ THE AMAZING WORLD OF GUMBALL: HOW TO DRAW GUMBALL GAME · PLAY ONLINE FOR FREE T
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cartoon, Cartoon Network, Collection, Color, Coloring, Draw, Drawing, Girls, Kids
+- Tags: Boys, Cartoon, Cartoon Network, Collection, Color, Coloring, Draw, drawing, Girls, Kids

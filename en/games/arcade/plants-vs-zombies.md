@@ -19,6 +19,6 @@ Play the hit action-strategy adventure where you meet, greet, and defeat legions
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Casual, HTML5, Hypercasual, Mermaid, Monster, Plant, Zombie
+- Tags: Action, Adventure, Arcade, Casual, HTML5, Hypercasual, Mermaid, monster, Plant, Zombie

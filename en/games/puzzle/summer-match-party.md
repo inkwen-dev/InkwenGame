@@ -19,6 +19,6 @@ Summer Match Party is a classic and free online leisure game for boys. The game 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Block, Boy, Brain, Bricks, Fun, Games, HTML5, Kids, Matching, Multiplayer, Online, Puzzle, Stickman, Summer
+- Tags: 3D, Android, block, Boy, Brain, Bricks, Fun, Games, HTML5, Kids, Matching, Multiplayer, Online, Puzzle, stickman, Summer

@@ -19,6 +19,6 @@ Make the craziest traffic intersections safe in this super fun and easy-to-play 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Crazy, Girls, Hypercasual, Race, Racing, Traffic
+- Tags: Boys, crazy, Girls, Hypercasual, Race, Racing, Traffic

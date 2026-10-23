@@ -19,6 +19,6 @@ In this classical bubble shooter game, collect the Xmas lights before they chase
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, Christmas, HTML5, Match 3, Matching, Mobile, Shooter, Winter

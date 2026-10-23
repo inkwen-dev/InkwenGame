@@ -19,6 +19,6 @@ Perfect Wax 3D is a marvelous casual game. The word wax usually means a solid su
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Boys, Fun, Girl, Girls, H5, HTML, HTML5, Hypercasual, Kid, Kids, Race

@@ -21,4 +21,4 @@ Welcome to the fascinating world of the game, where balls and sand become part o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, amazing, Ball, Battle, Casual, free html5 games for your website, Game, html5 games, Hypercasual, Kids, Levels, unity, WebGL
+- Tags: 1 Player, 2D, amazing, Ball, battle, Casual, free html5 games for your website, Game, html5 games, Hypercasual, Kids, Levels, unity, WebGL

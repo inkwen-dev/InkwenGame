@@ -19,6 +19,6 @@ Diy Keyboard is a very unique art game. Have you ever thought about design your 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Creation, Cute, Design, Drawing, Fun, Girls, HTML5, Kids, Mobile
+- Tags: Coloring, Creation, Cute, Design, drawing, Fun, Girls, HTML5, Kids, Mobile

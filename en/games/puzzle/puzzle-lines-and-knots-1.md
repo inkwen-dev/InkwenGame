@@ -15,6 +15,6 @@ Unwind with Puzzle - Lines And Knots 1, a serene logic game. Connect nodes by al
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Puzzle

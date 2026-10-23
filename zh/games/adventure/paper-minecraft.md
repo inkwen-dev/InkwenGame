@@ -21,4 +21,4 @@ Paper Minecraft 是一款受著名方块世界 Minecraft 启发的 2D 沙盒冒�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2026年游戏, 2D, 方块, 经典, 手工, HTML5游戏, 我的世界, 像素, 沙盒, 世界
+- 标签: 2026 游戏, 2D, 方块, 经典, 建造, HTML5游戏, 我的世界, 像素, 沙盒, 世界

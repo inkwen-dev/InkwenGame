@@ -19,6 +19,6 @@ Let us introduce you Duddu, our new dog! He is a super nice dog who lives in a w
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cooking, Cute, Decorate, Decoration, Dress Up, Fun, Girl, Grooming, HTML5, Kids, Mobile, Puzzle

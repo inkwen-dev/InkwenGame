@@ -21,4 +21,4 @@ Try to reach the earth's core within 30 days to win! Dig down deep, collect prec
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Minecraft, Miner, Pixel
+- Tags: Minecraft, Miner, pixel

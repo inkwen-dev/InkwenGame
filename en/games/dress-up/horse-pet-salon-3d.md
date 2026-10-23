@@ -19,6 +19,6 @@ If you love caring for horses, then this fun salon game is perfect for you. You'
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Action, Adventure, Arcade, Casual, Dress Up, Fun, Funny, Hypercasual, Pony

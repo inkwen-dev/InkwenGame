@@ -21,4 +21,4 @@ The latest version of mixed fruit juice master is fresh and crisp. You can compl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Cook, Cooking, Cool, Crafting, cut, Food, Funny
+- Tags: 3D Games, Cook, Cooking, cool, Crafting, cut, Food, Funny

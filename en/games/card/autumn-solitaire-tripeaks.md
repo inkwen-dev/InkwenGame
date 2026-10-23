@@ -21,4 +21,4 @@ Play Classic TriPeaks or 100 different autumn levels. Remove all cards from the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Girls, Holiday, Logical, Puzzle, Solitaire
+- Tags: card, Girls, Holiday, Logical, Puzzle, solitaire

@@ -21,4 +21,4 @@ Ragdoll Soccer is a physics based soccer game. You can play the game in 1 player
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Boy, Boys, Fun, Funny, Soccer, Sport, Sports
+- Tags: 2 Player, 2 Player Games, Boy, Boys, Fun, Funny, Soccer, Sport, sports

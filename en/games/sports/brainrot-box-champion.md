@@ -19,6 +19,6 @@ STRESSED? PUNCH IT AWAY! Brainrot: Box Champion! &mdash; the 3D boxing game that
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Boxing, Brainrot, Brainrot Italian, Brainrot sahuuur, Enemies, Fighting, Funny, Italian Brainrot, Punch, ragdoll, Sport, Street Fighting
+- Tags: 1 Player, 3D, Boxing, Brainrot, Brainrot Italian, Brainrot sahuuur, Enemies, fighting, Funny, Italian Brainrot, Punch, ragdoll, Sport, Street Fighting

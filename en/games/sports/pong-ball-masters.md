@@ -21,4 +21,4 @@ Play Pong Ball Masters game to entertain and train your ingenuity. You can play 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Sport, Sports, Tennis
+- Tags: Arcade, Ball, Sport, sports, Tennis

@@ -21,4 +21,4 @@ Candy Diamond is one of the most using game with all age of peoples.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, Arcade, Arkanoid, Battle, Bejeweled, Bomb, Bricks, Bridge, Bubble Shooter, Classic, Cleaning, Click, Clicker, Collecting, Collection, Color, Coloring, CSGO, Cute, Elsa, Fight, Game, Games, Girl, Girls, Google, Grooming, gta, H5, HTML, HTML5, Jewel, Jigsaw, Kid, Kids, Kiz 10, kiz10, Lego, Mahjong, Match 3, Match3, Matching, Minecraft, Multiplayer, New, Puzzle, RPG, Sandbox, School, Shooter, Shooting, Stickman
+- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, Arcade, Arkanoid, battle, Bejeweled, Bomb, Bricks, Bridge, Bubble Shooter, Classic, Cleaning, Click, Clicker, Collecting, Collection, Color, Coloring, CSGO, Cute, Elsa, Fight, Game, Games, Girl, Girls, Google, Grooming, gta, H5, HTML, HTML5, Jewel, Jigsaw, Kid, Kids, Kiz 10, kiz10, Lego, mahjong, Match 3, Match3, Matching, Minecraft, Multiplayer, New, Puzzle, rpg, Sandbox, School, Shooter, Shooting, stickman

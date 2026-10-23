@@ -19,6 +19,6 @@ Few months ago my wife and I escaped from siren head. Or we thought so...Siren h
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Kiz 10, kiz10

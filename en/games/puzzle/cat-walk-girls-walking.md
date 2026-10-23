@@ -19,6 +19,6 @@ Do you want that dress? All you have to do is say yes! Customers are lining up a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Bubble Shooter, bus, Car, Cars, Girl, Girls, Race, Racing, Shoot, Shoot 'Em Up, Shooter, Shooting, Supercars, Unity3D

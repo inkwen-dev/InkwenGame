@@ -19,6 +19,6 @@ Fun Golf is a game in which you need to hit the golf ball into the holes located
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Best, Best Games, Fun, Funny, Golf, Kids, Logic, Mobile
+- Tags: Ball, Best, Best Games, Fun, Funny, golf, Kids, Logic, Mobile

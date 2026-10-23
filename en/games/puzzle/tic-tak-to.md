@@ -19,6 +19,6 @@ Tic Tac Toe Game - Description &amp; Controls Game Description This Tic Tac Toe 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Stickman
+- Tags: 2 Player, stickman

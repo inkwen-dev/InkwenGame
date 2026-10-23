@@ -21,4 +21,4 @@ Dunk Jump Basket
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Sports
+- Tags: basketball, sports

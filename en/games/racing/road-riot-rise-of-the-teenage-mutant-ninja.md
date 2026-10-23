@@ -19,6 +19,6 @@ Play Road Riot - Rise of the Teenage Mutant Ninja Turtles Game online in your we
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Avoid, Best, Boys, Cartoon, drift, Driving, Fun, Girls, Highscore, HTML5, Mobile, Ninja, Race, Racing, Shooting
+- Tags: Action, Adventure, Avoid, Best, Boys, Cartoon, drift, Driving, Fun, Girls, Highscore, HTML5, Mobile, ninja, Race, Racing, Shooting

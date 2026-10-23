@@ -19,6 +19,6 @@ Play Bmx Tricks and Control a BMX around a inside track and use the ramps to do 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Boys, Fun, Girls, Kid, Sport
+- Tags: bike, Boys, Fun, Girls, Kid, Sport

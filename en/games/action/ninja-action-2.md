@@ -21,4 +21,4 @@ Did you played Ninja Action? Now try Ninja Action 2 A Enhanced one of the first 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Jumping, Ninja, Obstacle, Platform
+- Tags: 1 Player, jumping, ninja, Obstacle, Platform

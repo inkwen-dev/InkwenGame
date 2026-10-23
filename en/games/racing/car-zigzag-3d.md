@@ -19,6 +19,6 @@ Are you a cars driving games lover? Welcome this is Car ZigZag 3D, a new Car dri
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Car, Cars, drifting, Driving, Highscore, Race, Racing, Supercars

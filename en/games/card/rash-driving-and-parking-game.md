@@ -19,6 +19,6 @@ Welcome to the Offroad jeep driving games 4x4 where you will enjoy the offroad c
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Boy, Boys, Car, Card, drift, drifting, Driving, Game, Parking, Simulation, Simulator, Stunts, Supercars
+- Tags: 3D Games, Boy, Boys, Car, card, drift, drifting, Driving, Game, parking, Simulation, Simulator, Stunts, Supercars

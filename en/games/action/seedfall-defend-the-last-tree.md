@@ -21,4 +21,4 @@ Seedfall is a 2D endless side-scroller where nature is your last weapon. Defend 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Casual, Pixel, Platform, Strategy
+- Tags: 2D, Casual, pixel, Platform, strategy

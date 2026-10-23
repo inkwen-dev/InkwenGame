@@ -21,4 +21,4 @@ Plants vs Undead is a tower deffense strategy game. If you are gamers, of course
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Clicker, Hot, HTML5, Hypercasual, Monster, Plant, Strategy, Zombie
+- Tags: Best, Clicker, Hot, HTML5, Hypercasual, monster, Plant, strategy, Zombie

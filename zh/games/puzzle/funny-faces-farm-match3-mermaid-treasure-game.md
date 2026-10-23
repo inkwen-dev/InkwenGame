@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 成人, 冒险, 街机, 男孩, Farm, 搞笑, 女孩, HTML, HTML5, 儿童, 逻辑, 消除3, 三消, 拼图, WebGL
+- 标签: .io 游戏, 成人, 冒险, 街机, 男孩, 农场, 搞笑, 女孩, HTML, HTML5, 儿童, 逻辑, 三消, 三消游戏, 益智, WebGL

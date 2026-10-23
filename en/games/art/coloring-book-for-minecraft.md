@@ -19,6 +19,6 @@ Are you into Minecraft ? Minecraft Coloring Book: A Stunning Coloring Book Inclu
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Color, Coloring, Draw, Drawing, Game, Minecraft, Online, Puzzle
+- Tags: Cartoon, Color, Coloring, Draw, drawing, Game, Minecraft, Online, Puzzle

@@ -21,4 +21,4 @@ In Tactical Response Team, step into the boots of an elite marksman where every 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, First Person Shooter, military, Shoot, Sniper, Unity3D, WebGL
+- Tags: Arcade, First Person Shooter, military, Shoot, sniper, Unity3D, WebGL

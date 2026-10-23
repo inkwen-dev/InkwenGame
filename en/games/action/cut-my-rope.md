@@ -19,6 +19,6 @@ Cut My Rope comes with a whole new cut ropes game to add on to the very successf
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, cut, running, Strategy
+- Tags: Action, Adventure, cut, running, strategy

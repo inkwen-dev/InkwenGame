@@ -19,6 +19,6 @@ Modern ultimate army sniper shooter experience is back with the latest installme
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Army, Boys, HTML5, Killing, Shooter, Sniper, War, WebGL
+- Tags: 1 Player, 3D, Army, Boys, HTML5, Killing, Shooter, sniper, War, WebGL

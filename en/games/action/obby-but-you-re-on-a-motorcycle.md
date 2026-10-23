@@ -36,4 +36,4 @@ Jump on, hit the gas, and get ready for total chaos in “Obby, but you're on a 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Bike, dirt-bike, Driving, motorbike, obby
+- Tags: bike, dirt-bike, Driving, motorbike, obby

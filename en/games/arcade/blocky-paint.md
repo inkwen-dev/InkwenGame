@@ -19,6 +19,6 @@ Blocky Paint is a captivating Unity-based game script that combines the thrill o
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, HTML5, Mobile, unity games for your website, Unity3D, WebGL

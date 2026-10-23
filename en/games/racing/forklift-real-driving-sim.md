@@ -19,6 +19,6 @@ Using a forklift, your objective in this new and entertaining Real City Forklift
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Android, Car, Cars, Driving, HTML, HTML5, Mobile, Sim, Simulator, Unity3D, WebGL

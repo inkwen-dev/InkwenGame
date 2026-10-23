@@ -21,4 +21,4 @@ Your horse is waiting for an unforgettable adventure! Traveling around the islan
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Animal, Horse, Simulator
+- Tags: 3D, Animal, horse, Simulator

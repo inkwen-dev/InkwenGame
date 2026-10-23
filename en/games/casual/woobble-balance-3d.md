@@ -19,6 +19,6 @@ Woobble Balance 3D is an engaging mobile game that challenges players to control
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Balance, Ball, Hypercasual, Mentolatux, Skill, Unity3D, WebGL

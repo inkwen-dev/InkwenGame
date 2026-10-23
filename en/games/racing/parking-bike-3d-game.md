@@ -19,6 +19,6 @@ Bike Parking 2021 - Motorcycle Racing Adventure 3D is the most current and among
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Bike, Driving, Moto, Motorcycle, Parking, Skill, Unity3D, WebGL
+- Tags: 3D Games, Action, bike, Driving, Moto, Motorcycle, parking, Skill, Unity3D, WebGL

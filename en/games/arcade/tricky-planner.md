@@ -19,6 +19,6 @@ Tricky Planner is a challenging arcade puzzle game that tests your logic, timing
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Best Games, Casual, HTML5, NapTech Games, Online, Puzzle, Skill

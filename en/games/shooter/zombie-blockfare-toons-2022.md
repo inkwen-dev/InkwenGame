@@ -21,4 +21,4 @@ Try both the multiplayer modes of the 3D survival horror game MultiGun Stadium 3
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Block, Multiplayer, Shooter, Shooting, Unity3D
+- Tags: 3D Games, block, Multiplayer, Shooter, Shooting, Unity3D

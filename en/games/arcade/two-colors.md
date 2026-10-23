@@ -19,6 +19,6 @@ This is a game in which you need to score as many points as you can by moving co
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Ball, Bounce, Brain, Color

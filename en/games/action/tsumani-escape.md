@@ -19,6 +19,6 @@ Find your way to escape from the Tsunami. Each level is a challenge. Are you rea
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adult, Adventure, Air, Alien, Android, Animal, Anime, Arcade, Arena, Army, Avoid, Baby, Baby Hazel, Balance, Barbie, Battle, Best, Boat, Boy, Boys, Escape, Family, Girl, Girls, Kid, Kids, Shark, Zuma
+- Tags: 3D, Action, Adult, Adventure, Air, Alien, Android, Animal, Anime, Arcade, Arena, Army, Avoid, Baby, Baby Hazel, Balance, Barbie, battle, Best, Boat, Boy, Boys, Escape, Family, Girl, Girls, Kid, Kids, Shark, Zuma

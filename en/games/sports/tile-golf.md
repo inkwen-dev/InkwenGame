@@ -21,4 +21,4 @@ Tile golf is a new golf game developed in javascript and HTML5 . The objective o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Golf, HTML5, Kids
+- Tags: golf, HTML5, Kids

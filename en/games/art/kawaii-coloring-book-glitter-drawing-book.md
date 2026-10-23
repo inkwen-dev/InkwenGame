@@ -19,6 +19,6 @@ Kawaii Coloring Book Glitter is the best kawaii game for kids and adults with am
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Casual, Color, Coloring, Draw, Drawing, Girl, Girls, H5, HTML5
+- Tags: Boy, Boys, Casual, Color, Coloring, Draw, drawing, Girl, Girls, H5, HTML5

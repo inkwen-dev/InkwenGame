@@ -19,6 +19,6 @@ MEMORY WORLD CUP, IS A MEMORY GAME, WHERE THE PLAYER NEEDS TO FIND THE PAIR OF E
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Click, Clicker, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Play, Puzzle, World

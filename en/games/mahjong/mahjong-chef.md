@@ -32,4 +32,4 @@ A tile-matching puzzle game inspired by Mahjong Solitaire. Tap two free tiles of
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mahjong, Puzzle
+- Tags: mahjong, Puzzle

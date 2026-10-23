@@ -15,6 +15,6 @@ In Farm Maze Runner, navigate a pixelated labyrinth as James the farmer, where c
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Retro
+- Tags: retro

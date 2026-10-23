@@ -21,4 +21,4 @@ You’re the airport manager and the things are not that easy. A lot of people c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Kids, Management, WebGL
+- Tags: 2D, Kids, management, WebGL

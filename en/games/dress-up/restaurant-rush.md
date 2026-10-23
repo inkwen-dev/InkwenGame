@@ -21,4 +21,4 @@ Step into the kitchen and build your culinary empire in Restaurant Rush! Start w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 3D, 3D Games, Adventure, amazing, Best Games, Burger, Cooking, Cool, Crazy, Food, Hypercasual, Makeover
+- Tags: 1 Player, 2026 games, 3D, 3D Games, Adventure, amazing, Best Games, Burger, Cooking, cool, crazy, Food, Hypercasual, Makeover

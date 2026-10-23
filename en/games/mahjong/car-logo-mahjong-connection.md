@@ -19,6 +19,6 @@ Connect all the car logo mahjong tiles and clear the board in this html5 mahjong
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, HTML5, Mahjong, Mobile
+- Tags: Car, Cars, HTML5, mahjong, Mobile

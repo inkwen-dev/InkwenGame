@@ -15,6 +15,6 @@ Race through vibrant landscapes as a lightning-fast dinosaur in Dyno Run! Master
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Dinosaur

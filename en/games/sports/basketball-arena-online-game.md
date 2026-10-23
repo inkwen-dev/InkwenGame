@@ -21,4 +21,4 @@ You’re very welcome to challenge your friends on this brand-new basketball gam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Basketball, Game, Games
+- Tags: 2 Player, 2 Player Games, basketball, Game, Games

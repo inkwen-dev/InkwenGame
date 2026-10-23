@@ -19,6 +19,6 @@ Welcome to Five Nights at Horror Games, a spine-chilling experience for thrill-s
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Android, Horror, HTML5, iPad, iPhone, Mentolatux, Mobile, Unity3D

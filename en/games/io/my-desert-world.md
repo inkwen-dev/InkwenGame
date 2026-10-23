@@ -21,4 +21,4 @@ My desert world game is a fun simulation business game. In this desert, you will
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 3D, 3D Games, Action, Block, Board, Bricks, Casual, Creation
+- Tags: .io, 3D, 3D Games, Action, block, Board, Bricks, Casual, Creation

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 冒险, 防御, 魔法, 怪物, 策略, 塔防
+- 标签: 动作, 冒险, 防御, 魔法, monster, 策略, 塔防

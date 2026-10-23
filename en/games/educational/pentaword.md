@@ -21,4 +21,4 @@ Guess the hidden five-letter word in just six tries! Use logic, spelling, and wo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Educational, html5 games, Mobile, Puzzle, School, Word
+- Tags: Brain, educational, html5 games, Mobile, Puzzle, School, word

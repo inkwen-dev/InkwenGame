@@ -15,6 +15,6 @@ Dive into the vibrant world of Rhyme Workout, where quick thinking meets languag
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: trivia

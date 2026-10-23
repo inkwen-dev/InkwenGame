@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Minecraft, 矿工, 奇迹小瓢虫, 移动设备, 电影
+- 标签: 我的世界, 矿工, 奇迹少女, 移动设备, 电影

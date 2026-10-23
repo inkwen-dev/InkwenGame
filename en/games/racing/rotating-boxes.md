@@ -19,6 +19,6 @@ ChatGPT Rotating Boxes is a funny game where you must control a big rolling Box 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Family, HTML5, jump, Jumping, mapi games, Puzzle, Racing
+- Tags: Casual, Family, HTML5, jump, jumping, mapi games, Puzzle, Racing

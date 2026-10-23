@@ -15,6 +15,6 @@ Navigate chaotic docks in Boat Parking Jam, where you skillfully untangle colorf
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Brain

@@ -19,6 +19,6 @@ In a bustling hospital, doctors act as the front line of human resilience. When 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: emergency, health, hospital, Mentolatux, Unity3D, WebGL

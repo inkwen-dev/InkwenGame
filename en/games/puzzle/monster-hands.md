@@ -19,6 +19,6 @@ Press on the monsters to turn them in the way they connect with each other by th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Alien, Animal, Cute, Funny, Kids, Monster
+- Tags: 1 Player, 2D, Alien, Animal, Cute, Funny, Kids, monster

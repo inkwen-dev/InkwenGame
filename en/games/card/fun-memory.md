@@ -21,4 +21,4 @@ Test your focus and train your brain in this ultimate memory matching challenge!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Baby, Baby Games, Best, Best Games, Brain, Card, Casual, Classic, Click, Clicker
+- Tags: 1 Player, 2026 games, 2D, Baby, Baby Games, Best, Best Games, Brain, card, Casual, Classic, Click, Clicker

@@ -19,6 +19,6 @@ This is the best 2048 ball game you will ever play! This action-packed puzzle ga
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Ball, Baseball, Basketball, Boy, Boys, Dragon Ball Z, Football, Game, Games, Jumping, Pinball
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Ball, baseball, basketball, Boy, Boys, Dragon Ball Z, Football, Game, Games, jumping, Pinball

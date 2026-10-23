@@ -19,6 +19,6 @@ Dive into a rhythm-filled horror adventure! Join the scary yet fun-filled musica
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Horror, Music, Sprunki
+- Tags: Horror, music, Sprunki

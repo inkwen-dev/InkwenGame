@@ -19,6 +19,6 @@ You play as a nimble cat on a perilous journey. Your mission is to reach the top
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Avoid, Cat, jump, Kid, Kids, Mobile

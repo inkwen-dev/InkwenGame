@@ -21,4 +21,4 @@ Turbo Team Racing is a fast-paced top-down arcade racing game inspired by classi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: drift, drifting, Driving, mapi games, Pixel, Race, Racing, Retro
+- Tags: drift, drifting, Driving, mapi games, pixel, Race, Racing, retro

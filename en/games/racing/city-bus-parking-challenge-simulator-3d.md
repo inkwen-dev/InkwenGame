@@ -19,6 +19,6 @@ Welcome to the ultimate test of precision driving skills in the bustling urban e
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: bus, Car, city, Parking, Race, Racing, Simulation, Simulator
+- Tags: bus, Car, city, parking, Race, Racing, Simulation, Simulator

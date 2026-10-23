@@ -19,6 +19,6 @@ A logic puzzle game inspired by Nurikabe and Islands of Insight. Create islands 
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Board, Puzzle

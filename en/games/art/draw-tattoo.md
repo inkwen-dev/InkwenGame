@@ -21,4 +21,4 @@ Get ready to feel the satisfaction of watching your art become real tattoos! Rel
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Drawing, HTML5
+- Tags: Casual, drawing, HTML5

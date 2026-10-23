@@ -19,6 +19,6 @@ Protect the planet from falling asteroids! • The planet can only take 2 hits b
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Fun, Funny, Game, Games, Kid, Kids, Planet

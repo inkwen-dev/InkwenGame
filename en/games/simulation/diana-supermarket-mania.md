@@ -21,4 +21,4 @@ Ever wondered how supermarkets work? Don’t hesitate anymore! Diana & Roma Supe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cook, Cooking, Cool, Family, Game, Girls, Love, Mario
+- Tags: Cook, Cooking, cool, Family, Game, Girls, Love, mario

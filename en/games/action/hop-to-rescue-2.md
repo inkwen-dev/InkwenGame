@@ -19,6 +19,6 @@ Hop To Rescue is a fun and challenging platformer adventure where you help the h
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, Adventure, Arcade, free games for your site, free games for your website, free html5 games for your website, Games, jump, Jumping, NapTech Games, Online, Platform
+- Tags: 1 Player, 2025 games, Adventure, Arcade, free games for your site, free games for your website, free html5 games for your website, Games, jump, jumping, NapTech Games, Online, Platform

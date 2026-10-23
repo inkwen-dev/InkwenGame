@@ -21,4 +21,4 @@ Clay Craft Tycoon is a fun factory management game where you build and grow your
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: build, Business, Casual, Crafting, html5 games, idle, Management
+- Tags: build, Business, Casual, Crafting, html5 games, idle, management

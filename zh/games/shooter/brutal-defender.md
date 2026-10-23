@@ -21,4 +21,4 @@ WASD - 移动 左键 - 射击 R - 换弹 P - 暂停 F - 使用 空格键 - 跳�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 3D游戏, 动作, 血液, 枪械, 杀人, 射击游戏, 射击类, 射击, Unity3D, WebGL
+- 标签: 单人, 3D, 3D游戏, 动作, 血液, 枪械, 击杀, 射击游戏, 射击类, 射击, Unity3D, WebGL

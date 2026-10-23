@@ -21,4 +21,4 @@ In this adventure, Obby needs to rescue his brother Bacon from prison. Obby team
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Android, Arcade, Mobile, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Android, Arcade, Mobile, pixel

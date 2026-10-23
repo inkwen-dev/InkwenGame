@@ -52,4 +52,4 @@ Build your team, compete in matches, score penalties, and enjoy dynamic online s
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Ball, Multiplayer, obby, Soccer, Sports
+- Tags: 3D, Ball, Multiplayer, obby, Soccer, sports

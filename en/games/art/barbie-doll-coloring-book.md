@@ -21,4 +21,4 @@ Barbie Doll Coloring Book has a lot of unique pictures hand drawn about Barbie, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Barbie, Cartoon, Color, Coloring, Draw, Drawing, Puzzle
+- Tags: Barbie, Cartoon, Color, Coloring, Draw, drawing, Puzzle

@@ -21,4 +21,4 @@ Welcome to Monster Girl Maker. Ever wanted to create your own cute monster chara
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dress Up, Fashion, Fun, Girl, HTML5, Makeover, Monster, WebGL
+- Tags: Dress Up, Fashion, Fun, Girl, HTML5, Makeover, monster, WebGL

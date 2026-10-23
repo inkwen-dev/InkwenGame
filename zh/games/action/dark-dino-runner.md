@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2026年游戏, crazygamesunblocked, 恐龙, 恐龙, 无尽, 跑, 跑步, 无限制游戏, unblockedgames66, unblockedgames76, 学校无屏蔽游戏
+- 标签: 单人, 2026 游戏, crazygamesunblocked, 恐龙, Dino, 无尽, 跑, 奔跑, 无限制游戏, unblockedgames66, unblockedgames76, 学校无限制游戏

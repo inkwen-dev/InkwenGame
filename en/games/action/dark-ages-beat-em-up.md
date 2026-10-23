@@ -21,4 +21,4 @@ Doom: The Dark Ages reimagined as an illustrated arcade beat em up. Master the f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Brawl, Fight, Fighting
+- Tags: Action, Adventure, Arcade, Brawl, Fight, fighting

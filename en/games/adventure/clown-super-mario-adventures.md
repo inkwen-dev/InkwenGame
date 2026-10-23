@@ -19,6 +19,6 @@ Clown super Mario Adventures- Super Adventure gives you the chance to step back 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Clash, Game, Mario, Online, Super
+- Tags: Adventure, Clash, Game, mario, Online, Super

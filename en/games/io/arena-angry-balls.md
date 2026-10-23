@@ -21,4 +21,4 @@ You must destroy your enemies in the arena where angry faces are fighting each o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Arcade, Arena, Battle
+- Tags: .io, Arcade, Arena, battle

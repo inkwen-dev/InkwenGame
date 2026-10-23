@@ -21,4 +21,4 @@ Top Wing: Color the Cadets is a coloring book game based on the Top Wing animate
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Cartoon, Cartoon Network, Casual, Color, Coloring, Disney, Educational, HTML5, Kids, Puzzle
+- Tags: Arcade, Cartoon, Cartoon Network, Casual, Color, Coloring, Disney, educational, HTML5, Kids, Puzzle

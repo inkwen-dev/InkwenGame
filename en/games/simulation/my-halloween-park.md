@@ -19,6 +19,6 @@ Are you ready to run your own Halloween park? My Halloween Park is a 3D simulati
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Boys, Girl, Halloween, Kids, Management
+- Tags: Adventure, Boys, Girl, Halloween, Kids, management

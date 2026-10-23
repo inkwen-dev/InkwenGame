@@ -21,4 +21,4 @@ Tab - 菜单 WASD 驾驶 鼠标瞄准 开火 鼠标滚轮缩放 摄像头
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D 游戏, 射击, 模拟器, 坦克, 坦克, Unity3D, WebGL
+- 标签: 单人, 3D游戏, 射击, 模拟器, 坦克, tanks, Unity3D, WebGL

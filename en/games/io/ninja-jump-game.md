@@ -21,4 +21,4 @@ Ninja Jump Game The Best Advantre Game Save Your Nijs From Outside
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, Action, Adventure, Game, Games, Ninja, Ninjago
+- Tags: .io Games, 1 Player, Action, Adventure, Game, Games, ninja, Ninjago

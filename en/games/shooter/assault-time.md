@@ -19,6 +19,6 @@ Computer Arrow keys or W A S D to move the character Mouse to turn the character
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Android, Army, Boys, Bullet, Enemies, Gun, HTML5, iPhone, Killing, Mobile, Shooter

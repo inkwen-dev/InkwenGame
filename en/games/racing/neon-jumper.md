@@ -21,4 +21,4 @@ Try Neon Jumper now, an adrenaline-fueled game where you guide a small green squ
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: free html5 games for your website, html5 games, Hypercasual, jump, Jumping, mapi games, Racing
+- Tags: free html5 games for your website, html5 games, Hypercasual, jump, jumping, mapi games, Racing

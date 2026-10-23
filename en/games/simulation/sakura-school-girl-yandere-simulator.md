@@ -21,4 +21,4 @@ Sakura School Girl Yandere Simulator is a fight simulator, where you have to fig
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brawl, Fighting, Girl, School, Simulation
+- Tags: Brawl, fighting, Girl, School, Simulation

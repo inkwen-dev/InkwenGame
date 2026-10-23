@@ -21,4 +21,4 @@ Panda Story. You will have a lot of fun in the fun panda game. Help this cute pa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Funny, Pixel, Platform
+- Tags: Cartoon, Funny, pixel, Platform

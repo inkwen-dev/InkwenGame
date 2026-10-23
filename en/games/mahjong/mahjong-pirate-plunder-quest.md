@@ -30,4 +30,4 @@ Mahjong Pirate Plunder Quest is a tile-matching puzzle game based on classic Mah
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Board, Brain, Mahjong, Matching, pirates, Puzzle
+- Tags: Board, Brain, mahjong, Matching, pirates, Puzzle

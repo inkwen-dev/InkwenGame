@@ -21,4 +21,4 @@ VR X-Racer 是 X-Racer 的虚拟现实版本，拥有两种模式（手控竞速
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 单人, 2D, 动作, 冒险, 空中, 飞机, 街机
+- 标签: .io 游戏, 单人, 2D, 动作, 冒险, 空气, 飞机, 街机

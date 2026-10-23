@@ -19,6 +19,6 @@ Sporty Viper is a sporty version of snake-game where in place of food, the snake
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Collecting, Snake, Sports
+- Tags: Casual, Collecting, snake, sports

@@ -21,4 +21,4 @@ Jump the Blocks is an endless jumping game that will both frustrate and entertai
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Boy, Boys, Casual, endless, Hypercasual, jump, Jumping, Racing
+- Tags: block, Boy, Boys, Casual, endless, Hypercasual, jump, jumping, Racing

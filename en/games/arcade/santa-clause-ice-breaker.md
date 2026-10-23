@@ -21,4 +21,4 @@ Intensely addictive and optimized for all mobile devices! The Santa Clause Ice B
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Android, Arcade, Best, Crazy, Games, HTML5, jump, Jumping, Mobile, Unity3D
+- Tags: 3D, 3D Games, Action, Android, Arcade, Best, crazy, Games, HTML5, jump, jumping, Mobile, Unity3D

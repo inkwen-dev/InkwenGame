@@ -21,4 +21,4 @@ WASD - 驾驶；移动端用户请使用按钮界面
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 汽车, 驾驶, HTML5, iPad, iPhone, Mentolatux, 移动, 越野, 停车, 竞速, 超跑, Unity3D, WebGL
+- 标签: 安卓, 汽车, 驾驶, HTML5, iPad, iPhone, Mentolatux, 移动设备, 越野, 停车, 竞速, 超跑, Unity3D, WebGL

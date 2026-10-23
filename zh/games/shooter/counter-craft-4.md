@@ -21,4 +21,4 @@ Counter Craft 4 以爆炸性玩法为特色，你的任务是使用各种武器�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 3D游戏, 动作, 枪械, Minecraft, 投篮, 射击游戏, 射击类, 射击, Unity3D, WebGL, 僵尸
+- 标签: 单人, 3D, 3D游戏, 动作, 枪械, 我的世界, 射击, 射击游戏, 射击类, 射击, Unity3D, WebGL, 僵尸

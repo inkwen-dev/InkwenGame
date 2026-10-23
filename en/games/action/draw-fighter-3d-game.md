@@ -21,4 +21,4 @@ Draw Fighter 3d is an interesting drawing game. You can draw a powerful fighter 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boy, Boys, Fight, Fighting, Fun, H5, HTML5, Kid, Kids
+- Tags: 3D, 3D Games, Boy, Boys, Fight, fighting, Fun, H5, HTML5, Kid, Kids

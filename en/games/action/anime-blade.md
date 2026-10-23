@@ -19,6 +19,6 @@ Colorful anime beauties are waiting for you! Fight in battles, earn points and b
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adult, Adventure, amazing, Anime, attack, Battle, Best Games, Casual, Cute, Girl, Girls
+- Tags: 3D, 3D Games, Action, Adult, Adventure, amazing, Anime, attack, battle, Best Games, Casual, Cute, Girl, Girls

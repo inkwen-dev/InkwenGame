@@ -19,6 +19,6 @@ Help the adorable color Boxes characters collect all the missing pumpkins in thi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Family, Halloween, HTML5, jump, Jumping, mapi games, Mobile, Monster, Puzzle
+- Tags: Arcade, Family, Halloween, HTML5, jump, jumping, mapi games, Mobile, monster, Puzzle

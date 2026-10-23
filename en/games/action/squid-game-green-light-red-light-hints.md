@@ -21,4 +21,4 @@ Invite to Squid Game. Invite to a fair game of Red lights, eco-friendly lights. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Android, Best, Crazy, Game, HTML, HTML5, Mobile, run, running, Skills, Unity3D
+- Tags: 3D Games, Android, Best, crazy, Game, HTML, HTML5, Mobile, run, running, Skills, Unity3D

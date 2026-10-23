@@ -19,6 +19,6 @@ Miners, run quickly to the minecart! The miners have jumped in and are escaping 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Adventure, Arcade, Block, mineblock, Minecraft, Miner, Superhero
+- Tags: 2 Player, 2 Player Games, Adventure, Arcade, block, mineblock, Minecraft, Miner, Superhero

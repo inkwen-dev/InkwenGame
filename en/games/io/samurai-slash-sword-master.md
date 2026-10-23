@@ -21,4 +21,4 @@ Ninja Cut - it is a simple and addictive arcade game with slicey puzzle elements
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Anime, Best, Cartoon, Cartoon Network, Christmas, Game, Games, Island, Online, Punch, Puzzle, Samurai, Sword
+- Tags: .io Games, Anime, Best, Cartoon, Cartoon Network, Christmas, Game, Games, Island, Online, Punch, Puzzle, Samurai, sword

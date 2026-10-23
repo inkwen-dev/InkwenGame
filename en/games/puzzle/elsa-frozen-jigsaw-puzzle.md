@@ -19,6 +19,6 @@ Do you like the cartoon elsa? We are sure that you are looking forward to the co
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Elsa, Frozen, Jigsaw, Puzzle

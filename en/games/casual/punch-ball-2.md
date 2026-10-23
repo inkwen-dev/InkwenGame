@@ -15,6 +15,6 @@ Guide a ball to its destination in Punch Ball 2, an addictive 2D arcade experien
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Skill

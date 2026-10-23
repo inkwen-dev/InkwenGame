@@ -19,6 +19,6 @@ Play stack Tower colors best Tower run for cube surfer new offline games of 2020
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 3D Games, Arcade, Color, Coloring, Hypercasual, Obstacle, Stack, Stickman
+- Tags: 2 Player Games, 3D Games, Arcade, Color, Coloring, Hypercasual, Obstacle, Stack, stickman

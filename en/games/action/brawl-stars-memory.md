@@ -21,4 +21,4 @@ Brawl Stars Memory is a fun memory game. Match all the identical cards before ti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brawl, Casual, Fighting, Fun, HTML5, Hypercasual, Kids, Matching, Memory, Mobile, Skill
+- Tags: Brawl, Casual, fighting, Fun, HTML5, Hypercasual, Kids, Matching, memory, Mobile, Skill

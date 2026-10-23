@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 冒险, 奇妙, 解谜, puzzleblock, PvP
+- 标签: .io 游戏, 冒险, 惊人, 益智, 拼图块, PvP

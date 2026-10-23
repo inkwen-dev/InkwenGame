@@ -19,6 +19,6 @@ Now it's time to take a look at some pictures with Italian super vehicles. In th
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Difference, Fun, HTML5, Kids, Mobile, Skill, Supercars

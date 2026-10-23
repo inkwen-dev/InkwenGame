@@ -21,4 +21,4 @@ A fun crawl through dungeons with various characters. Perform quests and grow po
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fantasy, RPG
+- Tags: Fantasy, rpg

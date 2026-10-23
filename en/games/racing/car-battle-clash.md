@@ -21,4 +21,4 @@ Car Battle Clash is an action game where you fight with armed cars. You must des
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Battle, Car, Gun, Shooter, Unity3D
+- Tags: Arcade, battle, Car, Gun, Shooter, Unity3D

@@ -19,6 +19,6 @@ Get your ride and explore a moto racing paradise in Dirt Bike Unchained! Compete
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Moto, Motorcycle, Race, Racing

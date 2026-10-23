@@ -19,6 +19,6 @@ In Connect Lines you have to connect the different tubes of shapes in one.
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Casual, Logical, Puzzle, Strategy, WebGL
+- Tags: Adventure, Arcade, Casual, Logical, Puzzle, strategy, WebGL

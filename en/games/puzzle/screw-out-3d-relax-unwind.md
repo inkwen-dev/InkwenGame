@@ -21,4 +21,4 @@ A deeply satisfying 3D puzzle game designed to help you relax, focus, and unwind
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Block, crazygamesunblocked, Puzzle, unblockedgamesatschool
+- Tags: 1 Player, 2026 games, block, crazygamesunblocked, Puzzle, unblockedgamesatschool

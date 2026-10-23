@@ -19,6 +19,6 @@ To all of you who have a green thumb, we prepared a treat! One of the most attra
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Cleaning, Decoration, Girl, HTML5, WebGL

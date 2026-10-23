@@ -21,4 +21,4 @@ Basket Champ is a Single tap-based game that comes with some amazing graphics. T
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Basketball, Fun, Sports
+- Tags: Arcade, basketball, Fun, sports

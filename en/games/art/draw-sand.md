@@ -21,4 +21,4 @@ Sand Drawing App:Write On Sand ** is the best sand drawing game free which allow
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Drawing, Mobile
+- Tags: drawing, Mobile

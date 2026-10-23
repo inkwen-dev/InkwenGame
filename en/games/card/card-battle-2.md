@@ -15,6 +15,6 @@ Dive into Card Battle's strategic puzzle realm where each card wields unique pow
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Battle
+- Tags: battle

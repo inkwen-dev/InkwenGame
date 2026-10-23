@@ -21,4 +21,4 @@ Galaxy Blaster is an exciting brick-breaking adventure designed for both kids an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Boys, Bricks, Collecting, Hypercasual, Puzzle, puzzleblock, Skill
+- Tags: block, Boys, Bricks, Collecting, Hypercasual, Puzzle, puzzleblock, Skill

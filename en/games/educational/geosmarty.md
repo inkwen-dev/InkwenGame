@@ -21,4 +21,4 @@ GeoSmarty &ndash; Fun Geography Quiz for Kids! Get ready to explore the world wi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Quiz, Science
+- Tags: educational, Quiz, Science

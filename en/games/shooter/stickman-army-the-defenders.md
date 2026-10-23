@@ -19,6 +19,6 @@ You must Defend your country against revolutionaries and renegades. A crowd of r
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Army, Battle, Defense, Gun, Shoot, Shooting, Stickman, Strategy, War, weapons
+- Tags: Action, Army, battle, Defense, Gun, Shoot, Shooting, stickman, strategy, War, weapons

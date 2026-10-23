@@ -21,4 +21,4 @@ The Best Fun Helicopter Game Take your favorite helicopter and try to reach the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Helicopter, Plane, Race, Racing
+- Tags: Adventure, helicopter, Plane, Race, Racing

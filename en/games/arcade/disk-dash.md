@@ -19,6 +19,6 @@ A Simple Hyper Casual Game
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, 3D, Action, Adventure, Arcade, Battlegrounds, Fun, Funny, Hot, jump, Jumping, Puzzle, Unity3D
+- Tags: 2D, 3D, Action, Adventure, Arcade, Battlegrounds, Fun, Funny, Hot, jump, jumping, Puzzle, Unity3D

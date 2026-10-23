@@ -19,6 +19,6 @@ You will play a football that flying in the sky and avoid the obstacles. Can you
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Click, Clicker, Football, Highscore, Mind, Obstacle, Puzzle, Soccer

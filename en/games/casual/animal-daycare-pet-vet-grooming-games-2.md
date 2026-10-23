@@ -19,6 +19,6 @@ Little animals need your help! Let's find injured animals. Take care of them and
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Cleaning, Girls, Panda

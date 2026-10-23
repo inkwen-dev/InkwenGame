@@ -21,4 +21,4 @@ Take care of her diet, give her a thorough health checkup and decorate a room fo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Educational, Family, Fun, Girl, Girls, Hypercasual, Kid, Kids
+- Tags: Baby, educational, Family, Fun, Girl, Girls, Hypercasual, Kid, Kids

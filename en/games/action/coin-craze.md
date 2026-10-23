@@ -19,6 +19,6 @@ Coin Craze is an adventure RPG game in which you need to control a boy who is co
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, HTML5, Mobile, Platform

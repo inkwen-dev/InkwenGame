@@ -19,6 +19,6 @@ Cook delicious meals and desserts from all over the world in this FREE addictive
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cleaning, Cook, Cooking, Food, Shopping

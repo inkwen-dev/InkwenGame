@@ -31,4 +31,4 @@ Whether you've got two minutes or twenty, Solitaire Tile Match is easy to jump i
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Logic, Mahjong, Match 3, Puzzle
+- Tags: Logic, mahjong, Match 3, Puzzle

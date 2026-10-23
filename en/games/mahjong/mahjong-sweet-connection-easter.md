@@ -27,4 +27,4 @@ Indulge in a sweet Easter treat with Mahjong-Sweet-Connection-Easter, a delightf
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Easter, easy, Mahjong, Matching, Puzzle
+- Tags: Easter, easy, mahjong, Matching, Puzzle

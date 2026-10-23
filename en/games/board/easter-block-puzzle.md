@@ -19,6 +19,6 @@ Easter Block Puzzle is a fun, relaxing block-matching game with a festive Easter
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, blocky, Board, Cartoon, Cute, Easter, egg, eggames, eggs, Family, Fun, Funny, Puzzle, puzzleblock
+- Tags: block, blocky, Board, Cartoon, Cute, Easter, egg, eggames, eggs, Family, Fun, Funny, Puzzle, puzzleblock

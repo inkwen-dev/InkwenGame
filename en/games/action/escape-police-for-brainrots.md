@@ -28,4 +28,4 @@ Unlock new possibilities, expand your Brainrot base, and try to run as far as po
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Police, running
+- Tags: police, running

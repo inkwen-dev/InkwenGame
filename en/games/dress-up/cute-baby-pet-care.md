@@ -19,6 +19,6 @@ Welcome to the world of pet care game. In this game for girls, children will emb
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Games, Dress Up, Fun

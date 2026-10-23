@@ -21,4 +21,4 @@ Angry cat Tom lured the kittens to his tower. Rescue as many kittens as you can!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Boy, Cartoon, Casual, Kids, Retro, WebGL
+- Tags: 1 Player, Action, Adventure, Boy, Cartoon, Casual, Kids, retro, WebGL

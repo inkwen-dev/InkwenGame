@@ -1,0 +1,24 @@
+# 足球农场
+
+<a href="https://inkwengame.com/zh/games/soccer-farm" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/soccer-farm/cover.jpg)
+
+足球热潮已经蔓延到了意想不到的地方。帮助这位农民在每一关尽可能多地进球。
+
+## 怎么玩
+
+鼠标或触摸屏
+
+## 介绍
+
+足球热潮已经蔓延到了意想不到的地方。帮助这位农民在每一关尽可能多地进球。
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/sports" target="_blank" rel="noopener noreferrer">体育</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 橄榄球, 足球, 运动, 体育

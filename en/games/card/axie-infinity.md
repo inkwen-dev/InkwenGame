@@ -21,4 +21,4 @@ Match the same pair of images and test & improve your memory with this game. Bea
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Memory
+- Tags: card, memory

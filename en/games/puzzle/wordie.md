@@ -21,4 +21,4 @@ Wordie is an interesting word education game. In this game, you need to organize
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Matching, Mobile, Puzzle, Word
+- Tags: Matching, Mobile, Puzzle, word

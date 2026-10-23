@@ -28,4 +28,4 @@ Tile Match Explorer is a blend of traditional tile match games and innovative pu
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mahjong, Puzzle
+- Tags: mahjong, Puzzle

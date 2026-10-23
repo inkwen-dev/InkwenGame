@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 最佳游戏, 休闲, 小人, 塔防, unity游戏, Unity3D
+- 标签: 3D游戏, 最佳游戏, 休闲, 木偶人, 塔防, unity游戏, Unity3D

@@ -15,6 +15,6 @@ Engage in epic skirmishes drawn on paper! Strategically select your troops, shar
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: War

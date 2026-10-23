@@ -23,4 +23,4 @@ Halloween Stickman is an exciting adventure game where you can exact revenge on 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Funny, Halloween, scary, Stickman
+- Tags: Funny, Halloween, scary, stickman

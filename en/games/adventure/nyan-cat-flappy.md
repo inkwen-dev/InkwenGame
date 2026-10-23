@@ -19,6 +19,6 @@ Do you think that only a bird can flap it's wings and fly? Ask Nyan Cat for the 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, fly, Fun, Funny, Girl, Jumping, run
+- Tags: Boy, fly, Fun, Funny, Girl, jumping, run

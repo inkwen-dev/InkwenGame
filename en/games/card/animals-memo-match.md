@@ -19,6 +19,6 @@ Click the cards to reveal an animal. Memorize it so that you can match to simila
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Card, Girls, HTML5, Kids, Matching, Memory, Mobile, Puzzle
+- Tags: Animal, card, Girls, HTML5, Kids, Matching, memory, Mobile, Puzzle

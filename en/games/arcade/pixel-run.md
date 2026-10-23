@@ -21,4 +21,4 @@ Control a man made out of pixel blocks as he races through challenging obstacle 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Avoid, Casual, Fun, Pixel, run
+- Tags: Adventure, Arcade, Avoid, Casual, Fun, pixel, run

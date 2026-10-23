@@ -19,6 +19,6 @@ The most popular jigsaw puzzle game comes back with season 2! Skibidi Toilet Jig
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Funny, HTML5, Jigsaw, Kids, Matching, Skibidi Toilet
+- Tags: Brain, Casual, Funny, HTML5, Jigsaw, Kids, Matching, skibidi-toilet

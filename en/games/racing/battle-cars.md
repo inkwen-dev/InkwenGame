@@ -21,4 +21,4 @@ A new game of racing, survival, explosion, extreme survival. Drive your car and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arena, Battle, Bomb, Collecting, Defense, Driving, Multiplayer, Obstacle, Racing, Shoot, Simulation, Skill, Skills
+- Tags: 3D, 3D Games, Arena, battle, Bomb, Collecting, Defense, Driving, Multiplayer, Obstacle, Racing, Shoot, Simulation, Skill, Skills

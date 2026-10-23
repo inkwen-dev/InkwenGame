@@ -21,4 +21,4 @@ Unleash your creativity and dive into the world of Cute Cat Coloring Book, an am
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Color, Coloring, Educational, Fun, Girls, Hypercasual, Kids, School
+- Tags: Boys, Color, Coloring, educational, Fun, Girls, Hypercasual, Kids, School

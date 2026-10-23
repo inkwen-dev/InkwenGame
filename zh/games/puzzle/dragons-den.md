@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 龙, 家庭, 游戏们, HTML, HTML5, 儿童, 儿童, 益智, 武士
+- 标签: 2D, 龙, 家庭, 网页游戏, HTML, HTML5, 儿童, 儿童, 益智, 武士

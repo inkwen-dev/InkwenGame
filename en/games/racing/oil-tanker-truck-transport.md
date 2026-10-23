@@ -21,4 +21,4 @@ Driving a monster truck is awesome and thrilling! You have to be careful with ev
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boys, Car, Girls, Kids, monstertruck, Truck
+- Tags: 3D, Boys, Car, Girls, Kids, monstertruck, truck

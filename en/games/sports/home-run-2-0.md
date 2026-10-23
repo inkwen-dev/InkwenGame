@@ -21,4 +21,4 @@ Flick your Space button and make a homerun.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 3D, 3D Games, Action, Adventure, Arcade, Ball, Baseball, Fun, Funny, Hot, jump, Jumping, Spongebob, Sport, Sports, Unity3D
+- Tags: .io, 3D, 3D Games, Action, Adventure, Arcade, Ball, baseball, Fun, Funny, Hot, jump, jumping, Spongebob, Sport, sports, Unity3D

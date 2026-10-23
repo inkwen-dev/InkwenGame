@@ -19,6 +19,6 @@ The cute pony rainbow wants to go to her house in the sky. She will collect the 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Animal, Fun, Game, Girl, Girls, Horse, HTML5, Magic, Pony
+- Tags: Action, Animal, Fun, Game, Girl, Girls, horse, HTML5, Magic, Pony

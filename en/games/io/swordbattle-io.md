@@ -19,6 +19,6 @@ Swordbattle.io is a multiplayer game where players fight each other with differe
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2 Player, 2D, Action, Adventure, Arcade, Arena, Battle, Boys, Clash, Fun, Sword
+- Tags: .io, .io Games, 2 Player, 2D, Action, Adventure, Arcade, Arena, battle, Boys, Clash, Fun, sword

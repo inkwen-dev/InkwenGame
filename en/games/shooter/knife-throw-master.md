@@ -21,4 +21,4 @@ Knife Throw Master is a fun game of reflexes and skills in which you must show o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Ninja, Shoot
+- Tags: Clicker, ninja, Shoot

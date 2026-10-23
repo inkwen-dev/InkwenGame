@@ -19,6 +19,6 @@ In today’s game, you will visit Brazil as the angry gran. There will be numero
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Adventure, H5, HTML5, Race, Racing, run, running, subway, Subway Surfers

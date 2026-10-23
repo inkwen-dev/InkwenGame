@@ -21,4 +21,4 @@ Skibidi Toilet Coloring there are many different Skibidi Toilet Coloring pages a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Puzzle, Skibidi Toilet
+- Tags: Coloring, Puzzle, skibidi-toilet

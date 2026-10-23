@@ -21,4 +21,4 @@ Multiplier Grid is a simple idle game in which you have a grid of cells, and eac
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Math
+- Tags: Clicker, math

@@ -21,4 +21,4 @@ An endless path awaits, packed with traps, dangerous enemies, and shining coins.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Best Games, Casual, Click, endless, Hypercasual, jump, Jumping, Ninja, Ninjago, running, Timing
+- Tags: 1 Player, 2026 games, 2D, Best Games, Casual, Click, endless, Hypercasual, jump, jumping, ninja, Ninjago, running, Timing

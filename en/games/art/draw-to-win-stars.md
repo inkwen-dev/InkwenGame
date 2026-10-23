@@ -21,4 +21,4 @@ Draw To Win Stars is a unique game where you use your drawing skills to connect 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Draw, Drawing, Girls, Hypercasual, Kids, Levels, Mentolatux, Skill, Unity3D, WebGL
+- Tags: Draw, drawing, Girls, Hypercasual, Kids, Levels, Mentolatux, Skill, Unity3D, WebGL

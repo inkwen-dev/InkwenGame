@@ -21,4 +21,4 @@ How about we draw a shading book with Coloring Book Super Anime For Kids to pain
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Anime, Baby, Baby Hazel, Cartoon Network, Draw, Drawing, Games, Kids, Princess, Super
+- Tags: .io Games, Anime, Baby, Baby Hazel, Cartoon Network, Draw, drawing, Games, Kids, Princess, Super

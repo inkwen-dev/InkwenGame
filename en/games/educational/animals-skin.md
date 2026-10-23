@@ -21,4 +21,4 @@ Animals Skin Kids match missing skin pieces to animals, learning about different
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Baby Games, Best Games, Cute, Educational, free games for your site, HTML5, Kids, Logic, Logical, School, touch, World
+- Tags: Animal, Baby, Baby Games, Best Games, Cute, educational, free games for your site, HTML5, Kids, Logic, Logical, School, touch, World

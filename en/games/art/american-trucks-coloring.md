@@ -21,4 +21,4 @@ Choose your favorite American truck and start to color it as you wish. You can c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Truck
+- Tags: Color, Coloring, truck

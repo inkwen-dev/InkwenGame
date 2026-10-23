@@ -19,6 +19,6 @@ Enjoy this crazy car parking game with advance car parking features
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Car, Cars, Casual, Hot, Hypercasual, Race, Racing, Super, Supercars

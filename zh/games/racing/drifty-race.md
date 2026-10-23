@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 男孩, 男孩们, 汽车, cars, 漂移, 漂移驾驶, 驾驶, HTML5, 竞速, 赛车, WebGL
+- 标签: 3D, 男孩, 男孩们, 汽车, 汽车, 漂移, 漂移, 驾驶, HTML5, 比赛, 竞速, WebGL

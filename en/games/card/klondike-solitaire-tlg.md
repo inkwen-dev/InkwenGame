@@ -21,4 +21,4 @@ Build up four foundations by suit from Ace to King. Use Magic button, when you g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Card, Mobile, Puzzle, Solitaire
+- Tags: Best, card, Mobile, Puzzle, solitaire

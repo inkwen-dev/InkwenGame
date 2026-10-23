@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 驾驶, Forest, 山地, 越野
+- 标签: 驾驶, 森林, 山地, 越野

@@ -21,4 +21,4 @@ DESKTOP A Move Left D Move Right W Jump and Mouse for Navigation MOBILE DEVICES 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Android, Fruit, Fruits, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Android, Fruit, Fruits, pixel, Platform, retro

@@ -15,6 +15,6 @@ Top Sniper immerses you in a high-stakes sniper showdown, where every shot is a 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Sniper
+- Tags: sniper

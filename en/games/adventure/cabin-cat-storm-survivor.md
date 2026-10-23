@@ -19,6 +19,6 @@ Try to survive as a tiny cat preparing for a BIG storm! Made in 5 days for the 2
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D

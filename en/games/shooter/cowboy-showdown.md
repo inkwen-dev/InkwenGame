@@ -15,6 +15,6 @@ Sharpen your aim and ready your revolver in Cowboy Showdown, where the Wild West
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Shooter

@@ -21,4 +21,4 @@ Help Super Jesse Pink recover his power crystal by facing various monsters, ambu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Monster, Pixel, Platform, Retro
+- Tags: Adventure, Arcade, monster, pixel, Platform, retro

@@ -21,4 +21,4 @@ One shot. Grandpa is a basketball legend who doesn't tolerate failure. Make a fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Basketball
+- Tags: 1 Player, 2D, basketball

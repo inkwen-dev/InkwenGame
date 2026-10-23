@@ -19,6 +19,6 @@ Solve the farming puzzle. The goal of the game is easy. Go through all the areas
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Air, Barbie, Baseball
+- Tags: Air, Barbie, baseball

@@ -21,4 +21,4 @@ Help Kong Hero collect as many coins as possible but watch out for all the dange
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping, Skill
+- Tags: jump, jumping, Skill

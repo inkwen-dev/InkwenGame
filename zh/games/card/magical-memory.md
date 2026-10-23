@@ -1,0 +1,24 @@
+# 魔法记忆
+
+<a href="https://inkwengame.com/zh/games/magical-memory" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/magical-memory/cover.jpg)
+
+点击卡片以揭示一个魔法图标。记住它，以便匹配到相似的卡片。匹配棋盘上所有的卡片即可完成关卡。
+
+## 怎么玩
+
+使用鼠标或触摸板来玩这个游戏
+
+## 介绍
+
+点击卡片以揭示一个魔法图标。记住它，以便匹配到相似的卡片。匹配棋盘上所有的卡片即可完成关卡。
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/card" target="_blank" rel="noopener noreferrer">纸牌</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 街机, 棋盘, 卡牌, HTML, 儿童, 魔法, 匹配, 记忆, 移动设备, 益智

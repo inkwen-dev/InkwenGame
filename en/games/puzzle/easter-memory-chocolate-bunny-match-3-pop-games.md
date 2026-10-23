@@ -21,4 +21,4 @@ This is a great brain training game with beautiful pictures and music. Match car
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Difference, Easter, Games, Match 3, Match3, Matching, Memory, Puzzle, Quiz, School
+- Tags: Difference, Easter, Games, Match 3, Match3, Matching, memory, Puzzle, Quiz, School

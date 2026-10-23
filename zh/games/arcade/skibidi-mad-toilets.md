@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 冒险, 街机, HTML5, 移动设备, Skibidi Toilet
+- 标签: 单人, 2D, 冒险, 街机, HTML5, 移动设备, skibidi-toilet

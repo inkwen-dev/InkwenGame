@@ -1,0 +1,24 @@
+# 病毒忍者 2
+
+<a href="https://inkwengame.com/zh/games/virus-ninja-2" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/virus-ninja-2/cover.jpg)
+
+危险的病毒菌株再次四处蔓延。你，一位忍者大师，已归来斩除它们以保护人们。立即开始游戏！
+
+## 怎么玩
+
+用鼠标或手指滑动来切割病毒
+
+## 介绍
+
+危险的病毒菌株再次四处蔓延。你，一位忍者大师，已归来斩除它们以保护人们。立即开始游戏！
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/simulation" target="_blank" rel="noopener noreferrer">模拟</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 最佳, 休闲, 游戏, HTML5, 移动设备, 忍者, 模拟, 切割

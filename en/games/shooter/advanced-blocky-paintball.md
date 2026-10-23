@@ -21,4 +21,4 @@ The best zombie-hunting games let you choose from an arsenal of powerful weapons
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Crazy, Multiplayer, Shooter, Shooting, Unity3D, WebGL
+- Tags: Best, crazy, Multiplayer, Shooter, Shooting, Unity3D, WebGL

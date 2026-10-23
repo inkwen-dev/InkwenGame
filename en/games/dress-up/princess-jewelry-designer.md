@@ -19,6 +19,6 @@ Do you like jewelry? If you like jewelry, please don't miss Ariel's jewelry stor
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Creation, Decoration, Design, Elsa, Frozen, Girl, Girls, Jewel, Kids, Makeover, Princess, Simulation

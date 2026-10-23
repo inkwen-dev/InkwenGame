@@ -21,4 +21,4 @@ Fantasy puzzle platformer with action elements The player is given control over 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Classic, Dungeon, Fantasy, Fun, HTML5, jump, Jumping, Knight, Logic, Magic, Mario, Monster, Ninja, Pixel, Platform, Puzzle, Retro, run, running, Superhero, Sword
+- Tags: 2D, Adventure, Classic, Dungeon, Fantasy, Fun, HTML5, jump, jumping, knight, Logic, Magic, mario, monster, ninja, pixel, Platform, Puzzle, retro, run, running, Superhero, sword

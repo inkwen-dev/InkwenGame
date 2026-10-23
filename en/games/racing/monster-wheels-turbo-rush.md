@@ -53,4 +53,4 @@ Tear through 48 challenging levels across 6 extreme biomes: treacherous canyon r
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, Car, monster-truck, Physics, Racing, Simulation, Truck
+- Tags: Action, Arcade, Car, monster-truck, Physics, Racing, Simulation, truck

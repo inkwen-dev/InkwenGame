@@ -21,4 +21,4 @@ Have you ever heard of a vegetarian snake? This silly snake isn't like his frien
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Fruit, Fruits, Snake
+- Tags: Action, Adventure, Arcade, Fruit, Fruits, snake

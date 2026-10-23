@@ -21,4 +21,4 @@ Play Word Match 3D online for free! This is an addictive word puzzle game that t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Brain, Educational, Letters, Logic, Management, Matching, Puzzle, Word
+- Tags: 3D, Brain, educational, Letters, Logic, management, Matching, Puzzle, word

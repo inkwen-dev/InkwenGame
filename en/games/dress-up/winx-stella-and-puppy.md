@@ -21,4 +21,4 @@ Stella likes to ride her bike, pick flowers and play with her puppy. Would you l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Bike, Dress Up, Fashion, Funny, Game, Games, Girl, Girls, HTML5
+- Tags: Animal, bike, Dress Up, Fashion, Funny, Game, Games, Girl, Girls, HTML5

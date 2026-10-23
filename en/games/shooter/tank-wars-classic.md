@@ -19,6 +19,6 @@ Welcome to Tank ace stars world "Tank 1990: Stars Battle Defense War Ace Hero" p
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Classic, Shoot, Shooter, Shooting, Tank, Tanks, War
+- Tags: Adventure, Classic, Shoot, Shooter, Shooting, Tank, tanks, War

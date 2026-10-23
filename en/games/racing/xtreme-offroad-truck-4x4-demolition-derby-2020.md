@@ -19,6 +19,6 @@ Are you ready for new offroad truck 4x4 and demolition derby car crash 2020? Wel
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Crazy, Monster, Multiplayer, Racing, Truck, Unity3D, WebGL
+- Tags: Car, crazy, monster, Multiplayer, Racing, truck, Unity3D, WebGL

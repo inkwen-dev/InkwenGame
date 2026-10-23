@@ -21,4 +21,4 @@ Catch The Cat is an exciting online game with addictive gameplay and attractive 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Brain, Cat, Cute, Fun, H5, Kid, Obstacle, Skill, Strategy
+- Tags: Boy, Brain, Cat, Cute, Fun, H5, Kid, Obstacle, Skill, strategy

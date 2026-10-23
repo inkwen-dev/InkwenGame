@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 成人, 街机, 男孩, 汽车, 女孩, HTML, HTML5, 超休闲, 益智, 竞速, 交通, WebGL
+- 标签: 成人, 街机, 男孩, 汽车, 女孩, HTML, HTML5, 超休闲, 益智, 比赛, 交通, WebGL

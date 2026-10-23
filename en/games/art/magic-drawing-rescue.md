@@ -19,6 +19,6 @@ The little fairy hopes to have an assistant who can work with her to help forest
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cartoon, Color, Drawing, Fun, Girl, HTML5, Kids, Magic, Mobile, Rescue
+- Tags: Animal, Cartoon, Color, drawing, Fun, Girl, HTML5, Kids, Magic, Mobile, Rescue

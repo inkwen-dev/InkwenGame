@@ -21,4 +21,4 @@ You need to go through all 40 levels to open all four windows, each of which goe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Logic, Puzzle, Summer, Winter
+- Tags: card, Logic, Puzzle, Summer, Winter

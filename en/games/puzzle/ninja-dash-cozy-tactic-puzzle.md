@@ -27,4 +27,4 @@ Dive into the exciting realm of Ninja Dash: Cozy Tactic Puzzle, a free online ga
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Ninja, Puzzle
+- Tags: ninja, Puzzle

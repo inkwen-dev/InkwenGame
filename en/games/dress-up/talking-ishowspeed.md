@@ -19,6 +19,6 @@ Talking IShowSpeed is an exciting and entertaining online game designed especial
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Celebrity, Clicker, Collecting, Fun, Funny, Hypercasual, Makeover, Skill

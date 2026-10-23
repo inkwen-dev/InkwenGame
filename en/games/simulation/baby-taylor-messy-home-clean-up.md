@@ -19,6 +19,6 @@ Today only Taylor is at home, this is her happiest time! During this time, she c
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cleaning, Cooking, Cute, Educational, Food, Girl, Girls, Kids, Simulation
+- Tags: Baby, Cleaning, Cooking, Cute, educational, Food, Girl, Girls, Kids, Simulation

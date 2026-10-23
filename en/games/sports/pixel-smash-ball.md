@@ -21,4 +21,4 @@ Smash your way through colorful pixel blocks in Pixel Smash Ball! Bounce the bal
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Ball, Best Games, Casual, Fun, Levels, Physics, Pixel, Retro, Skill, smash
+- Tags: 2026 games, Ball, Best Games, Casual, Fun, Levels, Physics, pixel, retro, Skill, smash

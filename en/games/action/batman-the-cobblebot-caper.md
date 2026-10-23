@@ -19,6 +19,6 @@ Don't miss out on The Cobblebot Caper game if you have ever dreamed of playing t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Batman, Boys, Fighting, Girls, Jumping, running
+- Tags: Action, Adventure, Batman, Boys, fighting, Girls, jumping, running

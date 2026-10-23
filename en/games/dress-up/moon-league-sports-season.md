@@ -21,4 +21,4 @@ Under the light of the full moon, three monster-girlfriends are preparing for th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dress Up, Fashion, Monster, Sport
+- Tags: Dress Up, Fashion, monster, Sport

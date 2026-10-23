@@ -19,6 +19,6 @@ Kids Forest Dentist is a very cute game. Mr. Owl opened a dental clinic. And he 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cute, Doctor, Educational, Fun, Girl, Grooming, HTML5, Kids, Mobile, Surgery
+- Tags: Animal, Cute, Doctor, educational, Fun, Girl, Grooming, HTML5, Kids, Mobile, surgery

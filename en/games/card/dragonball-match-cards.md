@@ -21,4 +21,4 @@ Welcome to this amazing Cards memory game with dragonball characters! Look caref
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Card, Clicker, Dragon, Dragon Ball Z, Matching, Memory
+- Tags: Anime, card, Clicker, Dragon, Dragon Ball Z, Matching, memory

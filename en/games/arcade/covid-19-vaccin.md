@@ -19,6 +19,6 @@ Inject as many COVID-19 virus cells. How many covid 19 viruses can you beat? Let
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Clicker, Fun, Funny, Game, Games, HTML, HTML5, Kill, Killing, Play

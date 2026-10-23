@@ -19,6 +19,6 @@ Complete each level in the longest form possible. Cat’s body part will be coll
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Block, Brain, Brawl, Bricks, Cat, Crazy, Easter, Lego, Mind, Minecraft, Obstacle, Puzzle, Strategy
+- Tags: Animal, block, Brain, Brawl, Bricks, Cat, crazy, Easter, Lego, Mind, Minecraft, Obstacle, Puzzle, strategy

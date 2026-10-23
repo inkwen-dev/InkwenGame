@@ -19,6 +19,6 @@ Old Timer Cars Coloring is a free online coloring and cars game! In this game yo
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cars, Color, Coloring, Educational, Fun, HTML5, Kids, Mobile, Skill
+- Tags: Cars, Color, Coloring, educational, Fun, HTML5, Kids, Mobile, Skill

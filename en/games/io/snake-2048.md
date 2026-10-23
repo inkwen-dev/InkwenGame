@@ -35,4 +35,4 @@ In the game you will find:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: .io, Snake
+- Tags: .io, snake

@@ -19,6 +19,6 @@ Have fun with this new exclusive game Mine Brothers The Magic Temple play it her
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, jump, kiz10, run

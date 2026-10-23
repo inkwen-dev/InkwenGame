@@ -19,6 +19,6 @@ Combine 2 or more adjacent blocks grouping them with the same color to make them
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Candy, Crazy, Match 3, Match3, Puzzle
+- Tags: Candy, crazy, Match 3, Match3, Puzzle

@@ -21,4 +21,4 @@ Ready for the wonderful challenge of your brain power? Brain Test IQ Challenge 2
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Drawing, Jumping
+- Tags: Brain, drawing, jumping

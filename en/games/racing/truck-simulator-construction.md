@@ -19,6 +19,6 @@ Truck Simulator Construction is a realistic simulation game where players take c
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: city, Driving, Mentolatux, Simulation, Truck, Unity3D, WebGL
+- Tags: city, Driving, Mentolatux, Simulation, truck, Unity3D, WebGL

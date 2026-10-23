@@ -19,6 +19,6 @@ Over the bridge is a complete with 50 levels game that works every device around
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Bridge, Car, Mind, Puzzle

@@ -19,6 +19,6 @@ Get ready for a brand new Monster game. Make it pass through dangerous paths to 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Casual, Click, Escape, Fantasy, Halloween, Hot, Hypercasual, Kids, Monster, Prison, Puzzle, run, running
+- Tags: 3D, Action, Casual, Click, Escape, Fantasy, Halloween, Hot, Hypercasual, Kids, monster, Prison, Puzzle, run, running

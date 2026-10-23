@@ -19,6 +19,6 @@ Shape the skyline of tomorrow in this strategic urban builder. Blueprint sprawli
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: building, Driving, Simulator, trucks, Unity3D, WebGL

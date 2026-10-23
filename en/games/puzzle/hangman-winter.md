@@ -19,6 +19,6 @@ Hangman Winter challenges you and you need to win, and to do this, guess the wor
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Christmas, Fun, Letters, Mobile, Skill, Winter, Word
+- Tags: Best, Christmas, Fun, Letters, Mobile, Skill, Winter, word

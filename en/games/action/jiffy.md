@@ -55,4 +55,4 @@ Time your jumps carefully, break through obstacles, and take down enemies with p
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Platform, Retro, Skill
+- Tags: Platform, retro, Skill

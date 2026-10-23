@@ -29,4 +29,4 @@ Can you clear every stage and defeat the final boss?
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, archery, RPG
+- Tags: Adventure, archery, rpg

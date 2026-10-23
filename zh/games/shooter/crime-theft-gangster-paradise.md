@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 蝙蝠侠, 战场, 汽车, gta, HTML5, 投篮, 射击游戏, unity游戏
+- 标签: 蝙蝠侠, 战场, 汽车, gta, HTML5, 射击, 射击游戏, unity游戏

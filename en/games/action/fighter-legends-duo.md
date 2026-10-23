@@ -19,6 +19,6 @@ Epic fighting adventure is beginning with the Fighter Legends Duo game! The figh
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, Action, Arcade, Arena, Fight, Fighting, Street Fighting
+- Tags: 1 Player, 2 Player, 2 Player Games, Action, Arcade, Arena, Fight, fighting, Street Fighting

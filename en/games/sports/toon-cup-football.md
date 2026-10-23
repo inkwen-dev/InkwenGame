@@ -21,4 +21,4 @@ First you need to choose your country and then you can form your team. After set
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Sport, Sports
+- Tags: Football, Sport, sports

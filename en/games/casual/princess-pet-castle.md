@@ -19,6 +19,6 @@ The princess and her pets are invited to a Christmas party on Christmas Eve! But
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cartoon, Castle, Decorate, Decoration, Fun, Girl, Grooming, HTML5, Kids, Mobile, Princess

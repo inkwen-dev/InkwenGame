@@ -15,6 +15,6 @@ Unleash your creativity and find peace through vibrant artistry in Mindfulness M
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Coloring

@@ -19,6 +19,6 @@ Street Mayhem Driver is a fast-paced arcade driving survival game where chaos ru
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Car, Cars, Casual, Driving, Fun, Funny, Hypercasual, Race, Racing, Road, Street Fighting

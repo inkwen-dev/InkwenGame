@@ -21,4 +21,4 @@ Alien Creeps TD is the tower defense game that has it all: frantic action battle
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Army, Shooting, Strategy
+- Tags: 2D, Army, Shooting, strategy

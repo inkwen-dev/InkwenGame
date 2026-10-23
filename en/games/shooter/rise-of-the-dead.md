@@ -35,4 +35,4 @@ Rise of the Dead is a shooting horror game where you must fight off waves of zom
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, cool-games, First Person Shooter, Gun, Halloween, Horror, Monster, scary, Shooting, survival, Zombie
+- Tags: Action, cool-games, First Person Shooter, Gun, Halloween, Horror, monster, scary, Shooting, survival, Zombie

@@ -21,4 +21,4 @@ SHAPE DEFENSE! Defend your money from pesky shapes. Especially triangles. Strate
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Cool, Fun, Shooting, Strategy, Tower Defense
+- Tags: 1 Player, 2D, Action, cool, Fun, Shooting, strategy, Tower Defense

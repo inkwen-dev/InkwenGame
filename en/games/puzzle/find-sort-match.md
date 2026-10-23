@@ -21,4 +21,4 @@ Find Sort Match is a fun and creative puzzle that combines sort and match elemen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Math, sort
+- Tags: Brain, math, sort

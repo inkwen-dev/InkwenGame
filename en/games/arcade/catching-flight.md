@@ -21,4 +21,4 @@ Heavy flight over skyscrapers in which you try to avoid the missiles that move t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Air, Aircraft, Flight, Helicopter, HTML5, Mobile, Plane, Skill
+- Tags: Air, Aircraft, flight, helicopter, HTML5, Mobile, Plane, Skill

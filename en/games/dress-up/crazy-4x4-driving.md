@@ -21,4 +21,4 @@ Off Road is an addictive ultimate mud truck driving game and realistic car racin
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, 8 Ball Pool, Action, Air, Car, Cars, Collection, Creation, Decoration, Educational, Fashion, Interactive Fiction, Mario, Minion, Relaxation, Seduction, Sim, Simulation, Simulator, Supercars, Unity3D, Violence
+- Tags: .io, .io Games, 3D, 3D Games, 8 Ball Pool, Action, Air, Car, Cars, Collection, Creation, Decoration, educational, Fashion, Interactive Fiction, mario, Minion, Relaxation, Seduction, Sim, Simulation, Simulator, Supercars, Unity3D, Violence

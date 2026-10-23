@@ -19,6 +19,6 @@ The pictures of the animals have been destroyed and the squares have been rotate
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Boy, Game, Jigsaw, Kid, Puzzle, Relaxation

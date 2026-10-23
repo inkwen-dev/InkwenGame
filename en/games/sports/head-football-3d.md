@@ -21,4 +21,4 @@ Get ready for an action-packed football experience in Head Football 3D! Step ont
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Action, Adventure, Best Games, Football, Sport, Sports
+- Tags: 2026 games, Action, Adventure, Best Games, Football, Sport, sports

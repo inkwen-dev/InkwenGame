@@ -21,4 +21,4 @@ In this game, eggs have appeared that you will have to fight with and break. In 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Brain, Drawing, Fun, Kids, Logic, Skill
+- Tags: Best, Brain, drawing, Fun, Kids, Logic, Skill

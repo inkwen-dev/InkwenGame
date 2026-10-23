@@ -19,6 +19,6 @@ Handy Manny is a cartoon character made to develop children's hand skills. He do
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Cartoon, Dress Up, Fashion, Fun, Game, Girls, HTML5

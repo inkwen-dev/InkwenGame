@@ -19,6 +19,6 @@ Carrom game is a strike and pocket game similar to billiards, or pools. Here in 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, Board, Classic, Mind, Pool, Retro
+- Tags: 2 Player Games, Board, Classic, Mind, pool, retro

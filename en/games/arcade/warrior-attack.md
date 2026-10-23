@@ -19,6 +19,6 @@ Warrion on Atack is a very fun survival game. Your goal is to defeat the endless
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Arena, Boy, Boys, Defense, Pixel
+- Tags: 1 Player, 2D, Action, Arena, Boy, Boys, Defense, pixel

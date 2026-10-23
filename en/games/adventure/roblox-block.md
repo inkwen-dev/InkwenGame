@@ -19,6 +19,6 @@ Mine Block Jumper game is funn and very addictive ,jump as much you can higher t
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Block, jump, Jumping, Mine, Minecraft
+- Tags: 3D Games, block, jump, jumping, Mine, Minecraft

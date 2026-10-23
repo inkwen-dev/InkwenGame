@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: AI游戏, 涂色, 免费 HTML5 游戏供您的网站使用, 超休闲, mapi游戏, 滑动
+- 标签: AI游戏, 颜色, 免费HTML5游戏供您的网站使用, 超休闲, mapi games, 滑动

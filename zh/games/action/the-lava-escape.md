@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 动作, AI游戏, 街机, 逃脱, 怪物, 平台, 跑步, Stickman, 生存
+- 标签: 2D, 动作, AI游戏, 街机, 逃脱, monster, 平台, 奔跑, 木偶人, 生存

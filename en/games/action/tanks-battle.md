@@ -19,6 +19,6 @@ Tanks Battle features: Controlable mighty tank; Cool grafics; Tank physics; 2 we
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Tank, Tanks, War, WebGL
+- Tags: battle, Tank, tanks, War, WebGL

@@ -19,6 +19,6 @@ Girls always want to dress up, put on make-up, do hairstyles and experiment with
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Girls, Hair, HTML5, Kids, Makeover, Nails

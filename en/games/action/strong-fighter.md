@@ -19,6 +19,6 @@ Fight your opponent and destroy him with your ultimate punch! In this action rol
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Clicker, Fighting, Street Fighting
+- Tags: Action, Clicker, fighting, Street Fighting

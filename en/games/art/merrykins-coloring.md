@@ -21,4 +21,4 @@ Merrykins Coloring pages is a warm and cozy winter coloring game for kids and ad
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cat, Christmas, Color, Coloring, Cute, Draw, Drawing, Educational, Girls, Santa, Santa Claus
+- Tags: Cat, Christmas, Color, Coloring, Cute, Draw, drawing, educational, Girls, Santa, Santa Claus

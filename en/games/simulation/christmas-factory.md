@@ -21,4 +21,4 @@ It is a free arcade game, easy-to-use, with HD graphics. You are Santa Claus and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cooking, Management
+- Tags: Cooking, management

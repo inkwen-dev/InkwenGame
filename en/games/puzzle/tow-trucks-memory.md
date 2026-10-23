@@ -21,4 +21,4 @@ Tow Trucks Memory is puzzle memory game where you need to memorize all images an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Memory, Puzzle, Truck
+- Tags: memory, Puzzle, truck

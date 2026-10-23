@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 安卓, 球, 男孩, 男孩们, 足球, 搞笑, 移动设备, 足球, 体育, 运动, Unity3D, WebGL
+- 标签: 3D, 安卓, 球, 男孩, 男孩们, 橄榄球, 搞笑, 移动设备, 足球, 运动, 体育, Unity3D, WebGL

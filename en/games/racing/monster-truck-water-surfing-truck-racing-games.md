@@ -19,6 +19,6 @@ You have played many water surfing cars and bikes games with surfer beach car or
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Game, Games, HTML, HTML5, Race, Racing, Simulation, Simulator

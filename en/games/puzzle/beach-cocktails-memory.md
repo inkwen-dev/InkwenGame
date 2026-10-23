@@ -21,4 +21,4 @@ This is memory game with different beach cocktails. Memorize the images and try 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Memory, Puzzle
+- Tags: memory, Puzzle

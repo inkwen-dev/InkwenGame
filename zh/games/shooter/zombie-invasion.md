@@ -21,4 +21,4 @@ WASD移动 R 换弹 M1 Ctrl 开火 M2 瞄准 L-Shift 跑步
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 3D, 动作, 射击, Unity3D, 僵尸
+- 标签: 单人, 3D, 动作, 射击类, Unity3D, 僵尸

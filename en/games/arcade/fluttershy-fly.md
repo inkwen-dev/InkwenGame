@@ -21,4 +21,4 @@ Fluttershy Fly is a side-scroller game where the player controls the Fluttershy.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Aircraft, Bird, Cartoon, Casual, endless, Flight, fly, Game, Pony
+- Tags: Aircraft, Bird, Cartoon, Casual, endless, flight, fly, Game, Pony

@@ -21,4 +21,4 @@ Step into the shoes of John, a mysterious figure in the world of underground ass
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Best Games, Casual, Cool, Hypercasual, Shoot, Shooting
+- Tags: 1 Player, 3D, 3D Games, Action, Best Games, Casual, cool, Hypercasual, Shoot, Shooting

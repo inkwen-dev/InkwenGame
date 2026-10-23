@@ -21,4 +21,4 @@ Master the art of instant movement as you explore a world full of challenges and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, dash, free html5 games for your website, Jumping, Ladybug, Logic, Platform, touchscreen
+- Tags: 1 Player, 2D, Arcade, dash, free html5 games for your website, jumping, Ladybug, Logic, Platform, touchscreen

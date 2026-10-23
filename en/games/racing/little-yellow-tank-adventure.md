@@ -21,4 +21,4 @@ Little Yellow Tank Adventure is super fun online game for kids that you can play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Avoid, Fun, HTML5, Hypercasual, Obstacle, Parking, Skill, Tank
+- Tags: Android, Avoid, Fun, HTML5, Hypercasual, Obstacle, parking, Skill, Tank

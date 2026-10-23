@@ -21,4 +21,4 @@ Are you good at physics? Pixel Bricks And Balls is a matching arcade game with 3
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Ball, Bricks, Casual, Physics, Pixel, Puzzle, Shoot
+- Tags: 3D, Arcade, Ball, Bricks, Casual, Physics, pixel, Puzzle, Shoot

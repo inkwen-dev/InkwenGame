@@ -21,4 +21,4 @@ Dora Memory Challenge is fun online game suitable for all ages, It's the classic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Dora, Fun, Girls, HTML5, Kids, Memory, Mobile, Skill
+- Tags: Android, Dora, Fun, Girls, HTML5, Kids, memory, Mobile, Skill

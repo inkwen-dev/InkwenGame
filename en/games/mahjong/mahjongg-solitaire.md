@@ -21,4 +21,4 @@ Relax and unwind with Mahjongg Solitaire! Match pairs of mahjongg tiles to clear
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Fun, Mahjong, Matching, Puzzle, Relaxation
+- Tags: Clicker, Fun, mahjong, Matching, Puzzle, Relaxation

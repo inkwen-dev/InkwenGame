@@ -21,4 +21,4 @@ High Ball: Pokey Jump Ball is a cool ball jumping game, which gives you exciting
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Arcade, Dragon, Games, jump, Jumping, Kids, Pokemon
+- Tags: .io Games, Arcade, Dragon, Games, jump, jumping, Kids, Pokemon

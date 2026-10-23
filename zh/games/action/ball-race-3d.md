@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, 滚球, 最佳, 点击, 点击器, H5, 热门, HTML, HTML5, 孩子, 儿童, 竞速, 跑, 跑步, Unity3D
+- 标签: 3D, 3D游戏, 球, 最佳, 点击, 点击器, H5, 热门, HTML, HTML5, 儿童, 儿童, 比赛, 跑, 奔跑, Unity3D

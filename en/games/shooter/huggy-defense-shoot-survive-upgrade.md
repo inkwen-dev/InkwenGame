@@ -21,4 +21,4 @@ Huggy Wuggy, Kissy Missy and others want to hug you very much! Shoot various thi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Crazy, endless, Highscore, Monster, Shoot, Shooter, Shooting
+- Tags: 1 Player, 3D, 3D Games, Action, crazy, endless, Highscore, monster, Shoot, Shooter, Shooting

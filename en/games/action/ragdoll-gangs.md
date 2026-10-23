@@ -21,4 +21,4 @@ The fight of gangs begins with the Ragdoll characters in the Ragdoll Gangs game!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Arcade, Arena, Battle, Fight, Street Fighting, War
+- Tags: 2 Player, 2 Player Games, Arcade, Arena, battle, Fight, Street Fighting, War

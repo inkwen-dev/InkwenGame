@@ -19,6 +19,6 @@ Slide, stumble, flip and flail your way through endless levels in this physics-b
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Boy, jump, Kids, Mobile, Online, Puzzle

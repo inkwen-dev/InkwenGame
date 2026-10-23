@@ -21,4 +21,4 @@ Memory Match is a simple classic board game which can help and challenging your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Click, Clicker, Fun, Funny, Game, Games, Highscore, HTML, HTML5, Kid, Kids, Matching, Memory, Mind, Puzzle
+- Tags: card, Click, Clicker, Fun, Funny, Game, Games, Highscore, HTML, HTML5, Kid, Kids, Matching, memory, Mind, Puzzle

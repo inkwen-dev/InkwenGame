@@ -19,6 +19,6 @@ There has not been such a game for a long time, and now we have finally waited. 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, HTML5, Mobile, Platform

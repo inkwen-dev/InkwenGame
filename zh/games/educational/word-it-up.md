@@ -21,4 +21,4 @@ Word it UP 要求玩家拖动字母，拼出单词以完成每一关。游戏包
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩们, 点击, 教育, 儿童, 儿童, Mentolatux, Unity3D, WebGL, 词汇
+- 标签: 男孩们, 点击, 教育, 儿童, 儿童, Mentolatux, Unity3D, WebGL, 单词

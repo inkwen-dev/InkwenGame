@@ -19,6 +19,6 @@ Welcome to Numpuz Classic. It's a new educational puzzle game for kids. Start dr
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Educational, Fun, Kids, Number, Point And Click, Puzzle
+- Tags: Clicker, educational, Fun, Kids, Number, Point And Click, Puzzle

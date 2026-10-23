@@ -21,4 +21,4 @@ Blacktop Police Chase is a low-poly 3D getaway driving game set in a big open ci
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Car, Cars, city, Collecting, crash, drift, drifting, Driving, Escape, Police, Racing, Traffic
+- Tags: 3D, 3D Games, Car, Cars, city, Collecting, crash, drift, drifting, Driving, Escape, police, Racing, Traffic

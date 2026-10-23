@@ -19,6 +19,6 @@ In this game, the cheetah needs to find and hunt zebras. Many levels are waiting
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Animal, hunter, Hunting, Mentolatux, Simulator, Skill, Unity3D, WebGL
+- Tags: Action, Animal, hunter, hunting, Mentolatux, Simulator, Skill, Unity3D, WebGL

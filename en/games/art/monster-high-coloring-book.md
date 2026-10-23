@@ -21,4 +21,4 @@ Best game Monster High Coloring Book for Lover Monster High Coloring Book Monste
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Color, Coloring, Draw, Drawing, Game, Highscore, Monster, Online
+- Tags: 2D, Color, Coloring, Draw, drawing, Game, Highscore, monster, Online

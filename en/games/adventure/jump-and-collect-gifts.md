@@ -19,6 +19,6 @@ One-tap easy-to-learn controls, rich visual effects and addictive gameplay mecha
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, jump

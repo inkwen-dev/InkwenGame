@@ -21,4 +21,4 @@ Now you can play Minecraft Online Game on ZAZGAMES online in your web browser fo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Air, Aircraft, Block, Bricks, Craft, Crafting, Games, Grooming, Minecraft, Online
+- Tags: Adult, Air, Aircraft, block, Bricks, Craft, Crafting, Games, Grooming, Minecraft, Online

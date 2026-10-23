@@ -21,4 +21,4 @@ Defeat the opponent approaching your territory and go to the opponents egg to st
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2D, Action, Adventure, Android, Animal, Arcade, Arena, Bird, Defense, Gun, Pixel, Sword, Tower Defense
+- Tags: 2 Player, 2D, Action, Adventure, Android, Animal, Arcade, Arena, Bird, Defense, Gun, pixel, sword, Tower Defense

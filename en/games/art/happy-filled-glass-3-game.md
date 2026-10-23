@@ -19,6 +19,6 @@ Happy Filled Glass 3 is a fun online puzzle game for kids for free. In this game
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Avoid, Boy, Brain, Drawing, Fun, HTML5, Kid, Obstacle, Online, Puzzle
+- Tags: Android, Avoid, Boy, Brain, drawing, Fun, HTML5, Kid, Obstacle, Online, Puzzle

@@ -19,6 +19,6 @@ In this game, a petty thief named Bob is waiting for you, whom you will help to 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adult, Adventure, Arcade, Best, Boy, Boys, Casino, Hot, HTML, HTML5, Kid, Kids

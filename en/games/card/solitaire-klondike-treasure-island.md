@@ -27,4 +27,4 @@ This game is an ideal choice for those who want to spend time with benefit and p
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, pirates, Solitaire
+- Tags: Adventure, pirates, solitaire

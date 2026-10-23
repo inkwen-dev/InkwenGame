@@ -19,6 +19,6 @@ Corona Virus Crazy Doctor Simulator is a game 2d where you are doctor and simula
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, Avoid, Doctor, run, Skills, Unity3D, WebGL

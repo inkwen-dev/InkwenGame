@@ -19,6 +19,6 @@ Ink Inc Tattoo is a free online simulation game for boys played on PuzzleGame. I
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Boy, Brain, Coloring, Drawing, Fun, Kids, Online, Puzzle, Skill
+- Tags: 3D, Android, Boy, Brain, Coloring, drawing, Fun, Kids, Online, Puzzle, Skill

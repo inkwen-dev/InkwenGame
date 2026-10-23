@@ -21,4 +21,4 @@ Orc Breach is a fast-paced tower defense game where you must stop enormous orc h
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, Monster, Strategy, Tower Defense
+- Tags: Action, Arcade, monster, strategy, Tower Defense

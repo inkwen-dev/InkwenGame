@@ -19,6 +19,6 @@ Take control of a warplane and jump on the battlefield of 1945 Air Force Command
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Air, Aircraft, Crafting, Defense, Fire, Shoot, Shooter, Shooting, sky

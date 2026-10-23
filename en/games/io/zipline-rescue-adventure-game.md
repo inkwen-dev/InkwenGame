@@ -21,4 +21,4 @@ Draw Rope Path and Rescue People, Ready for Tune the Brain and Avoid Obstacles. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Casual, Fun, Funny, Hot, Hypercasual, jump, Jumping, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Casual, Fun, Funny, Hot, Hypercasual, jump, jumping, Unity3D

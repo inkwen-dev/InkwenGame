@@ -19,6 +19,6 @@ the clown wants to escape the circus but needs to retrieve the ring. He faces ot
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, jump, Jumping
+- Tags: 2D, Adventure, jump, jumping

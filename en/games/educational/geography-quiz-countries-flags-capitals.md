@@ -21,4 +21,4 @@ We invite you to embark on an unforgettable adventure around the world with our 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, amazing, Brain, Educational, free html5 games for your website, HTML, Level, Puzzle, quest, Quiz, Relaxation, WebGL
+- Tags: 1 Player, 2025 games, amazing, Brain, educational, free html5 games for your website, HTML, Level, Puzzle, quest, Quiz, Relaxation, WebGL

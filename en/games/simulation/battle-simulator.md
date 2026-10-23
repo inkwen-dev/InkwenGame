@@ -19,6 +19,6 @@ You need to set up an army in order to defeat the enemy troops. You can choose f
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Simulation, Simulator, Unity3D, War, WebGL
+- Tags: battle, Simulation, Simulator, Unity3D, War, WebGL

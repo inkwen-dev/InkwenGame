@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 冒险, HTML, HTML5, 多人, 竞速, 放松, 跑, 跑步
+- 标签: .io, .io 游戏, 冒险, HTML, HTML5, 多人, 竞速, 放松, 跑, 奔跑

@@ -21,4 +21,4 @@ A cosy cooking game about running a little hotdog van in the park. Grill or boil
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Cooking, cozy, Food, Kids, Management, Simulation, Skill
+- Tags: Arcade, Cooking, cozy, Food, Kids, management, Simulation, Skill

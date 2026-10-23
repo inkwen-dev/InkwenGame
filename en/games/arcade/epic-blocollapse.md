@@ -21,4 +21,4 @@ Enter the world of Epic Block Collapse, where a colorful array of blocks rises s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, html5 games, Matching, Mobile, Puzzle
+- Tags: Arcade, block, html5 games, Matching, Mobile, Puzzle

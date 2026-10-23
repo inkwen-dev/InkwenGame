@@ -21,4 +21,4 @@ Embark on a thrilling pixel-art turn-based adventure! Fight fierce enemies, leve
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Clicker, Fantasy, Pixel
+- Tags: Adventure, Clicker, Fantasy, pixel

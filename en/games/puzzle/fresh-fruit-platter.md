@@ -19,6 +19,6 @@ This is a very classic game. In this game, there are a lot of fruits for players
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Boy, Boys, Casual, Click, Food, Fruit, Fruits, Fun, Funny, Game, Games, Girl, Girls, H5, HTML5, Hypercasual, Jigsaw, Kid, Kids, Mobile

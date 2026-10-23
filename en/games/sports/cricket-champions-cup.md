@@ -19,6 +19,6 @@ Cricket Champions Cup is a sport cricket simulation arcade game with 2D game art
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Boy, Highscore, Sport, Sports
+- Tags: Ball, Boy, Highscore, Sport, sports

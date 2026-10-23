@@ -19,6 +19,6 @@ Take command of a customizable battle tank in 10 action-packed missions. Ambush 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Shoot 'Em Up, Tank, War

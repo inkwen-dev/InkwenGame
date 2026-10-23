@@ -19,6 +19,6 @@ Move the Items to the blank spaces in order to create a horizontal or vertical r
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Collecting, HTML5, Matching, Mobile, Puzzle, Skill

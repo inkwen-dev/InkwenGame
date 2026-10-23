@@ -19,6 +19,6 @@ Stylish, deadly and smooth as a billiard ball, John is a man on a mission in thi
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Adult, Adventure, Casual, Cool, Gun, HTML, HTML5, Shoot, Shoot 'Em Up, Shooter, Shooting
+- Tags: 1 Player, 3D, 3D Games, Action, Adult, Adventure, Casual, cool, Gun, HTML, HTML5, Shoot, Shoot 'Em Up, Shooter, Shooting

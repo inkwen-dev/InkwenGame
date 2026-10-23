@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 方块, 棋盘, 休闲, 疯狂, 策略, 俄罗斯方块
+- 标签: 方块, 棋盘, 休闲, 疯狂, 策略, tetris

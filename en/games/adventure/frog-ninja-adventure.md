@@ -21,4 +21,4 @@ Are you ready for an adventure with Frog Ninja Adventure game? As you progress t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Mario, Mobile, Ninja, Skill
+- Tags: Adventure, mario, Mobile, ninja, Skill

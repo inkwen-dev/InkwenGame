@@ -21,4 +21,4 @@ Bag Defense is an action-packed adventure where strategy and skill are the key t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Defense, Mobile, Mouse, survival
+- Tags: battle, Defense, Mobile, Mouse, survival

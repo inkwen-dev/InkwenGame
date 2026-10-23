@@ -19,6 +19,6 @@ Snake 2025 is a modern remake of the classic snake game with sleek graphics and 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Snake
+- Tags: Arcade, snake

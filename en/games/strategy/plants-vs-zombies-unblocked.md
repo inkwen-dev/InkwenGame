@@ -21,4 +21,4 @@ Welcome to Plants Vs Zombies Unblocked. A horde of zombies is about to invade yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Battle, Boys, Collecting, Defense, Girls, Highscore, HTML5, Hypercasual, Monster, Plant, Tower Defense, Zombie
+- Tags: Adventure, battle, Boys, Collecting, Defense, Girls, Highscore, HTML5, Hypercasual, monster, Plant, Tower Defense, Zombie

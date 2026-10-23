@@ -19,6 +19,6 @@ Simple and intuitive, you'll have hours of fun! This art game will help you impr
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Decorate, Design, Draw, Drawing, Girl, Girls, Kids, Simulation
+- Tags: Color, Coloring, Decorate, Design, Draw, drawing, Girl, Girls, Kids, Simulation

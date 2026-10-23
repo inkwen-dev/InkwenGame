@@ -21,4 +21,4 @@ Are you ready to defeat enemies and gain coin? Use your bullets and weapons wise
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Cartoon Network, Fighting, Hypercasual, Tower Defense
+- Tags: 1 Player, Action, Cartoon Network, fighting, Hypercasual, Tower Defense

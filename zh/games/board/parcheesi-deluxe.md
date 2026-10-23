@@ -21,4 +21,4 @@ Parcheesi 经典版是 Ludo 的一种变体游戏，Ludo 是世界上最著名�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 棋盘, 家庭, 多人, 解谜
+- 标签: 棋盘, 家庭, 多人, 益智

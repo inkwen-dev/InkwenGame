@@ -21,4 +21,4 @@ This is a pretty simple game: Throw a flaming hot potato to burn your opponents&
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, 2D, Highscore, Hypercasual, Stickman
+- Tags: .io, 1 Player, 2D, Highscore, Hypercasual, stickman

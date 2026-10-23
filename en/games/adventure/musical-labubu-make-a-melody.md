@@ -19,6 +19,6 @@ Musical Labubu - Make a Melody is a game about creating your own melody in a sma
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Best Games, Casino, Casual, Click, Clicker, Cool, Dancing, Game, Horror, HTML5, Hypercasual, Labubu, Music
+- Tags: 3D, Best Games, Casino, Casual, Click, Clicker, cool, Dancing, Game, Horror, HTML5, Hypercasual, Labubu, music

@@ -19,6 +19,6 @@ It's time to show off your skills on motorcycles with the City Bike Stunt game! 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D Games, Adventure, Bike, gta, Motorcycle
+- Tags: 2 Player, 2 Player Games, 3D Games, Adventure, bike, gta, Motorcycle

@@ -19,6 +19,6 @@ You are a little (but fat!) cute flightless chicken that wants to go high in the
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, HTML5, jump, Kids, Mobile, Puzzle, Skill

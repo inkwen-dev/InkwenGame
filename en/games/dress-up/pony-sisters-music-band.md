@@ -19,6 +19,6 @@ Play the best pony makeover and pop games for boys and girls. Style hairstyles a
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Decorate, Design, Dress Up, Fashion, Girl, Girls, Hair, Kids, Makeover, Simulation

@@ -21,4 +21,4 @@ Color Roller 3D is fun addictive hyper casual game. Click or tap to Roll Colors 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Castle, Color, Hypercasual, Strategy
+- Tags: Castle, Color, Hypercasual, strategy

@@ -15,6 +15,6 @@ Master the art of precision drifting in the thrill-packed racing game, Get Drift
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: drifting

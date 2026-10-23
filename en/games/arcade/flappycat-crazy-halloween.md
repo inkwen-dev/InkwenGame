@@ -19,6 +19,6 @@ Flappy Cat: Crazy Halloween is a game with little bit of horror theme. And keepi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Air, Animal, Arcade, Best Games

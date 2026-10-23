@@ -29,4 +29,4 @@ Bubble Trouble is a retro-style arcade shooter where you play as a devil in a tr
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Classic, Retro, Skill
+- Tags: Classic, retro, Skill

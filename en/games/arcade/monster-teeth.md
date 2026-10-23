@@ -19,6 +19,6 @@ Play this cute variation of a classic video game! Try to avoid the ugly monster'
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bird, Boys, HTML, HTML5, jump, Jumping, Mobile
+- Tags: Arcade, Bird, Boys, HTML, HTML5, jump, jumping, Mobile

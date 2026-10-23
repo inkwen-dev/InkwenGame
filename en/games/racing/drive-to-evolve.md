@@ -21,4 +21,4 @@ Here is a vehicle evolution platform running arcade game with 3D cartoon vehicle
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Bike, Car, Collecting, HTML5, Mobile, Platform, running
+- Tags: 3D, Avoid, bike, Car, Collecting, HTML5, Mobile, Platform, running

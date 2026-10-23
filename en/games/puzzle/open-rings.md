@@ -19,6 +19,6 @@ Open Rings is a relaxing ring puzzle about freeing gems. Every level is a tangle
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Brain, Logic, Puzzle, Relaxation

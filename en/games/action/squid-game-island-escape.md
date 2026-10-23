@@ -21,4 +21,4 @@ In the Squid Game, the players who have the right to end the game unanimously, m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Android, Battle, Best, Casual, Escape, Fun, Hypercasual, Mobile, Platform, Strategy, WebGL
+- Tags: 3D, Action, Android, battle, Best, Casual, Escape, Fun, Hypercasual, Mobile, Platform, strategy, WebGL

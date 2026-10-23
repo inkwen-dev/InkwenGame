@@ -19,6 +19,6 @@ Teen titans, the main character of the beloved cartoon series, is a very brave a
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Cartoon, Dress Up, Fashion, Fun, Game, Girls, HTML5, Superhero

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 动作, 拳击, 战斗, 游戏, HTML5, 超休闲, 互动, 手机, 怪物, 障碍, 物理, 拼图, 奔跑, 射击类, 技巧, 超级英雄, Unity3D, WebGL
+- 标签: 单人, 3D, 动作, Boxing, 格斗, 游戏, HTML5, 超休闲, 互动, 移动设备, monster, 障碍, 物理, 益智, 奔跑, 射击类, 技巧, 超级英雄, Unity3D, WebGL

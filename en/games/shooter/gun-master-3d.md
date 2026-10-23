@@ -21,4 +21,4 @@ Use big arsenal of weapons to shoot hordes of enemies and try to survive in orde
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Gun, Killing, Knight, Shoot 'Em Up, Shooter, Shooting, Unity3D, WebGL
+- Tags: 1 Player, 3D, 3D Games, Action, Gun, Killing, knight, Shoot 'Em Up, Shooter, Shooting, Unity3D, WebGL

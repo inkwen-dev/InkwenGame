@@ -21,4 +21,4 @@ Baseball Pro is a HTML5 Sport Game. Try to make as many home runs as possible!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baseball, Sport, Sports
+- Tags: baseball, Sport, sports

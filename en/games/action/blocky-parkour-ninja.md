@@ -21,4 +21,4 @@ Ninja Blocky Parkour is an amazing 3d parkour game where you have to jump from p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping
+- Tags: jump, jumping

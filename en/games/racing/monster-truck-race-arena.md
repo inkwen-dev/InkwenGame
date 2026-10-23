@@ -19,6 +19,6 @@ Monster Truck Race Arena is a fun driving game where you control a monster truck
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Mobile, Race, Racing, Truck
+- Tags: Car, Mobile, Race, Racing, truck

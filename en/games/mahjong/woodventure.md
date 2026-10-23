@@ -19,6 +19,6 @@ Take a weekend trip through forest full of cute animals in this classic mahjong 
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Board, HTML, HTML5, Mahjong
+- Tags: 1 Player, Board, HTML, HTML5, mahjong

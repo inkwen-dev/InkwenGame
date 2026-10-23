@@ -19,6 +19,6 @@ Deer Hunter 2D is a fun sniper game where you hunt deers. You can play 30 fun le
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, HTML5, Mobile, Sniper
+- Tags: Animal, HTML5, Mobile, sniper

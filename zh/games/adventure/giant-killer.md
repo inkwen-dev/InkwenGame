@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 突袭, 幻想, 回合制
+- 标签: 攻击, 幻想, 回合制

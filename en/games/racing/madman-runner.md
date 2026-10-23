@@ -21,4 +21,4 @@ Madman Runner is a classic runner game in which you help the character survive o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Casual, Collecting, Fun, HTML5, jump, Jumping, Mobile, running, Skill
+- Tags: Car, Casual, Collecting, Fun, HTML5, jump, jumping, Mobile, running, Skill

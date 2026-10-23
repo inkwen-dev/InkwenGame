@@ -19,6 +19,6 @@ Super Tower War is a free and casual online battle game for boys. In this war ga
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Arcade, Avoid, Boy, Brain, Fun, HTML5, Kids, Online, Pixel, Platform, Puzzle, Shooting, Super, War
+- Tags: 3D, Android, Arcade, Avoid, Boy, Brain, Fun, HTML5, Kids, Online, pixel, Platform, Puzzle, Shooting, Super, War

@@ -21,4 +21,4 @@ If you like the challenge of horror games, then Rainbow Monster Playtime 3D cann
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Brain, Collecting, Kids, Mobile, Monster, Puzzle, Simulation
+- Tags: Avoid, Brain, Collecting, Kids, Mobile, monster, Puzzle, Simulation

@@ -21,4 +21,4 @@ Halloween is here my friends! Welcome to Halloween Monster Shooter! This is a bu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bubble, Bubble Shooter, Halloween, Match 3, Match3, Monster, Puzzle
+- Tags: Bubble, Bubble Shooter, Halloween, Match 3, Match3, monster, Puzzle

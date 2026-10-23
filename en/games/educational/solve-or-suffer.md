@@ -19,6 +19,6 @@ Think fast or face the consequences! Solve or Suffer puts you in the hot seat of
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Brain, Casual, Educational, Hypercasual, Kids, Logic, Math
+- Tags: 2026 games, Brain, Casual, educational, Hypercasual, Kids, Logic, math

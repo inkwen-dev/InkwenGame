@@ -21,4 +21,4 @@ WASD 或方向键移动，左键点击射击，数字键切换武器，左Shift�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 龙, 投篮, 射击, WebGL
+- 标签: 龙, 射击, 射击, WebGL

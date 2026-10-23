@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩们, 女孩, 女孩, 跳跃, 儿童, Stickman
+- 标签: 男孩们, 女孩, 女孩, 跳跃, 儿童, 木偶人

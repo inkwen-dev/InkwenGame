@@ -15,6 +15,6 @@ Experience the exhilaration of hockey in Idle Hockey Challenge 3D Pro. Outmaneuv
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: hockey

@@ -21,4 +21,4 @@ The goal is to resist the more you can and after you can sign your personal reco
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, HTML5, Mobile, Shooter, Skibidi, Skibidi Toilet
+- Tags: Arcade, Boy, HTML5, Mobile, Shooter, Skibidi, skibidi-toilet

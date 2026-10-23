@@ -19,6 +19,6 @@ Jelly Smasher is strategy game. In the Jelly world, only one can stay. You repre
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Hypercasual, Jelly, Puzzle, Strategy
+- Tags: Hypercasual, Jelly, Puzzle, strategy

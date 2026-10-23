@@ -21,4 +21,4 @@ Roll the ball through a 3D world to reach the goal! Carefully maneuver through s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Baseball, Football, Pipe, Road
+- Tags: Arcade, Ball, baseball, Football, Pipe, Road

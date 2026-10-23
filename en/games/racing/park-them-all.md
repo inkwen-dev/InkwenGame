@@ -21,4 +21,4 @@ In this fun and addictive game, your main task is to sort out the parking spots 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: carparking, Parking, sort, sorting
+- Tags: carparking, parking, sort, sorting

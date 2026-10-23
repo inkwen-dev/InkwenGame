@@ -21,4 +21,4 @@ Welcome to 2048 Snake 3D Block, where players immerse themselves in a unique fus
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2048, 3D, Android, HTML5, iPad, iPhone, Mentolatux, Mobile, Snake
+- Tags: 2048, 3D, Android, HTML5, iPad, iPhone, Mentolatux, Mobile, snake

@@ -21,4 +21,4 @@ In this game you need to chop wood and avoid the branches. It could be an easy t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, HTML5, Mobile, Skibidi, Skibidi Toilet
+- Tags: Casual, HTML5, Mobile, Skibidi, skibidi-toilet

@@ -21,4 +21,4 @@ Bus Parking in the Port is a fun bus simulating game and it has realistic contro
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boys, bus, HTML5, Parking, Race, WebGL
+- Tags: 3D, Boys, bus, HTML5, parking, Race, WebGL

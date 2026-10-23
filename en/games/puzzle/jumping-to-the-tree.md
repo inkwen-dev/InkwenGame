@@ -21,4 +21,4 @@ Beat the jumping levels from platform to platform until you reach the tree, wher
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Casual, Christmas, Jumping, Pixel
+- Tags: 1 Player, 2D, Casual, Christmas, jumping, pixel

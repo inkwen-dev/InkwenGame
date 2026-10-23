@@ -21,4 +21,4 @@ Your brain is the only shield for the stickman! Enjoy a super casual puzzler in 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Draw, Funny, Stickman
+- Tags: Draw, Funny, stickman

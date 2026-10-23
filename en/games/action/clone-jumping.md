@@ -19,6 +19,6 @@ Welcome to Clone Jumping. It's a new puzzle game for kids. Use your keyboard rig
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Clicker, Hypercasual, Kids, Platform, Puzzle

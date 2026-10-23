@@ -19,6 +19,6 @@ good games This is a gunfight game, the game has reached the target point at the
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Army, Battle, Battlegrounds, Bomb, Gun
+- Tags: 3D, 3D Games, Action, Adventure, Army, battle, Battlegrounds, Bomb, Gun

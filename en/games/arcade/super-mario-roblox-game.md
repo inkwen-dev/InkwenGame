@@ -19,6 +19,6 @@ f you want to know which is the top game in the world and which game is the most
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 8 Ball Pool, Action, Adventure, Arena

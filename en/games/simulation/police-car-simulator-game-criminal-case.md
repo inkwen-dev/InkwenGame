@@ -26,4 +26,4 @@ Step into the world of law enforcement with the Police Game. The Ultimate Cop Si
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Driving, gta, Police, Simulation
+- Tags: Action, Driving, gta, police, Simulation

@@ -21,4 +21,4 @@ Get in a nostalgic journey with Pixel Racer, a thrilling 2D pixel art racing gam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, drift, Driving, HTML5, mapi games, Mobile, Pixel, Racing
+- Tags: 2D, Arcade, drift, Driving, HTML5, mapi games, Mobile, pixel, Racing

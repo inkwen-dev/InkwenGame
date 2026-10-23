@@ -21,4 +21,4 @@ Start your journey by choosing your favorite motorcycle and explore exciting env
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: amazing, Bike, Casual, Fun, Racing
+- Tags: amazing, bike, Casual, Fun, Racing

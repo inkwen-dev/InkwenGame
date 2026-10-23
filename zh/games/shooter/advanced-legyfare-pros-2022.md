@@ -21,4 +21,4 @@ wasd- 移动 鼠标- 射击瞄准 tab- 菜单
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 多人, 射手, 射击, Unity3D
+- 标签: 3D游戏, 多人, 射击类, 射击, Unity3D

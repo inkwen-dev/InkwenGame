@@ -19,6 +19,6 @@ Car Stunt Chipi Chipi Chapa Chapa Cat is a fun meme game where you need to drive
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Car, car tuning, carparking

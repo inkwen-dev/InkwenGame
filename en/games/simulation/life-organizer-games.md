@@ -19,6 +19,6 @@ Life Organizer Games is a simulation game with the theme of storage and organizi
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Brain, Educational, HTML5, Kids, Mobile, Puzzle, Simulation
+- Tags: Animal, Brain, educational, HTML5, Kids, Mobile, Puzzle, Simulation

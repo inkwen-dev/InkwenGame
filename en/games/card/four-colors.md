@@ -21,4 +21,4 @@ Four Colors is a HTML5 Card Games. Face up to 3 computer-controlled opponents. M
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Card
+- Tags: 2 Player, card

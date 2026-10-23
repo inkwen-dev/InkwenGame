@@ -21,4 +21,4 @@ The snakes are trapped! Need your help to escape. Very simple but brain-burning 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boy, Brain, Game, Kid, Kids, Puzzle, Snake
+- Tags: 3D, 3D Games, Boy, Brain, Game, Kid, Kids, Puzzle, snake

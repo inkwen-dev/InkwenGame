@@ -19,5 +19,5 @@ Hello Master Agent, there is a new mission for you: Go for it! Find the secret h
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize

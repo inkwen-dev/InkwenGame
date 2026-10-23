@@ -21,4 +21,4 @@ Make room for the vroom! Explore Wheelford, the world of preschool TV show Ricky
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Brain, Card, Cartoon, Cartoon Network, Disney, Hidden, Kids, Memory, Moto, Motorcycle, Puzzle
+- Tags: Anime, Brain, card, Cartoon, Cartoon Network, Disney, Hidden, Kids, memory, Moto, Motorcycle, Puzzle

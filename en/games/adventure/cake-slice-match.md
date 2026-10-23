@@ -21,4 +21,4 @@ Match, merge, and complete delicious cakes in Cake Slice Match! Place colorful c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Adventure, Best Games, Cake, Crazy, Puzzle
+- Tags: 1 Player, 2026 games, Adventure, Best Games, Cake, crazy, Puzzle

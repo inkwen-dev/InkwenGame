@@ -15,6 +15,6 @@ Conquer rugged landscapes in MX Offroad Master, a thrilling 3D BMX adventure. Na
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Driving

@@ -21,4 +21,4 @@ A level based simple letter games for kids
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kids, Letters, Puzzle, Word
+- Tags: Kids, Letters, Puzzle, word

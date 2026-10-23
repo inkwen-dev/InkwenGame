@@ -19,6 +19,6 @@ Do you have the patience and skill to master Subway Stone? This none stop, actio
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, Ball, subway, Subway Surfers, Unity3D

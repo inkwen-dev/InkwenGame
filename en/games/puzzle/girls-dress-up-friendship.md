@@ -19,6 +19,6 @@ Ponies Girls Dress Up Friendship Create own pony girl
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Adult, Adventure, Arcade, Baby, Baby Hazel, Bubble, Bubble Shooter, Candy, Clicker, Collecting, Collection, Color, Coloring, Dress Up, Fun, Girl, Girls, Horse, Ladybug, Monkey, Monster, Pokemon
+- Tags: 8 Ball Pool, Adult, Adventure, Arcade, Baby, Baby Hazel, Bubble, Bubble Shooter, Candy, Clicker, Collecting, Collection, Color, Coloring, Dress Up, Fun, Girl, Girls, horse, Ladybug, Monkey, monster, Pokemon

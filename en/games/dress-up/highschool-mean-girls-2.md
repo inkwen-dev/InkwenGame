@@ -19,6 +19,6 @@ The mean girls are back to school, this time in a brand-new formula. You can joi
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Celebrity, Dress Up, Fashion, HTML5, Makeover

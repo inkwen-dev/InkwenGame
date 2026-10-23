@@ -21,4 +21,4 @@ In Paw Mahjong you have to match the same animal icons and try to beat all the l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Best, Brain, Cute, Funny, HTML5, Mahjong, Puzzle, Skills
+- Tags: 1 Player, Animal, Best, Brain, Cute, Funny, HTML5, mahjong, Puzzle, Skills

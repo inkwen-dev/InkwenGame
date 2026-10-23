@@ -19,6 +19,6 @@ Morph Racers is a fast-paced racing game where speed alone isn&rsquo;t enough ad
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, Ai Games, amazing, Best, Best Games, Boys, Crazy, Hypercasual, Race, Racing
+- Tags: 2026 games, Adventure, Ai Games, amazing, Best, Best Games, Boys, crazy, Hypercasual, Race, Racing

@@ -19,6 +19,6 @@ An addictive game to train your eyes and brain. Match the pairs of the same cand
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Board, Brain, Casual, Games, HTML5, Hypercasual, Mobile

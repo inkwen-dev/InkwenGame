@@ -19,6 +19,6 @@ Welcome to stickman base defense - the ultimate arcade idler browser game! Immer
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Defense, Stickman, Tower Defense
+- Tags: Action, Defense, stickman, Tower Defense

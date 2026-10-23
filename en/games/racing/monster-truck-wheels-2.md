@@ -19,6 +19,6 @@ In Monster Truck Wheels 2, youll be driving a heavy SUV, and weve already prepar
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Best, Boys, Car, Cars, Driving, HTML5, Hypercasual, Mobile, Skill, Truck
+- Tags: 1 Player, Adventure, Best, Boys, Car, Cars, Driving, HTML5, Hypercasual, Mobile, Skill, truck

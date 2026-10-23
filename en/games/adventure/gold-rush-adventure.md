@@ -15,6 +15,6 @@ Embark on a pulse-pounding quest in Gold Rush Adventure, dodging lethal stars as
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Skill

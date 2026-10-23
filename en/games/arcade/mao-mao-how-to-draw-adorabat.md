@@ -21,4 +21,4 @@ MAO MAO: HOW TO DRAW ADORABAT GAME · PLAY ONLINE FOR FREE Mao Mao: How to Draw 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Cartoon, Cartoon Network, Color, Coloring, Draw, Drawing, Puzzle
+- Tags: Arcade, Cartoon, Cartoon Network, Color, Coloring, Draw, drawing, Puzzle

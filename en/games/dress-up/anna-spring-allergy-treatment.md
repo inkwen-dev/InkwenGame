@@ -21,4 +21,4 @@ Spring is the most beautiful season, and Elsa and Anna decided to take a short t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Doctor, Dress Up, Elsa, Frozen, Girl, Girls, Kids, Makeover, Simulation, Surgery
+- Tags: Cartoon, Doctor, Dress Up, Elsa, Frozen, Girl, Girls, Kids, Makeover, Simulation, surgery

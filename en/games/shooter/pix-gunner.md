@@ -21,4 +21,4 @@ It's a pixel-style first-person shooting game. Using various weapons such as sho
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Gun, Minecraft, Pixel, Shooter, Shooting
+- Tags: Action, Gun, Minecraft, pixel, Shooter, Shooting

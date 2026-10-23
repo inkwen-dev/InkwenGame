@@ -19,6 +19,6 @@ Pets Roll is a colorful idle gacha game where you roll eggs, hatch adorable cube
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Clicker, Collecting, Cute, idle

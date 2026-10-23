@@ -21,4 +21,4 @@ Crash Stunts Demolition is a free 3d car game based on a free drive with various
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Car, Crazy, Driving, Fun, Race, Racing, Stunts, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Car, crazy, Driving, Fun, Race, Racing, Stunts, Unity3D

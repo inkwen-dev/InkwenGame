@@ -21,4 +21,4 @@ Galactic Attack is a super fun and challenging 2D shooter game with a shoot em u
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Avoid, Flight, Rocket, Shoot 'Em Up, Shooter, Space, Spaceship
+- Tags: 1 Player, 2D, Avoid, flight, Rocket, Shoot 'Em Up, Shooter, Space, Spaceship

@@ -19,6 +19,6 @@ Your soldiers need to fight their way out. All kinds of monsters come along the 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Click, Kid, Kids, Monster, Point And Click, Relaxation, Sword
+- Tags: Boy, Click, Kid, Kids, monster, Point And Click, Relaxation, sword

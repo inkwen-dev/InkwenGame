@@ -21,4 +21,4 @@ Winter Gifts is retro a platforming-puzzle game where you grab or throw gifts. G
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Pixel, Platform, Puzzle, Retro
+- Tags: 1 Player, Arcade, pixel, Platform, Puzzle, retro

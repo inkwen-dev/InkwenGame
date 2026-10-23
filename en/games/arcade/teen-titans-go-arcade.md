@@ -19,6 +19,6 @@ Teen Titans Go Arcade game is about animated series that follows the everyday li
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Arcade, Cartoon, Cartoon Network

@@ -21,4 +21,4 @@ Welcome to the Valentines Day tile matching game! Your mission is to match and c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Love, Match 3, Matching, Mobile, Puzzle, sorting, Stack, valentine
+- Tags: block, Love, Match 3, Matching, Mobile, Puzzle, sorting, Stack, valentine

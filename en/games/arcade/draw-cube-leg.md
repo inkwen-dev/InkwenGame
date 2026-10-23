@@ -19,6 +19,6 @@ Draw cubes to run and win the race, but watch out for those slippery ice cubes! 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Draw, Games, HTML5, Hypercasual

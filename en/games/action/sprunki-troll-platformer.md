@@ -19,6 +19,6 @@ Sprunki Troll Platformer is a platformer that challenges you! Can you pass the t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Avoid, Best Games, free html5 games for your website, HTML5, Mobile, Platform, Puzzle, Sprunki

@@ -19,6 +19,6 @@ Welcome to Art Puzzle Game, a relaxing and fun puzzle game where art and creativ
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Castle, Hypercasual, Puzzle

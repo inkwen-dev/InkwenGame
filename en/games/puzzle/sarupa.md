@@ -19,6 +19,6 @@ This game is a 3-match puzzle game which you line up 3 monkeys of the same color
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Funny, Tetris, Unity3D, WebGL
+- Tags: Color, Funny, tetris, Unity3D, WebGL

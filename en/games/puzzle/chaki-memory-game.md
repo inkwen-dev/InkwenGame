@@ -19,6 +19,6 @@ In Chaki Memory Game you need to memorize the images and to click on it to guest
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Memory, Puzzle
+- Tags: memory, Puzzle

@@ -19,6 +19,6 @@ Warmly welcome to the car stunt games lover …! If you are bore with normal Car
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adult, Adventure, Arcade, bus, Car, Cars, Parking, Race, Racing, Road, Simulation, Simulator, Supercars, Truck, Unity3D
+- Tags: 3D, 3D Games, Adult, Adventure, Arcade, bus, Car, Cars, parking, Race, Racing, Road, Simulation, Simulator, Supercars, truck, Unity3D

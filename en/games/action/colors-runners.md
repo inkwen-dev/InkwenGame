@@ -19,6 +19,6 @@ Colors Runners is an interesting game that you can not miss. Slide to gather you
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Collecting, Color, Kids, Mobile, Platform, running, Skill

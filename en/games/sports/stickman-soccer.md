@@ -19,6 +19,6 @@ You will play a football match with stickman on a big football field. During thi
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, Ball, Football, Mobile, Soccer, Stickman
+- Tags: 2 Player, 2 Player Games, 3D, Ball, Football, Mobile, Soccer, stickman

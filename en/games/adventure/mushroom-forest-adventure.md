@@ -21,4 +21,4 @@ Step into the enchanting mushroom forest, a forest where the boundary between re
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, Hidden, Memory, Point And Click, Puzzle
+- Tags: Escape, Hidden, memory, Point And Click, Puzzle

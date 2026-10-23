@@ -15,6 +15,6 @@ Race from last to first in the thrilling Sprint Club Nitro. Outpace 19 rivals, f
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Sports
+- Tags: sports

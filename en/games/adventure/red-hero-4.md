@@ -19,6 +19,6 @@ Are you a crazy fan of Bounce Ball 5 adventure series? Big Ball 3, Bounce Ball 4
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Red, Superhero

@@ -25,4 +25,4 @@ Hard Puzzle: Color Lines is a logic game where you connect matching colored elem
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Color, Drawing, intelligence, Logic, Puzzle
+- Tags: Brain, Color, drawing, intelligence, Logic, Puzzle

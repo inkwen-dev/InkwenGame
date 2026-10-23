@@ -21,4 +21,4 @@ Want a fun 3D puzzle that&rsquo;s strangely relaxing? In ScrewSortPuzzle:PinJam3
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Matching, Relaxation, Strategy
+- Tags: Matching, Relaxation, strategy

@@ -21,4 +21,4 @@ Hop onto your Combat Suit, prepare your weaponry, and hunt down all your enemies
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Avoid, Flight, Robot, Skill, Space
+- Tags: Anime, Avoid, flight, Robot, Skill, Space

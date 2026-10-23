@@ -19,6 +19,6 @@ Your Job Is To Make A Way For The Balls To Put Them In One Truck, And Every Leve
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 3D, Ball, Casual, Hypercasual, Puzzle

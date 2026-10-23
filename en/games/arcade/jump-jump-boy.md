@@ -19,6 +19,6 @@ Jump Jump Boy adventure games are one of the most fun and exciting kind of games
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Boy, jump, Jumping, run
+- Tags: Android, Arcade, Boy, jump, jumping, run

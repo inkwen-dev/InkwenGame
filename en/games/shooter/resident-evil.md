@@ -19,6 +19,6 @@ Resident Evil 4 marks a new chapter in the Resident Evil series. You'll rejoin L
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Shoot, Shoot 'Em Up, Shooter, Shooting

@@ -35,4 +35,4 @@ EARN STARS FOR SKILL!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cards, Solitaire
+- Tags: cards, solitaire

@@ -21,4 +21,4 @@ Guide your doodle cat ever upward through an endless world of platforms, power-u
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Hypercasual, Jumping, Platform
+- Tags: Animal, Arcade, Hypercasual, jumping, Platform

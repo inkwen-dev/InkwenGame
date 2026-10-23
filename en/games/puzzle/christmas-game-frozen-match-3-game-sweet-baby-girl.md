@@ -19,6 +19,6 @@ Arrow Click Mouse
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boy, Casual, Girl, HTML5, Hypercasual, Kid, Match 3, Match3, Matching, Puzzle, WebGL

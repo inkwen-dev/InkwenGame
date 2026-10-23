@@ -19,6 +19,6 @@ Welcome to Transylvanias finest cocktail bar &mdash; where the plumbing runs red
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Family, Halloween, Kids, mapi games, Monster, Pipe, Puzzle
+- Tags: Family, Halloween, Kids, mapi games, monster, Pipe, Puzzle

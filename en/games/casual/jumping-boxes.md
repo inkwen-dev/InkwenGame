@@ -21,4 +21,4 @@ Help the colored Jumping Boxes navigate through the hurdles they encounter in th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, HTML5, Hypercasual, jump, Jumping, mapi games, Mobile
+- Tags: Clicker, HTML5, Hypercasual, jump, jumping, mapi games, Mobile

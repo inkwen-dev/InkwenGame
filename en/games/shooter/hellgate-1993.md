@@ -32,4 +32,4 @@ Every world contains three stages: two combat missions followed by a boss encoun
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, First Person Shooter, Retro, Shooting
+- Tags: Action, First Person Shooter, retro, Shooting

@@ -19,6 +19,6 @@ The World Has Come To An End! You are a Cyborg Soldier, equipped with powerful s
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Mobile, Shooter, Turn Based, weapons, WebGL

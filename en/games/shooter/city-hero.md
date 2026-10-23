@@ -19,6 +19,6 @@ City Hero is a HTML5 action-shooting game. You action hero is got a assignment t
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, HTML5, Shoot, Shooter

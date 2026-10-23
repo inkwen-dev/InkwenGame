@@ -19,6 +19,6 @@ This is Skibidi.io, the ultimate fusion of Skibidi and io gameplay that provides
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2D, Adventure, Skibidi Toilet
+- Tags: .io, .io Games, 1 Player, 2D, Adventure, skibidi-toilet

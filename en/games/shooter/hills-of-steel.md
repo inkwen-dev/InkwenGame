@@ -81,4 +81,4 @@ A: Music complements the game but is not necessary for gameplay.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, Shooting, Tanks
+- Tags: Boys, Shooting, tanks

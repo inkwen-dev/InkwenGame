@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 烹饪, 烹饪游戏, 设计, 食物
+- 标签: 2D, 烹饪, 厨艺, 设计, 食物

@@ -19,6 +19,6 @@ A super highway racing is beginning with Rocket Cars Highway Race Game! Pick one
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Arcade, Car, Cars, Crazy, Driving, Game, Games, HTML5, Race, Racing, Simulation, Simulator, Skill, Skills, Supercars, Traffic, Unity3D, WebGL
+- Tags: 1 Player, 3D, 3D Games, Arcade, Car, Cars, crazy, Driving, Game, Games, HTML5, Race, Racing, Simulation, Simulator, Skill, Skills, Supercars, Traffic, Unity3D, WebGL

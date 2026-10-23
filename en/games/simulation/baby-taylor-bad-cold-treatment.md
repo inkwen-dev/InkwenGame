@@ -21,4 +21,4 @@ Autumn is here. This is a beautiful season, but it is also a season that makes p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cooking, Cute, Doctor, Educational, Food, Girl, Girls, Kids, Simulation, Surgery
+- Tags: Baby, Cooking, Cute, Doctor, educational, Food, Girl, Girls, Kids, Simulation, surgery

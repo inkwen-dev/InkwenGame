@@ -19,6 +19,6 @@ Kids Learn Professions is a very popular educational game. This game contains lo
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Brain, Color, Coloring, Cook, Cooking, Cute, Educational, Fun, Girls, HTML5, Kids, Matching, Mobile, Puzzle, Skill
+- Tags: Boys, Brain, Color, Coloring, Cook, Cooking, Cute, educational, Fun, Girls, HTML5, Kids, Matching, Mobile, Puzzle, Skill

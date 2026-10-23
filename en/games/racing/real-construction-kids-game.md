@@ -21,4 +21,4 @@ Real Construction Kids Game is a very popular truck game for boys and girls. In 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Car, Driving, Educational, Fun, Girls, HTML5, Kids, Mobile
+- Tags: Boys, Car, Driving, educational, Fun, Girls, HTML5, Kids, Mobile

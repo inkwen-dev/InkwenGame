@@ -19,6 +19,6 @@ Get ready for the ultimate tactical survival experience! The world has been inva
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 3D, Action, Adventure, Aircraft, amazing, apocalypse, attack, Battle, Best Games
+- Tags: 1 Player, 2026 games, 3D, Action, Adventure, Aircraft, amazing, apocalypse, attack, battle, Best Games

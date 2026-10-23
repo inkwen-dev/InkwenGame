@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 3D, 3D游戏, 球, 益智, HTML5, 解谜, WebGL
+- 标签: 单人, 3D, 3D游戏, 球, 大脑, HTML5, 益智, WebGL

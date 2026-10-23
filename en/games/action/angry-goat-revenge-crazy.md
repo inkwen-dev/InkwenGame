@@ -19,6 +19,6 @@ Enjoy this Angry Goat Revenge -- Wild Animal-free full version with amazing feat
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Animal, Battle, Fun
+- Tags: 3D, Action, Adventure, Animal, battle, Fun

@@ -21,4 +21,4 @@ TNTcraft is a 2 player TNT game in a minecraft world where your mission is to ex
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, Arcade, Arena, Battle, Battlegrounds, Bomb, Boys, Minecraft, War, Zombie
+- Tags: 2 Player, 2 Player Games, 3D, Arcade, Arena, battle, Battlegrounds, Bomb, Boys, Minecraft, War, Zombie

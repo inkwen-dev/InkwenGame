@@ -21,4 +21,4 @@ Help EverCat to jump home. Be quick and attentive - time is limited and there is
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Cat, HTML5, Jumping, Kids, Mobile
+- Tags: 2D, Cat, HTML5, jumping, Kids, Mobile

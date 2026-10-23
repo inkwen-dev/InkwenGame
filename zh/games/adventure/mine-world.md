@@ -21,4 +21,4 @@ MineWorld 是一款受 Minecraft 启发并融合了角色扮演元素的游戏�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 冒险, 建造者, 我的世界
+- 标签: 单人, 冒险, 建造者, 我的世界

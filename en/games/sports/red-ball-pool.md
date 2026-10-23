@@ -21,4 +21,4 @@ Red Ball Pool is super fun billiard game that you can play online for free. No d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Android, Arcade, Avoid, Ball, Billiard, Boys, Collecting, HTML5, Kids, Mobile, Pool, Shooting, Skill, Sport
+- Tags: 1 Player, Android, Arcade, Avoid, Ball, Billiard, Boys, Collecting, HTML5, Kids, Mobile, pool, Shooting, Skill, Sport

@@ -19,6 +19,6 @@ Do you want to be a unique restaurant manager? You can learn how to be a manager
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cook, Cooking, eating, Funny, Hot, Interactive, Kids, Mobile, Strategy
+- Tags: Cook, Cooking, eating, Funny, Hot, Interactive, Kids, Mobile, strategy

@@ -21,4 +21,4 @@ The world has been overrun by demons and there’s only one chicken that can sto
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Christmas, jump, Jumping
+- Tags: Action, Adventure, Christmas, jump, jumping

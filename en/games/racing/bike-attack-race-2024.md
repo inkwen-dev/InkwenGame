@@ -21,4 +21,4 @@ Revise your bike and aim at your rivals in thrilling racing battles. While you m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Bike, Driving, Fight, HTML5, iPad, iPhone, Mentolatux, Mobile, Moto, Motocross, Motorcycle, Racing, WebGL
+- Tags: Android, bike, Driving, Fight, HTML5, iPad, iPhone, Mentolatux, Mobile, Moto, Motocross, Motorcycle, Racing, WebGL

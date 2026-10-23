@@ -21,4 +21,4 @@ PC 可使用 ASDW 键或方向键（左右和上下箭头）来调整目标，�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 乐趣, 搞笑, Grimace, Grimace Shake, 高分, NapTech Games, 射击, 射手, 射击游戏
+- 标签: 有趣, 搞笑, 格里马斯, 格里马斯奶昔, 高分, NapTech 游戏, 射击, 射击类, 射击

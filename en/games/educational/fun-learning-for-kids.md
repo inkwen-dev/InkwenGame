@@ -19,6 +19,6 @@ This education game is suitable for the toddlers and kids. It helps improve thei
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Brain, Educational, HTML5, Kid, Kids, Mobile, Train
+- Tags: Best, Brain, educational, HTML5, Kid, Kids, Mobile, Train

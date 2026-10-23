@@ -19,6 +19,6 @@ The avalanche is coming! Hurry up Santa! Ski down the mountain, collect the gift
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Best, Christmas, Holiday, HTML5, jump, Jumping, Mobile, Physics, run, running, Simulation, Simulator, Ski
+- Tags: Action, Arcade, Best, Christmas, Holiday, HTML5, jump, jumping, Mobile, Physics, run, running, Simulation, Simulator, Ski

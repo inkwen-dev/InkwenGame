@@ -21,4 +21,4 @@ Zig Zag and Switch is a puzzle game where you need to control the line which mov
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Color, HTML5, Kids, Puzzle, Skill, Snake
+- Tags: Avoid, Color, HTML5, Kids, Puzzle, Skill, snake

@@ -21,4 +21,4 @@ Word Search Universe 2 is a fun and relaxing puzzle game where you find hidden w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Educational, Hidden, Skill, Word
+- Tags: Brain, educational, Hidden, Skill, word

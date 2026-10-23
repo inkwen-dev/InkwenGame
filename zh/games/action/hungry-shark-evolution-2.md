@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 愤怒, 血液, 进食, 适用于您网站的HTML游戏, 超休闲, kiz10, 怪兽, 鲨鱼
+- 标签: 动作, 愤怒, 血液, 进食, HTML游戏供您的网站使用, 超休闲, kiz10, monster, 鲨鱼

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 卡片, HTML5, 记忆
+- 标签: 街机, 卡牌, HTML5, 记忆

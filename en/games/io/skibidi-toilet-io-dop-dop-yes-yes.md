@@ -21,4 +21,4 @@ Skibidi Toilet Io is a hilariously wacky game where your character is a head pop
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2 Player, 2 Player Games, 3D, 3D Games, Action, Arena, Best, Clash, HTML5, Skibidi Toilet, sumo
+- Tags: .io, .io Games, 2 Player, 2 Player Games, 3D, 3D Games, Action, Arena, Best, Clash, HTML5, skibidi-toilet, sumo

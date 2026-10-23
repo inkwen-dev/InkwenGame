@@ -21,4 +21,4 @@ Blaze Monster Machines Hidden Keys is a free online skill and hidden object game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Cartoon, Casual, Fun, Hidden, HTML5, Hypercasual, Kids, Mobile, Truck
+- Tags: 1 Player, Cartoon, Casual, Fun, Hidden, HTML5, Hypercasual, Kids, Mobile, truck

@@ -19,6 +19,6 @@ Welcome to the magic world of Animated Glitter Coloring Book - Anime Manga Do yo
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Anime, Baby, Baby Hazel, Cartoon, Cartoon Network, Draw, Drawing, Games, Girls, Kids, Online, Princess, Superhero
+- Tags: .io Games, Anime, Baby, Baby Hazel, Cartoon, Cartoon Network, Draw, drawing, Games, Girls, Kids, Online, Princess, Superhero

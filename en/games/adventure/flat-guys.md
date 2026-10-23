@@ -19,6 +19,6 @@ Go to the obstacle course and see which of you will be the strongest! The game w
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Fun, Funny, Hypercasual

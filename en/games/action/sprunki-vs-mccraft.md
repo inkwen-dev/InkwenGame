@@ -19,6 +19,6 @@ The Sprunki team has fallen into the McCraft world, and they want to escape and 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Arcade, Minecraft, Mobile, Pixel, Platform, Sprunki
+- Tags: 2 Player, 2 Player Games, 2D, Arcade, Minecraft, Mobile, pixel, Platform, Sprunki

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动漫, 汽车, cars, 卡通, Cartoon Network, 涂色, 画画, 竞速, 运动
+- 标签: 动漫, 汽车, 汽车, 卡通, 卡通频道, 着色, 绘画, 比赛, 体育

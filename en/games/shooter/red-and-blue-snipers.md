@@ -39,4 +39,4 @@ For successful matches, you gain experience to increase your rank in the overall
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, First Person Shooter, Gun, Shooting, Sniper
+- Tags: Boys, First Person Shooter, Gun, Shooting, sniper

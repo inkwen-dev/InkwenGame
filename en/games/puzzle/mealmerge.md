@@ -21,4 +21,4 @@ MealMerge is a fun and creative puzzle adventure set in a vibrant jungle where c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Food, Puzzle, Worm
+- Tags: Casual, Food, Puzzle, worm

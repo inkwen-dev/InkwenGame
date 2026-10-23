@@ -19,6 +19,6 @@ The power is in your finger! Tap the screen to hit the monsters and click the sp
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Creation, RPG, weapons
+- Tags: Action, Arcade, Creation, rpg, weapons

@@ -21,4 +21,4 @@ In this bike game Tracks are arranged according to real bike race scenarios whic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Bike, Racing, Sim, Simulation, Simulator, Stunts
+- Tags: 3D Games, bike, Racing, Sim, Simulation, Simulator, Stunts

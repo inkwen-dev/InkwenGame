@@ -21,4 +21,4 @@ Taylor's parents wanted to clean up part of the house and redecorate it. Taylor 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cleaning, Cute, Decorate, Design, Educational, Girl, Girls, Kids, Simulation
+- Tags: Baby, Cleaning, Cute, Decorate, Design, educational, Girl, Girls, Kids, Simulation

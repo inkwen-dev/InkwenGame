@@ -21,4 +21,4 @@ Merge Guns is a tower-defense and merge hybrid built on a single grid. Buy guns 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, merge, Shooting, Strategy
+- Tags: Action, merge, Shooting, strategy

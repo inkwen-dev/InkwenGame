@@ -29,4 +29,4 @@ Restore Lab is a cozy idle repair tycoon. Start with one workbench and a pair of
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, cozy, idle, Management, Simulation, tycoon
+- Tags: Clicker, cozy, idle, management, Simulation, tycoon

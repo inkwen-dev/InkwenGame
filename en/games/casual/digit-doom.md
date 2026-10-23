@@ -21,4 +21,4 @@ Digit Doom &ndash; Game Description Enter the world of Digit Doom, where numbers
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Math, Monster
+- Tags: 1 Player, math, monster

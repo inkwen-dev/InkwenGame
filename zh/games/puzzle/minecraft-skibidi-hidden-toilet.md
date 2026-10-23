@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 隐藏, 记忆, 我的世界, Skibidi, Skibidi马桶
+- 标签: 隐藏, 记忆, 我的世界, Skibidi, skibidi-toilet

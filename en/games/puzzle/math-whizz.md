@@ -21,4 +21,4 @@ Math Whizz is the best game to help your kids to learn Math.In this game your ch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Math, Punch
+- Tags: Casual, math, Punch

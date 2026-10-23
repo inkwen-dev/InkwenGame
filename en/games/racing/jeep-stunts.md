@@ -21,4 +21,4 @@ Are you ready and prepared to enjoy the jeep stunt driving simulator on the trac
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Arcade, Arena, Battlegrounds, Car, drift, Driving, Jumping, Music, Stunts
+- Tags: 3D Games, Arcade, Arena, Battlegrounds, Car, drift, Driving, jumping, music, Stunts

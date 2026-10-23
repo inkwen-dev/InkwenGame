@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 街机, 方块, 收集, 移动, 平台, 模拟游戏, 棍子人, Unity3D
+- 标签: 3D, 街机, 方块, 收集, 移动设备, 平台, 模拟, 木偶人, Unity3D

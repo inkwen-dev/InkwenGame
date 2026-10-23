@@ -29,4 +29,4 @@ A Long Way Home is a chilling survival horror game that plunges you into the rol
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Horror, RPG, story, survival
+- Tags: Adventure, Horror, rpg, story, survival

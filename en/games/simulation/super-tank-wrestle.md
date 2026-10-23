@@ -19,6 +19,6 @@ I prefer tanks like it in StarCraft to it in reality. The tanks here are able to
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, HTML5, Simulation, Skill, Tank, War

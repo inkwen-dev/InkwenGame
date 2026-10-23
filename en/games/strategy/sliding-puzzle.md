@@ -21,4 +21,4 @@ Experience the classic 15-puzzle re-imagined in this premium Mastermind Edition.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Logic, Puzzle, sliding, Strategy
+- Tags: Brain, Logic, Puzzle, sliding, strategy

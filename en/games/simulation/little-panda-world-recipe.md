@@ -21,4 +21,4 @@ In Little Panda World Recipe, the baby will get a new identity, cooking master, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cook, Cooking, Cute, Decorate, Educational, Girl, Girls, Kids, Simulation
+- Tags: Animal, Cook, Cooking, Cute, Decorate, educational, Girl, Girls, Kids, Simulation

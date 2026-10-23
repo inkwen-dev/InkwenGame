@@ -21,4 +21,4 @@ Solitaire Grand Harvest: the go-to Tripeaks Solitaire game for Solitaire card ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Game, Games, HTML5, Solitaire
+- Tags: Game, Games, HTML5, solitaire

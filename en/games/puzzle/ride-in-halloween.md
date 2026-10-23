@@ -21,4 +21,4 @@ Ride in Halloween game has a lot of success review and player this MONTH that si
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bubble Shooter, Crazy, Halloween, Interactive, Interactive Fiction, Race, Racing, run, running, Shoot, Shoot 'Em Up, Shooter, Shooting
+- Tags: Arcade, Bubble Shooter, crazy, Halloween, Interactive, Interactive Fiction, Race, Racing, run, running, Shoot, Shoot 'Em Up, Shooter, Shooting

@@ -19,6 +19,6 @@ Yeah!!! Baby Hazel is in roguish mood! She has finally got some lonesome time to
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Hazel, Girls, Kids

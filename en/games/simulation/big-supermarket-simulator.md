@@ -21,4 +21,4 @@ Big Supermarket Simulator is a light business simulation game: start from a smal
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Casual, idle, Management, Simulation
+- Tags: 3D, Casual, idle, management, Simulation

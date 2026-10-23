@@ -19,6 +19,6 @@ In this adventure, Obby and his girlfriend need to complete a skyblock obstacle 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, mineblock, Pixel, Platform
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, mineblock, pixel, Platform

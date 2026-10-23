@@ -21,4 +21,4 @@ WASD - 移动 Shift - 步行 空格键 - 跳跃 左键 - 行动 1 - 炽热光环
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 3D, 动作, 冒险, 幻想, 火, 游戏, HTML5, 魔法, 角色扮演, Unity3D, WebGL
+- 标签: 单人, 3D, 动作, 冒险, 幻想, 火焰, 游戏, HTML5, 魔法, rpg, Unity3D, WebGL

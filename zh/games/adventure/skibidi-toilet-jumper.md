@@ -21,4 +21,4 @@ Skibidi 洗手间跳跃是一款快节奏、充满挑战的街机游戏，将考
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 动作, 冒险, 跳跃, 跳跃, Skibidi, Skibidi 马桶
+- 标签: 单人, 2D, 动作, 冒险, 跳跃, 跳跃, Skibidi, skibidi-toilet

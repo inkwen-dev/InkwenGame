@@ -21,4 +21,4 @@ Head Soccer 2023 is a sports game. Choose your player and play fast-paced soccer
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Football, Multiplayer, Sports
+- Tags: Arcade, Football, Multiplayer, sports

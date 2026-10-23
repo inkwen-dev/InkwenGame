@@ -21,4 +21,4 @@ Feel the fear inside your heart as this match will take you to a ride in the saf
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Animal, Battle, Blood, Interactive, jump, Shoot, Shooting
+- Tags: Android, Animal, battle, Blood, Interactive, jump, Shoot, Shooting

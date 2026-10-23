@@ -21,4 +21,4 @@ Play games online free. Practice math and improve mental arithmetic. Ocean Math 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kid, Kids, Math
+- Tags: educational, Kid, Kids, math

@@ -21,4 +21,4 @@ Python 蛇模拟器带你体验一条蟒蛇的生命，它需要逃离矿井。�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 动物, 战斗, 收集, Skibidi, Skibidi Toilet, 技巧, 蛇, 祖玛
+- 标签: 冒险, 动物, 战斗, 收集, Skibidi, skibidi-toilet, 技巧, snake, 祖玛

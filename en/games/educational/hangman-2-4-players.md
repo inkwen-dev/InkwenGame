@@ -19,6 +19,6 @@ The legend game which you play on papers, Hangman is on web now! Over and above 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Boy, Boys, Brain, Educational, Kid, Mind, Puzzle, Retro, School, Stickman, Word
+- Tags: 2 Player, 2 Player Games, Boy, Boys, Brain, educational, Kid, Mind, Puzzle, retro, School, stickman, word

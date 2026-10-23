@@ -21,4 +21,4 @@ Lots of car and bus friends are waiting for you at the garage! Help our little b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cartoon, Educational, Fun, Girl, HTML5, Kids, Matching, Mobile, Puzzle
+- Tags: Car, Cartoon, educational, Fun, Girl, HTML5, Kids, Matching, Mobile, Puzzle

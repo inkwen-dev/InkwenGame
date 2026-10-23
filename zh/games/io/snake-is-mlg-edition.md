@@ -21,4 +21,4 @@ Snake: MLG 版是一款酷炫的多人蛇类游戏，你需要收集零食、饮
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, 动物, 街机, H5, 多人, 在线, 蛇
+- 标签: .io, 动物, 街机, H5, 多人, 在线, snake

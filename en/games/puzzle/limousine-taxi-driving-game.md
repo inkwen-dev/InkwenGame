@@ -21,4 +21,4 @@ Racing, jumping, passengers carrying limousine simulator has fascinating journey
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adventure, Boy, Boys, Bubble, Bubble Shooter, bus, Candy, Car, Cars, drift, drifting, Driving, Fun, Funny, Game, Games, Kid, Kids, Panda, Parking, Sim, Simulation, Simulator, Supercars, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adventure, Boy, Boys, Bubble, Bubble Shooter, bus, Candy, Car, Cars, drift, drifting, Driving, Fun, Funny, Game, Games, Kid, Kids, Panda, parking, Sim, Simulation, Simulator, Supercars, truck

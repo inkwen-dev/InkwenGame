@@ -19,6 +19,6 @@ Match 3 or more same jelly candy to earn points and time. Your time depends of t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Match 3, Matching, Puzzle

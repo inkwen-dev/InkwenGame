@@ -21,4 +21,4 @@ Here Swipe the hole to Eat all Blocks and Shapes to Save Ball. Have Fun! Enjoy t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Casual, Cool, Funny, HTML5, WebGL
+- Tags: 3D, Casual, cool, Funny, HTML5, WebGL

@@ -19,6 +19,6 @@ Enjoy hours of Drift Track Racing by racing on your choice of over 12+ race trac
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Cars, drift, drifting, Driving, Race, Racing, Simulation, Supercars

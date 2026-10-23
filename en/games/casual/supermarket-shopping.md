@@ -21,4 +21,4 @@ In this entertaining game, you can shop for groceries, clothes, toys, and more! 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Baby, Boys, Cake, Casual, Crazy, Fruit, Fruits, Girls, Kids, Shopping, WebGL
+- Tags: 1 Player, Baby, Boys, Cake, Casual, crazy, Fruit, Fruits, Girls, Kids, Shopping, WebGL

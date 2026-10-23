@@ -19,6 +19,6 @@ Balloon Slicer is a casual puzzle game where you need to aim and throw your saw 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Ballon, Boys, Coloring, Girl, Hypercasual, Kid, Physics, Relaxation

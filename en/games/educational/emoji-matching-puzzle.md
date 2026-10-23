@@ -21,4 +21,4 @@ Welcome to the Emoji Matching Puzzle. It is a new educational puzzle game for ki
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Educational, HTML5, Kids, Puzzle
+- Tags: Casual, educational, HTML5, Kids, Puzzle

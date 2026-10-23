@@ -30,4 +30,4 @@ How far can you grow your air empire and dominate the skies? ☁️👑
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: airplane, idle, Management, merge, tycoon
+- Tags: airplane, idle, management, merge, tycoon

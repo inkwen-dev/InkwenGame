@@ -21,4 +21,4 @@ Art has not only the power to inspire, but it can also be incredibly relaxing. B
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Color, Coloring, Creation, Design, Draw, Drawing, Fun, Girl, Girls, Kid, Kids
+- Tags: Boy, Boys, Color, Coloring, Creation, Design, Draw, drawing, Fun, Girl, Girls, Kid, Kids

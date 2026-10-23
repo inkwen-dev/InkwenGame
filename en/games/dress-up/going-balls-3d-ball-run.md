@@ -19,6 +19,6 @@ Play ball rolling game and enjoy 3d ball game rolling games. You have played man
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Ball, Ballon, Baseball, Basketball, Candy, Cars, Cartoon Network, Dragon Ball Z, Fantasy, Fashion, Football, Games, Hello Kitty, Highscore, Pinball, Shopping, Side Scrolling, Space, Supercars, tomb
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Ball, Ballon, baseball, basketball, Candy, Cars, Cartoon Network, Dragon Ball Z, Fantasy, Fashion, Football, Games, Hello Kitty, Highscore, Pinball, Shopping, Side Scrolling, Space, Supercars, tomb

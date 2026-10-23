@@ -19,6 +19,6 @@ Noob, whom everyone finds funny and cute, is in trouble and is running away from
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 2D, 3D Games, Boys, Casual, Design, Fashion, Game, Games, Girl, Girls, Makeover

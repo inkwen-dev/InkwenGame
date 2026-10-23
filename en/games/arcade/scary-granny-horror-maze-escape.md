@@ -21,4 +21,4 @@ Enter the terrifying maze and try to escape before Granny finds you! Scary Grann
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, amazing, Casual, Escape, Ghost, Granny, Horror, hospital, Unity3D
+- Tags: 1 Player, 2026 games, amazing, Casual, Escape, Ghost, granny, Horror, hospital, Unity3D

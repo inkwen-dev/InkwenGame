@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 汽车, 碰撞, 拆除, 驾驶, 模拟器, 天空, 特技, 超级跑车, Unity3D, WebGL
+- 标签: 3D游戏, 汽车, 碰撞, 拆除, 驾驶, 模拟器, 天空, 特技, 超跑, Unity3D, WebGL

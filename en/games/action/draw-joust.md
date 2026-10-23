@@ -19,6 +19,6 @@ Draw Joust is an amazing game with the style of painting and designing, you need
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arena, Battle, Boy, Draw, H5, HTML, HTML5, Kids, Mobile, Puzzle, PvP
+- Tags: 3D, 3D Games, Arena, battle, Boy, Draw, H5, HTML, HTML5, Kids, Mobile, Puzzle, PvP

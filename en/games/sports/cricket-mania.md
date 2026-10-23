@@ -32,4 +32,4 @@ Every delivery tests your instincts - one mistimed shot, and you’re out! Wheth
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cricket, Skill, Sports
+- Tags: cricket, Skill, sports

@@ -19,6 +19,6 @@ Unblock Car is a fun and classic addictive puzzle game.The goal is to unblock th
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 2D, Action, Adventure, Arcade, Race

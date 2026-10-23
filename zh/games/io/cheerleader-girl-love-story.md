@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 1人, 双人游戏, 成人, 空中, Ben 10, 积木
+- 标签: .io 游戏, 单人, 双人, 成人, 空气, Ben 10, 砖块

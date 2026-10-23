@@ -19,6 +19,6 @@ Tiny Zombies is an exciting zombie-killing game and you have to defend your area
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Clicker, endless, HTML, HTML5, Zombie

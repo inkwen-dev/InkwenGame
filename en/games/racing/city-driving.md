@@ -19,6 +19,6 @@ City Driving is a realistic simulation and racing game. Just drift and enjoy thi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Adventure, Race, Racing

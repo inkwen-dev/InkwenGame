@@ -21,4 +21,4 @@ Step into the battlefield and test your precision in Gun Shooting Games: Sniper 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Enemies, Sniper, weapons
+- Tags: 3D Games, Enemies, sniper, weapons

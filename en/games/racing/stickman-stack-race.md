@@ -19,6 +19,6 @@ Lead your stickman crowd, crush obstacles, and dominate the streets in Stickman 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, endless, Game, Hypercasual, Kids, Obstacle, Race, running, Stack, Stickman
+- Tags: 2026 games, endless, Game, Hypercasual, Kids, Obstacle, Race, running, Stack, stickman

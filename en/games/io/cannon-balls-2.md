@@ -19,6 +19,6 @@ Cannon Hit is best Free single player target shooting game out there. This is ca
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Ball, Ballon

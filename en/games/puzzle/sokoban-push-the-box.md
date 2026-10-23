@@ -21,4 +21,4 @@ Challenge your brain in Sokoban - Push The Box. This is a timeless classic puzzl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Brain, Classic, Skills
+- Tags: block, Brain, Classic, Skills

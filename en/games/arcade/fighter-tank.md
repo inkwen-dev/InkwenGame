@@ -21,4 +21,4 @@ Fighter tank online games are a lot like war games. They're fast-paced and full 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Fight, Game, Games, HTML5, Tank, Tanks
+- Tags: Action, Fight, Game, Games, HTML5, Tank, tanks

@@ -21,4 +21,4 @@ Hop in the van and prepare for a crazy race in the Pickle and Peanut: Crash Cour
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Anime, Avoid, Boys, Cartoon, Cartoon Network, Disney, HTML5, jump, Jumping, Kids, Obstacle, Platform, Racing, run, running
+- Tags: 2D, Adventure, Anime, Avoid, Boys, Cartoon, Cartoon Network, Disney, HTML5, jump, jumping, Kids, Obstacle, Platform, Racing, run, running

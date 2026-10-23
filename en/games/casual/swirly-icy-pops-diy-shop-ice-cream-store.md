@@ -19,6 +19,6 @@ Summer has come and it's so hot outside! Travel around the pet city with Blush t
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Business, Fun, Girl, Girls, H5, HTML5, Ice, Kid, Kids, Summer

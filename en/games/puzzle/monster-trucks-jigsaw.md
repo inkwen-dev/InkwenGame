@@ -21,4 +21,4 @@ This time you can choose your favorite Monster Truck from one of offered five im
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jigsaw, Puzzle, Truck
+- Tags: Jigsaw, Puzzle, truck

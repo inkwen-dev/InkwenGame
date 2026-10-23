@@ -19,6 +19,6 @@ How do you guess a five-letter word with five chances? Here is a hard-core five-
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Brain, Letters, Mobile, Puzzle, Unity3D, Word
+- Tags: 2D, Arcade, Brain, Letters, Mobile, Puzzle, Unity3D, word

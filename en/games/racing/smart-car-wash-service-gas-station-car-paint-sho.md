@@ -19,6 +19,6 @@ Play smart car wash games & gas station parking 2022 to provide car service incl
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Car, Cars, Games, HTML, HTML5, Racing, Simulation, Simulator

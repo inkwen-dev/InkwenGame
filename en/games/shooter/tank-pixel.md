@@ -21,4 +21,4 @@ The micro tanks which are controlled by one touch, are ready for the match that 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Arena, Battle, Shooting, Tank
+- Tags: 2 Player, 2 Player Games, 2D, Action, Arena, battle, Shooting, Tank

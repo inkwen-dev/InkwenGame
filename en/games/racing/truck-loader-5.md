@@ -19,6 +19,6 @@ The game Truck Loader 5 will take us to the warehouse once again, where they nee
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Boys, Car, Physics, Platform, Puzzle, Robot, Sandbox, Simulation, Truck
+- Tags: 1 Player, Boys, Car, Physics, Platform, Puzzle, Robot, Sandbox, Simulation, truck

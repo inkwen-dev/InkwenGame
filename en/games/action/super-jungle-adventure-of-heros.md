@@ -21,4 +21,4 @@ new super jungle adventure platformer gam is a super classic adventure and legen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 3D, 3D Games, Action, Adventure, Arcade, Casual, Fun, Funny, Jumping, running, Unity3D
+- Tags: 2 Player Games, 3D, 3D Games, Action, Adventure, Arcade, Casual, Fun, Funny, jumping, running, Unity3D

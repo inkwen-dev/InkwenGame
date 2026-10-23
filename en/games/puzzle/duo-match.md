@@ -19,6 +19,6 @@ Prepare yourself for a fresh and original matching pair game challenge! Your tas
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, free html5 games for your website, Match 3, Match3, Matching, Mobile, Puzzle

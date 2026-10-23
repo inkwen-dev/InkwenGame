@@ -21,4 +21,4 @@ Jump from platform to platform grab on to anything you can find to stay up! anot
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Girl, Girls, HTML, HTML5, jump, Jumping, Platform, Space, World
+- Tags: Girl, Girls, HTML, HTML5, jump, jumping, Platform, Space, World

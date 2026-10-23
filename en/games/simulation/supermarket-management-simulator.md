@@ -21,4 +21,4 @@ Supermarket Management Simulator invites you to become a real store owner and bu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Management, Simulation
+- Tags: management, Simulation

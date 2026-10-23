@@ -19,6 +19,6 @@ Turbo-charge your hooves and get ready for the race of your life! Shear Speed ch
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Sport, Sports
+- Tags: Adventure, Sport, sports

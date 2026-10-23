@@ -19,6 +19,6 @@ Word Cross is a creative crossword puzzle game which can inspire your passion fo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Brain, Hot, HTML, HTML5, Hypercasual, Mind, Puzzle, Word
+- Tags: Arcade, Best, Brain, Hot, HTML, HTML5, Hypercasual, Mind, Puzzle, word

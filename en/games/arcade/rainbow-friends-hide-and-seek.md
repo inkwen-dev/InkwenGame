@@ -19,6 +19,6 @@ Rainbow Friends Hide And Seek is an exciting and fast-paced hide-and-seek advent
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, Hidden, Strategy
+- Tags: Escape, Hidden, strategy

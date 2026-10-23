@@ -19,6 +19,6 @@ One Bullet To Sprunki is a thrilling bullet hell game where you tap to play, rel
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Mentolatux, Shooting, Skills, Sprunki, Unity3D, weapons, WebGL

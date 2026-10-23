@@ -21,4 +21,4 @@ Bladers.io is one of our interesting fidget spinner games. Grow and power up you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Battle, Collecting, Driving, Racing
+- Tags: .io Games, battle, Collecting, Driving, Racing

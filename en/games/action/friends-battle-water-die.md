@@ -21,4 +21,4 @@ Are you ready to fight with your friend? Engage in battle with your friend and t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Arcade, Arena, Battle, Minecraft, Pixel, Sword
+- Tags: 2 Player, 2 Player Games, 2D, Arcade, Arena, battle, Minecraft, pixel, sword

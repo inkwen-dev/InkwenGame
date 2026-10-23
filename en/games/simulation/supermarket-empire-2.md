@@ -19,6 +19,6 @@ Supermarket Empire is a simulation game where you become the master of your own 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Best Games, Casual, Cooking, Food, Management, Mobile, Restaurant, Shopping
+- Tags: 3D, 3D Games, Arcade, Best Games, Casual, Cooking, Food, management, Mobile, restaurant, Shopping

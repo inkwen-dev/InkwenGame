@@ -21,4 +21,4 @@ Hippo family are going to travel all over the World. They arrive at the aiport a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Animal, Boys, Cute, Educational, Family, Fun, Game, Girls, HTML5, Kids, Mobile, Plane
+- Tags: Adventure, Animal, Boys, Cute, educational, Family, Fun, Game, Girls, HTML5, Kids, Mobile, Plane

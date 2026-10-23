@@ -21,4 +21,4 @@ Smash the players on the battlefield and absorb their power! Join the gang beast
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2D, Action, Arcade, Battle, Boxing, Boys, Cartoon
+- Tags: .io, .io Games, 2D, Action, Arcade, battle, Boxing, Boys, Cartoon

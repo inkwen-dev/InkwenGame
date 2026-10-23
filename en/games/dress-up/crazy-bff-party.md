@@ -19,6 +19,6 @@ Two best friends - Princess Harlequin and Princess Jen decided to have a party o
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Bomb, Crazy, Dress Up, Fashion, Girl, Hair, HTML5, Makeover, Princess, Shark
+- Tags: Animal, Bomb, crazy, Dress Up, Fashion, Girl, Hair, HTML5, Makeover, Princess, Shark

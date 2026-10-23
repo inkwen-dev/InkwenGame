@@ -21,4 +21,4 @@ Take part in the most addictive basketball game! Refine your skills in 6 differe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Basketball, Boy, Boys, Sport, Sports
+- Tags: 1 Player, basketball, Boy, Boys, Sport, sports

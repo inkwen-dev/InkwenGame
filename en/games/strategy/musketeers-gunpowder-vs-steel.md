@@ -31,4 +31,4 @@ Musketeers: Gunpowder vs Steel is an exciting free-to-play strategy game set in 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Army, Boys, pve, Strategy, War
+- Tags: Army, Boys, pve, strategy, War

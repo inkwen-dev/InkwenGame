@@ -29,4 +29,4 @@ Team up with a friend or play alone. There are both co-op and single-player mode
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Minecraft, Mobile, Multiplayer, Platform, Strategy, survival, Tower Defense, Zombie
+- Tags: Action, Minecraft, Mobile, Multiplayer, Platform, strategy, survival, Tower Defense, Zombie

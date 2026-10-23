@@ -21,4 +21,4 @@ JumpRotor 是一款机械游戏，玩家需要操控一只猫在圆形机械部�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Animal, 休闲, 点击器, 机器
+- 标签: 动物, 休闲, 点击器, 机器

@@ -19,6 +19,6 @@ Imposter Galaxy: Imposter Killer 3D performs missions together or hunt them all.
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Arcade, Battle, Best, Funny, Hot, HTML5, Hypercasual, Kill, Killing, Mobile, Puzzle, Red, Skill, Spaceship, Stealth, weapons
+- Tags: 3D, Action, Arcade, battle, Best, Funny, Hot, HTML5, Hypercasual, Kill, Killing, Mobile, Puzzle, Red, Skill, Spaceship, Stealth, weapons

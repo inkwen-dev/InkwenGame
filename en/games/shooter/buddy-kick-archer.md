@@ -21,4 +21,4 @@ Buddy Kick Archer is a fun and fast-paced archery challenge where you aim, shoot
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, free html5 games for your website, Fun, Funny, Kids, Kill, kiz10, Shooting, Stickman
+- Tags: 1 Player, Arcade, free html5 games for your website, Fun, Funny, Kids, Kill, kiz10, Shooting, stickman

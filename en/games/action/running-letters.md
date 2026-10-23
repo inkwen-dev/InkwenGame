@@ -21,4 +21,4 @@ Run, let’s run letter Jun This is a particularly unique mobile cool running ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Brain, Crazy, Funny, Hypercasual
+- Tags: Adventure, Brain, crazy, Funny, Hypercasual

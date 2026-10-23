@@ -19,6 +19,6 @@ Ever heard of Beethoven, Chopin, Bach or Mozart? Ever had a dream of becoming an
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Music, Simulation
+- Tags: music, Simulation

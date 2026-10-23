@@ -21,4 +21,4 @@ It's a fun casual game Zonic Rush Toilet Have fun guiding the little Zonic strai
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping, kiz10, Platform, Puzzle
+- Tags: jumping, kiz10, Platform, Puzzle

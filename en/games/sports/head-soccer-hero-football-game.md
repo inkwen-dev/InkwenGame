@@ -19,6 +19,6 @@ Beat the opponent with fancy lethal shots such as dragon shoot, ice shoot and li
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Soccer, Sport, Sports
+- Tags: Football, Soccer, Sport, sports

@@ -19,6 +19,6 @@ The gameplay of the game 3D Quiz Fight of Four is very simple - Choose a theme -
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Battle, Brain, Educational, Memory, Quiz
+- Tags: 3D, battle, Brain, educational, memory, Quiz

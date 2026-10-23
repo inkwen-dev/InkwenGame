@@ -19,6 +19,6 @@ Traffic Racer is an HTML5 game! Drive a sports car on the highway of the city of
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Race, Racing, Traffic

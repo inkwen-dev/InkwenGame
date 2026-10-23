@@ -21,4 +21,4 @@ Sky Glide is a visually captivating sky adventure where players guide a paper pl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Shoot, Shooter, Shooting, Strategy
+- Tags: 1 Player, 2D, Shoot, Shooter, Shooting, strategy

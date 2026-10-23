@@ -21,4 +21,4 @@ Math Game For Kids – is a fun and beautiful mathematical game for children, th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Arcade, Boy, Educational, Girl, HTML, HTML5, Hypercasual, Math, Seduction, WebGL
+- Tags: Adult, Arcade, Boy, educational, Girl, HTML, HTML5, Hypercasual, math, Seduction, WebGL

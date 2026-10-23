@@ -21,4 +21,4 @@ The ordinary cake maker is cylindrical, but have you ever seen a special shaped 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cook, Cooking, Educational, Fun, Girl, Girls, Kid, Kids
+- Tags: Cook, Cooking, educational, Fun, Girl, Girls, Kid, Kids

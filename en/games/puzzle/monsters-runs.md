@@ -21,4 +21,4 @@ Monsters Run is a game in which you have to control a small monster to pass as f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Kids, Monster, Puzzle, run
+- Tags: Avoid, Kids, monster, Puzzle, run

@@ -19,6 +19,6 @@ Welcome to Stickman Parkour, A new Running and jumping Game you'll face challeng
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Best, Hot, Hypercasual, Jumping, Stickman
+- Tags: Action, Adventure, Arcade, Best, Hot, Hypercasual, jumping, stickman

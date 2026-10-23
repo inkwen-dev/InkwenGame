@@ -29,4 +29,4 @@ Earn gold from victories, strengthen your roster, and unlock new class branches.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, RPG, Tower Defense
+- Tags: Action, rpg, Tower Defense

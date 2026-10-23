@@ -21,4 +21,4 @@ Tank War Multiplayer is an action online game where you will fight against playe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Multiplayer, Shooter, Shooting, Tank, Tanks, War
+- Tags: 3D, 3D Games, Multiplayer, Shooter, Shooting, Tank, tanks, War

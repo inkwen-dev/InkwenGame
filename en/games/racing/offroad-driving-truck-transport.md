@@ -19,6 +19,6 @@ Offroad Driving Truck Transport is a thrilling adventure where you navigate rugg
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Forest, Kids, Levels, Mentolatux, offroad, Simulator, Truck, trucks, Unity3D, vehicle, WebGL
+- Tags: Driving, Forest, Kids, Levels, Mentolatux, offroad, Simulator, truck, trucks, Unity3D, vehicle, WebGL

@@ -21,4 +21,4 @@ Skibidi Triple Jump Game, a single-touch jumping reaction game, has everything y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML, HTML5, Hypercasual, jump, Jumping, Mobile, Skibidi, Skibidi Toilet
+- Tags: HTML, HTML5, Hypercasual, jump, jumping, Mobile, Skibidi, skibidi-toilet

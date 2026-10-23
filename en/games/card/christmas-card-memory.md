@@ -21,4 +21,4 @@ Click the cards to flip a christmas items. Memorize their position and match the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Christmas, HTML5, Memory, Mobile
+- Tags: card, Christmas, HTML5, memory, Mobile

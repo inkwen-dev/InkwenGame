@@ -19,6 +19,6 @@ Slime Survivors is a simplified roguelite. Survive against endless waves of oppo
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Android, Arcade, Fantasy, Hypercasual, RPG, Shooting, Skills, Strategy, Vampire
+- Tags: 1 Player, Android, Arcade, Fantasy, Hypercasual, rpg, Shooting, Skills, strategy, Vampire

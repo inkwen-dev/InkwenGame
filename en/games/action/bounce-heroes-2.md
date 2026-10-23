@@ -21,4 +21,4 @@ Bounce Heroes is a thrilling blend of idle RPG, merge puzzle, and roguelite acti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Bounce, RPG
+- Tags: Action, Bounce, rpg

@@ -21,4 +21,4 @@ Sime Run is a fun action game where you control a Slime sliding quickly across t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Fun, Monster, run
+- Tags: Color, Fun, monster, run

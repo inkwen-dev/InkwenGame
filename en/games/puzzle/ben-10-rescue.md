@@ -19,6 +19,6 @@ A rescue game with Ben 10 character, Enjoy the wonderful world of ben10, ben 10 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ben 10, Rescue

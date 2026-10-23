@@ -21,4 +21,4 @@ This is a skill based puzzle game where you match and collect fruits. Collect al
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Fruits, HTML5, Matching, Mobile, Puzzle, Solitaire
+- Tags: block, Fruits, HTML5, Matching, Mobile, Puzzle, solitaire

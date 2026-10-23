@@ -19,6 +19,6 @@ Hello Dear players in this game you will challenge your friends in multiplayer t
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Battle, Fighting, firefighters, Gun, html5 games, Matching, Multiplayer, Online, PvP, RPG, Shooter, two player games
+- Tags: 3D Games, Action, battle, fighting, firefighters, Gun, html5 games, Matching, Multiplayer, Online, PvP, rpg, Shooter, two player games

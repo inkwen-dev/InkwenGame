@@ -21,4 +21,4 @@ Pilot the little green creatures called "Gnammy" and collect all the plankton ge
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Cute, Girl, Girls, HTML, HTML5, Kids, Monster
+- Tags: Arcade, Cute, Girl, Girls, HTML, HTML5, Kids, monster

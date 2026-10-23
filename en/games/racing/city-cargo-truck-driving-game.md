@@ -21,4 +21,4 @@ Welcome to the city truck cargo game. Experience the thrill of driving a truck t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, Action, Adventure, Racing, Simulation, Simulator, Truck, trucks
+- Tags: 2025 games, Action, Adventure, Racing, Simulation, Simulator, truck, trucks

@@ -15,6 +15,6 @@ Leap into a frosty thrill as an adventurous ice cube in Snow Leap Mania! Navigat
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: platformer

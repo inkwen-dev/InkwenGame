@@ -19,6 +19,6 @@ Lets splash some dirt over the walking people near the road with this Dirty Them
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Adventure, Cars, Casual, H5, HTML5, Hypercasual, Kids, WebGL

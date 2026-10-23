@@ -47,4 +47,4 @@ Playgama 官方信息：游戏完全集成 Playgama SDK，采用 HTML5 技术，
 - 可玩设备: desktop
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 恐怖, 可怕的, 生存
+- 标签: 恐怖, 恐怖, 生存

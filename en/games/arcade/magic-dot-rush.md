@@ -19,6 +19,6 @@ Step into the Rhythm World with Magic Dot Rush! Ready to shake up your rhythm ga
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, Avoid, Casual, Hypercasual, Magic, Music, Obstacle, onetouch, run, Skill
+- Tags: 2026 games, Adventure, Avoid, Casual, Hypercasual, Magic, music, Obstacle, onetouch, run, Skill

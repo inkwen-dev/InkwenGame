@@ -21,4 +21,4 @@ A violent war has began, and now you have to save your people, fighting against 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Alien, Army, Avoid, Battle, Bomb, fly
+- Tags: 1 Player, 2D, Alien, Army, Avoid, battle, Bomb, fly

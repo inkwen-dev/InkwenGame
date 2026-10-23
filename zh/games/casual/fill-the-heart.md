@@ -39,4 +39,4 @@ M：静音。
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 手机
+- 标签: 移动设备

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 大脑, 教育, HTML, HTML5, 孩子们, 数学, 移动设备, 怪物, 拼图
+- 标签: 街机, 大脑, 教育, HTML, HTML5, 儿童, 数学, 移动设备, monster, 益智

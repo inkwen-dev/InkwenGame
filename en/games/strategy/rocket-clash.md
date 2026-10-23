@@ -19,6 +19,6 @@ Rocket Clash is an online game that you can play for free. Defend your base! Don
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Aircraft, Android, Clash, Defense, Helicopter, HTML5, Kids, Rocket, Shoot, Shooter, Shooting, Tower Defense
+- Tags: Aircraft, Android, Clash, Defense, helicopter, HTML5, Kids, Rocket, Shoot, Shooter, Shooting, Tower Defense

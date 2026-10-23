@@ -19,6 +19,6 @@ Are you ready for Obby and Bacons adventure? They need to survive in the block w
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Arena, Minecraft, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Arena, Minecraft, pixel

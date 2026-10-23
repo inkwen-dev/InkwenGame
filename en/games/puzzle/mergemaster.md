@@ -21,4 +21,4 @@ A casual mobile game centered around matching and elimination. The game features
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, Color, Puzzle, Relaxation
+- Tags: 1 Player, block, Color, Puzzle, Relaxation

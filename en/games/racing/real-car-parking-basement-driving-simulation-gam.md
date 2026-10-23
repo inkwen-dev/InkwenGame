@@ -21,4 +21,4 @@ It’s extremely helpful to learn new skills of parking and driving. The idea of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Car, Cars, HTML, HTML5, Parking, Simulation, Simulator
+- Tags: 3D, 3D Games, Car, Cars, HTML, HTML5, parking, Simulation, Simulator

@@ -21,4 +21,4 @@ It&rsquo;s a Flappy Bird-style game, but with cats instead of birds! Featuring a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Cat, Click, Fun, jump, Jumping, Mentolatux, WebGL
+- Tags: Arcade, Cat, Click, Fun, jump, jumping, Mentolatux, WebGL

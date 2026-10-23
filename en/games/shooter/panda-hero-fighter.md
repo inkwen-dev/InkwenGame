@@ -21,4 +21,4 @@ Are you ready for an adventurous online action war game? We have prepared for yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Air, Aircraft, Android, Arcade, Battle, Fight, HTML5, Shooter, Shopping, Skills, War, weapons
+- Tags: 1 Player, Action, Air, Aircraft, Android, Arcade, battle, Fight, HTML5, Shooter, Shopping, Skills, War, weapons

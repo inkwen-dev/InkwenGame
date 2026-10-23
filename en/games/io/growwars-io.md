@@ -21,4 +21,4 @@ The battle between the heroes is beginning in the battle arena with superheroes 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, Action, Arena, Battle, grow, Superhero, Sword, War, Warrior
+- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, Action, Arena, battle, grow, Superhero, sword, War, Warrior

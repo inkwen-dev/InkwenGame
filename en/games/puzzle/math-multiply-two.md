@@ -19,6 +19,6 @@ Math Multiply-Two is a game where you are given memory cards from 1 to 18 and yo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Math, Memory, Puzzle
+- Tags: Click, math, memory, Puzzle

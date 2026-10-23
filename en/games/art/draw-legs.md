@@ -19,6 +19,6 @@ Freely draw the legs to reach the goal area!
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Draw, Drawing
+- Tags: Draw, drawing

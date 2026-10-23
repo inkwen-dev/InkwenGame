@@ -21,4 +21,4 @@ It is the best car-racing journey in latest style of best parking simulator game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boys, Car, HTML5, Parking, Simulator, WebGL
+- Tags: 3D, Boys, Car, HTML5, parking, Simulator, WebGL

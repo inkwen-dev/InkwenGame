@@ -19,6 +19,6 @@ CollisioX 3D is a colorful and addictive 3D puzzle game where you swipe to move 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Brain, Classic, Fun, Logic

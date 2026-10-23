@@ -21,4 +21,4 @@ Fall Girls Run 是一款在线多人游戏，你将在障碍赛道中与来自�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 跳跃, 跳跃, 竞速, 跑, 跑步
+- 标签: 跳跃, 跳跃, 比赛, 跑, 奔跑

@@ -21,4 +21,4 @@ Go back to the 70ties and the crazy parties on the sound of disco with Pixel Lin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Pixel, Puzzle
+- Tags: Casual, pixel, Puzzle

@@ -21,4 +21,4 @@ Are you good at typing on the keyboard or mobile? Type Sprint is both a running 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Mobile, Platform, Racing, running, Stickman, Typing, Unity3D
+- Tags: 3D, Arcade, Mobile, Platform, Racing, running, stickman, Typing, Unity3D

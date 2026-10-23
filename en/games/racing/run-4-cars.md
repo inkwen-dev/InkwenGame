@@ -19,6 +19,6 @@ In this Four cars game you have to gather flags and dodge traffic cones and go a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cars, Driving, Fun, HTML5, Kids, Mobile, Racing, Skill

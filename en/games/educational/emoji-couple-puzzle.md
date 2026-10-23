@@ -21,4 +21,4 @@ Embark on a delightful puzzle-solving adventure with Emoji Couple Sliding Puzzle
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Educational, Girl, Puzzle
+- Tags: Boys, educational, Girl, Puzzle

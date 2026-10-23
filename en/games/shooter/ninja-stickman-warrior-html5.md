@@ -21,4 +21,4 @@ The Stickman Ninja Warrior game presents a distinctive puzzle-solving experience
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, HTML5, Mentolatux, Mobile, Shoot, Stickman, Warrior
+- Tags: Android, Arcade, HTML5, Mentolatux, Mobile, Shoot, stickman, Warrior

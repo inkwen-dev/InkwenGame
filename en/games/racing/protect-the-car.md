@@ -19,6 +19,6 @@ In this game you have to move from one side to another to dodge everything that 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Car, Casual, Highscore, Hypercasual, Pixel, Racing
+- Tags: 1 Player, 2D, Arcade, Car, Casual, Highscore, Hypercasual, pixel, Racing

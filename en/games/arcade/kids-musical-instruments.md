@@ -21,4 +21,4 @@ This engaging game is designed to spark creativity and musical interest in young
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Fun, Funny, Kids, Mobile, Music, Skill
+- Tags: Best, Fun, Funny, Kids, Mobile, music, Skill

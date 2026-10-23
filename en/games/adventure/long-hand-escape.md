@@ -19,6 +19,6 @@ Long Hand Escape is a fun puzzle game. Use your brain and your long, flexible ha
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Brain, Escape, Funny, HTML5, Kids, Strategy
+- Tags: 3D, Avoid, Brain, Escape, Funny, HTML5, Kids, strategy

@@ -19,6 +19,6 @@ Space Shooter Boss is a fast-paced arcade game where you pilot a powerful spaces
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Ai Games, Alien, battleship, Best Games, Bike, Clicker, Shooter
+- Tags: 1 Player, 2D, Ai Games, Alien, battleship, Best Games, bike, Clicker, Shooter

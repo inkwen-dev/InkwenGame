@@ -21,4 +21,4 @@ Our mahjong journey will start on the African continent. Find all mahjong pairs 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Card, Cute, Funny, Girl, Mahjong, Puzzle
+- Tags: Animal, card, Cute, Funny, Girl, mahjong, Puzzle

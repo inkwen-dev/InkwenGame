@@ -21,4 +21,4 @@ Drawing here to solve all logic puzzles and collecting stars. It's time to use y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Draw, Drawing, Logic, Logical
+- Tags: Draw, drawing, Logic, Logical

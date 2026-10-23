@@ -34,4 +34,4 @@ Arcade tower defense game where you play as an archer defending a castle. Shoot 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, archery, Strategy, Tower Defense
+- Tags: Action, archery, strategy, Tower Defense

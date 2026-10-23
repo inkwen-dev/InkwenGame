@@ -19,6 +19,6 @@ Hugy in The Tower takes the Endless runner (i guess endless flyer) genre! Help o
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Casual, HTML, Hypercasual, Mobile, Monster
+- Tags: Arcade, Boy, Casual, HTML, Hypercasual, Mobile, monster

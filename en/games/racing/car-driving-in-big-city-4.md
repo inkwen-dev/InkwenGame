@@ -21,4 +21,4 @@ Looking for an extremely amazing car parking game? FROLICS presents a physics-ba
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, bus, Car, Cars, drift, drifting, Driving, Game, Games, Love, Parking, Simulation, Simulator, Supercars, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, bus, Car, Cars, drift, drifting, Driving, Game, Games, Love, parking, Simulation, Simulator, Supercars, truck

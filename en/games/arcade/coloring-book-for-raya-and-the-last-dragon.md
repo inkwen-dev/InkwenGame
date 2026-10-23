@@ -21,4 +21,4 @@ Are you into Raya And The Last Dragon ? Raya And The Last Dragon Coloring Book: 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Arcade, Best, Cartoon, Color, Coloring, Draw, Drawing, Game, Kids, New, Puzzle
+- Tags: Anime, Arcade, Best, Cartoon, Color, Coloring, Draw, drawing, Game, Kids, New, Puzzle

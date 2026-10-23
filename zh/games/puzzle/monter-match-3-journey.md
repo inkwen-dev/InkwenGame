@@ -21,4 +21,4 @@ Monter Match 3 Journey 是一款三消益智游戏。它将考验你的逻辑思
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 疯狂, 可爱, 趣味, 超休闲, 益智, 放松
+- 标签: 疯狂, 可爱, 有趣, 超休闲, 益智, 放松

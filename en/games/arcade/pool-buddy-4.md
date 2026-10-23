@@ -19,6 +19,6 @@ Pool Buddy 4 is fun puzzle game and you can play it online for free. Pool Buddy 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, Collecting, Fun, HTML5, Hypercasual, Kids, Mobile, Obstacle, Puzzle, Skill

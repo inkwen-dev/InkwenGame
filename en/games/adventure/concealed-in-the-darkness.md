@@ -21,4 +21,4 @@ Lisa and Sharon are two sisters who were very strange when they were very young.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Brain, Castle, Cleaning, Collecting, Fantasy, Game, Games, Guessing, Hidden, Highscore, HTML, HTML5, Hypercasual, Memory, Mind, Puzzle, Strategy, Unity3D
+- Tags: 3D, Action, Adventure, Brain, Castle, Cleaning, Collecting, Fantasy, Game, Games, Guessing, Hidden, Highscore, HTML, HTML5, Hypercasual, memory, Mind, Puzzle, strategy, Unity3D

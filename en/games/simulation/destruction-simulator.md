@@ -44,4 +44,4 @@ We have created this game for our personal needs - always dreamed of the game th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Mobile, popular, Strategy
+- Tags: 3D, Action, Mobile, popular, strategy

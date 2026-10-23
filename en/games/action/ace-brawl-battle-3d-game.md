@@ -21,4 +21,4 @@ Ace Brawl Battle 3D is an online game which you can play on mobile and tablet fo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Boy, Fighting, War
+- Tags: battle, Boy, fighting, War

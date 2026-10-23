@@ -19,6 +19,6 @@ In Karas Cafeteria, you step into the shoes of a vibrant and industrious woman n
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Burger, Cook, Cooking, Food, Girl, Girls, Point And Click, Restaurant
+- Tags: Boys, Burger, Cook, Cooking, Food, Girl, Girls, Point And Click, restaurant

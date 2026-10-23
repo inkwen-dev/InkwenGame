@@ -21,4 +21,4 @@ This is exciting news for all baking game enthusiasts and aspiring chefs - your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cake, Cook, Fun, Funny, Management, Puzzle, Shopping
+- Tags: Cake, Cook, Fun, Funny, management, Puzzle, Shopping

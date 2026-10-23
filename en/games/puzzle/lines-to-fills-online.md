@@ -19,6 +19,6 @@ Lines to Fill is a thinking game where you draw lines to complete the given puzz
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Color, Puzzle
+- Tags: block, Color, Puzzle

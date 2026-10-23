@@ -21,4 +21,4 @@ Zombie Shooter Sniper Game is an engaging combination of thrilling and realistic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, 2026 games, Action, Game, Gun, Shooter, Shooting, Skill, Sniper, Zombie
+- Tags: 1 Player, 2025 games, 2026 games, Action, Game, Gun, Shooter, Shooting, Skill, sniper, Zombie

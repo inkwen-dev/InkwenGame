@@ -19,6 +19,6 @@ This is a game in which you need to make the cat eat candy, you will need to cut
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Animal, Casual, Cat, cut, Fun, Hypercasual, Kids, Logic, Logical, Skill, Skills

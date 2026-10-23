@@ -29,4 +29,4 @@ The game is designed for short and relaxing play sessions while still offering a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cards, Educational, Logic, Matching, Puzzle, words
+- Tags: cards, educational, Logic, Matching, Puzzle, words

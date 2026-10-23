@@ -34,4 +34,4 @@ For fans of funny basketball games, local 2-player games, and physics-based spor
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, Ball, Basketball, Boys, Physics, ragdoll, Sports, two-player, unblocked
+- Tags: Action, Arcade, Ball, basketball, Boys, Physics, ragdoll, sports, two-player, unblocked

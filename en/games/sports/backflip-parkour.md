@@ -21,4 +21,4 @@ Become a real trickster in our new simulator of parkour madness Backflip Parkour
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Boys, Fun, Girls, HTML5, jump, Jumping, Mobile, Sport
+- Tags: 1 Player, 3D, 3D Games, Boys, Fun, Girls, HTML5, jump, jumping, Mobile, Sport

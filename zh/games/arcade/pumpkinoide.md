@@ -21,4 +21,4 @@ Pumpkinoid 是一款简单的单触点街机游戏，有点像打砖块，又有
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 阿爾卡諾伊德, 球, 积木, HTML
+- 标签: 街机, 阿克诺伊德, 球, 砖块, HTML

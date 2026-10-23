@@ -21,4 +21,4 @@ The skibidi toilet monster is chasing you need to escape urgently hey steve and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Android, Arcade, Best, Skibidi Toilet
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Android, Arcade, Best, skibidi-toilet

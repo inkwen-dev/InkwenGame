@@ -21,4 +21,4 @@ Luxury Car Parking Games: Car Games for Kids You are welcomed to ALPHA Games to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, 3D Games, Action, Arcade, Cars, Casual, drift, drifting, Fun, Funny, Hot, Hypercasual, Parking, Race, Racing, Super, Supercars
+- Tags: .io Games, 3D, 3D Games, Action, Arcade, Cars, Casual, drift, drifting, Fun, Funny, Hot, Hypercasual, parking, Race, Racing, Super, Supercars

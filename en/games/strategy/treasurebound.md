@@ -19,6 +19,6 @@ Treasure Bound is a turn-based treasure hunt on a hex grid. Every tile might hid
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, Casual, Detective, hex, hexagon, Mine, Puzzle, puzzleblock, Strategy
+- Tags: 1 Player, block, Casual, Detective, hex, hexagon, Mine, Puzzle, puzzleblock, strategy

@@ -19,6 +19,6 @@ Gun Build N Run is a super exciting parkour arcade shooter. In this game, you wi
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Gun, Race, run, Shoot

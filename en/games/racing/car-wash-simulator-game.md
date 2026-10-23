@@ -19,6 +19,6 @@ Car Wash Simulator ek fun aur satisfying game hai jismein aap dirty cars ko wash
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Action, amazing, Car, Cars, Simulation

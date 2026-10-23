@@ -15,6 +15,6 @@ Embark on a whimsical 2D platforming adventure in Choco Benno 2. Navigate throug
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

@@ -28,4 +28,4 @@ Build your ultimate idle tower defense! Merge strategy, upgrades, and epic battl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: idle, Mobile, Strategy, Tower Defense
+- Tags: idle, Mobile, strategy, Tower Defense

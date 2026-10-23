@@ -19,6 +19,6 @@ In the final game of the Guys series, you must collect all the crowns. Catch the
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Fall Boys, Fall Guys, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Fall Boys, Fall Guys, pixel

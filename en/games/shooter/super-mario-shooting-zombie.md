@@ -21,4 +21,4 @@ Are you a lover of shooting games? If you like adventure games like using guns, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mario, Shoot, Shooter, Shooting, Super, Zombie
+- Tags: mario, Shoot, Shooter, Shooting, Super, Zombie

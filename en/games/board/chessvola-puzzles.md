@@ -31,4 +31,4 @@ CHESSVOLA is a chess puzzle training game built for quick daily practice and lon
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, chess, Educational, Logic, Puzzle, Strategy
+- Tags: Brain, chess, educational, Logic, Puzzle, strategy

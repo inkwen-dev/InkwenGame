@@ -15,6 +15,6 @@ Embark on a thrilling sci-fi journey in Aneye Bot 2, a dynamic 2D platformer. Na
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Monster
+- Tags: monster

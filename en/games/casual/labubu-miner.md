@@ -21,4 +21,4 @@ Dig n Click: Labubu Miner is a relaxing pixel-style clicker where the cute Labub
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Casual, Classic, Clicker, Crazy, destroying, Farm, Game, Gold, HTML, Kids, Labubu, Minecraft, Pixel
+- Tags: block, Casual, Classic, Clicker, crazy, destroying, Farm, Game, Gold, HTML, Kids, Labubu, Minecraft, pixel

@@ -21,4 +21,4 @@ Do you like word games? Do you like picture quizzes? Then find out what everyone
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Letters, Puzzle, Word
+- Tags: Letters, Puzzle, word

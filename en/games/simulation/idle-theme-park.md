@@ -19,6 +19,6 @@ The idle theme park is an online management game. It starts by operating a small
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Boy, Fun, HTML5, Kids, Management, Online, Puzzle, Skill
+- Tags: 3D, Android, Boy, Fun, HTML5, Kids, management, Online, Puzzle, Skill

@@ -21,4 +21,4 @@ The objective of this game is to get as far as possible without touching the edg
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Click, Clicker, fly, jump, Jumping, Platform
+- Tags: 1 Player, 2D, Android, Click, Clicker, fly, jump, jumping, Platform

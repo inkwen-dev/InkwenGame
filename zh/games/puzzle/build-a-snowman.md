@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 大脑, 圣诞节, HTML5, 逻辑, 逻辑性, 益智, 雪
+- 标签: 大脑, 圣诞节, HTML5, 逻辑, 逻辑性, 益智, 雪花

@@ -24,4 +24,4 @@ Word Chef is a classic word search puzzle game. This free word game makes learni
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, Food, Quiz, trivia, words
+- Tags: Brain, educational, Food, Quiz, trivia, words

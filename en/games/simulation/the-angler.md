@@ -19,6 +19,6 @@ We invite you to a quiet hunt or, more simply, to go fishing. Our hero will be f
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Animal, Bomb, Fish, Fishing, Fun, HTML5, Kids, Mobile, Skill

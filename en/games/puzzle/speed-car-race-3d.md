@@ -19,6 +19,6 @@ Sick of endless racing games? Speed Car Race 3D might be the game you are lookin
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Adult, Adventure, Arcade, Ballon, Board, Boy, Boys, Bubble, Bubble Shooter, bus, Candy, Car, Cars, drift, drifting, Driving, Game, Games, Girl, Girls, Monster, Moto, Motorcycle, Pokemon, Road, Simulation, Simulator, Snow, Supercars, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Adult, Adventure, Arcade, Ballon, Board, Boy, Boys, Bubble, Bubble Shooter, bus, Candy, Car, Cars, drift, drifting, Driving, Game, Games, Girl, Girls, monster, Moto, Motorcycle, Pokemon, Road, Simulation, Simulator, Snow, Supercars, truck

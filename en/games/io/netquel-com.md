@@ -15,6 +15,6 @@ In Netquel.com, navigate thrilling galactic warfare, commanding advanced starshi
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: .io

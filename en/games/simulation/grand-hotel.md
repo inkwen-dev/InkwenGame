@@ -19,6 +19,6 @@ Grand Hotel is an idle game where you get to run your dream hotel! Check in gues
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Disney, Holiday, Management, Room, run
+- Tags: Disney, Holiday, management, Room, run

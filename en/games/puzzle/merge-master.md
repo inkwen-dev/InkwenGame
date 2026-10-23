@@ -21,4 +21,4 @@ Merge Master: Dinosaur Fusion is a cool real-time strategy game for everyone. Yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Battle, Battlegrounds, dino, Fight, Fighting, Monster, Strategy
+- Tags: 3D, battle, Battlegrounds, dino, Fight, fighting, monster, strategy

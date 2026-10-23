@@ -19,6 +19,6 @@ Farm Fest : Farming Games Online Simulator to cultivate and sell the crops as a 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Best, Farm, Fruit, Fruits, Kids, Online, Simulation, Simulator

@@ -19,6 +19,6 @@ Buildy Islan is a trending idle game, a new sims experience is about to begin. Y
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Business, Creation, Island, Simulation, Unity3D, World

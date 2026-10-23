@@ -21,4 +21,4 @@ Need For Race is a racing game. Enjoy unlimited racing with a variety of vehicle
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Arcade, Best Games, Car, Cars, Crazy, Driving, free games for your website, Race, Racing, Traffic, unity games for your website
+- Tags: 1 Player, 3D, Action, Arcade, Best Games, Car, Cars, crazy, Driving, free games for your website, Race, Racing, Traffic, unity games for your website

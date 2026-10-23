@@ -19,6 +19,6 @@ Beautiful fashion girls Jadeand Adella are about to graduate from their college.
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Decorate, Dress Up, Fashion, Girl, Girls, Kids, Makeover, Simulation

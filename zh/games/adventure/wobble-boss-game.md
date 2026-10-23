@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 动作, Adventure, Android, 动漫, 男孩, 男孩们, 龙, 儿童, 儿童, 益智
+- 标签: 3D, 动作, 冒险, 安卓, 动漫, 男孩, 男孩们, 龙, 儿童, 儿童, 益智

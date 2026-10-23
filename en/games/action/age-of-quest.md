@@ -21,4 +21,4 @@ In the Age of Quest, relentless hordes of monsters and skeletons besiege your ca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fire, Mentolatux, Monster, Sword, unity games, Unity3D, WebGL
+- Tags: Fire, Mentolatux, monster, sword, unity games, Unity3D, WebGL

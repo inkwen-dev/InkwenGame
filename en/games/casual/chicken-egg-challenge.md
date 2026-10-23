@@ -21,4 +21,4 @@ Are you ready for a fun competition with your friends? Before your friends fill 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Animal, Best, Boy, Cartoon, Chicken, Click, Clicker, Crazy, Fun, Funny, Girl, Highscore
+- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Animal, Best, Boy, Cartoon, Chicken, Click, Clicker, crazy, Fun, Funny, Girl, Highscore

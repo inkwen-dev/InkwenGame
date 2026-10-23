@@ -19,6 +19,6 @@ Vaccine Idle is a mouse-only idle game to make your own vaccine and cures and sa
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker

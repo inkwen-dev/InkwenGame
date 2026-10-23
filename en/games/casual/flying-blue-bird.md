@@ -21,4 +21,4 @@ Use your finger and flap your wings to fly be careful try to avoid all dangerous
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Bird, Casual, Click, Flight, fly, Girl, Girls, HTML, HTML5, Hypercasual, Kid, Kids
+- Tags: 1 Player, 2D, Bird, Casual, Click, flight, fly, Girl, Girls, HTML, HTML5, Hypercasual, Kid, Kids

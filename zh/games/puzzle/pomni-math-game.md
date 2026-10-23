@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 大脑, 数字马戏团, HTML, HTML5, HTML5游戏, 逻辑, 逻辑, 数学, 思维
+- 标签: 大脑, 数字马戏团, HTML, HTML5, HTML5游戏, 逻辑, 逻辑性, 数学, 思维

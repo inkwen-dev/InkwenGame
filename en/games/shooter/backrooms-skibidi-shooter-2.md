@@ -19,6 +19,6 @@ Backrooms Skibidi Shooter 2 is a first person shooter game where your mission is
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, First Person Shooter, Shoot, Shoot 'Em Up, Shooter, Shooting, Skibidi, Skibidi Toilet, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Action, First Person Shooter, Shoot, Shoot 'Em Up, Shooter, Shooting, Skibidi, skibidi-toilet, Unity3D

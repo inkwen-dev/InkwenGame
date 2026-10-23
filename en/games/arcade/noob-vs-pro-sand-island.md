@@ -21,4 +21,4 @@ In the adventure of Noob and Pro, there are very dangerous desert monsters. You 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Android, Arcade, mineblock, Minecraft, Mobile, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Android, Arcade, mineblock, Minecraft, Mobile, pixel

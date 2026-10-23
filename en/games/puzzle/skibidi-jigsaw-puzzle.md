@@ -21,4 +21,4 @@ Welcome to Skibidi Jigsaw Puzzle game Try to assemble image puzzles by dragging 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jigsaw, Skibidi, Skibidi Toilet
+- Tags: Jigsaw, Skibidi, skibidi-toilet

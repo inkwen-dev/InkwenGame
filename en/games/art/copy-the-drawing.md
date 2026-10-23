@@ -32,4 +32,4 @@ Three brush sizes, undo last stroke, hints, and a medal system — all designed 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing
+- Tags: drawing

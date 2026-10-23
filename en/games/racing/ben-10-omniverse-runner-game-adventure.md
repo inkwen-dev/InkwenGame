@@ -19,6 +19,6 @@ Ben 10: Omniverse Runner Game Adventure - Endless run Online Battle of ninja to 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Adventure, Anime, Best, Boys, endless, Fun, Games, Hot, Online, Race, Racing, run, running, Subway Surfers

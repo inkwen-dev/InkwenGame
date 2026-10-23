@@ -19,6 +19,6 @@ Embark on an epic adventure in our immersive game, where the dynamic Leader Foll
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Obstacle, Unity3D, WebGL

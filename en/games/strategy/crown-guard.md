@@ -21,4 +21,4 @@ Crown Guard is an action tower defense game where you control a king defending h
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Adventure, Arcade, Shooting, Skill, Strategy, Tower Defense
+- Tags: 3D, Action, Adventure, Arcade, Shooting, Skill, strategy, Tower Defense

@@ -21,4 +21,4 @@ The Archer Warrior is a casual shooting game. The rubber man rides on the horse 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Bow, Boy, Boys, Fighting, Fire, H5, Horse, HTML, HTML5, Kids, Kill, Mobile, Obstacle, Online, Skill
+- Tags: 3D, 3D Games, Action, Bow, Boy, Boys, fighting, Fire, H5, horse, HTML, HTML5, Kids, Kill, Mobile, Obstacle, Online, Skill

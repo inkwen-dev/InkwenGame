@@ -19,6 +19,6 @@ Collect the delicious food in this html5 game. Press any food to start. Now move
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collecting, Collection, Food, HTML5, Mobile

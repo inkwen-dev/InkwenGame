@@ -21,4 +21,4 @@ Sling Drift 是一款简单的漂移游戏！保持你的汽车在路径的正�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车, 赛车, 漂移, 漂移
+- 标签: 汽车, 汽车, 漂移, 漂移

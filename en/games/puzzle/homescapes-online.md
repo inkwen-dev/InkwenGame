@@ -19,6 +19,6 @@ It is an adventure puzzle game. The lover of a middle-aged man has been robbed, 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Boys, Brain, Fire, Girls, H5, Hot, HTML, HTML5, Kids, Logic, Logical, Love, Mobile, Online, Puzzle, Rescue

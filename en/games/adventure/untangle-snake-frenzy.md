@@ -21,4 +21,4 @@ Untangle Snake Frenzy is a fun and challenging puzzle game where a tangled mess 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, Best, Best Games, Casual, Crazy, Escape, Hypercasual, Mind, Puzzle, Snake
+- Tags: 2026 games, Adventure, Best, Best Games, Casual, crazy, Escape, Hypercasual, Mind, Puzzle, snake

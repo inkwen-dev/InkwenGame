@@ -19,6 +19,6 @@ Try to balance your self with physics and to be to catches by the doll! like in 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Adventure, Arcade, Battle, Best, Boy, Boys, Casual, city, Crazy, Kids
+- Tags: 1 Player, 3D, 3D Games, Adventure, Arcade, battle, Best, Boy, Boys, Casual, city, crazy, Kids

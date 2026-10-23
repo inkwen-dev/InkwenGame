@@ -21,4 +21,4 @@ Death Sentence is an intense tactical action game where you assist assassins in 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Gun, Shoot, Stickman
+- Tags: Casual, Gun, Shoot, stickman

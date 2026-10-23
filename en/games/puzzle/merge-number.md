@@ -19,6 +19,6 @@ Merge Number is a free puzzle online game for boys played on PuzzleGame. All you
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Block, Boy, Fun, Highscore, HTML, Kids, Matching, Number, Online, Puzzle
+- Tags: 3D, Android, block, Boy, Fun, Highscore, HTML, Kids, Matching, Number, Online, Puzzle

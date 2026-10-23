@@ -21,4 +21,4 @@ Snow Sniper is a fun sniper game with 60 levels and amazing graphics!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Sniper, Snow
+- Tags: 2D, sniper, Snow

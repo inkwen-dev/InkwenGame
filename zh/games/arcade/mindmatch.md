@@ -21,4 +21,4 @@ MindMatch 是一款沉浸式且风格独特的记忆匹配游戏，旨在挑战�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2026年游戏, 街机, 益智, 逻辑类, 记忆, 宝可梦, 解谜, 技能, 无限制, 无限制游戏, unblockedgames66, unblockedgames76
+- 标签: 单人, 2026 游戏, 街机, 大脑, 逻辑性, 记忆, 宝可梦, 益智, 技能, 无限制, 无限制游戏, unblockedgames66, unblockedgames76

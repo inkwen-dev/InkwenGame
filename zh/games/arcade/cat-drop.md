@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 方块, 休闲, 猫, Family, HTML, HTML5, 超休闲, 儿童, 手机, 物理, 益智
+- 标签: 街机, 方块, 休闲, 猫, 家庭, HTML, HTML5, 超休闲, 儿童, 移动设备, 物理, 益智

@@ -19,6 +19,6 @@ Welcome to Impossible Box Rush. Only here, do you have to move the box to the en
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, Hypercasual, Kids, Puzzle, Skill, Skills

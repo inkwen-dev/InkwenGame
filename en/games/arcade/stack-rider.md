@@ -19,6 +19,6 @@ Collect balls and successfully reach the finish line. An interesting casual game
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arcade, Avoid, Ball, Boy, Casual, Collecting, Kid, Obstacle, Side Scrolling

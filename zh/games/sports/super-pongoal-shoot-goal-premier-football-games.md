@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 双人, 成人, 冒险, 棒球, 篮球, 男孩, 足球, 女孩, HTML, HTML5, 体育, WebGL
+- 标签: 单人, 双人, 成人, 冒险, 棒球, 篮球, 男孩, 橄榄球, 女孩, HTML, HTML5, 运动, WebGL

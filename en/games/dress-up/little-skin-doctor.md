@@ -21,4 +21,4 @@ Little Skin Doctor is going to tell you how to keep your skin beautiful and deal
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Doctor, Educational, Fashion, Girl, Girls, Kids, Makeover, Simulation, Surgery
+- Tags: Boy, Boys, Doctor, educational, Fashion, Girl, Girls, Kids, Makeover, Simulation, surgery

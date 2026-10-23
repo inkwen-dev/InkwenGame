@@ -19,6 +19,6 @@ Since day to day advancement in gaming technology ,old games are just about to g
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Racing, Retro
+- Tags: Racing, retro

@@ -19,6 +19,6 @@ Are you a big fan of car parking games online? We all know that all car enthusia
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boys, Driving, Hot, Parking, Simulator
+- Tags: 3D, Boys, Driving, Hot, parking, Simulator

@@ -21,4 +21,4 @@ Click the bucket filled with the color whose name is falling from the sky before
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Educational, Highscore, HTML5, Kids, Mobile, Puzzle, School
+- Tags: Color, educational, Highscore, HTML5, Kids, Mobile, Puzzle, School

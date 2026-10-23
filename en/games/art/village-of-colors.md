@@ -25,4 +25,4 @@ Dive into the lively realm of Village of Colors, where your imagination is key. 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing
+- Tags: drawing

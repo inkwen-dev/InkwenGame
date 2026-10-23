@@ -19,6 +19,6 @@ Test your math skills! Solve math examples and try to get among the best players
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Baby, Boy, Boys, Game, Games, Girl, Girls, Logic, Logical, Matching, Math, Mobile
+- Tags: 1 Player, 2D, Baby, Boy, Boys, Game, Games, Girl, Girls, Logic, Logical, Matching, math, Mobile

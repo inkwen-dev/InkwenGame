@@ -21,4 +21,4 @@ Make everything work perfectly in Just Erase It! Sometimes when you look at thin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Puzzle, Strategy
+- Tags: Arcade, Puzzle, strategy

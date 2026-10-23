@@ -21,4 +21,4 @@ Play as the Alien called Jeff and make your way through the levels. Featuring 3 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Hypercasual, jump, Jumping
+- Tags: Action, Hypercasual, jump, jumping

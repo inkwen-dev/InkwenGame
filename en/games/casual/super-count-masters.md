@@ -19,6 +19,6 @@ Super Count Masters is a casual online game for desktop and mobile, available fo
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Fight, Funny, kiz10, Stickman
+- Tags: Casual, Fight, Funny, kiz10, stickman

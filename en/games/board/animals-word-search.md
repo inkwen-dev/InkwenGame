@@ -21,4 +21,4 @@ This is an interesting word search game. To start first look the left panel to f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Board, Educational, HTML5, Kids, Mobile, Puzzle, School, Word
+- Tags: Animal, Board, educational, HTML5, Kids, Mobile, Puzzle, School, word

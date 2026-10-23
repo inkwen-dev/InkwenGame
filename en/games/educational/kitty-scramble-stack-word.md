@@ -21,4 +21,4 @@ Move through the levels with a cute cat who has prepared a lot of surprises for 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Cat, Educational, Hello Kitty, HTML, HTML5, Hypercasual, Letters, Mind, Puzzle, Strategy, Word
+- Tags: Brain, Cat, educational, Hello Kitty, HTML, HTML5, Hypercasual, Letters, Mind, Puzzle, strategy, word

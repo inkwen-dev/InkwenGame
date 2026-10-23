@@ -19,6 +19,6 @@ Willkommen bei der Polizei Stuntautos! Du dachtest, dass Polizisten keine Drifts
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cars, Police
+- Tags: Cars, police

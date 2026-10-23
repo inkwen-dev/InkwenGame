@@ -19,6 +19,6 @@ Sea Adventure Online Game is a free-to-play arcade game. Sea Adventure Online Ga
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Game, Games, Puzzle

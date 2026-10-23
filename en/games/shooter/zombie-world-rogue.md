@@ -21,4 +21,4 @@ In a survival game, players need to protect the rear core, unlock super futurist
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Adventure, Alien, amazing, Gun, Monster, Shooter, Zombie
+- Tags: 1 Player, 3D, 3D Games, Adventure, Alien, amazing, Gun, monster, Shooter, Zombie

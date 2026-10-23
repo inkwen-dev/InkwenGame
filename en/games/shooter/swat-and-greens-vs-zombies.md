@@ -29,4 +29,4 @@ Engage in SWAT and GREENS vs Zombies, a thrilling strategy game where you defend
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: First Person Shooter, Multiplayer, pve, Strategy, Zombie
+- Tags: First Person Shooter, Multiplayer, pve, strategy, Zombie

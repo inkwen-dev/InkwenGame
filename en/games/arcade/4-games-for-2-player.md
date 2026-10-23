@@ -15,6 +15,6 @@ Engage in thrilling head-to-head challenges with 4 Games For 2 Player. Tackle ta
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Arcade

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 火焰, Grimace, Mentolatux, 射击游戏, Unity3D, WebGL
+- 标签: 火焰, 格里马斯, Mentolatux, 射击, Unity3D, WebGL

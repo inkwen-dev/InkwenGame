@@ -19,6 +19,6 @@ The hordes of good heroes come again once more! And they are hungry for gems mor
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Defense, Strategy, Tower Defense
+- Tags: Casual, Defense, strategy, Tower Defense

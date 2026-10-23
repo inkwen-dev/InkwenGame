@@ -21,4 +21,4 @@ Super Dino Runner is a super fun game for children of all ages. Based on a well-
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Casual, Classic, Click, dino, Dinosaur, Hypercasual, jump, Jumping, Puzzle, Race, run, running
+- Tags: 1 Player, 2D, Arcade, Casual, Classic, Click, dino, Dinosaur, Hypercasual, jump, jumping, Puzzle, Race, run, running

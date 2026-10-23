@@ -21,4 +21,4 @@ Food Dip Ball is a very good small ball agility game. The gameplay is very magic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arena, Avoid, Best, Brain, endless, Sports
+- Tags: Adventure, Arena, Avoid, Best, Brain, endless, sports

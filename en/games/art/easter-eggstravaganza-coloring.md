@@ -19,6 +19,6 @@ Join us on a vibrant journey of creativity with Easter Eggstravaganza Coloring &
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Coloring, Easter, HTML5, Kids, School

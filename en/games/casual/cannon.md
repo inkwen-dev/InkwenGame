@@ -15,6 +15,6 @@ Unleash the power of your mighty cannon in a high-stakes showdown as you fend of
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Police
+- Tags: police

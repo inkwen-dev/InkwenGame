@@ -19,6 +19,6 @@ Challenge your aim, hone your precision, and push your puzzle-solving skills to 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Boy, Boys, Girl, Girls, H5, HTML, HTML5, Mobile, Shoot, Shooter, Shooting

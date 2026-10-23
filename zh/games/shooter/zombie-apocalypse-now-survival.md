@@ -21,4 +21,4 @@ WASD- 移动角色 鼠标 - 射击 瞄准切换武器 Tab - 菜单 空格键 - �
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 动作, 最佳, 疯狂, 枪械, 多人游戏, 射击, 射击, 技巧, Unity3D, WebGL, 僵尸
+- 标签: 3D游戏, 动作, 最佳, 疯狂, 枪械, 多人, 射击类, 射击, 技巧, Unity3D, WebGL, 僵尸

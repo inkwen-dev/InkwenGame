@@ -21,4 +21,4 @@ Car Transport Truck is a 3D game where you are a car carrier and your job is to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, city, Truck, Unity3D, WebGL
+- Tags: 3D Games, city, truck, Unity3D, WebGL

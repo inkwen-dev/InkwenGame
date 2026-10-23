@@ -19,6 +19,6 @@ Spring Trails Spot The Diffs is an engaging puzzle game where players explore vi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Difference, Hidden, HTML5, Mobile, Puzzle

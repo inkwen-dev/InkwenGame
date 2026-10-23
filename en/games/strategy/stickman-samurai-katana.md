@@ -19,6 +19,6 @@ Stick War deserves as one of the best stickman games worth playing ever
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Stickman, Strategy
+- Tags: stickman, strategy

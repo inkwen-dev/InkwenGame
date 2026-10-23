@@ -15,6 +15,6 @@ Escape a haunted mansion pursued by the eerie Siren Head creature. Navigate in t
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Granny
+- Tags: granny

@@ -19,6 +19,6 @@ Simple rules and hurricane action with the participation of the ball - it is sim
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Ball, Best, Boy, Boys, Brain, Hot, HTML, HTML5, Mind, Pinball, Puzzle

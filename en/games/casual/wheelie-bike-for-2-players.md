@@ -21,4 +21,4 @@ A fast-paced local 2-player physics game. Compete head-to-head as the Purple and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2026 games, Bike, BMX
+- Tags: 2 Player, 2 Player Games, 2026 games, bike, BMX

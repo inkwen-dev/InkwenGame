@@ -19,6 +19,6 @@ Color all the balls or cubes and drop them into the FLASK.
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, 3D Games, Adventure, Arcade

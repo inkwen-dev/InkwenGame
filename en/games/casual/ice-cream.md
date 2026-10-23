@@ -19,6 +19,6 @@ Do you like to indulge? Well we have a treat for you. The most delicious Ice Cre
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Candy, Food, Ice

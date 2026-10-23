@@ -21,4 +21,4 @@ Welcome to Wild West Poker a casual poker game that transports you back to the r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Card, Casino, Casual, gambling, Hypercasual, Poker
+- Tags: 1 Player, card, Casino, Casual, gambling, Hypercasual, Poker

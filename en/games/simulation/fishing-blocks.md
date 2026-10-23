@@ -21,4 +21,4 @@ Fishing Blocks is an addictive block removal puzzle game where you will have a r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Collecting, Fish, HTML5, Matching, Mobile, Puzzle
+- Tags: block, Collecting, Fish, HTML5, Matching, Mobile, Puzzle

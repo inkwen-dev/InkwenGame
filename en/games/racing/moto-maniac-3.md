@@ -19,6 +19,6 @@ This is a tilty bike game that will challenge your trial skills to the max. The 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Bike, Cool, Moto, Motorcycle, Obstacle, Physics, Race, Racing, Skill, Sport, Sports, Stunts
+- Tags: 2D, bike, cool, Moto, Motorcycle, Obstacle, Physics, Race, Racing, Skill, Sport, sports, Stunts

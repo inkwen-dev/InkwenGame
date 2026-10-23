@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 男孩, 颜色, 涂色, 食物, 女孩们, H5, 热门, HTML, HTML5, 休闲, 孩子们, Mobile, 在线, 放松
+- 标签: 2D, 男孩们, 颜色, 着色, 食物, 女孩, H5, 热门, HTML, HTML5, 超休闲, 儿童, 移动设备, 在线, 放松

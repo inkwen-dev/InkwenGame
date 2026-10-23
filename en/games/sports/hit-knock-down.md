@@ -24,4 +24,4 @@ The goal is to clear each stage by obtaining the required score (or meeting stag
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, Ball, Funny, Mobile, Skill, Sports
+- Tags: Action, Arcade, Ball, Funny, Mobile, Skill, sports

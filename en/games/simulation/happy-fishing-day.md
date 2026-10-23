@@ -19,6 +19,6 @@ Happy Fishing This day promises to bring you the biggest catch or your life. But
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bomb, Boy, Boys, Educational, Fish, Fishing, Girl, Girls, Kid, Kids
+- Tags: Bomb, Boy, Boys, educational, Fish, Fishing, Girl, Girls, Kid, Kids

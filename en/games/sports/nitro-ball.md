@@ -39,4 +39,4 @@ Customise your ride with a garage full of cars, wheels, decals, boost trails, to
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Car, Driving, Multiplayer, Racing, Soccer, Sports
+- Tags: Action, Car, Driving, Multiplayer, Racing, Soccer, sports

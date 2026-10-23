@@ -29,4 +29,4 @@ Perfect for both beginners and seasoned players, Mahjong Solitaire Zodiac offers
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mahjong, Puzzle, Solitaire
+- Tags: mahjong, Puzzle, solitaire

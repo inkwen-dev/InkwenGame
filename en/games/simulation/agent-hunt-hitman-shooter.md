@@ -19,6 +19,6 @@ Agent Hunt - Hitman Shooter is an intense action FPS shooting game that lets you
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Battle, Simulation
+- Tags: Adventure, battle, Simulation

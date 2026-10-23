@@ -19,6 +19,6 @@ Fruit Blocks Puzzles is a block collapse game.Click on 2 or more than 2 similar 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Fruit, HTML5, Matching, Mobile, Puzzle, Skill
+- Tags: block, Fruit, HTML5, Matching, Mobile, Puzzle, Skill

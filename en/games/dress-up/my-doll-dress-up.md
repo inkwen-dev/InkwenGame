@@ -19,6 +19,6 @@ Cute Dress Up Fashion Game is a fun fashion game! Let your imagination and creat
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Doctor, Dora, Dress Up, Fun, Games, Girl, Girls, Hypercasual, Makeover

@@ -21,4 +21,4 @@ Ready for new addictive game for winter road cleaning. In this game touch and dr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: bus, Car, Cleaning, drift, drifting, Driving, endless, Fun, Road, Snow, Truck
+- Tags: bus, Car, Cleaning, drift, drifting, Driving, endless, Fun, Road, Snow, truck

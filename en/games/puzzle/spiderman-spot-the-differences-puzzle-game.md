@@ -21,4 +21,4 @@ Test your detective skills, play the best jigsaw puzzle games - Find the Differe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Difference, Jigsaw, Memory, Superhero
+- Tags: Difference, Jigsaw, memory, Superhero

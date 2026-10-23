@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 点击, 森林, Mentolatux, 多边形, 滑雪, 天空, smash, 旋转轮子, Unity3D, WebGL, 方向盘, 轮子
+- 标签: 单人, 点击, 森林, Mentolatux, 多边形, 滑雪, 天空, 击碎, 旋转轮盘, Unity3D, WebGL, 轮子, 轮子

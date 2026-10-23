@@ -21,4 +21,4 @@ Rabbit Portal is a fast-paced space-timing puzzle game where precision is everyt
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Rabbit, Space, Spaceship
+- Tags: educational, Rabbit, Space, Spaceship

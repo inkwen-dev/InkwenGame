@@ -21,4 +21,4 @@ Play Triple Combo online for free, the fast card game with a poker deck. Make th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Brain, Card
+- Tags: 1 Player, 2D, Brain, card

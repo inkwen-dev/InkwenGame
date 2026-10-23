@@ -21,4 +21,4 @@ Tank defender – this is a game about the defense of their territories from ene
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Shoot, Shoot 'Em Up, Shooter, Shooting, Tank, Tanks
+- Tags: Action, Adventure, Shoot, Shoot 'Em Up, Shooter, Shooting, Tank, tanks

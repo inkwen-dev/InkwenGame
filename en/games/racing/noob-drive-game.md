@@ -19,6 +19,6 @@ Noob Drive is a fast-paced car game with blocky aesthetics. Your objective is to
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Car, Driving, Minecraft, Physics, Platform, Skills
+- Tags: block, Car, Driving, Minecraft, Physics, Platform, Skills

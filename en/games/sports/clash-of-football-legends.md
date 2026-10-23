@@ -21,4 +21,4 @@ Suggest whom you would like to play in the comments and we will add it in the up
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Football, Multiplayer, Sport, Sports
+- Tags: 2 Player, 2 Player Games, Football, Multiplayer, Sport, sports

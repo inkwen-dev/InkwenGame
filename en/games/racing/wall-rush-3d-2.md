@@ -21,4 +21,4 @@ Run as fast as wind and race against all best runner in the world. Leap from bui
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Boy, Boys, Casual, jump, Jumping, Race, Racing, run, running
+- Tags: 1 Player, Action, Boy, Boys, Casual, jump, jumping, Race, Racing, run, running

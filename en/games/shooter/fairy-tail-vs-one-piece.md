@@ -21,4 +21,4 @@ Fairy Tail Vs One Piece is an anime fighting game with 28 anime characters. Each
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Anime, Arcade, Battle, Fight, Fighting, Shooting
+- Tags: Action, Anime, Arcade, battle, Fight, fighting, Shooting

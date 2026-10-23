@@ -21,4 +21,4 @@ Help the goldblade to fight the water monsters and free the kingdom
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Fantasy, Girl, Girls, RPG
+- Tags: Arcade, Fantasy, Girl, Girls, rpg

@@ -21,4 +21,4 @@ Aqua Blocks is an ultimate casual puzzle game that comes up with cute water grap
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Brain, HTML, HTML5, Hypercasual, Mind, Puzzle, Strategy
+- Tags: Arcade, block, Brain, HTML, HTML5, Hypercasual, Mind, Puzzle, strategy

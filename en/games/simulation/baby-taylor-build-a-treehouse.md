@@ -19,6 +19,6 @@ There is a big tree in the backyard of Tom's house. Tom's father made a tree hou
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cute, Decorate, Design, Educational, Girl, Girls, Kids, Simulation
+- Tags: Baby, Cute, Decorate, Design, educational, Girl, Girls, Kids, Simulation

@@ -19,6 +19,6 @@ Hammer master is an arcade game. Let us see who is the hammer master! Control th
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adventure, Boy, Boys, Fun, H5, HTML5, Kid, Kids

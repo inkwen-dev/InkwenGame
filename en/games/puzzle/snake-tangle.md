@@ -26,4 +26,4 @@ Snake Tangle offers an engaging and challenging gameplay experience that will ca
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Classic, Puzzle, Snake
+- Tags: Classic, Puzzle, snake

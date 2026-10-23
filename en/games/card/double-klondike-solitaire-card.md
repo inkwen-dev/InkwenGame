@@ -21,4 +21,4 @@ Ready for the ultimate solitaire test? Try Double Klondike Solitaire! This excit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casino, Poker, Puzzle, Slot Machine, Solitaire
+- Tags: card, Casino, Poker, Puzzle, Slot Machine, solitaire

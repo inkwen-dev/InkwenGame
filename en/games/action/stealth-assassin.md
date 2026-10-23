@@ -19,6 +19,6 @@ Stealth Assassin - The best and most attractive killer hunting game today. To be
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Battle, Kill, Killing, Ninja, running, Skill, Skills
+- Tags: Action, Adventure, battle, Kill, Killing, ninja, running, Skill, Skills

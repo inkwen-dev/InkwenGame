@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 逃脱, 杀戮, 迷宫, 我的世界, WebGL
+- 标签: 3D, 3D游戏, 逃脱, 击杀, 迷宫, 我的世界, WebGL

@@ -21,4 +21,4 @@ Tom has a fight with ginger and he needs your help. Help Talking tom with his in
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dress Up, Girls, Kids, Surgery
+- Tags: Dress Up, Girls, Kids, surgery

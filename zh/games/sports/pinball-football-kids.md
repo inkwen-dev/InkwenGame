@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 足球, 弹珠, 运动
+- 标签: 动作, 橄榄球, 弹球, 体育

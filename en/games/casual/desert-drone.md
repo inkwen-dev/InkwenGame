@@ -19,6 +19,6 @@ Choose the New sporty, amazing, 2020 Drone Game. Fly the Drone, Dodge from the r
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, fly, Fun, Hypercasual

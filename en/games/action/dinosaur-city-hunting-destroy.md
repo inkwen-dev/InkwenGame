@@ -19,6 +19,6 @@ Unleash your inner beast in Dinosaur City Hunting Destroy! Control a massive, re
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, destroy, destroying, dino, Dinosaur, Mentolatux, unity, WebGL

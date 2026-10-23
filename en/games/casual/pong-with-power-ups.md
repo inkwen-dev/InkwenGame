@@ -15,6 +15,6 @@ Pong with Power Ups remixes the classic arcade experience with strategic flair. 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Retro
+- Tags: retro

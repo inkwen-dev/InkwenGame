@@ -21,4 +21,4 @@ Engage in physical activity today, and you can achieve a fit and robust physique
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Click, HTML5, html5 games, iPad, iPhone, Mentolatux, Mobile, onetouch, Sports, touch, touchscreen
+- Tags: Android, Click, HTML5, html5 games, iPad, iPhone, Mentolatux, Mobile, onetouch, sports, touch, touchscreen

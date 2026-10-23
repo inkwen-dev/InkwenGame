@@ -21,4 +21,4 @@ As a person who saves the world from evil forces and robots, you expect to have 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Army, Battle, Boys, Defense, Dungeon, Fun, Gun, Kill, Killing, Robot, Shooter, Shooting, Sniper, Unity3D, weapons, WebGL
+- Tags: 1 Player, 3D, Action, Army, battle, Boys, Defense, Dungeon, Fun, Gun, Kill, Killing, Robot, Shooter, Shooting, sniper, Unity3D, weapons, WebGL

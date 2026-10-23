@@ -19,6 +19,6 @@ This time the challenge begins with a wood piece, a nail, and a hammer. Create y
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 3D, Action, Adventure, Arena, Battle, HTML5, Race, Sport
+- Tags: 2 Player, 3D, Action, Adventure, Arena, battle, HTML5, Race, Sport

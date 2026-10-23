@@ -19,6 +19,6 @@ Alvin will rush forward with all his might, gradually gaining speed. You will ha
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Arcade, Collecting, HTML, HTML5, jump, Jumping, run, running, subway, Subway Surfers, Super, Superhero, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Arcade, Collecting, HTML, HTML5, jump, jumping, run, running, subway, Subway Surfers, Super, Superhero, Unity3D

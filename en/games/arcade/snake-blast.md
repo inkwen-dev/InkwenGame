@@ -21,4 +21,4 @@ Snake Blast inspired by classic snake game with colorful and modern game. get sc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Hypercasual, Snake
+- Tags: Arcade, Casual, Hypercasual, snake

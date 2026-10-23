@@ -19,6 +19,6 @@ Brave hero, go on an exciting fantasy adventure to cleanse the soul of the fores
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Battle, Fantasy, Platform
+- Tags: Action, Adventure, Arcade, battle, Fantasy, Platform

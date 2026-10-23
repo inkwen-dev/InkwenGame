@@ -19,6 +19,6 @@ You are expected in the colorful world of unicorns! Connect the pieces and meet 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Girl, Jigsaw, Kids, Puzzle, Skill

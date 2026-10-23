@@ -21,4 +21,4 @@ Help Nubik overcome dimensions filled with creepy mobs trying to steal his emera
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Adventure, Android, arrow, attack, Block, Click, Clicker, Cool, Minecraft, Mobile, Sword, Zombie
+- Tags: 1 Player, 3D Games, Adventure, Android, arrow, attack, block, Click, Clicker, cool, Minecraft, Mobile, sword, Zombie

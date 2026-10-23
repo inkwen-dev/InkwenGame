@@ -19,6 +19,6 @@ Kingdom Defense is a cool game about protecting your fortress, upgrading your he
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Defense, HTML5, King, Mobile, Shooter, Tower Defense, War
+- Tags: battle, Defense, HTML5, King, Mobile, Shooter, Tower Defense, War

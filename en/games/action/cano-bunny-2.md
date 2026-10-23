@@ -21,4 +21,4 @@ Cano Bunny 2 is a 2D platformer where you play as a cute bunny who have to colle
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Cute, jump, Jumping, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Cute, jump, jumping, pixel, Platform, retro

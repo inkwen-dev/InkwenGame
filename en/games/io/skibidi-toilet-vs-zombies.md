@@ -19,6 +19,6 @@ Skibidi Toilet Slaughter: Zombie Annihilation is a fun mobile game where players
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Fun, Games, HTML5, Kill, Killing, Skibidi, Skibidi Toilet, Zombie
+- Tags: .io, Fun, Games, HTML5, Kill, Killing, Skibidi, skibidi-toilet, Zombie

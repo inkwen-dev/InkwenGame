@@ -21,4 +21,4 @@ FZ Unlock Blox is a fun and classic addictive puzzle game. The goal is to unbloc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Kid, Kids, Match3, Puzzle
+- Tags: block, Kid, Kids, Match3, Puzzle

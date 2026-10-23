@@ -19,6 +19,6 @@ When you connect four or more of the same objects, entire rows disappear! Every 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Bomb, Candy, Fruit, Fruits, Hypercasual, Match 3, Match3, Matching, Puzzle, Shoot, Shooting

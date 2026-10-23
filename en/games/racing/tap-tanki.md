@@ -21,4 +21,4 @@ A tank is an armoured fighting vehicle designed for front-line combat. Tanks hav
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Platform, Racing, Tank, Tanks, Train
+- Tags: Platform, Racing, Tank, tanks, Train

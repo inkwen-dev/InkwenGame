@@ -19,6 +19,6 @@ Monster Color Match is a match-3 type game, match-3 is a popular type of casual 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Match 3, Match3, Monster, Puzzle
+- Tags: HTML5, Match 3, Match3, monster, Puzzle

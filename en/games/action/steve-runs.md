@@ -19,6 +19,6 @@ Steve Runs - is a hyper-casual runner game where you control Steve a character t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Click, Clicker, run, running, Skill, Skills

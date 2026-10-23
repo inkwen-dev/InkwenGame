@@ -21,4 +21,4 @@ WASD 或 方向键 - 滑行
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 体育, 运动
+- 标签: 冒险, 运动, 体育

@@ -21,4 +21,4 @@ Dive into the calming experience of Fix The Hoof, a free online game where you c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, animals, Horse, popular
+- Tags: 3D, animals, horse, popular

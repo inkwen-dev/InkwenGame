@@ -19,6 +19,6 @@ Welcome to Bubble Merge 2048, where classic 2048 meets exciting bubble-blasting 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2048, 2D, Bubble, Bubble Shooter, Casual, Matching

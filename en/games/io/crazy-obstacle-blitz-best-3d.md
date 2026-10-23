@@ -21,4 +21,4 @@ Crazy Ball 3D is an excellent 3D ball game that will make you super happy and ad
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 8 Ball Pool, Action, Ball, Ballon, Best, Boy, Boys, Collection, Craft, Crafting, Crazy, Creation, Decoration, Educational, Girl, Girls, Minecraft
+- Tags: .io, .io Games, 8 Ball Pool, Action, Ball, Ballon, Best, Boy, Boys, Collection, Craft, Crafting, crazy, Creation, Decoration, educational, Girl, Girls, Minecraft

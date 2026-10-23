@@ -21,4 +21,4 @@ This game is a memory game. you have to connect the jellies with hearts chain wi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Brain, Funny, Jelly, Memory
+- Tags: 1 Player, Brain, Funny, Jelly, memory

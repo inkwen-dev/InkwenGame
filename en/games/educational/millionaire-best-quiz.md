@@ -19,6 +19,6 @@ Everyone wants to be a millionaire, but in the game Millionaire - Best Quiz, you
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Fun, HTML5, Mobile, Puzzle, Quiz, Skill
+- Tags: educational, Fun, HTML5, Mobile, Puzzle, Quiz, Skill

@@ -19,6 +19,6 @@ Embark on an exciting 2D side-scrolling adventure! Run, jump, and roll your way 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Platform

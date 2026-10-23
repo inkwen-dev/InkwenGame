@@ -21,4 +21,4 @@ Learn 2 Fly 是一款冒险游戏，你需要教你的企鹅学会飞行。在�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 飞行, 飞行
+- 标签: 飞行, 飞

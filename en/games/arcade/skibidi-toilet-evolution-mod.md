@@ -19,6 +19,6 @@ In Monster Battle toilet games like Skibidi Toilet Evolution Mod you can take on
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: roblox, Robot, Skibidi, Skibidi Toilet
+- Tags: roblox, Robot, Skibidi, skibidi-toilet

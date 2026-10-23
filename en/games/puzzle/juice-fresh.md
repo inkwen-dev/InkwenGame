@@ -19,6 +19,6 @@ Ready for some Juice Fresh? Smash Jelly, Splash fruits, use Candy for Crush cage
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Candy, Cartoon, Casual, Classic, Click, endless, Fruit, Fruits, Highscore, Hypercasual, Mahjong, Match 3, Match3
+- Tags: 2D, Arcade, Candy, Cartoon, Casual, Classic, Click, endless, Fruit, Fruits, Highscore, Hypercasual, mahjong, Match 3, Match3

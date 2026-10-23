@@ -19,6 +19,6 @@ Welcome on the ship of the Captain Hangman, the great pirate. Accept his challen
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Card, Family, Game, Guessing, Mahjong, Pirate, Solitaire, Word
+- Tags: Board, card, Family, Game, Guessing, mahjong, Pirate, solitaire, word

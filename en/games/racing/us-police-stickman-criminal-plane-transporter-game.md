@@ -21,4 +21,4 @@ Plane Transport Games, Stickman Criminals Jail Prisoners Transport By Police Pla
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Adventure, Boat, Boys, bus, Cars, Casual, Driving, Fun, Game, Games, gta, Plane, Prison, RPG, Simulation, Simulator, Stickman, Truck, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Adventure, Boat, Boys, bus, Cars, Casual, Driving, Fun, Game, Games, gta, Plane, Prison, rpg, Simulation, Simulator, stickman, truck, Unity3D

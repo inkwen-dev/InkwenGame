@@ -21,4 +21,4 @@ Rockstar girls wrestling rumble 2020 offers bikini model girls fighting experien
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arena, Fight, Fighting, Girls, Interactive, Street Fighting
+- Tags: Arena, Fight, fighting, Girls, Interactive, Street Fighting

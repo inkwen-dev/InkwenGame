@@ -19,6 +19,6 @@ Hit your baseball as hard as possible and upgrade your stats! Improve your best 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Arcade, Baseball, Basketball, Casual, Fun, Funny, Hypercasual, Sport, Sports
+- Tags: 3D, Action, Arcade, baseball, basketball, Casual, Fun, Funny, Hypercasual, Sport, sports

@@ -21,4 +21,4 @@ Achive a better highscore with your unicorn running and jumping from one platfor
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Girl, Girls, Horse, running
+- Tags: Fun, Girl, Girls, horse, running

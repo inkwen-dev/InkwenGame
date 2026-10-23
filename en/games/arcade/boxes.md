@@ -21,4 +21,4 @@ Get into the whimsical world of Boxes! Guide a charming little green box through
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, HTML, jump, Jumping, mapi games
+- Tags: Arcade, Casual, HTML, jump, jumping, mapi games

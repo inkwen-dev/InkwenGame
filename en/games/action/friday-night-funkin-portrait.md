@@ -19,6 +19,6 @@ This is Friday Night Funkin portrait mode, very simple and satisfying gameplay. 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Adventure, Alien, Android, Anime, Arcade, Balance, Battle, Battlegrounds, Best, Brain, Cartoon, Classic, Clicker, kiz10, Music, Pixel, Unity3D
+- Tags: Adult, Adventure, Alien, Android, Anime, Arcade, Balance, battle, Battlegrounds, Best, Brain, Cartoon, Classic, Clicker, kiz10, music, pixel, Unity3D

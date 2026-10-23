@@ -29,4 +29,4 @@ The goal of the game is to uncover ancient remains, clean them from dirt, and as
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Dinosaur, Management
+- Tags: Dinosaur, management

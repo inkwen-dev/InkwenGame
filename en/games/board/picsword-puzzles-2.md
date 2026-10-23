@@ -21,4 +21,4 @@ This is word puzzle game. Make a meaningful word with the help of two images.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Educational, Fun, HTML5, Kids, Mobile, Puzzle, School, Word
+- Tags: Board, educational, Fun, HTML5, Kids, Mobile, Puzzle, School, word

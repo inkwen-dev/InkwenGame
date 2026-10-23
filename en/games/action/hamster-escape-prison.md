@@ -21,4 +21,4 @@ An innocent hamster is trying to escape from prison. Help him, because alone it 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Animal, Dungeon, Escape, HTML5, Platform, Retro
+- Tags: 2D, Adventure, Animal, Dungeon, Escape, HTML5, Platform, retro

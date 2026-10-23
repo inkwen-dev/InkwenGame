@@ -21,4 +21,4 @@ Zazgames is a place where you can infinitely play assembling online jigsaw puzzl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Clicker, Parking, Puzzle
+- Tags: Anime, Clicker, parking, Puzzle

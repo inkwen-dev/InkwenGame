@@ -19,6 +19,6 @@ Subway Surfers World Tour: Havana is the fifty-sixth edition in the World Tour s
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, HTML, HTML5, Hypercasual, jump, Jumping, run, running, subway, Subway Surfers, surfers, Unity3D
+- Tags: 3D, 3D Games, Action, HTML, HTML5, Hypercasual, jump, jumping, run, running, subway, Subway Surfers, surfers, Unity3D

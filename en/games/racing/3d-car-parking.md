@@ -21,4 +21,4 @@ If you are looking for an awesome car parking simulator game then Car Parking 3D
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, Adult, Arcade, Car, Cars, Casual, Cool, Crazy, Hypercasual, Platform
+- Tags: .io Games, 1 Player, Adult, Arcade, Car, Cars, Casual, cool, crazy, Hypercasual, Platform

@@ -21,4 +21,4 @@ Click on a card to reveal an image. Memorize the location of the card so that yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Animal, Arcade, Card, Cat, HTML5, Memory, Puzzle
+- Tags: 1 Player, 2D, Animal, Arcade, card, Cat, HTML5, memory, Puzzle

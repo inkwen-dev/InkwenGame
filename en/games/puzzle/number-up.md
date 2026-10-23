@@ -19,6 +19,6 @@ Number Up is a logical puzzle game. At this game, you need to be good with math 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Kids, Logical, Math, Number
+- Tags: Ball, Kids, Logical, math, Number

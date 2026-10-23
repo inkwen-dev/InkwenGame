@@ -19,6 +19,6 @@ Click on the screen
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Crazy, Fight, Fighting, Gun, HTML, HTML5, Kill, Killing, run, running, Street Fighting
+- Tags: Action, crazy, Fight, fighting, Gun, HTML, HTML5, Kill, Killing, run, running, Street Fighting

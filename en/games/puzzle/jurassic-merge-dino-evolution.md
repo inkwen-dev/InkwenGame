@@ -35,4 +35,4 @@ Free game in the style of "Elemental Monsters: Merge & Evolve" and "Dino World: 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Dinosaur, merge, Strategy
+- Tags: Dinosaur, merge, strategy

@@ -21,4 +21,4 @@ Word Slide is a puzzle game where you rearrange columns of letters to form meani
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Puzzle, Side Scrolling, Word
+- Tags: educational, Puzzle, Side Scrolling, word

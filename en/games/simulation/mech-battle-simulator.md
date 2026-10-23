@@ -19,6 +19,6 @@ The mech wars of the year 3070 have lead to the last epic battle. Features: • 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Army, Battle, Battlegrounds, Defense, Robot, Shoot, Simulation, Simulator, Space, Strategy, Violence, War
+- Tags: Action, Army, battle, Battlegrounds, Defense, Robot, Shoot, Simulation, Simulator, Space, strategy, Violence, War

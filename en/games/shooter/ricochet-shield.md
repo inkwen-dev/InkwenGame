@@ -21,4 +21,4 @@ Ricochet Shield challenges players to deflect projectiles using a high-tech shie
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Android, Arcade, Battle, HTML5, iPad, iPhone, Mobile, Shooting, Unity3D, WebGL
+- Tags: Action, Android, Arcade, battle, HTML5, iPad, iPhone, Mobile, Shooting, Unity3D, WebGL

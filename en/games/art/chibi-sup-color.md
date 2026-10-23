@@ -19,6 +19,6 @@ Hello, young artist. The mysterious Halloween holiday is approaching. Take the o
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cartoon, Color, Coloring, Draw, Drawing, Girl, Holiday, HTML5, Ladybug, Miraculous Ladybug, Superhero
+- Tags: Baby, Cartoon, Color, Coloring, Draw, drawing, Girl, Holiday, HTML5, Ladybug, Miraculous Ladybug, Superhero

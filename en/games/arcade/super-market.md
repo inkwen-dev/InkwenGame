@@ -19,6 +19,6 @@ Welcome to the shopping paradise! Explore the supermarket world with many popula
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Arcade, Hypercasual

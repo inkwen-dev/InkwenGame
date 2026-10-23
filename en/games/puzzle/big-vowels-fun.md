@@ -21,4 +21,4 @@ Welcome to Big Vowels Fun &ndash; The Ultimate Vowel Match-3 Challenge! Step int
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Match 3, Skill
+- Tags: educational, Match 3, Skill

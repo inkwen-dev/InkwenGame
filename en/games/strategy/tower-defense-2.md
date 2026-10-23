@@ -21,4 +21,4 @@ In Tower Defense, you will direct a powerful army of defense towers to face enem
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Fight, Strategy, Tower Defense
+- Tags: Army, Fight, strategy, Tower Defense

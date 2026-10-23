@@ -21,4 +21,4 @@ Pinball Football is a great soccer game. 20 levels you need to beat engine. Scor
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Pinball, Soccer, Sports
+- Tags: Football, Pinball, Soccer, sports

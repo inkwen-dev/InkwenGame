@@ -21,4 +21,4 @@ Hip Hip Hurrrryyy!!! Merry Christmas to all of you and now it's time to deliver 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Race
+- Tags: bike, Race

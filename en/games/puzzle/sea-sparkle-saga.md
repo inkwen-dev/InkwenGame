@@ -15,6 +15,6 @@ Dive into Sea Sparkle Saga, an enchanting match-3 puzzle game set in a radiant o
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Match-3
+- Tags: Match 3

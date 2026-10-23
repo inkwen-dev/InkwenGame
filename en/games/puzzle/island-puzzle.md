@@ -21,4 +21,4 @@ WELCOME TO THE FUNNIEST JUNGLE PUZZLE ADVENTURE GAME! Start an exciting adventur
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Bejeweled, Best, Brain, Casual, Classic, Clicker, Decorate, Decoration, Family, Girls, HTML5, Jewel, Match 3, Match3, Math, Mind, Puzzle, Relaxation, Zuma
+- Tags: Adult, Bejeweled, Best, Brain, Casual, Classic, Clicker, Decorate, Decoration, Family, Girls, HTML5, Jewel, Match 3, Match3, math, Mind, Puzzle, Relaxation, Zuma

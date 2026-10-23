@@ -19,6 +19,6 @@ Alien Defense - is a fun game where you can destroy the aliens by shooting at th
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Alien, Defense, Shooting, Tower Defense

@@ -19,6 +19,6 @@ Welcome to Ellie Fashion Fever. Ellie is a supermodel who is inspired more by th
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, Android, Girl, Girls, Hot, New

@@ -19,6 +19,6 @@ Tanks are always an effective weapon in wartime. In the fun and addictive game C
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cool, Strategy, Tank, War
+- Tags: Boys, cool, strategy, Tank, War

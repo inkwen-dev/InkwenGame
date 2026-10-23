@@ -19,6 +19,6 @@ You're a great Ninja so try to avoid Cats the more you can!
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Cat, Cleaning, Girl, Girls, HTML, HTML5, jump, Jumping, Ninja, running
+- Tags: Arcade, Boy, Cat, Cleaning, Girl, Girls, HTML, HTML5, jump, jumping, ninja, running

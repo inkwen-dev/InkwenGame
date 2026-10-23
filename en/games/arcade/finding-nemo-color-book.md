@@ -19,6 +19,6 @@ Finding Nemo Color book Coloring Book includes 8 different images of Finding Nem
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Color, Coloring, Disney, Draw, Drawing, Fish, Mine, Punch
+- Tags: Arcade, Color, Coloring, Disney, Draw, drawing, Fish, Mine, Punch

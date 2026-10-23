@@ -21,4 +21,4 @@ Ninja Defender is a game where you have to protect the space behind you. Destroy
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bubble Shooter, Defense, Ninja, Puzzle, Shoot
+- Tags: Bubble Shooter, Defense, ninja, Puzzle, Shoot

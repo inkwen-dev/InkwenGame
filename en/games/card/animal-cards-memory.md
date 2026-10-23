@@ -21,4 +21,4 @@ Animal Cards Memory is a game that helps you train your memory. No matter how ol
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Memory
+- Tags: Animal, memory

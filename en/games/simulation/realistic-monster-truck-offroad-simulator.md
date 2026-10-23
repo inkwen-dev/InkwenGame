@@ -21,4 +21,4 @@ Realistic Monster Truck Offroad Simulator delivers an intense offroad experience
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mentolatux, Monster, monstertruck, offroad, realistic, Simulator, Truck, unity, WebGL
+- Tags: Mentolatux, monster, monstertruck, offroad, realistic, Simulator, truck, unity, WebGL

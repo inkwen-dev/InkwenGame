@@ -19,6 +19,6 @@ Be the Quarterback of your football team and make the calls to score touchdowns 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Football, New, Sports, Strategy
+- Tags: 3D, Football, New, sports, strategy

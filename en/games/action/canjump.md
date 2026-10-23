@@ -21,4 +21,4 @@ Canjump is a game in which you can only jump, but you have to do it at the right
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Avoid, Bounce, Collecting, Crazy, jump, Jumping, Pixel, Platform
+- Tags: 2D, Action, Avoid, Bounce, Collecting, crazy, jump, jumping, pixel, Platform

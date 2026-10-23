@@ -19,6 +19,6 @@ Car Parking Drive Game : Parking Master 3D New Car Parking Game starts a new era
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Cars, Driving, HTML, HTML5, Racing, Simulation, Simulator

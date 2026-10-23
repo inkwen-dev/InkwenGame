@@ -19,6 +19,6 @@ This game is an interesting and special coloring game about Grimace Shake. All t
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Baby, Baby Hazel, Cartoon, Color, Coloring, Fun, Grimace, Kids, Magic, Mobile, Puzzle

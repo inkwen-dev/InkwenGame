@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 卡通频道, 绘画, 繪畫, HTML, Unity3D
+- 标签: 卡通频道, 绘画, 绘画, HTML, Unity3D

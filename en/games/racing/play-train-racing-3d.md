@@ -19,6 +19,6 @@ You can enjoy every moment by Play Train Racing 3D Game, for every level we are 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Arcade, Casual, Fun, Funny, Hot, jump, Jumping, Race, run, running, Train, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Arcade, Casual, Fun, Funny, Hot, jump, jumping, Race, run, running, Train, Unity3D

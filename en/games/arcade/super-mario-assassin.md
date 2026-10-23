@@ -21,4 +21,4 @@ Control Super Mario and hunt down your targets one by one. Use your surroundings
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kill, Killing, Mario, Super
+- Tags: Kill, Killing, mario, Super

@@ -21,4 +21,4 @@ Shapes Game is a educational game for kids to explore the fascinating world of g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Cartoon, Color, Cute, Educational, free games for your site, free html5 games for your website, Funny, Geometry, HTML5, Kid, Kids, Math, School
+- Tags: Best Games, Cartoon, Color, Cute, educational, free games for your site, free html5 games for your website, Funny, Geometry, HTML5, Kid, Kids, math, School

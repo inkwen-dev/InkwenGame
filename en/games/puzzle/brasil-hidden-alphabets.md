@@ -19,6 +19,6 @@ Try to find all the letters in the pictures and have fun!
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Game, Hidden, HTML, HTML5, Letters

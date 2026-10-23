@@ -21,4 +21,4 @@ Hit the streets and experience the thrill of high-speed street racing! Drift thr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Arcade, Car, car tuning, Cars, Police, Race, Racing, Supercars
+- Tags: 1 Player, Action, Arcade, Car, car tuning, Cars, police, Race, Racing, Supercars

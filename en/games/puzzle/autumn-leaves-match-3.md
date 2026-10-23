@@ -19,6 +19,6 @@ Autumn Leaves Match 3 – this cool game three in a row, in which you have to pu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Fun, HTML5, Kids, Puzzle

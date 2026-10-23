@@ -19,6 +19,6 @@ This is a super classic Pop it game in a Squid Game theme. How to play: click on
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Boys, Casual, Click, Clicker, endless, Game, Games, Girl, Girls, HTML, HTML5, Hypercasual, Mind, Puzzle, Simulation, Simulator

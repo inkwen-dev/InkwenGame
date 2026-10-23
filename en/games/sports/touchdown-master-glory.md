@@ -19,6 +19,6 @@ Are you ready to score some incredible touchdowns? Running is avoiding many enem
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baseball, Basketball, Football, Soccer, Sport, Sports
+- Tags: baseball, basketball, Football, Soccer, Sport, sports

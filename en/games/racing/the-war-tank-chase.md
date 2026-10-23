@@ -21,4 +21,4 @@ The War Tank Chase is super fun and free to play online tank chase game. The aim
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Avoid, Battle, Boys, Collecting, Driving, Hypercasual, Maze, Shooting, Skill, Tank, weapons
+- Tags: 2D, Arcade, Avoid, battle, Boys, Collecting, Driving, Hypercasual, Maze, Shooting, Skill, Tank, weapons

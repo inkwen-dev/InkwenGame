@@ -19,6 +19,6 @@ Ball Runner! Just swipe to control player and avoid all opponents to reach desti
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, city, Racing, Truck
+- Tags: Action, Arcade, city, Racing, truck

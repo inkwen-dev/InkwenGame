@@ -19,6 +19,6 @@ We are working on monster truck games project since last year and now introducin
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Race, Racing, Simulation, Simulator, Truck
+- Tags: 3D, Action, Race, Racing, Simulation, Simulator, truck

@@ -19,6 +19,6 @@ Welcome to Factory Crush! Tap or click on 3 or more identical cubes to eleminate
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bejeweled, Block, Candy, Clicker, Match 3, Puzzle
+- Tags: Bejeweled, block, Candy, Clicker, Match 3, Puzzle

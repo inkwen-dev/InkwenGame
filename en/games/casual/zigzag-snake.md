@@ -19,6 +19,6 @@ ZigZag Snake is a very engaging, fun and challenging casual game. The objective 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Casual, HTML5, Mobile, Snake
+- Tags: Best, Casual, HTML5, Mobile, snake

@@ -19,6 +19,6 @@ Sheep Sheep Duck is a very novel casual multiplayer party interactive game. You 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Avoid, Fighting, Fun, Highscore, HTML5, Kids, Mobile, Obstacle, Shooting, Skill
+- Tags: Action, Adventure, Arcade, Avoid, fighting, Fun, Highscore, HTML5, Kids, Mobile, Obstacle, Shooting, Skill

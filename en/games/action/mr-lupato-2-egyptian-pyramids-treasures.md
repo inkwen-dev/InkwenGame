@@ -21,4 +21,4 @@ Mr. Lupato goes on a trip and needs your help to find Egyptian Pyramids treasure
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, HTML5, jump, Jumping, Platform
+- Tags: Adventure, Arcade, HTML5, jump, jumping, Platform

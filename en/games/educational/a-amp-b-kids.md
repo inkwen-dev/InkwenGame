@@ -19,6 +19,6 @@ A &amp; B Kids is the best way for your kids to learn their ABCs! Our educationa
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Educational, Game, Games, HTML, HTML5, Kid, Kids
+- Tags: Boy, Boys, educational, Game, Games, HTML, HTML5, Kid, Kids

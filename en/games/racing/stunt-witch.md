@@ -19,6 +19,6 @@ Are You the next great Stunt Witch pilot? You will need to have strong nerves an
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Family, Flight, fly, Girl, Girls, Halloween, HTML, HTML5, jump, Mobile, Monster, Racing, Witch
+- Tags: Arcade, Family, flight, fly, Girl, Girls, Halloween, HTML, HTML5, jump, Mobile, monster, Racing, Witch

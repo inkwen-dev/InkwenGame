@@ -19,6 +19,6 @@ Get ready to experience the exciting world of heavy truck driving with Euro Truc
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Best Games, Driving, Truck
+- Tags: Adventure, Best Games, Driving, truck

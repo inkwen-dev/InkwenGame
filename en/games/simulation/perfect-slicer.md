@@ -19,6 +19,6 @@ Cut food into perfect slices ... have fun slicing! Cut various food items into p
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Arcade, Avoid, Boy, Boys, Cook, Cooking, Food, Fruit, Fruits, Game, Games, H5, HTML, HTML5, Kid, Kids, Mobile, Obstacle, Skill, Skills

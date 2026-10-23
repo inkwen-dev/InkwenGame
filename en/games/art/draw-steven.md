@@ -21,4 +21,4 @@ Stephen is a brave and brave warrior ready to go to any corner of the universe t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon Network, Draw, Drawing, HTML, Unity3D
+- Tags: Cartoon Network, Draw, drawing, HTML, Unity3D

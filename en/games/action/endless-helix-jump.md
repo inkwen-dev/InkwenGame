@@ -19,6 +19,6 @@ Fun arcade game in which you must help a falling ball navigate to the endless he
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Ball, endless, HTML5, jump

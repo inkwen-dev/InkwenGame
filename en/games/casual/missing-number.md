@@ -15,6 +15,6 @@ Challenge young minds with Missing Number, a delightful math game where kids ide
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Math
+- Tags: math

@@ -19,6 +19,6 @@ Halloween Puzzle Challenge is fun halloween game suitable for all ages. Those wh
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Girls, Halloween, HTML5, Jigsaw, Kids, Puzzle

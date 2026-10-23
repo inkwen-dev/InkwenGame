@@ -21,4 +21,4 @@ Wizard.io 是一款设定在魔法与神秘领域的动作游戏。在充满神�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, 竞技场, 收集, 收藏, 生存, 俯视角, Unity3D
+- 标签: 3D, 3D游戏, 竞技场, 收集, 收藏, 生存, 俯视, Unity3D

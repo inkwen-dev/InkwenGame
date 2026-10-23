@@ -19,6 +19,6 @@ Valentines Day Jigsaw Puzzle is a game you can play for free on the internet. It
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Jigsaw, Kids, Kiss, Kissing, Love, Puzzle, valentine, valentine day, valentines

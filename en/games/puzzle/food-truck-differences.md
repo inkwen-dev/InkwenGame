@@ -21,4 +21,4 @@ In this game you need to find seven differences in each picture. There is ten im
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Difference, Puzzle, Truck
+- Tags: Difference, Puzzle, truck

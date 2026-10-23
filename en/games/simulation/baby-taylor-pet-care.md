@@ -21,4 +21,4 @@ Taylor and Jessica want to experience community work. They find out the Pet Care
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cute, Doctor, Educational, Girl, Girls, Kids, Simulation, Surgery
+- Tags: Animal, Baby, Cute, Doctor, educational, Girl, Girls, Kids, Simulation, surgery

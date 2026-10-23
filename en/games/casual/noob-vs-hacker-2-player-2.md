@@ -15,6 +15,6 @@ Step into the arena of wit in Noob vs Hacker - 2 Player, where strategic brillia
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: two-player

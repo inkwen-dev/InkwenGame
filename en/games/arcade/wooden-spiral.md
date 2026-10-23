@@ -21,4 +21,4 @@ In order to become the winner of the game, you will need to carve spirals from t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Casual, Click, Clicker, cut, Girls, H5, HTML, HTML5, Hypercasual, Point And Click, Strategy, Unity3D
+- Tags: 3D, 3D Games, Arcade, Casual, Click, Clicker, cut, Girls, H5, HTML, HTML5, Hypercasual, Point And Click, strategy, Unity3D

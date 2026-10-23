@@ -19,6 +19,6 @@ Nitro Rally Time Attack 2 is the ultimate 100% arcade rally racing game for your
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boy, Boys, Car, Cars, Race, Racing, Supercars

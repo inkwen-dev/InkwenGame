@@ -21,4 +21,4 @@ Welcome to the euro truck driving simulator game. Drive powerful trucks across h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, 3D, 3D Games, Adventure, Car, city, Games, Racing, Truck, trucks
+- Tags: 2025 games, 3D, 3D Games, Adventure, Car, city, Games, Racing, truck, trucks

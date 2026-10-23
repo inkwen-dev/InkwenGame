@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Adventure, 逃脱, 移动, 点击解谜
+- 标签: 冒险, 逃脱, 移动设备, 点击式

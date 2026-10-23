@@ -19,6 +19,6 @@ SWAT VS ZOMBIES – a really cool game about a guy who alone decided to get to t
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Police, Shoot, Shooter, Shooting, Zombie
+- Tags: Action, Adventure, Arcade, police, Shoot, Shooter, Shooting, Zombie

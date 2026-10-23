@@ -21,4 +21,4 @@ Archer Peerless.io is a Stickman shooting game with different characters includi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Adventure, Best, Hot, Hypercasual, Shoot 'Em Up, Shooter, Shooting, Stickman, Strategy
+- Tags: .io, .io Games, Action, Adventure, Best, Hot, Hypercasual, Shoot 'Em Up, Shooter, Shooting, stickman, strategy

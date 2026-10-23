@@ -21,4 +21,4 @@ Line of Defense is a fun battle of defense against attacking enemy tanks. Using 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Color, Shooter, Tank
+- Tags: battle, Color, Shooter, Tank

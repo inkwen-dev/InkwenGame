@@ -19,6 +19,6 @@ Chain Cube 2048 is a great puzzle game for those, who like challenging brain-tea
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2 Player, 3D Games, Block
+- Tags: .io Games, 1 Player, 2 Player, 3D Games, block

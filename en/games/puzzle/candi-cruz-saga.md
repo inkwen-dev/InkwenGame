@@ -19,6 +19,6 @@ Candi Cruz Saga Collect 3 of the same sweets to build the stage and then go to t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Candy, Match 3, Match3

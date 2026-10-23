@@ -31,4 +31,4 @@ Verified in the QA tool: state written before Reload game is fully restored afte
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Strategy, Tower Defense
+- Tags: strategy, Tower Defense

@@ -19,6 +19,6 @@ Amazing Jumper Game, a single-touch jumping reaction game, has everything you ne
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Boys, Game, HTML, HTML5, Hypercasual, jump, Jumping, Mobile, Spiderman, Superhero
+- Tags: Arcade, Boy, Boys, Game, HTML, HTML5, Hypercasual, jump, jumping, Mobile, Spiderman, Superhero

@@ -21,4 +21,4 @@ Santa needs to get in shape for his long night of delivering gifts. Have Santa t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kid, Kids
+- Tags: educational, Kid, Kids

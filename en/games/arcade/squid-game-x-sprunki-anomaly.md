@@ -19,6 +19,6 @@ In Squid Game X Sprunki Anomaly you must find 5 anomalies each scene, good luck 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Difference, Sprunki

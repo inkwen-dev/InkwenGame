@@ -19,6 +19,6 @@ Use your sniper rifle to shoot all hazmat soldiers in the contaminated area, try
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Gun, Killing, Shoot 'Em Up, Shooter, Shooting, Sniper, Unity3D, War, WebGL
+- Tags: 1 Player, 3D, 3D Games, Action, Gun, Killing, Shoot 'Em Up, Shooter, Shooting, sniper, Unity3D, War, WebGL

@@ -19,6 +19,6 @@ Green Chick Jump is a great run and jump game. Use mouse or finger on touch scre
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Chicken, HTML5, Jumping, running
+- Tags: Chicken, HTML5, jumping, running

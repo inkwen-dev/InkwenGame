@@ -21,4 +21,4 @@ Metal kid Soldiers Attack kid education game has a lot of success review and pla
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Boys, Bubble Shooter, Defense, Detective, Educational, Fight, Fighting, Fire, Fish, Interactive Fiction, Kid, Kids, Kill, Killing, Red, Shoot, Shoot 'Em Up, Shooter, Shooting
+- Tags: battle, Boys, Bubble Shooter, Defense, Detective, educational, Fight, fighting, Fire, Fish, Interactive Fiction, Kid, Kids, Kill, Killing, Red, Shoot, Shoot 'Em Up, Shooter, Shooting

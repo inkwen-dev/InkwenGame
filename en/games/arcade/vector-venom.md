@@ -21,4 +21,4 @@ A retro styled vector venom game. Venom, who has superpowers, can fly from wall 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Arcade, Retro
+- Tags: 1 Player, 2D, Action, Adventure, Arcade, retro

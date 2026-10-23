@@ -19,6 +19,6 @@ This restless couple-a cat and a mouse, offer you a new entertainment. They are 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Color, Coloring, Draw, Drawing, Game, Online, Puzzle
+- Tags: Arcade, Color, Coloring, Draw, drawing, Game, Online, Puzzle

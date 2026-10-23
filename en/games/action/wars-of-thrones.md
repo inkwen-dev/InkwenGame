@@ -19,6 +19,6 @@ Are you ready to survive in a colorful world full of dangers? In this top-down a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arena, attack, Battle, Boy
+- Tags: Action, Adventure, Arena, attack, battle, Boy

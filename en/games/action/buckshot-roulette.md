@@ -21,4 +21,4 @@ Do you dare to bet your life on an exciting roulette wheel showdown? Buckshot Ro
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Battlegrounds, Gun, survival
+- Tags: battle, Battlegrounds, Gun, survival

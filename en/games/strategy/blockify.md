@@ -21,4 +21,4 @@ Welcome to blockify, the ultimate brain-teasing block puzzle experience! Strateg
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, blocky, Brain, Hypercasual, Logic, Matching, puzzleblock, Strategy
+- Tags: block, blocky, Brain, Hypercasual, Logic, Matching, puzzleblock, strategy

@@ -19,6 +19,6 @@ Get ready! Be the best space ship pilot in the universe. Kill all the enemy ship
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Arena, Army, Flight, Space, Spaceship, Unity3D
+- Tags: Arcade, Arena, Army, flight, Space, Spaceship, Unity3D

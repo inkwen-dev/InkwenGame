@@ -21,4 +21,4 @@ You asked us so many times and we finally did it! Boys dress up game - «Dream B
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Celebrity, Crazy, Cute, Decorate, Design, Dress Up, Fashion, Funny, Girl, Girls, Hair, Makeover, Music
+- Tags: Boy, Boys, Celebrity, crazy, Cute, Decorate, Design, Dress Up, Fashion, Funny, Girl, Girls, Hair, Makeover, music

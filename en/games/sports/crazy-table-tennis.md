@@ -19,6 +19,6 @@ Do you like Ping Pong? prove your abilities in Crazy Table Tennis, a Pong inspir
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Retro
+- Tags: retro

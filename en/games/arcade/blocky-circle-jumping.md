@@ -21,4 +21,4 @@ It is an amazing endless level-based game where you touch the screen to make the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Block, Clicker, HTML5, jump, Jumping, Mobile
+- Tags: Android, block, Clicker, HTML5, jump, jumping, Mobile

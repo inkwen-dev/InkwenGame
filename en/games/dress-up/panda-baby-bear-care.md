@@ -19,6 +19,6 @@ Start your babysitting adventures and become the best panda nanny! Give panda a 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cleaning, Cooking, Cute, Dress Up, Educational, Food, Girl, Girls, Kids, Makeover, Simulation
+- Tags: Animal, Baby, Cleaning, Cooking, Cute, Dress Up, educational, Food, Girl, Girls, Kids, Makeover, Simulation

@@ -21,4 +21,4 @@ Icon image Color Rings Block Puzzle About this game Color Rings Block Puzzle is 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, amazing, Best Games, Block, Board, Color, Coloring, Fun
+- Tags: 1 Player, 2 Player, amazing, Best Games, block, Board, Color, Coloring, Fun

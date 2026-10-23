@@ -19,6 +19,6 @@ A typical/traditional card game: Blackjack. Enjoy playing casino game without wo
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Card, Casino, Casual, HTML5, Hypercasual, Mobile
+- Tags: Arcade, Best, card, Casino, Casual, HTML5, Hypercasual, Mobile

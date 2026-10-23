@@ -15,6 +15,6 @@ Dive into the spine-chilling madness of Mr. Noob EAT Burger. Navigate a mysterio
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

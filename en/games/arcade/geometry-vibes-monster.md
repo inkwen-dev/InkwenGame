@@ -32,4 +32,4 @@ Visual and Sound Design: Vivid graphics and impressive music enhance the atmosph
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Monster, Multiplayer
+- Tags: monster, Multiplayer

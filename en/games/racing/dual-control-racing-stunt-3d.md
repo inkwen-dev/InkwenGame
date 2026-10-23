@@ -19,6 +19,6 @@ Ever wish to be a furious car driver in extreme driving games and drive awesome 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, 3D Games, Car, Crazy, Driving, jump, Racing, Simulator, Stunts
+- Tags: 2025 games, 3D Games, Car, crazy, Driving, jump, Racing, Simulator, Stunts

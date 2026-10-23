@@ -19,6 +19,6 @@ Spaceships, maneuvers, laser guns and cold space await you in the exciting game 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Alien, Battle, Classic, Mobile, Space, Spaceship, War, weapons
+- Tags: 1 Player, 2D, Adventure, Alien, battle, Classic, Mobile, Space, Spaceship, War, weapons

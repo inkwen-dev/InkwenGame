@@ -21,4 +21,4 @@ A dark forest is infected by strange creatures and dangerous monsters. you play 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Animal, Arcade, Monster, Race
+- Tags: Adventure, Animal, Arcade, monster, Race

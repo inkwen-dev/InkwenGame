@@ -19,6 +19,6 @@ Stretch the stick the more you can to reach and walk on the platforms. Beware! I
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, endless, Game, Games, HTML, HTML5, jump, Jumping, Ninja, Ninjago, Stickman
+- Tags: 2D, Arcade, endless, Game, Games, HTML, HTML5, jump, jumping, ninja, Ninjago, stickman

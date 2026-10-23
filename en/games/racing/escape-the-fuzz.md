@@ -19,6 +19,6 @@ Escape the Fuzz a car-man-game is back on new devices! Move the hero by swiping 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, gta, PacMan, Race, Racing

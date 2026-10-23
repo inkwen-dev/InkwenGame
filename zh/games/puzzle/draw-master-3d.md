@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 休闲, HTML5, 休闲, 儿童, 儿童, 逻辑, 逻辑, 益智, WebGL
+- 标签: 3D, 休闲, HTML5, 超休闲, 儿童, 儿童, 逻辑, 逻辑性, 益智, WebGL

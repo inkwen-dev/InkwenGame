@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 最佳, 益智, 休闲, HTML, HTML5, 拼图, 移动
+- 标签: 最佳, 大脑, 休闲, HTML, HTML5, 拼图, 移动设备

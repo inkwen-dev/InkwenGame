@@ -19,6 +19,6 @@ Boxes Wizard is a 2D pixel art platformer with 40 levels, where you play as a wi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, jump, Magic, Platform, Puzzle

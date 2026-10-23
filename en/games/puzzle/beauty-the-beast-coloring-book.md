@@ -21,4 +21,4 @@ Beauty & the Beast Coloring Book is cool coloring game for kids and adults. Play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Color, Coloring, Disney, Draw, Drawing, Jigsaw, Princess, Puzzle
+- Tags: Cartoon, Color, Coloring, Disney, Draw, drawing, Jigsaw, Princess, Puzzle

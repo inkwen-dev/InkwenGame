@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 颜色, 涂色, 有趣, 女孩们, HTML5, iPhone, 孩子们, Mobile
+- 标签: 安卓, 颜色, 着色, 有趣, 女孩, HTML5, iPhone, 儿童, 移动设备

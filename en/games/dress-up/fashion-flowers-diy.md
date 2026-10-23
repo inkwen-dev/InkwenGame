@@ -19,6 +19,6 @@ Do you know that flowers are eatable? Isn't it amazing? You can also made many t
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cooking, Cute, Fashion, Food, Fun, Girls, HTML5, Kids, Mobile

@@ -27,4 +27,4 @@ Road Rage is an action-packed racing game where players speed through traffic, d
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Bicycle, Bike, Driving, Fighting, motorbike, Racing
+- Tags: Action, Bicycle, bike, Driving, fighting, motorbike, Racing

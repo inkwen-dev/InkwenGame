@@ -19,6 +19,6 @@ These Marvelous Highway Car Stunts take you a realistic journey of stunt driving
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Best, Car, Cars, Crazy, drifting, Driving, Game, Games, HTML, HTML5, Race, Racing
+- Tags: 3D, 3D Games, Best, Car, Cars, crazy, drifting, Driving, Game, Games, HTML, HTML5, Race, Racing

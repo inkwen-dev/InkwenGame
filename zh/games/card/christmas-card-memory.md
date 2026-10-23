@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 卡片, 圣诞节, HTML5, 记忆, 手机
+- 标签: 卡牌, 圣诞节, HTML5, 记忆, 移动设备

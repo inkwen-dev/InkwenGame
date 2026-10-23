@@ -21,4 +21,4 @@ Real Flight Simulator 3D is an awesome flight simulator game that will show you 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Air, Aircraft, Boy, Boys, Flight, Fun, H5, HTML5, Kid, Kids
+- Tags: 3D, 3D Games, Air, Aircraft, Boy, Boys, flight, Fun, H5, HTML5, Kid, Kids

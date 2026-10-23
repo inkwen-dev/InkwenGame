@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 弓, HTML游戏供您的网站使用, HTML5, html5游戏, 超休闲, Stickman, unity游戏
+- 标签: 街机, 弓箭, HTML游戏供您的网站使用, HTML5, HTML5游戏, 超休闲, 木偶人, unity游戏

@@ -21,4 +21,4 @@ Hey Doctor, I hurt my feet and it is so painful! Could you please help me to tre
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Nails, Relaxation, Skill, Surgery
+- Tags: Doctor, Nails, Relaxation, Skill, surgery

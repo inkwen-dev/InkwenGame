@@ -21,4 +21,4 @@ Harvesting Mania is a highly addictive Block removal games. In it, you will have
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Collecting, Fun, HTML, HTML5, Matching, Mobile, Puzzle
+- Tags: block, Collecting, Fun, HTML, HTML5, Matching, Mobile, Puzzle

@@ -21,4 +21,4 @@ Stickman Warriors - Super Dragon Shadow Fight best fighting action role-playing 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Battle, Best, Stickman, Superhero, War
+- Tags: 1 Player, battle, Best, stickman, Superhero, War

@@ -21,4 +21,4 @@ American Trucks memory is puzzle memory game. You need to memorize position of i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Memory, Puzzle, Truck
+- Tags: memory, Puzzle, truck

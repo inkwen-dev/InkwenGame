@@ -19,6 +19,6 @@ ake control of some amazing police cars in a huge driving environment ready to e
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Army, Avoid, Bomb, Cars, Fighting, Fishing, Interactive, Race
+- Tags: Action, Adventure, Army, Avoid, Bomb, Cars, fighting, Fishing, Interactive, Race

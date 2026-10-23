@@ -19,6 +19,6 @@ Get ready for a weirdly satisfying evolution puzzle! In Brainrot Merge, drop cre
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Animal, Brainrot, Brainrot Italian, Brainrot sahuuur, Matching, Sahur, Tung Tung Tung, Tung Tung Tung Sahur

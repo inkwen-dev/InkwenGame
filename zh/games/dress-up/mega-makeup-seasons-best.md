@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 女孩, 改造, 夏日, 冬季
+- 标签: 女孩, 改造, 夏天, 冬季

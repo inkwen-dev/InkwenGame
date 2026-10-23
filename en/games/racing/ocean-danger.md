@@ -19,6 +19,6 @@ Race through rough waves and obstacles in this thrilling speed boat game. Can yo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2D, HTML, HTML5, Online, Race, Racing

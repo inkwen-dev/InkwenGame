@@ -19,6 +19,6 @@ Aliens in Chains is a new casual game on desktop and mobile you can play at Supe
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Alien, Casual, Fun, Highscore, HTML5, Hypercasual, Kid, Match 3, Mobile, Puzzle, Rocket, Space, Spaceship

@@ -19,6 +19,6 @@ Wooden Block Blast Adventure Master is a fun block elimination puzzle game! It i
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Block, Girl, Kid, Simulation, Timing
+- Tags: 2D, Adventure, block, Girl, Kid, Simulation, Timing

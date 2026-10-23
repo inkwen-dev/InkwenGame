@@ -21,4 +21,4 @@ In this fun and challenging puzzle game, your goal is to draw a road that safely
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Car, Drawing, Logic, Physics
+- Tags: Arcade, Car, drawing, Logic, Physics

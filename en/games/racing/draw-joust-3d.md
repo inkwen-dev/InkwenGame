@@ -19,6 +19,6 @@ Here is both a drawing puzzle and car battle arcade game with 3D stickman game a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Battle, Brain, Car, Drawing, Mobile, Puzzle, Stickman
+- Tags: 3D, battle, Brain, Car, drawing, Mobile, Puzzle, stickman

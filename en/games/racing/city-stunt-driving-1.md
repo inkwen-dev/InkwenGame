@@ -21,4 +21,4 @@ Let’s ready to conquer this kar wala game the best ramp car stunts racing game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, Bike, bus, Car, Cars, Game, Games, Love, Parking, Simulation, Simulator, Stunts, Supercars, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, bike, bus, Car, Cars, Game, Games, Love, parking, Simulation, Simulator, Stunts, Supercars, truck

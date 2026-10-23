@@ -21,4 +21,4 @@ It's a classic mega jump game where you need to collect all coins to sign the be
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Collecting, Collection, HTML, HTML5, jump, Jumping
+- Tags: Arcade, Ball, Collecting, Collection, HTML, HTML5, jump, jumping

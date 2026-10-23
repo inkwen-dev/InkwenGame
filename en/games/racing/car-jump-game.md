@@ -21,4 +21,4 @@ Welcome to the most exciting and action-packed car adventure ever created! Car J
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, amazing, Best Games, Car, Fun, Jumping, vehicle
+- Tags: 2026 games, amazing, Best Games, Car, Fun, jumping, vehicle

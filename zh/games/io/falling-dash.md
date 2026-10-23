@@ -21,4 +21,4 @@ Falling Dash 是一款解谜游戏
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io游戏, 谜题
+- 标签: .io 游戏, 益智

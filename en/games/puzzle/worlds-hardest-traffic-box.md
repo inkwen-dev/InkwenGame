@@ -19,6 +19,6 @@ World's Hardest Traffic Box is an interesting adventure puzzle online game with 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Avoid, Block, Boy, Brain, Fun, HTML5, Kid, Obstacle, Online, Puzzle
+- Tags: Android, Avoid, block, Boy, Brain, Fun, HTML5, Kid, Obstacle, Online, Puzzle

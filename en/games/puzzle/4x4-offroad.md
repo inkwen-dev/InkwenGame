@@ -21,4 +21,4 @@ Come and enjoy driving large euro trucks transporting goods and offroad jeeps Pr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Batman, Boy, Boys, Bubble, Candy, Car, drift, Driving, Girl, Mario, Spiderman, Super, Supercars, Superhero, Truck
+- Tags: 8 Ball Pool, Batman, Boy, Boys, Bubble, Candy, Car, drift, Driving, Girl, mario, Spiderman, Super, Supercars, Superhero, truck

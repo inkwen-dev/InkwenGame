@@ -21,4 +21,4 @@ Test your intellect and have a lot of fun! Think outside the box, train your bra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Boys, Brain, Casual, Family, Funny, Girls, HTML5, Kid, Kids, Logic, Logical, Memory, Puzzle, WebGL
+- Tags: 1 Player, Boys, Brain, Casual, Family, Funny, Girls, HTML5, Kid, Kids, Logic, Logical, memory, Puzzle, WebGL

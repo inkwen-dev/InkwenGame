@@ -21,4 +21,4 @@ Find the same gold bars and select them one by one using the PC mouse. Hints, un
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Hypercasual, Mahjong
+- Tags: HTML5, Hypercasual, mahjong

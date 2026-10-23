@@ -21,4 +21,4 @@ WASD 驾驶汽车 空格键 刹车
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 人, 方块, 汽车, 汽车们, 互动, 像素, Unity3D, WebGL
+- 标签: 单人, 方块, 汽车, 汽车, 互动, 像素, Unity3D, WebGL

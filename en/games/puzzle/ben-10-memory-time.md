@@ -21,4 +21,4 @@ Ben 10 Memory Time is an exciting and engaging free online game designed specifi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ben 10, Boy, Collecting, Fun, Kids, Memory, Skill
+- Tags: Ben 10, Boy, Collecting, Fun, Kids, memory, Skill

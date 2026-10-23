@@ -21,4 +21,4 @@ Brawl Stars 拼图是一款免费的在线游戏，属于拼图和拼图类游�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 打斗, 有趣, HTML5, 拼图, 儿童, 手机, 技巧
+- 标签: 混战, 有趣, HTML5, 拼图, 儿童, 移动设备, 技巧

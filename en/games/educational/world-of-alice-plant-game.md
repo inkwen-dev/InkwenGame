@@ -19,6 +19,6 @@ World of Alice - Plant Game is an educational game developed for children with t
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Cartoon, Cute, Educational, Farm, free games for your site, free html5 games for your website, HTML5, html5 games for your site, Kids, Logic, Plant, School, World of Alice
+- Tags: Best Games, Cartoon, Cute, educational, Farm, free games for your site, free html5 games for your website, HTML5, html5 games for your site, Kids, Logic, Plant, School, World of Alice

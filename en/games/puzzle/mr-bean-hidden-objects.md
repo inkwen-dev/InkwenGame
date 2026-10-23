@@ -19,6 +19,6 @@ Today in this game your task is to help the funny Mr. Bean to find the hidden ob
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Best, Best Games, Cartoon, Fun, Funny, Hidden, iPhone, Kids, Mobile

@@ -21,4 +21,4 @@ Brik Brok is an enjoyable puzzle game where you are a paddle Destroy all the blo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arkanoid, Ball, Block, Bounce, Casual, HTML5, Hypercasual, Pixel, Puzzle
+- Tags: 1 Player, 2D, Arkanoid, Ball, block, Bounce, Casual, HTML5, Hypercasual, pixel, Puzzle

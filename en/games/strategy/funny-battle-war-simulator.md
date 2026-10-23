@@ -21,4 +21,4 @@ Control a huge army. Take command over infantry and archers. Send Cyclops and Sp
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Army, Battle, Battlegrounds, Bomb, Boy, Casual, Crazy, Defense, endless, Fantasy, Fight, Fighting, Fun, Funny, Game, HTML5, Kill, Killing, Magic, Monster, Physics, Red, Simulation, Simulator, Skills, Superhero, Tower Defense, Unity3D, War, weapons, WebGL, Zombie
+- Tags: 1 Player, 3D, 3D Games, Action, Army, battle, Battlegrounds, Bomb, Boy, Casual, crazy, Defense, endless, Fantasy, Fight, fighting, Fun, Funny, Game, HTML5, Kill, Killing, Magic, monster, Physics, Red, Simulation, Simulator, Skills, Superhero, Tower Defense, Unity3D, War, weapons, WebGL, Zombie

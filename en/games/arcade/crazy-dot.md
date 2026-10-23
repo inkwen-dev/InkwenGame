@@ -19,6 +19,6 @@ Crazy Dot is a simple endless 2D arcade game that anyone can enjoy! Drag on the 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade

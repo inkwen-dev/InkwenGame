@@ -21,4 +21,4 @@ Tap on PLAY GAME to play this game.it's very simple but too hard all what you ha
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Hypercasual, jump, Jumping, run, running, Space
+- Tags: Action, Hypercasual, jump, jumping, run, running, Space

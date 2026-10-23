@@ -19,6 +19,6 @@ The player takes on the role of a secret agent for an unspecified organization o
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 3D Games, Brain, Casual, html games for your website, HTML5, Physics, realistic, Simulation, Timing

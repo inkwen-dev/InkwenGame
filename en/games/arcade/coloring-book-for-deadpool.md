@@ -19,6 +19,6 @@ Are you into Deadpool ? Deadpool Coloring Book: A Stunning Coloring Book Includi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Cartoon, Color, Coloring, Draw, Drawing, Game, Kids, New, Online, Puzzle
+- Tags: Arcade, Best, Cartoon, Color, Coloring, Draw, drawing, Game, Kids, New, Online, Puzzle

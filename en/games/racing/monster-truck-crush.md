@@ -21,4 +21,4 @@ Monster Truck Crush is a skillful balanced monster truck racing arcade game. Wit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Truck
+- Tags: Car, truck

@@ -21,4 +21,4 @@ Welcome to the world of Axolotl Minecraft Coloring Pages. Our game is perfect fo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Color, Coloring, Drawing, Fun, Girls, HTML5, Kids, Mobile, Puzzle
+- Tags: Boys, Color, Coloring, drawing, Fun, Girls, HTML5, Kids, Mobile, Puzzle

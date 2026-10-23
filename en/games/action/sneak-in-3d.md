@@ -21,4 +21,4 @@ Come and test yourself in this awesome adventurous action game where you have to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Adventure, Arcade, Fight, Fighting
+- Tags: 1 Player, 3D, Action, Adventure, Arcade, Fight, fighting

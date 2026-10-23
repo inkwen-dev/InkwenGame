@@ -19,6 +19,6 @@ Test your memory in Halloween Simon, where the spooky season comes to life! Watc
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Family, Halloween, HTML, mapi games, Memory, Mobile, Monster
+- Tags: Brain, Family, Halloween, HTML, mapi games, memory, Mobile, monster

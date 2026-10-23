@@ -19,6 +19,6 @@ explore adorable Animal Puzzles that help to develop our kid's memory, logical t
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Animal, Board, Card, Click, Design, Family, Girl, Matching, Memory, Puzzle, Skateboard
+- Tags: 1 Player, 2D, Animal, Board, card, Click, Design, Family, Girl, Matching, memory, Puzzle, skateboard

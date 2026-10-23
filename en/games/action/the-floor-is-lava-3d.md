@@ -21,4 +21,4 @@ We are happy to announce you clone of famous hyper casual game - The Floor is La
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boys, endless, Fun, Funny, Girls, HTML5, jump, Jumping, Kids, Mobile, run, running
+- Tags: 3D, 3D Games, Boys, endless, Fun, Funny, Girls, HTML5, jump, jumping, Kids, Mobile, run, running

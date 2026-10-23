@@ -19,6 +19,6 @@ Horik Viking is a super fun and challenging 2D side-scroller game in the same st
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Collecting, Dragon, Fight, Fighting, Fun, HTML5, Mobile, Platform
+- Tags: 1 Player, Collecting, Dragon, Fight, fighting, Fun, HTML5, Mobile, Platform

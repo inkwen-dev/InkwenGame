@@ -19,6 +19,6 @@ If you have not play any career oriented game then here is a great game for you.
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Car, HTML5, Simulator, WebGL

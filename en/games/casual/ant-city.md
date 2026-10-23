@@ -19,6 +19,6 @@ If you want to play with a magnifying glass, now’s your chance. Your only choi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, city, Crazy, Fun, Girls
+- Tags: Boys, city, crazy, Fun, Girls

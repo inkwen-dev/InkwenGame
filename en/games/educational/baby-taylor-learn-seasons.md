@@ -21,4 +21,4 @@ It's season learning time for Baby Taylor! Yes, today Taylor will learn about fo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: Baby, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

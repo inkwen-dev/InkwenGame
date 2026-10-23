@@ -21,4 +21,4 @@ Blast off with Jetpack Race ArenaRush! Fly bullet-powered jetpacks, ride crazy v
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Action, Arcade, Arena, endless, fly, free games for your website, Game, jetpack, Obstacle, run, Skill, Stickman
+- Tags: 2026 games, Action, Arcade, Arena, endless, fly, free games for your website, Game, jetpack, Obstacle, run, Skill, stickman

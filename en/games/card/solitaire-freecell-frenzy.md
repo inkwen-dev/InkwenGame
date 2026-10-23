@@ -21,4 +21,4 @@ Freecell Frenzy every round gets trickier! Move all cards to the four foundation
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Card, Casual, Classic, Puzzle, Solitaire, Strategy
+- Tags: Best Games, card, Casual, Classic, Puzzle, solitaire, strategy

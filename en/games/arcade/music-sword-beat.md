@@ -21,4 +21,4 @@ Step into the world of Music Sword Beat, the ultimate 3D rhythm action game! Pla
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Action, Arcade, Best Games, Casino, Casual, Music, Rhythm, Sword, Timing
+- Tags: 2026 games, Action, Arcade, Best Games, Casino, Casual, music, Rhythm, sword, Timing

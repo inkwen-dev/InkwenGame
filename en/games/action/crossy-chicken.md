@@ -19,6 +19,6 @@ Chicken Cross is an arcade game created by SquareLemurs with the gameplay simila
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Animal, Arcade, Avoid, Best, Block, Cartoon, Chicken, Cute, endless, Fun, Funny, Highscore, running
+- Tags: 1 Player, 3D, 3D Games, Animal, Arcade, Avoid, Best, block, Cartoon, Chicken, Cute, endless, Fun, Funny, Highscore, running

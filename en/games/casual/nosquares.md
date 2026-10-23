@@ -15,6 +15,6 @@ Dive into NoSquares, a thrilling arcade adventure where your agility is your gre
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Ball

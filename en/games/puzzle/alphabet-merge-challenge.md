@@ -19,6 +19,6 @@ Do you like Alphabet Merge challlenge? If you like them, you must not miss this 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, Best Games, Brain, Casual, Educational, Fun, Letters, Puzzle, Word
+- Tags: 2025 games, Best Games, Brain, Casual, educational, Fun, Letters, Puzzle, word

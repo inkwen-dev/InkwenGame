@@ -21,4 +21,4 @@ In Hop Masters, you must tap left or right to reach the next platform before it 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, endless, free html5 games for your website, Jumping, kiz10, survival
+- Tags: 1 Player, endless, free html5 games for your website, jumping, kiz10, survival

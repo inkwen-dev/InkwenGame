@@ -19,6 +19,6 @@ Compete with friends one-on-one online. Play for free against computer. Mineswee
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2048, 2D, Brain, Educational, Logic, Logical, Math, Memory, Mobile, Multiplayer, Puzzle, PvP, Turn Based
+- Tags: 2 Player, 2048, 2D, Brain, educational, Logic, Logical, math, memory, Mobile, Multiplayer, Puzzle, PvP, Turn Based

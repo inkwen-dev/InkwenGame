@@ -19,6 +19,6 @@ tap and hold then release to jump the jelly. Make points and collect stars to un
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bounce, Casual

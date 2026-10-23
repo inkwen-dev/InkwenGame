@@ -21,4 +21,4 @@ One character with different weapons on two maps. 10 levels against soldiers and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Battle, Fun, Funny, Unity3D, Zombie
+- Tags: 1 Player, 3D, 3D Games, Action, battle, Fun, Funny, Unity3D, Zombie

@@ -21,4 +21,4 @@ Draw the lines and make the rider reach the flag. Exciting puzzle for kids. Try 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Draw, Drawing, Puzzle
+- Tags: 1 Player, Draw, drawing, Puzzle

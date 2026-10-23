@@ -19,6 +19,6 @@ Sprunki Satellite Catcher: Soar Through Space And Catch Satellites. Fun and free
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Collecting, Fun, Hypercasual, jump, Kids, Physics, run, Skill, Sprunki

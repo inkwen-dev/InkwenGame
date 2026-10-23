@@ -19,6 +19,6 @@ Meet an amazing arcade game. You have to overcome colored obstacles. They can on
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Ball, Casual, Color, Coloring, HTML, HTML5, Hypercasual

@@ -19,6 +19,6 @@ Taylor is a little girl who likes food. She likes spicy food best. But spicy foo
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cooking, Cute, Doctor, Educational, Girl, Girls, Kids, Makeover, Surgery
+- Tags: Baby, Cooking, Cute, Doctor, educational, Girl, Girls, Kids, Makeover, surgery

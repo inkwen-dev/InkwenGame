@@ -21,4 +21,4 @@ WASD - 驾驶 B - 氮气
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车, 竞速, 特技, Unity3D, WebGL
+- 标签: 汽车, 比赛, 特技, Unity3D, WebGL

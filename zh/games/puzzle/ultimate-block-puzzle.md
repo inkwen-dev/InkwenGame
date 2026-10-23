@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 安卓, 最佳, 最佳游戏, 方块, 大脑, 有趣, iPhone, 逻辑, 移动, puzzleblock, 技巧, 技巧
+- 标签: 安卓, 最佳, 最佳游戏, 方块, 大脑, 有趣, iPhone, 逻辑, 移动设备, 拼图块, 技巧, 技能

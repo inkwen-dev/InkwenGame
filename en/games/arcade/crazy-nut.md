@@ -19,6 +19,6 @@ Play Crazy Nut flash game. Crazy Nut is a Arcade game to play free online. Crazy
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Boys, Casual, Ever After High, Fun, Girls, Highscore, Hypercasual, Jumping
+- Tags: Adventure, Arcade, Boys, Casual, Ever After High, Fun, Girls, Highscore, Hypercasual, jumping

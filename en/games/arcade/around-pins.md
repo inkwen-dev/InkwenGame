@@ -19,6 +19,6 @@ Around Pins is a 2D game where you try to collide pins of the same color. In thi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Avoid, Clicker, Hypercasual

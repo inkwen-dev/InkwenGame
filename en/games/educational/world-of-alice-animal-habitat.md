@@ -19,6 +19,6 @@ World of Alice - Animal Habitat World of Alice - Animal Habitat is an educationa
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Best Games, Cartoon, Educational, free html5 games for your website, html games for your website, HTML5, html5 games, html5 games for your site, Kids, Quiz, School, World
+- Tags: Animal, Best Games, Cartoon, educational, free html5 games for your website, html games for your website, HTML5, html5 games, html5 games for your site, Kids, Quiz, School, World

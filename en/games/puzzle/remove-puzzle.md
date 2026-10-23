@@ -19,6 +19,6 @@ Remove Puzzle is a very unique online puzzle game designed for kids. You can pla
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Brain, Fun, HTML5, Online, Puzzle

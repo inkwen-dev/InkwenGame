@@ -21,4 +21,4 @@ Eggle Shooter Mobile 是一款经典泡泡射击游戏，拥有所有经典特�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 泡泡, 泡泡射击, 三消, 匹配, 移动
+- 标签: 泡泡, 泡泡射击, 三消, 匹配, 移动设备

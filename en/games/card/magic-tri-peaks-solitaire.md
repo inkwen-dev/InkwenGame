@@ -35,4 +35,4 @@ Features
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cards, Puzzle, Solitaire
+- Tags: cards, Puzzle, solitaire

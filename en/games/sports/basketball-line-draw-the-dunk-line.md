@@ -21,4 +21,4 @@ Draw a line and make the falling ball score the basket! Time your drawings prope
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Boy, Boys, Draw, Fun, H5, HTML5, Kid, Kids, Sport, Sports
+- Tags: basketball, Boy, Boys, Draw, Fun, H5, HTML5, Kid, Kids, Sport, sports

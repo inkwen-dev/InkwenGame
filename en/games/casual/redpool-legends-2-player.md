@@ -15,6 +15,6 @@ Guide vibrant siblings through a cooperative adventure in RedPool Legends - 2 Pl
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: two-player

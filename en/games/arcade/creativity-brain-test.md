@@ -19,6 +19,6 @@ Brain Challenge is an addicting free tough puzzle game with a series of challeng
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Arcade, Brain, HTML, HTML5, Mobile, Unity3D

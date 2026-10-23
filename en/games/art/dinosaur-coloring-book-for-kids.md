@@ -15,6 +15,6 @@ Dive into the vibrant world of dinosaurs with this delightful coloring book desi
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Coloring

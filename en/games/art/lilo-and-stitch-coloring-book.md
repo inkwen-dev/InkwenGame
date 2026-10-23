@@ -21,4 +21,4 @@ Lilo and Stitch Coloring Book is cool coloring game for kids and adults. Play Li
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Cartoon, Color, Coloring, Draw, Drawing, Girl, Girls
+- Tags: Boy, Boys, Cartoon, Color, Coloring, Draw, drawing, Girl, Girls

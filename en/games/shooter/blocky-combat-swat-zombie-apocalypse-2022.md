@@ -21,4 +21,4 @@ The finest games for the soul equip you with various tools. You and your army of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, Best, Crazy, Multiplayer, Shooting, Unity3D, War, WebGL, Zombie
+- Tags: .io Games, 2 Player Games, 3D Games, Best, crazy, Multiplayer, Shooting, Unity3D, War, WebGL, Zombie

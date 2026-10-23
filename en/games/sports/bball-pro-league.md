@@ -21,4 +21,4 @@ Better than the real thing. Play a basketball season then playoffs to win the ch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Basketball, Sports
+- Tags: 2 Player, basketball, sports

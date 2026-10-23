@@ -19,6 +19,6 @@ Dive into chaos with Italian Brainrot Merge! From Tung Tung Sahur to Tralalero T
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Brainrot, Brainrot Italian, Brainrot sahuuur, Fun, Funny, Italian Brainrot, Puzzle, Tung Tung, Tung Tung Tung Sahur

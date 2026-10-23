@@ -21,4 +21,4 @@ Christmas is coming! Let us collect gifts for the holiday! But there are stoping
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Boys, Christmas, Collecting, Game, Games, H5, Holiday, HTML, HTML5, Kid, Kids, Obstacle, run, running, Skills, Sport, Sports
+- Tags: Avoid, Boys, Christmas, Collecting, Game, Games, H5, Holiday, HTML, HTML5, Kid, Kids, Obstacle, run, running, Skills, Sport, sports

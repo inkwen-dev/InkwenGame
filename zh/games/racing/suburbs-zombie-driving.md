@@ -21,4 +21,4 @@ WASD - 驾驶 空格键 - 刹车 C - 切换摄像机模式
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 街机, 汽车, 赛车, 驾驶, 竞速, 赛车, 不死生物, Unity3D, WebGL, 僵尸
+- 标签: 3D, 街机, 汽车, 汽车, 驾驶, 比赛, 竞速, 僵尸, Unity3D, WebGL, 僵尸

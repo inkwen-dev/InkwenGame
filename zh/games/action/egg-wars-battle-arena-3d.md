@@ -24,4 +24,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 3D 游戏, 冒险, 街机, 方块, mineblock, 我的世界
+- 标签: 单人, 3D, 3D游戏, 冒险, 街机, 方块, mineblock, 我的世界

@@ -21,4 +21,4 @@ Help the candy monster Raffi eat all the candies! He absolutely loves them &ndas
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Baby, Baby Games, Candy, Cute, Monster
+- Tags: 1 Player, 2D, Arcade, Baby, Baby Games, Candy, Cute, monster

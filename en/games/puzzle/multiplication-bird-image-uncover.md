@@ -21,4 +21,4 @@ In this game, a bird image is hidden beneath multiplication expression tiles. Pl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bird, Educational, free games for your website, Jigsaw, Math, Puzzle, School
+- Tags: Bird, educational, free games for your website, Jigsaw, math, Puzzle, School

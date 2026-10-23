@@ -39,4 +39,4 @@ AOD - Art Of Defense is a dynamic tower defense game with elements of strategy a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, cool-games, Mobile, popular, Strategy, Tower Defense
+- Tags: Boys, cool-games, Mobile, popular, strategy, Tower Defense

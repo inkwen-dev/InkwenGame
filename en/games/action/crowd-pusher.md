@@ -21,4 +21,4 @@ Get ready for a new adventure with the Crowd Pusher game. Collect the same color
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Battle, Escape, Hot, Hypercasual, Island, Math, Mobile, run, running, WebGL
+- Tags: 3D, battle, Escape, Hot, Hypercasual, Island, math, Mobile, run, running, WebGL

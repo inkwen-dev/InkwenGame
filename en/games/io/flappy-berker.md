@@ -19,6 +19,6 @@ Every 15 Bananas you get 1 speed level up Can You Reach to the Level 10!
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, 2D, Arcade, Casual, fly, Platform

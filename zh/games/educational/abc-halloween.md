@@ -21,4 +21,4 @@ ABC 万圣节是一款专为2至6岁儿童设计的趣味教育游戏，将字�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 婴儿游戏, 教育, HTML, html5游戏, NapTech Games
+- 标签: 婴儿游戏, 教育, HTML, HTML5游戏, NapTech 游戏

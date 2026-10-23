@@ -21,4 +21,4 @@ Hit the ball with head, get the points and win the match in 90 seconds!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Sport, Sports
+- Tags: Adventure, Sport, sports

@@ -19,6 +19,6 @@ It's possible now to play Sir Bottomtight game in your web browser for free at s
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Avoid, Boys, Fun, Girls, HTML5, jump, Jumping, Kids, Monster, running, Shoot, Shooter, Shooting
+- Tags: 1 Player, Adventure, Avoid, Boys, Fun, Girls, HTML5, jump, jumping, Kids, monster, running, Shoot, Shooter, Shooting

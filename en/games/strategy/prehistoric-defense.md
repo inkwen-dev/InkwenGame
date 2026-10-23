@@ -19,6 +19,6 @@ Prehistoric Defense is a funny game which takes you back to prehistoric times wh
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Defense, Kids, Strategy, Tower Defense
+- Tags: Action, Defense, Kids, strategy, Tower Defense

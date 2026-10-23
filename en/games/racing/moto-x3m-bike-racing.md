@@ -21,4 +21,4 @@ Moto X3M is an online bike racing game. The goal is to race your motorbike throu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Bike, Boy, Boys, Fun, H5, HTML5, Kid, Kids, Race, Racing
+- Tags: Adventure, bike, Boy, Boys, Fun, H5, HTML5, Kid, Kids, Race, Racing

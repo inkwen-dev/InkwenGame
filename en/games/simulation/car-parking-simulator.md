@@ -21,4 +21,4 @@ Car Parking Simulator is a unique blend of driving games and puzzle challenges. 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Car, Driving, keyboard, Parking
+- Tags: Car, Driving, keyboard, parking

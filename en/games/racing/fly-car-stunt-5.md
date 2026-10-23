@@ -21,4 +21,4 @@ The Fly Car Stunt 5 game has come with great updates. New futuristic Space City 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 3D Games, Aircraft, Car, Flight, Space, Spaceship
+- Tags: 1 Player, 2 Player, 2 Player Games, 3D Games, Aircraft, Car, flight, Space, Spaceship

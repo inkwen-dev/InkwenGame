@@ -19,6 +19,6 @@ Are you into Littlest Pet Shop ? Littlest Pet Shop Coloring Book: A Stunning Col
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Color, Coloring, Draw, Drawing, Game, Kids, Online, Puzzle, Skills
+- Tags: Cartoon, Color, Coloring, Draw, drawing, Game, Kids, Online, Puzzle, Skills

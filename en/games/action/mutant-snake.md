@@ -19,6 +19,6 @@ This is an interesting game with the theme of many people fighting wildly. At th
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Boy, Boys, Casual, Click, Clicker, Collecting, Collection, Fun, Funny, Game, Games, Girl, Girls, Google, H5, HTML5, Hypercasual, Interactive, Kid, Kids, Mobile, Play, Snake
+- Tags: 3D Games, Action, Boy, Boys, Casual, Click, Clicker, Collecting, Collection, Fun, Funny, Game, Games, Girl, Girls, Google, H5, HTML5, Hypercasual, Interactive, Kid, Kids, Mobile, Play, snake

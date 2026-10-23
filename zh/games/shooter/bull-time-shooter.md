@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 动物, 子弹, fps, 射击类, 狙击
+- 标签: 3D, 动物, 子弹, fps, 射击类, 狙击手

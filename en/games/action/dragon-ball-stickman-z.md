@@ -21,4 +21,4 @@ This fighting game will give you a chance to become one of Dragon Ball Z heroes 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Arcade, Battle, Battlegrounds, Brawl, Clash, Defense, Dragon Ball Z, Fighting, Game, Games, Monster, Stickman, Street Fighting
+- Tags: 3D, 3D Games, Action, Arcade, battle, Battlegrounds, Brawl, Clash, Defense, Dragon Ball Z, fighting, Game, Games, monster, stickman, Street Fighting

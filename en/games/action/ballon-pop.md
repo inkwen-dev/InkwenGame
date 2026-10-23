@@ -19,6 +19,6 @@ Balloon Pop is an Arcade Game , where you must dodge Cactus to avoid exploding, 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Ballon, Fun, Game, Games, HTML, HTML5, Kid, Kids

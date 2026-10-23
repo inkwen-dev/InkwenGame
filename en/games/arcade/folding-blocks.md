@@ -19,6 +19,6 @@ The exciting challenge of Folding Blocks will have you instantly mesmerized! Unf
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Block, Collecting, Collection, Color, Coloring, Hypercasual, Unity3D
+- Tags: 3D, 3D Games, Arcade, block, Collecting, Collection, Color, Coloring, Hypercasual, Unity3D

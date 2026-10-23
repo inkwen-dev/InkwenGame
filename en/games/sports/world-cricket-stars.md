@@ -19,6 +19,6 @@ Welcome to the Next Generation in Mobile Cricket Gaming! Every cricket lover can
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Ball, Batman, Games, HTML5, Kids

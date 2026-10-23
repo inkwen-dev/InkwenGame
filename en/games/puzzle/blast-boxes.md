@@ -21,4 +21,4 @@ Hello Welcome to Blast Boxes, a new puzzle match3 game. Tap on 2 or more similar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Casual, Color, Match 3, Match3, Matching, Tetris
+- Tags: block, Casual, Color, Match 3, Match3, Matching, tetris

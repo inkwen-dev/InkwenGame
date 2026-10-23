@@ -19,6 +19,6 @@ We are going to get married, you can dress up the beautiful bride, give her good
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Dress Up, Hypercasual

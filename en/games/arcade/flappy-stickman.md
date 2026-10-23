@@ -21,4 +21,4 @@ Flappy Stickman is a thrilling arcade challenge where you guide a stickman throu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: fly, HTML5, Stickman
+- Tags: fly, HTML5, stickman

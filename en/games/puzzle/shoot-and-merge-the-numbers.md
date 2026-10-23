@@ -19,6 +19,6 @@ Shoot and merge the numbers is a very fun game for all. Just tap on the column y
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Brain, Casual, Educational, Logic, Number
+- Tags: Board, Brain, Casual, educational, Logic, Number

@@ -19,6 +19,6 @@ Try to smash the more zombies you can! Enjoy it!
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Casual, Clicker, endless, HTML, HTML5, Mobile, Monster, weapons, Zombie
+- Tags: Boy, Boys, Casual, Clicker, endless, HTML, HTML5, Mobile, monster, weapons, Zombie

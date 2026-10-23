@@ -19,6 +19,6 @@ Get 12 is casual games that you can play, in this game you have to get all numbe
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Hypercasual, Matching, Number

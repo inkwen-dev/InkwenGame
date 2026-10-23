@@ -19,6 +19,6 @@ Left and Right Arrow - Turn Left Turn Right Up Arrow - Acceleration Down Arrow -
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, HTML5, Race, Racing, Sports
+- Tags: Car, HTML5, Race, Racing, sports

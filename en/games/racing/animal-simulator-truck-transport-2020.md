@@ -21,4 +21,4 @@ For heavy vehicle (truck, cargo, bus) driving games lover we are offering you an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Driving, Sim, Simulator, Truck, WebGL
+- Tags: Animal, Driving, Sim, Simulator, truck, WebGL

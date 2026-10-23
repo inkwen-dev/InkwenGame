@@ -19,6 +19,6 @@ Cargo Truck Simulator 2025 puts you in the driver&rsquo;s seat of a powerful tru
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Mentolatux, Simulator, Truck, trucks, unity, WebGL
+- Tags: Driving, Mentolatux, Simulator, truck, trucks, unity, WebGL

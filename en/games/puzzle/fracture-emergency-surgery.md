@@ -19,6 +19,6 @@ Oh god! Sofia accidentally fell off the balcony! Her leg is broken! She needs im
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Dress Up, Girl, Girls, Kids, Makeover, Simulation, Surgery
+- Tags: Doctor, Dress Up, Girl, Girls, Kids, Makeover, Simulation, surgery

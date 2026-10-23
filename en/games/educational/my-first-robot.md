@@ -21,4 +21,4 @@ This is an educational game to assemble robots for kids. All the robots in the l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kids, Machine
+- Tags: educational, Kids, Machine

@@ -19,6 +19,6 @@ Slip is a puzzle game where you need to control the ball which moves on the lane
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Ball, Collecting, HTML5, Kids

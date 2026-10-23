@@ -39,4 +39,4 @@ FOS: Tactics of Heroes is a turn-based tactical strategy game where you command 
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Adventure, pve, Strategy, video
+- Tags: 3D, Adventure, pve, strategy, video

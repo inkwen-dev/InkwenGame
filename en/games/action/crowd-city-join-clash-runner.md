@@ -19,6 +19,6 @@ You will start the battle alone but in the end, you can join and bring a great c
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, city, HTML, HTML5, run, running

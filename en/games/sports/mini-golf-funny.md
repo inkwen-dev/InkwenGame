@@ -21,4 +21,4 @@ Are you ready for mini golf excitement? besides, it's funny. In mini golf funny,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Android, Arcade, Girls, Golf, Mobile
+- Tags: 1 Player, 2D, Adventure, Android, Arcade, Girls, golf, Mobile

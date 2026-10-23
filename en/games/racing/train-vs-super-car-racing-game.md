@@ -19,6 +19,6 @@ Train Vs Super Car Racing game having a 3D racing environment as well as smooth 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML, HTML5, Race, Racing, Simulation, Simulator

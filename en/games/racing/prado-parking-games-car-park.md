@@ -21,4 +21,4 @@ Keep your finger to the floor and be ready for absolutely anything in this ridic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D Games, 8 Ball Pool, Action, Adventure, Boys, Car, Cars, drift, Games, Simulator, Spiderman, Supercars, Truck
+- Tags: .io Games, 3D Games, 8 Ball Pool, Action, Adventure, Boys, Car, Cars, drift, Games, Simulator, Spiderman, Supercars, truck

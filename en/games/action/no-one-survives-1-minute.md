@@ -19,6 +19,6 @@ No One Survives 1 minute is a fast-paced endless survival runner. Dodge incoming
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, endless, HTML5, Mobile, running, Skill, survival

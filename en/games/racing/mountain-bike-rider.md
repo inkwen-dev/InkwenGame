@@ -21,4 +21,4 @@ Features • Amazing graphics • 9 levels • Score system
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, WebGL
+- Tags: bike, WebGL

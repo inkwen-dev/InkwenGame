@@ -23,4 +23,4 @@ Whether you're a casual gamer or a puzzle enthusiast, Snake Out offers a captiva
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Logic, Mobile, popular, Puzzle, Snake
+- Tags: Logic, Mobile, popular, Puzzle, snake

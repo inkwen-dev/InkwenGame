@@ -19,6 +19,6 @@ Welcome to Pin Gems Rescue in this game you will need to Pull the Pin and help t
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Gold, Hot, Puzzle, Strategy, Zombie
+- Tags: Best, Gold, Hot, Puzzle, strategy, Zombie

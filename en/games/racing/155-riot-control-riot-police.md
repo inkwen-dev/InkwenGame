@@ -21,4 +21,4 @@ The Riot Police were alerted by intelligence! Be ready! The struggle begins! The
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Car, city, Fire, Interactive Fiction, Police, Simulation, Simulator, Truck
+- Tags: 3D, Action, Car, city, Fire, Interactive Fiction, police, Simulation, Simulator, truck

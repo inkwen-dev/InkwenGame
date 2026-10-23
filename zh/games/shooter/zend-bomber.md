@@ -21,4 +21,4 @@ Zend Bomber 是一款令人兴奋且节奏快速的街机游戏，考验你的�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人游戏, 2D, 圣诞老人, Zuma
+- 标签: 双人游戏, 2D, 圣诞老人, 祖玛

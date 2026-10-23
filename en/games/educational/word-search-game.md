@@ -21,4 +21,4 @@ Word Search Game developed for fun and work in child development. Find the words
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kids, Puzzle
+- Tags: educational, Kids, Puzzle

@@ -21,4 +21,4 @@ Transport vital supplies across rugged terrain, navigating through enemy territo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Driving, Mentolatux, offroad, transport, Truck, trucks, Unity3D, vehicle, WebGL
+- Tags: Army, Driving, Mentolatux, offroad, transport, truck, trucks, Unity3D, vehicle, WebGL

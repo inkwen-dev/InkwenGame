@@ -15,6 +15,6 @@ In Car Garage Tycoon, embrace the challenges of a budding mechanic. Manage and e
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: money

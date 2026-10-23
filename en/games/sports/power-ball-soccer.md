@@ -34,4 +34,4 @@ Top down soccer game with special moves, 2 game modes, 16 characters, 32 levels.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Ball, Soccer, Sports
+- Tags: Ball, Soccer, sports

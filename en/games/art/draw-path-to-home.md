@@ -33,4 +33,4 @@ Learn to draw lines creatively, develop logic and develop your brain!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, crazy-games, Drawing, Logic, Puzzle
+- Tags: Brain, crazy-games, drawing, Logic, Puzzle

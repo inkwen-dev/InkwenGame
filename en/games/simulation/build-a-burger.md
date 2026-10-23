@@ -19,6 +19,6 @@ Get ready for burger madness in the game Build a Burger! Run forward, collect in
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: amazing, Casual, Cooking, Game, HTML5, Hypercasual, Levels, Mobile, New, running

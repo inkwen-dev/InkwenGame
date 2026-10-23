@@ -49,4 +49,4 @@ Game Seasons 🍂
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, idle, Management
+- Tags: 3D, idle, management

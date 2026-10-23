@@ -21,4 +21,4 @@ Welcome to the garage with numerous vehicles. Have you ever cleaned and repaired
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Car, Cleaning, Decorate, Educational, Girl, Girls, Kids, Puzzle, Simulation
+- Tags: Boy, Boys, Car, Cleaning, Decorate, educational, Girl, Girls, Kids, Puzzle, Simulation

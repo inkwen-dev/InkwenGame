@@ -21,4 +21,4 @@ The game is easy to play for all family and kids it's simple, fun and incredibly
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Boys, Flight, fly, Race, Racing, Super, Superhero
+- Tags: Arcade, Boy, Boys, flight, fly, Race, Racing, Super, Superhero

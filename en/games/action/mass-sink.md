@@ -21,4 +21,4 @@ Will you rush to the end or will you prefer to clean everything up on your way? 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Avoid, Kill, Stickman
+- Tags: 1 Player, 3D Games, Avoid, Kill, stickman

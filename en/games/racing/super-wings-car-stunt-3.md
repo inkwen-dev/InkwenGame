@@ -21,4 +21,4 @@ Drive off Hot Super Wings Car Stunt game if you are a crazy driver and want to p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D, 3D Games, Car, Cars, Racing, Sport, Sports
+- Tags: .io Games, 1 Player, 3D, 3D Games, Car, Cars, Racing, Sport, sports

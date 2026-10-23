@@ -21,4 +21,4 @@ Draw The Weapon is a free online action and drawing game for boys played on Puzz
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Boy, Brain, Drawing, Fun, HTML5, Kids, Online, Puzzle, weapons
+- Tags: 3D, Android, Boy, Brain, drawing, Fun, HTML5, Kids, Online, Puzzle, weapons

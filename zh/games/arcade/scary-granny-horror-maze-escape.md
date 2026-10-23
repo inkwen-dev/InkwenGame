@@ -28,4 +28,4 @@ W A S D 或 方向键 移动 鼠标 观察四周 Shift 快跑
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2026游戏, 惊人, 休闲, 逃脱, 鬼魂, 老奶奶, 恐怖, 医院, Unity3D
+- 标签: 单人, 2026 游戏, 惊人, 休闲, 逃脱, 幽灵, granny, 恐怖, 医院, Unity3D

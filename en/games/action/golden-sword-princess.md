@@ -21,4 +21,4 @@ Golden Sword Princess is an adventure game with multiple levels, great graphics 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Girl, Platform, Princess, Sword
+- Tags: 1 Player, 2D, Adventure, Girl, Platform, Princess, sword

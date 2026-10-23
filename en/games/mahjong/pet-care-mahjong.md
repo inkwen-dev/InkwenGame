@@ -19,6 +19,6 @@ Simplified classic Mahjong game with Pet Care theme. You can eliminate pair of s
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, HTML, HTML5, Kids, Mahjong, Matching, Mobile, Puzzle, Skill
+- Tags: Board, HTML, HTML5, Kids, mahjong, Matching, Mobile, Puzzle, Skill

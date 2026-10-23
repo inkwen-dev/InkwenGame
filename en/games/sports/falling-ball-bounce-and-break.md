@@ -21,4 +21,4 @@ Welcome to the exciting world of jumping! In this game, you control a ball that 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Arcade, Ball, Basketball, Block, Bounce, Casual, Game, HTML5, Jumping, Kids, Levels, Unity3D
+- Tags: 1 Player, 3D, Arcade, Ball, basketball, block, Bounce, Casual, Game, HTML5, jumping, Kids, Levels, Unity3D

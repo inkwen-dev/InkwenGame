@@ -19,6 +19,6 @@ Physics based puzzle game. Rotate the screen to get the ball to the exit. Don't 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Casual, Physics, Platform

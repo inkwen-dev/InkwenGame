@@ -21,4 +21,4 @@ Color Connect Master Welcome to Color Connect Master, the ultimate puzzle game w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, construction, Hypercasual, Puzzle, Strategy
+- Tags: Color, construction, Hypercasual, Puzzle, strategy

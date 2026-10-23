@@ -21,4 +21,4 @@ Trains.io 3D Fidget is slithering train game in 3d world. Become the grand train
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids, Snake
+- Tags: 3D, 3D Games, Action, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids, snake

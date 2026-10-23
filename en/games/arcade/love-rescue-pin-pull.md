@@ -19,6 +19,6 @@ Hurry up!! As hundreds of addicting Hero Rescue Pin Pull puzzles not to be misse
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Puzzle, Superhero

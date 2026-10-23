@@ -21,4 +21,4 @@ In a snowy land where penguins, polar bears and walruses live side by side, you 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cooking, Restaurant
+- Tags: Cooking, restaurant

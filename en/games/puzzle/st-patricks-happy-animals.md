@@ -19,6 +19,6 @@ Play the newest St Patricks puzzle game called St Patricks Happy Animals. The ga
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Click, Clicker, Fun, Kids, Puzzle

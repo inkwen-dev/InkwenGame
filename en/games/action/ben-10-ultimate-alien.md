@@ -19,6 +19,6 @@ An evil alien attack that descends to dominate the world, then be an object of t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Ben 10, jump, Jumping, run, running
+- Tags: Adventure, Arcade, Ben 10, jump, jumping, run, running

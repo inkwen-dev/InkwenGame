@@ -19,6 +19,6 @@ Construction Trucks Hidden Diggers is a hidden object game. This game has six le
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Hidden, Kids, Logic, Puzzle, Truck
+- Tags: Hidden, Kids, Logic, Puzzle, truck

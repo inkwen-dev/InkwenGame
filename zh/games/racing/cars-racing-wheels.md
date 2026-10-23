@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 汽车, 汽车们, 多人
+- 标签: 3D, 汽车, 汽车, 多人

@@ -21,4 +21,4 @@ Advanced control editors so you can take care of as well as arrange your screen 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Best, Crazy, Multiplayer, Shooting, Unity3D, WebGL
+- Tags: 3D, 3D Games, Action, Best, crazy, Multiplayer, Shooting, Unity3D, WebGL

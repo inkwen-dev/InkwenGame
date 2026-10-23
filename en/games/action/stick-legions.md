@@ -19,6 +19,6 @@ Monsters have attacked your village! You are the only survivor! Are you ready to
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Boy, Fight, HTML5, Kid, Kids, Mobile, Online, Puzzle, Stickman, Strategy, War
+- Tags: battle, Boy, Fight, HTML5, Kid, Kids, Mobile, Online, Puzzle, stickman, strategy, War

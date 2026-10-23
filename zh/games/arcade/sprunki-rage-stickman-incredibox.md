@@ -21,4 +21,4 @@ Sprunki 愤怒 Stickman Incredibox 是一款有趣且上瘾的 beatemup 游戏�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 街机, Sprunki, stickman
+- 标签: 动作, 街机, 斯普朗基, 木偶人

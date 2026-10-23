@@ -21,4 +21,4 @@ The space is in danger and we need you to defend our planet from enemy battleshi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Air, Arcade, Battle, Collecting, endless, Pixel, Shoot, Shooter, Shooting, Side Scrolling, Space, Spaceship
+- Tags: 1 Player, 2D, Action, Air, Arcade, battle, Collecting, endless, pixel, Shoot, Shooter, Shooting, Side Scrolling, Space, Spaceship

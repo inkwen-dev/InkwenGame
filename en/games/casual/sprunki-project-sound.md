@@ -21,4 +21,4 @@ Sprunki Project Sound is a creative music game where players drag sound icons on
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Mentolatux, Music, Sprunki, Unity3D
+- Tags: 2D, Mentolatux, music, Sprunki, Unity3D

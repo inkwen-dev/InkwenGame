@@ -21,4 +21,4 @@ Just dig with your fingers — and guide the ball to the cup. It's easy, yet cha
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Adult, Adventure, Arcade, Arena, Ball, Ballon, Baseball, Basketball, Block, Boys, Coloring, Dragon Ball Z, drift, drifting, Driving, Football, Hypercasual, Memory, Pinball, Pokemon, Side Scrolling, Simulation, Simulator, sky, Spiderman, Superhero
+- Tags: 8 Ball Pool, Adult, Adventure, Arcade, Arena, Ball, Ballon, baseball, basketball, block, Boys, Coloring, Dragon Ball Z, drift, drifting, Driving, Football, Hypercasual, memory, Pinball, Pokemon, Side Scrolling, Simulation, Simulator, sky, Spiderman, Superhero

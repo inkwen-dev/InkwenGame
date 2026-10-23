@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 球, 休闲, 圣诞节, mapi games, 物理, 圣诞老人, 雪, 体育
+- 标签: 街机, 球, 休闲, 圣诞节, mapi games, 物理, 圣诞老人, 雪花, 运动

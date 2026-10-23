@@ -19,6 +19,6 @@ Wood Block Puzzle is a classic and addictive puzzle block game! Block Puzzle is 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Brain, HTML5, Logical, WebGL

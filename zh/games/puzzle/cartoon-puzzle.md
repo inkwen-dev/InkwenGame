@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 休闲, 经典, HTML5, 配对, 益智
+- 标签: 休闲, 经典, HTML5, 匹配, 益智

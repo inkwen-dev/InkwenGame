@@ -19,6 +19,6 @@ This is a game where you have to connect fruits! Compete with friends and collea
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2048, 2D, 3D Games, Android, Ball, Best Games, Brain, Logical, watermelon

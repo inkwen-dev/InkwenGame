@@ -21,4 +21,4 @@ Green Mover is a game with 40 levels in which you have to control the green ball
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Air, Avoid, Ball, Block, Obstacle, Puzzle
+- Tags: 1 Player, Air, Avoid, Ball, block, Obstacle, Puzzle

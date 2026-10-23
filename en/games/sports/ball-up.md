@@ -21,4 +21,4 @@ Click the ball to make it jump. Try to keep it in the air. It changes size and w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Air, Ball, Bounce, Click, HTML5, jump, Jumping, Kids, Skill, Skills, Soccer
+- Tags: 1 Player, 2D, Air, Ball, Bounce, Click, HTML5, jump, jumping, Kids, Skill, Skills, Soccer

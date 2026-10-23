@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 色彩, HTML5, 儿童, 逻辑, 逻辑性, 玩, 益智
+- 标签: 颜色, HTML5, 儿童, 逻辑, 逻辑性, 玩, 益智

@@ -19,6 +19,6 @@ Penguin Love Puzzle is a fun pixel puzzle game. A couple of penguins are forced 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Animal, Avoid, Brain, H5, Love, Mobile, Obstacle, Skill, Strategy
+- Tags: Android, Animal, Avoid, Brain, H5, Love, Mobile, Obstacle, Skill, strategy

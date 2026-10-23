@@ -19,6 +19,6 @@ Kill the Zombie is fun arcade game suitable for all ages. The aim of the game is
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Avoid, Boys, Collecting, HTML5, Hypercasual, Kids, Kill, Mobile, Skill, Zombie

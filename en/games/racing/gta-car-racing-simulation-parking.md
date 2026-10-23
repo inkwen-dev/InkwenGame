@@ -21,4 +21,4 @@ Take complete control of your vehicle, perfect your driving, and prove your plac
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Arcade, Ballon, Car, Cars, Love, Parking, Simulation, Simulator, Supercars, Truck, Unity3D
+- Tags: 3D, 3D Games, Adventure, Arcade, Ballon, Car, Cars, Love, parking, Simulation, Simulator, Supercars, truck, Unity3D

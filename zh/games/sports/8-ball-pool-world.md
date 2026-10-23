@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2 Player Games, 8球台球, 台球
+- 标签: 双人游戏, 8球台球, 台球

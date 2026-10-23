@@ -21,4 +21,4 @@ Stickman 龙战斗是一款动作丰富的游戏，玩家将操控强大的英�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 双人, 2D, 战斗, 格斗, 消防员, HTML5, Mentolatux, 移动, 街头格斗, WebGL
+- 标签: 单人, 双人, 2D, 格斗, 格斗, 消防员, HTML5, Mentolatux, 移动设备, 街头格斗, WebGL

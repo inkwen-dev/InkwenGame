@@ -19,6 +19,6 @@ How long can you last in the Hex Mix? Hex Mix is a fun jewel dropping color matc
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Boys, Brain, Color, Family, HTML, HTML5, Matching, Math, Puzzle, Space
+- Tags: Arcade, Boy, Boys, Brain, Color, Family, HTML, HTML5, Matching, math, Puzzle, Space

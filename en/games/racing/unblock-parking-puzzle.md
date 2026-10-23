@@ -19,6 +19,6 @@ In this fun and colorful game, you challenge your logic skills, critical thinkin
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Car, Casual, Hypercasual, Parking, Puzzle
+- Tags: block, Car, Casual, Hypercasual, parking, Puzzle

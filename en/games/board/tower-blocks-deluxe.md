@@ -21,4 +21,4 @@ Build your tower, Block By Block! Simply drop the Block on top of each other and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Board, Family, Physics, Puzzle
+- Tags: block, Board, Family, Physics, Puzzle

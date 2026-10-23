@@ -21,4 +21,4 @@ Mahjong Pyramids is a quick-fire mahjong puzzle game in which you need to match 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mahjong, Match 3, Matching, Puzzle
+- Tags: mahjong, Match 3, Matching, Puzzle

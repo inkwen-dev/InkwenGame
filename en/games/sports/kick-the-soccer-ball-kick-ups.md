@@ -21,4 +21,4 @@ Kick the soccer ball is an HTML5 game. Don’t let the ball hit the ground and t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Air, Arcade, Arena, Balance, Ball, Basketball, Best, Bounce, Bow, Classic, Click, Clicker, endless, Football, Fun, Funny, Game, Games, Highscore, HTML, HTML5, Hypercasual, Interactive, jump, Jumping, Kid, Kids, Music, Physics, Play, Point And Click, Relaxation, Retro, Rhythm, running, Soccer, Sport, Sports
+- Tags: 1 Player, 2D, Action, Air, Arcade, Arena, Balance, Ball, basketball, Best, Bounce, Bow, Classic, Click, Clicker, endless, Football, Fun, Funny, Game, Games, Highscore, HTML, HTML5, Hypercasual, Interactive, jump, jumping, Kid, Kids, music, Physics, Play, Point And Click, Relaxation, retro, Rhythm, running, Soccer, Sport, sports

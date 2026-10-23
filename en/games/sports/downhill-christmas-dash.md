@@ -21,4 +21,4 @@ The snow is falling and Santa Claus is hitting the slopes! He has strapped on pa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Magic, Sports, surprize
+- Tags: Christmas, Magic, sports, surprize

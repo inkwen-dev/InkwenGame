@@ -21,4 +21,4 @@ Our ball in the game Green Circles has found itself in a very dangerous trap, mo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Fun, Hypercasual, jump, Jumping, Kids, Logic, Skill
+- Tags: Ball, Fun, Hypercasual, jump, jumping, Kids, Logic, Skill

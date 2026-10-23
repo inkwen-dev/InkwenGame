@@ -21,4 +21,4 @@ Online shooting games 3d pixel shooting pixel pistol shooting games online shoot
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Best, Crazy, Fire, Games, Multiplayer, Shooter, Shooting, Unity3D, War, WebGL
+- Tags: 3D Games, Best, crazy, Fire, Games, Multiplayer, Shooter, Shooting, Unity3D, War, WebGL

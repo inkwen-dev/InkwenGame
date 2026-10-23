@@ -21,4 +21,4 @@ Be the best dentist at this Superhero clinic! All our patient is the Superhero, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Cute, Doctor, Fun, Girls, HTML5, Kids, Mobile, Simulation, Super, Superhero, Surgery
+- Tags: Cartoon, Cute, Doctor, Fun, Girls, HTML5, Kids, Mobile, Simulation, Super, Superhero, surgery

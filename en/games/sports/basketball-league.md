@@ -21,4 +21,4 @@ Basketball League is a fast-paced arcade basketball game with one-on-one and two
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 2025 games, 2026 games, 2D, Arcade, Ball, Basketball, Best Games, Multiplayer, Sports
+- Tags: 1 Player, 2 Player, 2 Player Games, 2025 games, 2026 games, 2D, Arcade, Ball, basketball, Best Games, Multiplayer, sports

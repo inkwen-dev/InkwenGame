@@ -21,4 +21,4 @@ Collect as many balls as you can with the pipe. Watch out for the bombs! or you 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Casual, Golf, Hypercasual, Pipe
+- Tags: Ball, Casual, golf, Hypercasual, Pipe

@@ -21,4 +21,4 @@ Youre the man in the Arena!!! Survive the tigers in the old Colosseum in Rome, s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arena, Battle, survival
+- Tags: Animal, Arena, battle, survival

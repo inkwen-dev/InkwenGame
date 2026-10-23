@@ -19,6 +19,6 @@ In the game Find Seven Differences you will find a full search for differences o
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Difference, Fun, Hypercasual, Kids, Mobile, Skill

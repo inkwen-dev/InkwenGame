@@ -19,6 +19,6 @@ Are you bored? Then it's time to do something fun. Play Frog Jump, a free online
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Game, Games, HTML5, Hypercasual, jump, Jumping, Platform
+- Tags: Action, Game, Games, HTML5, Hypercasual, jump, jumping, Platform

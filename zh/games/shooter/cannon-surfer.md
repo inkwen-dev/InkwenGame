@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 街机, 躲避, 球, H5, HTML, HTML5, 超休闲, 发射, 障碍, 平台, 射击, 技巧
+- 标签: 3D, 3D游戏, 街机, 躲避, 球, H5, HTML, HTML5, 超休闲, 上线, 障碍, 平台, 射击, 技巧

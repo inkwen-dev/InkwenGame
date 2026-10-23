@@ -1,0 +1,24 @@
+# 蜘蛛侠对战毒液3D游戏
+
+<a href="https://inkwengame.com/zh/games/spiderman-vs-venom-3d-game" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/spiderman-vs-venom-3d-game/cover.jpg)
+
+这是一款在电影《蜘蛛侠》中的英雄蜘蛛侠与同部电影中的敌人之间的街头战斗游戏，你必须击败众多敌人毒液，才能到达最后一关，与首领进行对决
+
+## 怎么玩
+
+使用键盘和鼠标进行游戏
+
+## 介绍
+
+这是一款在电影《蜘蛛侠》中的英雄蜘蛛侠与同部电影中的敌人之间的街头战斗游戏，你必须击败众多敌人毒液，才能到达最后一关，与首领进行对决
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/action" target="_blank" rel="noopener noreferrer">动作</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 蜘蛛侠

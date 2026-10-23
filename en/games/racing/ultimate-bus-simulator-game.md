@@ -19,6 +19,6 @@ Welcome to the world of Ultimate Bus Simulator Game. Select your favorite bus an
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, bus, Driving, Fun, Parking, Racing
+- Tags: 2026 games, bus, Driving, Fun, parking, Racing

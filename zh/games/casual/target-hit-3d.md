@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 3D游戏, 男孩, 休闲, 游戏, HTML5, 在线
+- 标签: 单人, 3D, 3D游戏, 男孩们, 休闲, 游戏, HTML5, 在线

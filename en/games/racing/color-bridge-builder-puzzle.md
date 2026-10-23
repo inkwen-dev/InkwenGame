@@ -21,4 +21,4 @@ Color Bridge Builder Puzzle is a creative physics-based puzzle game where you co
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Block, Bridge, builder, Car, Color, Coloring, Fun, Funny, Hypercasual, Puzzle, puzzleblock
+- Tags: 1 Player, 2026 games, 2D, block, Bridge, builder, Car, Color, Coloring, Fun, Funny, Hypercasual, Puzzle, puzzleblock

@@ -21,4 +21,4 @@ Enter the enchanting world of Wiz Maze, where magic and strategy combine in an e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2048, 2D, Adventure, Android, Arcade, Best, Best Games, Strategy
+- Tags: 1 Player, 2048, 2D, Adventure, Android, Arcade, Best, Best Games, strategy

@@ -19,6 +19,6 @@ Royal Smash Puzzle Game is a fun and addictive puzzle game where players match, 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, Best Games, Block, Casual, Puzzle
+- Tags: 2026 games, Adventure, Best Games, block, Casual, Puzzle

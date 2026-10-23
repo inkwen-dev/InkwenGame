@@ -21,4 +21,4 @@ PC WASD 移动 猛牛 鼠标 观察 猛牛 E 偷 猛牛 空格键 跳跃 猛牛 
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 单人, 3D, 动作, 动物, 休闲, 收藏, egg, eggames, eggs, 偷窃
+- 标签: .io, .io 游戏, 单人, 3D, 动作, 动物, 休闲, 收藏, 蛋, 蛋游戏, 蛋, 偷

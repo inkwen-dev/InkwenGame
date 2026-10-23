@@ -21,4 +21,4 @@ Critter Mahjong Solitaire is a fun and relaxing game where you match cute animal
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: html5 games, Mahjong, Matching, Mobile, Puzzle, Skill
+- Tags: html5 games, mahjong, Matching, Mobile, Puzzle, Skill

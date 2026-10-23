@@ -19,6 +19,6 @@
 - 分类: <a href="https://inkwengame.com/zh/casual" target="_blank" rel="noopener noreferrer">休闲</a>
 - 画面方向: portrait
 - 可玩设备: desktop, mobile
-- 游戏语言: en
+- 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 男孩, 男孩, 水果, 水果类, 有趣, H5, HTML5, 超休闲, 孩子, 孩子们, 竞速, 跑
+- 标签: 3D, 3D游戏, 男孩, 男孩们, 水果, 水果, 有趣, H5, HTML5, 超休闲, 儿童, 儿童, 比赛, 跑

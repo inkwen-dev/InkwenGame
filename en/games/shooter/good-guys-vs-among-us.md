@@ -21,4 +21,4 @@ Pick up your firearm and bounce directly into this action-packed action adventur
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Best, Crazy, Games, Shoot, Shoot 'Em Up, Shooter, Shooting, Unity3D, WebGL
+- Tags: 3D, 3D Games, Best, crazy, Games, Shoot, Shoot 'Em Up, Shooter, Shooting, Unity3D, WebGL

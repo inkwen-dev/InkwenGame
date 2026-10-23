@@ -17,4 +17,4 @@ Leap across urban skies as you embrace your ninja agility in Rooftop Ninja. Navi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Ninja
+- Tags: ninja

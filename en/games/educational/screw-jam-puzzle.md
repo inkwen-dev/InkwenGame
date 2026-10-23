@@ -27,4 +27,4 @@ Tackle hundreds of unique levels designed to test your logic and strategy. As yo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, Logic, Matching, Mobile, Puzzle
+- Tags: Brain, educational, Logic, Matching, Mobile, Puzzle

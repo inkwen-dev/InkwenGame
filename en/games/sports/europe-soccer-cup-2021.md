@@ -21,4 +21,4 @@ Twenty four best soccer national teams in europe are competing to get the first 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Football, HTML5, Mobile, Soccer, Sport, Sports, World
+- Tags: Best, Football, HTML5, Mobile, Soccer, Sport, sports, World

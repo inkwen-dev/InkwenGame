@@ -19,6 +19,6 @@ Try to escape from drowning in the deserted ocean! Complete all levels. Jump ove
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Adventure, Arcade, Best Games, jump, Jumping, Minecraft, Skill, Skills
+- Tags: 1 Player, 3D, 3D Games, Adventure, Arcade, Best Games, jump, jumping, Minecraft, Skill, Skills

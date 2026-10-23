@@ -21,4 +21,4 @@ Baby Chicco Adventures is a platform game in which you'll help our little pengui
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boys, jump, Jumping, Kids, Mario, Pixel
+- Tags: Arcade, Boys, jump, jumping, Kids, mario, pixel

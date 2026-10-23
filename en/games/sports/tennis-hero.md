@@ -19,6 +19,6 @@ Choose your hero and compete against 3 opponents in the Tennis event. Tap to tim
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Sports, Tennis
+- Tags: Arcade, sports, Tennis

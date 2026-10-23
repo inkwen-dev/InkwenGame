@@ -19,6 +19,6 @@ Kick is a single player game in which gamer assumes the character of a soccer pl
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arena, Ball, Casual, Family, Football, HTML5, Mobile, Obstacle, Online, Skill, Skills, Soccer, Sport, Sports, Unity3D, WebGL
+- Tags: 1 Player, 2D, Arena, Ball, Casual, Family, Football, HTML5, Mobile, Obstacle, Online, Skill, Skills, Soccer, Sport, sports, Unity3D, WebGL

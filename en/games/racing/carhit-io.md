@@ -19,6 +19,6 @@ CarHit.io is a .io game about pushing other cars off from the platform. In this 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, Action, Best, Bounce, Cars, Crazy, drift, Driving, Escape, Hot, Multiplayer
+- Tags: .io, .io Games, 3D, Action, Best, Bounce, Cars, crazy, drift, Driving, Escape, Hot, Multiplayer

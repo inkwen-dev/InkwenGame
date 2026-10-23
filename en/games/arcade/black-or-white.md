@@ -21,4 +21,4 @@ Tap the screen to carefully control the ball through the obstacles. The ball can
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Best, Casual, fly, Hypercasual, jump, Jumping
+- Tags: Action, Arcade, Best, Casual, fly, Hypercasual, jump, jumping

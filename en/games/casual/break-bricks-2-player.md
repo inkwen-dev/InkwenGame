@@ -19,6 +19,6 @@ Destroy bricks from cubes! Throw the ball and let the game begin. Fall under the
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 3D, Best, Block, Bricks, Pixel
+- Tags: 1 Player, 2 Player, 3D, Best, block, Bricks, pixel

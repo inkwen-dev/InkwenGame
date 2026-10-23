@@ -19,6 +19,6 @@ Before you start your multi-million dollar logistics company, you will first hav
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Simulation, Simulator, Skibidi, Skibidi Toilet, Truck
+- Tags: Driving, Simulation, Simulator, Skibidi, skibidi-toilet, truck

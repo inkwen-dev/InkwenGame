@@ -19,6 +19,6 @@ What will you do if you are tall enough to look down the Effiel Tower? Here is a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Avoid, Collecting, Mobile, Obstacle, Platform, Stickman, Unity3D
+- Tags: 3D, Arcade, Avoid, Collecting, Mobile, Obstacle, Platform, stickman, Unity3D

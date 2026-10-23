@@ -19,6 +19,6 @@ Play now our new exclusive RedBall Christmas Love game here first on kiz10.com !
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Ball, Kiz 10, kiz10, run

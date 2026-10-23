@@ -21,4 +21,4 @@ Embark on a thrilling journey in Stickman Hunter, where your mission is to prote
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: hunter, Shoot, Shooter, Shooting, Stickman
+- Tags: hunter, Shoot, Shooter, Shooting, stickman

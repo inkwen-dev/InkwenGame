@@ -21,4 +21,4 @@ Wrestle Online is not only a wrestle but also a relaxation arcade game made from
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Fun, H5, HTML5, Kid, Kids, Sport, Sports
+- Tags: Boy, Boys, Fun, H5, HTML5, Kid, Kids, Sport, sports

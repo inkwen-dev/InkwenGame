@@ -21,4 +21,4 @@ Prepare for a wildly creative showdown in Dragon Draw Joust, where your imaginat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Animal, Cute, Drawing
+- Tags: Action, Animal, Cute, drawing

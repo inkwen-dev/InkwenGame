@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 冒险, 岛屿, 公主, 小人, Unity3D
+- 标签: 3D, 3D游戏, 冒险, 岛屿, 公主, 木偶人, Unity3D

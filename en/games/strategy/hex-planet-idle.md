@@ -19,6 +19,6 @@ Hex Planet Idle is both an RPG adventure game and a survival idle game with 3D m
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Stickman, Strategy
+- Tags: 1 Player, stickman, strategy

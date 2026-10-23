@@ -19,6 +19,6 @@ Water Sort Puzzle Master is a relaxing yet challenging logic puzzle where you or
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, Casual, Color, Coloring, Fun, Funny, Hypercasual, Puzzle, Relaxation, sort, sorting, water

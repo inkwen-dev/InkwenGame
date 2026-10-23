@@ -19,6 +19,6 @@ Hit Tank Battle is an exciting 3D tank action game where you control a powerful 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, attack, Battle, Tank
+- Tags: Army, attack, battle, Tank

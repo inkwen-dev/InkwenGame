@@ -19,6 +19,6 @@ Parking Jam Online is an arcade skill game with 3D game art animation for car pa
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boy, Boys, Car, Cars, Fun, H5, HTML5, Kid, Kids, Parking
+- Tags: 3D, 3D Games, Boy, Boys, Car, Cars, Fun, H5, HTML5, Kid, Kids, parking

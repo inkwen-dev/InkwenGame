@@ -21,4 +21,4 @@ In order to help the stickman get out of the block maze, Super Portal Maze 3D ne
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Avoid, Boy, Casual, Kid, Maze, Puzzle, Stickman
+- Tags: 3D, Arcade, Avoid, Boy, Casual, Kid, Maze, Puzzle, stickman

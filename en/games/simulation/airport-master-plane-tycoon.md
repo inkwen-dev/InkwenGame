@@ -21,4 +21,4 @@ Airport Master - Plane Tycoon is an airport management simulation game. With 3D 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: airplane, Simulation, Stickman
+- Tags: airplane, Simulation, stickman

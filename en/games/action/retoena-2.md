@@ -21,4 +21,4 @@ Retoena 2 is a 2D Sci-fi themed platformer where you play as a humanoid girl who
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Anime, Arcade, Collecting, Girl, jump, Jumping, Pixel, Platform, Retro, Science
+- Tags: 2D, Adventure, Anime, Arcade, Collecting, Girl, jump, jumping, pixel, Platform, retro, Science

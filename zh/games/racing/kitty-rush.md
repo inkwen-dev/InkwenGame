@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 猫, 障碍, 奔跑, 跑步
+- 标签: 猫, 障碍, 跑, 奔跑

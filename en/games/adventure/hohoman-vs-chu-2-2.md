@@ -15,6 +15,6 @@ Embark on a colorful 2D adventure in Hohoman vs Chu 2, dodging foes and gatherin
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

@@ -21,4 +21,4 @@ Desktop Mouse Mobile Touch Buttons
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Game, Games, HTML5, Kids, Math, School, Word
+- Tags: educational, Game, Games, HTML5, Kids, math, School, word

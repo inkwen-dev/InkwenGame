@@ -19,6 +19,6 @@ Fire Road is a one button survival game. Challenge the force of gravity! Avoid t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Fire, jump, Jumping, run, running
+- Tags: Ball, Fire, jump, jumping, run, running

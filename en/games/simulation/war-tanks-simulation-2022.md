@@ -19,6 +19,6 @@ You can take a realistic assault arena and a panzer game online with you! Tank m
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Shooting, Simulation, Simulator, Tank, Tanks, Unity3D, War, WebGL
+- Tags: Shooting, Simulation, Simulator, Tank, tanks, Unity3D, War, WebGL

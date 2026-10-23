@@ -21,4 +21,4 @@ Mr Agent 是一款完美射击的特工狙击游戏，瞄准敌人并在最佳�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 动作, 冒险, 街机, 枪械, 超休闲, 狙击, Stickman, Unity3D
+- 标签: 3D, 3D游戏, 动作, 冒险, 街机, 枪械, 超休闲, 狙击手, 木偶人, Unity3D

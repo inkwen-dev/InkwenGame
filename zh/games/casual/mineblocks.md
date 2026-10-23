@@ -21,4 +21,4 @@ Mine Blocks 是一款 2D Minecraft 洞穴游戏，你需要快速击碎方块并
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 最佳游戏, 方块, 冲刺, 供您的网站使用的HTML游戏, Kiz 10, 关卡, Minecraft, 矿工
+- 标签: 单人, 最佳游戏, 方块, 冲刺, HTML游戏供您的网站使用, Kiz 10, 关卡, 我的世界, 矿工

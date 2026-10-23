@@ -19,6 +19,6 @@ Master the art of archery in this fast-paced stickman battle! Take down waves of
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, arrows, attack, Bow, Fighting, hunter, Warrior
+- Tags: Action, Arcade, arrows, attack, Bow, fighting, hunter, Warrior

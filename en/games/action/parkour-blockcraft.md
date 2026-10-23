@@ -21,4 +21,4 @@ Welcome to the world of Blockcraft! Jump over the blocks to reach the portals! B
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Block, Minecraft
+- Tags: 3D, 3D Games, Adventure, block, Minecraft

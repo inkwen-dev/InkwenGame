@@ -21,4 +21,4 @@ Choose an English letter or English Sentence, fill in this color, and update you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Baby Games, Board, Drawing
+- Tags: 1 Player, Baby Games, Board, drawing

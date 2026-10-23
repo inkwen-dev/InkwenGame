@@ -21,4 +21,4 @@ The Amazing World of Gumball falp flap newest game online free based on the bloc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Adventure, Anime, Best, Cartoon, Cartoon Network, endless, fly, Games, jump, Jumping, Simulation, World
+- Tags: .io Games, Adventure, Anime, Best, Cartoon, Cartoon Network, endless, fly, Games, jump, jumping, Simulation, World

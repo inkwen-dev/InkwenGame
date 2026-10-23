@@ -21,4 +21,4 @@ Do you like mind games with exciting gameplay? Then you're here! Visit Mahjong C
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Brain, Cake, Candy, Click, Clicker, Cook, Cooking, Cute, Educational, Family, Fruit, Fruits, Fun, Funny, Game, Games, Hypercasual, Kids, Logic, Logical, Mahjong, Match 3, Match3, Matching, Math, Memory, Mind, Mobile, Play, Puzzle, Relaxation, Restaurant, Retro, Unity3D, WebGL
+- Tags: 1 Player, 3D, 3D Games, Brain, Cake, Candy, Click, Clicker, Cook, Cooking, Cute, educational, Family, Fruit, Fruits, Fun, Funny, Game, Games, Hypercasual, Kids, Logic, Logical, mahjong, Match 3, Match3, Matching, math, memory, Mind, Mobile, Play, Puzzle, Relaxation, restaurant, retro, Unity3D, WebGL

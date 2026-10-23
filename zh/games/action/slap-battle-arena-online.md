@@ -37,4 +37,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, 动作, 格斗, 多人游戏, PVE, PvP, 双人游戏
+- 标签: 3D, 动作, 格斗, 多人, PVE, PvP, 双人

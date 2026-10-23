@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 老奶奶, 恐怖, 监狱
+- 标签: 单人, granny, 恐怖, 监狱

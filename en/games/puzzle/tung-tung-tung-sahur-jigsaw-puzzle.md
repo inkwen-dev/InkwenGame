@@ -19,6 +19,6 @@ Step into the world of Tung Tung Tung Sahur with this fun and engaging jigsaw pu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Hypercasual, Jigsaw, Puzzle, puzzleblock

@@ -19,6 +19,6 @@ Enter the world of Silent Assassin 2024, where your mission is to eliminate mons
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, assasin, assassin, Mentolatux, Monster, throwing, Unity3D, weapons, WebGL
+- Tags: 1 Player, Action, assasin, assassin, Mentolatux, monster, throwing, Unity3D, weapons, WebGL

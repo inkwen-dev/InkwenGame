@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 装扮, 发型, 万圣节, 改造, 怪物, 学校
+- 标签: 装扮, 头发, 万圣节, 改造, monster, 学校

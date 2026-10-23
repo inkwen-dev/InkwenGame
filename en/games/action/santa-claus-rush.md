@@ -19,6 +19,6 @@ Santa Claus Rush if fun and addicting arcade game suitable for all ages. You nee
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Christmas, Collecting, Fun, HTML5, Hypercasual, Kids, Mobile, run, running, Snow, Winter

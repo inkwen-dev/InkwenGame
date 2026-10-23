@@ -26,4 +26,4 @@ Unlock and select new powerful cards as you progress through the game. With hund
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, Mobile, Retro, Shooting, Skill
+- Tags: Action, Arcade, Mobile, retro, Shooting, Skill

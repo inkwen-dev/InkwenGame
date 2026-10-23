@@ -19,6 +19,6 @@ paper us It is similar to amongus but this one is separate. hunt them all one by
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Alien, Android, Arcade, Battle, Battlegrounds, Best, Boy, Multiplayer
+- Tags: 1 Player, 2D, Action, Alien, Android, Arcade, battle, Battlegrounds, Best, Boy, Multiplayer

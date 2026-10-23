@@ -19,6 +19,6 @@ School Bus Driving Simulator, Be The City Coach Bus Driver In This Van Driver Ga
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Boy, Boys, bus, Car, Cars, Casual, city, drift, drifting, Driving, Game, Games, gta, Kid, Kids, Simulation, Simulator, Supercars, Traffic, Truck, Unity3D
+- Tags: 3D, 3D Games, Adventure, Boy, Boys, bus, Car, Cars, Casual, city, drift, drifting, Driving, Game, Games, gta, Kid, Kids, Simulation, Simulator, Supercars, Traffic, truck, Unity3D

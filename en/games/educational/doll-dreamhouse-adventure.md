@@ -19,6 +19,6 @@ What kind of house do you have in mind? Do you want to own and design your own d
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Casual, Cute, Educational, Girl, Kid, Matching
+- Tags: 2D, Animal, Casual, Cute, educational, Girl, Kid, Matching

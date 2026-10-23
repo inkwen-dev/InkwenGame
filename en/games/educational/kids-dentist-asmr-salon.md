@@ -19,6 +19,6 @@ Do you like dentist games? Or do you dream of opening a dental clinic? Then you 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Educational, Kids
+- Tags: Doctor, educational, Kids

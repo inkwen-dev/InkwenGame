@@ -21,4 +21,4 @@ Baby Taylor is going to volunteer at the zoo! Taylor is an animal lover and it i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cleaning, Cute, Decorate, Doctor, Food, Girl, Girls, Kids, Simulation, Surgery
+- Tags: Animal, Baby, Cleaning, Cute, Decorate, Doctor, Food, Girl, Girls, Kids, Simulation, surgery

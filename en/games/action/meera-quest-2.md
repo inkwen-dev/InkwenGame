@@ -19,6 +19,6 @@ Meera Quest 2 is a 2D anime themed platformer where you play as a cute anime gir
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Cartoon, Cute, Girl, jump, Jumping, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Cartoon, Cute, Girl, jump, jumping, pixel, Platform, retro

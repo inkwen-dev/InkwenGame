@@ -21,4 +21,4 @@ Erase One part is fun game in which you have to solve different puzzles by erasi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Casual, Educational, Fun, Girl, Kid, Puzzle
+- Tags: 2D, Casual, educational, Fun, Girl, Kid, Puzzle

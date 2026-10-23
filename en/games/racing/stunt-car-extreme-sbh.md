@@ -19,6 +19,6 @@ Ultimate Car Driving: Classics combines the realism and fun driving physics to c
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adventure, Arcade, Bike, Boy, Boys, Car, Cars, drift, drifting, Driving, Fun, Funny, Game, Games, Parking, Race, Racing, Simulation, Simulator, Spaceship, Supercars, Superhero, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adventure, Arcade, bike, Boy, Boys, Car, Cars, drift, drifting, Driving, Fun, Funny, Game, Games, parking, Race, Racing, Simulation, Simulator, Spaceship, Supercars, Superhero, truck

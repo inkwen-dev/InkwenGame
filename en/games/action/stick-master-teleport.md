@@ -43,4 +43,4 @@ Play “Stick Master Teleport” now ⚡ and strike down cunning enemies in a fl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Ninja
+- Tags: ninja

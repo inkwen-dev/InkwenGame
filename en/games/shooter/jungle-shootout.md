@@ -21,4 +21,4 @@ Rambo style game in the jungle - stay alive as long as you can and get the highe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Battle, Pixel, Platform, Retro
+- Tags: 1 Player, battle, pixel, Platform, retro

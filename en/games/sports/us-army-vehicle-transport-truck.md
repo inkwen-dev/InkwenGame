@@ -21,4 +21,4 @@ US Army Vehicle Transporter Truck Simulator:Army Game is one the finest army oil
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Games, Shoot, Shooting, transport, Truck
+- Tags: Army, Games, Shoot, Shooting, transport, truck

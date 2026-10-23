@@ -21,4 +21,4 @@ Enjoy four classic solitaire experiences in one polished card game collection. P
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cards, Solitaire
+- Tags: cards, solitaire

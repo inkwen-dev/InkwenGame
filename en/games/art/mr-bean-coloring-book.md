@@ -19,6 +19,6 @@ In this game with Mr. Bean you will find six different pictures which have to be
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Color, Coloring, Fun, HTML5, Kids, Mobile, Skill

@@ -19,6 +19,6 @@ Bubble Tea is the favorite drink of girls nowadays. If you go out, you will see 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cooking, Cute, Educational, Food, Girl, Girls, Kids, Simulation
+- Tags: Baby, Cooking, Cute, educational, Food, Girl, Girls, Kids, Simulation

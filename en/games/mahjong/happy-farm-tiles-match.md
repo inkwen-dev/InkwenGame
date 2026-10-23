@@ -19,6 +19,6 @@ Test your skills by matching and linking the same kind images and work your way 
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Casual, Farm, Fruit, Mahjong, Puzzle
+- Tags: Board, Casual, Farm, Fruit, mahjong, Puzzle

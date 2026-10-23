@@ -21,4 +21,4 @@ Idle Cave Story is an idle simulation and strategy game set in a primitive cavem
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Battle, building, Casual, idle, Management, Simulation, Strategy
+- Tags: Adventure, battle, building, Casual, idle, management, Simulation, strategy

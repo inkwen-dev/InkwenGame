@@ -19,6 +19,6 @@ Help the main character escape from the city, which has been ravaged by the chao
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Battle, Battlegrounds, Car, Cars, H5, HTML, HTML5, Kill, Killing, War, Zombie
+- Tags: Action, Adventure, battle, Battlegrounds, Car, Cars, H5, HTML, HTML5, Kill, Killing, War, Zombie

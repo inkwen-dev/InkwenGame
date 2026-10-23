@@ -19,6 +19,6 @@ Feed the ‘hungry shapes’ by dropping similar shapes on them. The Shape which
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Educational, HTML5, Matching, Math, Mobile, Puzzle
+- Tags: Arcade, educational, HTML5, Matching, math, Mobile, Puzzle

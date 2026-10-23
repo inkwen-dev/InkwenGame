@@ -21,4 +21,4 @@ Make Deliveries and complete tons of Parking Missions at the Shopping Mall. Feat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Car, Card, Cars, drift, drifting, Driving, Parking, Race, Racing, Simulation, Simulator, Supercars, Unity3D
+- Tags: 3D, 3D Games, Adventure, Car, card, Cars, drift, drifting, Driving, parking, Race, Racing, Simulation, Simulator, Supercars, Unity3D

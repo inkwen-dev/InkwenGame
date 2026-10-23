@@ -21,4 +21,4 @@ Step into the heat of Blaze Ball Showdown, a fiery sports arcade game where play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Fire, Sport, Sports
+- Tags: 2 Player, Fire, Sport, sports

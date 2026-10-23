@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1人游戏, 拼图, 坦克, 坦克, War
+- 标签: 单人, 拼图, 坦克, tanks, 战争

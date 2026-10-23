@@ -21,4 +21,4 @@ Welcome to Alice's crazy adventure. Alice is a small adventure girl. She wants t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Boys, Crazy, Cute, Escape, Girls, Kids, Zombie
+- Tags: Adventure, Boys, crazy, Cute, Escape, Girls, Kids, Zombie

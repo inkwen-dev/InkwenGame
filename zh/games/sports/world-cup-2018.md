@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 球, 气球, 足球, HTML, HTML5, 射击, 技巧, 技巧, 足球, 体育, 运动
+- 标签: 球, 气球, 橄榄球, HTML, HTML5, 射击, 技巧, 技能, 足球, 运动, 体育

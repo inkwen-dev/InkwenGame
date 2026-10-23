@@ -19,6 +19,6 @@ f you want to have a fun time, play Baby Granny 3D : Simulator Granny Games 2021
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Zombie

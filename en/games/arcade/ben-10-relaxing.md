@@ -19,6 +19,6 @@ Are you ready to have some funny time with Ben 10? Ben 10 Relaxing is super fun 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ben 10, Boy, Cartoon, Fun, Funny, HTML5, Hypercasual, Kids, Relaxation

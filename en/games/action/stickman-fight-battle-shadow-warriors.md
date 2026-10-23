@@ -19,6 +19,6 @@ Supreme Stick Warriors - Shadow of Legends is a physic-based stickman fighting g
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Batman, Battle, Battlegrounds, Cartoon, Cartoon Network, Dragon Ball Z, Fight, Fighting, Hypercasual, Multiplayer, PacMan, Spiderman, Stickman, Street Fighting, Super, Superhero, War
+- Tags: Anime, Batman, battle, Battlegrounds, Cartoon, Cartoon Network, Dragon Ball Z, Fight, fighting, Hypercasual, Multiplayer, PacMan, Spiderman, stickman, Street Fighting, Super, Superhero, War

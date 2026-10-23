@@ -31,4 +31,4 @@ One Man Army: A casual single player Battle Game that will test your warrior ski
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Army, Mobile, Shooting, Strategy
+- Tags: Action, Army, Mobile, Shooting, strategy

@@ -19,6 +19,6 @@ Welcome to Papa's Burgeria, a cooking game. Grab your spatula and get ready for 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cooking, Funny, Management
+- Tags: Cooking, Funny, management

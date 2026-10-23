@@ -21,4 +21,4 @@ Do you like skibidi toilet games? Well! This is an amazing puzzle connect skibid
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mahjong, Puzzle, Skibidi, Skibidi Toilet
+- Tags: mahjong, Puzzle, Skibidi, skibidi-toilet

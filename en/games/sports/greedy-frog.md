@@ -19,6 +19,6 @@ This is a very interesting leisure game. The play method is very simple. Just co
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Avoid, Boy, Boys, Casual, Click, Collecting, Collection, Funny, Game, Games, Girl, Girls, Google, H5, HTML5, Hypercasual, Jewel, jump, Jumping, Kid, Kids, Mobile, Simulation, Simulator, Space, Sport
+- Tags: 3D Games, Action, Avoid, Boy, Boys, Casual, Click, Collecting, Collection, Funny, Game, Games, Girl, Girls, Google, H5, HTML5, Hypercasual, Jewel, jump, jumping, Kid, Kids, Mobile, Simulation, Simulator, Space, Sport

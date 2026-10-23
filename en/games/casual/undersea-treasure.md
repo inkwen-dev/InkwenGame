@@ -15,6 +15,6 @@ Dive into Undersea Treasure, an enchanting match-3 puzzle game set beneath the w
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Animal

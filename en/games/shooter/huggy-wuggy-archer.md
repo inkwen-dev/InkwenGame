@@ -21,4 +21,4 @@ Welcome to a new Archery stickman game! in this game you are the blue huggy wugg
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Hypercasual, Shooting, Stickman
+- Tags: Arcade, Hypercasual, Shooting, stickman

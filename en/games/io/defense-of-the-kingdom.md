@@ -21,4 +21,4 @@ The key to protecting the kingdom from aggressive monsters is strategy. Each mus
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2D, Action, Adventure, Android, Arcade, Army, Clans, Pixel, temple
+- Tags: .io Games, 1 Player, 2D, Action, Adventure, Android, Arcade, Army, Clans, pixel, temple

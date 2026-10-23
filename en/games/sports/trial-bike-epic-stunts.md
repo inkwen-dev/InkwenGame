@@ -21,4 +21,4 @@ The dangerous mountains, exciting factory sites, or even under the water parkour
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Adventure, Bike, Moto, Motorcycle, Skill, Stunts
+- Tags: 1 Player, 3D, 3D Games, Adventure, bike, Moto, Motorcycle, Skill, Stunts

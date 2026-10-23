@@ -19,6 +19,6 @@ Build and expand your ultimate lumber empire! Chop down massive trees, upgrade h
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, construction, Truck, Unity3D, WebGL
+- Tags: Action, Arcade, construction, truck, Unity3D, WebGL

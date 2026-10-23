@@ -15,6 +15,6 @@ Unleash your explosive instincts in Goose Blast Battle! Choose your goose, strat
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Battle
+- Tags: battle

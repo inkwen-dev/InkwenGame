@@ -21,4 +21,4 @@ It's time to battle the enemies through air attack to enforce the Power of the S
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Air, Aircraft, Alien, Android, Arcade, Avoid, Classic, Defense, endless, Flight, fly, HTML, Shoot, Shooter, Shooting, sky, Spaceship, War, WebGL
+- Tags: Action, Air, Aircraft, Alien, Android, Arcade, Avoid, Classic, Defense, endless, flight, fly, HTML, Shoot, Shooter, Shooting, sky, Spaceship, War, WebGL

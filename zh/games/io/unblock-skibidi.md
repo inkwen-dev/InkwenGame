@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, 2D, Android, HTML5, 超休闲, iPad, iPhone, Skibidi, Skibidi Toilet, 技巧
+- 标签: .io, 2D, 安卓, HTML5, 超休闲, iPad, iPhone, Skibidi, skibidi-toilet, 技巧

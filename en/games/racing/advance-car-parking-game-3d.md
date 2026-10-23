@@ -21,4 +21,4 @@ Are you looking forward to have a new car parking and car driving games to park 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, city, HTML, HTML5, Parking, Road
+- Tags: Car, city, HTML, HTML5, parking, Road

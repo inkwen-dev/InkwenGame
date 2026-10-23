@@ -19,6 +19,6 @@ Enter the Bugged Out Battlefield in Mythinsects Tower Defense Tiny Heroes, Epic 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Boys, Collecting, Fight, Hypercasual, Kids, Skills, Tower Defense
+- Tags: battle, Boys, Collecting, Fight, Hypercasual, Kids, Skills, Tower Defense

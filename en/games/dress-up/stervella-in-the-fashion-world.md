@@ -21,4 +21,4 @@ Estelle loves fashion since childhood. But daring and unusual fashion! The girl 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Crazy, Dress Up, Fashion, Girl, Girls, Makeover
+- Tags: crazy, Dress Up, Fashion, Girl, Girls, Makeover

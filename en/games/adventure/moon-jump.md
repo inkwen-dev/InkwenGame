@@ -19,6 +19,6 @@ Bounce your way to the top in this fun and addictive physics jumping game! Tap t
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Alien, Animal, Ball, Ballon, Cartoon, jump, Jumping, Physics
+- Tags: 2D, Action, Adventure, Alien, Animal, Ball, Ballon, Cartoon, jump, jumping, Physics

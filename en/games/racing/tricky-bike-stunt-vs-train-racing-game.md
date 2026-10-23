@@ -21,4 +21,4 @@ Be a super racer of highway riding game: train vs tricky bikes A new story in ra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Bike, Games, HTML, HTML5, Race, Racing, Stunts, Traffic, Train
+- Tags: 3D, 3D Games, bike, Games, HTML, HTML5, Race, Racing, Stunts, Traffic, Train

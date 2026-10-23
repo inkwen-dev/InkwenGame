@@ -21,4 +21,4 @@ Your task is simple - come up with your strategy to unite warriors and archers o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Casual, HTML5, Stickman
+- Tags: 3D, Arcade, Casual, HTML5, stickman

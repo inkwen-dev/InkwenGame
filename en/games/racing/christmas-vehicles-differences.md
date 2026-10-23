@@ -21,4 +21,4 @@ The Christmas holidays are coming. Here you can find beautiful Christmas vehicle
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Christmas, Difference, Fun, HTML5, Kids, Mobile, Skill, Truck
+- Tags: Car, Christmas, Difference, Fun, HTML5, Kids, Mobile, Skill, truck

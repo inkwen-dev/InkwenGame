@@ -19,6 +19,6 @@ Get ready to blast away endless alien hordes in this non-stop retro action shoot
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, endless, Fire, Highscore, Hypercasual, Jumping, running, Shoot 'Em Up, Shooting
+- Tags: Action, Arcade, endless, Fire, Highscore, Hypercasual, jumping, running, Shoot 'Em Up, Shooting

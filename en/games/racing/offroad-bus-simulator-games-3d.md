@@ -21,4 +21,4 @@ Do you love car games? Experience real car driving and improve your driving skil
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Bike, bus, Car, Cars, Love, Parking, Race, Racing, Simulation, Simulator, Stunts, Supercars, Truck, Unity3D
+- Tags: 3D, 3D Games, bike, bus, Car, Cars, Love, parking, Race, Racing, Simulation, Simulator, Stunts, Supercars, truck, Unity3D

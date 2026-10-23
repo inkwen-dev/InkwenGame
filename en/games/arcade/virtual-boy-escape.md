@@ -21,4 +21,4 @@ Virtual Boy Escape is a html5 arcade game, tab to jump and avoid the enemy, Coll
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Crazy, Escape, HTML5, jump, Jumping, Pixel, run
+- Tags: 1 Player, 2D, crazy, Escape, HTML5, jump, jumping, pixel, run

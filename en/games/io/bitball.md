@@ -21,4 +21,4 @@ A unique tile ball puzzle game from coin base bitcoin games loved by millions of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 8 Ball Pool, Arcade, Ball, Casino, Casual, Click, Clicker, Collecting, Collection, Fun, Jumping, Monkey
+- Tags: .io, .io Games, 8 Ball Pool, Arcade, Ball, Casino, Casual, Click, Clicker, Collecting, Collection, Fun, jumping, Monkey

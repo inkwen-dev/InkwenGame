@@ -21,4 +21,4 @@ Urban Sniper 2 is an intense first person sniper game where you step into the ro
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, CSGO, First Person Shooter, Gun, Shoot, Shoot 'Em Up, Shooter, Shooting, Sniper, Unity3D
+- Tags: 3D, 3D Games, Action, CSGO, First Person Shooter, Gun, Shoot, Shoot 'Em Up, Shooter, Shooting, sniper, Unity3D

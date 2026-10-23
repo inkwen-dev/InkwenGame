@@ -21,4 +21,4 @@ Jumpero is definitely an enchanting jumping casual game. Have you ever dreamt of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Boy, Fun, H5, HTML5, jump, Jumping, Kid, Kids
+- Tags: 3D, 3D Games, Action, Adventure, Boy, Fun, H5, HTML5, jump, jumping, Kid, Kids

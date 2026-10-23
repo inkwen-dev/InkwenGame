@@ -34,4 +34,4 @@ No ads in the middle of a game. Ever. Unlimited undo, hints that explain why, a 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cards, Solitaire
+- Tags: cards, solitaire

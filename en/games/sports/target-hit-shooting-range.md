@@ -21,4 +21,4 @@ Welcome to Target Hit Shooting Range, a thrilling 3D world that blends firearms,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Best Games, free html5 games for your website, Gun, Shoot, Shooting, Skill, Sports, unity games, WebGL
+- Tags: 2026 games, Best Games, free html5 games for your website, Gun, Shoot, Shooting, Skill, sports, unity games, WebGL

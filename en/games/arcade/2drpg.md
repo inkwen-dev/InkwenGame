@@ -21,4 +21,4 @@ Best 2D Rpg Game. Killing Monsters And Gain Stats.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Arcade, RPG
+- Tags: 1 Player, 2D, Action, Adventure, Arcade, rpg

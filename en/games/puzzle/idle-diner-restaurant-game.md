@@ -19,6 +19,6 @@ Idle Diner Restaurant Game is a simulation of a restaurant game. You need to run
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Food, Kids, Mobile, Restaurant, Skill
+- Tags: Food, Kids, Mobile, restaurant, Skill

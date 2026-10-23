@@ -19,6 +19,6 @@ Pumpkin Dungeon Of Doom is an epic adventure through 100 levels of monsters, tra
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Dungeon, Halloween, Horror, Mobile, Monster, Puzzle
+- Tags: Adventure, Dungeon, Halloween, Horror, Mobile, monster, Puzzle

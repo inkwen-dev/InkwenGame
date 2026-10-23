@@ -21,4 +21,4 @@ A nice little Bird is learning to fly. Could you help it? Tap on the screen to f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bird, Casual, Classic, fly, Hypercasual, Jumping, run
+- Tags: Bird, Casual, Classic, fly, Hypercasual, jumping, run

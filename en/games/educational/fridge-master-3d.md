@@ -21,4 +21,4 @@ Are you a master of space organization? There's a whole lot of food and drink in
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Casual, Educational, Food, HTML5, Hypercasual, Kids, Mobile, Online, Relaxation
+- Tags: 3D, 3D Games, Casual, educational, Food, HTML5, Hypercasual, Kids, Mobile, Online, Relaxation

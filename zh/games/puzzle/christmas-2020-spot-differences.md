@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 圣诞节, 不同点, HTML5, 移动设备
+- 标签: 圣诞节, 找不同, HTML5, 移动设备

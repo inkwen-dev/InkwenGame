@@ -21,4 +21,4 @@ Alien Catcher game is back with HTML5 version. The professional teams should ste
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, Alien, Monster, Puzzle, Shooting, Space
+- Tags: 2 Player Games, Alien, monster, Puzzle, Shooting, Space

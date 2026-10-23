@@ -21,4 +21,4 @@ Be the best sniper with Hawkeye Sniper! This is a cool and challenging game wher
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boys, Gun, Simulation, Sniper
+- Tags: 3D, Boys, Gun, Simulation, sniper

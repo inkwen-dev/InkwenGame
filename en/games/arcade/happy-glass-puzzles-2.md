@@ -19,6 +19,6 @@ In Happy Glass Puzzles 2, get ready to test your skills through different levels
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Brain, HTML, HTML5, Hypercasual, Kid, Kids, Mind, Puzzle

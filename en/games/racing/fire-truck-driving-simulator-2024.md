@@ -21,4 +21,4 @@ In Fire Truck Driving Simulator 2024, players step into the role of a heroic fir
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fire, firefighters, Mentolatux, Simulator, Truck, trucks, vehicle
+- Tags: Fire, firefighters, Mentolatux, Simulator, truck, trucks, vehicle

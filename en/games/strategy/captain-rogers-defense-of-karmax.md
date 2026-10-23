@@ -15,6 +15,6 @@ Defend Karmax-3 with Captain Rogers as you obliterate rockets in this adrenaline
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Strategy
+- Tags: strategy

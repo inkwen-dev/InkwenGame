@@ -21,4 +21,4 @@ Get ready to smash some bricks with our Cartoon Brick Breaker game! This addicti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Ball, Block, Bricks, Cartoon, Casual, Classic, endless, Fun, Highscore, Hypercasual, Mobile, Relaxation, Retro, Unity3D, WebGL
+- Tags: 2D, Arcade, Ball, block, Bricks, Cartoon, Casual, Classic, endless, Fun, Highscore, Hypercasual, Mobile, Relaxation, retro, Unity3D, WebGL

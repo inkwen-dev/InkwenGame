@@ -19,6 +19,6 @@ Cyberpunk drift 2 different drift tracks ! 6 most wanted realistic drift car mod
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: bus, Car, Cars, drift, drifting, jump, Parking, Race, Racing, Simulation, Simulator, Supercars, Truck
+- Tags: bus, Car, Cars, drift, drifting, jump, parking, Race, Racing, Simulation, Simulator, Supercars, truck

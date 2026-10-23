@@ -19,6 +19,6 @@ Dunk Digger is an online burrow passing game with a clear puzzle feature. All bo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Ball, Boy, Brain, Draw, Fun, HTML5, Kids, Online, Puzzle

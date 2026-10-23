@@ -21,4 +21,4 @@ Get all set to combat as well as conserve your nation in tank games 3D. Pick sto
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Shooting, Simulator, Tank, Tanks, Unity3D, WebGL
+- Tags: 3D Games, Shooting, Simulator, Tank, tanks, Unity3D, WebGL

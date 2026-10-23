@@ -19,6 +19,6 @@ Hello and welcome to Season 2 of "Who wants to be a (handless) millionaire!" Col
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Funny, Puzzle

@@ -21,4 +21,4 @@ In this game, you will meet Laura and Frankie, two charming monsters who study a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dress Up, Hair, Halloween, Makeover, Monster, School
+- Tags: Dress Up, Hair, Halloween, Makeover, monster, School

@@ -19,6 +19,6 @@ You'll style the hair of your pet Pony. Create fun hairstyles that are filled wi
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Action, Arcade, Casual, Fun, Funny, Hot, Hypercasual, Pony, Unity3D

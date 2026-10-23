@@ -19,6 +19,6 @@ Squish the Ants! Features a variety of Ants to squish, with a different speed an
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Click, Clicker, Family, Kid, Kids

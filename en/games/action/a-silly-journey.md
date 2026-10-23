@@ -21,4 +21,4 @@ You've lost your wallet and you are ready to face everything to have it back! Co
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Collecting, jump, Jumping, Pixel, Platform
+- Tags: 1 Player, 2D, Collecting, jump, jumping, pixel, Platform

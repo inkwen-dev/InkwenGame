@@ -21,4 +21,4 @@ The war is about to begin! Are you ready? Come and gather more companions to joi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Avoid, Clash, Fighting, Kids, Mobile, Platform
+- Tags: Army, Avoid, Clash, fighting, Kids, Mobile, Platform

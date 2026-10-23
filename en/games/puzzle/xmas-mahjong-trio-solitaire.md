@@ -19,6 +19,6 @@ Embark on a festive adventure with Xmas Mahjong Trio Solitaire. Arrange Mahjong 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Mahjong, Match 3, Matching, Puzzle, Winter
+- Tags: Christmas, mahjong, Match 3, Matching, Puzzle, Winter

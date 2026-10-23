@@ -21,4 +21,4 @@ This game is a memory matching game. This made for Christmas. You have 30 levels
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Christmas, Fun, Kid, Memory
+- Tags: card, Christmas, Fun, Kid, memory

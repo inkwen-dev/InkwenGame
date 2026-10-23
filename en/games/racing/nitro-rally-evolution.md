@@ -19,6 +19,6 @@ Nitro Rally Evolution is a fun classic 2D arcade racing game similar with the cl
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Boys, drift, drifting, Driving, HTML5, Race, Racing, Sport, Sports, Supercars
+- Tags: 2D, Arcade, Boys, drift, drifting, Driving, HTML5, Race, Racing, Sport, sports, Supercars

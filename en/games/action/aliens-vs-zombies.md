@@ -21,4 +21,4 @@ Kill or be killed It s one or the other It s the breathtaking confrontation for 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Alien, Boys, Fighting, Girls, HTML5, Logic, Robot, Strategy, War, WebGL, Zombie
+- Tags: 2D, Alien, Boys, fighting, Girls, HTML5, Logic, Robot, strategy, War, WebGL, Zombie

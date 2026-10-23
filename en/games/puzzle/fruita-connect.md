@@ -21,4 +21,4 @@ Welcome to Fruita Connect Puzzle Game. Tap on two similar fruit tiles to clear t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Clicker, Fruits, Mahjong, Match 3, Puzzle
+- Tags: Casual, Clicker, Fruits, mahjong, Match 3, Puzzle

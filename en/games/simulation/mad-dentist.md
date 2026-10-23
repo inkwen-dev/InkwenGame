@@ -21,4 +21,4 @@ Mad Dentist is the best dentist game ever made. In this dentist game, your missi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cute, Decorate, Decoration, Doctor, Educational, Girl, HTML5, Kids, Mobile, Simulation, Surgery
+- Tags: Cute, Decorate, Decoration, Doctor, educational, Girl, HTML5, Kids, Mobile, Simulation, surgery

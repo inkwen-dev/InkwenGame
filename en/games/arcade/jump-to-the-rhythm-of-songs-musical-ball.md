@@ -36,4 +36,4 @@ On the computer💻 — hold the left mouse button and move the mouse.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: easy, Music
+- Tags: easy, music

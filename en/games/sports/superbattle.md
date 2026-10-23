@@ -21,4 +21,4 @@ SuperBattle 2 is a two-player competitive game created by YouDevice!. This game 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Multiplayer, Sport, Sports
+- Tags: 2 Player, 2 Player Games, Multiplayer, Sport, sports

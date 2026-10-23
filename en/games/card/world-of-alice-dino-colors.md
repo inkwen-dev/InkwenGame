@@ -21,4 +21,4 @@ World of Alice - Dino Colors is an educational game developed for children with 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Card, Color, dino, Dinosaur, Educational, free games for your site, free html5 games for your website, HTML5, html5 games for your site, Kids, Logic, School, World of Alice
+- Tags: Best Games, card, Color, dino, Dinosaur, educational, free games for your site, free html5 games for your website, HTML5, html5 games for your site, Kids, Logic, School, World of Alice

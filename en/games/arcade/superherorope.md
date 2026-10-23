@@ -19,6 +19,6 @@ hey SuperHero now you can fly from place to place by throwing a net. Be careful,
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Android, Arcade, Click, Clicker, Minecraft

@@ -21,4 +21,4 @@ Rediscover a great classic game on your phone or pc: The Solitaire. Challenge yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Game, Puzzle, Solitaire
+- Tags: card, Game, Puzzle, solitaire

@@ -21,4 +21,4 @@ Welcome to the tractor parking driving game, the ultimate tractor driving and pa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: city, Driving, Parking, Simulation, tractor
+- Tags: city, Driving, parking, Simulation, tractor

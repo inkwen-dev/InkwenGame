@@ -19,6 +19,6 @@ Shark hunting raft game puts you in an ultimate underwater whale shark hunting e
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Best, Boy, Boys, Cool, HTML5, Shark, Shoot, Shooter, Shooting, WebGL
+- Tags: 3D, Action, Best, Boy, Boys, cool, HTML5, Shark, Shoot, Shooter, Shooting, WebGL

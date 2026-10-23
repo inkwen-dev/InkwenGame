@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Adventure, Casual, 滑行, 贪吃蛇, 蠕虫, 蠕虫
+- 标签: 冒险, 休闲, 滑行, snake, 蠕虫, 蠕虫

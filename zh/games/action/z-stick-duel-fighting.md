@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 躲避, 男孩, 儿童, 魔法, 技巧, Stickman
+- 标签: 2D, 躲避, 男孩们, 儿童, 魔法, 技巧, 木偶人

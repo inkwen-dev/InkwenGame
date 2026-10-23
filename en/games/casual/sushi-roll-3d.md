@@ -19,6 +19,6 @@ Sushi Roll 3D is a marvelous casual game. Since its origination in eastern Asia,
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Boys, H5, HTML5, Hypercasual, Kid, Kids, Race, run

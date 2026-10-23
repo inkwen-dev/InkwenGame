@@ -19,6 +19,6 @@ This is a Mahjong linking game. You must match two identical blocks. Connecting 
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Board, Girls, HTML5, Mahjong, Mobile, Puzzle, Summer
+- Tags: Arcade, block, Board, Girls, HTML5, mahjong, Mobile, Puzzle, Summer

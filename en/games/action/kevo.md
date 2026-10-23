@@ -21,4 +21,4 @@ Kevo is a 2D Platform game where you need to collect keys in order to unlock the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Pixel, Platform, Retro, Robot
+- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, pixel, Platform, retro, Robot

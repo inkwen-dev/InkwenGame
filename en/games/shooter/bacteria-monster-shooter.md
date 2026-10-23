@@ -19,6 +19,6 @@ Use medicine cannon to shoot all of the viruses on each level. Cannon capsules c
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, HTML5, Mobile, Monster, Shoot 'Em Up, Shooter
+- Tags: Arcade, HTML5, Mobile, monster, Shoot 'Em Up, Shooter

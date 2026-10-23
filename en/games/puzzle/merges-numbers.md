@@ -21,4 +21,4 @@ Merges Numbers is an engaging and strategic puzzle game where players combine ma
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Logic, Puzzle, Strategy
+- Tags: Logic, Puzzle, strategy

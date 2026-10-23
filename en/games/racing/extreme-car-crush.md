@@ -19,6 +19,6 @@ Car smashing simulator with advanced physics detailed, suitable for all ages. Ge
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Adult, Car, Cars, drift, drifting, Fun, Funny, Game, Games, HTML5, Kid, Kids, Moto, Motorcycle, New, Obstacle, Play, Simulation, Simulator, Unity3D, WebGL

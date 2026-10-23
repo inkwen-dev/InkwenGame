@@ -21,4 +21,4 @@ Welcome to Challenge the Football, an exciting and addictive football challenge 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, amazing, Battlegrounds, Football, Fun, Sports
+- Tags: 2026 games, amazing, Battlegrounds, Football, Fun, sports

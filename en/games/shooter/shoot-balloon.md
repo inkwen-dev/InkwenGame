@@ -19,6 +19,6 @@ Shoot Balloon is a very fun and exciting game. Your objective is to defeat the w
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Ballon, Casual, HTML5, Hypercasual, Kids, Mobile, Shoot, Skill, Superhero, weapons

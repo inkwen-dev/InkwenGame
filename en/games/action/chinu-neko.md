@@ -21,4 +21,4 @@ Chinu Neko is a 2D cute little platformer where you play as a neko(cat) who have
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Cartoon, Cat, Collecting, Cute, jump, Jumping, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Cartoon, Cat, Collecting, Cute, jump, jumping, pixel, Platform, retro

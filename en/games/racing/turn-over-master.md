@@ -21,4 +21,4 @@ Recently, we provides you with a 3D arcade car game. You are able to control a c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Car, HTML5, Mobile, Platform, Simulation, Stickman, Stunts
+- Tags: 3D, Arcade, Car, HTML5, Mobile, Platform, Simulation, stickman, Stunts

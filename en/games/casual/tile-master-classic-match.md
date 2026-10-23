@@ -21,4 +21,4 @@ Tile Master - Classic Match is a Relaxing and enjoyable zen game. It is a free s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, Clash, Crazy, Skills
+- Tags: 1 Player, block, Clash, crazy, Skills

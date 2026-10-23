@@ -21,4 +21,4 @@ You have to perform crazy race stunts and cause destruction with derby car. Stun
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, carparking, Highscore, jump, monstertruck, Parking, Race, Simulator, Stunts, Truck
+- Tags: 1 Player, carparking, Highscore, jump, monstertruck, parking, Race, Simulator, Stunts, truck

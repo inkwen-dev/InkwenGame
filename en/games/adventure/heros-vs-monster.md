@@ -21,4 +21,4 @@ Use mouse to play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, Maze, Monster, Superhero
+- Tags: Escape, Maze, monster, Superhero

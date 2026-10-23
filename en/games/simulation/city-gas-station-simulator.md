@@ -21,4 +21,4 @@ Ever dreamed of running a bustling gas station? City Gas Station Simulator lets 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cars, Management, Shopping, Simulator
+- Tags: Cars, management, Shopping, Simulator

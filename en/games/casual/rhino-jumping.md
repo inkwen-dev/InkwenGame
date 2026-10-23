@@ -21,4 +21,4 @@ Rhino Jumping is a jumping game, very simple and fun! A super easy, fun and addi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, jump, Jumping, Kid, Kids
+- Tags: Animal, jump, jumping, Kid, Kids

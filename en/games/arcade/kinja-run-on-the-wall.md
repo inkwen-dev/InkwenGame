@@ -19,6 +19,6 @@ The Kinja King is a brave soul who ventured into a path full of ghosts. This wor
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Arcade, Avoid, Game, Games, jump, Jumping, Online
+- Tags: 2D, Action, Adventure, Arcade, Avoid, Game, Games, jump, jumping, Online

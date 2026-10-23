@@ -21,4 +21,4 @@ Survev.io Battle Royale is a thrilling multiplayer game where you fight to be th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Battle, Multiplayer, Shoot 'Em Up, Shooter
+- Tags: .io, battle, Multiplayer, Shoot 'Em Up, Shooter

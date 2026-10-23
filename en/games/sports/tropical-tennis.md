@@ -21,4 +21,4 @@ Tropical Tennis the sequel to the number 1 tennis game on the store is a fast pa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Sport, Sports, Tennis
+- Tags: Sport, sports, Tennis

@@ -19,6 +19,6 @@ World of Alice - Rocks Textures is an educational game developed for children wh
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Educational, free games for your site, free games for your website, free html5 games for your website, html games for your website, HTML5, html5 games, html5 games for your site, Kids, Logic, School, World, World of Alice
+- Tags: Best Games, educational, free games for your site, free games for your website, free html5 games for your website, html games for your website, HTML5, html5 games, html5 games for your site, Kids, Logic, School, World, World of Alice

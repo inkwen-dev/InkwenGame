@@ -21,4 +21,4 @@ Crazy Racing Planes Memory is a free online game from genre of memory and monste
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Kids, Logic, Memory, Mobile, Puzzle
+- Tags: Fun, HTML5, Kids, Logic, memory, Mobile, Puzzle

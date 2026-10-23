@@ -21,4 +21,4 @@ Ink Design - 超级纹身沙龙 是为艺术家或任何热爱纹身的人设计
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 繪畫
+- 标签: 绘画

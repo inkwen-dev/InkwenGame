@@ -19,6 +19,6 @@ Rainbow Friends Coloring Book is a popular coloring game among kids. Do you love
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Color, Coloring, Cute, Draw, Drawing, Fun, Girls, HTML5, Kids, Mobile
+- Tags: Boys, Color, Coloring, Cute, Draw, drawing, Fun, Girls, HTML5, Kids, Mobile

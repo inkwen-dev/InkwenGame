@@ -19,6 +19,6 @@ You are stuck in prison for a crime you did not commit. Framed and imprisoned, b
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boys, Escape, Fun, Girl, Girls, HTML5, Prison, Shoot, Shoot 'Em Up, Shooter, Shooting, Stickman, WebGL
+- Tags: 3D, 3D Games, Boys, Escape, Fun, Girl, Girls, HTML5, Prison, Shoot, Shoot 'Em Up, Shooter, Shooting, stickman, WebGL

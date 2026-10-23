@@ -19,6 +19,6 @@ Break the glass bottles by balancing tricky blocks and the ball. JoyFull Ball ha
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, bottle, Casual, Fun

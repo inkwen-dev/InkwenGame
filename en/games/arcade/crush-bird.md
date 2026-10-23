@@ -19,6 +19,6 @@ Crush Bird - Destruction Edition is a fast-paced arcade game where you smash thr
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, Action, Bird, HTML5, sky, unblockedgames66, unblockedgames76

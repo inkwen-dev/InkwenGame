@@ -21,4 +21,4 @@ Features: • Unlock new Surfers • Fast action One touch Gameplay • Extremel
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Click, Jumping, surfers
+- Tags: .io, Click, jumping, surfers

@@ -15,6 +15,6 @@ Dive into the adrenaline-pumping action of Super Sergeant. Master strategic comb
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: First Person Shooter

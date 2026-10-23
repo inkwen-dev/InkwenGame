@@ -19,6 +19,6 @@ The lego blocks given are placed on the board, filled with whole rows or columns
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Highscore, Kid, Lego, Puzzle
+- Tags: Arcade, block, Highscore, Kid, Lego, Puzzle

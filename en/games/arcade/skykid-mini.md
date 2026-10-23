@@ -21,4 +21,4 @@ Help our pilot complete the game by flying away from objects. This is a tricky g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Aircraft, Arcade, endless, Flight
+- Tags: Adventure, Aircraft, Arcade, endless, flight

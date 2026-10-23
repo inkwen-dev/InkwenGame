@@ -19,6 +19,6 @@ Simply click on the hat and move it by your mouse to catch bombs .be careful the
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Arena, Classic, Click

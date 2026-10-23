@@ -21,4 +21,4 @@ Bouncy io best a game jumping and safe pass all ...
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Bounce, jump, Jumping
+- Tags: Ball, Bounce, jump, jumping

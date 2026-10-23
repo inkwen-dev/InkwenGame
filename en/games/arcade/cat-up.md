@@ -19,6 +19,6 @@ At first glance, this is a simple platformer with one button, but not everything
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Best Games, Cat, Cute, dash, free html5 games for your website, Jumping, Mobile, Pixel, Retro
+- Tags: 1 Player, Arcade, Best Games, Cat, Cute, dash, free html5 games for your website, jumping, Mobile, pixel, retro

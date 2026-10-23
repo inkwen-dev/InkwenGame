@@ -19,6 +19,6 @@ Abyssborn is a fast, casual survivor roguelike. You auto-fire arrows at the swar
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Hypercasual, survival

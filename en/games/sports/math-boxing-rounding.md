@@ -19,6 +19,6 @@ Round numbers to the nearest 10 to throw punches at the punching bag. Round inco
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Educational, Math
+- Tags: Brain, educational, math

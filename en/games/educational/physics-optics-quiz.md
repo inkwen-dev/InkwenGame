@@ -19,6 +19,6 @@ This quiz is a quick test of Optics (Physics) concepts. Good for both students a
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Physics, Science
+- Tags: educational, Physics, Science

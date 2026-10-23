@@ -19,6 +19,6 @@ A heroic ninja warrior adventure set in medieval age with hack n slash and rpg e
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Fight, Fighting, Ninja, Samurai, Street Fighting, Superhero, War
+- Tags: Adventure, Fight, fighting, ninja, Samurai, Street Fighting, Superhero, War

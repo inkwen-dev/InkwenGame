@@ -19,6 +19,6 @@ This is a puzzle game, come to challenge synthesis 2048!
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Puzzle
+- Tags: card, Puzzle

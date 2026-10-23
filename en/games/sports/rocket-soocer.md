@@ -21,4 +21,4 @@ completely new experience of playing football, then do not miss the opportunity 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Car, Cars, Football, Highscore, Racing, Rocket, Sport, Sports, Supercars
+- Tags: Ball, Car, Cars, Football, Highscore, Racing, Rocket, Sport, sports, Supercars

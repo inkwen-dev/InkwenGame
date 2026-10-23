@@ -19,6 +19,6 @@ A flappy horror game themed about of a flying skull ghost in a cave. Destroy all
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, endless, fly, Hypercasual, Jumping, running
+- Tags: 2D, Arcade, endless, fly, Hypercasual, jumping, running

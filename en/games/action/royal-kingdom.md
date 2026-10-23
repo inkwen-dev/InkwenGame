@@ -21,4 +21,4 @@ The aim of Royal Kingdom is to be the best platformer online game. With a wide v
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Game, Games, HTML5, jump, Jumping, Platform
+- Tags: Action, Adventure, Arcade, Game, Games, HTML5, jump, jumping, Platform

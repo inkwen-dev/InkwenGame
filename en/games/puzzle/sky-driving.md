@@ -19,6 +19,6 @@ Can you win the most dangerous stunt car sky roads game? Enjoy ultimate car driv
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Aircraft, Animal, Arcade, Army, Batman, Boys, Bubble, Bubble Shooter, bus, Cake, Candy, Car, Cars, Chicken, Crazy, Fashion, Games, Girl, Girls, jump, Match 3, Simulation, Spiderman, Supercars, Superhero
+- Tags: Aircraft, Animal, Arcade, Army, Batman, Boys, Bubble, Bubble Shooter, bus, Cake, Candy, Car, Cars, Chicken, crazy, Fashion, Games, Girl, Girls, jump, Match 3, Simulation, Spiderman, Supercars, Superhero

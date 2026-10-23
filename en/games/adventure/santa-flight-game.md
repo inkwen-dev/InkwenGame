@@ -19,6 +19,6 @@ Play as Santa and his reindeer by flying Santas sleigh. Tap the game screen or u
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Christmas, Clicker, Flight, Holiday, Santa Claus
+- Tags: Action, Christmas, Clicker, flight, Holiday, Santa Claus

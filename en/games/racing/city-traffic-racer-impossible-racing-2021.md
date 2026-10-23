@@ -21,4 +21,4 @@ Trucks. SUVs. 4x4. 8x8. Dirt. Rocks. Mud. Customizations. SUV Racing. Diesel swa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Car, Cars, Game, Games, Parking, Race, Racing, Simulation, Simulator, Stunts, Supercars, Truck, Unity3D
+- Tags: 3D, 3D Games, Car, Cars, Game, Games, parking, Race, Racing, Simulation, Simulator, Stunts, Supercars, truck, Unity3D

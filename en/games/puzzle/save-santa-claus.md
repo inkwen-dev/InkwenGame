@@ -19,6 +19,6 @@ This time Santa is in real trouble. He is surrounded by bombs and your job is to
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Kids, Logic, Puzzle

@@ -19,6 +19,6 @@ Princess's puppy hut got into a fire accident and the puppy got severe injury. R
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Hazel, Boy, Boys, Dress Up, Girl, Girls

@@ -21,4 +21,4 @@ Baby Noob and Heroman are lost in the forest. They need to reach home safely. Ba
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Minecraft, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Minecraft, pixel

@@ -21,4 +21,4 @@ Begin an action-packed gun battle runner. Gun Rush is an electrifying arcade gam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Gun, running, Shoot
+- Tags: battle, Gun, running, Shoot

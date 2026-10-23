@@ -21,4 +21,4 @@ Candy Monster Jumping is fun jumping game suitable for all ages. Jump on the pla
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Avoid, Boys, Candy, Collecting, Fun, Girls, HTML5, jump, Jumping, Kids, Monster
+- Tags: Android, Arcade, Avoid, Boys, Candy, Collecting, Fun, Girls, HTML5, jump, jumping, Kids, monster

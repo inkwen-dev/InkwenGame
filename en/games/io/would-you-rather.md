@@ -19,6 +19,6 @@ Would You Rather is the ultimate group game to play with friends! This party app
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2 Player, Adventure, amazing, Android, Arcade, Best Games, Fun, Funny, New, Quiz, Word
+- Tags: .io, .io Games, 2 Player, Adventure, amazing, Android, Arcade, Best Games, Fun, Funny, New, Quiz, word

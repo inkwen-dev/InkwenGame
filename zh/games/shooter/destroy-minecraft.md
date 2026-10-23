@@ -21,4 +21,4 @@ WASD - 移动 右键 - 射击 左键 - 放大 Shift - 跑步 Z - 武器商店 X 
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 最佳, 最佳游戏, 方块, 第一人称射击, 热门, 挖掘, mineblock, 我的世界, 多人游戏, 在线, Roblox, 射击游戏, 武器
+- 标签: 街机, 最佳, 最佳游戏, 方块, 第一人称射击, 热门, 挖掘, mineblock, 我的世界, 多人, 在线, Roblox, 射击类, 武器

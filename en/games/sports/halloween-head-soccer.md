@@ -19,6 +19,6 @@ Are you ready to go head to head on a football match? Choose mode 1P or 2P to ge
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Multiplayer, Sport, Sports
+- Tags: Action, Multiplayer, Sport, sports

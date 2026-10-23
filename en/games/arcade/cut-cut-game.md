@@ -21,4 +21,4 @@ The rabbit Dorote, owner of an orchard, was preparing for an event in her villag
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Arcade, Best Games, Bomb, Click, cut, eggs, Rabbit, Samurai, Sword, touch, touchscreen
+- Tags: 1 Player, 2D, Android, Arcade, Best Games, Bomb, Click, cut, eggs, Rabbit, Samurai, sword, touch, touchscreen

@@ -21,4 +21,4 @@ Get ready to shoot cowboy, because it’s time to deal with Billy the Kid and hi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Classic, Click, Clicker, Gun, Kill, Killing, Point And Click, Shooter, Shooting, Skill, Skills, War
+- Tags: Action, battle, Classic, Click, Clicker, Gun, Kill, Killing, Point And Click, Shooter, Shooting, Skill, Skills, War

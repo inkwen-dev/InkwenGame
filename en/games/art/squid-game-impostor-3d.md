@@ -19,6 +19,6 @@ Welcome to Imposter 3D - Red Light Green Light - Squid Game. Attention
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Color, Coloring, Puzzle

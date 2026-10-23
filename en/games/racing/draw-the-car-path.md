@@ -19,6 +19,6 @@ Draw The Car Path is a fun combination of parking and puzzle game where you draw
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Kids, Mobile, Parking
+- Tags: Car, Cars, Kids, Mobile, parking

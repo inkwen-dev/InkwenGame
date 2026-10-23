@@ -21,4 +21,4 @@ Snow Mountain Snowboard game has a lot of success review and player this MONTH t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Ice, Interactive, Interactive Fiction, Kid, Kids, Race, Racing, sky, Snow, Space, Sport, Sports
+- Tags: basketball, Ice, Interactive, Interactive Fiction, Kid, Kids, Race, Racing, sky, Snow, Space, Sport, sports

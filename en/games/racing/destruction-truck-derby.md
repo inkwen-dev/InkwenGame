@@ -21,4 +21,4 @@ Experience an adrenaline rush with Destruction Truck Derby! Crush your enemies' 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Battlegrounds, Best, Car, H5, Hot, HTML5, New, Racing, Spongebob, Sport, Sports
+- Tags: Action, battle, Battlegrounds, Best, Car, H5, Hot, HTML5, New, Racing, Spongebob, Sport, sports

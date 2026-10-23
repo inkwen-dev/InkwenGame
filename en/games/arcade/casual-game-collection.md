@@ -19,6 +19,6 @@ Is a collection of 2 player games where you can challenge your friends to a duel
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Fun, Hypercasual, Math
+- Tags: Arcade, Casual, Fun, Hypercasual, math

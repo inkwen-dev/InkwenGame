@@ -19,6 +19,6 @@ Ear Treatment is a doctor simulate game! Here we have many awesome medical tools
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Doctor, Fun, Funny, Girl, Girls, Simulation

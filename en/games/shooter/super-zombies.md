@@ -19,6 +19,6 @@ THE BEST ZOMBIE CAT SHOOTER GAME OF 2020! Play the best RPG action-packed zombie
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Alien, Arcade, Blood, Bomb, Gun, Kill, Killing, Shoot, Shooting, Zombie

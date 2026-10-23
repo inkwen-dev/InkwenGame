@@ -21,4 +21,4 @@ Tile Pair Jam is a sliding mahjong puzzle. Shift tiles horizontally or verticall
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Mahjong, Matching, Puzzle
+- Tags: Brain, mahjong, Matching, Puzzle

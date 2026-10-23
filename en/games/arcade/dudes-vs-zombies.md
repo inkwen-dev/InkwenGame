@@ -19,6 +19,6 @@ It's a wild pixel action about a bunch of dudes against a bunch of zombies. No q
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Arcade, Blood, Cartoon, Crazy, Fight, Funny, HTML5, Mobile, Retro, run, WebGL, World, Zombie
+- Tags: 1 Player, Action, Arcade, Blood, Cartoon, crazy, Fight, Funny, HTML5, Mobile, retro, run, WebGL, World, Zombie

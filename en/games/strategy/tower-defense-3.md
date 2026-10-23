@@ -21,4 +21,4 @@ A horde of horrible monsters is attacking your kingdom, build your towers fast a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Defense, Magic, Monster, Strategy, Tower Defense
+- Tags: Action, Adventure, Defense, Magic, monster, strategy, Tower Defense

@@ -21,4 +21,4 @@ Party.io 2 现在有了更新的背景，乐趣更多！你可以选择一个有
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 3D, 3D游戏, 动作, 战斗, 格斗, 搞笑, 孩子, Unity3D
+- 标签: .io, .io 游戏, 3D, 3D游戏, 动作, 格斗, 格斗, 搞笑, 儿童, Unity3D

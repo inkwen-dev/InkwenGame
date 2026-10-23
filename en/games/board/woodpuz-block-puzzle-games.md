@@ -19,6 +19,6 @@ Discover WoodPuz: Block Puzzle Games &ndash; the ultimate brain-teasing escape! 
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Block, blocky, Board, Brain, Matching, Puzzle, sort, sorting, Sudoku, water
+- Tags: 2D, block, blocky, Board, Brain, Matching, Puzzle, sort, sorting, Sudoku, water

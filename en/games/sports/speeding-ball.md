@@ -21,4 +21,4 @@ There is only one stroke per hole, and you need to roll the ball with one stroke
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Golf, Hypercasual
+- Tags: 3D, Arcade, golf, Hypercasual

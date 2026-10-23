@@ -19,6 +19,6 @@ Are you ready to have fun with your friends and have fun for 4 people? Get ready
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade

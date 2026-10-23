@@ -19,6 +19,6 @@ Car Driving Simulator is the best car simulator of 2022, thanks to its advanced 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Boy, Boys, Collection, Crazy, Creation, Decorate, Decoration, drift, drifting, Driving, Educational, Girl, Girls, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Boy, Boys, Collection, crazy, Creation, Decorate, Decoration, drift, drifting, Driving, educational, Girl, Girls, Unity3D

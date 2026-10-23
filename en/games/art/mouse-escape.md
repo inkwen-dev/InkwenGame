@@ -21,4 +21,4 @@ Mouse Escape – This is a game in which you need to draw a route for a little m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Draw, Drawing, Escape, Fun, Logic, Logical, Mobile, Skill, Skills
+- Tags: Animal, Draw, drawing, Escape, Fun, Logic, Logical, Mobile, Skill, Skills

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 人, 2D, 无尽, 游戏, HTML5, 跑酷, 跑步, 僵尸
+- 标签: 单人, 2D, 无尽, 网页游戏, HTML5, 跑, 奔跑, 僵尸

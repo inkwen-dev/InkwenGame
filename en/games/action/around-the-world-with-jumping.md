@@ -21,4 +21,4 @@ Travel around world with jumping. Time your jump and avoid hitting the Eiffel to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Jumping, Platform, Puzzle
+- Tags: HTML5, jumping, Platform, Puzzle

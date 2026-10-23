@@ -19,6 +19,6 @@ Easy to Paint Spring Time is a free online coloring game suitable for all ages. 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Color, Coloring, Educational, Fun, HTML5, Hypercasual, School
+- Tags: Arcade, Color, Coloring, educational, Fun, HTML5, Hypercasual, School

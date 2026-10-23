@@ -21,4 +21,4 @@ Lobster Jump Adventure is fun jumping game suitable for all ages. The aim of the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Avoid, Collecting, Game, HTML5, Hypercasual, jump, Jumping, Kids, Mobile, Skill
+- Tags: Android, Avoid, Collecting, Game, HTML5, Hypercasual, jump, jumping, Kids, Mobile, Skill

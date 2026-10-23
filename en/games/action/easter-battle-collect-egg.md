@@ -19,6 +19,6 @@ You must be faster than your friend on Easter morning and collect all the colore
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Arcade, Arena, Battle, Easter
+- Tags: 2 Player, 2 Player Games, 2D, Arcade, Arena, battle, Easter

@@ -19,6 +19,6 @@ Xmas Gingerbread House Cake is a very interesting cooking game with Frozen's cha
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Christmas, Cooking, Decorate, Decoration, Food, Fun, Girls, Holiday, HTML5, Kids, Mobile, Princess

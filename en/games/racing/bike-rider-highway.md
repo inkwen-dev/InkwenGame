@@ -21,4 +21,4 @@ Experience the thrill of high-speed motorcycle racing. Zoom past cars and trucks
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Bike, HTML5, iPad, iPhone, Mentolatux, Mobile, Motorcycle, Racing, Unity3D, WebGL
+- Tags: Android, bike, HTML5, iPad, iPhone, Mentolatux, Mobile, Motorcycle, Racing, Unity3D, WebGL

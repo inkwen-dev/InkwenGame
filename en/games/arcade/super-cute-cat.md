@@ -19,6 +19,6 @@ You need to help super sweet cat hunt the mutated cats. You must destroy the mut
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Android, Arcade, Arena

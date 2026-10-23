@@ -21,4 +21,4 @@ Survive against waves of bizarre monsters trying to invade your farm. Collect te
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Best Games, Defense, Farm, Fighting, Fun, Monster, Strategy
+- Tags: 1 Player, Adventure, Best Games, Defense, Farm, fighting, Fun, monster, strategy

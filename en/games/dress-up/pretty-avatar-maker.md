@@ -21,4 +21,4 @@ It's time to update your image in social networks. Our unique avatar maker will 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Coloring, Craft, Creation, Cute, Decorate, Decoration, Design, Dress Up, Fairy, Fantasy, Fashion, Girl, Hair, HTML5, Makeover, Monster, Princess, Superhero
+- Tags: Cartoon, Coloring, Craft, Creation, Cute, Decorate, Decoration, Design, Dress Up, Fairy, Fantasy, Fashion, Girl, Hair, HTML5, Makeover, monster, Princess, Superhero

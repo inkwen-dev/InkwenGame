@@ -21,4 +21,4 @@ Pipe Puzzle: Line Art is a Connect Line puzzle game that’ll keep your mind ent
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Board, Cool, Crazy, Pipe, Puzzle
+- Tags: 2D, Board, cool, crazy, Pipe, Puzzle

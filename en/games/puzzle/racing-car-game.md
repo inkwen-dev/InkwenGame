@@ -21,4 +21,4 @@ Keyboard Control
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Arena, Arkanoid, Army, Barbie, Billiard, Boy, Boys, Bubble, Bubble Shooter, bus, Candy, Car, Card, Cars, Cartoon, Cartoon Network, Interactive, Monkey, Monster, Moto, Motorcycle, Racing, Supercars, Truck
+- Tags: .io Games, Arena, Arkanoid, Army, Barbie, Billiard, Boy, Boys, Bubble, Bubble Shooter, bus, Candy, Car, card, Cars, Cartoon, Cartoon Network, Interactive, Monkey, monster, Moto, Motorcycle, Racing, Supercars, truck

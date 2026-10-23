@@ -19,6 +19,6 @@ time to test your memory in the Subway Surfers Match Up game! Join the Subway Su
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Hypercasual, Memory, Puzzle, subway, Subway Surfers
+- Tags: Brain, Hypercasual, memory, Puzzle, subway, Subway Surfers

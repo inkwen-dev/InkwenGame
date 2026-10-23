@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, Animal, Anime, Arcade, Brain, Classic, Fun, Funny, Kid, Kids, Math, Mind, Puzzle
+- Tags: 2D, Android, Animal, Anime, Arcade, Brain, Classic, Fun, Funny, Kid, Kids, math, Mind, Puzzle

@@ -21,4 +21,4 @@ Prepare for a whirlwind of whimsical chaos in Fall Boys Skibidi Toilet! This vib
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Fall Boys, Fall Guys, HTML5, Mobile, run, running, Skibidi, Skibidi Toilet
+- Tags: Android, Fall Boys, Fall Guys, HTML5, Mobile, run, running, Skibidi, skibidi-toilet

@@ -19,6 +19,6 @@ Pulse Tactics Tic Tac Toe reinvents the Tic Tac Toe game by introducing a captiv
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Click, Interactive, Strategy
+- Tags: 1 Player, 2D, Click, Interactive, strategy

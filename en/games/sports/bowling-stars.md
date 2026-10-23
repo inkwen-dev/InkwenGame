@@ -53,4 +53,4 @@ A: The music complements the experience well, but it isn't required to play the 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Ball, bowling, Sports
+- Tags: Ball, bowling, sports

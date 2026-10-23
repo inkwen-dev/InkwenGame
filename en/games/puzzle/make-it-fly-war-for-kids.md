@@ -19,6 +19,6 @@ Make It Fly war for kids! game education boys shooting has a lot of success revi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Animal, Anime, Arkanoid, Balance, Batman, Bejeweled, Bubble Shooter, Candy, Educational, Kid, Kids, Red, Seduction, Shoot, Shoot 'Em Up, Shooter, Shooting, Turn Based
+- Tags: Android, Animal, Anime, Arkanoid, Balance, Batman, Bejeweled, Bubble Shooter, Candy, educational, Kid, Kids, Red, Seduction, Shoot, Shoot 'Em Up, Shooter, Shooting, Turn Based

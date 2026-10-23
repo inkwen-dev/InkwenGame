@@ -19,6 +19,6 @@ An educational puzzle game with more than 2000 levels to solve! Seek Hidden word
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Design, Educational, Games, Matching, Memory, Relaxation, Skills, WebGL, Word
+- Tags: 1 Player, Design, educational, Games, Matching, memory, Relaxation, Skills, WebGL, word

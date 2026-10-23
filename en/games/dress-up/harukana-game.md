@@ -19,6 +19,6 @@ Open up your own fitness studio and become the coolest coach there is! Show your
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Baby, Barbie, Cartoon, Dress Up, Elsa, Fashion, Games, Girls, Mobile, Princess, Simulation

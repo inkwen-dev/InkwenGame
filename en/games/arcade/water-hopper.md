@@ -21,4 +21,4 @@ Water Hopper - is a game where you play as a bird trying to avoid the water and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Arcade, Bird, jump, Jumping
+- Tags: 1 Player, 2D, Action, Adventure, Arcade, Bird, jump, jumping

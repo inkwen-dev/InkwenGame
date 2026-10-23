@@ -15,6 +15,6 @@ Embark on a cosmic adventure in Everyone's Sky, where every decision shapes your
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: open-world

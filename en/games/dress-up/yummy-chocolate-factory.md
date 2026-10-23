@@ -15,6 +15,6 @@ Dive into the delightful world of Yummy Chocolate Factory, where crafting delect
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Dress Up

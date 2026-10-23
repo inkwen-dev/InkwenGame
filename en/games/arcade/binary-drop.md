@@ -21,4 +21,4 @@ Binary Drop turns learning binary into a falling-blocks puzzle. Every row is a l
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Brain, Educational, Logic, Math, Puzzle
+- Tags: Arcade, Brain, educational, Logic, math, Puzzle

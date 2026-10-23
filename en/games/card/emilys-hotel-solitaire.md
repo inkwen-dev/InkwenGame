@@ -19,6 +19,6 @@ What are you going to do when you go on a journey to a tropical island? Will you
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, amazing, Bejeweled, Board, Card, Farm, Solitaire, WebGL
+- Tags: 1 Player, 2D, amazing, Bejeweled, Board, card, Farm, solitaire, WebGL

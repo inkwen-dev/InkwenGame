@@ -19,6 +19,6 @@ A simple, yet funny solitaire card game. Try to win as many rounds of golf solit
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casual, Classic, Golf, Poker, Puzzle, Solitaire
+- Tags: card, Casual, Classic, golf, Poker, Puzzle, solitaire

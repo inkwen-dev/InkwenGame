@@ -21,4 +21,4 @@ Stat Stealer is an idle game about slime that can absorb others' stats. You figh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Clicker, RPG, Slicing
+- Tags: battle, Clicker, rpg, Slicing

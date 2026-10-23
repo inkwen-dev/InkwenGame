@@ -19,6 +19,6 @@ Hippo Wedding Party game in which Hippo\\s cousin is getting married! The whole 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cleaning, Dress Up, Funny, Girl, Girls

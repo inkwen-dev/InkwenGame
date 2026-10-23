@@ -19,6 +19,6 @@ Panda Commander is an amazing shooting plane game for your android device. Keepi
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Air, Aircraft, Fighting, Shooter
+- Tags: Action, Air, Aircraft, fighting, Shooter

@@ -21,4 +21,4 @@ Modern bus parking simulator Free Games offline is new Bus Simulator 2020 with s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, bus, Car, Card, Cars, Casual, drift, drifting, Driving, Funny, Hot, Hypercasual, Parking, Supercars
+- Tags: Action, Adventure, bus, Car, card, Cars, Casual, drift, drifting, Driving, Funny, Hot, Hypercasual, parking, Supercars

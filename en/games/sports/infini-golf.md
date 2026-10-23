@@ -21,4 +21,4 @@ Hey, would you like to play an infinite golf game? Yes, exactly! I mean, after o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Casual, Golf, mapi games, Sport
+- Tags: Arcade, Ball, Casual, golf, mapi games, Sport

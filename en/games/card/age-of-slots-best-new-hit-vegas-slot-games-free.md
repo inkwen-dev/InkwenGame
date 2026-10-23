@@ -19,6 +19,6 @@ Best New Slots for 2021 is Age of Slots™, the Best New Hit Vegas Slot Games Fr
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Card, Casino, Castle, Girl, Slot Machine
+- Tags: Arcade, card, Casino, Castle, Girl, Slot Machine

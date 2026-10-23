@@ -21,4 +21,4 @@ Nowadays, the designer of the city needs you to deal with some basic constructio
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, city, Driving, Mobile, Simulation, Truck, Unity3D
+- Tags: 3D, city, Driving, Mobile, Simulation, truck, Unity3D

@@ -21,4 +21,4 @@ Wood Block Puzzle is a popular and classic block-style puzzle game. The goal of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Casual, Hypercasual, Puzzle
+- Tags: block, Casual, Hypercasual, Puzzle

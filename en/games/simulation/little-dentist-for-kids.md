@@ -19,6 +19,6 @@ Take care of all the little patients in this great Dentist Office game! Now let 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Hazel, Boys, Cartoon, Doctor, Girls, Simulation, Simulator

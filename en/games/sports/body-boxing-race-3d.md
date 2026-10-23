@@ -21,4 +21,4 @@ Are you finding some funny 3D games for relief or to get a new experience? Do yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Girls, Puzzle, Sports
+- Tags: 3D, 3D Games, Girls, Puzzle, sports

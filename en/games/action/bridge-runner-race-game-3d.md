@@ -19,6 +19,6 @@ Try to build your own Bridge by competing with others for collectible blocks! Yo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Bridge, HTML, HTML5, Race, run, running, Strategy
+- Tags: Boys, Bridge, HTML, HTML5, Race, run, running, strategy

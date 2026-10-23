@@ -21,4 +21,4 @@ Our all new Find the Difference game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Baby, Baby Hazel, Ben 10, Boy, Boys, Cartoon, Dragon Ball Z, Draw, Drawing, Girl, Girls, Kid, Kids, Puzzle
+- Tags: 1 Player, Baby, Baby Hazel, Ben 10, Boy, Boys, Cartoon, Dragon Ball Z, Draw, drawing, Girl, Girls, Kid, Kids, Puzzle

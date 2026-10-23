@@ -19,6 +19,6 @@ Fire Balls D is a casual game controlled by simple touch It will keep you for ho
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Ball, Fun

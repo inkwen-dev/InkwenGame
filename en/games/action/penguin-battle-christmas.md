@@ -19,6 +19,6 @@ Penguin Battle Christmas - An army of snowmen are determined to ransack this poo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Christmas, Kid, Kids, Penguin
+- Tags: battle, Christmas, Kid, Kids, Penguin

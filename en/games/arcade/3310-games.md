@@ -19,6 +19,6 @@ Play fun 3310 games on a realistically crafted phone. In this game that appeals 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Classic, Funny, Retro
+- Tags: Android, Arcade, Classic, Funny, retro

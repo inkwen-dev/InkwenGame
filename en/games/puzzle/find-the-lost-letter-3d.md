@@ -21,4 +21,4 @@ Somethings missing&hellip; can you find it? Help your dolphin friend rescue the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Family, html5 games, Kids, Letters, mapi games, Word
+- Tags: Family, html5 games, Kids, Letters, mapi games, word

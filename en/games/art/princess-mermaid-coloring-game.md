@@ -21,4 +21,4 @@ Mermaids are the most fantastic and beautiful princesses of the ocean. Come in a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Color, Coloring, Draw, Drawing, Girl, Girls, Mermaid
+- Tags: Baby, Color, Coloring, Draw, drawing, Girl, Girls, Mermaid

@@ -19,6 +19,6 @@ It's time to test your incredible skills as a war pilot in Hot Sky! Will you be 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Shoot 'Em Up, WebGL

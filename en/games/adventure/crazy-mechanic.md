@@ -21,4 +21,4 @@ Welcome to the Crazy Mechanic game! In this game, you are a very, very crazy mec
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Adventure, jump, Jumping
+- Tags: 1 Player, 3D, Adventure, jump, jumping

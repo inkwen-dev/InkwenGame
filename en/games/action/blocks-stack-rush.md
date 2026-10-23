@@ -21,4 +21,4 @@ Enjoy an addictive stacking adventure. In Blocks Stack Rush, you&rsquo;ll contro
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Pixel, running, Stack
+- Tags: block, pixel, running, Stack

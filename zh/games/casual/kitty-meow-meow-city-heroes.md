@@ -21,4 +21,4 @@ Kitty Meow Meow City Heroes 是一款非常可爱的遊戲。一場猛烈的暴�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Animal, 猫, Cute, 女孩
+- 标签: 动物, 猫, 可爱, 女孩

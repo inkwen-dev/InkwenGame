@@ -21,4 +21,4 @@ Animals Clicker is a clicker with lots of cards with cute animals and pets. Clic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Card, Cartoon Network, Casual, Clicker, Cute, Game, HTML5, Kids
+- Tags: Animal, card, Cartoon Network, Casual, Clicker, Cute, Game, HTML5, Kids

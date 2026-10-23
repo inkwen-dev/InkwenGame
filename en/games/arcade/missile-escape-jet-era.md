@@ -19,6 +19,6 @@ Missile Escape. Jet Era is a simple, fast and addictive game where your mission 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Aircraft, airplane, Avoid

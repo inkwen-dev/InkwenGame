@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 卡通, 卡通频道, 火, HTML5, 超休闲, 跑酷, Unity3D
+- 标签: 冒险, 卡通, 卡通频道, 火焰, HTML5, 超休闲, 跑, Unity3D

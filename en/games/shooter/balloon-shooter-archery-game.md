@@ -19,6 +19,6 @@ Welcome to the ultimate balloon shooting adventure game. Get ready to test your 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Ballon, Casual, Hypercasual, Shooter

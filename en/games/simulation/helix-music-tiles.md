@@ -21,4 +21,4 @@ Helix Music Tiles is super fun and addictive one-touch casual game. The most add
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Casual, Fun, Hypercasual, jump, Jumping, Simulation
+- Tags: 3D, Casual, Fun, Hypercasual, jump, jumping, Simulation

@@ -21,4 +21,4 @@ SkyFury is a game about airplanes war where player airplane has to survive and d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: airplane, Battle, sky, War
+- Tags: airplane, battle, sky, War

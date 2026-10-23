@@ -19,6 +19,6 @@ Stonepillar is a simple game to play with physics of weight balancing. Simple ta
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Puzzle
+- Tags: block, Puzzle

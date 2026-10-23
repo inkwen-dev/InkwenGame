@@ -21,4 +21,4 @@ Time is against the Ninja Turtles in this Extreme Skate 5000 Game! Waking up fro
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Best, Hot, New, Ninja, Ninjago, Racing
+- Tags: Action, Best, Hot, New, ninja, Ninjago, Racing

@@ -19,6 +19,6 @@ Welcome to Stickman Superhero Hook - Super Stick Heroes Swing! Play as the stick
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Spiderman, Stickman
+- Tags: Adventure, Spiderman, stickman

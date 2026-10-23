@@ -21,4 +21,4 @@ You can create and modify an entire kingdom in this magical building simulation 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Crafting, Minecraft, Pixel
+- Tags: 3D Games, Crafting, Minecraft, pixel

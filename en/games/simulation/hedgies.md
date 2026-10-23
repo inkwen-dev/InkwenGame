@@ -21,4 +21,4 @@ A single Hedgehog is capable of turning a desolate and abandoned household on pl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, Cooking, cozy, Crafting, Farm, Management
+- Tags: animals, Cooking, cozy, Crafting, Farm, management

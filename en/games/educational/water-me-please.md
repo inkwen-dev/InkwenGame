@@ -15,6 +15,6 @@ Guide water to thirsty plants by arranging puzzle pieces in over 600 levels. Enj
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Educational
+- Tags: educational

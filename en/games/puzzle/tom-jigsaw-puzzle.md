@@ -21,4 +21,4 @@ Talking Tom Jigsaw Puzzle is coming! Have fun!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Casual, Cat, Cute, Educational, Girl, Girls, H5, HTML5, Jigsaw, Puzzle
+- Tags: Animal, Baby, Casual, Cat, Cute, educational, Girl, Girls, H5, HTML5, Jigsaw, Puzzle

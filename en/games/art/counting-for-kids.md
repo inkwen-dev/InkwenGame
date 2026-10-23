@@ -21,4 +21,4 @@ Counting Game for Kids is a set of unique educational kids counting games aimed 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Educational, Kids, Math, Puzzle, puzzleblock, Spaceship
+- Tags: Coloring, educational, Kids, math, Puzzle, puzzleblock, Spaceship

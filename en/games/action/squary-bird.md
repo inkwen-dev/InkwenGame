@@ -19,6 +19,6 @@ Squary Bird is a Flappy Bird clone game with a unique "square" theme. Day and ni
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Android, Arcade, Avoid, Bird, Block, Casual, fly, Highscore, HTML, HTML5, Obstacle, Pipe, Platform, Skill
+- Tags: 1 Player, 2D, Adventure, Android, Arcade, Avoid, Bird, block, Casual, fly, Highscore, HTML, HTML5, Obstacle, Pipe, Platform, Skill

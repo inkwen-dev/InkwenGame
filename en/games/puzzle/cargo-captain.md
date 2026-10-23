@@ -19,6 +19,6 @@ Cargo Captain is a physics-based puzzle adventure where you help the captain sta
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, cargo, Casual, Physics, Puzzle, Stack, Tetris
+- Tags: block, cargo, Casual, Physics, Puzzle, Stack, tetris

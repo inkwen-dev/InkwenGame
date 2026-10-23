@@ -19,6 +19,6 @@ Get ready for your own hidden object mobile journey in Hidden City®! Step insid
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Android, Arcade, Arena, Arkanoid, Barbie, Brawl, Bubble, Bubble Shooter, Candy, Chicken, Ever After High, Fashion, Fishing, Fun, Hidden, Highscore, Machine, Matching, Memory, Slot Machine, Spaceship
+- Tags: 8 Ball Pool, Android, Arcade, Arena, Arkanoid, Barbie, Brawl, Bubble, Bubble Shooter, Candy, Chicken, Ever After High, Fashion, Fishing, Fun, Hidden, Highscore, Machine, Matching, memory, Slot Machine, Spaceship

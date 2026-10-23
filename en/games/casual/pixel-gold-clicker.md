@@ -19,6 +19,6 @@ Get gold, buy all upgrades and eliminate the butterflies to get rich in this gre
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Clicker, Fun, Funny, Game, HTML5, Pixel
+- Tags: Casual, Clicker, Fun, Funny, Game, HTML5, pixel

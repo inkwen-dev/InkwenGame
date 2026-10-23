@@ -21,4 +21,4 @@ Solve the word puzzle to improve your word stock Place the desired word from the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Casual, Puzzle, Word
+- Tags: 2D, Casual, Puzzle, word

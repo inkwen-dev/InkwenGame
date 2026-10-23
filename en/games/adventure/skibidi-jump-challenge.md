@@ -21,4 +21,4 @@ Skibidi Jump Challenge is a fun yet challenging game to play. Here, the player h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, jump, Jumping, Skibidi, Skibidi Toilet
+- Tags: 2D, Action, Adventure, jump, jumping, Skibidi, skibidi-toilet

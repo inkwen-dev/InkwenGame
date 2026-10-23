@@ -19,6 +19,6 @@ Produced in-house at Netflix Animation, the film is scheduled for a release in s
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Match 3, Matching, Puzzle
+- Tags: card, Match 3, Matching, Puzzle

@@ -19,6 +19,6 @@ Play the fish onto the board as you try to match 3 or more of the same fish to m
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, H5, Hypercasual, Puzzle

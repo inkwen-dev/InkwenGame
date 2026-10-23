@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, 箭头, 箭矢, 技巧, unity, unity游戏, unity游戏用于你的网站, unity游戏用于你的网页, Unity3D
+- 标签: 3D, 3D游戏, 箭矢, 箭头, 技巧, unity, unity游戏, 适用于您网站的 unity 游戏, 适用于您网站的 Unity 游戏, Unity3D

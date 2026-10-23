@@ -21,4 +21,4 @@ ARMA（以 ARMA 的形式呈现）是一系列第一人称战术军事射击游�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 益智, 记忆, 解谜
+- 标签: 大脑, 记忆, 益智

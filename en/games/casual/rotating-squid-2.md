@@ -15,6 +15,6 @@ Embark on a whimsical journey as Player N⁰456 in Rotating Squid, where the wor
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Fun

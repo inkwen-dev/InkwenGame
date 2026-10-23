@@ -21,4 +21,4 @@ This is truck puzzle game from type of hidden objects. In this game your job is 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Hidden, Puzzle, Truck
+- Tags: Hidden, Puzzle, truck

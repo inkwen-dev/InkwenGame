@@ -21,4 +21,4 @@ Here come some tasty Word Cookies hot out of the oven! Take a bite! Word Cookies
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Cake, Cook, Cooking, HTML, HTML5, Hypercasual, Mind, Puzzle, Strategy, Word
+- Tags: Arcade, Brain, Cake, Cook, Cooking, HTML, HTML5, Hypercasual, Mind, Puzzle, strategy, word

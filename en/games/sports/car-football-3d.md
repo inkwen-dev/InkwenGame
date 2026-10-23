@@ -21,4 +21,4 @@ play soccer with your car and try to score the most goals
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Car, Cars, Football, Soccer, Sport, Sports
+- Tags: 1 Player, 3D, 3D Games, Car, Cars, Football, Soccer, Sport, sports

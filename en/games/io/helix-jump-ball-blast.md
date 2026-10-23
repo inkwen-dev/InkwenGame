@@ -19,6 +19,6 @@ Exciting adventure of the bouncing ball through the helix tower labyrinth.
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 3D, Avoid, Ball, Block, Brain, Bricks, Obstacle, Unity3D
+- Tags: .io, 3D, Avoid, Ball, block, Brain, Bricks, Obstacle, Unity3D

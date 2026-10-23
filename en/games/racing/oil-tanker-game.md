@@ -21,4 +21,4 @@ Oil Tanker: Ultimate Expedition puts you behind the wheel of a powerful fuel tan
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Action, Adventure, amazing, Best Games, Driving, Truck
+- Tags: 2026 games, Action, Adventure, amazing, Best Games, Driving, truck

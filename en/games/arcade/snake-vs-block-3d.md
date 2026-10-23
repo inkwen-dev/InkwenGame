@@ -21,4 +21,4 @@ Snake vs block is a free game about the war of balls and blocks. The snake is ma
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Block, Snake
+- Tags: 3D, 3D Games, block, snake

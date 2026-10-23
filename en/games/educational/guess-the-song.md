@@ -21,4 +21,4 @@ The song quiz full of free music
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Boy, Boys, Click, Clicker, Fun, Girl, Girls, Music, Point And Click, Prison, Puzzle, Quiz
+- Tags: Anime, Boy, Boys, Click, Clicker, Fun, Girl, Girls, music, Point And Click, Prison, Puzzle, Quiz

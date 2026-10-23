@@ -21,4 +21,4 @@ Dunkbrush 是一款篮球技巧游戏，你需要画线让球落入篮筐。务�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 篮球, HTML5, 技巧, 运动
+- 标签: 篮球, HTML5, 技巧, 体育

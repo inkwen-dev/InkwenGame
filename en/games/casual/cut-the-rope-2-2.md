@@ -15,6 +15,6 @@ Help Om Nom retrieve his stolen candy in Cut the Rope 2, a delightful physics pu
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Casual

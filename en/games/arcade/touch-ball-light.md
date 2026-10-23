@@ -21,4 +21,4 @@ The game play is easier as you just need to click and keep clicking on the ball 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Arcade, Ball, Ballon, Boy, Boys, Casual, Crazy, Fun, Girl, Girls, HTML, HTML5, Hypercasual, Kid, Mobile
+- Tags: Adult, Arcade, Ball, Ballon, Boy, Boys, Casual, crazy, Fun, Girl, Girls, HTML, HTML5, Hypercasual, Kid, Mobile

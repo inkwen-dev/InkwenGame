@@ -19,6 +19,6 @@ Stickman Brothers In Fruit Island Adventure 2 - New two players game dev by to43
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Stickman
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, stickman

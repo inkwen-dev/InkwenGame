@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 家庭, HTML5游戏, kids, 字母, 地图游戏, 单词
+- 标签: 家庭, HTML5游戏, 儿童, 字母, mapi games, 单词

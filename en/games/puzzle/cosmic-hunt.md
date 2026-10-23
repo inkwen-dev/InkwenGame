@@ -21,4 +21,4 @@ Cosmic Hunt blasts off into a galaxy of hidden words! Explore 8 space-themed cat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ai Games, Brain, Family, mapi games, Word
+- Tags: Ai Games, Brain, Family, mapi games, word

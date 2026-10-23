@@ -19,6 +19,6 @@ To beat this challenging puzzle game, you have to move the wagon full of gold ou
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Game, Games, Gold, HTML, HTML5, Logic, Logical, Mine, Miner, Mobile, Online, Puzzle

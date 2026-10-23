@@ -1,0 +1,24 @@
+# 灯光
+
+<a href="https://inkwengame.com/zh/games/lights" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/lights/cover.jpg)
+
+在最短时间内将所有电线连接到电源，点亮所有的灯泡！
+
+## 怎么玩
+
+使用鼠标玩游戏
+
+## 介绍
+
+在最短时间内将所有电线连接到电源，点亮所有的灯泡！
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/puzzle" target="_blank" rel="noopener noreferrer">益智</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 大脑, 益智, 技巧, 技能

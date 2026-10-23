@@ -21,4 +21,4 @@ You like fighting games and stickman games? Then this game was made for you! Ent
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Fight, Game, Highscore, Skill, Stickman, Sword, weapons
+- Tags: Action, battle, Fight, Game, Highscore, Skill, stickman, sword, weapons

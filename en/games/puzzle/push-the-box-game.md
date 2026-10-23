@@ -19,6 +19,6 @@ There will be clearly marked points on the map, push the boxes until all these p
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Fun, HTML5, Hypercasual, Puzzle

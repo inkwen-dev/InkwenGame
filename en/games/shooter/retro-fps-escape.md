@@ -19,6 +19,6 @@ Explore and escape from the maze , you will face a tone of obstacles and enemy p
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Battle, Classic, Escape, Kill, Pixel, Shooting
+- Tags: Adventure, battle, Classic, Escape, Kill, pixel, Shooting

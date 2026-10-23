@@ -21,4 +21,4 @@ Classic driving simulation games. Fresh and simple game screen. Simple operation
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Brain, Bricks, Car, Card, Traffic
+- Tags: Adventure, Brain, Bricks, Car, card, Traffic

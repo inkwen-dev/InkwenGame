@@ -19,6 +19,6 @@ Get ready for an epic puzzle matching adventure in the Kingdom of Arendelle, ins
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Cartoon, Color, Coloring, Disney, Elsa, Frozen, Fun, Girls, HTML5, Kids, Magic, Mobile, Princess

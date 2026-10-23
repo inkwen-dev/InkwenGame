@@ -21,4 +21,4 @@ Run Dash Jump game is a cool adventure arcade game. If you are a fan of running 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arcade, Cool, jump, run, Shooter
+- Tags: 2D, Adventure, Arcade, cool, jump, run, Shooter

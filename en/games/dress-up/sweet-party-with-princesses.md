@@ -19,6 +19,6 @@ Have you ever dreamt of a candy land? A fun land full of sweets and candies, clo
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fashion, Game, Games, Girl, Girls, Princess

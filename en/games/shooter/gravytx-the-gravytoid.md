@@ -21,4 +21,4 @@ Play as GravytX an alien who has the ability to control objects remotely and man
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Android, Arcade, Brain, Casual, Classic, Fun, Funny, Game, Games, Mobile, Pixel, Platform, Puzzle, Retro, run, running, Shoot, Shooter, Space
+- Tags: 2D, Action, Adventure, Android, Arcade, Brain, Casual, Classic, Fun, Funny, Game, Games, Mobile, pixel, Platform, Puzzle, retro, run, running, Shoot, Shooter, Space

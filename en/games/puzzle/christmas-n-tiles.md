@@ -19,6 +19,6 @@ Christmas N Tiles is a fun and simple elimination mahjong-inspired game, your go
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, HTML5, Match 3, Mobile, Winter

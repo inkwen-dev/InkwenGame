@@ -21,4 +21,4 @@ Cat A Gory is an off-the-wall word puzzler that will keep you coming back for mo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bomb, Cat, Hello Kitty, HTML, HTML5, Letters, Mobile, Puzzle, Word
+- Tags: Bomb, Cat, Hello Kitty, HTML, HTML5, Letters, Mobile, Puzzle, word

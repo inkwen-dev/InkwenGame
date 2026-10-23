@@ -19,6 +19,6 @@ Burning man is fun addictive hypercasual adventure game. Help the Burning Man to
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Casual, Hypercasual, Puzzle, Strategy
+- Tags: Adventure, Casual, Hypercasual, Puzzle, strategy

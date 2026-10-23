@@ -21,4 +21,4 @@ Build your tower, Ghost by Ghost! Simply drop the block on top of each other and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, free html5 games for your website, HTML, Mobile, Puzzle, puzzleblock
+- Tags: Arcade, block, free html5 games for your website, HTML, Mobile, Puzzle, puzzleblock

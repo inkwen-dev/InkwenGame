@@ -19,6 +19,6 @@ Smash all the ants that appear on the screen with your fingers, before they leav
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Animal, Arcade, Boy, Boys, Clicker, Family, Kids, Worms

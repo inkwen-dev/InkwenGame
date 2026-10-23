@@ -19,6 +19,6 @@ Choo Choo train Charles 2023 game is a horror game with a character of train, an
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, Escape, Ghost, run, running, Unity3D

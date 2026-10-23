@@ -21,4 +21,4 @@ This is an adventure that will take you through time and space! Along the way, y
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Adventure, Monster, Stickman
+- Tags: Action, Adventure, monster, stickman

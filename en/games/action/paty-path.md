@@ -19,6 +19,6 @@ Run, jump, and dodge obstacles in a fast-paced casual runner! Run, dodge obstacl
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 3D, Action, Arcade, Highscore, run, running, Skills

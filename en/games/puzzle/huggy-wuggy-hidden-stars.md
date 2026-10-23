@@ -19,6 +19,6 @@ Today we have a super fun Huggy Wuggy Hidden Stars game ready to play online for
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Cartoon, Fun, Girls, Hidden, Hypercasual, Kids, Mobile, Puzzle, Skill

@@ -19,6 +19,6 @@ At the top of the screen you will see a hint, it will direct your thoughts in th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Kids, Letters, Mobile, Skill, Word
+- Tags: Fun, HTML5, Kids, Letters, Mobile, Skill, word

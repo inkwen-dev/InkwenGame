@@ -21,4 +21,4 @@ The Cute Cube is jumping cause it is so excited! HOLD a finger on the screen to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Cute, jump, Jumping
+- Tags: block, Cute, jump, jumping

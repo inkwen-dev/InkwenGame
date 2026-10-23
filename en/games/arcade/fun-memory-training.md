@@ -19,6 +19,6 @@ Train your memory in this fun game. Repeat the order in which the candies are di
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Boy, Boys, Candy, Casual, Fun, Funny, Girl, Girls, Hypercasual, Mobile

@@ -21,4 +21,4 @@ Join the thrilling heist in &lsquo;Mr Hacker: The Museum Hunt.&rsquo; As a hired
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Logic, Math, Puzzle, Thief
+- Tags: educational, Logic, math, Puzzle, Thief

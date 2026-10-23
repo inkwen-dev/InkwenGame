@@ -19,6 +19,6 @@ put the pieces of the puzzle together
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Casual, Cat, Family, Jigsaw, Puzzle
+- Tags: block, Casual, Cat, Family, Jigsaw, Puzzle

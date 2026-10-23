@@ -21,4 +21,4 @@ Here is a taxi driver simulation game called Taxi Simulator 3D. You have a chanc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, Driving, Mobile, Parking, Simulation, Taxi, Unity3D
+- Tags: 3D, Car, Driving, Mobile, parking, Simulation, Taxi, Unity3D

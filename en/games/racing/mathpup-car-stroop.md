@@ -21,4 +21,4 @@ Drive the car through the board that contains color be mentioned.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Color, Educational
+- Tags: Car, Color, educational

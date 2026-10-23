@@ -21,4 +21,4 @@ The Witcher, by Polish writer Andrzej Sapkowski, is a fantasy series of short st
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Card, Match 3, Memory
+- Tags: Brain, card, Match 3, memory

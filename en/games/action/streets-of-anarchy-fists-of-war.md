@@ -21,4 +21,4 @@ There is too much crime in the streets. It's your duty as a hero to stop them! C
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Fighting, Street Fighting, Unity3D, WebGL
+- Tags: 3D, fighting, Street Fighting, Unity3D, WebGL

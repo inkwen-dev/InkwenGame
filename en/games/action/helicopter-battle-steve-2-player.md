@@ -21,4 +21,4 @@ Get on the helicopter and choose either the blue or red player. Destroy your fri
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Action, Arcade, Arena, Battle, fly
+- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Action, Arcade, Arena, battle, fly

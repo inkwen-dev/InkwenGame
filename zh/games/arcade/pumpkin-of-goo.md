@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 休闲, 免费HTML5游戏供您的网站使用, 万圣节, mapi games, 怪物, 益智
+- 标签: 街机, 休闲, 免费HTML5游戏供您的网站使用, 万圣节, mapi games, monster, 益智

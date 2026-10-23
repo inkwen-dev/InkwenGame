@@ -21,4 +21,4 @@ The game Crazy Steve io was created for fun and fast fighting. The main task in 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Animal, Block, Bow, Fun, Funny, Minecraft, Shooter, Sword
+- Tags: Action, Animal, block, Bow, Fun, Funny, Minecraft, Shooter, sword

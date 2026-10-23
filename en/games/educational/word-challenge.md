@@ -19,6 +19,6 @@ Games using anagrams are very popular and the appearance of the new Word Challen
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Educational, Fun, Funny, HTML5, Kids, Letters, Mobile, School, Skill, Word
+- Tags: Best, educational, Fun, Funny, HTML5, Kids, Letters, Mobile, School, Skill, word

@@ -21,4 +21,4 @@ Match 2 of the same mahjong tiles to remove them from the board. You only can us
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Mahjong, Mobile
+- Tags: HTML5, mahjong, Mobile

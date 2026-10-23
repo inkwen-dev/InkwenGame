@@ -21,4 +21,4 @@ Triset.io is a fast paced multiplayer puzzle game where your objective is to cap
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Best, Bomb, Casual, Clicker, Fun, HTML5, Hypercasual, Multiplayer, Puzzle, Tetris
+- Tags: .io Games, Best, Bomb, Casual, Clicker, Fun, HTML5, Hypercasual, Multiplayer, Puzzle, tetris

@@ -21,4 +21,4 @@ put on your roller skates now! Drag your finger left to right to avoid the obsta
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Casino, Casual, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing, run, running, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Casino, Casual, Fun, Funny, Hot, Hypercasual, jump, jumping, Race, Racing, run, running, Unity3D

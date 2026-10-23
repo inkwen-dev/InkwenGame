@@ -19,6 +19,6 @@ Welcome to Sliding Anime Puzzle &ndash; a unique puzzle game that takes you into
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Girl, Logic, Puzzle, puzzleblock

@@ -19,6 +19,6 @@ Use your arrow keys to move the fruits. When two fruits with the same number tou
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Fruit, Fruits, Fun, Game, Games, Math, Play, Puzzle
+- Tags: Arcade, Fruit, Fruits, Fun, Game, Games, math, Play, Puzzle

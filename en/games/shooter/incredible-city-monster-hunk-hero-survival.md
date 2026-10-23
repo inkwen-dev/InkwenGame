@@ -19,6 +19,6 @@ You have real hero based story going on in this Monster hero Super Fights game, 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Blood, Bomb, Boxing, Boys, Monster, Superhero, Unity3D
+- Tags: battle, Blood, Bomb, Boxing, Boys, monster, Superhero, Unity3D

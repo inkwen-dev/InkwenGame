@@ -21,4 +21,4 @@ WASD Arrow button to move Z or J to Punch X hoc K to Kick
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fighting, Monster, Zombie
+- Tags: battle, fighting, monster, Zombie

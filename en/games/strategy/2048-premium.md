@@ -19,6 +19,6 @@ Experience the ultimate edition of the classic 2048 puzzle game! Join numbers to
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Logic, Math, Puzzle, sliding, Strategy
+- Tags: Logic, math, Puzzle, sliding, strategy

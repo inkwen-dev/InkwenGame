@@ -19,6 +19,6 @@ This is a casual game in which there is a basketball tour where you have to ente
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Fun, HTML5, Kids, Mobile, Skill, Sport
+- Tags: basketball, Fun, HTML5, Kids, Mobile, Skill, Sport

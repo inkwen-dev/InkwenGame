@@ -19,6 +19,6 @@ In the thrilling world of ATV highway racing, adrenaline junkies rev their engin
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: atv, Driving, Mentolatux, Racing, Unity3D, WebGL

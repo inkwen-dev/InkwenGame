@@ -21,4 +21,4 @@ Join the ultimate stickman battle in Z Stick Duel Fighting, a game that will mak
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Avoid, Boys, Kids, Magic, Skill, Stickman
+- Tags: 2D, Avoid, Boys, Kids, Magic, Skill, stickman

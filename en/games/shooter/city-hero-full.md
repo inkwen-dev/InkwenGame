@@ -21,4 +21,4 @@ City Hero is fun addictive action shooting game .Kill the monster and alien to s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, 3D, Android, Arena, Battlegrounds, Ben 10, Bomb, Boxing, Boy, Boys, Cartoon, city, Clash, Classic, Crazy, CSGO, Disney, Flight, Friv, Gold, Google, gta, Hot, HTML, HTML5, Interactive, Logical, Multiplayer, New, Shoot, Shoot 'Em Up, Shooter, Shooting, Skills, Slither, Super, Superhero, tomb
+- Tags: 1 Player, 2D, 3D, Android, Arena, Battlegrounds, Ben 10, Bomb, Boxing, Boy, Boys, Cartoon, city, Clash, Classic, crazy, CSGO, Disney, flight, Friv, Gold, Google, gta, Hot, HTML, HTML5, Interactive, Logical, Multiplayer, New, Shoot, Shoot 'Em Up, Shooter, Shooting, Skills, Slither, Super, Superhero, tomb

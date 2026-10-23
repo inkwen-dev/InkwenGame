@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 躲避, 卡通, 收集, HTML5, 儿童, 马里奥, 移动, 技巧, 超级英雄
+- 标签: 安卓, 躲避, 卡通, 收集, HTML5, 儿童, mario, 移动设备, 技巧, 超级英雄

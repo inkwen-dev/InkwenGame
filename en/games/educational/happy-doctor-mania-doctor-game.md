@@ -21,4 +21,4 @@ The doctorate is the most enviable profession in the world. Do you want to be a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: Doctor, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

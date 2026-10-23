@@ -21,4 +21,4 @@ Doodle Jump is a fun and cute platform game in which your must help our adorable
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Boy, Clicker, Girl, jump, Jumping, sky
+- Tags: 2D, Action, Boy, Clicker, Girl, jump, jumping, sky

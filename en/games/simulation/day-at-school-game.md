@@ -19,6 +19,6 @@ It’s the first day of school and all the students are excited to be back in cl
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Brain, Cleaning, Logic, School, Simulation

@@ -19,6 +19,6 @@ Get ready for tonight's show! Style hair for beautiful Alice. Take care of Emma'
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cute, Decorate, Design, Drawing, Dress Up, Fashion, Girl, Girls, Hair, Kids, Makeover, Simulation
+- Tags: Baby, Cute, Decorate, Design, drawing, Dress Up, Fashion, Girl, Girls, Hair, Kids, Makeover, Simulation

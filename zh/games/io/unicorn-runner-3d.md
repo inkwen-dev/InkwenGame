@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 3D, 3D 游戏, 动物, 跑, 神庙
+- 标签: .io 游戏, 3D, 3D游戏, 动物, 跑, 神庙

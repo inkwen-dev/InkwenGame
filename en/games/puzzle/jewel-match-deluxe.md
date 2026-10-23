@@ -21,4 +21,4 @@ Journey through a whimsical world of jewels with this match 3 puzzle game. Match
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Bejeweled, Crazy, Fun, Funny, Game, Games, Match 3, Match3
+- Tags: 2D, Bejeweled, crazy, Fun, Funny, Game, Games, Match 3, Match3

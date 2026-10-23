@@ -21,4 +21,4 @@ Puppy Coloring Book For Kids is a painting, drawing and coloring tool for kids! 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Baby, Color, Coloring, Draw, Drawing, Educational, Family, HTML, HTML5, Kid, Kids, Mobile
+- Tags: 2D, Baby, Color, Coloring, Draw, drawing, educational, Family, HTML, HTML5, Kid, Kids, Mobile

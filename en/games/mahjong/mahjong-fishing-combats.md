@@ -21,4 +21,4 @@ This is a turn based mahjong game in which you play with an opponent. When your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Arcade, Fishing, HTML5, Mahjong, Matching, Mobile, Puzzle
+- Tags: 2 Player, 2 Player Games, Arcade, Fishing, HTML5, mahjong, Matching, Mobile, Puzzle

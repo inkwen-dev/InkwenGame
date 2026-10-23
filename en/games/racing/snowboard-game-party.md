@@ -21,4 +21,4 @@ Begin snow racing thrill in Snowboard Game Party. Its a high-energy multiplayer 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Multiplayer, running, Snow, Sports
+- Tags: Multiplayer, running, Snow, sports

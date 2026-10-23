@@ -19,6 +19,6 @@ Welcome to Escape game where you met you new friend Mochi. you find yourself ins
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Brain, Fun, Highscore, Puzzle, run

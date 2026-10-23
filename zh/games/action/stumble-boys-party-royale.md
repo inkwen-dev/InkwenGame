@@ -21,4 +21,4 @@ Stumble Boys Party Royale 是一款令人兴奋的多人派对大逃杀游戏，
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 跑步
+- 标签: 奔跑

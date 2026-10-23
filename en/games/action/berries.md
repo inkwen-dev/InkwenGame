@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Animal, Arcade, Cartoon, Cartoon Network, Casual, Fruit, Fruits, Fun, Funny, Hypercasual, jump, Jumping, Kid, Kids, Kill, Killing, Mario, run, running, Skill, Skills, sky, Super, Supercars
+- Tags: Action, Adventure, Animal, Arcade, Cartoon, Cartoon Network, Casual, Fruit, Fruits, Fun, Funny, Hypercasual, jump, jumping, Kid, Kids, Kill, Killing, mario, run, running, Skill, Skills, sky, Super, Supercars

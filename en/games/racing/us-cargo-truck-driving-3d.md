@@ -21,4 +21,4 @@ Welcome to US Cargo Truck Driving 3D: In this US Cargo Truck Driving 3D there ar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Car, Driving, Parking, Truck
+- Tags: 1 Player, 3D, Car, Driving, parking, truck

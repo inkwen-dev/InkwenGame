@@ -19,6 +19,6 @@ Obby Rescue is a casual and very funny puzzle game in which the main objective o
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, html5 games for your site, Hypercasual, Kids, Levels, Rescue, roblox

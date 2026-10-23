@@ -19,6 +19,6 @@ Mine Noob Maze is a casual game that has been gaining popularity among online ga
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: kiz10, Maze, Minecraft, Platform

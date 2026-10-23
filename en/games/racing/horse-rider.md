@@ -21,4 +21,4 @@ Did you ever think how is to be an equestrian in horse sports? Now you have the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Horse, Unity3D, WebGL
+- Tags: 3D Games, horse, Unity3D, WebGL

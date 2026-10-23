@@ -19,6 +19,6 @@ Slide a row of hearts horizontally to make a horizontal or vertical row of 3 or 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collecting, Fun, Girls, HTML5, Love, Match 3, Match3, Matching, Mobile

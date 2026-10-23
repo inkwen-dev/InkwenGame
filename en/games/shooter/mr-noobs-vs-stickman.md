@@ -19,6 +19,6 @@ Have fun with this entertaining new action game an epic battle Mr Noobs vs Stick
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: kiz10, Minecraft, Shooting, Stickman, War
+- Tags: kiz10, Minecraft, Shooting, stickman, War

@@ -21,4 +21,4 @@ There are lions and tigers in this lion hunting game that is looking for prey. Y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Android, Animal, Boys, Bubble Shooter, Classic, Flight
+- Tags: 3D, 3D Games, Android, Animal, Boys, Bubble Shooter, Classic, flight

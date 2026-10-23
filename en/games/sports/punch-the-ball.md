@@ -21,4 +21,4 @@ Punch the ball is 2d sport game similar to aerohockey but instead of puck you ca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Ball, Basketball, hockey
+- Tags: 2D, Action, Ball, basketball, hockey

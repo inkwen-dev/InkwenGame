@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 点击器, html5游戏, 麻将, 匹配, 移动
+- 标签: 点击器, HTML5游戏, mahjong, 匹配, 移动设备

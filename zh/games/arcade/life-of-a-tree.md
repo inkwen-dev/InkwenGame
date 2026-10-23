@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 街机, 婴儿游戏, 教育, 免费游戏供你的网站使用, 小孩, NapTech Games
+- 标签: 单人, 2D, 街机, 婴儿游戏, 教育, 免费游戏供您的网站使用, 儿童, NapTech 游戏

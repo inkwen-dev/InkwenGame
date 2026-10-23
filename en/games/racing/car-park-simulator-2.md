@@ -15,6 +15,6 @@ Master parking precision in Car Park Simulator, where clever maneuvering and str
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Parking
+- Tags: parking

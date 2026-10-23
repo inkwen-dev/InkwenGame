@@ -21,4 +21,4 @@ Hi, Welcome to the undersea globe, loaded with adventures. Play the superhero Aq
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Best, Crazy, Games, Unity3D, WebGL
+- Tags: 1 Player, 3D Games, Best, crazy, Games, Unity3D, WebGL

@@ -19,6 +19,6 @@ Hidden Alphabets game is a fun and helps finding your skills in hidden objects. 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Baby, Baby Hazel, Barbie, Batman, Battle, Battlegrounds, Dora, Dragon Ball Z, Educational, Fish, Fishing, Girl, Girls, Kid, Kids, Kiz 10, Zombie
+- Tags: Anime, Baby, Baby Hazel, Barbie, Batman, battle, Battlegrounds, Dora, Dragon Ball Z, educational, Fish, Fishing, Girl, Girls, Kid, Kids, Kiz 10, Zombie

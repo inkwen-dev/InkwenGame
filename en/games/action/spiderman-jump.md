@@ -21,4 +21,4 @@ Spiderman wants to jump through the web and pass through the ring of fire. Diffe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Boy, Boys, Fun, Game, HTML5, jump, Jumping, Spiderman
+- Tags: 1 Player, Action, Boy, Boys, Fun, Game, HTML5, jump, jumping, Spiderman

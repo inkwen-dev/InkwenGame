@@ -19,6 +19,6 @@ Play through colourful obbys and make your way to the end of the maps! Twist, tu
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Arcade, Avoid, Casual, jump, Jumping, Multiplayer, Online, Race, Skill, Skills, WebGL
+- Tags: .io, .io Games, 3D, 3D Games, Arcade, Avoid, Casual, jump, jumping, Multiplayer, Online, Race, Skill, Skills, WebGL

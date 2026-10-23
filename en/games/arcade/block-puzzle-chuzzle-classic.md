@@ -21,4 +21,4 @@ Welcome to the World of falling blocks! The best cube puzzle game is here to ste
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Bricks, Classic, Crazy, Matching, Puzzle, WebGL
+- Tags: Arcade, block, Bricks, Classic, crazy, Matching, Puzzle, WebGL

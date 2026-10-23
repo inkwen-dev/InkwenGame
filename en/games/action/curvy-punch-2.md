@@ -19,6 +19,6 @@ Ready to join the funniest and craziest punch battle ever? Play a creative 3D fi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fight, Funny, Stickman
+- Tags: battle, Fight, Funny, stickman

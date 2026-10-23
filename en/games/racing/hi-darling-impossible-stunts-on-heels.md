@@ -19,6 +19,6 @@ Hi Baddie Girl! Looking for nail games, high heels games, acrylic nails, nail po
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Cars, Casino, Casual, Difference, Game, Games, Girl, Girls, Hypercasual, jump, Jumping, Race, Racing, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Cars, Casino, Casual, Difference, Game, Games, Girl, Girls, Hypercasual, jump, jumping, Race, Racing, Unity3D

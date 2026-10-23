@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: angrybirds, mapi games, 圣诞老人, 圣诞老人, 僵尸
+- 标签: 愤怒的小鸟, mapi games, 圣诞老人, 圣诞老人, 僵尸

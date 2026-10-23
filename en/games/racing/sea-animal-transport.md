@@ -21,4 +21,4 @@ Sea Animal Transport is a fun truck game with multiple levels. The players objec
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Animal, Racing, Truck, Unity3D, WebGL
+- Tags: 3D, 3D Games, Adventure, Animal, Racing, truck, Unity3D, WebGL

@@ -21,4 +21,4 @@ MathPup 今天已经完成数学学习，现在要去寻找狗骨头。在这个
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 平台, 解谜
+- 标签: 平台, 益智

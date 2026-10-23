@@ -21,4 +21,4 @@ Enjoy Incredible Monster Stickman Rope hero fantastical massive city destruction
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Battle, Battlegrounds, Fight, Fighting, Stickman, Street Fighting
+- Tags: Action, Adventure, battle, Battlegrounds, Fight, fighting, stickman, Street Fighting

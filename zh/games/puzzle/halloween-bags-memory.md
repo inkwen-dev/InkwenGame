@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 点击器, 万圣节, HTML5, 儿童, 手机, 益智
+- 标签: 点击器, 万圣节, HTML5, 儿童, 移动设备, 益智

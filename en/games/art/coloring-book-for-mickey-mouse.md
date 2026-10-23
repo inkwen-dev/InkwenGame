@@ -21,4 +21,4 @@ Are you into Mickey Mouse ? Mickey Mouse Coloring Book: A Stunning Coloring Book
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Cartoon, Color, Coloring, Draw, Drawing, Game, Kids, New, Online, Puzzle
+- Tags: Best, Cartoon, Color, Coloring, Draw, drawing, Game, Kids, New, Online, Puzzle

@@ -19,6 +19,6 @@ Jewels Mine is a fun match 3 game. Swap and match 3 or more gems of the same typ
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Arcade, Bejeweled, Boy, Boys, Brain, Candy, Casual, Fun, Funny, Game, Games, Girl, Girls, Highscore, HTML, HTML5, Hypercasual, Jewel, Kid, Kids, Match 3, Match3, Matching, Mine, Miner, Mobile, Online, Play, Puzzle, Skill, Skills

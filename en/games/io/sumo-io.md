@@ -21,4 +21,4 @@ The most addictive game! First Sumo.io game ever! Bump your sumo enemy and win e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Fight, Fighting
+- Tags: Action, Adventure, Fight, fighting

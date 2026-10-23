@@ -21,4 +21,4 @@ Embark on an unforgettable adventure through 40 different levels in this excitin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Shoot, Shooting, Stickman
+- Tags: 3D, Action, Adventure, Shoot, Shooting, stickman

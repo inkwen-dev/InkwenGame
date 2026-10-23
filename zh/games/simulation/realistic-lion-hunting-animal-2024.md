@@ -21,4 +21,4 @@ WASD 向左走 左Shift 快跑 鼠标右 停止 快跑 鼠标左 攻击
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 动物, 突袭, 森林, 猎人, 狮子, Mentolatux, 模拟
+- 标签: 动作, 动物, 攻击, 森林, 猎人, 狮子, Mentolatux, 模拟

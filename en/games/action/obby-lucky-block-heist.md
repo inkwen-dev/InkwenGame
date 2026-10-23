@@ -19,6 +19,6 @@ Build the ultimate base in this action-packed 3D Obby! Collect rare Brainrot ite
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Best Games, Brainrot, Brainrot sahuuur, Hot, Multiplayer, Obstacle, Online, Platform, roblox, run, Sahur, Tung

@@ -21,4 +21,4 @@ Digital Circus 2026 是一款色彩缤纷的3D 跑酷游戏，玩家需引导角
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2026年游戏, 2D, 马戏团
+- 标签: 单人, 2026 游戏, 2D, 马戏团

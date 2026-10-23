@@ -21,4 +21,4 @@ Embark on a thrilling adventure in Poppy Survival Shooting Driver! Survive again
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Cars, Collecting, Driving, Mentolatux, monstertruck, Parking, Shooting, survival, Unity3D, WebGL
+- Tags: 3D, Cars, Collecting, Driving, Mentolatux, monstertruck, parking, Shooting, survival, Unity3D, WebGL

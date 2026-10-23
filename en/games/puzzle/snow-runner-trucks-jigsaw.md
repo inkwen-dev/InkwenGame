@@ -21,4 +21,4 @@ This is a jigsaw game with Snow Trucks images. There is twelve images with snow 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jigsaw, Kids, Puzzle, Snow, Truck
+- Tags: Jigsaw, Kids, Puzzle, Snow, truck

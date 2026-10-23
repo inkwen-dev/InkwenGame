@@ -19,6 +19,6 @@ Brace yourself for a wild and unpredictable journey as you help a clumsy hero st
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, free html5 games for your website, Logic, Pixel, Puzzle, Warrior
+- Tags: 1 Player, 2D, Adventure, free html5 games for your website, Logic, pixel, Puzzle, Warrior

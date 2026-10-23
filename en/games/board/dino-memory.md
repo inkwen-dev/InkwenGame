@@ -19,6 +19,6 @@ Click a card to reveal the Image on it. Memorize it so that you can match to sim
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Dinosaur, Kids, Matching, Memory, Puzzle
+- Tags: Board, Dinosaur, Kids, Matching, memory, Puzzle

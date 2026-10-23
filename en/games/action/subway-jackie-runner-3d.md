@@ -19,6 +19,6 @@ As more you will play enjoy subway ride you will collect more coins animating on
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, HTML, HTML5, run, running, Subway Surfers, WebGL

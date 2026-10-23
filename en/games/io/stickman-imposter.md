@@ -21,4 +21,4 @@ How about a new Among Us adventure? These Among Us are different because they ar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2D, Multiplayer, Stickman
+- Tags: .io, .io Games, 2D, Multiplayer, stickman

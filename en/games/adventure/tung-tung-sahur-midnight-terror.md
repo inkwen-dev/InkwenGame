@@ -21,4 +21,4 @@ In a small, forgotten town where time seems to stand still, every night of Ramad
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Granny, Horror, Stealth, survival
+- Tags: granny, Horror, Stealth, survival

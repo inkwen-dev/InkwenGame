@@ -21,4 +21,4 @@ Hey help the little color Boxes to escape from the Chaser! Avoid all obstacles a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, HTML5, jump, Jumping, mapi games, Mobile, running
+- Tags: Arcade, HTML5, jump, jumping, mapi games, Mobile, running

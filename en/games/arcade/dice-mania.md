@@ -19,6 +19,6 @@ Dice mania is an online game where players can test their skills in number short
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Game, Games, HTML5, Hypercasual, Matching, Math, Puzzle
+- Tags: 2D, Arcade, Game, Games, HTML5, Hypercasual, Matching, math, Puzzle

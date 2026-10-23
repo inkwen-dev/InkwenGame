@@ -21,4 +21,4 @@ Zazgames 是一个您可以无限玩在线拼图游戏的地方。我们希望�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 卡通, 马匹, 拼图, 小馬, 益智
+- 标签: 卡通, horse, 拼图, 小马, 益智

@@ -21,4 +21,4 @@ Mask of Six Moons is a pixel-art action platformer. Dive through the moon gates,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Dungeon, Fantasy, Pixel, Platform, RPG, Sword
+- Tags: Action, Adventure, Dungeon, Fantasy, pixel, Platform, rpg, sword

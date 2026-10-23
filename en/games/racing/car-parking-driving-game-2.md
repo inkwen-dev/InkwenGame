@@ -21,4 +21,4 @@ Test your driving precision in Car Parking Driving Game, where every level chall
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Car, carparking, Driving, Parking, Race, Simulator
+- Tags: Arcade, Car, carparking, Driving, parking, Race, Simulator

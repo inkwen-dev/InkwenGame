@@ -19,6 +19,6 @@ Drive a selection of Awesome Vehicles, from Sedans through Sports Cars, Buses to
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Best, Bike, bus, Car, Cars, drift, drifting, Ever After High, Fun, Game, Online, Parking, Racing, Supercars, Truck
+- Tags: Adventure, Arcade, Best, bike, bus, Car, Cars, drift, drifting, Ever After High, Fun, Game, Online, parking, Racing, Supercars, truck

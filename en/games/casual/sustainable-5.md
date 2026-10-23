@@ -15,6 +15,6 @@ Dive into the thrilling final chapter of Sustainable! As a museum guard, navigat
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Crazy
+- Tags: crazy

@@ -15,6 +15,6 @@ In Social Duties, immerse yourself in a heartwarming adventure, as you guide a y
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Educational
+- Tags: educational

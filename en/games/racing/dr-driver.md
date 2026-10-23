@@ -21,4 +21,4 @@ DR Driving 2 is an awesome stunt car game development by CoolMathGamesKids.com, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Arcade, Car, Cars, drifting, Driving, Fun, Funny, Hypercasual, Parking, Super, Unity3D
+- Tags: 3D, Action, Adventure, Arcade, Car, Cars, drifting, Driving, Fun, Funny, Hypercasual, parking, Super, Unity3D

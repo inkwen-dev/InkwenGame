@@ -19,6 +19,6 @@ Hey y’all!! Are you in love with our FNF songs? Spinning around with so many f
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Music, Rhythm
+- Tags: music, Rhythm

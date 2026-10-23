@@ -21,4 +21,4 @@ Its team time now! Cartoon character The game of Team Detroit is fun to watch. A
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: kiz10, Shooter, Stickman, War
+- Tags: kiz10, Shooter, stickman, War

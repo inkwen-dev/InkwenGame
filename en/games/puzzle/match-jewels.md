@@ -19,6 +19,6 @@ Match all the jewels that have same colours , To make the game more fun, make ma
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Bejeweled, Boys, Educational, Fun, Girls, HTML5, Hypercasual, Jewel, Kids, Match3, Matching, Puzzle
+- Tags: 1 Player, Bejeweled, Boys, educational, Fun, Girls, HTML5, Hypercasual, Jewel, Kids, Match3, Matching, Puzzle

@@ -21,4 +21,4 @@ Welcome to an exciting helicopter rescue game where you are the pilot, and your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, airplane, Animal, Forest, Helicopter, Rescue, Simulation
+- Tags: 2025 games, airplane, Animal, Forest, helicopter, Rescue, Simulation

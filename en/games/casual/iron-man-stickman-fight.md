@@ -21,4 +21,4 @@ Among all the stickman games, Stickman Fight - Battle Royale is one of the funni
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Stickman, Superhero
+- Tags: stickman, Superhero

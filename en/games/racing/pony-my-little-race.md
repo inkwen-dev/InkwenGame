@@ -21,4 +21,4 @@ Are you a pony fan ? Do you like pony races ? This game is made for you !!! This
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Anime, Ben 10, Brain, Cartoon, Cartoon Network, Fun, Funny, Girl, Girls, Horse, Kid, Kids, Race, Racing
+- Tags: Animal, Anime, Ben 10, Brain, Cartoon, Cartoon Network, Fun, Funny, Girl, Girls, horse, Kid, Kids, Race, Racing

@@ -19,6 +19,6 @@ This is a tense real-time racing mobile game. Players can choose a bicycle they 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Boy, Boys, Casual, Driving, Fun, Funny, Game, Games, Girl, Girls, Golf, H5, HTML5, Hypercasual, Kid, Kids, Mobile, Violence
+- Tags: 3D Games, Action, Boy, Boys, Casual, Driving, Fun, Funny, Game, Games, Girl, Girls, golf, H5, HTML5, Hypercasual, Kid, Kids, Mobile, Violence

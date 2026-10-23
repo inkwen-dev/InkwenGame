@@ -19,6 +19,6 @@ Play monster truck driving game Monster Truck Wheels Winter edition. Winter is a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Best, Car, Cars, Driving, Fun, HTML5, Hypercasual, Mobile, Skill, Snow, Truck, Winter
+- Tags: 1 Player, Best, Car, Cars, Driving, Fun, HTML5, Hypercasual, Mobile, Skill, Snow, truck, Winter

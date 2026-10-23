@@ -21,4 +21,4 @@ The Top Hit Parking Game Series returns – featuring an all-new location at the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D Games, Bike, Boys, Bubble Shooter, Candy, Car, Cars, Chicken, Crazy, drift, drifting, Driving, Games, Girl, Hair, Magic, Mario, Monkey, Motorcycle, Play, Simulator, Supercars, Truck
+- Tags: .io Games, 3D Games, bike, Boys, Bubble Shooter, Candy, Car, Cars, Chicken, crazy, drift, drifting, Driving, Games, Girl, Hair, Magic, mario, Monkey, Motorcycle, Play, Simulator, Supercars, truck

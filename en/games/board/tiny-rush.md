@@ -21,4 +21,4 @@ Match animals to collect them, and string several in a row to create big chain c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Block, Board, Cute, Family, Girls, Kids, Puzzle
+- Tags: Animal, block, Board, Cute, Family, Girls, Kids, Puzzle

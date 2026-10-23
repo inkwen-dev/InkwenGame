@@ -19,6 +19,6 @@ Ultimate Goal is an exciting and engaging table football game that brings the fu
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 2048, 3D Games, Adult, Android, battleship, Best Games, Classic

@@ -21,4 +21,4 @@ Counter Craft Classic 2 是一款激动人心的第一人称射击游戏，融�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, CSGO, 第一人称射击, Minecraft, 投篮, 射击游戏, 射击类, 射击, Unity3D
+- 标签: 3D, 3D游戏, CSGO, 第一人称射击, 我的世界, 射击, 射击游戏, 射击类, 射击, Unity3D

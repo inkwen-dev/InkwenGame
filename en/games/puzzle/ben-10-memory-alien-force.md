@@ -21,4 +21,4 @@ Ben 10 Memory Alien Force
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ben 10, Memory, Puzzle
+- Tags: Ben 10, memory, Puzzle

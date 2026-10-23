@@ -21,4 +21,4 @@ Monster Track 2 - Racing in the style of Hill Climb Racing, 60 more levels, 5 mo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Kids, running, Sport, Sports
+- Tags: Car, Cars, Kids, running, Sport, sports

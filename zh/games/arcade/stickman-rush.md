@@ -21,4 +21,4 @@ StickMan Rush 是一款精彩有趣的平台生存游戏。在这个酷炫的世
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 跳跃, kiz10, Stickman
+- 标签: 跳跃, kiz10, 木偶人

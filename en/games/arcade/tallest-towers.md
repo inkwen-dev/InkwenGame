@@ -19,6 +19,6 @@ It's simple to get started with the game—place towers in the available cells. 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Android, Arcade, Block, HTML5, Mobile, Unity3D
+- Tags: 3D, 3D Games, Android, Arcade, block, HTML5, Mobile, Unity3D

@@ -19,6 +19,6 @@ Smashy Duo is a fast-paced arcade game where you control two heroes battling it 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Crazy, H5, Hot, HTML, HTML5, Sport, Sports, Tennis, Zombie
+- Tags: Arcade, crazy, H5, Hot, HTML, HTML5, Sport, sports, Tennis, Zombie

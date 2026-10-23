@@ -19,6 +19,6 @@ Save The Doge is an online puzzle game for kids. In this game, the doge will be 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Avoid, Block, Boy, Brain, Drawing, Fun, HTML5, Kids, Online, Puzzle, Relaxation, Skill
+- Tags: Android, Avoid, block, Boy, Brain, drawing, Fun, HTML5, Kids, Online, Puzzle, Relaxation, Skill

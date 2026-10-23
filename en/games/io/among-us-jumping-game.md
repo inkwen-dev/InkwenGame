@@ -21,4 +21,4 @@ The new online Among Us Jump game is appearing today right here on our website, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Action, Adventure, Arcade, Best, Boys, Casual, Fun, Games, Girls, Hot, HTML5, Hypercasual, jump, Jumping, Kids, Mobile, Online
+- Tags: .io Games, Action, Adventure, Arcade, Best, Boys, Casual, Fun, Games, Girls, Hot, HTML5, Hypercasual, jump, jumping, Kids, Mobile, Online

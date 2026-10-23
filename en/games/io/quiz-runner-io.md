@@ -19,6 +19,6 @@ Quiz Runner.io &ndash; Trivia &amp; Multiplayer Quiz Battle Think fast, play sma
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2026 games, Arcade, Brain, Educational, Fun, html5 games, Multiplayer, Online, Quiz
+- Tags: .io Games, 2026 games, Arcade, Brain, educational, Fun, html5 games, Multiplayer, Online, Quiz

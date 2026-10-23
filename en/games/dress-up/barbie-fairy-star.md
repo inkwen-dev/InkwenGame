@@ -19,6 +19,6 @@ Barbie star fairy wants to wow everyone with her new make up and style. For this
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Dress Up, Fairy, Fashion, Game, Girl, Girls, HTML5, Makeover

@@ -21,4 +21,4 @@ The Official Who Wants to Be a Millionaire? Trivia Game! Do you love game show t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casino, Collecting, Educational, Quiz
+- Tags: Brain, Casino, Collecting, educational, Quiz

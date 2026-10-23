@@ -21,4 +21,4 @@ Fun Monsters Memory is a free online game from genre of memory and monsters game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Kids, Memory, Puzzle, Skill
+- Tags: Fun, Kids, memory, Puzzle, Skill

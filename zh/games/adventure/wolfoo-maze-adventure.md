@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Adventure, 大脑, 儿童, 迷宫
+- 标签: 冒险, 大脑, 儿童, 迷宫

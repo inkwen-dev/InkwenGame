@@ -21,4 +21,4 @@ Help Mr Penguin to find his children and join his wife in this simple and intuit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mobile, Penguin, Pixel, Platform, run
+- Tags: Mobile, Penguin, pixel, Platform, run

@@ -21,4 +21,4 @@ Autumn is here. This is a beautiful season, but it is also a season that makes p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Baby, Educational, Family, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: 2D, Baby, educational, Family, Fun, Girl, Girls, H5, HTML5, Kid, Kids

@@ -21,4 +21,4 @@ Step right into the heart-pounding adventure of Toilet Fight: Police vs Zombie w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Mentolatux, Police, Shooting, Skibidi, Skibidi Toilet, Unity3D, War, WebGL
+- Tags: Fight, Mentolatux, police, Shooting, Skibidi, skibidi-toilet, Unity3D, War, WebGL

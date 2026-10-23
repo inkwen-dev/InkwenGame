@@ -21,4 +21,4 @@ Resident Evil 2: Beat Em Up is a fighting game where your mission is to fight th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Fight, Fighting, Zombie
+- Tags: Action, Adventure, Arcade, Fight, fighting, Zombie

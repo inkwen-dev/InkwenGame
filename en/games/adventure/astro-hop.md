@@ -21,4 +21,4 @@ Astro Hop is a thrilling space-themed jumping game where players control a brave
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Click, Clicker, jump, Jumping
+- Tags: 1 Player, 2D, Adventure, Click, Clicker, jump, jumping

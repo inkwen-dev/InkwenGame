@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 枪, 儿童, 益智, 战争
+- 标签: 枪械, 儿童, 益智, 战争

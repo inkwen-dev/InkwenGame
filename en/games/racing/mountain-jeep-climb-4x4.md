@@ -19,6 +19,6 @@ The new era of the offroad driving 2020 and get ready for the crazy new offroad 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Arena, Battle, Race, Racing
+- Tags: 3D, Arcade, Arena, battle, Race, Racing

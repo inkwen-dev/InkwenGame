@@ -21,4 +21,4 @@ Peppa Among Us is offline multiplayer game in which you are imposter and have to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Battle, Boys, Brain, Girls, Hypercasual, Kid, Kids, Monster, Spaceship, Spiderman, Strategy
+- Tags: Action, Adventure, battle, Boys, Brain, Girls, Hypercasual, Kid, Kids, monster, Spaceship, Spiderman, strategy

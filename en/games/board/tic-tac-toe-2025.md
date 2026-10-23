@@ -21,4 +21,4 @@ Hook: Classic strategy puzzle game that challenges players to think ahead Featur
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Board, Brain, Classic, Family, HTML5, Logic, Mobile, Puzzle, Strategy
+- Tags: 2 Player, Board, Brain, Classic, Family, HTML5, Logic, Mobile, Puzzle, strategy

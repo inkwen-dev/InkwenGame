@@ -19,6 +19,6 @@ Hop Hop Dunk is fun addictive basketball game.Move the hoop and Make The Perfect
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Casual, Hypercasual, Sport, Sports
+- Tags: basketball, Casual, Hypercasual, Sport, sports

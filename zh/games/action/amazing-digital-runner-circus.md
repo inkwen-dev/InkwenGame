@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 安卓, 马戏团, 数字马戏团, HTML5, 超休闲, iPad, iPhone, Mentolatux, 手机, 跑, 跑步
+- 标签: 安卓, 马戏团, 数字马戏团, HTML5, 超休闲, iPad, iPhone, Mentolatux, 移动设备, 跑, 奔跑

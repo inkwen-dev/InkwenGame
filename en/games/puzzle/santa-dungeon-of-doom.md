@@ -19,6 +19,6 @@ Santa and The Dungeon Of Doom is an epic adventure through 100 levels of monster
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Christmas, html5 games for your site, Logic, Puzzle, Santa, Santa Claus

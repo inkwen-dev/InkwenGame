@@ -19,6 +19,6 @@ Zoe's underwater palace is very gorgeous, but she is tired of the decoration of 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Decorate, Decoration, Design, Fun, Girl, Girls, House, Kid, Kids, Mermaid, Summer

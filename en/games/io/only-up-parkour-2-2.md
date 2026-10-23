@@ -21,4 +21,4 @@ Only Up Parkour 2! is an exciting arcade game in which you have to overcome obst
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, Adventure, Balance, Cartoon, Collecting, endless, Fun, Funny, Highscore, HTML5, Jumping, WebGL
+- Tags: .io, .io Games, 1 Player, Adventure, Balance, Cartoon, Collecting, endless, Fun, Funny, Highscore, HTML5, jumping, WebGL

@@ -19,6 +19,6 @@ Billionaire Lumber Tycoon is a unique hybrid tycoon game that combines idle prod
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Arcade, Click, Clicker, Collecting, Collection, idle, tractor

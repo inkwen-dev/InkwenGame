@@ -19,6 +19,6 @@ Solitaire 8 Collection brings together eight classic solitaire games in one plac
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casual, Hypercasual, Puzzle, Solitaire
+- Tags: card, Casual, Hypercasual, Puzzle, solitaire

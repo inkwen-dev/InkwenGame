@@ -19,6 +19,6 @@ Aliens are invading our planet! Solve the math question, and attack the alien wi
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kids, Math, Number
+- Tags: educational, Kids, math, Number

@@ -21,4 +21,4 @@ Galactic Sniper is a fun 3D sniper game with amazing sci-fi graphics and fun gam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Shoot, Shooter, Shooting, Sniper
+- Tags: Action, Shoot, Shooter, Shooting, sniper

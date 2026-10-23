@@ -21,4 +21,4 @@ Bike Racing Games 2025 can be played with our free offline bike games. Racing mo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Bike, Driving, Race, Racing, Road
+- Tags: Action, Adventure, bike, Driving, Race, Racing, Road

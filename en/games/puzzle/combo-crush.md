@@ -21,4 +21,4 @@ Combo Crush is a fast-paced, addictive puzzle game where strategy meets satisfac
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Brain, endless, HTML5, Puzzle, puzzleblock, Skill, Skills
+- Tags: block, Brain, endless, HTML5, Puzzle, puzzleblock, Skill, Skills

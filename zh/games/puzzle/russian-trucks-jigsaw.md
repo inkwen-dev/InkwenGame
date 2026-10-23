@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 乐趣, HTML5, 拼图, 技巧, 卡车
+- 标签: 单人, 有趣, HTML5, 拼图, 技巧, 卡车

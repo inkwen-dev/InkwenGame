@@ -21,4 +21,4 @@ Monter Match 3 Journey is a puzzle match 3 game. It will test your logical think
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Crazy, Cute, Fun, Hypercasual, Puzzle, Relaxation
+- Tags: crazy, Cute, Fun, Hypercasual, Puzzle, Relaxation

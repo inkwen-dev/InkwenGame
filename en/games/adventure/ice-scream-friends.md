@@ -19,6 +19,6 @@ he ice cream seller has come to the neighborhood! He has kidnapped your friend a
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Adventure, Unity3D

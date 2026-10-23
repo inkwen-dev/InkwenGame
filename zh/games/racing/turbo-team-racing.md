@@ -21,4 +21,4 @@ Turbo Team Racing 是一款快节奏的俯视角街机赛车游戏，灵感源�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 漂移, 漂移, 驾驶, mapi games, 像素, 竞速, 赛车, 复古
+- 标签: 漂移, 漂移, 驾驶, mapi games, 像素, 比赛, 竞速, 复古

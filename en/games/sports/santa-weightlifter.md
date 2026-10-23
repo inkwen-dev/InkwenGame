@@ -19,6 +19,6 @@ This is a casual game in which Santa Claus stands on the platform. You need to h
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Balance, Christmas, Fun, Kids, Mobile, Skill, Sport, Winter

@@ -19,6 +19,6 @@ GTA Crime Simulator brings you to the streets full citizens, cops, gangsters and
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, HTML5, Kill, Shooting, WebGL

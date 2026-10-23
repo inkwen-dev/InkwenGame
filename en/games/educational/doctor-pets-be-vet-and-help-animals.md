@@ -19,6 +19,6 @@ Doctor Pets brings you a great chance to make animals healthy and happy again. N
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cat, Doctor, Educational, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: Animal, Cat, Doctor, educational, Girl, Girls, H5, HTML5, Kid, Kids

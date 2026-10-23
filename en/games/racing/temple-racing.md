@@ -19,6 +19,6 @@ emple Racing is a game where I can drive in the endless temple. There are 3 diff
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Avoid, Car, Hypercasual, Platform, Racing, run

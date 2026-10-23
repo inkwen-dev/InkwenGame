@@ -21,4 +21,4 @@ Paint Run 3D is a brand new satisfying game with color the path. Play like paint
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Fun, Funny, Girls, HTML5, run, running, Stickman, WebGL
+- Tags: Boys, Fun, Funny, Girls, HTML5, run, running, stickman, WebGL

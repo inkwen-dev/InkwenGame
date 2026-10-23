@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: AI游戏, 高尔夫, mapi games, 马里奥, 管道, 运动, 超级
+- 标签: AI游戏, 高尔夫, mapi games, mario, 管道, 体育, 超级

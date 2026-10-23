@@ -21,4 +21,4 @@ Live the hottest fashion trend! Self dye clothes and beach accessories! T-shirts
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Decoration, Design, Drawing, Dress Up, Girls, Makeover, Princess
+- Tags: Coloring, Decoration, Design, drawing, Dress Up, Girls, Makeover, Princess

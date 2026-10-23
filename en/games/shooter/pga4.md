@@ -21,4 +21,4 @@ Step into the thrilling world of Pixel Gun Apocalypse 4, where fast-paced shooti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mentolatux, Multiplayer, Pixel, Shooting, unity games, WebGL
+- Tags: Mentolatux, Multiplayer, pixel, Shooting, unity games, WebGL

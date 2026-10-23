@@ -21,4 +21,4 @@ Hamada Elmadf3 is an addictive Merge Tower Defense game where strategy meets fir
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: cannon, Clicker, Defense, endless, idle, Shooter, Shooting, Strategy, Tower Defense
+- Tags: cannon, Clicker, Defense, endless, idle, Shooter, Shooting, strategy, Tower Defense

@@ -19,6 +19,6 @@ Brain Master IQ Challenge is a free online puzzle game with hundreds of free IQ 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Animal, Boy, Brain, Draw, Fun, HTML5, Kids, Number, Online, Puzzle

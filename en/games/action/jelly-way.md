@@ -19,6 +19,6 @@ Jelly Way is a great platform HTML5game. Jelly has lost in the sunny day. You ne
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, HTML5, Jelly, Platform

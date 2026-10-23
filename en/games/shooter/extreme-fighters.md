@@ -21,4 +21,4 @@ In Extreme Fighters you will fight against other enemies and gain score by killi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Fighting, Shooting
+- Tags: Action, fighting, Shooting

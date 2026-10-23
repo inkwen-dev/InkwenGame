@@ -19,6 +19,6 @@ Get ready to drive car as real car driver within city car driving games and car 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Car, Card, Cars, city, jump, Jumping, Love, Parking, Simulation, Supercars, Truck, Unity3D
+- Tags: 3D, 3D Games, Car, card, Cars, city, jump, jumping, Love, parking, Simulation, Supercars, truck, Unity3D

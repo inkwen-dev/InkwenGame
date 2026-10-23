@@ -21,4 +21,4 @@ It's the classic kid version of the Drums! It's a great app for your little one!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Family, HTML, HTML5, Mobile, Music
+- Tags: educational, Family, HTML, HTML5, Mobile, music

@@ -19,6 +19,6 @@ Enjoy over 100 beautiful images from the NASA archives while you learn new words
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: html games for your website, HTML5, html5 games, html5 games for your site, Puzzle, Relaxation, touch, touchscreen, WebGL, Word
+- Tags: html games for your website, HTML5, html5 games, html5 games for your site, Puzzle, Relaxation, touch, touchscreen, WebGL, word

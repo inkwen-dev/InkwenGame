@@ -21,4 +21,4 @@ Travel back in time with Retro Street Fighter, a side-scrolling fighting game th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Fighting, Pixel, Side Scrolling, Street Fighting
+- Tags: 2D, fighting, pixel, Side Scrolling, Street Fighting

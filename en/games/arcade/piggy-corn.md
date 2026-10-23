@@ -19,6 +19,6 @@ Get ready to dive into a magical adventure with Piggy Corn &mdash; the brave pig
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Animal, Arcade, endless, html games for your website, HTML5, html5 games, html5 games for your site

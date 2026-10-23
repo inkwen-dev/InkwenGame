@@ -21,4 +21,4 @@ Ultimate Boxing is an exciting online boxing game. In the ultimate boxing, you h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Boxing, Boy, Boys, Fun, H5, HTML5, Kid, Kids, Sport, Sports
+- Tags: Action, Boxing, Boy, Boys, Fun, H5, HTML5, Kid, Kids, Sport, sports

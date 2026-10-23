@@ -19,6 +19,6 @@ In this GT Sky Racer game you will experience the real thrill of car driving in 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Bike, Car, Cars, drift, drifting, Race, Racing, Road
+- Tags: 3D, Action, Adventure, bike, Car, Cars, drift, drifting, Race, Racing, Road

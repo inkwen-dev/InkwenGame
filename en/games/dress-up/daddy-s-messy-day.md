@@ -19,6 +19,6 @@ Daddy’s little girls to the rescue! You girls are gonna have SO much fun with 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cleaning, Cook, Cooking, Decorate, Decoration, Educational, Fun, Girl, HTML5, Kids, Makeover, Mobile
+- Tags: Cleaning, Cook, Cooking, Decorate, Decoration, educational, Fun, Girl, HTML5, Kids, Makeover, Mobile

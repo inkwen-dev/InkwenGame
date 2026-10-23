@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 孩子们, 逻辑, 数字, 益智
+- 标签: 儿童, 逻辑, 数字, 益智

@@ -19,6 +19,6 @@ Gold Mine is a highly addictive game with cool graphics and gameplay. Play Now f
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Gold, Mine, Minecraft, Miner

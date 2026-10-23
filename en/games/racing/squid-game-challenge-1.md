@@ -19,6 +19,6 @@ Squid Game is survival shooting games based on Red Light, Green Light. Begin you
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Batman, Boy, Boys, Car, Cars, Girl, Girls, Interactive, Management, Race, Racing, Simulation, Simulator, Supercars, Unity3D, Wolf
+- Tags: 3D, 3D Games, Adventure, Batman, Boy, Boys, Car, Cars, Girl, Girls, Interactive, management, Race, Racing, Simulation, Simulator, Supercars, Unity3D, Wolf

@@ -19,6 +19,6 @@ Play our newest casual Halloween puzzle game Halloween Clicker Puzzle. The game 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Click, Clicker, Fun, Halloween, Kids, Puzzle, Witch

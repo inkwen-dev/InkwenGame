@@ -21,4 +21,4 @@ Fun games designed for boys & girls in Pre school & Kindergarten! No job is too 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, Barbie, Cartoon, Decorate, Dress Up, Educational, Girl, HTML5, Kids, Superhero
+- Tags: Baby, Baby Hazel, Barbie, Cartoon, Decorate, Dress Up, educational, Girl, HTML5, Kids, Superhero

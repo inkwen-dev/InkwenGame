@@ -19,6 +19,6 @@ Paper Rush is a one-button game. It has the same gameplay but in a beautiful han
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Click, Clicker, Hypercasual, jump, Jumping, Platform, running
+- Tags: Arcade, Casual, Click, Clicker, Hypercasual, jump, jumping, Platform, running

@@ -21,4 +21,4 @@ Crazy Monster Trucks Difference is an online game that you can play for free. Do
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boys, Car, Difference, Game, HTML5, Hypercasual, Kids, Skill, Truck
+- Tags: Android, Boys, Car, Difference, Game, HTML5, Hypercasual, Kids, Skill, truck

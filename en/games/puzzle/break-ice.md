@@ -19,6 +19,6 @@ Break Ice is a physics based puzzle game which is calm, fun and a little challen
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, HTML5, Physics, Puzzle

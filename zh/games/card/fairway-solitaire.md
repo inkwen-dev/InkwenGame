@@ -21,4 +21,4 @@ Fairway Solitaire 是一款精心打磨的高尔夫纸牌游戏，拥有独特�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动物, 卡片, 高尔夫, 逻辑, 解谜, 接龙
+- 标签: 动物, 卡牌, 高尔夫, 逻辑, 益智, 纸牌游戏

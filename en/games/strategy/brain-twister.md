@@ -19,6 +19,6 @@ Welcome to Brain Twister! The aim of the game, is to find the exact positions of
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Logic, Puzzle, Strategy
+- Tags: Brain, Logic, Puzzle, strategy

@@ -15,6 +15,6 @@ Create a thriving Koi empire in Idle Koi Pond! Merge Koi fish to unlock new vari
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: idle

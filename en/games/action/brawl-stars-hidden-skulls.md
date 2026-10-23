@@ -21,4 +21,4 @@ Brawl Stars Hidden Skulls is a free online kids and hidden object game. That is 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Brawl, Fighting, Fun, Hidden, Kids, Logic, Mobile, Skill, Skills
+- Tags: Best, Brawl, fighting, Fun, Hidden, Kids, Logic, Mobile, Skill, Skills

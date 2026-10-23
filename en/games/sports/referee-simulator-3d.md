@@ -19,6 +19,6 @@ Referee Simulator 3D puts the whistle in your hands. Run with play, stay close t
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Football, Simulation, Simulator, Soccer

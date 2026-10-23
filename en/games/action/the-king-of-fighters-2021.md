@@ -21,4 +21,4 @@ Welcome to the king of fighters 2021 Game This is a fighting arcade game where y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Fight, Fighting, Hot, King, Street Fighting, Superhero
+- Tags: Best, Fight, fighting, Hot, King, Street Fighting, Superhero

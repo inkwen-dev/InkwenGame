@@ -19,6 +19,6 @@ Noobpool and noobspider must reach the safe zone by avoiding monsters and guns i
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 2D, Action, Adult, Adventure, Alien

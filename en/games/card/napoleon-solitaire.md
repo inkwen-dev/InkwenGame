@@ -21,4 +21,4 @@ A Classic Napoleon Solitaire Card Game. Move all the cards from bottom to the to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Brain, Card, Puzzle, Strategy
+- Tags: Board, Brain, card, Puzzle, strategy

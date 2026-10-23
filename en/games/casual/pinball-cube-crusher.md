@@ -21,4 +21,4 @@ Pinball: Cube Crusher - a fast-paced arcade game where pinball meets demolition!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Ball, Block, blocky, Bounce, Casual, destroy, destroying, Mobile, Pinball, Retro, Unity3D, WebGL
+- Tags: 1 Player, 3D, Ball, block, blocky, Bounce, Casual, destroy, destroying, Mobile, Pinball, retro, Unity3D, WebGL

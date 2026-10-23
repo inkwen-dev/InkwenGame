@@ -19,6 +19,6 @@ It's wartime! And you as an elite soldier have some missions to accomplish! Rush
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, Gun, HTML5, Shoot, War, weapons

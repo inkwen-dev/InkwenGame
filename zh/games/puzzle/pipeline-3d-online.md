@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 人, 3D, 3D游戏, 大脑, H5, HTML, HTML5, 儿童, 逻辑, 匹配, 移动, 在线, 管道
+- 标签: 单人, 3D, 3D游戏, 大脑, H5, HTML, HTML5, 儿童, 逻辑性, 匹配, 移动设备, 在线, 管道

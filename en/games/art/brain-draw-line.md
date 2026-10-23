@@ -25,4 +25,4 @@ The goal of this game is simple: create a single, continuous line without liftin
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Drawing, Puzzle
+- Tags: Brain, drawing, Puzzle

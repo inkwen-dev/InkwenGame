@@ -21,4 +21,4 @@ Fat Shark 是一款 HTML5 生存游戏。这条鲨鱼饿极了！用一些鱼来
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1人游戏, 动物, 鱼, 鲨鱼
+- 标签: 单人, 动物, 鱼, 鲨鱼

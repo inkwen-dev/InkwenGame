@@ -19,6 +19,6 @@ You have to jump over different obstacles, have fun along the way, reach the fin
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 3D, 3D Games, jump, Jumping, Race, run, running, Sport, Unity3D
+- Tags: .io, 3D, 3D Games, jump, jumping, Race, run, running, Sport, Unity3D

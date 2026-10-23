@@ -21,4 +21,4 @@ Baby Repeater is an addictive adaptation of the classic old memory game; adults 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Baby, Click, Clicker, Kids, Memory
+- Tags: Arcade, Baby, Click, Clicker, Kids, memory

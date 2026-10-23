@@ -21,4 +21,4 @@ In this game, players can experience the joy of building different houses for fo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cute, Design, Educational, Food, Fun, Girls, House, HTML5, Kids, Mobile, Panda
+- Tags: Animal, Baby, Cute, Design, educational, Food, Fun, Girls, House, HTML5, Kids, Mobile, Panda

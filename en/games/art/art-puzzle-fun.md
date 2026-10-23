@@ -21,4 +21,4 @@ Art Puzzle Fun is a very fun casual puzzle game, a free online puzzle game. You 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Block, Boy, Brain, Bricks, Fun, HTML5, Kids, Matching, Online, Puzzle
+- Tags: Android, block, Boy, Brain, Bricks, Fun, HTML5, Kids, Matching, Online, Puzzle

@@ -19,6 +19,6 @@ Head basketball sports which are a simplified of basketball game. Before each ga
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Basketball, Battlegrounds, Sport, Sports
+- Tags: Adventure, basketball, Battlegrounds, Sport, sports

@@ -19,6 +19,6 @@ This is a jackpot game but different: the pictures have been replaced by numbers
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casino, Educational, Math, Puzzle
+- Tags: Casino, educational, math, Puzzle

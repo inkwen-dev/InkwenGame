@@ -19,6 +19,6 @@ According to the number from small to large, find all the numbers can, like the 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Ball, Bomb, Brain, Bubble, Clicker, H5, Math
+- Tags: 3D, 3D Games, Ball, Bomb, Brain, Bubble, Clicker, H5, math

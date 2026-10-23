@@ -21,4 +21,4 @@ Drag and drop the all picture pieces to their exact locations to complete the pi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Horse, HTML5, Jigsaw, Mobile
+- Tags: Animal, horse, HTML5, Jigsaw, Mobile

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 经典, 烹饪, 闲暇, 餐厅
+- 标签: 经典, 厨艺, idle, 餐厅

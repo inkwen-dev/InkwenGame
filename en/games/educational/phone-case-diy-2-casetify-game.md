@@ -19,6 +19,6 @@ Do you have artistic talent? If you are not sure about your artistic talent. The
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Craft, Crafting, Creation, Design, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: Craft, Crafting, Creation, Design, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

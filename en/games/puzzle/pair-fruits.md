@@ -21,4 +21,4 @@ Pair Fruits is kind of memory game with fruits. You need to pair two same fruits
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fruits, Memory, Puzzle
+- Tags: Fruits, memory, Puzzle

@@ -19,6 +19,6 @@ Colors Domination is a free leisure puzzle online game played on PuzzleGame for 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Block, Boy, Brain, Coloring, Fun, HTML5, Kids, Online, Puzzle
+- Tags: 3D, Android, block, Boy, Brain, Coloring, Fun, HTML5, Kids, Online, Puzzle

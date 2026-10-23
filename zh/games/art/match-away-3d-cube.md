@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 3D游戏, 最佳, 涂色, 逻辑, 解谜, 技巧, Unity3D, WebGL
+- 标签: 单人, 3D, 3D游戏, 最佳, 着色, 逻辑, 益智, 技能, Unity3D, WebGL

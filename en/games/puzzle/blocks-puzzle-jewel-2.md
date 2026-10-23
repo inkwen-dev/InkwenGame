@@ -19,6 +19,6 @@ Blocks Puzzle Jewel 2 is an amazing game. make full lines vertically or horizont
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Hypercasual, Jewel, Match3, Puzzle
+- Tags: block, Hypercasual, Jewel, Match3, Puzzle

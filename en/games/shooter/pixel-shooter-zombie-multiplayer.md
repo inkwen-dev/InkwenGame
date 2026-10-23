@@ -19,6 +19,6 @@ Play The strolling zombie: Dead city, a zombie shooter game that takes area in t
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Best, Crazy, Multiplayer, Pixel, Shoot, Shooter, Shooting, Unity3D
+- Tags: 3D Games, Best, crazy, Multiplayer, pixel, Shoot, Shooter, Shooting, Unity3D

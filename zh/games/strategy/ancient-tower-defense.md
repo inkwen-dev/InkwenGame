@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 弓箭, 怪物, 射击, 剑, Unity3D, WebGL
+- 标签: 街机, 弓箭, monster, 射击, 剑, Unity3D, WebGL

@@ -19,6 +19,6 @@ Welcome to Cookie Bursting. It is a new puzzle game for kids. Burst the cookies 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Boys, Fun, Kids, Puzzle

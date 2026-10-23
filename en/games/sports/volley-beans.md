@@ -44,4 +44,4 @@ Perfect for volleyball fans, casual gamers, and anyone who loves fun sports game
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Multiplayer, Sports
+- Tags: Multiplayer, sports

@@ -21,4 +21,4 @@ Wordix 是一款引人入胜的逻辑游戏，你的任务是在有限的尝试�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 大脑, 休闲, 教育, 家庭, 逻辑, 逻辑性, 拼图, unity, WebGL, 词汇
+- 标签: 单人, 大脑, 休闲, 教育, 家庭, 逻辑, 逻辑性, 益智, unity, WebGL, 单词

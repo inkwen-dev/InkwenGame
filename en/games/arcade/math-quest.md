@@ -21,4 +21,4 @@ Math Quest is an engaging and educational game designed for players of all ages 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, html5 games, Math
+- Tags: 2D, Arcade, html5 games, math

@@ -21,4 +21,4 @@ PAW Patrol Coloring Book html5 is cool coloring game for kids and adults. Play P
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Color, Coloring, Draw, Drawing, Puzzle
+- Tags: Cartoon, Color, Coloring, Draw, drawing, Puzzle

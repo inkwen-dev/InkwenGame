@@ -19,6 +19,6 @@ You know whats better in the candies? The cotton candies. Bringing you with colo
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Boy, Boys, Collection, Crazy, Creation, Decoration, Educational, Fashion, Girl, Girls, Interactive Fiction, Relaxation, Simulation, Unity3D
+- Tags: .io, .io Games, Action, Boy, Boys, Collection, crazy, Creation, Decoration, educational, Fashion, Girl, Girls, Interactive Fiction, Relaxation, Simulation, Unity3D

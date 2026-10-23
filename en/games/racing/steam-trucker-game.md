@@ -19,6 +19,6 @@ Drive big trucks faster than ordinary cars, and be careful, coz you are not alon
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Car, Cars, Game, Online, Race, Stealth, Truck
+- Tags: Adventure, Arcade, Car, Cars, Game, Online, Race, Stealth, truck

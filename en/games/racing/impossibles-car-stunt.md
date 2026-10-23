@@ -19,6 +19,6 @@ Welcome to the world of real impossible tracks car racing games. Enjoy the race 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Arcade, Bike, Car, Cars, Casual, drift, drifting, Fun, Funny, Hot, Hypercasual, jump, Jumping, Parking, Race, Racing, Stunts
+- Tags: .io, .io Games, Action, Arcade, bike, Car, Cars, Casual, drift, drifting, Fun, Funny, Hot, Hypercasual, jump, jumping, parking, Race, Racing, Stunts

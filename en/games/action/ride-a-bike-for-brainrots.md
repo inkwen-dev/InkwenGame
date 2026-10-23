@@ -27,4 +27,4 @@ Keep riding, improving, and conquer every obby stage! 🚀
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Bike, obby
+- Tags: bike, obby

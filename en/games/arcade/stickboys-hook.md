@@ -21,4 +21,4 @@ Swing with Stickboys and jump your way to the finish line. Stickboys needs your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Stickman
+- Tags: 1 Player, 2D, Adventure, Arcade, stickman

@@ -15,6 +15,6 @@ Immerse yourself in the fast-paced thrill of Sky Clash Air Hockey vs. Pong, wher
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Sports
+- Tags: sports

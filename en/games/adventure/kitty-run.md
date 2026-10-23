@@ -19,6 +19,6 @@ Kitty Run is an html5 endless run game, run and avoid obstacles from monster amb
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping
+- Tags: jumping

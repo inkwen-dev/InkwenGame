@@ -29,4 +29,4 @@ This side-scrolling strategy game features a lane-based tug-of-war mechanic wher
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Boys, Strategy, Tower Defense
+- Tags: Action, Boys, strategy, Tower Defense

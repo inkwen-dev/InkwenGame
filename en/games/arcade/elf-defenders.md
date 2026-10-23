@@ -21,4 +21,4 @@ Elf Defenders is a classic style arcade game, you are an elf and you have to def
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Arcade, Pixel, Retro
+- Tags: 1 Player, Action, Arcade, pixel, retro

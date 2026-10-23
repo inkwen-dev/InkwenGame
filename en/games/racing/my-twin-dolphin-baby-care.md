@@ -21,4 +21,4 @@ My Twin Dolphin Baby Care is a caring game. In this game, you will be a keeper i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Educational
+- Tags: Car, educational

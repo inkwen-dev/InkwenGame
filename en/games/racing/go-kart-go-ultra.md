@@ -19,6 +19,6 @@ Welcome to the online game Go Kart Go Ultra. This is a free Racing Game. In the 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Anime, Bomb, Boys, Fantasy, Fun, Girls, Highscore, HTML5, Kart, Mario, Race, Racing, Timing
+- Tags: 3D, 3D Games, Anime, Bomb, Boys, Fantasy, Fun, Girls, Highscore, HTML5, Kart, mario, Race, Racing, Timing

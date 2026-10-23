@@ -19,6 +19,6 @@ Put your reflexes to the test in Dot Dodge, an exciting arcade game that challen
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Best Games, Block, Fun, Hypercasual, Puzzle
+- Tags: Best, Best Games, block, Fun, Hypercasual, Puzzle

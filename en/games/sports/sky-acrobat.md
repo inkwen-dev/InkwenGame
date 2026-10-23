@@ -19,6 +19,6 @@ Its possible now to play Sky Acrobat game in your web browser for free at superk
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Avoid, Boys, Brain, Flight, Fun, Girls, HTML, Miraculous Ladybug, Mobile, Skill, sky, Sport
+- Tags: Adventure, Avoid, Boys, Brain, flight, Fun, Girls, HTML, Miraculous Ladybug, Mobile, Skill, sky, Sport

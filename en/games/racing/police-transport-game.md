@@ -21,4 +21,4 @@ Police Transport Game puts you in charge of transporting police vehicles safely 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, offroad, Parking, Police, Road
+- Tags: Action, Adventure, offroad, parking, police, Road

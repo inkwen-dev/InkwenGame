@@ -37,4 +37,4 @@ If you like cool ninja games or knife throwing games like Hit Master 3D, Clumsy 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Fighting, Ninja
+- Tags: fighting, ninja

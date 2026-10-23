@@ -21,4 +21,4 @@ Enter the Ninja Academy and see if you can become a real Ninja. Complete a numbe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Fighting, Ninja, Skill, Slicing
+- Tags: Anime, fighting, ninja, Skill, Slicing

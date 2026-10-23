@@ -21,4 +21,4 @@ Step into the exciting world of TankCraft &ndash; War Tank Battles, where creati
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Tanks, Truck
+- Tags: Car, tanks, truck

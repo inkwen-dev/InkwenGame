@@ -19,6 +19,6 @@ Fun Brick Out Adventure game with colorful bricks. Retro play method and new fun
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Bricks, Fun, HTML5, Kids, Mobile, Skill

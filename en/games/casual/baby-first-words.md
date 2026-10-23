@@ -21,4 +21,4 @@ Baby First Words, is a game completely created for the smallest of the home focu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Baby, Baby Hazel, Word
+- Tags: 1 Player, Animal, Baby, Baby Hazel, word

@@ -21,4 +21,4 @@ The twin sister stickmans in red and blue want to reach the portal at the finish
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Adventure, Arcade, Minecraft, Stickman
+- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Adventure, Arcade, Minecraft, stickman

@@ -21,4 +21,4 @@ Painting games for kids have never been so lively! Kids paint and color in our l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Christmas, Cute, Drawing, Fun, Girls, Holiday, HTML5, Kids, Mobile
+- Tags: Animal, Christmas, Cute, drawing, Fun, Girls, Holiday, HTML5, Kids, Mobile

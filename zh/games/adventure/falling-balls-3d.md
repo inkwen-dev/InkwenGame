@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 冒险, 球, 男孩们, 女孩们, Minecraft, 益智
+- 标签: 3D, 3D游戏, 冒险, 球, 男孩们, 女孩, 我的世界, 益智

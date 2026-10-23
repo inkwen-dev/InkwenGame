@@ -19,6 +19,6 @@ Sonic Hidden Diamonds is a fun online skill and hidden object game. Find out the
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2 Player, 2D, 3D, 3D Games, Action, Adult, Adventure, Air, Best, Bike, Boy, Boys, H5, HTML, HTML5, Kid, Kids
+- Tags: .io, .io Games, 1 Player, 2 Player, 2D, 3D, 3D Games, Action, Adult, Adventure, Air, Best, bike, Boy, Boys, H5, HTML, HTML5, Kid, Kids

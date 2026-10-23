@@ -19,6 +19,6 @@ Unique Levels: Explore a variety of captivating and unique levels. Realistic Phy
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Best, Best Games, Bicycle, Bike, BMX, BMX Games, Brain, Casual, Christmas, Draw, Drawing, Racing
+- Tags: 3D, Arcade, Best, Best Games, Bicycle, bike, BMX, BMX Games, Brain, Casual, Christmas, Draw, drawing, Racing

@@ -19,6 +19,6 @@ Fruit Match4 Puzzle is an amazing game similar to tetris. Swipe left and right a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Block, Fruit, Fruits, Hot, Match 3, Match3, Matching, Punch, Tetris
+- Tags: Best, block, Fruit, Fruits, Hot, Match 3, Match3, Matching, Punch, tetris

@@ -21,4 +21,4 @@ Dodge endless obstacles while you get used to constantly shifting rules! Extende
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Arcade, endless, Pixel, Retro
+- Tags: 1 Player, 2D, Action, Arcade, endless, pixel, retro

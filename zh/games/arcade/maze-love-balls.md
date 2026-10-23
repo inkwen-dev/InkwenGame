@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, Android, 街机, 球, 男孩, 休闲, 女孩, iPad, iPhone, 小孩, 迷宫, 移动设备, 鼠标, 在线
+- 标签: 3D, 安卓, 街机, 球, 男孩, 休闲, 女孩, iPad, iPhone, 儿童, 迷宫, 移动设备, 鼠标, 在线

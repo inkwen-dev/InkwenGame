@@ -19,6 +19,6 @@ Get an engaging jigsaw puzzle experience with one of the world’s most-download
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Game, Games, Puzzle

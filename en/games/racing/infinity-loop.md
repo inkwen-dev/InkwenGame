@@ -21,4 +21,4 @@ Try to think of ways to connect all the lines into an enclosed shape. When you'v
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Educational, Puzzle
+- Tags: Clicker, educational, Puzzle

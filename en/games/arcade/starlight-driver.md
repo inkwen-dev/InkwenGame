@@ -19,6 +19,6 @@ There are yellow rings that a spaceship must collect to save its world. Collect 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, 3D, Adventure, Arcade, Retro, Space, Spaceship
+- Tags: 1 Player, 2D, 3D, Adventure, Arcade, retro, Space, Spaceship

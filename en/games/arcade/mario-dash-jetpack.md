@@ -19,6 +19,6 @@ Are you a Super Mario Lover? Welcome to this amazing flying mario game. Tap to f
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, fly, Highscore, Mario
+- Tags: Arcade, fly, Highscore, mario

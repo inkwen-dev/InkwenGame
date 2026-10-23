@@ -21,4 +21,4 @@ Blocks Classic 是一款消除两个相同方块的益智游戏，你需要清�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 方块, 匹配, 益智方块
+- 标签: 方块, 匹配, 拼图块

@@ -21,4 +21,4 @@ Cute Kids Trucks is a jigsaw game. At this game you can play with twelve differe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Games, Jigsaw, Kids, Puzzle, Truck
+- Tags: Games, Jigsaw, Kids, Puzzle, truck

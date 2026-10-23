@@ -21,4 +21,4 @@ Goblin Clan is a free online fantasy game in which goblins must help each other 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Game, Games, HTML5, jump, Jumping, Online
+- Tags: Action, Arcade, Game, Games, HTML5, jump, jumping, Online

@@ -21,4 +21,4 @@ Minecraft Truck Jigsaw is a free online game from genre of puzzle and jigsaw gam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Craft, Fun, Jigsaw, Minecraft, Mobile, Skill, Truck
+- Tags: Craft, Fun, Jigsaw, Minecraft, Mobile, Skill, truck

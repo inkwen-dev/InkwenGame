@@ -19,6 +19,6 @@ Crazy car parking stunts is new car driving simulator game is full of fun with r
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Car, Cars, Driving, Game, Games, Stunts, Supercars, Unity3D, WebGL

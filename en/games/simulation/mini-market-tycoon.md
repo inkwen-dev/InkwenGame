@@ -21,4 +21,4 @@ A new Market Tycoon Idle adventure is now beginning with the experts of this job
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Click, Clicker, Fun, Funny, Hypercasual, Management
+- Tags: Casual, Click, Clicker, Fun, Funny, Hypercasual, management

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 汽车, 驾驶, Mentolatux, 模拟器, 特技, 超级跑车, unity, 车辆, WebGL
+- 标签: 单人, 汽车, 驾驶, Mentolatux, 模拟器, 特技, 超跑, unity, 车辆, WebGL

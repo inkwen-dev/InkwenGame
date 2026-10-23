@@ -21,4 +21,4 @@ Hand colour dozens of unique drawings on the screen of your mobile, tablet or co
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Cute, Draw, Drawing, Educational, School
+- Tags: Color, Coloring, Cute, Draw, drawing, educational, School

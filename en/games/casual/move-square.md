@@ -21,4 +21,4 @@ Think fast in Move Square! Change your direction in 90-degree turns to dodge sur
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Best Games, Block
+- Tags: 1 Player, 2D, Best Games, block

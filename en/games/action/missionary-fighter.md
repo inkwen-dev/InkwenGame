@@ -21,4 +21,4 @@ Missionary Fighter is an adrenaline-fueled action game where players embark on d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Fighting, Street Fighting, Unity3D, WebGL
+- Tags: Arcade, fighting, Street Fighting, Unity3D, WebGL

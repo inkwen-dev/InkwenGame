@@ -19,6 +19,6 @@ Crazy Hill: Driving is an exhilarating and fast-paced racing game that takes you
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Driving, HTML5, Mobile, monstertruck, Skill, Skills, Truck
+- Tags: 1 Player, 2D, Android, Driving, HTML5, Mobile, monstertruck, Skill, Skills, truck

@@ -19,6 +19,6 @@ Drift Mania: Street Outlaws takes the heat to the streets allowing players to ba
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, 3D Games, Adult, Adventure, Arcade, bus, Car, Cars, Ladybug, Love, Parking, Race, Racing, Simulation, Simulator, Supercars, Truck, Unity3D
+- Tags: .io Games, 3D, 3D Games, Adult, Adventure, Arcade, bus, Car, Cars, Ladybug, Love, parking, Race, Racing, Simulation, Simulator, Supercars, truck, Unity3D

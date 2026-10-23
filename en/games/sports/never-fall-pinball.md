@@ -21,4 +21,4 @@ Never Fall Pinball is a normal pinball game where pins are made extra large so t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Pinball, Point And Click, Sports
+- Tags: Casual, Pinball, Point And Click, sports

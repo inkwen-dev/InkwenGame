@@ -19,6 +19,6 @@ My Christmas Items is a free online game from genre of memory and kids games. Yo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Fun, Holiday, HTML5, Kids, Memory, Skill, Winter
+- Tags: Christmas, Fun, Holiday, HTML5, Kids, memory, Skill, Winter

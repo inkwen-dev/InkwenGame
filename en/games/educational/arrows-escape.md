@@ -34,4 +34,4 @@ Welcome to Arrows Escape, a minimalist puzzle game that challenges your logic, p
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, Logic, Puzzle
+- Tags: Brain, educational, Logic, Puzzle

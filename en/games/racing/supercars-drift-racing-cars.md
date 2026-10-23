@@ -19,6 +19,6 @@ Legends take the wheel of real cars from premium prominent epic car producers, s
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Best, Car, Cars, drift, drifting, Driving, Game, Games, Minecraft, Racing, Super, Supercars, Unity3D, WebGL

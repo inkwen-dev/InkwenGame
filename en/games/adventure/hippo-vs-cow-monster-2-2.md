@@ -15,6 +15,6 @@ Navigate a whimsical 2D realm in Hippo vs Cow Monster 2! Embark on a fast-paced 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

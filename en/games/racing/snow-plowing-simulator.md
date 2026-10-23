@@ -19,6 +19,6 @@ Try yourself as a snow plowman: start with a shovel, and finish driving a powerf
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Car, First Person Shooter, Simulation, Simulator, Snow, tractor, Truck
+- Tags: 3D, Adventure, Car, First Person Shooter, Simulation, Simulator, Snow, tractor, truck

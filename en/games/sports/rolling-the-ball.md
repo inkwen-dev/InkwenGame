@@ -21,4 +21,4 @@ Your objective is simple to roll the ball into the hole in a few moves.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Casual, Golf
+- Tags: 1 Player, 2D, Android, Casual, golf

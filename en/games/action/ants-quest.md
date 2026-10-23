@@ -21,4 +21,4 @@ Ants Quest is a 2D platformer where you have to collect the sugar cubes while av
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Cute, jump, Jumping, Kids, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Cute, jump, jumping, Kids, pixel, Platform, retro

@@ -32,4 +32,4 @@ Every launch is a search for the perfect balance of fuel, mass, and blast power.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Physics, Space, Strategy
+- Tags: 3D, Action, Physics, Space, strategy

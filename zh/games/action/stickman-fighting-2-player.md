@@ -21,4 +21,4 @@ Stickman Fighting 2 Player！一款有趣、上瘾且支持多人对战的战士
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 双人, 动作, 拳击, 男孩们, 战斗, 格斗, HTML5, 物理, WebGL
+- 标签: 单人, 双人, 动作, Boxing, 男孩们, 格斗, 格斗, HTML5, 物理, WebGL

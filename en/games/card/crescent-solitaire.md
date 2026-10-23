@@ -21,4 +21,4 @@ Crescent Solitaire is a captivating card game where the objective is to move all
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casual, Solitaire
+- Tags: card, Casual, solitaire

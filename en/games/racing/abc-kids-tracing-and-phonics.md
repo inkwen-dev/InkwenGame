@@ -21,4 +21,4 @@ ABC PreSchool Kids Tracing Game it is an educational app to help your toddler le
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Coloring, Cool, Educational, Interactive
+- Tags: Casual, Coloring, cool, educational, Interactive

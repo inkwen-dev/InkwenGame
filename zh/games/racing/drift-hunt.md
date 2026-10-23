@@ -21,4 +21,4 @@ Drift Hunters Pro 提供令人肾上腺素飙升的3D赛车和漂移体验，非
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车, 漂移驾驶, 驾驶, 免费网站游戏, onlinegames io, 竞速
+- 标签: 汽车, 漂移, 驾驶, 免费游戏供你的网站使用, onlinegames io, 比赛

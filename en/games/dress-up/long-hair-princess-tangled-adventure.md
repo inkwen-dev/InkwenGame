@@ -19,6 +19,6 @@ This is the story of the fairy tale - Rapunzel. Rapunzel is a princess with beau
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Dress Up, Girl, Girls, Hair, Hidden, Kids, Magic, Makeover, Princess, Simulation, Surgery
+- Tags: Cartoon, Dress Up, Girl, Girls, Hair, Hidden, Kids, Magic, Makeover, Princess, Simulation, surgery

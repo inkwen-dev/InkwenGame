@@ -19,6 +19,6 @@ We all loved Among Us games. This time, Among Us is different. Among Us characte
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Clicker, Funny, Girls, Jigsaw, Kids

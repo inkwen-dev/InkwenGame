@@ -19,6 +19,6 @@ Block Escape is a challenging puzzle game where you must slide the red block all
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, Avoid, Baby, Baby Hazel, Balance, Best, Bounce, Boy, Brain, Brawl, Bridge, Girl, Girls, Logical

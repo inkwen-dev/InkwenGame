@@ -19,6 +19,6 @@ Quick Dice is fun board game to play. In front of your screen, a playing field w
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casino, Lego, Poker, Room, Slot Machine
+- Tags: card, Casino, Lego, Poker, Room, Slot Machine

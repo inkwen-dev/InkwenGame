@@ -21,4 +21,4 @@ Crazy Alien Adventure is an addictive and exciting game. You will play as a brav
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Alien, Animal, Crazy, Halloween, Jumping, Side Scrolling
+- Tags: Alien, Animal, crazy, Halloween, jumping, Side Scrolling

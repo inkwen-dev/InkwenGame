@@ -19,6 +19,6 @@ And in this part of the game Digger Ball 3 you will work with a digger. Before y
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Best Games, Fun, Kids, Logic, Mobile, Physics, Skill

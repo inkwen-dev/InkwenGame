@@ -19,6 +19,6 @@ Want to be a car mogul? Want to own more luxury, limited-edition cars? Merge Car
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Car, Casual, Click, Game, Kid, Kids, Point And Click, Relaxation

@@ -19,6 +19,6 @@ Will you be able to reassemble all of these adorable pictures of Sponge Bob? The
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cartoon, Educational, Fun, Girls, Jigsaw, Kids, Puzzle, School, Spongebob
+- Tags: Boys, Cartoon, educational, Fun, Girls, Jigsaw, Kids, Puzzle, School, Spongebob

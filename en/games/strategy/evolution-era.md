@@ -19,6 +19,6 @@ Evolution Era is a tower defense strategy game where you battle through waves of
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, apocalypse, Arcade, Army, attack, Battle, Boy, build, Castle, Casual, Strategy, Tower Defense, War, Warrior
+- Tags: Animal, apocalypse, Arcade, Army, attack, battle, Boy, build, Castle, Casual, strategy, Tower Defense, War, Warrior

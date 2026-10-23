@@ -19,6 +19,6 @@ Pokemon, happens on the fake island of Pasio. Pokemon and their Trainers called 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Anime, Brain, Cartoon, Cartoon Network, Educational, Fun, Matching, Pokemon, Puzzle
+- Tags: 1 Player, 2D, Anime, Brain, Cartoon, Cartoon Network, educational, Fun, Matching, Pokemon, Puzzle

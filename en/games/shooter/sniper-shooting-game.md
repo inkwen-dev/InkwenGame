@@ -21,4 +21,4 @@ Sniper Mode is a first-person precision shooter where you take down hostile mili
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: fps, Gun, Shoot, Sniper
+- Tags: fps, Gun, Shoot, sniper

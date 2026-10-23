@@ -21,4 +21,4 @@ It's time to show now your jeep parking skills by experiencing car games and the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Arcade, Car, Cars, Driving, Game, HTML, HTML5, Parking, Road, Simulator
+- Tags: 1 Player, 3D, 3D Games, Arcade, Car, Cars, Driving, Game, HTML, HTML5, parking, Road, Simulator

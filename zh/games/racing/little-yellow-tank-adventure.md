@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 躲避, 有趣, HTML5, 超休闲, 障碍, 停车, 技巧, 坦克
+- 标签: 安卓, 躲避, 有趣, HTML5, 超休闲, 障碍, 停车, 技巧, 坦克

@@ -19,6 +19,6 @@ Welcome to the world of prime ball games. Are you ready to embark on a thrilling
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 3D, Adventure, Ball, Casual

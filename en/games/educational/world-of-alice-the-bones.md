@@ -21,4 +21,4 @@ World of Alice - The Bones World of Alice - The Bones is a game developed for ch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Games, Best Games, Cartoon, Cute, Educational, free games for your site, free games for your website, Fun, Funny, html5 games for your site, Kids, Puzzle, touch, World
+- Tags: Baby Games, Best Games, Cartoon, Cute, educational, free games for your site, free games for your website, Fun, Funny, html5 games for your site, Kids, Puzzle, touch, World

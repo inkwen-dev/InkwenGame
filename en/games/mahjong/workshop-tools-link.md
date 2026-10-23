@@ -21,4 +21,4 @@ Workshop Tools Link is a block connect game. You need to connect two blocks of i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Mahjong, Matching, Mobile, Puzzle, Skill
+- Tags: HTML5, mahjong, Matching, Mobile, Puzzle, Skill

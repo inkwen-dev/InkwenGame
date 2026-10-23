@@ -21,4 +21,4 @@ Join Baby Bella on a wonderful adventure in the majestic candy world. Create lov
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cooking, Cute, Decorate, Design, Dress Up, Educational, Fashion, Girl, Girls, Kids, Simulation
+- Tags: Baby, Cooking, Cute, Decorate, Design, Dress Up, educational, Fashion, Girl, Girls, Kids, Simulation

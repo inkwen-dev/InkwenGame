@@ -19,6 +19,6 @@ Doggy Vs Zombies is an run game, run and avoid obstacles from zombie ambushes ju
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, run, running, Zombie

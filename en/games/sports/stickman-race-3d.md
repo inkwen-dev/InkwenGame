@@ -21,4 +21,4 @@ Participate in race win Against Opponents be like No 1 in all 3 Rounds to Win th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Race, Stickman
+- Tags: 1 Player, 3D, 3D Games, Race, stickman

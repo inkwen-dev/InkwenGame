@@ -19,6 +19,6 @@ Can you become the champion of a fun race in the easiest way? The most important
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Game, Games, Kid, Kids, Platform, Race, Racing, run, running

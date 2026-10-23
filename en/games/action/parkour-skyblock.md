@@ -21,4 +21,4 @@ Complete levels and do parkour tricks in Parkour Skyblock. Jump over obstacles, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, Game, unity
+- Tags: 1 Player, block, Game, unity

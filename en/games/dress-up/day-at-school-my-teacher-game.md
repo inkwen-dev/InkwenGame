@@ -21,4 +21,4 @@ It’s the first day of school and all the students are excited to be back in cl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Cleaning, Doctor, Dress Up, Educational, Girl, Girls, Holiday, Kid, Kids, School
+- Tags: Boy, Boys, Cleaning, Doctor, Dress Up, educational, Girl, Girls, Holiday, Kid, Kids, School

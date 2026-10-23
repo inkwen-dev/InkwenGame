@@ -19,6 +19,6 @@ Elsa has now become a cake master. She can make all kinds of complicated and bea
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Cartoon, Cooking, Decorate, Elsa, Food, Frozen, Girl, Girls, Kids, Princess, Simulation

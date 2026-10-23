@@ -19,6 +19,6 @@ A fun rock style game will test your skills to play the guitar! Guitarist Pro is
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Game, Girl, Music, Puzzle
+- Tags: Boy, Game, Girl, music, Puzzle

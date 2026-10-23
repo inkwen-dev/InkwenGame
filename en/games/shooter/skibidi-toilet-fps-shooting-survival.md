@@ -19,6 +19,6 @@ Skibidi Toilet FPS Shooting Survival is an exhilarating video game that combines
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mentolatux, Shooter, Shooting, Skibidi, Skibidi Toilet, Unity3D, WebGL
+- Tags: Mentolatux, Shooter, Shooting, Skibidi, skibidi-toilet, Unity3D, WebGL

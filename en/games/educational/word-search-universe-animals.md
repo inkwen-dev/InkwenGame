@@ -21,4 +21,4 @@ Explore the animal kingdom in Word Search Universe Animals! Solve 45 exciting le
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Educational, Kids, Puzzle, School, Word
+- Tags: Animal, educational, Kids, Puzzle, School, word

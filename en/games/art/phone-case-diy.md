@@ -19,6 +19,6 @@ How much do you love your phone? Well, of course we know you love it. Why not ad
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cartoon Network, Classic, Color, Coloring, Girl, HTML5, Magic

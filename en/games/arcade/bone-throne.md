@@ -38,4 +38,4 @@ No install - instant browser play on desktop and mobile
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, Mouse, RPG, survival
+- Tags: Action, Arcade, Mouse, rpg, survival

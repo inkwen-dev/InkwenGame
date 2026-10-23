@@ -21,4 +21,4 @@ Prison Escaper is a 60 levels of fun physics puzzle game! all boxes except the g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Block, Boys, Clicker, Family, HTML, HTML5, Mobile, Physics, Puzzle
+- Tags: 2D, Arcade, block, Boys, Clicker, Family, HTML, HTML5, Mobile, Physics, Puzzle

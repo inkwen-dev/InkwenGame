@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 方块, 炸弹, HTML5, 地图游戏, 益智, Sprunki
+- 标签: 方块, 炸弹, HTML5, mapi games, 益智, 斯普朗基

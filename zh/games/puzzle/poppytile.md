@@ -41,4 +41,4 @@ PoppyTile 见！
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 消除三连, 匹配
+- 标签: 三消, 匹配

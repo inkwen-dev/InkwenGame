@@ -21,4 +21,4 @@ Huge Monster Trucks game is free online game and you have 6 images of the bigges
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Jigsaw, Kids, Mobile, Puzzle, Truck
+- Tags: HTML5, Jigsaw, Kids, Mobile, Puzzle, truck

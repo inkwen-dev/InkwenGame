@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 2025 游戏, AI 游戏, 街机, 休闲, 超休闲, 益智, puzzleblock
+- 标签: 单人, 2025年游戏, AI游戏, 街机, 休闲, 超休闲, 益智, 拼图块

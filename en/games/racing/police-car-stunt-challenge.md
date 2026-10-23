@@ -21,4 +21,4 @@ Drive powerful police cars across extreme sky tracks filled with ramps, loops, r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, Driving, Police, Racing, Stunts, WebGL
+- Tags: 3D, Car, Driving, police, Racing, Stunts, WebGL

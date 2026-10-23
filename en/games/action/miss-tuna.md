@@ -21,4 +21,4 @@ Miss Tuna is a 2D Platformer where you need to collect all of the lollipops whil
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cute, Girl, Mobile, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Cute, Girl, Mobile, pixel, Platform, retro

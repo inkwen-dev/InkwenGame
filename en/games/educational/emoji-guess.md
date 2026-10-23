@@ -25,4 +25,4 @@ Show off your skills as an emoji interpreter in this supremely fun and frenetic 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Educational, Puzzle, Quiz, trivia, words
+- Tags: educational, Puzzle, Quiz, trivia, words

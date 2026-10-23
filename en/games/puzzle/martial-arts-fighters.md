@@ -19,6 +19,6 @@ Martial Arts Fighters game is free online game and you have 6 images of fighters
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fighting, HTML5, Jigsaw, Kids, Mobile, Puzzle
+- Tags: fighting, HTML5, Jigsaw, Kids, Mobile, Puzzle

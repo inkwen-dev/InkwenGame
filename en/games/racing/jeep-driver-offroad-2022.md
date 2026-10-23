@@ -21,4 +21,4 @@ This 4x4 Jeep game will provide hours of fun as you race across rolling hills an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Car, Driving, Racing, Truck, Unity3D, WebGL
+- Tags: 3D, 3D Games, Car, Driving, Racing, truck, Unity3D, WebGL

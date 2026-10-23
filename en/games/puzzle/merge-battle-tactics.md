@@ -21,4 +21,4 @@ Merge Battle Tactics is a thrilling merge battle game where you command an army 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Animal, Arena, Battle, Casual, Defense, Dinosaur, Dragon, Mobile, Strategy, Wolf
+- Tags: 3D, Action, Animal, Arena, battle, Casual, Defense, Dinosaur, Dragon, Mobile, strategy, Wolf

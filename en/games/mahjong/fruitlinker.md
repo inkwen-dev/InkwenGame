@@ -21,4 +21,4 @@ This is a Mahjong linking game. You must match two identical blocks. Connecting 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Fruits, Girls, HTML, HTML5, Mahjong, Matching, Mobile, Puzzle
+- Tags: Board, Fruits, Girls, HTML, HTML5, mahjong, Matching, Mobile, Puzzle

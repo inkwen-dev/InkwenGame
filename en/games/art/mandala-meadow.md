@@ -39,4 +39,4 @@ Perfect for mindfulness, stress relief, and creative relaxation. No timers, no p
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Color, cozy, Drawing, Kids
+- Tags: Color, cozy, drawing, Kids

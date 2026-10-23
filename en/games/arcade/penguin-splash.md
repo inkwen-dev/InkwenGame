@@ -19,6 +19,6 @@ Penguin Splash is a fun and challenging online match 3 game. Link three or more 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, HTML, HTML5, Hypercasual, Online, Puzzle

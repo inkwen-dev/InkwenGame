@@ -21,4 +21,4 @@ Real Madrid Puzzle 是最大的在线拼图游戏社区，拥有超过30张图�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 足球, 搞笑, 益智, 运动
+- 标签: 橄榄球, 搞笑, 益智, 体育

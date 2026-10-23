@@ -21,4 +21,4 @@ Russian Trucks Jigsaw is a free online game from genre of puzzle and jigsaw game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Fun, HTML5, Jigsaw, Skill, Truck
+- Tags: 1 Player, Fun, HTML5, Jigsaw, Skill, truck

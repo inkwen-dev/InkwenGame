@@ -19,6 +19,6 @@ Have fun with this entertaining game CatRobot Idle TD Battle Cat is a tower defe
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, kiz10, Shooting, Tower Defense
+- Tags: battle, kiz10, Shooting, Tower Defense

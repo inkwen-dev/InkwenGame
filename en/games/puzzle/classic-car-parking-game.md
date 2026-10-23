@@ -19,6 +19,6 @@ More than just parking: open-world multiplayer mode, car tuning, free walking! T
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D, 3D Games, Baseball, Bike, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Games, Horse, Love, Mario, Street Fighting, Super, Supercars, Superhero, Truck, Unity3D
+- Tags: .io Games, 1 Player, 3D, 3D Games, baseball, bike, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Games, horse, Love, mario, Street Fighting, Super, Supercars, Superhero, truck, Unity3D

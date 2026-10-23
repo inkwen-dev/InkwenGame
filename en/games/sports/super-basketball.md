@@ -25,4 +25,4 @@ Super Basketball is a fast arcade sports game built around wild basketball battl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, Ball, Basketball, Skill, Sports
+- Tags: 3D, Arcade, Ball, basketball, Skill, sports

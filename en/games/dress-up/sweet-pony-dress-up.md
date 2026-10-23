@@ -21,4 +21,4 @@ Let's decorate and dress our cute pony friend with horns, hair, wings, dress sho
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Decoration, Dress Up, Fun, Game, Girl, Horse, HTML5, Pony
+- Tags: Animal, Decoration, Dress Up, Fun, Game, Girl, horse, HTML5, Pony

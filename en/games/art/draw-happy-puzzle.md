@@ -21,4 +21,4 @@ The little girl is in trouble! Life is always missing something? It seems very s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boy, Brain, Draw, Drawing, Girl, Kid, Kids, Puzzle
+- Tags: 2D, Boy, Brain, Draw, drawing, Girl, Kid, Kids, Puzzle

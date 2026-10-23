@@ -21,4 +21,4 @@ Donald Duck is a cartoon character created in 1934 at Walt Disney Productions. D
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Brain, Card, Memory, Puzzle
+- Tags: 3D, Brain, card, memory, Puzzle

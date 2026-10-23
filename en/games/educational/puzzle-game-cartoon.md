@@ -21,4 +21,4 @@ Puzzle Game Cartoon is a great game to help children improve their abilities and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Cartoon, Casual, Educational, HTML, HTML5, Hypercasual, Kids, Puzzle
+- Tags: Best, Cartoon, Casual, educational, HTML, HTML5, Hypercasual, Kids, Puzzle

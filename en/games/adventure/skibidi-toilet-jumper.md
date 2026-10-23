@@ -21,4 +21,4 @@ Skibidi Toilet Jump is a fast-paced, challenging arcade game that will test your
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, jump, Jumping, Skibidi, Skibidi Toilet
+- Tags: 1 Player, 2D, Action, Adventure, jump, jumping, Skibidi, skibidi-toilet

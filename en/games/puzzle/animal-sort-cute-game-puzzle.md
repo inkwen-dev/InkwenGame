@@ -19,6 +19,6 @@ Are you a pet person? Do you wanna run a farm that is full of cute animals? Try 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Animal, Casual, Hypercasual, idle, Puzzle, sort

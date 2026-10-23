@@ -21,4 +21,4 @@ Drive a monster truck along hard tracks and become a pro monster truck racer. Ha
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Race, Racing, Truck
+- Tags: Race, Racing, truck

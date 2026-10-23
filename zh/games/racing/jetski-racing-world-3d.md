@@ -21,4 +21,4 @@ Jet Ski Racing World 是一款令人兴奋的快节奏 Jet Ski 3D 赛车游戏�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 3D, 3D游戏, 船, 疯狂, HTML5, 竞速, 竞速, 模拟, 模拟, 运动, Unity3D, WebGL
+- 标签: 单人, 3D, 3D游戏, 船只, 疯狂, HTML5, 比赛, 竞速, 模拟, 模拟, 体育, Unity3D, WebGL

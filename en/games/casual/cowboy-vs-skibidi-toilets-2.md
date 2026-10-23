@@ -15,6 +15,6 @@ Embark on a quirky showdown as you, a lone cowboy, face off against the bizarre 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Skibidi Toilet
+- Tags: skibidi-toilet

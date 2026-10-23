@@ -21,4 +21,4 @@ Click the cards to reveal a HAT icon . Memorize it so that you can match to simi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Fun, HTML5, Kids, Matching, Memory, Mobile, Puzzle
+- Tags: Arcade, Fun, HTML5, Kids, Matching, memory, Mobile, Puzzle

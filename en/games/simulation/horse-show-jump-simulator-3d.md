@@ -19,6 +19,6 @@ Horse Show Jump Simulator 3D is an exciting animal simulator game where you can 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Horse, jump, Jumping, Simulation, Simulator
+- Tags: 3D, 3D Games, horse, jump, jumping, Simulation, Simulator

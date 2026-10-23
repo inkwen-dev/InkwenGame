@@ -19,6 +19,6 @@ This is memory game with Monster Trucks machines. Click on the cards to turn aro
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kids, Machine, Memory, Monster, Puzzle, Truck
+- Tags: Kids, Machine, memory, monster, Puzzle, truck

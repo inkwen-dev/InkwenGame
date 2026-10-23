@@ -19,6 +19,6 @@ play and have fun with this game in pure super mario bros style. complete the le
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mario, Platform, Super
+- Tags: mario, Platform, Super

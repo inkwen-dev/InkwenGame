@@ -21,4 +21,4 @@ Discover Sprunki Incredibox: A Fan-Made Musical Adventure If youre a fan of Incr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Music, Sprunki
+- Tags: music, Sprunki

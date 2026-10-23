@@ -21,4 +21,4 @@ Monster Truck Racing is a fun racing game with amazing graphics. Race against AI
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Mobile, Race, Truck
+- Tags: 2D, Mobile, Race, truck

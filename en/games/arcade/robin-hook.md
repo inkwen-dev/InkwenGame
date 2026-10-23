@@ -21,4 +21,4 @@ The game is on strings. Tap the screen to hook with string and jump over to cros
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Hypercasual, Stickman
+- Tags: Arcade, Casual, Hypercasual, stickman

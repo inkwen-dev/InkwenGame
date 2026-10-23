@@ -21,4 +21,4 @@ Multicolored pixels are going crazy. Your goal is to create a chain reaction and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Pixel, Puzzle
+- Tags: Casual, pixel, Puzzle

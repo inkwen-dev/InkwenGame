@@ -19,6 +19,6 @@ Run with Mario and friends and help to rescue the princess, tap the screen to ju
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: kiz10, Mario, run, Super
+- Tags: kiz10, mario, run, Super

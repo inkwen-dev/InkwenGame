@@ -65,4 +65,4 @@ https://www.facebook.com/Exient
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 大脑, 简单的, 搞笑, 逻辑, 物理, 解谜, 粘液
+- 标签: 大脑, 简单的, 搞笑, 逻辑, 物理, 益智, 粘液

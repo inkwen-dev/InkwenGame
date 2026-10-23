@@ -21,4 +21,4 @@ Start your job as a Super Store Cashier, manage the cash register and serve the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Fun, Management, Shopping
+- Tags: 1 Player, Fun, management, Shopping

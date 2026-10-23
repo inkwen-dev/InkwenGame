@@ -19,6 +19,6 @@ Bunn's Adventure is a fun classic adventure platformer game in which you collect
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Best, Classic, Collecting, Cool, Cute, Fun, Game, jump, Jumping, Obstacle, Physics, Pixel, Platform, Play, Retro, run, running, Skill, Skills, Unity3D, WebGL
+- Tags: 1 Player, 2D, Adventure, Arcade, Best, Classic, Collecting, cool, Cute, Fun, Game, jump, jumping, Obstacle, Physics, pixel, Platform, Play, retro, run, running, Skill, Skills, Unity3D, WebGL

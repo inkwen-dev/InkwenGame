@@ -21,4 +21,4 @@ Minecraft Adventure is fun running and jumping game suitable for all ages. Run a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Avoid, Collecting, Game, HTML5, jump, Jumping, Minecraft, Mobile, Platform, run, running, Skill
+- Tags: Android, Avoid, Collecting, Game, HTML5, jump, jumping, Minecraft, Mobile, Platform, run, running, Skill

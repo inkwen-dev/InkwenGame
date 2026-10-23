@@ -19,6 +19,6 @@ Dangerous virus strains are spreading everywhere again. You, a ninja master, hav
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Casual, Game, HTML5, Mobile, Ninja, Simulation, Slicing
+- Tags: Best, Casual, Game, HTML5, Mobile, ninja, Simulation, Slicing

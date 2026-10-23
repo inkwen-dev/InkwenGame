@@ -21,4 +21,4 @@ Easter eggs and candies, what could be better? Celebrate easter with our new gam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Mahjong, Matching, Puzzle
+- Tags: Best, mahjong, Matching, Puzzle

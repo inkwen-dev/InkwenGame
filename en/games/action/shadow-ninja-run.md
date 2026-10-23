@@ -19,6 +19,6 @@ When Shadow Ninja is about to be caught at work, he starts running, he asks for 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ninja, running
+- Tags: ninja, running

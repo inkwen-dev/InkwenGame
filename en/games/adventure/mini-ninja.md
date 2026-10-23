@@ -21,4 +21,4 @@ Mini Ninja is a great addictive game with very beautiful graphics. This is a fun
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Casual, Hypercasual, Kid, Kids, Ninja
+- Tags: Adventure, Casual, Hypercasual, Kid, Kids, ninja

@@ -32,4 +32,4 @@ Sword Play! Ninja Slice Runner is a dynamic HTML5 browser game that delivers an 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, Ninja, popular, runner
+- Tags: Boys, ninja, popular, runner

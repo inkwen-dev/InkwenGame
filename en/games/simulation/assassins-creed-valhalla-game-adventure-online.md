@@ -19,6 +19,6 @@ Play now the first ACTION RPG game of the acclaimed ASSASSIN’S CREED Franchise
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Adventure, Best, Boys, endless, Games, Ninja, Ninjago, Online, run, running, Simulator
+- Tags: .io Games, Adventure, Best, Boys, endless, Games, ninja, Ninjago, Online, run, running, Simulator

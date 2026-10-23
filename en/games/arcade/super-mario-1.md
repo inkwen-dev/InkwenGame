@@ -21,4 +21,4 @@ You have to destroy the bricks to get coins and hidden powers. Moreover, this su
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cartoon, Mario, Skills
+- Tags: Boys, Cartoon, mario, Skills

@@ -21,4 +21,4 @@ Zombie defense: War Z Survival, the ultimate zombie game, is here to fulfill you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collecting, Defense, Fighting, Gun, War, weapons, Zombie
+- Tags: Collecting, Defense, fighting, Gun, War, weapons, Zombie

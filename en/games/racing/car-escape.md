@@ -25,4 +25,4 @@ Start the engine, press the accelerator, and prepare to escape the chaotic and c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Car, Driving, Escape, Mobile, Parking
+- Tags: Car, Driving, Escape, Mobile, parking

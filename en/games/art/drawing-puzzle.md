@@ -17,4 +17,4 @@ Unleash creativity and brainpower in Drawing Puzzle! Sketch strategic paths to g
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Drawing
+- Tags: drawing

@@ -21,4 +21,4 @@ Frosty Rush 是一款温馨的冬季逻辑解谜游戏。在冰冻的关卡中�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, HTML5, 超休闲, 移动, 拼图
+- 标签: 单人, HTML5, 超休闲, 移动设备, 益智

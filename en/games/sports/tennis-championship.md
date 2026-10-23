@@ -19,6 +19,6 @@ Mini Tennis 3D is a mouse-controlled tennis game with a tournament-style competi
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Boys, Fun, Girls, Minecraft, Sports, Tennis, WebGL
+- Tags: block, Boys, Fun, Girls, Minecraft, sports, Tennis, WebGL

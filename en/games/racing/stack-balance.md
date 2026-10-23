@@ -19,6 +19,6 @@ Easy To play And hard to master! Try To make the biggest Tower Of boxes while ke
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Balance, run, running, Stack

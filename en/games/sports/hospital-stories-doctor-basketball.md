@@ -19,6 +19,6 @@ Hospital Stories: Doctor Basketball is a funny simulation game where you're work
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Doctor, Funny, Hot, New, Simulation, Surgery
+- Tags: Best, Doctor, Funny, Hot, New, Simulation, surgery

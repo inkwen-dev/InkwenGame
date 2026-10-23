@@ -19,6 +19,6 @@ Snow Trial is a new and exciting winter trial game loved by players around the w
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Snow, Soccer, Sport, Sports
+- Tags: Snow, Soccer, Sport, sports

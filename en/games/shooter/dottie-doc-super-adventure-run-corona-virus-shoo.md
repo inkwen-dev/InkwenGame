@@ -21,4 +21,4 @@ An amazing new endless runner adventure starts now. The robber has stolen your c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Doctor, Mario, run, running, Shoot, Shooter, Shooting, Super, World
+- Tags: Cartoon, Doctor, mario, run, running, Shoot, Shooter, Shooting, Super, World

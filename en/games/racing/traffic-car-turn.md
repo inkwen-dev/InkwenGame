@@ -21,4 +21,4 @@ On the roads of large cities, intersections are particularly difficult sections 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Brain, bus, Car, Cars, Hot, HTML, HTML5, Road, Strategy, Taxi, Traffic, Turn
+- Tags: Best, Brain, bus, Car, Cars, Hot, HTML, HTML5, Road, strategy, Taxi, Traffic, Turn

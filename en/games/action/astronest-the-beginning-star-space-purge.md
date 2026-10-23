@@ -21,4 +21,4 @@ Your goal in this game is to protect our planet Earth. Control your spaceship to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Alien, Arcade, Battle, Bomb, Classic, Defense, Fantasy, HTML, HTML5, Kill, Killing, Space, Spaceship, WebGL
+- Tags: Action, Adventure, Alien, Arcade, battle, Bomb, Classic, Defense, Fantasy, HTML, HTML5, Kill, Killing, Space, Spaceship, WebGL

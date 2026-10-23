@@ -19,6 +19,6 @@ Magic Tunnel Rush is an endless tunnel game consist of amazing gameplay and soun
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 8 Ball Pool, Boys, Jumping, Music, running
+- Tags: 2 Player, 2 Player Games, 8 Ball Pool, Boys, jumping, music, running

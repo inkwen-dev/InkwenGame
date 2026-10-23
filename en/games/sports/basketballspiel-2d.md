@@ -19,6 +19,6 @@ Basketballspiel 2D ist ein lustiges Spiel, bei dem du allein oder mit deinem Fre
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, WebGL
+- Tags: basketball, WebGL

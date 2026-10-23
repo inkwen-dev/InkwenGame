@@ -19,6 +19,6 @@ GHOST SHIFT - Master Two Worlds in One Game! Switch between HUMAN and GHOST mode
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, endless, Ghost, HTML, jump, Mobile, Skill

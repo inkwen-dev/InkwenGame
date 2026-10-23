@@ -19,6 +19,6 @@ The goal in this game is to escape from police cars. Police cars will try to hit
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Best, Boy, Cars, Crazy, drift, Hot, Police, Racing, Stunts
+- Tags: 3D Games, Best, Boy, Cars, crazy, drift, Hot, police, Racing, Stunts

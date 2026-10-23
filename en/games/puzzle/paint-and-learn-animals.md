@@ -21,4 +21,4 @@ How many animals can you recognize? You must know many kinds of animals. Here we
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Brain, Color, Coloring, Cute, Decorate, Decoration, Dress Up, Educational, Fun, Girls, HTML5, Jigsaw, Kids, Mobile, Puzzle, Skill
+- Tags: Animal, Brain, Color, Coloring, Cute, Decorate, Decoration, Dress Up, educational, Fun, Girls, HTML5, Jigsaw, Kids, Mobile, Puzzle, Skill

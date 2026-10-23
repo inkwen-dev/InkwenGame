@@ -30,4 +30,4 @@ Explore the intriguing realm of Flag Puzzle Jam, where puzzle-solving and flag c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Educational, Puzzle
+- Tags: educational, Puzzle

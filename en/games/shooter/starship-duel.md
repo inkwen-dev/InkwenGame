@@ -15,6 +15,6 @@ Engage in epic space battles as you navigate the vast cosmos in Starship Duel. M
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Shooter

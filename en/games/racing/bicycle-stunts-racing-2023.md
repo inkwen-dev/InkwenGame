@@ -21,4 +21,4 @@ Bicycle Stunts Racing is an exhilarating sport that combines precision and darin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Bicycle, Bike, Driving, Levels, Racing, Stunts, Unity3D, WebGL
+- Tags: Action, Bicycle, bike, Driving, Levels, Racing, Stunts, Unity3D, WebGL

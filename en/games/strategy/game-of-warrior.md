@@ -72,4 +72,4 @@ A: Music complements the game well, but it is not necessary for gameplay.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Strategy, Tower Defense
+- Tags: Action, strategy, Tower Defense

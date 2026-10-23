@@ -19,6 +19,6 @@ Download Candy Crush Soda Saga now! From the makers of the legendary Candy Crush
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Arcade, Baby, Boys, Candy, Car, Cars, Cartoon Network, Girl, Girls, Hypercasual, Monster, Punch, Puzzle, Stunts, Supercars, Superhero, Unity3D
+- Tags: 3D, 3D Games, Adventure, Arcade, Baby, Boys, Candy, Car, Cars, Cartoon Network, Girl, Girls, Hypercasual, monster, Punch, Puzzle, Stunts, Supercars, Superhero, Unity3D

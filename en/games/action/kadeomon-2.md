@@ -21,4 +21,4 @@ Kadeomon 2 is a 2D cute little platformer where you have to collect all of the g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Cute, jump, Jumping, Monster, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Cute, jump, jumping, monster, pixel, Platform, retro

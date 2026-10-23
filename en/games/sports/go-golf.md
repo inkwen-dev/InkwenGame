@@ -21,4 +21,4 @@ GoGolf is a fun sports game where you have to hit the golf ball into the hole wi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Casual, Click, Golf, Puzzle
+- Tags: Ball, Casual, Click, golf, Puzzle

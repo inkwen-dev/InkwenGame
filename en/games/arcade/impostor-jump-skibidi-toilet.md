@@ -19,6 +19,6 @@ In the thrilling game Impostor Jump Skibidi Toilet, players embark on an excitin
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, HTML5, Impostor, jump, Jumping, Mentolatux, Mobile, Skibidi, Skibidi Toilet, WebGL
+- Tags: 2D, Android, HTML5, Impostor, jump, jumping, Mentolatux, Mobile, Skibidi, skibidi-toilet, WebGL

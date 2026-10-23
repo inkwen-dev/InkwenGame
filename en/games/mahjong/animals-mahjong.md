@@ -21,4 +21,4 @@ Simplified classic Mahjong game with animals. You can eliminate pair of similar 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Board, HTML5, Mahjong, Matching, Mobile, Puzzle
+- Tags: Animal, Board, HTML5, mahjong, Matching, Mobile, Puzzle

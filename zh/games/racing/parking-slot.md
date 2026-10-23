@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩们, 汽车, 驾驶, HTML5, 移动, 停车
+- 标签: 男孩们, 汽车, 驾驶, HTML5, 移动设备, 停车

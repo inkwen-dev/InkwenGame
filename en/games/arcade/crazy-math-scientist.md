@@ -21,4 +21,4 @@ Do you want to play a fun game full of unique mechanics and which will help your
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Game, Math, Online, Puzzle, Quiz
+- Tags: Arcade, Brain, Game, math, Online, Puzzle, Quiz

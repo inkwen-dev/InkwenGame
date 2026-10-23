@@ -21,4 +21,4 @@ Welcome to Bubble Witch Saga, a New bubble shooter adventure game. Aim to shoot 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Bubble, Bubble Shooter, Fruit, Fruits, HTML5, Match 3, Match3, Matching, Shoot, Shoot 'Em Up, Shooter, Shooting, Strategy
+- Tags: Ball, Bubble, Bubble Shooter, Fruit, Fruits, HTML5, Match 3, Match3, Matching, Shoot, Shoot 'Em Up, Shooter, Shooting, strategy

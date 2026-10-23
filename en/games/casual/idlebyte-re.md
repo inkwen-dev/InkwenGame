@@ -19,6 +19,6 @@ Idlebyte RE is a clicker-idle game about managing computer memory. This is a rem
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Clicker, HTML5, Memory
+- Tags: Click, Clicker, HTML5, memory

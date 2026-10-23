@@ -19,6 +19,6 @@ Shell Swap Match. Swap. Splash into fun! Dive into a relaxing underwater adventu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Casual, Fishing, Match-3
+- Tags: Best Games, Casual, Fishing, Match 3

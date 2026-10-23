@@ -21,4 +21,4 @@ MiniMarin 是一款以海洋为背景的游戏，小尼莫鱼需要在其他食�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 最佳, 休闲, 鱼类, 水
+- 标签: 最佳, 休闲, 鱼, 水

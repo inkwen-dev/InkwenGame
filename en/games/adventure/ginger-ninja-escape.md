@@ -19,6 +19,6 @@ Game Title: Ginger Ninja Escape Game Features: Ginger Ninja character moves up a
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, Best, Bounce, Collecting

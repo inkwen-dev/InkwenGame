@@ -21,4 +21,4 @@ Super Mario Memory Card Match is a delightful card-matching game that takes you 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Brain, Card, Casual, Hypercasual, Mario, Matching, Memory, Puzzle, Super
+- Tags: Boys, Brain, card, Casual, Hypercasual, mario, Matching, memory, Puzzle, Super

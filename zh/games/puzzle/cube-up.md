@@ -21,4 +21,4 @@ Cube Up 是一款受控的益智游戏。你需要控制立方体，通过所有
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 躲避, HTML5, 小孩, 障碍物, 益智
+- 标签: 躲避, HTML5, 儿童, 障碍, 益智

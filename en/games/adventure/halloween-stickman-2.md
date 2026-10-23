@@ -23,4 +23,4 @@ Halloween Stickman 2 offers an exhilarating gaming experience where you navigate
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Funny, Ghost, Halloween, scary, Stickman
+- Tags: Funny, Ghost, Halloween, scary, stickman

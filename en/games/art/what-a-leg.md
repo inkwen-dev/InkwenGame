@@ -19,6 +19,6 @@ The competition is beginning between the runners who have no legs yet with the W
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, Baby, Draw, Drawing, Fun, Girl, Kids, Skill, Unity3D, WebGL
+- Tags: 2 Player, 2 Player Games, 3D, Baby, Draw, drawing, Fun, Girl, Kids, Skill, Unity3D, WebGL

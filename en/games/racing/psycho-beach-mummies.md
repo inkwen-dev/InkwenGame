@@ -19,6 +19,6 @@ Join the wacky Game Shakers and defeat the invaders in the Psycho Beach Mummies 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Ben 10, Boys, Cars, Cartoon, Cartoon Network, drift, Driving, Family, Fun, Girls, HTML5, Ice, Kids, Mobile, Ski

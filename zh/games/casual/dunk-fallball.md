@@ -21,4 +21,4 @@ dunk BasketBall 是一款非常简单的游戏，玩家只需在电脑上左键�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 点击, 收集, 有趣, HTML5, iPhone, 孩子们, 移动设备
+- 标签: 安卓, 点击, 收集, 有趣, HTML5, iPhone, 儿童, 移动设备

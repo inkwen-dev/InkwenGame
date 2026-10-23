@@ -19,6 +19,6 @@ In this thrilling and hilarious adventure, Cut the Skibidi Toilet Rope, you find
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, cut, Puzzle, Skibidi, Skibidi Toilet, Unity3D, WebGL
+- Tags: 3D Games, cut, Puzzle, Skibidi, skibidi-toilet, Unity3D, WebGL

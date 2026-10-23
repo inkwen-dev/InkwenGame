@@ -19,6 +19,6 @@ Run for your life in Dino Run: Jurassic Survival! Dash through dynamic prehistor
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, dino, Dinosaur, endless, jump, Jumping, Kids, run, running, survival
+- Tags: Action, dino, Dinosaur, endless, jump, jumping, Kids, run, running, survival

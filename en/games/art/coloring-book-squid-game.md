@@ -19,6 +19,6 @@ This is a Squid Game coloring book, where he exercise her imagination and motor 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Best, Casual, Color, Coloring, Fun, HTML5, Hypercasual, Mobile

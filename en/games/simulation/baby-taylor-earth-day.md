@@ -19,6 +19,6 @@ Today is Earth Day. So mom wants Taylor to be aware of the environment. Fulfill 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cleaning, Cute, Decoration, Design, Educational, Girl, Girls, Kids, Puzzle, Simulation
+- Tags: Baby, Cleaning, Cute, Decoration, Design, educational, Girl, Girls, Kids, Puzzle, Simulation

@@ -21,4 +21,4 @@ Download Impossible BMX cycle racing Stunt Games, Enjoy mega ramps cycle Game.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Bike, Cartoon, Cartoon Network, Games, Moto, Motorcycle, Online, Race, Racing, Spongebob, Sport, Sports
+- Tags: Anime, bike, Cartoon, Cartoon Network, Games, Moto, Motorcycle, Online, Race, Racing, Spongebob, Sport, sports

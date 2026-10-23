@@ -15,6 +15,6 @@ Set Bot plunges you into a fast-paced 2D sci-fi adventure as a nimble robot. Nav
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

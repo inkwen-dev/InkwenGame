@@ -19,6 +19,6 @@ Get ready to dive into the craziest virtual party experience with Ibiza Foam Par
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Dress Up, Fashion, Makeover, Pool, Summer
+- Tags: 1 Player, Dress Up, Fashion, Makeover, pool, Summer

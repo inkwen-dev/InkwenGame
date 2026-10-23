@@ -21,4 +21,4 @@ Sudoku Blocks Puzzle is an online game that challenges you to put together block
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Game, Games, Hypercasual, Online, Puzzle, Tetris
+- Tags: 1 Player, 2D, Game, Games, Hypercasual, Online, Puzzle, tetris

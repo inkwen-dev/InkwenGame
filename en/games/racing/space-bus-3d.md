@@ -19,6 +19,6 @@ Welcome to Space Bus 3D. The combination of space and racing is enough to keep y
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, bus, HTML5, Hypercasual, Puzzle, Racing, Skills

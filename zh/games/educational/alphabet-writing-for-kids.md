@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 动物, 教育, HTML5, 儿童, 孩子们, 字母, 学校
+- 标签: 2D, 动物, 教育, HTML5, 儿童, 儿童, 字母, 学校

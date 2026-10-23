@@ -15,6 +15,6 @@ Soar through stunning landscapes as a graceful bird in Sky Flight. Navigate thro
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Action

@@ -19,6 +19,6 @@ Find all listed people as find as you can. Beware not to click on wrong faces. T
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Clicker, Girls, Hidden, Hypercasual, Memory, Mobile
+- Tags: Casual, Clicker, Girls, Hidden, Hypercasual, memory, Mobile

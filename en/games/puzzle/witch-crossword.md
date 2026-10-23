@@ -19,6 +19,6 @@ Witch Crossword is the best game trivia& word. The objective is swipe the line a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Hypercasual, Mind, Word
+- Tags: Brain, Hypercasual, Mind, word

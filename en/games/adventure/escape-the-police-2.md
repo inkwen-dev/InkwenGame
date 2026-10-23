@@ -15,6 +15,6 @@ Dodge relentless police forces and strategize your way through the city as the m
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Police
+- Tags: police

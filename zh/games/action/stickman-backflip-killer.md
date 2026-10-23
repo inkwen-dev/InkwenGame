@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 男孩们, 战斗, 格斗, 击杀, 杀戮, Stickman
+- 标签: 3D, 男孩们, 格斗, 格斗, 杀戮, 击杀, 木偶人

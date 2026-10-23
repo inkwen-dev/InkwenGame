@@ -21,4 +21,4 @@ You can test your pattern detection skills in this relaxed mahjong &amp; connect
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Mahjong, Mobile, Summer
+- Tags: HTML5, mahjong, Mobile, Summer

@@ -19,6 +19,6 @@ Are you ready to fight with your friend? Fight with your friend and reach victor
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Arena, Battle, Interactive
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Arena, battle, Interactive

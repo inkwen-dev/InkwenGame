@@ -19,6 +19,6 @@ Be a real transporter by playing this amazing transporter game of the year. Woul
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Android, Army, Best, Boat, Boys, bus, Car, Cars, Casual, drift, drifting, Driving, Game, Games, Helicopter, Parking, Plane, RPG, Sim, Simulation, Simulator, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Android, Army, Best, Boat, Boys, bus, Car, Cars, Casual, drift, drifting, Driving, Game, Games, helicopter, parking, Plane, rpg, Sim, Simulation, Simulator, Unity3D

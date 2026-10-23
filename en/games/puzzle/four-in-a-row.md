@@ -19,6 +19,6 @@ Four in a Row is the classic strategy board game you know and love, now in a col
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Clicker, HTML5, mapi games, Puzzle

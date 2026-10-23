@@ -21,4 +21,4 @@ Save the Princess 1: The Legend of the Pure Heart A night of peace. A promise wh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Castle, Enemies, Escape, Fairy, Fantasy, Forest, jump, Levels, Magic, Monster, Obstacle, run
+- Tags: 1 Player, Action, Castle, Enemies, Escape, Fairy, Fantasy, Forest, jump, Levels, Magic, monster, Obstacle, run

@@ -21,4 +21,4 @@ Simple Memory Game is a fun and engaging memory-matching puzzle where players te
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fruit, Memory, Skill
+- Tags: Fruit, memory, Skill

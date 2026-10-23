@@ -21,4 +21,4 @@ Choose the traction type that you like: front wheel drive (FWD), rear wheel driv
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Parking, Race, Racing, Supercars
+- Tags: Car, Cars, parking, Race, Racing, Supercars

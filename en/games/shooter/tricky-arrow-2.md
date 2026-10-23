@@ -19,6 +19,6 @@ In this precision-shooting game, your skills will be put to the test as you aim 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, arrow, Bow, New, Shoot, Shooting, Skill, touch, unity, WebGL

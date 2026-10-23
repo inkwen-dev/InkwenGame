@@ -19,6 +19,6 @@ You are the goalkeeper and you have to save more to move the next level
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Ball, Football, Game, Games, H5, HTML, HTML5, Matching, Shoot, Shooting, Sport, Sports
+- Tags: 1 Player, Ball, Football, Game, Games, H5, HTML, HTML5, Matching, Shoot, Shooting, Sport, sports

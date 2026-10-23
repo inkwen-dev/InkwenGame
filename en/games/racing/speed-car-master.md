@@ -19,6 +19,6 @@ Speed Car Master is a game that combines speed and reaction. You can control you
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Car, Collection, Hypercasual, Race, Racing

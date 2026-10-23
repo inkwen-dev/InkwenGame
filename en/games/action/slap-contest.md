@@ -21,4 +21,4 @@ Welcome to Slap Contest Game. Move left and right and double tap to slap your op
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Fight, Fighting, Hot, Multiplayer, Stickman, Street Fighting
+- Tags: Best, Fight, fighting, Hot, Multiplayer, stickman, Street Fighting

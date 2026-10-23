@@ -21,4 +21,4 @@ This is a game where you need to destroy blocks (wooden, metal, and explosive) t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Logic, Logical, Mobile, Monster, Physics, Skill
+- Tags: Fun, HTML5, Logic, Logical, Mobile, monster, Physics, Skill

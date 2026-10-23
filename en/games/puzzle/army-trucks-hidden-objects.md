@@ -21,4 +21,4 @@ Army Trucks Hidden Objects is a game with hidden bombs. You need to find all 10 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Hidden, Puzzle, Truck
+- Tags: Army, Hidden, Puzzle, truck

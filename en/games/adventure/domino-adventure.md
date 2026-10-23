@@ -21,4 +21,4 @@ Discover three match durations to suit your style. Showcase your skills and logi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Clash, Collecting, Draw, Logic, Logical, Puzzle
+- Tags: block, Clash, Collecting, Draw, Logic, Logical, Puzzle

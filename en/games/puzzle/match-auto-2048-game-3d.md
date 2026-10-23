@@ -19,6 +19,6 @@ Match auto 2048 is a game that will allow you to relax and train your brain. Whe
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Car, Classic, Match3, Road

@@ -19,6 +19,6 @@ Are you ready to drive fast on the highway? It&rsquo;s time to show your driving
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Adventure, Car, Cars, Racing, Traffic

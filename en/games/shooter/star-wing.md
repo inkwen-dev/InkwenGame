@@ -21,4 +21,4 @@ Earth's last hope is in your hands, take control of the lone spaceship and prote
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: popular, Retro, Shooting, Space
+- Tags: popular, retro, Shooting, Space

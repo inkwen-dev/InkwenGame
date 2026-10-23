@@ -19,6 +19,6 @@ Shoot The Ballon is a very fun and exciting game. Your objective is to defeat th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Bubble Shooter, Highscore, Shoot, Shooter, Skills

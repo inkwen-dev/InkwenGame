@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 空中, 飞机, HTML5, 移动, 飞机, 射击, 战争
+- 标签: 空气, 飞机, HTML5, 移动设备, 飞机, 射击类, 战争

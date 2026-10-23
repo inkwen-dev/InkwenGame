@@ -19,6 +19,6 @@ Enter a jungle plagued by mutant rhino warriors! As a brave tribal hero, rescue 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Monster, Platform, Superhero
+- Tags: 1 Player, Action, Adventure, monster, Platform, Superhero

@@ -19,6 +19,6 @@ Tank Sniper 3D: The Ultimate Shooting Game Are you a fan of shooting games? Do y
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Battle, Boys, Casual, Shooting, Sniper, Tank
+- Tags: 3D, battle, Boys, Casual, Shooting, sniper, Tank

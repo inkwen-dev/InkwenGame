@@ -19,6 +19,6 @@ Dark Barn Escape is phototrealistic room escape game from Escape Fan. You opened
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Mobile, Point And Click, Puzzle

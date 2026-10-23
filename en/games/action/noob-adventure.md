@@ -21,4 +21,4 @@ The Noob Adventure game is a fun and sometimes challenging game. Embark on a jou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Best, Block, Boy, Boys, Castle, Girl, Girls, Minecraft, Pixel, Platform, Puzzle, Retro
+- Tags: 2D, Best, block, Boy, Boys, Castle, Girl, Girls, Minecraft, pixel, Platform, Puzzle, retro

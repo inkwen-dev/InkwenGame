@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 涂色, Grimace, Grimace Shake, HTML5, 休闲, 孩子们, 学校
+- 标签: 着色, 格里马斯, 格里马斯奶昔, HTML5, 超休闲, 儿童, 学校

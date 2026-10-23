@@ -21,4 +21,4 @@ This simulation game is easy and very fun! choose among three vending machines: 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Cook, Cooking, Family, Girl, Girls, HTML, HTML5, Kids, Math, Simulation, Simulator
+- Tags: Brain, Cook, Cooking, Family, Girl, Girls, HTML, HTML5, Kids, math, Simulation, Simulator

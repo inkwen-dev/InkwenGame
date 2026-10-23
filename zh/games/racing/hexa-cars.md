@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人, 双人游戏, 3D, 竞技场, 方块, 汽车, Cartoon Network, 驾驶, 格斗
+- 标签: 双人, 双人游戏, 3D, 竞技场, 方块, 汽车, 卡通频道, 驾驶, 格斗

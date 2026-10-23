@@ -19,6 +19,6 @@ Time to play musical instruments! Go along with Baby Hazel to her music classroo
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Hazel, Girls, Kids

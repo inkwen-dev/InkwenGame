@@ -23,4 +23,4 @@ Deepglow is a cozy pixel-art clicker in a bioluminescent night world. Each phase
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Clicker, Management, Strategy, survival
+- Tags: Adventure, Clicker, management, strategy, survival

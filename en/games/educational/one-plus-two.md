@@ -19,6 +19,6 @@ Welcome to 1+2=? &ndash; the fun and educational casual game that puts your math
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Logic, Logical, Math, Quiz
+- Tags: HTML5, Logic, Logical, math, Quiz

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动物, 街机, Fish, 乐趣, HTML5, 手机, 鲨鱼, 投篮, 技巧
+- 标签: 动物, 街机, 鱼, 有趣, HTML5, 移动设备, 鲨鱼, 射击, 技巧

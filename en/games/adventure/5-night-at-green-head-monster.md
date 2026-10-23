@@ -21,4 +21,4 @@ Five Nights at Green Head Monster 2 is a chilling 3D horror game where players m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Horror, Monster, Room
+- Tags: Horror, monster, Room

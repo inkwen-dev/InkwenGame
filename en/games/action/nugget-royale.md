@@ -21,4 +21,4 @@ W A S D - Move around Space - Jump
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Funny, Multiplayer
+- Tags: Action, battle, Funny, Multiplayer

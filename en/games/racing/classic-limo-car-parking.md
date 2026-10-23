@@ -21,4 +21,4 @@ Classic Limo Car Parking is an awesome and unique driving game in which you must
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Car, Games, Parking, Simulation
+- Tags: 3D Games, Car, Games, parking, Simulation

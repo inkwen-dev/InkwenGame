@@ -21,4 +21,4 @@ Today the girls have a holiday - the first day of school. You need to impress ot
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bejeweled, Celebrity, Cool, Cute, Decoration, Disney, Dora, Dress Up, Educational, Elsa, Family, Girl, Girls, Hair, House, HTML, HTML5, Jewel, Kiss, School, Summer
+- Tags: Bejeweled, Celebrity, cool, Cute, Decoration, Disney, Dora, Dress Up, educational, Elsa, Family, Girl, Girls, Hair, House, HTML, HTML5, Jewel, Kiss, School, Summer

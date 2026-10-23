@@ -19,6 +19,6 @@ Try to conquer a new planet in this epic match-3 RPG game. You just landed on a 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Alien, Arcade, Fight, Match 3, Match3, Matching, Puzzle, Space

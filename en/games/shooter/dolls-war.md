@@ -15,6 +15,6 @@ Join Tom, a junior agent on a perilous mission to outsmart mafia forces. Engage 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Shooter

@@ -21,4 +21,4 @@ Taylor's mother wants to do a house cleaning, and Taylor decides to do housework
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Baby, Cleaning, Cooking, Cute, Educational, Food, Girl, Girls, Kids, Simulation
+- Tags: Anime, Baby, Cleaning, Cooking, Cute, educational, Food, Girl, Girls, Kids, Simulation

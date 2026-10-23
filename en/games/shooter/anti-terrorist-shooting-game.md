@@ -19,6 +19,6 @@ Overview Play as an elite commando in a modern war against terrorists. Fight acr
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Best Games, First Person Shooter, fps, PvP, Shooting, Unity3D, WebGL

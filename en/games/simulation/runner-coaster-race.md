@@ -21,4 +21,4 @@ Do you enjoy roller coasters? In Runner Coaster Race, you will experience the fa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: run, Simulation, Stickman
+- Tags: run, Simulation, stickman

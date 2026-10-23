@@ -21,4 +21,4 @@ Welcome to your new Pet Shop simulator! Build your own pet store and take care o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cat, Fun, Girls, Grooming, HTML5, Kids, Mobile, Simulation, Surgery
+- Tags: Animal, Cat, Fun, Girls, Grooming, HTML5, Kids, Mobile, Simulation, surgery

@@ -19,6 +19,6 @@ drive the car and park. awesome pixel 3d graphics. play on mobile and desk
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Car, Driving, Mobile, Parking, Unity3D
+- Tags: 3D, 3D Games, Car, Driving, Mobile, parking, Unity3D

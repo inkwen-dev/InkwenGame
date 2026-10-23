@@ -21,4 +21,4 @@ PLAYING TIPS If you can't find all the chicks in a level it's likely they are hi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, Crazy, Fun, Funny, jump, Jumping, Kids, Kill, Killing, Mobile, Zombie
+- Tags: 2D, Android, crazy, Fun, Funny, jump, jumping, Kids, Kill, Killing, Mobile, Zombie

@@ -21,4 +21,4 @@ Noob and Pro decided to relax, but suddenly rising lava ruined their plans! Now 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 2025 games, 2D, Action, Arcade, Funny, jump, Jumping, Mine, mineblock, Minecraft, Miner
+- Tags: 1 Player, 2 Player, 2 Player Games, 2025 games, 2D, Action, Arcade, Funny, jump, jumping, Mine, mineblock, Minecraft, Miner

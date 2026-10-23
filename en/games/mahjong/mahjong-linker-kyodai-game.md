@@ -21,4 +21,4 @@ In this Kyodai game, you must link Mahjong tiles with 3 lines maximum. This free
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Mahjong, Matching, Puzzle
+- Tags: Arcade, Brain, mahjong, Matching, Puzzle

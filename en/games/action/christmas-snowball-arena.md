@@ -19,6 +19,6 @@ Christmas Snowball Arena is a 3D stickman snowball IO game that challenges you t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Boys, Casual, Christmas, Girl, Kids, Stickman
+- Tags: battle, Boys, Casual, Christmas, Girl, Kids, stickman

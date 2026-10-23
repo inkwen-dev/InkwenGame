@@ -21,4 +21,4 @@ WASD - 移动 空格键 - 跳跃 Shift - 加速 F - 游泳
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 冒險, 男孩, 搞笑, HTML5, 超级英雄, WebGL
+- 标签: 3D, 冒险, 男孩们, 搞笑, HTML5, 超级英雄, WebGL

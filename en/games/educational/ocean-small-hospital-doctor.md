@@ -21,4 +21,4 @@ Dive into the exciting world of Ocean Small Hospital - Doctor! This casual and e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Doctor, Educational
+- Tags: Animal, Doctor, educational

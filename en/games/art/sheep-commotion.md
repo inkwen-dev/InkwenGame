@@ -21,4 +21,4 @@ Sheep Commotion is a cheerful path-drawing puzzle game about guiding every sheep
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing
+- Tags: drawing

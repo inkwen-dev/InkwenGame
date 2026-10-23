@@ -21,4 +21,4 @@ Square Fit is easy to pick up and play, yet offers a rewarding challenge. Your o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Casual, Geometry, HTML5, Hypercasual, Logic, Logical, Math, Puzzle
+- Tags: Action, Arcade, Casual, Geometry, HTML5, Hypercasual, Logic, Logical, math, Puzzle

@@ -19,6 +19,6 @@ Defend your stronghold and master the Doomsday Cannon in Letter Boom Blast Rush!
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Arcade, attack, Ball, Brain, Fun, Highscore, Kids, Letters, Levels, Puzzle, Word
+- Tags: 2026 games, Arcade, attack, Ball, Brain, Fun, Highscore, Kids, Letters, Levels, Puzzle, word

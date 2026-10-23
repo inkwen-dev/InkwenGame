@@ -19,6 +19,6 @@ familiarize children with shapes, colors, sizes and patterns. 10 steps in differ
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Draw, Drawing, Point And Click, Puzzle
+- Tags: Draw, drawing, Point And Click, Puzzle

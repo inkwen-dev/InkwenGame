@@ -21,4 +21,4 @@ Help Zippy Bird fly through gaps in pipes! Tap to flap and avoid obstacles in th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Air, amazing, Android, Arcade, Best, Best Games, Bird, Click, Clicker, Cool, Crazy, Highscore, sky
+- Tags: 1 Player, Air, amazing, Android, Arcade, Best, Best Games, Bird, Click, Clicker, cool, crazy, Highscore, sky

@@ -19,6 +19,6 @@ In the Robot Astro Party, the fast-paced multiplayer running game puts you in hi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Funny, Robot, running

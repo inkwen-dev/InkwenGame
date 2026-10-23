@@ -19,6 +19,6 @@ Super Mario Halloween Wheelie is a free online game that tests your skills as a 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Avoid, Bike, Boys, Driving, Halloween, Hypercasual, Mario, Motorcycle, Racing, Skill
+- Tags: Arcade, Avoid, bike, Boys, Driving, Halloween, Hypercasual, mario, Motorcycle, Racing, Skill

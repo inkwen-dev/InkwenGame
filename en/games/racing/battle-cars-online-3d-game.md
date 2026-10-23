@@ -21,4 +21,4 @@ Crazy karts are always crazy. Battle Cars is a fun monster truck online confront
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Battle, Battlegrounds, Boy, Boys, Car, Cars, Fun, H5, HTML5, Kid, Kids, Race, Racing, Shoot, Shooting
+- Tags: 3D, 3D Games, battle, Battlegrounds, Boy, Boys, Car, Cars, Fun, H5, HTML5, Kid, Kids, Race, Racing, Shoot, Shooting

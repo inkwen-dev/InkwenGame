@@ -19,6 +19,6 @@ Now it's time for wonderful game that's called American Cars Coloring Book, let'
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Color, Coloring, Fun, HTML5, Mobile, Skill, Supercars
+- Tags: card, Color, Coloring, Fun, HTML5, Mobile, Skill, Supercars

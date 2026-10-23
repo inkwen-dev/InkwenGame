@@ -21,4 +21,4 @@ Yeti Adventure is an online platformer game that challenges players to navigate 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Game, Games, HTML5, jump, Jumping, Online, Platform
+- Tags: Adventure, Arcade, Game, Games, HTML5, jump, jumping, Online, Platform

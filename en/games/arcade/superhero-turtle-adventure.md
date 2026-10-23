@@ -19,6 +19,6 @@ SuperHero Turtle Adventure is jungle & world adventure game 2D Platformer game, 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Mario, Superhero, World
+- Tags: 2D, Adventure, mario, Superhero, World

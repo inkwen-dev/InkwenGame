@@ -21,4 +21,4 @@ Welcome to Block Craft 3D-School. Here creativity meets adventure! In this pixel
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Craft
+- Tags: block, Craft

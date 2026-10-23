@@ -19,6 +19,6 @@ CityCat is a fast-paced parkour platformer set in a lively urban city full of ro
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, dash, Platform, Retro, Skill, Skills
+- Tags: 2D, dash, Platform, retro, Skill, Skills

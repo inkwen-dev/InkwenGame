@@ -19,6 +19,6 @@ At this puzzle shooter game you need to hit the ring with purple ball. The ball 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Kids, Puzzle, Shooter

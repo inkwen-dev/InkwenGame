@@ -21,4 +21,4 @@ Boxing Fighter Shadow Battle is a cool HTML5 game that is playable both on your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Boxing, Fight, Fighting, Street Fighting
+- Tags: Action, Boxing, Fight, fighting, Street Fighting

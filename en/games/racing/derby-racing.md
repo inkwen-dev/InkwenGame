@@ -21,4 +21,4 @@ Play this great horse racing game in which you have to make it to the finish as 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arena, Racing, Retro
+- Tags: Animal, Arena, Racing, retro

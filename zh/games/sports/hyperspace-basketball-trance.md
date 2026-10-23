@@ -23,4 +23,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 街机, 篮球, 休闲, 游戏, 超休闲, 星球, 射手, 射击, 太空, 体育, Unity3D, WebGL
+- 标签: 3D, 3D游戏, 街机, 篮球, 休闲, 游戏, 超休闲, 星球, 射击类, 射击, 太空, 运动, Unity3D, WebGL

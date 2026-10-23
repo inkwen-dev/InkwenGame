@@ -21,4 +21,4 @@ In this game, youll have the opportunity to enhance your problem-solving skills 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, HTML5, Math, Mobile, Puzzle, Rocket, School
+- Tags: educational, HTML5, math, Mobile, Puzzle, Rocket, School

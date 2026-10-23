@@ -21,4 +21,4 @@ Zooba经典游戏再次登场。在每一关中，仔细观察两张包含Zooba�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 男孩们, 卡通, 收集, 差异, 女生, HTML5
+- 标签: 安卓, 男孩们, 卡通, 收集, 找不同, 女孩, HTML5

@@ -37,4 +37,4 @@ Tab — 返回主菜单
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: Adventure, 逃脱, 恐怖, 可怕的
+- 标签: 冒险, 逃脱, 恐怖, 恐怖

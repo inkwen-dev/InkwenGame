@@ -21,4 +21,4 @@ In this epic adventure in the land of snow, you must not fall to your death on t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Minecraft, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Minecraft, pixel

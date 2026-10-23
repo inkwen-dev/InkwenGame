@@ -21,4 +21,4 @@ Impossible is a fun and addicting one-touch casual game. In this you need to ove
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Hypercasual, Strategy
+- Tags: Casual, Hypercasual, strategy

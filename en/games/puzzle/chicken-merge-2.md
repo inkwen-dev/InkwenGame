@@ -32,4 +32,4 @@ Chicken Merge 2 is a merge-meets-tower-defense game where your feathered army st
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: merge, Strategy, Tower Defense
+- Tags: merge, strategy, Tower Defense

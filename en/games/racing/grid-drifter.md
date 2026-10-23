@@ -21,4 +21,4 @@ Drive the truck through the parking lot with the specified coordinates. Press th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: drifting, Math, Racing
+- Tags: drifting, math, Racing

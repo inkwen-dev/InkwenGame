@@ -21,4 +21,4 @@ Boyfriend and Girlfriend back with new adventures. They lost all the money gambl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Brain, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids, Music, Point And Click
+- Tags: Boy, Boys, Brain, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids, music, Point And Click

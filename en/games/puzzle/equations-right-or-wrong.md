@@ -21,4 +21,4 @@ This game has a simple mechanism, but playing it is harder than you think! You a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Kids, Logic, Math, Mobile, Puzzle, Skill
+- Tags: Fun, HTML5, Kids, Logic, math, Mobile, Puzzle, Skill

@@ -19,6 +19,6 @@ Rotating Triangles is a puzzle game where you need to control the rotating trian
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, HTML5, Kids, Matching, Mobile, Puzzle

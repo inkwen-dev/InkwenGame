@@ -21,4 +21,4 @@ Simplicity Games proudly presents Volleyball Challenge – a volleyball game lik
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Ball, Crazy, HTML, Puzzle
+- Tags: 1 Player, 2D, Ball, crazy, HTML, Puzzle

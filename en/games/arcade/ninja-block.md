@@ -21,4 +21,4 @@ A ninja who needs to complete impossible tasks. New Amazing ModesClassic, Surviv
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Bricks, Ninja, Ninjago
+- Tags: 1 Player, 2D, Arcade, Bricks, ninja, Ninjago

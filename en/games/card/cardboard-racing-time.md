@@ -21,4 +21,4 @@ Play Loud House Extreme Cardboard Racing online for free. Extreme Cardboard Raci
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, crash, Race, Racing, Sport, Sports
+- Tags: Car, Cars, crash, Race, Racing, Sport, sports

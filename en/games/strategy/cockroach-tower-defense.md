@@ -25,4 +25,4 @@ Cockroach Tower Defense is a top-down survival game where you defend your base a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Monster, Strategy, survival, Tower Defense
+- Tags: monster, strategy, survival, Tower Defense

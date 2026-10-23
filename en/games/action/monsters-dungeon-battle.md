@@ -21,4 +21,4 @@ Fight against those monsters residing in the abandoned dungeon. Upgrade your sta
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arena, Battlegrounds, Enemies, Fantasy, Fighting, Magic, Mobile, RPG
+- Tags: 2D, Arena, Battlegrounds, Enemies, Fantasy, fighting, Magic, Mobile, rpg

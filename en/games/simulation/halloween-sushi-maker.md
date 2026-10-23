@@ -21,4 +21,4 @@ Dive into the world of sushi making with Halloween Sushi Maker. This engaging an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Christmas, Cooking, Educational, Food, Fruit, Fun, Girls, Halloween, Holiday, Kids, Winter
+- Tags: Boys, Christmas, Cooking, educational, Food, Fruit, Fun, Girls, Halloween, Holiday, Kids, Winter

@@ -33,4 +33,4 @@ Play your way: locally on one device with friends, against bots for practice, or
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Army, Board, Multiplayer, Strategy
+- Tags: Army, Board, Multiplayer, strategy

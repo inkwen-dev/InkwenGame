@@ -21,4 +21,4 @@ This is a game about eating competition. The game is decompressing and the rules
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Crazy, Funny, H5, PvP, Restaurant, run, running
+- Tags: 3D Games, Action, crazy, Funny, H5, PvP, restaurant, run, running

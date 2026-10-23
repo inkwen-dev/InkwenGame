@@ -19,6 +19,6 @@ Cookie Party Pop - is a match-3 games in jellies setting.Match 3 or more of the 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Food, Match 3, Puzzle

@@ -21,4 +21,4 @@ Pixel Gun Apocalypse 2025 delivers intense block-style FPS action with modern we
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, Fun, Gun, Mentolatux, Multiplayer, Pixel, Shooting, unity, WebGL
+- Tags: 2025 games, Fun, Gun, Mentolatux, Multiplayer, pixel, Shooting, unity, WebGL

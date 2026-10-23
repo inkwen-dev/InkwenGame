@@ -19,6 +19,6 @@ This is game where you need to tap on the screen to bounce the ball on the movin
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Bounce, Jumping, Kids, Platform, Puzzle
+- Tags: Ball, Bounce, jumping, Kids, Platform, Puzzle

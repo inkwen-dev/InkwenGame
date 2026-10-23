@@ -21,4 +21,4 @@ Do you know how to deal with burns? Do you know how to give first aid if you hav
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cute, Educational, Girl, Girls, Kids, Simulation, Surgery
+- Tags: Animal, Baby, Cute, educational, Girl, Girls, Kids, Simulation, surgery

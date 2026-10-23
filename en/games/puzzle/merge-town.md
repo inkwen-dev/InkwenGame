@@ -19,6 +19,6 @@ Ever wanted to be Mayor? Ever wanted to run a town, develop the land, and see a 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Kids, Management, Matching, Mobile
+- Tags: Casual, Kids, management, Matching, Mobile

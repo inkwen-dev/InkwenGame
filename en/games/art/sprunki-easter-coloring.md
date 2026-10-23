@@ -21,4 +21,4 @@ Sprunki Easter Coloring is an exciting and colorful online game designed especia
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Educational, Fun, Hypercasual, Kids, School
+- Tags: Color, Coloring, educational, Fun, Hypercasual, Kids, School

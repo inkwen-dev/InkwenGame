@@ -19,6 +19,6 @@ Place the pieces into board and use your brain and skills to fill all empty spac
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Block, Casual, Clicker, Hot, HTML5, Puzzle, Tetris
+- Tags: Arcade, Best, block, Casual, Clicker, Hot, HTML5, Puzzle, tetris

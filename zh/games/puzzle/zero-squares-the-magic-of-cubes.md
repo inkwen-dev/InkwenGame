@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 逻辑, 移动设备, 新
+- 标签: 逻辑性, 移动设备, 新游戏

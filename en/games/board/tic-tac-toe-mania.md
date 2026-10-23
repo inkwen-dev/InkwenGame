@@ -19,6 +19,6 @@ Tic Tac Toe Mania is a great way to spend your free time. Stop wasting paper and
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Game, Games, HTML5, Obstacle, Strategy
+- Tags: Board, Game, Games, HTML5, Obstacle, strategy

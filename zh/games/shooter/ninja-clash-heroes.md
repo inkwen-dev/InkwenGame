@@ -21,4 +21,4 @@ WASD - 移动 空格键 - 跳跃 G - 投掷手雷 C - 蹲下 右键 - 射击 TAB
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 男孩们, 多人游戏, 射击
+- 标签: .io 游戏, 男孩们, 多人, 射击类

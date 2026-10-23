@@ -21,4 +21,4 @@ Angle Fight 3D is a very fun action fighting game. In the game, the player will 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Battle, Boy, Fight, Hot, HTML, Mobile
+- Tags: 3D, battle, Boy, Fight, Hot, HTML, Mobile

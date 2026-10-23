@@ -19,6 +19,6 @@ IdleByte 2 is the second installment of the fun IdleByte series. In this second 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, Shoot, Shooter

@@ -19,6 +19,6 @@ The beautiful girl Mia opened the tattoo studio and she already has many tattoo 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Ben 10, Boys, Dora, Dress Up, Fashion, Girls, gta, Magic, Princess

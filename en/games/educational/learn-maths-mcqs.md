@@ -21,4 +21,4 @@ Learn Maths MCQs is a captivating educational game designed to help you master e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Educational, Hypercasual, Math
+- Tags: Clicker, educational, Hypercasual, math

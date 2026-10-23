@@ -19,6 +19,6 @@ Survive the wild in Forest Survivor Challenge, the ultimate jungle survival adve
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Action, Adventure, Best Games, endless, Escape, Forest, html games for your website, jungle, Obstacle, Skill, survival, WebGL

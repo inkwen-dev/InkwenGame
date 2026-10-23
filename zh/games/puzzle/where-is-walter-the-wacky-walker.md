@@ -27,4 +27,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1人游戏, 2D, 差异, 搞笑, 隐藏, 高分, HTML5
+- 标签: 单人, 2D, 找不同, 搞笑, 隐藏, 高分, HTML5

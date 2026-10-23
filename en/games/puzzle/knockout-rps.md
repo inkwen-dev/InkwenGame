@@ -19,6 +19,6 @@ To play this game you have to be quick witted and even quicker to the draw. Rock
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Brain, Family, Girl, Kid, Kids, Puzzle

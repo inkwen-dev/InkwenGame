@@ -21,4 +21,4 @@ Live the life of a wild horse and explore a vast open world full of adventure, s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Farm, Horse, Simulation, Simulator
+- Tags: Animal, Farm, horse, Simulation, Simulator

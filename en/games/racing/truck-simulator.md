@@ -21,4 +21,4 @@ Truck Simulator Offroad Euro Cargo Transport 2 is a free Simulation game. It's e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Race, Racing, Simulation, Simulator, Truck
+- Tags: Car, Cars, Race, Racing, Simulation, Simulator, truck

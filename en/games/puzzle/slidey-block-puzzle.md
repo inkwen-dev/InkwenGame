@@ -21,4 +21,4 @@ Slidey Block Puzzle is a Puzzle game that is currently very popular. Slidey Bloc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Boy, Bricks, Fun, Highscore, HTML5, Kid, Matching, Mobile, Puzzle, Relaxation
+- Tags: block, Boy, Bricks, Fun, Highscore, HTML5, Kid, Matching, Mobile, Puzzle, Relaxation

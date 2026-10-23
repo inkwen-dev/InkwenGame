@@ -21,4 +21,4 @@ Sprunki Memory offers you to simultaneously train and test your visual memory. C
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Card, Fun, Funny, Kids, Matching, Memory, Skill, Sprunki
+- Tags: Best, card, Fun, Funny, Kids, Matching, memory, Skill, Sprunki

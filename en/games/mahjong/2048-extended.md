@@ -19,6 +19,6 @@ fingers keyboard mouse
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D, Friv, Ghost, Girl, Girls, Gold, Golf, Google, Grooming, Interactive, Interactive Fiction, Kiz 10, kiz10, Machine, Magic, Mahjong, Minecraft
+- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D, Friv, Ghost, Girl, Girls, Gold, golf, Google, Grooming, Interactive, Interactive Fiction, Kiz 10, kiz10, Machine, Magic, mahjong, Minecraft

@@ -21,4 +21,4 @@ Hey you player, how about taking the lucky box at the finish line with noob? let
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Arcade, Best, Block, Boy, Minecraft
+- Tags: 1 Player, 2D, Action, Adventure, Arcade, Best, block, Boy, Minecraft

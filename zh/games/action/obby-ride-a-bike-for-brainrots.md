@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动物, 脑残, 意大利脑残, 脑残萨胡尔, 捕捉, 意大利脑残, 我的世界, 怪兽, roblox, 跑, 跑步, 窃取
+- 标签: 动物, 脑残, 意大利脑残, 脑残sahuuur, 捕捉, 意大利脑残, 我的世界, monster, Roblox, 跑, 奔跑, 偷

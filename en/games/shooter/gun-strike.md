@@ -19,6 +19,6 @@ Gun Strike is a high-level 3D FPS game. Specially designed for commando game lov
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Gun, HTML5, Shoot, Shooter, WebGL

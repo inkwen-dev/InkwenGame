@@ -21,4 +21,4 @@ Use your flippers to send the ball flying and rack up as many points as possible
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Basketball, Bounce, Skills
+- Tags: Ball, basketball, Bounce, Skills

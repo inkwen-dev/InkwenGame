@@ -21,4 +21,4 @@ Help Sprunki to avoid any danger situation by drawing a line around him. Beware 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Draw, Drawing, Educational, Killing, Physics, Sprunki
+- Tags: Best Games, Draw, drawing, educational, Killing, Physics, Sprunki

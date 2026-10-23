@@ -19,6 +19,6 @@ Crazy 3D Game Offroad 6x6 Jeep Driving. 6x6 Offroad Monster Truck Driving Simula
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Car, Fun, Race, Racing

@@ -19,6 +19,6 @@ This is a dentist game for kids. Have you ever wanted to be a dentist? If this w
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Educational, Kids
+- Tags: Doctor, educational, Kids

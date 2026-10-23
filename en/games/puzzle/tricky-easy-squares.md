@@ -19,6 +19,6 @@ Tricky Easy Squares is a fun, lighthearted number puzzle game that blends simpli
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Match 3, Math, Skill
+- Tags: educational, Match 3, math, Skill

@@ -21,4 +21,4 @@ Relive the nostalgia with the classic Nokia 3310 Snake Game, rebuilt for modern 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Snake
+- Tags: Adventure, snake

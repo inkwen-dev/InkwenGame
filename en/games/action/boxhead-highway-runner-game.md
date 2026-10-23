@@ -21,4 +21,4 @@ Navigate endless highways dodging obstacles and collecting boosts in this fast-p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, jump, Jumping, run, running
+- Tags: 3D, 3D Games, Arcade, jump, jumping, run, running

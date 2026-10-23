@@ -19,6 +19,6 @@ Welcome to a new dimension of arcade and endless with our Poky Bird 2023 Game. A
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2D, Adult, Adventure, Air, Arcade, Avoid, Balance, Bird, Bounce, Casual, Click, Crazy, endless, fly, Fun, Funny, jump, running, Timing
+- Tags: .io, .io Games, 1 Player, 2D, Adult, Adventure, Air, Arcade, Avoid, Balance, Bird, Bounce, Casual, Click, crazy, endless, fly, Fun, Funny, jump, running, Timing

@@ -19,6 +19,6 @@ Get ready for a fast and exciting word challenge in Word Runner Game! Run throug
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Best Games, Casual, Fun, Hypercasual, Racing

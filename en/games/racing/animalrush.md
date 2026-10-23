@@ -19,6 +19,6 @@ Help your pet get to the finish line safely. There are multiple corners in the g
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Animal, Best Games, Racing

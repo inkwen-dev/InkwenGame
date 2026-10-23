@@ -21,4 +21,4 @@ Gentleman's Quest is a 2D Platform game where you need to reach your office whil
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, pixel, Platform, retro

@@ -21,4 +21,4 @@ Simplified classic Mahjong game with cute dogs theme. You can eliminate pair of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Mahjong, Matching, Mobile, Puzzle
+- Tags: HTML5, mahjong, Matching, Mobile, Puzzle

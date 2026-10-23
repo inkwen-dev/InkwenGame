@@ -19,6 +19,6 @@ Sushi Cat 2 is an arcade game with cute graphics and adorable characters. After 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Cat, Cute, Funny, Girls

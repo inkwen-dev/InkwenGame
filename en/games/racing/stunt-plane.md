@@ -21,4 +21,4 @@ Are You the next great stunt pilot? Play this cute arcade game and test all your
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Boys, Flight, fly, HTML, HTML5, Kid, Kids, Mobile, Race, Racing
+- Tags: Arcade, Boy, Boys, flight, fly, HTML, HTML5, Kid, Kids, Mobile, Race, Racing

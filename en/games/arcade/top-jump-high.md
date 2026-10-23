@@ -19,6 +19,6 @@ Top Jump its a hyper-casual game in which the objective is simple but very chall
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, endless, Highscore, jump

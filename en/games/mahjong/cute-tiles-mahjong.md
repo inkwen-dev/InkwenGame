@@ -21,4 +21,4 @@ Welcome to Cute Tiles Mahjong &mdash; a charming and relaxing puzzle adventure f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Brain, Hypercasual, Kids, Logic, Mahjong, Puzzle
+- Tags: Board, Brain, Hypercasual, Kids, Logic, mahjong, Puzzle

@@ -19,6 +19,6 @@ Collect & stack doughs and prepare foods for your customers. You can expand your
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Arena, Arkanoid, Army, Barbie, Battlegrounds, Billiard, Board, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Clans, Clash, Classic, Cleaning, Click, Clicker, Girl, Girls, Grooming, Hypercasual, Motorcycle, Obstacle, Physics, Point And Click, Rhythm

@@ -21,4 +21,4 @@ Can you maintain the fragile balance? In Fragile Balance, you must carefully dro
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, build, Casual, Mobile
+- Tags: 1 Player, block, build, Casual, Mobile

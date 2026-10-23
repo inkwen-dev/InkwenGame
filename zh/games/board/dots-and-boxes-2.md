@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人游戏, 2025年游戏, 箭头, 棋盘, HTML5
+- 标签: 双人游戏, 2025年游戏, 箭矢, 棋盘, HTML5

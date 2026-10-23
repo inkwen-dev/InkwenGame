@@ -19,6 +19,6 @@ The city is under air attack. Ironman has to destroy the enemy planes. let's des
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Air, Bomb, Fire, Game, Games, HTML5, Plane, War

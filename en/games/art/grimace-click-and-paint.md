@@ -19,6 +19,6 @@ Grimace Click and Paint is another one yet super fun coloring game for kids. You
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Coloring, Educational, Fun, Grimace, Grimace Shake, HTML5, Hypercasual, Kids, School
+- Tags: Casual, Coloring, educational, Fun, Grimace, Grimace Shake, HTML5, Hypercasual, Kids, School

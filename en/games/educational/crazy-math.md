@@ -21,4 +21,4 @@ Crazy Math is one of the most educational math games. Test how quickly you can p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Click, Educational, HTML5, Logical, Math, Mobile, Puzzle, Quiz, Timing
+- Tags: 1 Player, 2D, Click, educational, HTML5, Logical, math, Mobile, Puzzle, Quiz, Timing

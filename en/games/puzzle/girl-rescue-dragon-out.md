@@ -15,6 +15,6 @@ In Girl Rescue: Dragon Out, unleash vibrant puzzles and clever shooting to defea
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Puzzle

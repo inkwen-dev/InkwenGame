@@ -21,4 +21,4 @@ Car Eats Car 3D 是一款快节奏的动作竞速游戏，充满爆炸性的汽�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 外星人, 对战, 汽车, 卡通
+- 标签: 3D, 外星人, 战斗, 汽车, 卡通

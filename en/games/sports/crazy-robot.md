@@ -19,6 +19,6 @@ This is a casual parkour game. In the process of parkour, robot elements are con
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Avoid, Boy, Boys, Casual, Click, Collecting, Game, Games, Girl, Girls, H5, Highscore, HTML5, Hypercasual, Kid, Kids, Mobile, run, Sport

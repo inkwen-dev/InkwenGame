@@ -33,4 +33,4 @@ Freekick Hero is a 3D arcade football game about bending spectacular free kicks 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, Ball, penalty, Shooting, Skill, Soccer, Sports
+- Tags: 3D, Arcade, Ball, penalty, Shooting, Skill, Soccer, sports

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 棋盘, HTML5, 麻将, 消除3, 谜题, 单人纸牌
+- 标签: 棋盘, HTML5, mahjong, 三消, 益智, 纸牌游戏

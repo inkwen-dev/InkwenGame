@@ -19,6 +19,6 @@ Texas Hold em game. Unlock a hidden character and a new level if you have the sk
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Poker
+- Tags: card, Poker

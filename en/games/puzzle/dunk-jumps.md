@@ -21,4 +21,4 @@ Dunk Jumps is another ball game where you need jump with the ball on the wall fu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Dungeon, jump, Jumping, Kids, Puzzle
+- Tags: Ball, Dungeon, jump, jumping, Kids, Puzzle

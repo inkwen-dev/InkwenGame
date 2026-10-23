@@ -26,4 +26,4 @@ Discover potent artifacts that dramatically alter your adventure, and empower yo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Adventure, RPG, Skill
+- Tags: Action, Adventure, rpg, Skill

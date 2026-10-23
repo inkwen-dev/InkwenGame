@@ -21,4 +21,4 @@ Let's Play Super Piano Anime Kimetsu For Demonic Slayer S2 for best score to get
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Best, Game, Hot, HTML5, Magic, Mobile, Music, Point And Click, Puzzle, Timing
+- Tags: Action, Adventure, Arcade, Best, Game, Hot, HTML5, Magic, Mobile, music, Point And Click, Puzzle, Timing

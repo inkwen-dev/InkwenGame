@@ -21,4 +21,4 @@ Number Run 3D is a number running game which is suitable for all ages! Your goal
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Kids, Math, Mobile, Number, Platform, running, Skill
+- Tags: Avoid, Kids, math, Mobile, Number, Platform, running, Skill

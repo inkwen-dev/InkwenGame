@@ -21,4 +21,4 @@ Tower Tumble: Embark on a heart-pounding journey with this exhilarating 3D Jenga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player Games, 3D, Arcade, Block, Bricks, Clicker, HTML5
+- Tags: 1 Player, 2 Player Games, 3D, Arcade, block, Bricks, Clicker, HTML5

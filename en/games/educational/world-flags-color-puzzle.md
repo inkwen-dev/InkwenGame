@@ -21,4 +21,4 @@ A unique flag-coloring puzzle combined with world exploration. Test your geograp
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Color, Educational, Kids, Puzzle
+- Tags: Color, educational, Kids, Puzzle

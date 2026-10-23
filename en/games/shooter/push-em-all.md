@@ -19,6 +19,6 @@ Trace your way to the end of the level and push the enemies with your stick on t
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Casual, Clash, Games, Hypercasual, Shoot 'Em Up, Shooter, Shooting, Simpson, Stickman
+- Tags: 3D Games, Casual, Clash, Games, Hypercasual, Shoot 'Em Up, Shooter, Shooting, Simpson, stickman

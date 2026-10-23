@@ -21,4 +21,4 @@ Get ready for monster dinosaur rampage city games where jurrasic park builders i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Action, Adventure, Arcade, building, city, destruction, Fun, Monster, smash
+- Tags: 1 Player, 2026 games, Action, Adventure, Arcade, building, city, destruction, Fun, monster, smash

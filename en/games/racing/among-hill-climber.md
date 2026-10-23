@@ -19,6 +19,6 @@ The hill-climbing adventure is now beginning with the Among Them game characters
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Best, Bike, Boy, Boys, Car, Cartoon, Cartoon Network, Casual, Driving, Game, Games, Gold, HTML5, Kids, Kiz 10, kiz10, Moto, Motorcycle, Platform, Race, Racing, Simulation, Simulator, Skill, Skills, Snow, Supercars, Taxi, Truck, Unity3D, WebGL
+- Tags: 1 Player, 2D, Adventure, Arcade, Best, bike, Boy, Boys, Car, Cartoon, Cartoon Network, Casual, Driving, Game, Games, Gold, HTML5, Kids, Kiz 10, kiz10, Moto, Motorcycle, Platform, Race, Racing, Simulation, Simulator, Skill, Skills, Snow, Supercars, Taxi, truck, Unity3D, WebGL

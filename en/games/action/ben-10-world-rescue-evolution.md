@@ -21,4 +21,4 @@ Prepare to join Ben on a round-the-world rescue mission to rescue Gwen and Grand
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Alien, Anime, Ben 10, Cartoon, Cartoon Network, Clicker, Disney, Fighting
+- Tags: Action, Adventure, Alien, Anime, Ben 10, Cartoon, Cartoon Network, Clicker, Disney, fighting

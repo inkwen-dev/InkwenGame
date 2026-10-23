@@ -19,6 +19,6 @@ In front of you on the screen are mugs-portraits of the most famous princesses, 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Match-3, Mobile
+- Tags: HTML5, Match 3, Mobile

@@ -21,4 +21,4 @@ Star Dot is fun addictive hyper casual strategy game. To play the game tap or cl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Hypercasual, Puzzle, Strategy
+- Tags: Casual, Hypercasual, Puzzle, strategy

@@ -19,6 +19,6 @@ Exciting and realistic 3D soccer action with a leaderboard to compare your score
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Soccer, Sport, Sports
+- Tags: Soccer, Sport, sports

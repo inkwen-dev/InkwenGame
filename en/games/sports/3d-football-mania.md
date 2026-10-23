@@ -21,4 +21,4 @@ Score more goals than your opponent before the 2 minute timer runs out. Use Arro
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, Soccer, Sports
+- Tags: 3D, Arcade, Soccer, sports

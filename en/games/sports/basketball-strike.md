@@ -21,4 +21,4 @@ It’s time to step into the court for some crazy dunks! Grab the ball, drive th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Basketball, Boy, Boys, Sport
+- Tags: 3D, 3D Games, basketball, Boy, Boys, Sport

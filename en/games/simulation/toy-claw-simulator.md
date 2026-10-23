@@ -19,6 +19,6 @@ Toy Claw Simulator is a fun and addictive arcade game where you take control of 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arcade, Casual, Machine, Physics, Puzzle, Simulation, Simulator

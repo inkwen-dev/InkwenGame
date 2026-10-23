@@ -19,6 +19,6 @@ Embark on an exhilarating adventure in the virtual realm with Arrow Hit, the ult
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Clicker, free html5 games for your website, HTML, html games for your website, HTML5, html5 games, html5 games for your site, onetouch, Shooting, Skill, weapons

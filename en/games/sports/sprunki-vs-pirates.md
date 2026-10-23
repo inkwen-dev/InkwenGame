@@ -21,4 +21,4 @@ Sprunki Vs Pirates is an exciting sports game to play for all ages. Get into thi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, mapi games, Sprunki
+- Tags: basketball, mapi games, Sprunki

@@ -19,6 +19,6 @@ Castel Wars is here with episode 3! More modern weapons, different maps and the 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Battle, Castle, Defense, Fun, Funny, Pixel, Shooting, Tower Defense, War
+- Tags: 2 Player, 2 Player Games, battle, Castle, Defense, Fun, Funny, pixel, Shooting, Tower Defense, War

@@ -21,4 +21,4 @@ Blunt! The race is on! Time to test your hand speed. Type quickly according to t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Kid, Kids, Letters, Puzzle, Race, Racing, run, Typing, Word
+- Tags: Arcade, Casual, Kid, Kids, Letters, Puzzle, Race, Racing, run, Typing, word

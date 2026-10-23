@@ -19,6 +19,6 @@ Welcome to Grimace Shake City Chaos! Immerse yourself in an exciting urban adven
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Grimace, Grimace Shake, Unity3D, WebGL

@@ -19,6 +19,6 @@ Take control of a powerful industrial magnet and clean up the yard! Collect meta
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Clicker, mapi games, Simulation

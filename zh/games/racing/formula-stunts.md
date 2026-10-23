@@ -21,4 +21,4 @@ WASD方向键 - 驾驶 C - 切换摄像头 Tab - 切换ATV Enter - 重新开始A
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1人玩家, 3D, 3D游戏, 疯狂, 有趣, 搞笑, 竞速, 赛车, 特技, Unity3D
+- 标签: 单人, 3D, 3D游戏, 疯狂, 有趣, 搞笑, 比赛, 竞速, 特技, Unity3D

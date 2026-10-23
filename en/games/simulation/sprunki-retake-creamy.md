@@ -21,4 +21,4 @@ Sprunki Retake Creamy is a fresh remix of Sprunki Retake, offering a unique musi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Classic, Music, New, Simulation, Sprunki
+- Tags: 1 Player, Classic, music, New, Simulation, Sprunki

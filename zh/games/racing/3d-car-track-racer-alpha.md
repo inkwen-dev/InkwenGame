@@ -21,4 +21,4 @@ Smartline-Games 带来全新的字母竞速系列！从字母 A 开始的 Alpha�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 人, 3D, 3D游戏, 汽车, 汽车, 驾驶, HTML5, 竞速, 竞速, 模拟, 模拟, 超跑, Unity3D, WebGL
+- 标签: 单人, 3D, 3D游戏, 汽车, 汽车, 驾驶, HTML5, 比赛, 竞速, 模拟, 模拟, 超跑, Unity3D, WebGL

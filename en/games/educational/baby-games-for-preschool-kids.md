@@ -21,4 +21,4 @@ Baby Games For Preschool Kids is a very cute educational game at yiv.com. This b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Educational
+- Tags: 1 Player, educational

@@ -19,6 +19,6 @@ Tanko io is a massively multiplayer online game created especially for fans of t
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Adventure, Battle, Battlegrounds, H5, HTML, HTML5, Kill, Killing, Subway Surfers, Tank, Tanks
+- Tags: .io, .io Games, Action, Adventure, battle, Battlegrounds, H5, HTML, HTML5, Kill, Killing, Subway Surfers, Tank, tanks

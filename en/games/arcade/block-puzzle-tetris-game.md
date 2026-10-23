@@ -19,6 +19,6 @@ Block Puzzle Tetris Is a Popular and Addictive Puzzle Game! Block Puzzle Tetris 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Classic, Puzzle, Tetris
+- Tags: Arcade, block, Classic, Puzzle, tetris

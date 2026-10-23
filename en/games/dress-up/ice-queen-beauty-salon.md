@@ -19,6 +19,6 @@ What a surprise! The ice queen comes to your beauty salon for a body spa and a n
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Dress Up, Elsa, Frozen, Fun, Girls, HTML5, Kids, Makeover, Mobile, Princess

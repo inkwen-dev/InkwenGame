@@ -15,6 +15,6 @@ Enter the haunting realm of The Blade of Horace, a gothic 2D platformer where yo
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Pixel
+- Tags: pixel

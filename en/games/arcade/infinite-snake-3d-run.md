@@ -19,6 +19,6 @@ Blocky Snake is an exciting endless one-touch game in which you touch the screen
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Android, Arcade, Mobile, Snake, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Android, Arcade, Mobile, snake, Unity3D

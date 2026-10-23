@@ -21,4 +21,4 @@ It&rsquo;s time to lose control over the Roblox body like a ragdoll and flip-fli
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Adventure, Arcade, Best Games, Block, Minecraft, puzzleblock, Skill
+- Tags: 1 Player, 3D, Adventure, Arcade, Best Games, block, Minecraft, puzzleblock, Skill

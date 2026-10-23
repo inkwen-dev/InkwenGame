@@ -21,4 +21,4 @@ wasd - 驾驶 f - 氮气加速 tab - 菜单 space - 刹车 c - 摄像头
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 人, 汽车, 汽车们, 驾驶, 竞速, 模拟器, 超跑, Unity3D, WebGL
+- 标签: 单人, 汽车, 汽车, 驾驶, 竞速, 模拟器, 超跑, Unity3D, WebGL

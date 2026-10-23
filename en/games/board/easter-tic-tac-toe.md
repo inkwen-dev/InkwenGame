@@ -19,6 +19,6 @@ Celebrate the joy and excitement of Easter with Easter Tic Tac Toe &ndash; a del
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Easter, Family

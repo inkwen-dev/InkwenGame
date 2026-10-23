@@ -15,6 +15,6 @@ Guide a luminous snake through a dark arena, navigating to consume glowing food 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Worm
+- Tags: worm

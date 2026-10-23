@@ -43,4 +43,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 动作, 射箭, PVE, 玩家对战, 射击
+- 标签: 动作, 弓箭, PVE, PvP, 射击

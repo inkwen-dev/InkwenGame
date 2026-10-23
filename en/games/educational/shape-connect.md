@@ -21,4 +21,4 @@ Shape Connect is a cute and fun game where kids help two teddy bears meet each o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Games, Brain, Educational, HTML5, Kids, Matching, NapTech Games, Puzzle
+- Tags: Baby Games, Brain, educational, HTML5, Kids, Matching, NapTech Games, Puzzle

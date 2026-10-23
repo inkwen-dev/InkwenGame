@@ -19,6 +19,6 @@ Super Bino Go, a totally new old school adventure game, will surprise you with t
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Fun, Mario, Superhero
+- Tags: Action, Adventure, Fun, mario, Superhero

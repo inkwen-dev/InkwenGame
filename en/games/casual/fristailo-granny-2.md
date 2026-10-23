@@ -15,6 +15,6 @@ Join the groove with Granny as she dances down the highway, leaps over trucks, a
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Granny
+- Tags: granny

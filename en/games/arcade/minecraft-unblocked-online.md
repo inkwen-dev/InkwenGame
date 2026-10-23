@@ -19,6 +19,6 @@ Welcome to Minecraft Unblocked Online - a completely open pixel sandbox world. H
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: build, Craft, Mine, Pixel
+- Tags: build, Craft, Mine, pixel

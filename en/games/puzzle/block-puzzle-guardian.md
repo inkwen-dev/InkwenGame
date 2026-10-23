@@ -19,6 +19,6 @@ Block Puzzle Guardian is a popular and awesome puzzle game. The goal is to drag 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Game, Highscore, Puzzle
+- Tags: block, Game, Highscore, Puzzle

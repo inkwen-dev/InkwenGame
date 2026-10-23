@@ -21,4 +21,4 @@ This is action strategy game with tanks. Before every level you will buy tanks a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Strategy, Tanks
+- Tags: Action, strategy, tanks

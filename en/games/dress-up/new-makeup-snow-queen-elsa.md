@@ -19,6 +19,6 @@ Queen Eliza is going to a winter ball. All the magic of winter is at her disposa
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Elsa, Frozen, Magic, Makeover, Snow

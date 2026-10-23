@@ -22,4 +22,4 @@ Test your knowledge and challenge your brain with Logo Quiz Master, the ultimate
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, Mobile, Quiz, trivia
+- Tags: Brain, educational, Mobile, Quiz, trivia

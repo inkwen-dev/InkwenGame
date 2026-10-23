@@ -19,6 +19,6 @@ Show that you are good at aiming in this fun game and try to finish the 20 level
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Adventure, Casual, Game, HTML5, Obstacle, Shoot, Shooting

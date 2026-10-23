@@ -21,4 +21,4 @@ Math Squares is a game where you have to match memory cards of X with X*X. For s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Clicker, Math, Puzzle
+- Tags: Casual, Clicker, math, Puzzle

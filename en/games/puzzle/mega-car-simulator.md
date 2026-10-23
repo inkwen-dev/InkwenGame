@@ -21,4 +21,4 @@ Gangstar Vegas is a role-playing game to become the leader of a gang in Las Vega
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adventure, Arcade, Basketball, Boys, Bubble, Bubble Shooter, bus, Candy, Car, Cars, drift, drifting, Driving, Fun, Funny, Game, Games, Mario, Parking, Road, Sim, Simpson, Simulation, Simulator, Supercars, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adventure, Arcade, basketball, Boys, Bubble, Bubble Shooter, bus, Candy, Car, Cars, drift, drifting, Driving, Fun, Funny, Game, Games, mario, parking, Road, Sim, Simpson, Simulation, Simulator, Supercars, truck

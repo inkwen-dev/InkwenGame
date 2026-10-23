@@ -19,6 +19,6 @@ Racing GTA Cars is perfect choice for jigsaw puzzle lovers. This game is about f
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Car, Cars, Fun, HTML5, Hypercasual, Jigsaw, Kids, Puzzle, Skill

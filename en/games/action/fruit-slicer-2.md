@@ -21,4 +21,4 @@ Mobile drag your finger across the screen to cut the fruits PC hold down the lef
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Android, Casual, cut, Fruit, Fruits, Funny, Game, HTML5, Hypercasual, Kids, Mobile, Ninja, Samurai, Slicing
+- Tags: Action, Android, Casual, cut, Fruit, Fruits, Funny, Game, HTML5, Hypercasual, Kids, Mobile, ninja, Samurai, Slicing

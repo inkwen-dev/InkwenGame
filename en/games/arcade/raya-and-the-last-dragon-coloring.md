@@ -19,6 +19,6 @@ Raya And The Last Dragon coloring books for free. Raya And The Last Dragon color
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boys, Color, Coloring, Disney, Game, Kids, Online, Puzzle

@@ -15,6 +15,6 @@ Navigate perilous waters in Duck Rescue Boat, saving adorable ducks from lurking
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Animal

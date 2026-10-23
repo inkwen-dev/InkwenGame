@@ -19,6 +19,6 @@ You must help Tung Tung Sahur and guide him to reach his favorite and most power
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Arcade, Tung Tung, Tung Tung Tung Sahur

@@ -21,4 +21,4 @@ Rocky 电动喷气背包男孩是一款横向卷轴无尽跑酷动作HTML5游戏
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 2D, 动作, 冒险, 街机, 男孩, 无尽, 飞行, 枪械, HTML, HTML5, 怪物, 射击
+- 标签: 单人, 2D, 动作, 冒险, 街机, 男孩, 无尽, 飞, 枪械, HTML, HTML5, monster, 射击类

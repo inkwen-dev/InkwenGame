@@ -21,4 +21,4 @@ Craft your raft and navigate through the colorful world. Take aim and fire to va
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Battle, Boat, cannon, Fighting
+- Tags: 2D, battle, Boat, cannon, fighting

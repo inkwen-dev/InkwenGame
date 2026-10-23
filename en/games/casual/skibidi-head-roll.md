@@ -15,6 +15,6 @@ Guide Scooby Doo through complex, ever-evolving puzzle levels to reach the elusi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Skibidi Toilet
+- Tags: skibidi-toilet

@@ -19,6 +19,6 @@ Ball Blaster Dont Cras hDumagu Zombies Night game has a lot of success review an
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bubble Shooter, Cartoon, Cartoon Network, Crazy, Shoot, Shoot 'Em Up, Shooter, Shooting
+- Tags: Arcade, Bubble Shooter, Cartoon, Cartoon Network, crazy, Shoot, Shoot 'Em Up, Shooter, Shooting

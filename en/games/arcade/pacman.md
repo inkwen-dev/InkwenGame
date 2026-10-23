@@ -19,6 +19,6 @@ Classic pacman game. If you like pacman game, come here and we prepared it for y
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Classic, Defense, Fun, PacMan, Retro
+- Tags: Classic, Defense, Fun, PacMan, retro

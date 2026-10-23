@@ -19,6 +19,6 @@ Play Elliott From Earth - Space Academy: Starship Pilot online in your web brows
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Alien, Anime, Ben 10, Best, Boy, Cartoon, Cartoon Network, Fun, Girl, Highscore, Kid, Puzzle, Rocket, Space, Spaceship, Superhero

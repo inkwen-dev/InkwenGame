@@ -19,6 +19,6 @@ You have to flip a plastic bottle in the exciting arcade game Bottle Flip 3D! Ma
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, Funny, Puzzle

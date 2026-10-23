@@ -21,4 +21,4 @@ Draw Pen Rush is a fun and exciting parkour game. Players control a robot to com
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boat, Draw, Drawing, HTML5, Hypercasual, Obstacle, Platform, running, Skills, Sword, weapons
+- Tags: Boat, Draw, drawing, HTML5, Hypercasual, Obstacle, Platform, running, Skills, sword, weapons

@@ -21,4 +21,4 @@ Tank Jigsaw is a fun online puzzle game. Drag the pieces into right position usi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Jigsaw, Mobile, Skill, Tank, Tanks
+- Tags: Fun, HTML5, Jigsaw, Mobile, Skill, Tank, tanks

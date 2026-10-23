@@ -19,6 +19,6 @@ Is there something missing? What's missing? Can you quickly find what's missing 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Animal, Ball, Casual, Draw, Drawing, Game, Kid, Kids, Puzzle, Relaxation
+- Tags: 3D, 3D Games, Animal, Ball, Casual, Draw, drawing, Game, Kid, Kids, Puzzle, Relaxation

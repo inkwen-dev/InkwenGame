@@ -21,4 +21,4 @@ Stickman Run - 是一款极具上瘾性的游戏，你需要帮助小人跑动�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 跑, 跑步, 技巧, Stickman
+- 标签: 冒险, 跑, 奔跑, 技巧, 木偶人

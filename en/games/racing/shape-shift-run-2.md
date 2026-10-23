@@ -19,6 +19,6 @@ The ability to change shape at the right moment is quite useful. However, it is 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Boat, Car, Cars, Click, Clicker, Helicopter, HTML, HTML5, Hypercasual, Supercars
+- Tags: 3D, 3D Games, Adventure, Boat, Car, Cars, Click, Clicker, helicopter, HTML, HTML5, Hypercasual, Supercars

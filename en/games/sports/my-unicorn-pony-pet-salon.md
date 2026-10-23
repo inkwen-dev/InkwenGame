@@ -19,6 +19,6 @@ MY Unicorn Pony Pet Salon Kids it's time to train yourself for take care of your
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 2 Player Games, 3D Games, 8 Ball Pool, Adventure, Android, Animal, Arcade, Arena, Arkanoid, Army, Barbie, Billiard, Board, Family, Fun, Funny, Game, Games, Girl, Girls, Hypercasual, Pipe, Road, Sandbox

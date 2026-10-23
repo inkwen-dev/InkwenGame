@@ -19,6 +19,6 @@ Welcome to Xmas Bubble Frenzy. It will make you feel the joy of the festive. In 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, Christmas, HTML5, Mobile, Winter

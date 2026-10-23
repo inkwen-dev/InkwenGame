@@ -19,6 +19,6 @@ Are you ready to become an epic hero in the top battles in the Wugy Halloween To
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Fighting, Halloween, Kids, Mobile, Skill, Tower Defense, War
+- Tags: Avoid, fighting, Halloween, Kids, Mobile, Skill, Tower Defense, War

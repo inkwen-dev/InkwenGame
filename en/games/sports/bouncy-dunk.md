@@ -19,6 +19,6 @@ In Bouncy Dunks you need bouncing the ball with moving paddle and throw it throu
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Ball, Basketball, Bounce, Collection, Shoot
+- Tags: Avoid, Ball, basketball, Bounce, Collection, Shoot

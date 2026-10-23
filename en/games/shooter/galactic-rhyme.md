@@ -21,4 +21,4 @@ Galactic Rhyme is a simple fun vocabulary game for kids to practice words and ph
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Educational, Space, Spaceship
+- Tags: 1 Player, educational, Space, Spaceship

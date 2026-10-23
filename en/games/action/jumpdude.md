@@ -21,4 +21,4 @@ You will have to show all the care and reaction speed to pass the slippery track
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Adventure, Arcade, Baby, Boy, Girl, jump, Jumping, Platform
+- Tags: 1 Player, 3D, 3D Games, Adventure, Arcade, Baby, Boy, Girl, jump, jumping, Platform

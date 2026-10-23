@@ -21,4 +21,4 @@ Start overcoming the tracks with your one-bit character in the One bit game! Don
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Pixel, Platform
+- Tags: 1 Player, 2D, Adventure, pixel, Platform

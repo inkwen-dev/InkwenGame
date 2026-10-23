@@ -21,4 +21,4 @@ The game has been a hit recently, with several players getting on the ship ready
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Educational, Fun, Girls, HTML5, Kids, Mobile, Puzzle
+- Tags: Coloring, educational, Fun, Girls, HTML5, Kids, Mobile, Puzzle

@@ -21,4 +21,4 @@ Welcome to the dark, thrilling, and action-packed underwater world of fish hunti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Fish, hunter, Hunting, Simulation, water
+- Tags: Action, Adventure, Fish, hunter, hunting, Simulation, water

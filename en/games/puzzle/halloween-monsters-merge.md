@@ -38,4 +38,4 @@ Demonstrate your skill and dexterity in connecting monsters!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Halloween, merge, Monster, Physics, Puzzle
+- Tags: Arcade, Halloween, merge, monster, Physics, Puzzle

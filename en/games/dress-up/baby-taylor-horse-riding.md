@@ -21,4 +21,4 @@ Taylor is about to have an unforgettable time in her life, a farm vacation. Summ
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cute, Doctor, Dress Up, Girl, Girls, Grooming, Kids, Makeover, Pony, Simulation, Surgery
+- Tags: Animal, Baby, Cute, Doctor, Dress Up, Girl, Girls, Grooming, Kids, Makeover, Pony, Simulation, surgery

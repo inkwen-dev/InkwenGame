@@ -19,6 +19,6 @@ Play simple leisure puzzle puzzle puzzle game, start your brain each level; The 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Brain, Classic, Escape, Logic, Rescue

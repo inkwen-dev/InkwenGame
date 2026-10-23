@@ -21,4 +21,4 @@ Get ready to play Extreme City Car Stunts - 3D car GT Racing in Impossible Track
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Car, Cars, Game, Games, Race, Racing, Simulation, Simulator, Sport, Sports, Stunts, Supercars, Unity3D
+- Tags: 3D Games, Car, Cars, Game, Games, Race, Racing, Simulation, Simulator, Sport, sports, Stunts, Supercars, Unity3D

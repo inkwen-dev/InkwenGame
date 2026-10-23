@@ -21,4 +21,4 @@ Master the snowy peaks in Mountain Run! Sprint down an endless mountain, dodging
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Best, Best Games, Highscore, Ice, Platform, run, running, Skateboard, Skating, Sport, Sports
+- Tags: Avoid, Best, Best Games, Highscore, Ice, Platform, run, running, skateboard, Skating, Sport, sports

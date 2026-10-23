@@ -19,6 +19,6 @@ Find 5 Differences in two boards.
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Cat, Difference, Hidden, HTML5, Mobile, Puzzle

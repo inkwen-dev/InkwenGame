@@ -15,6 +15,6 @@ Navigate the skies with a quirky pumpkin bird in Rotating Flappy Jack. Master gr
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Arcade

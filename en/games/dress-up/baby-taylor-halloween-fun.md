@@ -21,4 +21,4 @@ Children's favorite Halloween is here! How will Taylor spend Halloween this year
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cute, Dress Up, Educational, Girl, Girls, Halloween, Holiday, Kids, Simulation
+- Tags: Animal, Baby, Cute, Dress Up, educational, Girl, Girls, Halloween, Holiday, Kids, Simulation

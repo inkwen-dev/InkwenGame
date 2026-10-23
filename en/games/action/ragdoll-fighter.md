@@ -53,4 +53,4 @@ Manage your health: Keep an eye on the HP bar. When it empties, the round is ove
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Fighting, Funny, ragdoll
+- Tags: fighting, Funny, ragdoll

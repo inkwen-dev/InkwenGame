@@ -21,4 +21,4 @@ Hyper Jump 3D is a 3d arcade game where players smash, bump and bounce through r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Bounce, Brain, HTML, HTML5, Hypercasual, jump, Jumping, Stack
+- Tags: 3D, 3D Games, Arcade, Bounce, Brain, HTML, HTML5, Hypercasual, jump, jumping, Stack

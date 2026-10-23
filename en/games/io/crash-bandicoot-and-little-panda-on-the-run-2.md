@@ -19,6 +19,6 @@ Do you know Panda adventure? This is the max country boy you will play with this
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Adult, Adventure, Arcade, Boy, Christmas, Girl, HTML5, Hypercasual, Online, Panda, run, running, Snow, WebGL

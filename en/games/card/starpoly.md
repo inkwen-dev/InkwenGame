@@ -21,4 +21,4 @@ Pc trading board game which can be played against AI and among family and friend
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Card, Casual, Family, Strategy
+- Tags: Board, card, Casual, Family, strategy

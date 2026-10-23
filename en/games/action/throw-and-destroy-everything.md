@@ -21,4 +21,4 @@ Destruct into parts waves of robots throwing everything that could get hands on 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Arena, Battle, Physics, Unity3D
+- Tags: 1 Player, 3D, Arena, battle, Physics, Unity3D

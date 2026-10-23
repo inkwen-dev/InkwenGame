@@ -21,4 +21,4 @@ Jetpack Ride is a racing game in which you have to compete against other players
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, fly, Hypercasual, Physics, Puzzle, Word
+- Tags: 1 Player, fly, Hypercasual, Physics, Puzzle, word

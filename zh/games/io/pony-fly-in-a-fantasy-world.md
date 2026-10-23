@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 街机, 女孩, 马匹, 跳跃
+- 标签: .io 游戏, 街机, 女孩, horse, 跳跃

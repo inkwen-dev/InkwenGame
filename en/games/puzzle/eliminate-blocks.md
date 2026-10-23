@@ -21,4 +21,4 @@ A picture made of colored blocks will appear on the levels in front of you. Brow
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, Casual, Fun, Hypercasual, Mobile, Skill
+- Tags: 1 Player, block, Casual, Fun, Hypercasual, Mobile, Skill

@@ -19,6 +19,6 @@ It is full of tension with Dragon Ninja Warriors and it is so fun that the battl
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Battle, Dragon, Fight, Fighting, Ninja, Platform, Skills
+- Tags: Adventure, Arcade, battle, Dragon, Fight, fighting, ninja, Platform, Skills

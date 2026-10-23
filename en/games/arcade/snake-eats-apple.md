@@ -21,4 +21,4 @@ Snake Eats Apple is a fun online game where you control a snake and try to eat a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, HTML5, Puzzle, Snake
+- Tags: Arcade, HTML5, Puzzle, snake

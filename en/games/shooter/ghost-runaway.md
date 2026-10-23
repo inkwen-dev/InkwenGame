@@ -19,6 +19,6 @@ The runway is for the ghost and you have to help the ghost to run. Sounds fun ri
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Collecting, free html5 games for your website, Ghost, HTML, html games for your website, HTML5, html5 games, html5 games for your site, jump, Jumping, Platform, Shooting
+- Tags: Adventure, Arcade, Collecting, free html5 games for your website, Ghost, HTML, html games for your website, HTML5, html5 games, html5 games for your site, jump, jumping, Platform, Shooting

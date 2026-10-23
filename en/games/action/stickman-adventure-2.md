@@ -21,4 +21,4 @@ A new one has been added to stickman games. This is Stick War: New Age. The stic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Battle, Obstacle, Platform, Skills
+- Tags: 1 Player, Action, Adventure, battle, Obstacle, Platform, Skills

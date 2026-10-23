@@ -22,4 +22,4 @@ Educational puzzle game for all ages! Improve logical thinking with pattern reco
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, intelligence, Logic, Puzzle
+- Tags: Brain, educational, intelligence, Logic, Puzzle

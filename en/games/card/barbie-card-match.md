@@ -21,4 +21,4 @@ Barbie is a fashion doll manufactured by the American toy company Mattel, Inc. a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Card, Memory, Puzzle
+- Tags: Brain, card, memory, Puzzle

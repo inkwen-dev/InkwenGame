@@ -21,4 +21,4 @@ BTS Music Instrument Coloring Book is an online game that you can play for free.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boys, Coloring, Fun, Girls, HTML5, Kids, Music, School
+- Tags: Android, Boys, Coloring, Fun, Girls, HTML5, Kids, music, School

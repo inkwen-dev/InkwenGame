@@ -21,4 +21,4 @@ For Kids, our new game! Ninja jump Kids is a game which is designed for young ki
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Casual, jump, Ninja
+- Tags: 1 Player, Casual, jump, ninja

@@ -21,4 +21,4 @@ This is a unique relaxing idle miner game. It is based on the stickman universe.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Farm, Miner, Stickman, Strategy
+- Tags: Farm, Miner, stickman, strategy

@@ -21,4 +21,4 @@ A unique action-puzzler where you shoot a projectile to hit enemies and deal dam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Fighting, Shoot 'Em Up
+- Tags: Action, Arcade, fighting, Shoot 'Em Up

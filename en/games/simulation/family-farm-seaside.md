@@ -19,6 +19,6 @@ Experience the enchanting world of Family Farm Seaside as you immerse yourself i
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Best, Boy, Business, Casual, Farm, Girl, iPad, iPhone, Kids, Management, Mobile, Online, Simulation
+- Tags: 1 Player, Best, Boy, Business, Casual, Farm, Girl, iPad, iPhone, Kids, management, Mobile, Online, Simulation

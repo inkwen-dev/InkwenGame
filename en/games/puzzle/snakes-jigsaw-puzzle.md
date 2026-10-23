@@ -19,6 +19,6 @@ Welcome to Snakes jigsaw puzzle. Try to assemble Jigsaw pieces to complete the s
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Jigsaw, Kids, Puzzle, Slither, Snake
+- Tags: Arcade, Jigsaw, Kids, Puzzle, Slither, snake

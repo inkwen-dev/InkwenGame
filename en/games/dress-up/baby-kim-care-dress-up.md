@@ -19,6 +19,6 @@ Baby Kim needs YOU! Can you help care for this adorable, loving baby? Help Baby 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Arcade, Baby, Baby Hazel, Bird, Cartoon, Cartoon Network, Dress Up, Educational, Game, Games, House, Kid, Kids
+- Tags: .io Games, Arcade, Baby, Baby Hazel, Bird, Cartoon, Cartoon Network, Dress Up, educational, Game, Games, House, Kid, Kids

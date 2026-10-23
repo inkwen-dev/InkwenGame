@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 点击, 点击器, 无尽, 家庭, 鱼类, HTML, HTML5, 果冻, kids, 移动
+- 标签: 点击, 点击器, 无尽, 家庭, 鱼, HTML, HTML5, 果冻, 儿童, 移动设备

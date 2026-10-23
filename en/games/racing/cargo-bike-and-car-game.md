@@ -19,6 +19,6 @@ This cargo truck bike and car game gives you three driving experiences in one. D
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Bike, cargo, Driving, Racing, Truck, trucks
+- Tags: Adventure, bike, cargo, Driving, Racing, truck, trucks

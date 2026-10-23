@@ -21,4 +21,4 @@ Guitarist girl Nina is rebellious and free-spirited. Dress style is like rock mu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Dress Up, Fashion, Fun, Game, Games, Girl, Girls, HTML5, Music
+- Tags: Cartoon, Dress Up, Fashion, Fun, Game, Games, Girl, Girls, HTML5, music

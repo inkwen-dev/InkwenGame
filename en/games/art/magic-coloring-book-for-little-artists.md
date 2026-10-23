@@ -21,4 +21,4 @@ a calm and creative interactive game for kids that combines outline drawing and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Casual, Coloring, Cute, Drawing, Educational, HTML5, Kids, Mobile, Relaxation
+- Tags: Animal, Casual, Coloring, Cute, drawing, educational, HTML5, Kids, Mobile, Relaxation

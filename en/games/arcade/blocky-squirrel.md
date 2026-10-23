@@ -19,6 +19,6 @@ Blocky Squirrel Online Platformer Endless Runner Game is an exciting new game th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, HTML, HTML5, Online

@@ -19,6 +19,6 @@ Prepare yourself for a fun adventure and a crazy bubble party in a thrilling win
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, Arena, Baby Hazel, Ball, Ballon, Battle, Battlegrounds, Bridge, Bubble, Bubble Shooter, Cooking, Craft, Grooming, HTML5, Hypercasual, King, Mobile, Penguin, Pixel, Punch, Puzzle, Quiz, Robot, Seduction, Shoot, Shopping, Ski, Slither, Sofia, Solitaire, Spiderman, Street Fighting, Submachine, Subway Surfers, Tower Defense, Turn Based, Winter, Word, World, Worms
+- Tags: 2 Player Games, Arena, Baby Hazel, Ball, Ballon, battle, Battlegrounds, Bridge, Bubble, Bubble Shooter, Cooking, Craft, Grooming, HTML5, Hypercasual, King, Mobile, Penguin, pixel, Punch, Puzzle, Quiz, Robot, Seduction, Shoot, Shopping, Ski, Slither, Sofia, solitaire, Spiderman, Street Fighting, Submachine, Subway Surfers, Tower Defense, Turn Based, Winter, word, World, Worms

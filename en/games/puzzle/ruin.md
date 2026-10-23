@@ -19,6 +19,6 @@ In this game, your goal is to destroy all the blocks using your brain. Move a bl
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Brain, Bricks, Color, HTML5, Hypercasual, Match-3, Puzzle
+- Tags: block, Brain, Bricks, Color, HTML5, Hypercasual, Match 3, Puzzle

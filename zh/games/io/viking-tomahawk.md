@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 2人, 避开, 杀人
+- 标签: .io 游戏, 双人, 躲避, 击杀

@@ -21,4 +21,4 @@ Get ready to bounce with Froggy Hop! Launch your frog into the air, hop across l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Best Games, Bounce, Casual, endless, Jumping, Physics
+- Tags: 1 Player, 2D, Arcade, Best Games, Bounce, Casual, endless, jumping, Physics

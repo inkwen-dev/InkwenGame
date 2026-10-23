@@ -21,4 +21,4 @@ In this adventure, the troll-faced stick must remain calm and humorous as he nee
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Best, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Best, pixel

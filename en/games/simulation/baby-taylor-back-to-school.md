@@ -21,4 +21,4 @@ Baby Taylor Back To School is an educational game. The long vacation is coming t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational
+- Tags: educational

@@ -19,6 +19,6 @@ In the Funny Obby adventure, the Obby brothers need to escape from the secrets-f
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, pixel

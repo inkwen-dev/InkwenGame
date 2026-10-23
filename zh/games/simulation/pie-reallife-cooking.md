@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 烹饪, 烹饪, 女孩, 女孩们, HTML, HTML5
+- 标签: 烹饪, 厨艺, 女孩, 女孩, HTML, HTML5

@@ -21,4 +21,4 @@ There haven’t been many rockets and flying happening in the Tom and Jerry Game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Aircraft, Android, Arcade, Best, Cartoon, Cat, Coloring, Craft, Crafting, Drawing, Flight, Fun, HTML5, Mobile
+- Tags: Adventure, Aircraft, Android, Arcade, Best, Cartoon, Cat, Coloring, Craft, Crafting, drawing, flight, Fun, HTML5, Mobile

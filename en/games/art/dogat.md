@@ -15,6 +15,6 @@ In Dogat, shield a lovable pup from swarming bees by sketching clever barriers. 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Drawing
+- Tags: drawing

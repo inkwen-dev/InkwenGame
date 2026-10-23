@@ -33,4 +33,4 @@ Get ready for the exciting adventure that awaits you:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: archery, Funny, ragdoll, Stickman
+- Tags: archery, Funny, ragdoll, stickman

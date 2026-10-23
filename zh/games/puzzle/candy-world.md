@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩, 糖果, 女孩, H5, HTML, HTML5, 超休闲, 三消, 三消, 移动
+- 标签: 男孩, 糖果, 女孩, H5, HTML, HTML5, 超休闲, 三消, 三消游戏, 移动设备

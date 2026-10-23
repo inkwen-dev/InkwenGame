@@ -21,4 +21,4 @@ What is it like to become an equestrian expert? In Rival Stars Horse Racing, you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Avoid, Casual, Horse, Kid, Simulation, Stunts
+- Tags: Animal, Avoid, Casual, horse, Kid, Simulation, Stunts

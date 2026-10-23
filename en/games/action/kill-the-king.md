@@ -21,4 +21,4 @@ The most important and most omnipotent has always been the king, everything was 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Castle, Click, Clicker, Fight, Fighting, HTML, HTML5, Kill, Killing, King
+- Tags: Adventure, Castle, Click, Clicker, Fight, fighting, HTML, HTML5, Kill, Killing, King

@@ -19,6 +19,6 @@ Welcome to Color Fast Tap, a simple fun color game! The game consists of 4 color
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Clicker, Color

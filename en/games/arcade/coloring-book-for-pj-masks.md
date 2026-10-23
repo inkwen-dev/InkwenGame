@@ -21,4 +21,4 @@ Are you into PJ Masks ? PJ Masks Coloring Book: A Stunning Coloring Book Includi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Color, Coloring, Draw, Drawing, Game, Kids, Online, Puzzle
+- Tags: Arcade, Color, Coloring, Draw, drawing, Game, Kids, Online, Puzzle

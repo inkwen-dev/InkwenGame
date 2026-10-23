@@ -21,4 +21,4 @@ This is a very puzzle game,players should have enough patience,with their intell
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, Action, Arena, Board, Boy, Boys, Brain, Clicker, Educational, Mind
+- Tags: 2 Player Games, Action, Arena, Board, Boy, Boys, Brain, Clicker, educational, Mind

@@ -21,4 +21,4 @@ Certainly! Heres a description in English for the game My Little Pony Learning T
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Pony, Quiz
+- Tags: educational, Pony, Quiz

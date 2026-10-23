@@ -21,4 +21,4 @@ Easy to play but unlimited fun! Enjoy the worlds most beloved puzzle game for FR
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Block, Brain, Click, Clicker, HTML, HTML5, Mind, Puzzle
+- Tags: Arcade, Best, block, Brain, Click, Clicker, HTML, HTML5, Mind, Puzzle

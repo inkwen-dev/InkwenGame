@@ -21,4 +21,4 @@ Enter the ultimate egg battle arena! Protect your precious egg, collect resource
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Adventure, Arcade, Block, mineblock, Minecraft
+- Tags: 1 Player, 3D, 3D Games, Adventure, Arcade, block, mineblock, Minecraft

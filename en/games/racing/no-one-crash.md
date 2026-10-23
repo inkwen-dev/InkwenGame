@@ -21,4 +21,4 @@ No One Crash is a very classic game, we develop the original one way game for ca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Casual, Classic, Clicker, Crazy, fly, Highscore, Race, Unity3D
+- Tags: battle, Casual, Classic, Clicker, crazy, fly, Highscore, Race, Unity3D

@@ -19,6 +19,6 @@ Bloxy Block Parkour is a fun jumping game that you can play for free on Pc and M
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Avoid, Boys, Fun, Game, Hypercasual, jump, Kids, Obstacle, Skill

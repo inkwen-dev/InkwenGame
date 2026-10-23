@@ -19,6 +19,6 @@ Welcome to Cube to Hole Puzzle! Get ready for an exciting and brain-teasing expe
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Puzzle, Relaxation
+- Tags: block, Puzzle, Relaxation

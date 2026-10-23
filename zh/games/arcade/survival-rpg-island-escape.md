@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 岛屿, 角色扮演, 生存
+- 标签: 岛屿, rpg, 生存

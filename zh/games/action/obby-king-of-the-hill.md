@@ -63,4 +63,4 @@ W / A / S / D — 移动角色
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, 多人游戏, 障碍
+- 标签: 3D, 多人, 障碍

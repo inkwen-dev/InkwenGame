@@ -22,4 +22,4 @@ Defend your kingdom in this epic online tower defense strategy game! Command war
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Mobile, popular, PvP, Strategy, Tower Defense, War
+- Tags: Action, Mobile, popular, PvP, strategy, Tower Defense, War

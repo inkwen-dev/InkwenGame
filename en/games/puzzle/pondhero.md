@@ -21,4 +21,4 @@ PondHero is a fun and challenging memory puzzle adventure where every step matte
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, frog, Memory, Puzzle
+- Tags: Casual, frog, memory, Puzzle

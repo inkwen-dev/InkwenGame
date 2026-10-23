@@ -15,6 +15,6 @@ Survive the vibrant chaos in Red and Green 6: Color Rain, a thrilling pixelated 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

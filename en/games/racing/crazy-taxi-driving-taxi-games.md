@@ -21,4 +21,4 @@ This car parking new car game has all the details you are required to become a m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Arcade, Car, Cars, Casual, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing
+- Tags: .io, .io Games, Action, Arcade, Car, Cars, Casual, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, jumping, Race, Racing

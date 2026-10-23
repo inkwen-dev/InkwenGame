@@ -19,6 +19,6 @@ Immerse yourself in the enchanting world of 2048 Ball Roll and Color, a delightf
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Ball, Mentolatux, Unity3D, WebGL

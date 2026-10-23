@@ -21,4 +21,4 @@ Now use you finger push all the blocks to destination!Be careful about the obsta
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, HTML5, Hypercasual
+- Tags: block, HTML5, Hypercasual

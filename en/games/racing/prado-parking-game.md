@@ -21,4 +21,4 @@ Put your driving precision and spatial awareness to the ultimate test in Prado P
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 3D Games, Adventure, Best Games, Car, carparking, Driving, Parking, Simulation, Simulator
+- Tags: 2026 games, 3D Games, Adventure, Best Games, Car, carparking, Driving, parking, Simulation, Simulator

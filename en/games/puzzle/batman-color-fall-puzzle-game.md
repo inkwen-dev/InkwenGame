@@ -19,6 +19,6 @@ Batman Color Fall Puzzle Game is a captivating puzzle game in which everything r
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Batman, HTML, HTML5, Hypercasual, Puzzle

@@ -19,6 +19,6 @@ Crazy Eagle is one of 2D and bird flying game. It's easy to play and very intere
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Arcade, Bird, Flight, fly
+- Tags: 2D, Action, Adventure, Arcade, Bird, flight, fly

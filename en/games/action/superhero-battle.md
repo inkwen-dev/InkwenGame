@@ -21,4 +21,4 @@ We present to your attention a new incredibly dynamic action game called "Battle
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Battle, Hypercasual, Super, Superhero
+- Tags: Action, Adventure, Arcade, battle, Hypercasual, Super, Superhero

@@ -21,4 +21,4 @@ Teenage Mutant Ninja Turtles VS Power Rangers: Ultimate Hero Clash" pits two bel
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Best, Fighting, H5, Hot, New, Ninja
+- Tags: Action, Best, fighting, H5, Hot, New, ninja

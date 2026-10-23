@@ -27,4 +27,4 @@ Wiggly Worm is a cozy snake puzzle game set in colorful underwater reefs. Guide 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, cozy, Logic, Puzzle, Snake
+- Tags: Brain, cozy, Logic, Puzzle, snake

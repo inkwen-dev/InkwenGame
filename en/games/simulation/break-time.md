@@ -19,6 +19,6 @@ Break Time! It's a satirical corporate beat 'em up with a destructible environme
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, 3D Games, Adventure, Shooting, Simulation, Violence, WebGL

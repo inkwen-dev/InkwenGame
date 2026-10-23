@@ -19,6 +19,6 @@ Prison Gates is a stickman running game where you try to pass through gates whil
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Best, Casual, Escape, Hot, Hypercasual, Mobile, Obstacle, Platform, Rescue, run, running, Stickman
+- Tags: Avoid, Best, Casual, Escape, Hot, Hypercasual, Mobile, Obstacle, Platform, Rescue, run, running, stickman

@@ -21,4 +21,4 @@ Crazy elimination of emoji innovation elimination of new fun,the fun can’t sto
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Adventure, Arcade, Casual, Hypercasual, Matching, Memory, Online, Puzzle, Quiz
+- Tags: .io Games, Adventure, Arcade, Casual, Hypercasual, Matching, memory, Online, Puzzle, Quiz

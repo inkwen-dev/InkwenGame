@@ -19,6 +19,6 @@ Welcome to the ultimate prado car parking simulator game. A realistic, thrilling
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, 3D, Adventure, Car, carparking, Cars, Crazy, Game, Parking
+- Tags: 2025 games, 3D, Adventure, Car, carparking, Cars, crazy, Game, parking

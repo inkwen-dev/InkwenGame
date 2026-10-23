@@ -21,4 +21,4 @@ Mahjong Solitaire with classic art behind every board. Match pairs of free, iden
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Classic, Logic, Mahjong, Matching, Puzzle
+- Tags: Classic, Logic, mahjong, Matching, Puzzle

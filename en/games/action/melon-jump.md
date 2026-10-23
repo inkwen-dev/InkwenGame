@@ -21,4 +21,4 @@ Melon Jump is a challenging and fun hyper-casual minimalist game. You control th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, jump, Jumping, Pixel, Platform
+- Tags: Arcade, jump, jumping, pixel, Platform

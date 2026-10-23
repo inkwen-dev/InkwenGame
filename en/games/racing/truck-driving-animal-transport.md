@@ -21,4 +21,4 @@ In this category, you can play animal and wild bird truck games and learn how to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Action, Animal, Driving, Simulator, Truck, Unity3D, WebGL
+- Tags: 1 Player, 3D Games, Action, Animal, Driving, Simulator, truck, Unity3D, WebGL

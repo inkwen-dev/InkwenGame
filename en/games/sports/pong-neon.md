@@ -21,4 +21,4 @@ Pong Neon is a classic pong tennis game in a cool neon theme. No bodies, no padd
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Sports, Tennis
+- Tags: Ball, sports, Tennis

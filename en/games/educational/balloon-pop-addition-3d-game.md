@@ -21,4 +21,4 @@ This is an addition game which requires user to click on the some that has the l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Math
+- Tags: educational, math

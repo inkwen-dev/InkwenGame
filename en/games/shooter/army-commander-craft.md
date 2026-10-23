@@ -21,4 +21,4 @@ Welcome to Army Commander Craft, a game full of strategy and shooting elements. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Island, Strategy
+- Tags: Army, Island, strategy

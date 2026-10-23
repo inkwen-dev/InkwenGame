@@ -19,6 +19,6 @@ Get ready for the global wrestling fight to demonstrate the power of heavyweight
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting, Stickman, Street Fighting
+- Tags: Fight, fighting, stickman, Street Fighting

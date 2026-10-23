@@ -37,4 +37,4 @@ Features
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Car, Driving, Parking, Simulation, Skill
+- Tags: 3D, Car, Driving, parking, Simulation, Skill

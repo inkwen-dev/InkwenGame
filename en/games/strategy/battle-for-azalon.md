@@ -19,6 +19,6 @@ Help the mages defend the Kingdom of Azalon in an epic war against the orcs! Use
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Army, Battle, Clash, Defense, Educational, Fantasy, HTML5, Magic, Math, Strategy, Tower Defense, War, Wizard
+- Tags: 1 Player, 2D, Action, Adventure, Army, battle, Clash, Defense, educational, Fantasy, HTML5, Magic, math, strategy, Tower Defense, War, Wizard

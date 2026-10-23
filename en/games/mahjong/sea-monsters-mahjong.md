@@ -21,4 +21,4 @@ Dive into Sea Monsters Mahjong, an underwater twist on the classic game. Match s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mahjong, Matching, Monster, Puzzle
+- Tags: mahjong, Matching, monster, Puzzle

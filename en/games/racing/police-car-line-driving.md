@@ -21,4 +21,4 @@ Police Car Line Driving is a cool and addictive 3D car-avoiding arcade game. You
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Bomb, Boys, Car, Kids, Platform, Police, Racing, Stunts
+- Tags: 3D, Avoid, Bomb, Boys, Car, Kids, Platform, police, Racing, Stunts

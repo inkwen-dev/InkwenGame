@@ -19,6 +19,6 @@ n the heart of ancient Japan, a spectacle unfolds on the frozen battlefield. The
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, hockey, HTML, HTML5, Mobile, Ninja, Samurai, Sports
+- Tags: Arcade, hockey, HTML, HTML5, Mobile, ninja, Samurai, sports

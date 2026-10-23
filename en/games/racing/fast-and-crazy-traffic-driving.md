@@ -21,4 +21,4 @@ Are you one of those driver? Play Fast And Crazy Traffic Driving. Who wants to b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Best, Car, Cars, Crazy, Driving, Game, Games, Racing, Supercars, Unity3D, WebGL
+- Tags: 3D, 3D Games, Best, Car, Cars, crazy, Driving, Game, Games, Racing, Supercars, Unity3D, WebGL

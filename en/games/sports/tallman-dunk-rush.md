@@ -19,6 +19,6 @@ Tallman Dunk Rush is a popular running game which has the simple game play. You 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Kids, Mobile, running, Skill
+- Tags: basketball, Kids, Mobile, running, Skill

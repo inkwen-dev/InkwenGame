@@ -19,6 +19,6 @@ Tap the game screen to make the witch fly. Collect stars, but avoid the flying p
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, fly, Halloween, Witch

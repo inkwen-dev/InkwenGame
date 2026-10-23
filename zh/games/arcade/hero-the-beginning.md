@@ -21,4 +21,4 @@ A 和 D 键移动，J 键攻击，空格键跳跃
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1人, 2D, 动作, 冒险, 街机, 国王, Unity3D
+- 标签: 单人, 2D, 动作, 冒险, 街机, 国王, Unity3D

@@ -21,4 +21,4 @@ Museum Night Shift is a turn-based puzzle game where every step changes the plan
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Brain, hexagon, Logic, Mobile, Strategy, Thief, Top Down, Turn Based
+- Tags: 1 Player, 2D, Brain, hexagon, Logic, Mobile, strategy, Thief, Top Down, Turn Based

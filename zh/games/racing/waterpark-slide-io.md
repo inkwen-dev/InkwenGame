@@ -21,4 +21,4 @@ WaterPark Slide.io 是为水上乐园设计的滑行 io 游戏。你能避开障
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 3D, 3D游戏, 街机, 男孩, 乐趣, 女孩们, 儿童, 竞速, 赛车
+- 标签: .io, .io 游戏, 3D, 3D游戏, 街机, 男孩们, 有趣, 女孩, 儿童, 比赛, 竞速

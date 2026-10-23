@@ -21,4 +21,4 @@ Let's play our new jigsaw puzzle game called Cartoon Truck Jigsaw. You can selec
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Jigsaw, Kids, Truck
+- Tags: Fun, HTML5, Jigsaw, Kids, truck

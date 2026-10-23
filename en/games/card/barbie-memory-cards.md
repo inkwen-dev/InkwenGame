@@ -21,4 +21,4 @@ Do you want to play matching cards with the most beautiful pictures of Barbie? C
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Barbie, Brain, Cartoon, Fun, Game, Girl, Girls, HTML5, Memory, Puzzle
+- Tags: Barbie, Brain, Cartoon, Fun, Game, Girl, Girls, HTML5, memory, Puzzle

@@ -21,4 +21,4 @@ Boys and girls welcome to the Dentist, Here you can not only turn yourself into 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Game, Girls, HTML5, Kids, Mobile, Simulation, Surgery
+- Tags: Doctor, Game, Girls, HTML5, Kids, Mobile, Simulation, surgery

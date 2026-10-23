@@ -21,4 +21,4 @@ Triple Traffic Jam 3D Car Puzzle is a brain-teasing logic puzzle set in a stunni
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, carparking, Color, Parking
+- Tags: Car, carparking, Color, parking

@@ -21,4 +21,4 @@ Koby Jump Escape is a great HTML5 platform game. Help Koby to escape from prison
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Hypercasual, Jumping
+- Tags: HTML5, Hypercasual, jumping

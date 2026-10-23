@@ -19,6 +19,6 @@ Avoid amazing obstacles while you master the tricky tracks perform insane stunts
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Bike, Moto, Motorcycle
+- Tags: Action, Adventure, bike, Moto, Motorcycle

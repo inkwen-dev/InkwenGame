@@ -19,6 +19,6 @@ Build your road empire! Cars Tycoon is a fast-paced roadside tycoon. Open new sh
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, building, Business, Car, idle

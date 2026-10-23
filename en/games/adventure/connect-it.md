@@ -19,6 +19,6 @@ Amazing PUZZLE game. Just connect all the paths in order to complete the meet th
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, 2D, Adventure

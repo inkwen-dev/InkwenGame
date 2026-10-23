@@ -21,4 +21,4 @@ In the game Parking Path you should try to park the cars to the designated place
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Best, Car, Cars, Drawing, Fun, Logic, Logical, Mobile, Parking, Skill
+- Tags: 1 Player, Best, Car, Cars, drawing, Fun, Logic, Logical, Mobile, parking, Skill

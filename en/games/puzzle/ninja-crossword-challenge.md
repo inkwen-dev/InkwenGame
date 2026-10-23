@@ -19,6 +19,6 @@ It's time to test your vocabulary with Ninja Crossword Challenge, an educational
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boy, Brain, Fun, HTML, HTML5, Kids, Ninja, Online, Puzzle, Word
+- Tags: Android, Boy, Brain, Fun, HTML, HTML5, Kids, ninja, Online, Puzzle, word

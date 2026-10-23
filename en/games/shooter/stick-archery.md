@@ -21,4 +21,4 @@ Become the legendary archer master and destroy the evil enemy archers. Game is s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fire, Puzzle, Shoot, Skill, Stickman
+- Tags: battle, Fire, Puzzle, Shoot, Skill, stickman

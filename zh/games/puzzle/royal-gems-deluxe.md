@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 收集, 女孩, HTML5, 消除三连, 匹配, 移动设备, 解谜, 俄罗斯方块
+- 标签: 收集, 女孩, HTML5, 三消, 匹配, 移动设备, 益智, tetris

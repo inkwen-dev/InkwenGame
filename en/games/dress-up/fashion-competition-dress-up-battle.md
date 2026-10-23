@@ -21,4 +21,4 @@ Be trendy and stylish – get ready for the fashion contest! You have to be beau
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Dress Up, Fashion, Fun, Makeover
+- Tags: battle, Dress Up, Fashion, Fun, Makeover

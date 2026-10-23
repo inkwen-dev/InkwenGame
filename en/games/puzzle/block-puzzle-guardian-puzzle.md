@@ -21,4 +21,4 @@ Block Puzzle Jewel Game ★ Enjoy the classic jewel style block puzzle game!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Block, Games, Puzzle
+- Tags: 3D Games, block, Games, Puzzle

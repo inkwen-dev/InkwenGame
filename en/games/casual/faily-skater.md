@@ -15,6 +15,6 @@ Race through a chaotic urban landscape in Faily Skater, an exhilarating 3D endle
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Skateboard
+- Tags: skateboard

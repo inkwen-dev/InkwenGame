@@ -21,4 +21,4 @@ Kids all ages love to eat ice cream and snow cone and always keen to know how to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Boys, Burger, Candy, Cooking, Design, Educational, Elsa, Frozen, Funny, Girls, Hot, Ice, Kids, Makeover, New, Summer, Truck
+- Tags: Best, Boys, Burger, Candy, Cooking, Design, educational, Elsa, Frozen, Funny, Girls, Hot, Ice, Kids, Makeover, New, Summer, truck

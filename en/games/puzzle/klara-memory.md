@@ -21,4 +21,4 @@ Klara Memory is brain memory game where you need to memorize all images and when
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kids, Memory, Puzzle
+- Tags: Kids, memory, Puzzle

@@ -21,4 +21,4 @@ In this game you go with Mario on an island full of ghosts. You meet traditional
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Mario, Retro
+- Tags: Action, Adventure, Arcade, mario, retro

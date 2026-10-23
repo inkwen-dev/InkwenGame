@@ -21,4 +21,4 @@ Log in to the game, enter your name, and choose between a quick game or a privat
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing, Multiplayer
+- Tags: drawing, Multiplayer

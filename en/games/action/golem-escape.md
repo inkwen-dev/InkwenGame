@@ -21,4 +21,4 @@ Golem Escape - in this game you have to help this little creature which was trap
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Fun, HTML5, Mobile, Monster, Platform, run, running
+- Tags: 2D, Fun, HTML5, Mobile, monster, Platform, run, running

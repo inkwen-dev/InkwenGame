@@ -19,6 +19,6 @@ Dot it est un jeu de réflexion et de connectivité pour adultes et enfants. Le 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Animal, Barbie, Candy

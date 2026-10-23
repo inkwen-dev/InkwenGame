@@ -19,6 +19,6 @@ Fun and interactive pirate treasure game. Kill the zombies and find the treasure
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Fun, Interactive, Pirate, Stunts

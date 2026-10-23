@@ -21,4 +21,4 @@ A fun and compelling puzzle board game called Parking Jam. Its more than just pa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Match 3, Maze, Parking
+- Tags: Car, Match 3, Maze, parking

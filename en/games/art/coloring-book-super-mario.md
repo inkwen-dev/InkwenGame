@@ -19,6 +19,6 @@ Coloring Book Super Mario For Kids is fun coloring book for kids and adults! If 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cartoon, Color, Coloring, HTML5, Kids, Mario, Mobile, School
+- Tags: Boys, Cartoon, Color, Coloring, HTML5, Kids, mario, Mobile, School

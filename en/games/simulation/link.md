@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Animal, Anime, Brain, Casual, Classic, Collection, Color, Coloring, Fighting, Fish, Fishing, Fun, Funny, Hypercasual, Kid, Kids, Math, Mind, Mobile, Puzzle
+- Tags: Android, Animal, Anime, Brain, Casual, Classic, Collection, Color, Coloring, fighting, Fish, Fishing, Fun, Funny, Hypercasual, Kid, Kids, math, Mind, Mobile, Puzzle

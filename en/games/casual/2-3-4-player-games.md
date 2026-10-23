@@ -19,6 +19,6 @@ What about playing 2, 3, and 4 player games with this great game? There are 21 u
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 3D Games, Arena, Casual, Chicken, Fight, Hypercasual, Tank

@@ -19,6 +19,6 @@ Russian Taz Driving 2 features cool graphics and lots of different russian cars 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Car, Cars, drifting, Driving, gta, Racing, Unity3D, WebGL

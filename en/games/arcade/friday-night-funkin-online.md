@@ -19,6 +19,6 @@ Friday Night Funkin’ (fnf) is a musical rhythm game play it on iyigames.com. I
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boys, Fun, Girls, HTML5, Love, Music, Rhythm, WebGL
+- Tags: Arcade, Boys, Fun, Girls, HTML5, Love, music, Rhythm, WebGL

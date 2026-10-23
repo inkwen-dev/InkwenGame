@@ -23,4 +23,4 @@ Burger Life is a fun simulation game where you have to manage your own burger re
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Cooking, Food, Management, Mobile, Restaurant, Simulation
+- Tags: Cooking, Food, management, Mobile, restaurant, Simulation

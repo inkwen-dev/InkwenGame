@@ -19,6 +19,6 @@ Welcome to the world of horse cart runner games. Get ready for a wild galloping 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Forest, Horse, Kart, Race, Racing, running
+- Tags: Forest, horse, Kart, Race, Racing, running

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 医生, 换装, 仿真, 手术
+- 标签: 医生, 装扮, 模拟, 手术

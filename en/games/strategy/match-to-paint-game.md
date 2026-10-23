@@ -21,4 +21,4 @@ Match To Paint is an interesting game that mixed match elements and painting ele
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boys, Brain, H5, Kids, Puzzle, Skill, Strategy
+- Tags: 3D, Boys, Brain, H5, Kids, Puzzle, Skill, strategy

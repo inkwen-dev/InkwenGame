@@ -21,4 +21,4 @@ TopDown 怪物射击游戏特色：- 趣味玩法 - 优秀画质
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 怪物, Unity3D, WebGL
+- 标签: 3D, monster, Unity3D, WebGL

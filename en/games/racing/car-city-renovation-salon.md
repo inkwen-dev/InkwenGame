@@ -21,4 +21,4 @@ Car City Renovation Salon is a very interesting car repair game. You are the own
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cars, Decoration, Educational, Fun, Girls, HTML5, Kids, Mobile
+- Tags: Boys, Cars, Decoration, educational, Fun, Girls, HTML5, Kids, Mobile

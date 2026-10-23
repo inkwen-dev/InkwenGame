@@ -19,6 +19,6 @@ PicPu is a very attractive photo puzzle. Just like Jigsaw puzzle, it is the best
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Board, Brain, Classic, Educational, Hypercasual
+- Tags: Animal, Board, Brain, Classic, educational, Hypercasual

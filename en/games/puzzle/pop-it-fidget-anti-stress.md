@@ -19,6 +19,6 @@ What Is a Pop It Fidget Toy? Made of silicone, Pop It fidget toys feature bubble
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Bubble, Casual, Click, Clicker, Crafting, Cute, Design, Educational, Fun, Girl, Kid, Sandbox, Simulator
+- Tags: Brain, Bubble, Casual, Click, Clicker, Crafting, Cute, Design, educational, Fun, Girl, Kid, Sandbox, Simulator

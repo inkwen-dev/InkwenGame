@@ -21,4 +21,4 @@ Life of a Tree is not just a game; its an educational adventure that combines le
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Baby Games, Educational, free games for your site, Kids, NapTech Games
+- Tags: 1 Player, 2D, Arcade, Baby Games, educational, free games for your site, Kids, NapTech Games

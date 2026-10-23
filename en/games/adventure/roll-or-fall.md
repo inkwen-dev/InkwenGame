@@ -19,6 +19,6 @@ Roll diagonally and test your timing in Roll or Fall! Control your dice as it mo
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, amazing, Best, Best Games, Block, Cool, mineblock, roblox
+- Tags: 2026 games, Adventure, amazing, Best, Best Games, block, cool, mineblock, roblox

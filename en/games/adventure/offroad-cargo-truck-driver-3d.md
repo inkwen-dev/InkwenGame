@@ -21,4 +21,4 @@ The people who love truck games, then this is the place to be. Welcome to new &l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Adventure, Classic, Truck, Unity3D, WebGL
+- Tags: 3D Games, Adventure, Classic, truck, Unity3D, WebGL

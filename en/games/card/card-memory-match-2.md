@@ -17,4 +17,4 @@ Test your memory in Card Memory Match, a delightful puzzle game where you flip a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Memory
+- Tags: memory

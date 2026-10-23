@@ -21,4 +21,4 @@ QuickSolve 是一款快节奏的限时数学挑战，旨在帮助你在压力下
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 教育, 数学, 拼图, 问答
+- 标签: 教育, 数学, 益智, 问答

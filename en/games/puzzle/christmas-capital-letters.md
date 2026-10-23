@@ -19,6 +19,6 @@ In this Christmas game your job is to touch only capital letters. Be focused and
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, HTML5, Kids, Letters, Puzzle

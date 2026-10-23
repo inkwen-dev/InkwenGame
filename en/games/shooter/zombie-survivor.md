@@ -21,4 +21,4 @@ Zombie Survivor immerses you in the heart-pounding world of a post-apocalyptic z
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Pixel, Shooter, Shooting, survival, Zombie
+- Tags: 2D, pixel, Shooter, Shooting, survival, Zombie

@@ -19,6 +19,6 @@ Castle Defence! A game where you have to defend your castle from monsters. You w
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Battle, Castle, Monster, War
+- Tags: 1 Player, 2D, battle, Castle, monster, War

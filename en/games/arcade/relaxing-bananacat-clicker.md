@@ -19,6 +19,6 @@ Embark on a charming adventure with Relaxing BananaCAT Clicker, an engaging mobi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cat, Clicker, Fruit, Music, Point And Click, Relaxation
+- Tags: Animal, Cat, Clicker, Fruit, music, Point And Click, Relaxation

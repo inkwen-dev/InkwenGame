@@ -21,4 +21,4 @@ Snake Color Break is a snake puzzle game. There will be five targets on the roll
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Color, Kids, Puzzle, Snake
+- Tags: Arcade, Color, Kids, Puzzle, snake

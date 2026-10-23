@@ -19,6 +19,6 @@ You are a Castlevania soldier, and it is up to you to kill the witches in the ca
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Mobile, Turn Based

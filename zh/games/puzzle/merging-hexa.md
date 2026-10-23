@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 六边形, 六边形, 逻辑性, 数字, 解谜
+- 标签: 六边形, hexagon, 逻辑性, 数字, 益智

@@ -19,6 +19,6 @@ Stickman Kart Hero is a free physics game. See how far you can fling your cart w
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Funny, Jumping, kiz10, running, Stickman
+- Tags: Funny, jumping, kiz10, running, stickman

@@ -19,6 +19,6 @@ Rotating Pomni is a unique platform puzzle game where you rotate the world to gu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: circus, digital circus, HTML, HTML5, html5 games, Mobile, Puzzle

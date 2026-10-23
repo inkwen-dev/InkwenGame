@@ -19,6 +19,6 @@ Now it's time for wonderful game that's called Sweet Babies Differences, let's h
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Casual, Difference, Fun, HTML, Kids, Mobile, Skill

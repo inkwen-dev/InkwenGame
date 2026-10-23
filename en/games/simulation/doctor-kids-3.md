@@ -21,4 +21,4 @@ Welcome to the hospital for children, where medicine meets kindness. You can bec
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Fun, Girl, HTML5, Kid, Mobile, Puzzle, Simulation, Surgery
+- Tags: Doctor, Fun, Girl, HTML5, Kid, Mobile, Puzzle, Simulation, surgery

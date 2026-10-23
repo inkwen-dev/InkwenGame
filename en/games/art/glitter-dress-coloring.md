@@ -21,4 +21,4 @@ Glitter Dress Coloring is a very cute coloring game. In this game, there are lot
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Cute, Draw, Drawing, Fun, Girls, HTML5, Kids, Mobile
+- Tags: Color, Coloring, Cute, Draw, drawing, Fun, Girls, HTML5, Kids, Mobile

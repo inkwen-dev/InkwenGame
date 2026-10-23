@@ -21,4 +21,4 @@ Love relaxing ASMR destruction games? In Bucket Crusher ASMR, you control a powe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bricks, Pixel, Relaxation
+- Tags: Bricks, pixel, Relaxation

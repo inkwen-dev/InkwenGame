@@ -19,6 +19,6 @@ Want to have a fun and relaxing race? In Muscle Bridge Race 3D, you&rsquo;ll rac
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bridge, Music, Relaxation, running
+- Tags: Bridge, music, Relaxation, running

@@ -19,6 +19,6 @@ Your mission is to jump at wall and finish each levels. Enjoy to Run Wall Jump 2
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping, run, running, Unity3D, WebGL
+- Tags: jump, jumping, run, running, Unity3D, WebGL

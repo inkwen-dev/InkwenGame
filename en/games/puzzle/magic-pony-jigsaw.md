@@ -19,6 +19,6 @@ Magic Pony Jigsaw is a kind of interesting cartoon puzzle game jigsaw, which is 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Animal, Cartoon, Fun, Girl, HTML5, Jigsaw, Kid, Magic, Mobile, Movie, Pony

@@ -21,4 +21,4 @@ Are you ready to be the hero in the Top battles? The harsh battlefield with coun
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Clicker, Hot, Puzzle, Strategy, Tower Defense, War
+- Tags: Arcade, Best, Clicker, Hot, Puzzle, strategy, Tower Defense, War

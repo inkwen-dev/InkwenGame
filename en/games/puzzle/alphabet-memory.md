@@ -19,6 +19,6 @@ This is memory game with Alphabets. With this game you can learn Letters, how th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Letters, Memory, Puzzle
+- Tags: Brain, Letters, memory, Puzzle

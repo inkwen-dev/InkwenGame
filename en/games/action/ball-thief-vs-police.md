@@ -21,4 +21,4 @@ Ball Thief vs Police is a 2D platformer where you play as thief and you have to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Ball, Collecting, Cute, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Ball, Collecting, Cute, pixel, Platform, retro

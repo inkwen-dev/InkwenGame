@@ -21,4 +21,4 @@ Are you ready to grow and shrink? In this adventure, you need to be careful abou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Battle
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, battle

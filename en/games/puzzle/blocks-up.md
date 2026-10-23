@@ -21,4 +21,4 @@ Blocks Up is a fun online puzzle game. Match 3 blocks of the same color. Don’t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Fun, Kids, Match 3, Mobile, Skill
+- Tags: block, Fun, Kids, Match 3, Mobile, Skill

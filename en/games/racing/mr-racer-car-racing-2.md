@@ -19,6 +19,6 @@ MR RACER - Car Racing is a thrilling and challenging racing game that will excit
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Best Games, Car, Police, Race, Racing, Supercars, Unity3D, WebGL
+- Tags: 3D, Best Games, Car, police, Race, Racing, Supercars, Unity3D, WebGL

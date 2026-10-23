@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 冒险, H5, 热门, HTML, HTML5, 点击式, 竞速, 赛车
+- 标签: 动作, 冒险, H5, 热门, HTML, HTML5, 点击式, 比赛, 竞速

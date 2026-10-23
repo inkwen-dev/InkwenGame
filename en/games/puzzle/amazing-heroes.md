@@ -19,6 +19,6 @@ Amazing Heroes is a fun reflex game to match as many items as you can. this game
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Brain, HTML, HTML5, Kids, Match3, Matching, Memory, Mobile, Puzzle
+- Tags: Boys, Brain, HTML, HTML5, Kids, Match3, Matching, memory, Mobile, Puzzle

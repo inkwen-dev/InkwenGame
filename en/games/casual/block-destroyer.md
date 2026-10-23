@@ -19,6 +19,6 @@ A game in which you have to destroy towers by throwing balls. You need to destro
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Ball, Block, Bricks, crash, Mobile
+- Tags: 3D, Ball, block, Bricks, crash, Mobile

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 外星人, 突袭, Ben 10, 卡通频道, 生存
+- 标签: 外星人, 攻击, Ben 10, 卡通频道, 生存

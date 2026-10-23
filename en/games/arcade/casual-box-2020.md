@@ -21,4 +21,4 @@ Ready to play Casual box ? Wheel your skill will be tested here has you need to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping, Unity3D, WebGL
+- Tags: jump, jumping, Unity3D, WebGL

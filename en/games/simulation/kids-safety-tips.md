@@ -21,4 +21,4 @@ This educational safety game has three modes: child seats, winter outfits, and b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Simulation
+- Tags: educational, Simulation

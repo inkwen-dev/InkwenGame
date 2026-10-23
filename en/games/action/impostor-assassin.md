@@ -21,4 +21,4 @@ Get ready for an action-packed adventure in Impostor Assassin. With the assassin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Android, Arcade, Battle, Casual, Hypercasual, Kid, Kids, Space, Spaceship, Stealth, Strategy, War, WebGL
+- Tags: 3D, Action, Android, Arcade, battle, Casual, Hypercasual, Kid, Kids, Space, Spaceship, Stealth, strategy, War, WebGL

@@ -19,6 +19,6 @@ It's a fun parkour combat game. This is a cute samurai. Now he has to keep movin
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Arcade, Boy, Boys, Game, Games, H5, HTML, HTML5, Killing, Obstacle, Rescue, Robot, running, Samurai, Skill, Skills, Sword, weapons
+- Tags: 3D, 3D Games, Action, Adventure, Arcade, Boy, Boys, Game, Games, H5, HTML, HTML5, Killing, Obstacle, Rescue, Robot, running, Samurai, Skill, Skills, sword, weapons

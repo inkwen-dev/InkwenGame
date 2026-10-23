@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 男孩, 汽车, H5, HTML, HTML5, 超休闲, 儿童, 移动, 模拟, 模拟器
+- 标签: 3D, 3D游戏, 男孩, 汽车, H5, HTML, HTML5, 超休闲, 儿童, 移动设备, 模拟, 模拟器

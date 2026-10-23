@@ -19,6 +19,6 @@ Welcome to Royal Couple Halloween Party. Halloween is behind the corner and your
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Girls, Halloween, Princess

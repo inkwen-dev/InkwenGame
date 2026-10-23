@@ -19,6 +19,6 @@ It's a free arcade game, easy to play, with HD graphics for 1 to 4 players. That
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Arcade, Games, Multiplayer, Play

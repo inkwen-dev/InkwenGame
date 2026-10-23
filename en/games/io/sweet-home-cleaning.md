@@ -19,6 +19,6 @@ Welcome to Sweet Home Cleanup The Princess House Cleanup Girls Game.
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, Action, Adventure, Arcade, Casual, Fun, Funny, House, Hypercasual, Unity3D

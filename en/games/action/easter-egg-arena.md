@@ -21,4 +21,4 @@ Hello, are you up for an Easter adventure where bunnies try to steal eggs from e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Arcade, Arena, Easter, Fighting, Pixel
+- Tags: 2 Player, 2 Player Games, Arcade, Arena, Easter, fighting, pixel

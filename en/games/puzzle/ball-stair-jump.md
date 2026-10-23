@@ -19,6 +19,6 @@ Ball Stair Jump is an arcade game where you have to climb the steps with a bounc
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Family, Hypercasual, Kid, Memory, Mobile
+- Tags: Brain, Family, Hypercasual, Kid, memory, Mobile

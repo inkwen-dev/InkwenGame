@@ -19,6 +19,6 @@ Gatdamn.io is an io-multiplayer game to fight and rise to the top of the leaderb
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, MMO, Multiplayer, Pixel
+- Tags: .io, MMO, Multiplayer, pixel

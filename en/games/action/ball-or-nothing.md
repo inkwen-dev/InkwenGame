@@ -19,6 +19,6 @@ Ball Or Nothing is a 2D platformer where the goal is to get the ball to the blue
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Ball, Platform

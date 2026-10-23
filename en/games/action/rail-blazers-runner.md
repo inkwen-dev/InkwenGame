@@ -19,6 +19,6 @@ Rail Blazers is on of the best free 3D running games. Run on upto 5 lane monorai
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Fun, HTML5, run, running, Subway Surfers, Train, WebGL

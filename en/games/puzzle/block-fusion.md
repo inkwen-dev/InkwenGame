@@ -19,6 +19,6 @@ Place block shapes on the grid and fill complete rows or columns to clear them! 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Casual, Puzzle, Tetris
+- Tags: block, Casual, Puzzle, tetris

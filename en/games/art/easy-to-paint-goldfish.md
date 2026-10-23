@@ -19,6 +19,6 @@ Introducing Easy Coloring GoldFish, the delightful and engaging online game desi
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Android, Animal, Coloring, Drawing, Fun, HTML5, Hypercasual, Kids, School
+- Tags: 1 Player, Android, Animal, Coloring, drawing, Fun, HTML5, Hypercasual, Kids, School

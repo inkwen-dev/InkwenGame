@@ -21,4 +21,4 @@ Ready to join the nervous police car chase ever? Police Chase is an exciting rac
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, city, Driving, Police
+- Tags: Car, city, Driving, police

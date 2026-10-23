@@ -21,4 +21,4 @@ MergeTrainLastRail 是一款在神秘列车上进行的放松式合并解谜游�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 冒险, 大脑, 闲置, 匹配, 移动设备, 解谜
+- 标签: 2D, 冒险, 大脑, idle, 匹配, 移动设备, 益智

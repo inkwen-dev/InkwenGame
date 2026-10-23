@@ -21,4 +21,4 @@ Simple puzzle game Guide the spheres through different obstacles, using only one
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Ball, Block, Island, Strategy
+- Tags: 2D, Arcade, Ball, block, Island, strategy

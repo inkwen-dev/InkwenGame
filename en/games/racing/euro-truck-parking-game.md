@@ -19,6 +19,6 @@ Get ready for an exciting Euro Truck Parking Game experience! Take control of po
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, amazing, Best Games, Parking, Racing, Truck
+- Tags: 2026 games, Adventure, amazing, Best Games, parking, Racing, truck

@@ -19,6 +19,6 @@ Brick Cat: Chipi Chapa &ndash; Retro arcade fun! Smash bricks with the dancing c
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Cat, Skill, Skills

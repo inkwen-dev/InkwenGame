@@ -19,6 +19,6 @@ Zombie Parade Defense is a tower defense game that can be played by 1 Player or 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Castle, Defense, Gun, Shoot 'Em Up, Shooting, Tower Defense, Zombie

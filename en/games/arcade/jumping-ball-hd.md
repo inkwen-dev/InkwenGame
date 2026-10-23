@@ -21,4 +21,4 @@ Jumping Ball – is a game in which you need to jump on the platforms trying to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Ball, jump, Jumping
+- Tags: Action, Adventure, Arcade, Ball, jump, jumping

@@ -19,6 +19,6 @@ Become a master of strategy and deck building. Collect and choose from 90 unique
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Card, Clash, Fantasy, Superhero, War
+- Tags: battle, card, Clash, Fantasy, Superhero, War

@@ -21,4 +21,4 @@ Logic meets strategy! Operate 3 types of buses in 8 vibrant colors, each requiri
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: bus, Mobile, Parking
+- Tags: bus, Mobile, parking

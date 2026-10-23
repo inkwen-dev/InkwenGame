@@ -21,4 +21,4 @@ Play the Perfect Role of Traffic Parking Master and Park cars Perfectly By Draw 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Car, Cars, Casual, Hypercasual, Parking
+- Tags: Arcade, Car, Cars, Casual, Hypercasual, parking

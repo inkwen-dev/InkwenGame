@@ -19,6 +19,6 @@ A lonely explorer travels across the outer space His goal is to gather the most 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Pixel, Shoot 'Em Up, Shooting, Space
+- Tags: 1 Player, 2D, pixel, Shoot 'Em Up, Shooting, Space

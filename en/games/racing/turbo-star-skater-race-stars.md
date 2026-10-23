@@ -19,6 +19,6 @@ Let's have a Special Turbo Skater Race Games With Skateboards Merge for more adv
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Arcade, Casual, Fun, Funny, Hot, Hypercasual, Interactive, jump, Jumping, Race, Racing, run, running, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Arcade, Casual, Fun, Funny, Hot, Hypercasual, Interactive, jump, jumping, Race, Racing, run, running, Unity3D

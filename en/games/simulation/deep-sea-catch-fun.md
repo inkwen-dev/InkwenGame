@@ -19,6 +19,6 @@ Deep Sea Catch Fun is an exciting fish-catching adventure where a clever cat div
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: catch, Fishing, Shoot

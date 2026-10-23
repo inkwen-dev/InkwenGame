@@ -19,6 +19,6 @@ Welcome to the most exciting army-run challenge! In Bullet Army Run, youll be a 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, Relaxation, running

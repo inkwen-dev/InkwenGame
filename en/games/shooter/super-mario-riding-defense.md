@@ -21,4 +21,4 @@ Ride your flying object, explore and destroy the monsters you meet along the way
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mario, Shooting, Super
+- Tags: mario, Shooting, Super

@@ -21,4 +21,4 @@ W - 上方 S - 下方
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 比赛, 技能, WebGL
+- 标签: 比赛, 技巧, WebGL

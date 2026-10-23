@@ -19,6 +19,6 @@ Fun big buttons to Jump, Beep the horn and change the music track for lots of fu
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Boy, Boys, Car, Casual, Driving, Race, Road, Supercars

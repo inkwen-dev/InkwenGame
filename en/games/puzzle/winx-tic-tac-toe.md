@@ -19,6 +19,6 @@ Winx fairy Bloom fights the evil witch Darcy. You have to use your mind to defea
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, Action, Cartoon, Fairy, Fun, Girl, HTML5, Puzzle, Witch

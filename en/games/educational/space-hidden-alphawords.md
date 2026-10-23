@@ -19,6 +19,6 @@ Space Hidden AlphaWords is an educational hidden object game in which you need t
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Hidden, HTML5, Memory, Mobile, Space, Word
+- Tags: educational, Hidden, HTML5, memory, Mobile, Space, word

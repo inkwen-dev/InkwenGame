@@ -19,6 +19,6 @@ Are you ready for a wild adventure with Cargo Truck: Transport &amp; Hunt, a sim
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Animal, Boys, Gun, Shooting, Sniper, Truck
+- Tags: 3D, Animal, Boys, Gun, Shooting, sniper, truck

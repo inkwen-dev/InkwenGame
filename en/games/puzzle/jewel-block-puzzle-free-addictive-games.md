@@ -19,6 +19,6 @@ Jewel Block Puzzle - Free Addictive Games is a simple but very addictive puzzle 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bejeweled, Block, Jewel, Logic, Logical, Puzzle, Tetris
+- Tags: Bejeweled, block, Jewel, Logic, Logical, Puzzle, tetris

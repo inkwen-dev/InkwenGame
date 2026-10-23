@@ -21,4 +21,4 @@ Elena, who lives on the farm, loves horse riding. She bought new clothes, boots 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Dress Up, Fashion, Fun, Game, Games, Girl, Girls, Horse, HTML5
+- Tags: Animal, Dress Up, Fashion, Fun, Game, Games, Girl, Girls, horse, HTML5

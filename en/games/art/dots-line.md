@@ -21,4 +21,4 @@ An interesting puzzle in the Connect the dots genre. On intelligence and ingenui
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Drawing, Hypercasual, Puzzle
+- Tags: drawing, Hypercasual, Puzzle

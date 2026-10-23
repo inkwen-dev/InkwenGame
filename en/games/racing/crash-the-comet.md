@@ -21,4 +21,4 @@ Basically you need to control the comet, and keep it flying on the track. Look e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Classic, Crazy, endless, Race
+- Tags: Casual, Classic, crazy, endless, Race

@@ -19,6 +19,6 @@ Rotative Pipes Puzzle is a game with 70 levels. For each level, you must touch i
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Board, Logic, Pipe, Puzzle

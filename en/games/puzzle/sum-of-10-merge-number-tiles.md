@@ -19,6 +19,6 @@ Meet an amazing math game where you need to get the sum of 10. Pass levels and e
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Block, Bricks, Casual, Educational, Hypercasual, Matching, Math, Mind, Number, Puzzle
+- Tags: Arcade, Best, block, Bricks, Casual, educational, Hypercasual, Matching, math, Mind, Number, Puzzle

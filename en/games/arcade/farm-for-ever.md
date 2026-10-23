@@ -19,6 +19,6 @@ Manage a farm: grow crops, care for animals, trade. Save Progress. Management. O
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Adventure, Animal, Baby, Farm

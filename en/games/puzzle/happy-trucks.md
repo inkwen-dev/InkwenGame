@@ -19,6 +19,6 @@ Happy Trucks is a filling puzzle game. Your job is to fill up the trucks with li
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cool, Funny, Hypercasual, Kids, Puzzle, Truck
+- Tags: cool, Funny, Hypercasual, Kids, Puzzle, truck

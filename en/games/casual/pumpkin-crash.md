@@ -17,4 +17,4 @@ Navigate a spooky pixelated world in Pumpkin Crash, gathering candies while dodg
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Monster
+- Tags: monster

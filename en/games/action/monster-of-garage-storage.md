@@ -19,6 +19,6 @@ Enter the chilling realm of Monster Snap Garage Storages, a survival horror expe
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: angry, buggy, Mobile, Monster, Skibidi
+- Tags: angry, buggy, Mobile, monster, Skibidi

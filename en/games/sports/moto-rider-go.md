@@ -19,6 +19,6 @@ Moto Rider GO: Highway Traffic brings to you one of the most compelling and sati
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Moto, Motorcycle, Sports
+- Tags: Moto, Motorcycle, sports

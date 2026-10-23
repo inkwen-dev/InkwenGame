@@ -21,4 +21,4 @@ Is a hidden object puzzle game based on the Sunny Day animated TV series. We are
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Cartoon, Cartoon Network, Celebrity, Disney, Fashion, Girls, Hidden, HTML5, Kids, Memory
+- Tags: Brain, Cartoon, Cartoon Network, Celebrity, Disney, Fashion, Girls, Hidden, HTML5, Kids, memory

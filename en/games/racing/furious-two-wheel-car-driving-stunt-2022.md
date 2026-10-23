@@ -19,6 +19,6 @@ Furious Two Wheel Car Driving Stunt 2022 is an advanced driving simulator with r
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Cars, HTML, HTML5, Race, Racing, Stunts

@@ -21,4 +21,4 @@ Fun Monster Trucks Jigsaw is a fun online puzzle game. Drag the pieces into righ
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, Skill, Truck
+- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, Skill, truck

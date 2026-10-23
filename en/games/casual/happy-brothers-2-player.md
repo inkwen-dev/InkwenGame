@@ -15,6 +15,6 @@ Join the dynamic duo of festive siblings in Happy Brothers 2 Player. Navigate a 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: two-player

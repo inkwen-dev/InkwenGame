@@ -21,4 +21,4 @@ This snake want to eat fruits. You need to control the snake to catch the fruit.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fruits, Puzzle, Snake
+- Tags: Fruits, Puzzle, snake

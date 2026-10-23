@@ -19,6 +19,6 @@ Draw with Pencils - Coloring Book! is an exciting creativity game. Here you can 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Games, Best Games, Boy, Casual, Color, Coloring, Draw, Drawing, Interactive, Kid, Kids, paint, painting
+- Tags: Baby, Baby Games, Best Games, Boy, Casual, Color, Coloring, Draw, drawing, Interactive, Kid, Kids, paint, painting

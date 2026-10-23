@@ -21,4 +21,4 @@ Introducing the Skibidi Toilet Memory Challenge &ndash; the ultimate and super f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collecting, Fun, HTML5, Kids, Memory, Skibidi Toilet, Skill
+- Tags: Collecting, Fun, HTML5, Kids, memory, skibidi-toilet, Skill

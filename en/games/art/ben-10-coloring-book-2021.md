@@ -21,4 +21,4 @@ Ben10 Coloring Book is a free html5 coloring game suitable for all ages. Downloa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Alien, Ben 10, Cartoon, Cartoon Network, Color, Coloring, Drawing, Superhero
+- Tags: Alien, Ben 10, Cartoon, Cartoon Network, Color, Coloring, drawing, Superhero

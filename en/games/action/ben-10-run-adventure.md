@@ -19,6 +19,6 @@ Ben Tennyson jumps over obstacles to find his cousin Gwen in this adventure. Tap
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Ben 10, Boy, Boys, Cartoon, jump, Jumping, run, running
+- Tags: Action, Ben 10, Boy, Boys, Cartoon, jump, jumping, run, running

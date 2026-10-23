@@ -19,6 +19,6 @@ Get ready to play impossible car games ramp drive in which you will drive multip
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Best, Boys, Car, Cars, Casual, Funny, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Race, Racing, Supercars

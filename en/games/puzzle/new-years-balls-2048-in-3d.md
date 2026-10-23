@@ -19,6 +19,6 @@ A game with a New Years atmosphere! Compete with friends and colleagues! In the 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2048, 3D, Android, Ball, Brain, Bubble, Logical

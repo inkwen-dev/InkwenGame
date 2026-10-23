@@ -21,4 +21,4 @@ A super fun Ragdoll fighting game is beginning with the Funny Ragdoll Wrestlers 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Balance, Boxing, Fight, Fighting, Fun, Funny, Stickman
+- Tags: 2 Player, 2 Player Games, Balance, Boxing, Fight, fighting, Fun, Funny, stickman

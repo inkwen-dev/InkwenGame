@@ -21,4 +21,4 @@ In this game you can play with a Flappy Huggy! Just Tap to fly and try to pass a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Boys, Flight, fly, HTML, HTML5, Hypercasual, Interactive, Mobile, Monster, Racing
+- Tags: Arcade, Boy, Boys, flight, fly, HTML, HTML5, Hypercasual, Interactive, Mobile, monster, Racing

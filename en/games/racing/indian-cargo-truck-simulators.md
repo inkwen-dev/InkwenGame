@@ -19,6 +19,6 @@ Become a Indian Cargo Truck Driver, hold the steering of a cargo Heavy Trailer a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Driving, Simulation, Simulator, Truck
+- Tags: Adventure, Driving, Simulation, Simulator, truck

@@ -19,6 +19,6 @@ You in the game Cat Shot will need to help the kitten to collect them all. You w
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cat, Fun, HTML5, Mobile, Puzzle, Skill

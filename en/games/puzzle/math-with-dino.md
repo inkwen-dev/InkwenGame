@@ -19,6 +19,6 @@ Maths With Dino is an engaging educational game that features 4 interactive math
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Funny, Game, Games, Highscore, HTML, HTML5, Hypercasual, Kid, Kids, Math, Number, Puzzle
+- Tags: Fun, Funny, Game, Games, Highscore, HTML, HTML5, Hypercasual, Kid, Kids, math, Number, Puzzle

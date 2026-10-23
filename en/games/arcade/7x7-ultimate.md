@@ -21,4 +21,4 @@ Colorful tiles are crowding the board! Your task is to move them around to form 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Color, Games, HTML5, Logic, Logical, Math, Turn
+- Tags: Arcade, Color, Games, HTML5, Logic, Logical, math, Turn

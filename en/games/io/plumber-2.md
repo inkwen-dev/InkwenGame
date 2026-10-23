@@ -21,4 +21,4 @@ In a fantasy world, you are the master of the plumbers, and every lands call you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Boy, Boys, Brain, Classic, Click, Clicker, Fun, Funny, Kid, Kids, Math, Mobile, Puzzle
+- Tags: .io Games, Boy, Boys, Brain, Classic, Click, Clicker, Fun, Funny, Kid, Kids, math, Mobile, Puzzle

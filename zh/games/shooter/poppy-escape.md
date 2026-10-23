@@ -21,4 +21,4 @@ Poppy Escape 是一款恐怖游戏，你的任务是逃离古老地下建筑的�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 3D, 3D游戏, 动作, 冒险, 第一人称射击, 恐怖, Huggy, 射击, 射击游戏, 射击, 射击, Unity3D
+- 标签: 单人, 3D, 3D游戏, 动作, 冒险, 第一人称射击, 恐怖, huggy, 射击, 射击游戏, 射击类, 射击, Unity3D

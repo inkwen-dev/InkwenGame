@@ -19,6 +19,6 @@ Serve your guests with delicious pizza! High Pizza is a fun casual game with add
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Collecting, Food, HTML5, Mobile, run

@@ -21,4 +21,4 @@ it's a match-3 game, you need to match at least 3 pieces of the same object Are 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Block, Boy, Boys, Brain, Bricks, Candy, Casino, Casual, Click, Clicker, Educational, Food, Fruit, Fun, Funny, Girl, Highscore, HTML5, Hypercasual, Match 3, Match3, Matching, Math, Puzzle
+- Tags: 1 Player, 2D, Arcade, block, Boy, Boys, Brain, Bricks, Candy, Casino, Casual, Click, Clicker, educational, Food, Fruit, Fun, Funny, Girl, Highscore, HTML5, Hypercasual, Match 3, Match3, Matching, math, Puzzle

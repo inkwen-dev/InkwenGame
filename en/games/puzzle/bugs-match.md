@@ -19,6 +19,6 @@ This is a match-3 game where you have to matching 3 identical insects to destroy
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Kids, Match 3, Matching, Mobile, Puzzle

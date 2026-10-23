@@ -15,6 +15,6 @@ Dive into the vibrant world of Candy Bubble, where strategic match-3 mechanics m
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Ball

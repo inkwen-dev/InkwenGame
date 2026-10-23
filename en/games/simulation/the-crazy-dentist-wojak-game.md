@@ -19,6 +19,6 @@ Join Dr. Wojak, the friendly and knowledgeable dentist, in an exciting 2D advent
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player Games, Adventure, Arcade, Baby Hazel, Bejeweled, Craft, Hidden

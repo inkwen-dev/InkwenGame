@@ -21,4 +21,4 @@ In Super Kong Jump - Monkey Bros & Banana Forest Tale you PLAY as Mono who has t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Alien, Animal, Monkey, Monster
+- Tags: Adventure, Alien, Animal, Monkey, monster

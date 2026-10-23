@@ -21,4 +21,4 @@ Step into the excitement of the biggest football tournament on the planet and br
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boys, Coloring, Educational, Football, Fun, Girls, Mobile, School
+- Tags: Arcade, Boys, Coloring, educational, Football, Fun, Girls, Mobile, School

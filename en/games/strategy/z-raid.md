@@ -21,4 +21,4 @@ tower defense game where your objective is to deploy different types of special 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Strategy, Tower Defense, Zombie
+- Tags: strategy, Tower Defense, Zombie

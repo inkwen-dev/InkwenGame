@@ -21,4 +21,4 @@ Cyberman V game has a lot of success review and player this MONTH that significa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Battle, Bubble Shooter, Interactive, Machine, Shoot, Shoot 'Em Up, Shooter, Shooting
+- Tags: 1 Player, Action, battle, Bubble Shooter, Interactive, Machine, Shoot, Shoot 'Em Up, Shooter, Shooting

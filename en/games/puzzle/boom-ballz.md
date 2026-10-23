@@ -19,6 +19,6 @@ Shoot the ball z and break block z in endless brick block tiles demolition game.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Casual, Hypercasual, Puzzle

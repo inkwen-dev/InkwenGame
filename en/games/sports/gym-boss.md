@@ -51,4 +51,4 @@ Tip: Don’t stay on light weights – only constant growth will lead you to vic
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: easy, Sports
+- Tags: easy, sports

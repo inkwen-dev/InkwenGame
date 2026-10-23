@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 经典, Grimace, 儿童, 平台
+- 标签: 街机, 经典, 格里马斯, 儿童, 平台

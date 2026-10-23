@@ -19,6 +19,6 @@ Mia and Olivia are very good friends. They go on travel together, they go shoppi
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Decorate, Dress Up, Fashion, Fun, Game, Girl, Girls, HTML5

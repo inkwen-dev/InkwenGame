@@ -21,4 +21,4 @@ Pekko Robot is a 2D Sci-fi themed platformer where you play as a robot who have 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Cute, jump, Jumping, Pixel, Platform, Retro, Robot, Science
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Cute, jump, jumping, pixel, Platform, retro, Robot, Science

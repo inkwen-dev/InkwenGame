@@ -21,4 +21,4 @@ You like shooting games and you like stickman games? This game is made for you! 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Gun, Kill, Shoot, Shooting, Stickman, War, weapons
+- Tags: Action, Gun, Kill, Shoot, Shooting, stickman, War, weapons

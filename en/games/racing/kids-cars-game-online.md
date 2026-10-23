@@ -21,4 +21,4 @@ Kids Cars Games is a fun educational game suitable for preschoolers. It can help
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Car, Cute, Educational, Girls, Kids, Matching, Simulation
+- Tags: Boys, Car, Cute, educational, Girls, Kids, Matching, Simulation

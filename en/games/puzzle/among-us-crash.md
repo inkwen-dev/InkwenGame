@@ -19,6 +19,6 @@ Crash among us is the best game ever! Among us: play this game on Y9-games.com a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Funny, Kids, Matching, Puzzle, Skill

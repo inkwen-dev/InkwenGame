@@ -21,4 +21,4 @@ Sofia likes to eat street food. Today she wants to cook some delicious street fo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cooking, Decorate, Educational, Food, Girl, Girls, Kids, Simulation
+- Tags: Cooking, Decorate, educational, Food, Girl, Girls, Kids, Simulation

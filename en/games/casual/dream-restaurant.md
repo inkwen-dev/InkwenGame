@@ -19,6 +19,6 @@ How about building the restaurant of your dreams? The cook is ready for duty at 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Food, Hypercasual, Restaurant
+- Tags: Casual, Food, Hypercasual, restaurant

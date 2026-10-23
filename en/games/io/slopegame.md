@@ -19,6 +19,6 @@ Get ready to defy gravity in the heart-racing Slope Game! Brace yourself for an 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, Ball, free html5 games for your website, Jumping, run, running
+- Tags: .io, 1 Player, Ball, free html5 games for your website, jumping, run, running

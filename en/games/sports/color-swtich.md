@@ -21,4 +21,4 @@ How to Play ● Tap, Tap, Tap to get the ball past each obstacle. ● Follow the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Arcade, Ball, Baseball, Basketball, Collecting, Color, Coloring, Hypercasual
+- Tags: 8 Ball Pool, Arcade, Ball, baseball, basketball, Collecting, Color, Coloring, Hypercasual

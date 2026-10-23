@@ -32,4 +32,4 @@ And that’s not all! Compete with other players, prove your skills on the field
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Robot, Soccer, Sports, world-cup, Zombie
+- Tags: Robot, Soccer, sports, world-cup, Zombie

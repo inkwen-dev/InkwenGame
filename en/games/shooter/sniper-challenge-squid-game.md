@@ -21,4 +21,4 @@ Aim, shoot, and repeat. Take down all failed players as ordered in 456 Sniper Ch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Shoot, Shooting, Sniper
+- Tags: Shoot, Shooting, sniper

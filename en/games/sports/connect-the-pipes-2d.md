@@ -21,4 +21,4 @@ Connect The Pipe or Plumper is the newest puzzle -addictive game. You have to co
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Puzzle, Strategy
+- Tags: Puzzle, strategy

@@ -21,4 +21,4 @@ Join IMPOSTER Battle Z Dragon and defeat many enemies among us The Battle starts
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Dragon Ball Z, Fight, Stickman
+- Tags: battle, Dragon Ball Z, Fight, stickman

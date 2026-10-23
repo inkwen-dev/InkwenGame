@@ -21,4 +21,4 @@ Sponge Jumper is a platformer where you control a sponge facing various challeng
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Best, Fun, Funny, jump, Jumping, Kids, Mobile, Skill
+- Tags: 1 Player, Best, Fun, Funny, jump, jumping, Kids, Mobile, Skill

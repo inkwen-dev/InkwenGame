@@ -31,4 +31,4 @@ In the game you collect resource hexes. There are 6 resources in total: food, wa
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Magic, Management, Mobile
+- Tags: Magic, management, Mobile

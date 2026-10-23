@@ -21,4 +21,4 @@ Halloween Hangman is an educational and casual game that has the function of sti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Fun, Kids, Skill, Word
+- Tags: educational, Fun, Kids, Skill, word

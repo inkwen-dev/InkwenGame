@@ -19,6 +19,6 @@ The prettiest girls Emma, Bonnie, Belle are planning to make them as the trend i
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Boys, Decorate, Decoration, Design, Dora, Dress Up, Girls, Hair, Kids

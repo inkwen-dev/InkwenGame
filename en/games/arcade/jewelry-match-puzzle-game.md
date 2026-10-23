@@ -21,4 +21,4 @@ Dive into the enchanting world of Jewelry Match Puzzle Game, beloved by millions
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Hypercasual, Puzzle, Strategy
+- Tags: Arcade, Casual, Hypercasual, Puzzle, strategy

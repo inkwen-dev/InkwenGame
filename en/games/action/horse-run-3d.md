@@ -19,6 +19,6 @@ Horse Run 3D is the best free running game where you can meet your new best hors
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, endless, Horse, run, running, subway, Subway Surfers, surfers
+- Tags: Action, endless, horse, run, running, subway, Subway Surfers, surfers

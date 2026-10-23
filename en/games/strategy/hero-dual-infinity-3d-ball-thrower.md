@@ -19,6 +19,6 @@ toss the colored balls into the inflatable rings. The other team will try to do 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Clash, Escape, Police, Retro, Robot, Shooter, Shooting, Simulation, Stickman, Tower Defense
+- Tags: Arcade, Clash, Escape, police, retro, Robot, Shooter, Shooting, Simulation, stickman, Tower Defense

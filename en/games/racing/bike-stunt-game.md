@@ -29,4 +29,4 @@ Bike Stunt Game is a thrilling 2.5D arcade racer where you perform insane tricks
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Bike, dirt-bike, motorbike, Physics, Racing
+- Tags: Arcade, bike, dirt-bike, motorbike, Physics, Racing

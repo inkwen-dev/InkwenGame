@@ -19,6 +19,6 @@ Rule the street racing Underground as you race in the Speed made just for mobile
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, 3D Games, Adventure, Car, drifting, Driving, Race, Racing, Road, Sports
+- Tags: 2025 games, 3D Games, Adventure, Car, drifting, Driving, Race, Racing, Road, sports

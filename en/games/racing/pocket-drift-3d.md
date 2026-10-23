@@ -19,6 +19,6 @@ Pocket Drift is a great time trial racing game where you have to finish crazy cu
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Car, Race, Racing

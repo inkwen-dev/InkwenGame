@@ -21,4 +21,4 @@ Introducing the captivating and addictive Crowd Stack Race 3D, an enthralling ne
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Casual, Collecting, Girl, Kid, running, Simulation, Stickman
+- Tags: 3D, Avoid, Casual, Collecting, Girl, Kid, running, Simulation, stickman

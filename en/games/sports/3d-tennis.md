@@ -19,6 +19,6 @@ Train your game in training mode Defeat your opponent win the match and improve 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Game, Games, Golf, Sport, Sports, Tennis
+- Tags: Game, Games, golf, Sport, sports, Tennis

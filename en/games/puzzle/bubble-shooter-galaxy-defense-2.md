@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Baby, Baby Hazel, Balance, Ball, Ballon, Bubble Shooter, Candy, Classic, Fun, Funny, jump, Jumping, Kid, Kids, Mobile, Shoot, Shoot 'Em Up, Shooter, Shooting, Space, Spaceship
+- Tags: Android, Baby, Baby Hazel, Balance, Ball, Ballon, Bubble Shooter, Candy, Classic, Fun, Funny, jump, jumping, Kid, Kids, Mobile, Shoot, Shoot 'Em Up, Shooter, Shooting, Space, Spaceship

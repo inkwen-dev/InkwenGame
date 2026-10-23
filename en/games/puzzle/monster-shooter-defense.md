@@ -19,6 +19,6 @@ And addictive game to enjoy, especially for the fans of Zuma marble shooting gam
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Best, Bubble, Defense, Match 3, Matching, Mobile, Monster, Shooter, Shooting
+- Tags: Ball, Best, Bubble, Defense, Match 3, Matching, Mobile, monster, Shooter, Shooting

@@ -21,4 +21,4 @@ Mouse click or tap to play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Boys, Fun, Golf, Hypercasual, Kids, Physics, Skill, Sport
+- Tags: Ball, Boys, Fun, golf, Hypercasual, Kids, Physics, Skill, Sport

@@ -21,4 +21,4 @@ Stick Duel series continues with The War episode. Brand new physics, weapons and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, Arena, Battle, Battlegrounds, Shooting, Stickman, War
+- Tags: 2 Player, 2 Player Games, 3D, Arena, battle, Battlegrounds, Shooting, stickman, War

@@ -19,6 +19,6 @@ The player controls the ship, shooting laser to enemies, launching homing missil
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Android, HTML5, iPad, iPhone, Mobile, Shoot 'Em Up, Side Scrolling, Space

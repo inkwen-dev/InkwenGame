@@ -21,4 +21,4 @@ elive the retro arcade thrill with a modern twist! Classic Snake Pro brings back
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Best Games, Classic, Snake
+- Tags: 2D, Best Games, Classic, snake

@@ -19,6 +19,6 @@ You do not have much time in front of you and you don’t want to get in a game 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Avoid, Pixel, Racing
+- Tags: Arcade, Avoid, pixel, Racing

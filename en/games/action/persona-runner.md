@@ -19,6 +19,6 @@ Persona Runner is a high-speed adventure game where players navigate a futuristi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Girls, HTML5, iPad, iPhone, Mobile, Unity3D, WebGL

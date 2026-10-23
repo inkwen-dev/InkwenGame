@@ -21,4 +21,4 @@ Word Connect game that combines the best of word searches, crossword puzzles and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Arcade, Best, Boys, Brain, Educational, Games, Girls, Hot, Kids, New, Online, Puzzle, Soccer, Sword
+- Tags: .io Games, Arcade, Best, Boys, Brain, educational, Games, Girls, Hot, Kids, New, Online, Puzzle, Soccer, sword

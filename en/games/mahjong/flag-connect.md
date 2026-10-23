@@ -19,6 +19,6 @@ In this you need to eliminate all the tiles appearing on the board. You can conn
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Fun, HTML5, Mahjong, Matching, Mobile, Puzzle
+- Tags: Arcade, Fun, HTML5, mahjong, Matching, Mobile, Puzzle

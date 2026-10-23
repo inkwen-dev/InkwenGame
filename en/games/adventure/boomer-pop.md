@@ -19,6 +19,6 @@ Get Bomber Friends now and join the immensely hectic and fun online multiplayer 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Casual, Hypercasual

@@ -19,6 +19,6 @@ Embark on an epic journey with Road Train Truck Driving, a game that redefines t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Level, Levels, Mentolatux, Truck, Unity3D, WebGL
+- Tags: Driving, Level, Levels, Mentolatux, truck, Unity3D, WebGL

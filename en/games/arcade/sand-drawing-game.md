@@ -21,4 +21,4 @@ Après seulement quelques minutes, vous ne pourrez plus vous arrêter! Le result
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Drawing, Girls, Kids
+- Tags: Boys, drawing, Girls, Kids

@@ -19,6 +19,6 @@ Everything you want is in the Cash Frenzy! TOP FREE casino slots games 2021 will
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Board, Card, Casino, Machine, Slot Machine
+- Tags: 2D, Board, card, Casino, Machine, Slot Machine

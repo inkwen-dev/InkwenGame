@@ -21,4 +21,4 @@ Turquoise Blocks is a game in wich you must drag the pieces to the grid to fill 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Bejeweled, Block, Jewel
+- Tags: 1 Player, 2D, Bejeweled, block, Jewel

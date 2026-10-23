@@ -19,6 +19,6 @@ There isn’t much time! Are you ready to fight evil and save the world in Teena
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Anime, Cartoon, Cartoon Network, Disney, Guessing, Gun, HTML5, Kids, Memory, Ninja
+- Tags: 2D, Adventure, Anime, Cartoon, Cartoon Network, Disney, Guessing, Gun, HTML5, Kids, memory, ninja

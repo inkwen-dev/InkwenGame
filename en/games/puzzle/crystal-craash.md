@@ -21,4 +21,4 @@ Crystal Crush is an addictive gem merge puzzle! Tap groups of 3 or more matching
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ai Games, Block, Brain, free html5 games for your website, mapi games, Puzzle, puzzleblock
+- Tags: Ai Games, block, Brain, free html5 games for your website, mapi games, Puzzle, puzzleblock

@@ -21,4 +21,4 @@ W A S D - 移动 右键 - 建造 左键 - 破坏 e - 背包 ESC - 关闭菜单�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 方块, 手工, 制作, 矿井, Minecraft
+- 标签: 方块, 建造, 制作, 挖掘, 我的世界

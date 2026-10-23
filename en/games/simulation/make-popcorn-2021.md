@@ -19,6 +19,6 @@ Don’t be left holding the Popcorn when it Pops! Popcorn Poppin’ is a fast an
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Boy, Boys, Cook, Cooking, Cool, Girl, Girls
+- Tags: 8 Ball Pool, Boy, Boys, Cook, Cooking, cool, Girl, Girls

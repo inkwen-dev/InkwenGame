@@ -19,6 +19,6 @@ People who get hungry on the beach come to your restaurant! You must complete cu
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Burger, Cake, Cooking, Food, Holiday, HTML5, Island, Restaurant, Summer, WebGL
+- Tags: Best, Burger, Cake, Cooking, Food, Holiday, HTML5, Island, restaurant, Summer, WebGL

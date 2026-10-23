@@ -21,4 +21,4 @@ The princess is about to have a wedding with the prince, but before the royal we
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cleaning, Decorate, Design, Educational, Girl, Girls, Kids, Love, Princess, Simulation
+- Tags: Cleaning, Decorate, Design, educational, Girl, Girls, Kids, Love, Princess, Simulation

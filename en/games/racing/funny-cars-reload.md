@@ -21,4 +21,4 @@ Funny Cars Reload &ndash; Cartoon Racing Adventure Get ready for a fun and excit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Cars, Cartoon, Racing, Truck, Unity3D, vehicle, WebGL
+- Tags: 1 Player, 3D, Cars, Cartoon, Racing, truck, Unity3D, vehicle, WebGL

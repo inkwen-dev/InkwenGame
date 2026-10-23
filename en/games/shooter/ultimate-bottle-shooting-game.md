@@ -21,4 +21,4 @@ Pick your favorite gun from weapon store and aim at bottles to shoot flipping bo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Arena, Battle, Gun, Shooter
+- Tags: Android, Arcade, Arena, battle, Gun, Shooter

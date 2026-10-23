@@ -21,4 +21,4 @@ You are a tactical squad member and you're assigned with eliminating the target 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Shooting, Sniper
+- Tags: Action, Shooting, sniper

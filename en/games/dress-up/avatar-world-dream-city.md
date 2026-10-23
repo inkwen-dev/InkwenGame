@@ -19,6 +19,6 @@ Welcome to Avatar World: Dream City, where creativity and imagination come to li
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Creation, Dress Up, Educational
+- Tags: Creation, Dress Up, educational

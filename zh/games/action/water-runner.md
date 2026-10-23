@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 人, 3D, 3D游戏, 休闲, 无尽, 乐趣, 搞笑, 游戏, 游戏, WebGL
+- 标签: 单人, 3D, 3D游戏, 休闲, 无尽, 有趣, 搞笑, 游戏, 网页游戏, WebGL

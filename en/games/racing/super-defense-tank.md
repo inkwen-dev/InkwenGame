@@ -21,4 +21,4 @@ Super Defense Tank is a challenging game with all the essence of 90's Arcades! E
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Battle, Kids, Race, Racing, Shoot, Skills, Tanks, War
+- Tags: Adventure, battle, Kids, Race, Racing, Shoot, Skills, tanks, War

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 女生, HTML, HTML5, 宝石, 儿童, 美甲, 公主
+- 标签: 女孩, HTML, HTML5, 宝石, 儿童, 美甲, 公主

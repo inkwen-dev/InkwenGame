@@ -19,6 +19,6 @@ Welcome to Valentines Love Link! Connect matching Valentines items with straight
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Highscore, Mahjong, Matching, Skill, valentine, valentines
+- Tags: Highscore, mahjong, Matching, Skill, valentine, valentines

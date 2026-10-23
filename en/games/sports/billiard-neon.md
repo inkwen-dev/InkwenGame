@@ -19,6 +19,6 @@ Billiard Neon is a fun game of billiards. Try to hit all the balls in the hole, 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 8 Ball Pool, Ball, Hypercasual, Physics, Pool, Sports
+- Tags: 2 Player, 8 Ball Pool, Ball, Hypercasual, Physics, pool, sports

@@ -19,6 +19,6 @@ Bomber Battle Arena is an exciting 3D collecting game that lets you play as a bo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arena, Battle, Bomb, Collecting, Maze, Monster
+- Tags: Arena, battle, Bomb, Collecting, Maze, monster

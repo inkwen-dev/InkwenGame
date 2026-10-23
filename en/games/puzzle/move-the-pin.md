@@ -19,6 +19,6 @@ Move The Pin is interesting physics game - this is a game where you need to push
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, HTML5, Kids, Mobile, Physics, Puzzle, Skill

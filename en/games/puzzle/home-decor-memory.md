@@ -19,6 +19,6 @@ Click a card to reveal the home decorative item on it. Memorize it so that you c
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Decorate, Girls, HTML5, Memory, Mobile, Puzzle
+- Tags: Decorate, Girls, HTML5, memory, Mobile, Puzzle

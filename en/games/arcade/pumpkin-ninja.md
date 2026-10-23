@@ -21,4 +21,4 @@ Pumpkin Ninja is a fast and addictive Halloween arcade game! Slice flying pumpki
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Casual, free html5 games for your website, Halloween, Ninja, Skill, Slicing
+- Tags: Action, Arcade, Casual, free html5 games for your website, Halloween, ninja, Skill, Slicing

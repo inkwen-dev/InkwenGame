@@ -19,6 +19,6 @@ The classic card game Cassino also known as Casino. The rules are simple, but th
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casino
+- Tags: card, Casino

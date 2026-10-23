@@ -21,4 +21,4 @@ Limax.io is a funny io game where you need to grow fatter and fatter. Kill other
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Game, Multiplayer, PvP, Worm
+- Tags: Casual, Game, Multiplayer, PvP, worm

@@ -21,4 +21,4 @@ Crossbow Sniper is a fun action game where you are a crossbow shooter in ancient
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mobile, Sniper
+- Tags: Mobile, sniper

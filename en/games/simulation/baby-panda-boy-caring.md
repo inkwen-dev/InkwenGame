@@ -19,6 +19,6 @@ Baby Panda Boy Caring is a very popular caring game. Baby panda boy needs your h
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Boy, Boys, Cook, Cooking, Cute, Educational, Fun, Girl, Girls, Grooming, HTML5, Kids, Mobile, Panda
+- Tags: Animal, Baby, Boy, Boys, Cook, Cooking, Cute, educational, Fun, Girl, Girls, Grooming, HTML5, Kids, Mobile, Panda

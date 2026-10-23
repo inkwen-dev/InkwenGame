@@ -25,4 +25,4 @@ Lana Whitt is waiting for your help in investigating the crimes that have shaken
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Solitaire
+- Tags: Adventure, solitaire

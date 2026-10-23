@@ -21,4 +21,4 @@ Touch in the screen, drag and release to throw the ball. The goal is throw the b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Ball, Basketball, Casual, Highscore, Kids, Platform, Sport, Sports
+- Tags: 1 Player, Ball, basketball, Casual, Highscore, Kids, Platform, Sport, sports

@@ -19,6 +19,6 @@ This is a typical puzzle game that helps train your eyes and brain. It is the "H
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Block, Brain, Hot, HTML, HTML5, Hypercasual, Mind, Puzzle
+- Tags: Best, block, Brain, Hot, HTML, HTML5, Hypercasual, Mind, Puzzle

@@ -21,4 +21,4 @@ Smash The Office is a free online casual game for boys played on PuzzleGame. In 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Boys, Brain, Drawing, Escape, Fun, HTML5, Kids, Obstacle, Online, Puzzle
+- Tags: 3D, Android, Boys, Brain, drawing, Escape, Fun, HTML5, Kids, Obstacle, Online, Puzzle

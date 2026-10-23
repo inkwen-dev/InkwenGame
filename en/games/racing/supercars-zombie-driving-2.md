@@ -19,6 +19,6 @@ Supercars Zombie Driving 2 features fastest supercars and zombie crowded city wh
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Car, Cars, Driving, Race, Racing, Simulation, Simulator, Supercars, Unity3D, WebGL, Zombie

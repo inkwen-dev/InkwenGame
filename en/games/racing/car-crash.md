@@ -19,6 +19,6 @@ We have developed an excellent Offroad Danger Road Simulator game for adventure 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Adventure, Arcade, Battle, Car, Cars, Casual, Clash, Color, Driving, Fight
+- Tags: .io, .io Games, Action, Adventure, Arcade, battle, Car, Cars, Casual, Clash, Color, Driving, Fight

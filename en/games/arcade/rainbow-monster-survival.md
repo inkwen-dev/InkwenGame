@@ -21,4 +21,4 @@ Rainbow Monster Survival is a thrilling horror survival game where you must esca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 3D Games, Action, Adventure, Casual, Escape, Game, Horror, Monster, Stealth, survival
+- Tags: 2026 games, 3D Games, Action, Adventure, Casual, Escape, Game, Horror, monster, Stealth, survival

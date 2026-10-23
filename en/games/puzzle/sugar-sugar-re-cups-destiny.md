@@ -19,6 +19,6 @@ Attract with your finger on the screen to route enough sugar in all the cups in 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Best, Brain, Crazy, HTML5, Mobile, Puzzle, Skill, WebGL
+- Tags: Android, Best, Brain, crazy, HTML5, Mobile, Puzzle, Skill, WebGL

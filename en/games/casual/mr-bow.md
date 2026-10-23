@@ -21,4 +21,4 @@ Become the legendary archer master and destroy the evil enemy archers. Choose yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bow, Boys, Girls, Kids, Stickman
+- Tags: Bow, Boys, Girls, Kids, stickman

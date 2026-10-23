@@ -21,4 +21,4 @@ Snake Fusion Arena is a fun arcade snake game with a unique fusion twist. Before
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Arcade, Arena, dino, Slither, Snake, survival
+- Tags: .io, Arcade, Arena, dino, Slither, snake, survival

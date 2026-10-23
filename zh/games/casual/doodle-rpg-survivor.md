@@ -31,4 +31,4 @@
 - 可玩设备: desktop
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 角色扮演
+- 标签: rpg

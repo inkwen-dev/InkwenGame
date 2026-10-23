@@ -21,4 +21,4 @@ Large Medium Small it is a very fun game for children. Your objective is to plac
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Boys, Brain, Difference, Educational, Fun, Funny, Girls, Kid, Kids, Train
+- Tags: Animal, Boys, Brain, Difference, educational, Fun, Funny, Girls, Kid, Kids, Train

@@ -21,4 +21,4 @@ Happy Filled Glass is a free online puzzle game for boys played on a puzzle game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Avoid, Boy, Brain, Drawing, Fun, HTML5, Kids, Obstacle, Online, Puzzle, Skill
+- Tags: 3D, Android, Avoid, Boy, Brain, drawing, Fun, HTML5, Kids, Obstacle, Online, Puzzle, Skill

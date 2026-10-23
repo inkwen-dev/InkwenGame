@@ -21,4 +21,4 @@ From now on, you are the manager of the supermarket in baby panda's town! You ca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Boy, Boys, Business, Educational, Fun, Girl, Girls, H5, HTML5
+- Tags: 1 Player, Animal, Boy, Boys, Business, educational, Fun, Girl, Girls, H5, HTML5

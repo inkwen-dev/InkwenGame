@@ -21,4 +21,4 @@ You are trapped in sewer. Find and collect 8 Notes and get out. It wont be easy 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collecting, Escape, Monster, Shooting, weapons
+- Tags: Collecting, Escape, monster, Shooting, weapons

@@ -25,4 +25,4 @@ Agent Sniper City is a high-stakes sniper game where you step into the role of a
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: Action, First Person Shooter, Gun, Mouse, popular, Shooting, Simulation, Sniper
+- Tags: Action, First Person Shooter, Gun, Mouse, popular, Shooting, Simulation, sniper

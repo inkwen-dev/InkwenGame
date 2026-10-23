@@ -19,6 +19,6 @@ Simply Filling Happy Glass with Draw Lines, Make a Crow Happy Try to find the 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Click, Draw, Games, Girls, HTML, HTML5

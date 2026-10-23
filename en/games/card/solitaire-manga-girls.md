@@ -21,4 +21,4 @@ Play smartly to unlock the most pretty and sexy girls in the game SOLITAIRE MANG
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Card, Casual, Hypercasual, Solitaire
+- Tags: Adult, card, Casual, Hypercasual, solitaire

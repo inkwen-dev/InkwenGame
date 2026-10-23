@@ -19,6 +19,6 @@ Flip Master is trying to reach it's bed by jumping from the furniture in the hou
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Hypercasual, jump, Jumping, Simulation, Skill, Sport, Sports, WebGL
+- Tags: 3D, Hypercasual, jump, jumping, Simulation, Skill, Sport, sports, WebGL

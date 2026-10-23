@@ -21,4 +21,4 @@ Drop &amp; Merge 2048 combines the satisfying strategy of 2048 with fast paced f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2048, amazing, Arcade, Block, Brain, Casual, Color, endless, Hypercasual, Logic, Tetris
+- Tags: 1 Player, 2048, amazing, Arcade, block, Brain, Casual, Color, endless, Hypercasual, Logic, tetris

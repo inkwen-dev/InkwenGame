@@ -21,4 +21,4 @@ We mostly see trucks in yellow and black. What if the trucks were in other color
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Kids, Mobile, Truck
+- Tags: Color, Coloring, Kids, Mobile, truck

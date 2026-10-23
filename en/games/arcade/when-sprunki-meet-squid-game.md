@@ -19,6 +19,6 @@ Sprunki X Squid Game Incredibox is an exciting and creative mash-up concept that
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Sprunki

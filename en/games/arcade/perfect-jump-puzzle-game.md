@@ -19,6 +19,6 @@ Welcome to Perfect Jump, the ultimate reflex and timing challenge! Set off on a 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Arcade, free html5 games for your website, HTML, HTML5, html5 games, html5 games for your site, Hypercasual, Puzzle

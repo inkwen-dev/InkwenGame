@@ -19,6 +19,6 @@ Roller Ball 4 Adventure : Ball Hero Volume 3 is the third installment to the hit
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Ball, Red

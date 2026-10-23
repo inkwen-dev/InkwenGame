@@ -21,4 +21,4 @@ CANDY SHOP : SWEETS MAKER is a fun puzzle game where you need to fix a candies p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Candy, Casual, Food, Girl, Management
+- Tags: Candy, Casual, Food, Girl, management

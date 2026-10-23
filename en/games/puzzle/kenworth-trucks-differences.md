@@ -21,4 +21,4 @@ Kenworth Trucks Differences is puzzle game where you need to find seven differen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Difference, Puzzle, Truck
+- Tags: Difference, Puzzle, truck

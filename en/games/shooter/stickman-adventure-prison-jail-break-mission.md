@@ -21,4 +21,4 @@ Stickman Adventure: Prison Jail Break Mission is a league of legendary stickman 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boys, Escape, Fighting, HTML5, Prison, Shooting, Stickman, WebGL
+- Tags: 3D, Boys, Escape, fighting, HTML5, Prison, Shooting, stickman, WebGL

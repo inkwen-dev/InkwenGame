@@ -21,4 +21,4 @@ Tank Spin is a shooting game with levels. Your goal is to keep only one tank. Af
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fire, Gun, Killing, Mobile, Puzzle, Shoot, Shooter, Shooting, Tank, Tanks
+- Tags: Fire, Gun, Killing, Mobile, Puzzle, Shoot, Shooter, Shooting, Tank, tanks

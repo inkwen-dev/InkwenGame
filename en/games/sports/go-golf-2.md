@@ -15,6 +15,6 @@ Master your swing in Go Golf, a thrilling puzzle of precision and strategy. Navi
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Golf
+- Tags: golf

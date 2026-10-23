@@ -19,6 +19,6 @@ Begin an exciting survival adventure in Survival On Raft: Multiplayer. Have an a
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Food, Multiplayer, Simulation, survival

@@ -19,6 +19,6 @@ Dive into an exciting strategy game! You will find a map divided into segments, 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, amazing, Battle, Castle, Casual, Dragon, free html5 games for your website, Levels, Magic, unity, War, Warrior, Wizard
+- Tags: 1 Player, 3D, amazing, battle, Castle, Casual, Dragon, free html5 games for your website, Levels, Magic, unity, War, Warrior, Wizard

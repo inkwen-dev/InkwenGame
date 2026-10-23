@@ -19,6 +19,6 @@ Up to 456 players Welcome to Squid Game. Welcome to a fair game of Red lights, g
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, 8 Ball Pool, Action, Adventure, Alien, Android, Anime, Baby, Baby Hazel, Ball, Basketball, Battle, Battlegrounds, Car, Cartoon Network, House, Pool
+- Tags: 3D, 3D Games, 8 Ball Pool, Action, Adventure, Alien, Android, Anime, Baby, Baby Hazel, Ball, basketball, battle, Battlegrounds, Car, Cartoon Network, House, pool

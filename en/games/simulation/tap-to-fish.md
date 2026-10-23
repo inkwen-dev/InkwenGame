@@ -19,6 +19,6 @@ Cast your line, reel in the rewards, and grow your fishing empire! In Tap to Fis
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Arcade, Casual, Fish, Fishing, free html5 games for your website, Fun, Simulator, water

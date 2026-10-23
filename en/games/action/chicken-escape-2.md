@@ -19,6 +19,6 @@ Its possible now to play Miraculous Memory Match Up game in your web browser for
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Animal, Arcade, Avoid, Baby, Ben 10, Boys, Brain, Casual, Chicken, Christmas, Easter, Escape, Farm, Fun, Girls, HTML, HTML5, Hypercasual, Kids, Mobile, running, Skills

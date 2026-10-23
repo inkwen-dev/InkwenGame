@@ -21,4 +21,4 @@ PC W A S D &ndash; 行走移动 按住右键鼠标 移动鼠标 &ndash; 四周�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 人游戏, 3D, 男孩们, 免费网站游戏, 跳跃, 弹跳, 移动设备, 障碍, 平台, roblox, 跑, 跑步, 适用于您网站的unity游戏, WebGL
+- 标签: 单人, 3D, 男孩们, 免费游戏供您的网站使用, 跳跃, 跳跃, 移动设备, 障碍, 平台, Roblox, 跑, 奔跑, 适用于您网站的 unity 游戏, WebGL

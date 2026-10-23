@@ -21,4 +21,4 @@ First HTML5 tank game with real multiplayer. Good old deathmatch mode. Endless r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, MMO, Multiplayer, Tank, Tanks
+- Tags: .io, .io Games, MMO, Multiplayer, Tank, tanks

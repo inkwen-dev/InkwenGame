@@ -19,6 +19,6 @@ Swerve is a great Driving game. You can play this game here at my1001games.com t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Car, Cars, Click, Clicker, Highscore, Hot, HTML, HTML5, Race, Racing

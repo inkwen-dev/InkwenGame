@@ -21,4 +21,4 @@ Pet run adventure is a great animal racing game with crazy pet run simulator for
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Family, Fantasy, HTML, HTML5, Hypercasual, Physics, run, Strategy
+- Tags: Family, Fantasy, HTML, HTML5, Hypercasual, Physics, run, strategy

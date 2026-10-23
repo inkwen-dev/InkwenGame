@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, 对战, 汽车, HTML5, 多人
+- 标签: .io, 战斗, 汽车, HTML5, 多人

@@ -19,6 +19,6 @@ This bug have no fear, he always look dangers in the face and keep on crying so 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Family, House, HTML, HTML5, jump, Jumping, Kids, Ladybug, Physics, Puzzle
+- Tags: 2D, Family, House, HTML, HTML5, jump, jumping, Kids, Ladybug, Physics, Puzzle

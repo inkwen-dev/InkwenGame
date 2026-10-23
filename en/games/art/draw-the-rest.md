@@ -19,6 +19,6 @@ Draw The Rest is fun game which will make you feel genius and talented artist! D
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Draw, Drawing, Fun, Girls, Kid, Kids
+- Tags: Color, Coloring, Draw, drawing, Fun, Girls, Kid, Kids

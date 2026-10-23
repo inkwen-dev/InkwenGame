@@ -19,6 +19,6 @@ Unpark Me is a challenging and addictive puzzle game. Help get your car out of m
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Game, Games, HTML, HTML5, Logic, Logical, Parking, Puzzle
+- Tags: Car, Game, Games, HTML, HTML5, Logic, Logical, parking, Puzzle

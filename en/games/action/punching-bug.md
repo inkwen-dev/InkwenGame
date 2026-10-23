@@ -19,6 +19,6 @@ Punching Bug is a high intensity fighting game that takes place on the battlefie
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Android, Fight, Fighting, HTML, HTML5, Hypercasual, Punch, Street Fighting
+- Tags: Action, Android, Fight, fighting, HTML, HTML5, Hypercasual, Punch, Street Fighting

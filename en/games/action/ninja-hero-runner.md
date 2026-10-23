@@ -21,4 +21,4 @@ Ninja Hero Runner is really interesting game to play. In the game you are ninja 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Kids, Mobile, Ninja, Puzzle, Skill
+- Tags: Fun, HTML5, Kids, Mobile, ninja, Puzzle, Skill

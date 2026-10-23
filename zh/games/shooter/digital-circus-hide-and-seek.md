@@ -21,4 +21,4 @@ WASD - 移动 鼠标 - 观察四周 左移键 - 快跑 空格键 - 跳跃 在手
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 马戏团, 数字马戏团, 第一人称射击, fps, 隐藏, 恐怖, HTML5, iPad, iPhone, 移动设备, 跑
+- 标签: 安卓, 马戏团, 数字马戏团, 第一人称射击, fps, 隐藏, 恐怖, HTML5, iPad, iPhone, 移动设备, 跑

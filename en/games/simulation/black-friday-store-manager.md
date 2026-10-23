@@ -19,6 +19,6 @@ Build your dream clothing store in the Black Friday Store Manager game! Buy new 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Business, Casual, Girls, HTML5, Management, Shopping, Simulation
+- Tags: 3D, Business, Casual, Girls, HTML5, management, Shopping, Simulation

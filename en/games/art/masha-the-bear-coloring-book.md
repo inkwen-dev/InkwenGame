@@ -21,4 +21,4 @@ Masha & the Bear Coloring Book has a lot of unique pictures hand drawn about Mas
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cartoon, Color, Coloring, Draw, Drawing, Girls, Red
+- Tags: Boys, Cartoon, Color, Coloring, Draw, drawing, Girls, Red

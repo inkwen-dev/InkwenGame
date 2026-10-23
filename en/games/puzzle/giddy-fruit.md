@@ -21,4 +21,4 @@ It’s Giddy Fruit the hottest game on the charts at the moment! Tap To Match Th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Cute, endless, Family, Fruit, Fruits, Girls, HTML, HTML5, Kids, Memory, Mobile, Puzzle
+- Tags: Brain, Casual, Cute, endless, Family, Fruit, Fruits, Girls, HTML, HTML5, Kids, memory, Mobile, Puzzle

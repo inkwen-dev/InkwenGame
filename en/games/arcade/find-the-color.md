@@ -19,6 +19,6 @@ Discover and learn colors! A fun, interactive game for kids to explore and ident
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Games, Best Games, Educational, Game, Games, Kid, Kids, NapTech Games, Online, Puzzle
+- Tags: Baby Games, Best Games, educational, Game, Games, Kid, Kids, NapTech Games, Online, Puzzle

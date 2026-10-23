@@ -21,4 +21,4 @@ An evil monster wants to eat you. Knock out all his teeth with a hammer. You wil
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Boys, Clicker, Crazy, Girls, Logic, Match 3, Matching, Monster, Tetris
+- Tags: Baby, Boys, Clicker, crazy, Girls, Logic, Match 3, Matching, monster, tetris

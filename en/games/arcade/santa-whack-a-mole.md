@@ -19,6 +19,6 @@ This is a fun and exciting game for you, your friends, and your family! Get read
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Christmas, Santa, Santa Claus, Whack

@@ -21,4 +21,4 @@ Dive into the clever world of Screw Sort-Pin Puzzle, where logic and strategy co
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Color, Strategy
+- Tags: Avoid, Color, strategy

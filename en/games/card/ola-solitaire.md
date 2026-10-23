@@ -21,4 +21,4 @@ Ola! Solitaire brings classic Klondike gameplay together with clear rules, large
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, cards, Classic, Logic, Puzzle, Solitaire
+- Tags: Arcade, cards, Classic, Logic, Puzzle, solitaire

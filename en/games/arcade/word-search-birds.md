@@ -21,4 +21,4 @@ Find the word in straight line of blocks (Horizontally, vertically or diagonally
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bird, Educational, HTML5, Mobile, Puzzle, School, Word
+- Tags: Arcade, Bird, educational, HTML5, Mobile, Puzzle, School, word

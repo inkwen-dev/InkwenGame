@@ -21,4 +21,4 @@ Hatchling Heroes Arena is a fast and fun arena battle game where your fighters a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arena, Battle, Casual, egg, Skills
+- Tags: 3D, Arena, battle, Casual, egg, Skills

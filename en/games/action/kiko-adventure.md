@@ -19,6 +19,6 @@ Kiko Adventure is adventure platformer games on HTML5, If you enjoy platform gam
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Fun, Mario, run, running
+- Tags: 2D, Fun, mario, run, running

@@ -21,4 +21,4 @@ An addicted running game, simple to control, nice design, fun and relax-able. Ta
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Best, Casual, Fun, jump, Jumping, Mobile, Relaxation, run, running
+- Tags: Action, Best, Casual, Fun, jump, jumping, Mobile, Relaxation, run, running

@@ -21,4 +21,4 @@ Experience fast action as Mario in this retro-style pixel endless runner! Grab a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Avoid, Collecting, endless, Highscore, jump, Jumping, Mario, Pixel, Retro, run, Super
+- Tags: 1 Player, 2D, Avoid, Collecting, endless, Highscore, jump, jumping, mario, pixel, retro, run, Super

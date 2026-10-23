@@ -19,6 +19,6 @@ Stair Run Online is an adventure running game. You need to collect bricks. Build
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Arcade, Avoid, Block, Boy, Boys, Bricks, Collecting, Collection, Game, Games, Highscore, Kid, Kids, Obstacle, run, running, Skill, Skills
+- Tags: 1 Player, 3D Games, Arcade, Avoid, block, Boy, Boys, Bricks, Collecting, Collection, Game, Games, Highscore, Kid, Kids, Obstacle, run, running, Skill, Skills

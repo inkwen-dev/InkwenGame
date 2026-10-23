@@ -19,6 +19,6 @@ Weapons at the ready, and away we go! This is Angle Fight 3D, and it&rsquo;s to 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Fight, Fighting, Kill, Skill, Sword
+- Tags: 1 Player, Action, Adventure, Fight, fighting, Kill, Skill, sword

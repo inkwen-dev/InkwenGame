@@ -19,6 +19,6 @@ Gear up for the ultimate racing adventure! Real Car Highway Racing Offline Game 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Best Games, Car, Race, Racing, Supercars

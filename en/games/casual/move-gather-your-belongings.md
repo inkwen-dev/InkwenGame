@@ -15,6 +15,6 @@ Dive into a whimsical world where packing becomes a strategic puzzle! Assist vib
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Tetris
+- Tags: tetris

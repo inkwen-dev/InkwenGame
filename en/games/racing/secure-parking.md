@@ -21,4 +21,4 @@ Starting with the first level, you have to go driving courses, of varying diffic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Car, Cars, Driving, Fun, HTML5, Parking, Skill
+- Tags: Best, Car, Cars, Driving, Fun, HTML5, parking, Skill

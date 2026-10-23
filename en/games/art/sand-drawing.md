@@ -21,4 +21,4 @@ Summer is coming! Do you enjoy sand drawing? If so, let’s be creative! Feature
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Draw, Drawing, WebGL
+- Tags: Draw, drawing, WebGL

@@ -19,6 +19,6 @@ In this math parking game, drive the car towards asked parking slot. You need to
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Educational, HTML5, Math, Mobile, Parking, Puzzle, School, Sports
+- Tags: Car, educational, HTML5, math, Mobile, parking, Puzzle, School, sports

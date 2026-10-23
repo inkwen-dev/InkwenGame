@@ -21,4 +21,4 @@ Welcome to Archery Shooter Range, the ultimate web game for archery enthusiasts.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, arrows, Casual, Puzzle, Shooting, Strategy
+- Tags: 1 Player, Adventure, arrows, Casual, Puzzle, Shooting, strategy

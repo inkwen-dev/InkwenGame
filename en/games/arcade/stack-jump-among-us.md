@@ -19,6 +19,6 @@ Yo boys Stack Jump and Among us Stack Jump Among us game online in HTML5! How hi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Block, Click, jump, Jumping
+- Tags: Adventure, Arcade, block, Click, jump, jumping

@@ -15,6 +15,6 @@ Leap into the high-tech world of Kazu Bot 2, a thrilling 2D sci-fi platformer wh
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

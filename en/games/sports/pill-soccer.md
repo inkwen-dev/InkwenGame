@@ -19,6 +19,6 @@ Get ready for the most challenging soccer matches with Pill Soccer. Play against
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Football, Soccer, Sport

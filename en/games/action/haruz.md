@@ -21,4 +21,4 @@ Haruz is a 2D simple platformer where you need to collect silver coins while avo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Pixel, Platform, Retro, Robot, Science
+- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, pixel, Platform, retro, Robot, Science

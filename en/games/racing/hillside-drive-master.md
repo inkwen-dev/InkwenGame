@@ -21,4 +21,4 @@ Embark on an exhilarating 3D truck delivery adventure with Hillside Drive Master
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Balance, Boys, Car, Collecting, Kid, Simulation, Truck
+- Tags: 3D, Avoid, Balance, Boys, Car, Collecting, Kid, Simulation, truck

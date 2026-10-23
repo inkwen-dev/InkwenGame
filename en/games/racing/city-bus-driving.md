@@ -21,4 +21,4 @@ Here is a hard-core bus transport simulation game. With 3D models in a modern ci
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, bus, Car, city, Driving, HTML5, Mobile, Parking, Simulation
+- Tags: 3D, bus, Car, city, Driving, HTML5, Mobile, parking, Simulation

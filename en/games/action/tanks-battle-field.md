@@ -17,4 +17,4 @@ Command your customizable tank squad in intense 2D battles where strategic decis
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Tanks
+- Tags: tanks

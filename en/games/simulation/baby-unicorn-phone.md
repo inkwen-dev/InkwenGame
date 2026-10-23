@@ -21,4 +21,4 @@ Do you love unicorns? Do you want to care for a unicorn? If you want to do so, o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Simulation
+- Tags: educational, Simulation

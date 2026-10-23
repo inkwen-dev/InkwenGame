@@ -21,4 +21,4 @@ Beat Bugs 涂色是一款包含热门卡通角色 Beat Bugs 的益智涂色游�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 卡通, 涂色, 儿童, 益智类
+- 标签: 卡通, 着色, 儿童, 益智

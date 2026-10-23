@@ -21,4 +21,4 @@ Have you ever played real-world soccer games penalty on your android device? A m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Football, Soccer, Sports
+- Tags: 1 Player, Adventure, Football, Soccer, sports

@@ -19,6 +19,6 @@ In this game, players become street food chefs and embark on a delicious culinar
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cooking, Cute, Food, Fruit, Fun, Girls, HTML5, Kids, Mobile

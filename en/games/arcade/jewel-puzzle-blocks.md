@@ -19,6 +19,6 @@ Do you love the style of the Tetris game? If yes, this game is dedicated to you.
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Brain, Casual, HTML5, Jewel, Mobile

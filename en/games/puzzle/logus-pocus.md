@@ -21,4 +21,4 @@ Collect golds and try to reach the gate, you can jump onto spikes to make yourse
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Brain, Pixel, Puzzle
+- Tags: 1 Player, Brain, pixel, Puzzle

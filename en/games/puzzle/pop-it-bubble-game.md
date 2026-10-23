@@ -19,6 +19,6 @@ When I was young, I really liked to pop the bubble papers. Pop It Bubble Game is
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Boy, Bubble, Casual, Kid, Relaxation

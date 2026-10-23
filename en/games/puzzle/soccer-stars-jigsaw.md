@@ -21,4 +21,4 @@ Soccer Stars Jigsaw is a fun online puzzle game. Drag the pieces into right posi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Football, Fun, Hypercasual, Jigsaw, Kids, Mobile, Skill, Soccer, Sport, Sports
+- Tags: Casual, Football, Fun, Hypercasual, Jigsaw, Kids, Mobile, Skill, Soccer, Sport, sports

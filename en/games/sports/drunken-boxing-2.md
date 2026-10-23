@@ -19,6 +19,6 @@ Drunken Boxing fun continues with its 2nd game. Now the characters and the field
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Action, Boxing, Fun, Funny, Sport

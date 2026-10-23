@@ -21,4 +21,4 @@ Gumball and Friends Memory is a free online game from genre of memory and kids g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Fun, Kids, Memory, Puzzle, Skill
+- Tags: Animal, Fun, Kids, memory, Puzzle, Skill

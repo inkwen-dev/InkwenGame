@@ -19,6 +19,6 @@ Fall Jack is a captivating Halloween-themed game where the world revolves around
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Family, Halloween, HTML5, mapi games, Monster, Physics, Puzzle
+- Tags: Family, Halloween, HTML5, mapi games, monster, Physics, Puzzle

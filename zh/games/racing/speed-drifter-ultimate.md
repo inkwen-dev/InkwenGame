@@ -21,4 +21,4 @@ AD 或 左右箭头键移动
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, Android, 躲避, 汽车, 收集, 赛车, 射击
+- 标签: 3D, 安卓, 躲避, 汽车, 收集, 竞速, 射击

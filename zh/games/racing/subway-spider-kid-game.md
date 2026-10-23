@@ -21,4 +21,4 @@ W 上箭头 rarr 前进 S 下箭头 rarr 后退 A 左箭头 rarr 左移 D 右箭
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2026年游戏, 冒险, 惊人, 休闲, 搞笑
+- 标签: 2026 游戏, 冒险, 惊人, 休闲, 搞笑

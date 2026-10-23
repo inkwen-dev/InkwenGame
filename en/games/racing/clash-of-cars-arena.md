@@ -45,4 +45,4 @@ Ready to prove you’re the king of the road? Then hit the gas and race toward g
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Car, Driving, Racing, Strategy
+- Tags: Action, Car, Driving, Racing, strategy

@@ -19,6 +19,6 @@ Tic Tac Toe Sprunki is a fun and interactive version of the classic game you kno
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boy, Brain, Fun, Girl, Hypercasual, Kids, Logic, Puzzle

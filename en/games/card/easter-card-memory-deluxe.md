@@ -21,4 +21,4 @@ Click the cards to flip an easter items. Memorize their position and match them 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Easter, Holiday, HTML5, Memory, Mobile
+- Tags: Easter, Holiday, HTML5, memory, Mobile

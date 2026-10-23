@@ -19,6 +19,6 @@ Experience a captivating twist on the classic 2048 game in 2048 Merge Thrower! C
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Matching, Math, Unity3D, WebGL
+- Tags: Arcade, Matching, math, Unity3D, WebGL

@@ -21,4 +21,4 @@ Slicey Merge 是一款有趣的水果合并游戏，你只需掉落并匹配相�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 水果类, HTML5游戏, 匹配, 移动, 模拟, 技巧
+- 标签: 水果, HTML5游戏, 匹配, 移动设备, 模拟, 技巧

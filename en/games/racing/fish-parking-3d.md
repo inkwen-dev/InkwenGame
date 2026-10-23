@@ -19,6 +19,6 @@ Welcome to the new era of car parking games. In Fish Parking, you will experienc
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boy, Car, Fish, Fishing, Fun, Funny, Girl, Hypercasual, Kid, Parking, Skill
+- Tags: 3D, Boy, Car, Fish, Fishing, Fun, Funny, Girl, Hypercasual, Kid, parking, Skill

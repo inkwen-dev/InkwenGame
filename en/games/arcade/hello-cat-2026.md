@@ -19,6 +19,6 @@ Hello Catt, where a cute, spotted feline explores a vibrant city of purple and g
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Cat, Draw, Drawing, Mentolatux, Skill, unity, WebGL
+- Tags: Arcade, Cat, Draw, drawing, Mentolatux, Skill, unity, WebGL

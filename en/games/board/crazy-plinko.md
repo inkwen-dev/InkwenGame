@@ -21,4 +21,4 @@ At first it feels random. Then patterns appear. With each upgrade you influence 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Board, Decorate, Highscore, Strategy
+- Tags: 1 Player, Board, Decorate, Highscore, strategy

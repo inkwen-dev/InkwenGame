@@ -21,4 +21,4 @@ Win victory as you fight the vikings in this action-packed game.You can play wit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, War
+- Tags: battle, War

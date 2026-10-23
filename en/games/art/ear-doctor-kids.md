@@ -19,6 +19,6 @@ You are a successful doctor and everyone wants to come to your Hospital Clinic w
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Doctor, Drawing, Kids
+- Tags: Casual, Doctor, drawing, Kids

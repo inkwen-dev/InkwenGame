@@ -21,4 +21,4 @@ It's painting time! Use mouse and the palette to mix the colors, then paint a pi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Casual, Color, Coloring, Draw, Drawing, Hypercasual, Timing
+- Tags: Android, Arcade, Casual, Color, Coloring, Draw, drawing, Hypercasual, Timing

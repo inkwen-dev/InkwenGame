@@ -21,4 +21,4 @@ Claritas is a 2D turn-based dungeon crawler RPG that focuses purely on strategic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Classic, Dungeon, Gold, Levels, Monster, RPG, Strategy
+- Tags: 1 Player, Classic, Dungeon, Gold, Levels, monster, rpg, strategy

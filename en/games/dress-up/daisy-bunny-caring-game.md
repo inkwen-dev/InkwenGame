@@ -21,4 +21,4 @@ Play our daisy bunny game and you will learn how to take care of pet rabbits. Yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cute, Decorate, Dress Up, Educational, Fashion, Girl, Girls, Kids, Simulation
+- Tags: Animal, Cute, Decorate, Dress Up, educational, Fashion, Girl, Girls, Kids, Simulation

@@ -21,4 +21,4 @@ Zombie / Apocalypse / Web3 Game / BSC In the year 2166, Earth was on the brink o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, RPG
+- Tags: 1 Player, rpg

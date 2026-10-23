@@ -19,6 +19,6 @@ Blob Giant 3D has proven to be the most interesting new arcade game this year. I
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Bubble, Cute, Hypercasual, Kid, run, running

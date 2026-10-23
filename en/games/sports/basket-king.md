@@ -19,6 +19,6 @@ Basketball is the 1 basketball game. Basketball is a game of levels in which to 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Ball, Ballon, Basketball, HTML, HTML5, Play, Sport, Sports
+- Tags: 1 Player, Ball, Ballon, basketball, HTML, HTML5, Play, Sport, sports

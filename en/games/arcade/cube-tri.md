@@ -19,6 +19,6 @@ Cube Tri is fun addictive hyper casual arcade game .This is an infinite game in 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Color, Hypercasual

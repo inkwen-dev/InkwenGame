@@ -19,6 +19,6 @@ Mahjong Connect is a challenging mobile puzzle game that will keep you captivate
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Mahjong
+- Tags: 1 Player, 2D, Adventure, Arcade, mahjong

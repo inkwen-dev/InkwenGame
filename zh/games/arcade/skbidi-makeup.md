@@ -21,4 +21,4 @@ Skbidi 化妆是一款化妆跑酷套装，成为帅气的 Skibidi，为你的�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, Android, 街机, HTML5, 休闲, 互动, 移动设备, Skibidi, Skibidi Toilet
+- 标签: 冒险, 安卓, 街机, HTML5, 超休闲, 互动, 移动设备, Skibidi, skibidi-toilet

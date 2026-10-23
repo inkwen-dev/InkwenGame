@@ -21,4 +21,4 @@ Minecraft Cars Jigsaw is a free online game from genre of puzzle and jigsaw game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Fun, HTML5, Jigsaw, Kids, Minecraft, Mobile, Skill
+- Tags: block, Fun, HTML5, Jigsaw, Kids, Minecraft, Mobile, Skill

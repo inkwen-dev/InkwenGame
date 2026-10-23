@@ -19,6 +19,6 @@ Halloween ghouls is a tower defense game. In this game, Halloween ghouls, such a
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ghost, Halloween, Mobile, Monster, Shooting, Strategy, Tower Defense, Undead, Vampire, Witch, Zombie
+- Tags: Ghost, Halloween, Mobile, monster, Shooting, strategy, Tower Defense, Undead, Vampire, Witch, Zombie

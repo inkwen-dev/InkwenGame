@@ -19,6 +19,6 @@ How can there be no party for a good Christmas? Anna decided not to spend Christ
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Christmas, Coloring, Dress Up, Frozen, Girl, Girls, Holiday, Kids, Makeover, Princess, Simulation

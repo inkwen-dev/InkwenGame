@@ -19,6 +19,6 @@ Word Puzzle not only is word search game, but also a thinking training tool its 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cake, Cooking, Cute, Disney, Dress Up, Food, Game, Kids, Word
+- Tags: Boys, Cake, Cooking, Cute, Disney, Dress Up, Food, Game, Kids, word

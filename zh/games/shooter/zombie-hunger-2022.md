@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 疯狂, HTML, HTML5, 移动, 射击, Unity3D, WebGL, 僵尸
+- 标签: .io 游戏, 疯狂, HTML, HTML5, 移动设备, 射击, Unity3D, WebGL, 僵尸

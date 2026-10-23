@@ -21,4 +21,4 @@ Popo Singer is a 2D platformer where you play as Popo who is a music lover. Your
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Cute, Music, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Cute, music, pixel, Platform, retro

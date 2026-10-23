@@ -19,6 +19,6 @@ Get ready for a fun and challenging flipping adventure! Control the fork and lau
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cook, Cooking, Fruit, Knight, Puzzle, puzzleblock
+- Tags: Cook, Cooking, Fruit, knight, Puzzle, puzzleblock

@@ -21,4 +21,4 @@ Food Venture Master invites you on a fun commercial adventure. Improve your road
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Click, Clicker, Food, Fun, Funny, Hypercasual, Management
+- Tags: Arcade, Click, Clicker, Food, Fun, Funny, Hypercasual, management

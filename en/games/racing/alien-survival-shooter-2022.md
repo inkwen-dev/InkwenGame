@@ -21,4 +21,4 @@ The shooting and driving game known as Alien Survival aims to make it through th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Alien, Car, Driving, Shooting, Skills, Supercars, Truck, Unity3D, WebGL
+- Tags: 3D Games, Alien, Car, Driving, Shooting, Skills, Supercars, truck, Unity3D, WebGL

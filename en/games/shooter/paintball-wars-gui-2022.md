@@ -21,4 +21,4 @@ You may use various deadly weapons in the best ghost shooters. In Minecraft, you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Pixel, Shooter, Shooting, Unity3D, War, WebGL
+- Tags: block, pixel, Shooter, Shooting, Unity3D, War, WebGL

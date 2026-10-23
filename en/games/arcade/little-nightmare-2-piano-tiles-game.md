@@ -21,4 +21,4 @@ This Piano Tiles game is made for fans of Little Nightmare 2, with high quality 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Best, Clicker, Hot, HTML5, Hypercasual, Magic, Mobile, Music, New, Online, Point And Click, Puzzle, Timing
+- Tags: Action, Adventure, Arcade, Best, Clicker, Hot, HTML5, Hypercasual, Magic, Mobile, music, New, Online, Point And Click, Puzzle, Timing

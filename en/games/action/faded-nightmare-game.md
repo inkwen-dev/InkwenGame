@@ -21,4 +21,4 @@ Faded Nightmare is an action-packed platformed game. Jump from platform to platf
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Android, Casual, Crazy, jump, Jumping, Mobile, Obstacle, run, running
+- Tags: 2D, Action, Adventure, Android, Casual, crazy, jump, jumping, Mobile, Obstacle, run, running

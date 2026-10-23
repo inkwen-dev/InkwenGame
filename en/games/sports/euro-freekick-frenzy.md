@@ -19,6 +19,6 @@ Get ready to experience the ultimate thrill of free-kick frenzy in Euro Freekick
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Football, Skills, Soccer

@@ -19,6 +19,6 @@ Another stickman game in which the player has three game modes. In the first, yo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Bow, Fight, Fighting, HTML, HTML5, Hypercasual, Kill, Killing, Stickman, Superhero
+- Tags: Action, Adventure, Arcade, Bow, Fight, fighting, HTML, HTML5, Hypercasual, Kill, Killing, stickman, Superhero

@@ -19,6 +19,6 @@ Welcome to the Ellie And Ben Fall Date. Ben asked for a date for Ellie. She is s
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Cute, Dating, Dress Up, Fashion, Girls, HTML5, Love, Makeover

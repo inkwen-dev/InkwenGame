@@ -19,6 +19,6 @@ Masha and the Bear Hidden Stars is a free online kids and hidden object game. Th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Arcade, Cartoon, Clicker, Fun, Hidden, HTML5, Kids, Mobile, Point And Click, Skill

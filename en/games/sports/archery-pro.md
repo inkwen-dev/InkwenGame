@@ -19,6 +19,6 @@ Archery pro is an archery shooting game that can bring you to the world of this 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, Shoot, Shooting, Sport

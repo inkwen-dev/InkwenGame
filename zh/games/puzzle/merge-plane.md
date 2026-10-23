@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 冒险, 点击器, 解谜, 模拟, Unity3D
+- 标签: 单人, 2D, 冒险, 点击器, 益智, 模拟, Unity3D

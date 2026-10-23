@@ -19,6 +19,6 @@ Baby Panda Magic Kitchen is a very cute and unique cooking game. It is a game de
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cooking, Educational, Food, Fruit, Fun, HTML5, Mobile, Panda
+- Tags: Animal, Baby, Cooking, educational, Food, Fruit, Fun, HTML5, Mobile, Panda

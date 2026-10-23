@@ -21,4 +21,4 @@ Welcome to the Runner Pusher, one of the world-class enjoyable games! Looking fo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Hypercasual, Stickman
+- Tags: 1 Player, 3D, Hypercasual, stickman

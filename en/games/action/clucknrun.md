@@ -21,4 +21,4 @@ Embark on a thrilling journey through the countryside in ClucknRun, where your m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Chicken, endless, Farm, Relaxation, running, Truck
+- Tags: 3D, Chicken, endless, Farm, Relaxation, running, truck

@@ -19,6 +19,6 @@ Welcome to Princess Winter Ice Skating Outfits. Girls enjoy this winter with you
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Cute, Dress Up, Fashion, Girls, Holiday, Winter

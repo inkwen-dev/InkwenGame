@@ -21,4 +21,4 @@ Indulge in the addictive and fast-paced gameplay of Burger Cooking Game Online, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Burger, Cooking, Food, Fun, Girls, Highscore, HTML5, Kids, Management, Mobile, Restaurant, Skill, Timing
+- Tags: Boys, Burger, Cooking, Food, Fun, Girls, Highscore, HTML5, Kids, management, Mobile, restaurant, Skill, Timing

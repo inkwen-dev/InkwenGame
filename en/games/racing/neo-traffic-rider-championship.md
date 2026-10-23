@@ -21,4 +21,4 @@ Take the cockpit in Neo Traffic Rider Championship! Race seven rivals across six
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Bike, Moto, Traffic, wheel
+- Tags: 1 Player, Adventure, bike, Moto, Traffic, wheel

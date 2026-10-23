@@ -21,4 +21,4 @@ On the tableau can you build down on alternating color. You can use the Freecell
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Card, Cute, Logic, Puzzle
+- Tags: Board, card, Cute, Logic, Puzzle

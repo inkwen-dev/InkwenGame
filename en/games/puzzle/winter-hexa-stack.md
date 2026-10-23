@@ -21,4 +21,4 @@ Winter Hexa Stack is a cozy and addictive winter-themed puzzle game where you cl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Christmas, hexa, sort, sorting, Winter
+- Tags: block, Christmas, hexa, sort, sorting, Winter

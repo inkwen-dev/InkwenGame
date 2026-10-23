@@ -21,4 +21,4 @@ WASD或方向键移动 左键点击开火 右键点击瞄准 空格键跳跃 Q�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 免费网站游戏, FreezeNova, 枪械, 多人游戏, 在线, onlinegames io, unity游戏, 武器
+- 标签: 免费游戏供你的网站使用, FreezeNova, 枪械, 多人, 在线, onlinegames io, unity游戏, 武器

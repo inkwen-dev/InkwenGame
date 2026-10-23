@@ -19,6 +19,6 @@ Flying Easter Bunny is a arcade game collect more egg and earn score
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Click, Collecting, Easter, endless, fly, HTML, HTML5, Obstacle

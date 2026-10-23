@@ -21,4 +21,4 @@ King soldiers 2 is a fun battle game that’s made for all ages play it on iyiga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Alien, Arcade, Boys, Fun, Girls, Monster, Puzzle, Shoot, Shooting
+- Tags: 1 Player, 2D, Alien, Arcade, Boys, Fun, Girls, monster, Puzzle, Shoot, Shooting

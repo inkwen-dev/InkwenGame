@@ -19,6 +19,6 @@ The virus has taken over the planet. Destroy it by connecting identical tiles an
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, Board, Boy, Click, Color, Cool, Crazy, Game, Girl, HTML5, Matching, Play, Puzzle
+- Tags: 1 Player, block, Board, Boy, Click, Color, cool, crazy, Game, Girl, HTML5, Matching, Play, Puzzle

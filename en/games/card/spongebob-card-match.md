@@ -21,4 +21,4 @@ SpongeBob SquarePants is an American animated television series created by marin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Card, Memory
+- Tags: Brain, card, memory

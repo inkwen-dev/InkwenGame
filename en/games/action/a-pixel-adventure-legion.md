@@ -19,6 +19,6 @@ A Pixel Adventure Legion - Explore various locations of the dark castle, in orde
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Castle, Casual, Dungeon, Pixel, Platform
+- Tags: 1 Player, Castle, Casual, Dungeon, pixel, Platform

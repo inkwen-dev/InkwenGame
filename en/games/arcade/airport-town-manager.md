@@ -21,4 +21,4 @@ Airport Town Manager, are easy and interesting simple games for everyone whose d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Casual, Hypercasual, Puzzle, Strategy
+- Tags: Adventure, Arcade, Casual, Hypercasual, Puzzle, strategy

@@ -19,6 +19,6 @@ Ideal Car Parking Game : Real Car Drive Test : new car driving games 2019 offers
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Driving

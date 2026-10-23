@@ -19,6 +19,6 @@ In this Adventure Of Green Kid you will travel thru platforms full of dangers. J
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, HTML5, jump, Kids, Mobile, Puzzle, Skill

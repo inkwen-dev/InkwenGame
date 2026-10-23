@@ -21,4 +21,4 @@ Do you want to race on challenging tracks with Spider-Man? If you want, race wit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Bike, drift, drifting, Driving, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Moto, Motorcycle, Race, Racing, Spiderman
+- Tags: Action, Arcade, bike, drift, drifting, Driving, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Moto, Motorcycle, Race, Racing, Spiderman

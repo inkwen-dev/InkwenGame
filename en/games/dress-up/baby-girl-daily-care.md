@@ -19,6 +19,6 @@ Spend a lovely time with our beautiful baby girl and spoil her while you are com
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cute, Dress Up, Educational, Food, Girl, Girls, Hair, Kids, Makeover, Shopping, Simulation
+- Tags: Baby, Cute, Dress Up, educational, Food, Girl, Girls, Hair, Kids, Makeover, Shopping, Simulation

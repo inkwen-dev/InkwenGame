@@ -21,4 +21,4 @@ Gumball Jump Force is an online HTML5 game , it's playable in browsers such as s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Cartoon, Cartoon Network, jump, Jumping, run, running
+- Tags: Action, Adventure, Cartoon, Cartoon Network, jump, jumping, run, running

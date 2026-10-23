@@ -21,4 +21,4 @@ Uno Friends 是一款经典卡牌游戏，上手简单却令人欲罢不能。�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io游戏, 街机, 卡片, 赌场, 休闲, 经典, 策略, Unity3D
+- 标签: .io, .io 游戏, 街机, 卡牌, 赌场, 休闲, 经典, 策略, Unity3D

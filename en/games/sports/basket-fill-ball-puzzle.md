@@ -21,4 +21,4 @@ Basket Fill is the most satisfying sports puzzle game youll play! Draw arrows to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Ball, Basketball, Casual, Color, Coloring, Fun, Funny, Hypercasual, Road, Sport, Sports
+- Tags: 1 Player, 2026 games, 2D, Ball, basketball, Casual, Color, Coloring, Fun, Funny, Hypercasual, Road, Sport, sports

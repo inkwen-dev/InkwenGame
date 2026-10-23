@@ -32,4 +32,4 @@ Before the match, you can choose your team's color, upgrade your character, and 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Fighting
+- Tags: 3D, fighting

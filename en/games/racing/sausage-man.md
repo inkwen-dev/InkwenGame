@@ -21,4 +21,4 @@ Run, Sausage, run! Hot diggity dog, that&rsquo;s a fine lookin&rsquo; hot dog! Y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Action, amazing, Battle
+- Tags: 1 Player, 2026 games, 2D, Action, amazing, battle

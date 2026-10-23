@@ -52,4 +52,4 @@ Available in 21 languages.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Board, chess, Magic, Multiplayer, Strategy, two-player
+- Tags: 3D, Board, chess, Magic, Multiplayer, strategy, two-player

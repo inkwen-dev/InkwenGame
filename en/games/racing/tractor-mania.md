@@ -19,6 +19,6 @@ Farm Tractor Hill Racing is new super easy farm racing game! Race with cool trac
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Farm, Fun, Race, Racing

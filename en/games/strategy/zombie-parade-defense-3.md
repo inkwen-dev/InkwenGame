@@ -19,6 +19,6 @@ The Zombie Parade Defense fight continues with its third episode! In the new epi
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Battle, Defense, Tower Defense, Undead, War, Zombie
+- Tags: 2 Player, 2 Player Games, battle, Defense, Tower Defense, Undead, War, Zombie

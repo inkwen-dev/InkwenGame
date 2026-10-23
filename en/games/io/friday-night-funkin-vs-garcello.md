@@ -21,4 +21,4 @@ A mod of Friday Night Funkin where you face off against Garcello in the back all
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2D, Arcade, Best, Funny, Girls, Hot, Music
+- Tags: .io, .io Games, 2D, Arcade, Best, Funny, Girls, Hot, music

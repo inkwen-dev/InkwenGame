@@ -21,4 +21,4 @@ Accompany the cute rabbits adventure together and have fun. I think it will be a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Cute, Mario, Platform, Rabbit, Skill, Skills
+- Tags: Adventure, Cute, mario, Platform, Rabbit, Skill, Skills

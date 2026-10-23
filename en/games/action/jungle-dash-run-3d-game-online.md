@@ -19,6 +19,6 @@ Enjoy the adventurous Dash through the mysterious jungle. Jungle Dash - Amazon J
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: run, running

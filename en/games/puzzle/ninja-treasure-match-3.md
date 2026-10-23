@@ -21,4 +21,4 @@ Ninja Treasure Match 3 is an online puzzle game that you can play for free. Easy
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Match 3, Matching, Ninja, Skill
+- Tags: Fun, HTML5, Match 3, Matching, ninja, Skill

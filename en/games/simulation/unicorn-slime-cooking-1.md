@@ -19,6 +19,6 @@ Do you like unicorn slime? Let's try to make a colorful and nice slime mixer. Th
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cook, Cooking, Fun, Girl, Girls, Hypercasual, Kid, Kids, Pony

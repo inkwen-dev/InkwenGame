@@ -21,4 +21,4 @@ Grass Cut Master is a fun hypercasual simulation game. You have to cut the grass
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Farm, Fun, Funny, Girls, Hypercasual, Simulation, Simulator, Stickman
+- Tags: Boy, Farm, Fun, Funny, Girls, Hypercasual, Simulation, Simulator, stickman

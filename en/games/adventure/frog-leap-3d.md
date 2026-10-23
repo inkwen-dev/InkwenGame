@@ -19,6 +19,6 @@ Get ready for an exciting adventure in Frog Leap 3D: Parkour Runner! You play as
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Adventure, Animal, frog

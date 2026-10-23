@@ -21,4 +21,4 @@ Try to tug the table and bring your opponent across the line. Play local two pla
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Action, Battle, Fighting, Funny, War
+- Tags: 2 Player, Action, battle, fighting, Funny, War

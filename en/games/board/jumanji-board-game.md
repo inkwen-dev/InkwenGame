@@ -19,6 +19,6 @@ The game includes six players Jumanji movies. Are your friends king of Jumanji ?
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, Board, Brain, HTML5, Multiplayer, Puzzle

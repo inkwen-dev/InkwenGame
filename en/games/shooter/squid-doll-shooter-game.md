@@ -21,4 +21,4 @@ Squid Doll Shooter Game is an arcade game where you have to break the blocks wit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Fun, Funny, Kids, Mobile, Shooter
+- Tags: Arcade, block, Fun, Funny, Kids, Mobile, Shooter

@@ -21,4 +21,4 @@ Here is a typical ambulance driving rescue simulation game with 3D game art anim
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, Driving, Mobile, Rescue, Simulation, Timing, Truck, WebGL
+- Tags: 3D, Car, Driving, Mobile, Rescue, Simulation, Timing, truck, WebGL

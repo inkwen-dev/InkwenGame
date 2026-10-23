@@ -21,4 +21,4 @@ Play the amazing word game Word Galaxy for 10 min a day to sharpen your mind and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, Casual, Hypercasual, Puzzle, Word
+- Tags: 2025 games, Casual, Hypercasual, Puzzle, word

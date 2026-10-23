@@ -21,4 +21,4 @@ A new exciting game Spot&amp;Differs for children and adults! Find differences b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Brain, Cat, Difference, Educational, Hidden
+- Tags: Animal, Brain, Cat, Difference, educational, Hidden

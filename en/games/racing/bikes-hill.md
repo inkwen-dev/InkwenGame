@@ -21,4 +21,4 @@ Bikes Hill is a cool and exciting 3D bike riding game. In this game you can ride
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Bike, Driving, H5, HTML, HTML5, Mobile, Moto, Motorcycle, Physics, Race, Racing, Skill, Skills
+- Tags: 3D, 3D Games, bike, Driving, H5, HTML, HTML5, Mobile, Moto, Motorcycle, Physics, Race, Racing, Skill, Skills

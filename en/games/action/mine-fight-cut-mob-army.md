@@ -36,4 +36,4 @@ Are you ready for battle? Grab your sword and dive into "Mine Fight! Cut Mob Arm
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Fighting, Minecraft
+- Tags: 3D, fighting, Minecraft

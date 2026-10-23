@@ -21,4 +21,4 @@ Jump over the clouds and collect points. Cross all clouds to reach the highest l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping
+- Tags: jump, jumping

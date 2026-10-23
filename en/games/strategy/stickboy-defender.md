@@ -19,6 +19,6 @@ Stickboy Defender is an action merge-and-shoot game. Recruit stickman units, dra
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, 2026 games, 2D, Action, Android, Defense, idle, Shooter, Stickman, survival, Tower Defense
+- Tags: 1 Player, 2025 games, 2026 games, 2D, Action, Android, Defense, idle, Shooter, stickman, survival, Tower Defense

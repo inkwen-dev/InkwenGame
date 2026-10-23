@@ -19,6 +19,6 @@ This isn&rsquo;t just a cat &mdash; it&rsquo;s a cat with a gun! Your mission is
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cat, Click, Clicker, Gun

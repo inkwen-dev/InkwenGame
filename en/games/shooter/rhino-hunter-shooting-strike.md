@@ -19,6 +19,6 @@ Wild Rhino Hunter Shooting game is now available for all people for you to have 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Animal, Arena, Battle, Castle, Gun, Jumping
+- Tags: 3D Games, Action, Animal, Arena, battle, Castle, Gun, jumping

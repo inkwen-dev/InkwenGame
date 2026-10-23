@@ -19,6 +19,6 @@ Get ready for a rhythm-infused adventure in Musical Ball Jump! This captivating 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Fun, Music, Unity3D, WebGL
+- Tags: Ball, Fun, music, Unity3D, WebGL

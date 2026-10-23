@@ -19,6 +19,6 @@ Who doesn't want to explore the World of the Ocean? It's wonderful to sink into 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, endless, Hypercasual, Race, Racing, Simulation, Simulator

@@ -21,4 +21,4 @@ Help your cute little dinosaur to get as far as possible. In this infinite jump'
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 8 Ball Pool, Action, Adventure, Animal, Baby, Ball, Jumping
+- Tags: 2 Player, 8 Ball Pool, Action, Adventure, Animal, Baby, Ball, jumping

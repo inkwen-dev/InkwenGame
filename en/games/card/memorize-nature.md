@@ -21,4 +21,4 @@ You have a set of cards on the table. The cards have pairs which have random pos
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, 3D, Card, Casual, Hypercasual
+- Tags: 2D, 3D, card, Casual, Hypercasual

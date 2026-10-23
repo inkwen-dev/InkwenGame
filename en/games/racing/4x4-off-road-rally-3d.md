@@ -19,6 +19,6 @@ Here is an Offroad car driving simulation game with four different 3D rally vehi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Car, Driving, Mobile, Platform, Simulation, Timing, Unity3D

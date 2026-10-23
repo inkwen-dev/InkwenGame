@@ -19,6 +19,6 @@ Welcome to the most challenging Car Parking puzzle game. The goal of the game is
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Brain, Car, Cars, Puzzle, Supercars

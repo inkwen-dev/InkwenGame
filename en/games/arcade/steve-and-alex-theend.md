@@ -21,4 +21,4 @@ In the final episode, kill all the monsters and reach the Monument at the end of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Minecraft, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Minecraft, pixel

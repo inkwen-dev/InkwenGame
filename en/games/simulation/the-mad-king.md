@@ -19,6 +19,6 @@ The Mad King is a fun ragdoll simulation game where you can hit a crazy king.
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Funny, Physics, Simulation

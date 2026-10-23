@@ -21,4 +21,4 @@ Naruto newest game online free based on the blockbuster games flap flap . Help t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Adventure, Anime, Boy, Boys, endless, fly, Ninja, Ninjago, Online, Race, Simulation, Stickman
+- Tags: .io Games, Adventure, Anime, Boy, Boys, endless, fly, ninja, Ninjago, Online, Race, Simulation, stickman

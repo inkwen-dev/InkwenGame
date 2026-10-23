@@ -21,4 +21,4 @@ Word Search Universe: Easter is a fun and relaxing word puzzle game with a cheer
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Easter, Educational, Mobile, School, Word
+- Tags: Easter, educational, Mobile, School, word

@@ -21,4 +21,4 @@ Draw Bridge Puzzle - Draw Game is an exciting and challenging brain game that wi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Drawing, Puzzle
+- Tags: Car, drawing, Puzzle

@@ -19,6 +19,6 @@ Defeat all enemies and be a winner! Connect 3 or more element with same element 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Arcade, Casual, Fight, Fighting, Knight
+- Tags: 3D, Action, Adventure, Arcade, Casual, Fight, fighting, knight

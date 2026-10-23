@@ -21,4 +21,4 @@ Do you like throwing stuff? Like knives at random spinning targets? Then this is
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Game, Games, HTML, HTML5, Knight
+- Tags: Arcade, Game, Games, HTML, HTML5, knight

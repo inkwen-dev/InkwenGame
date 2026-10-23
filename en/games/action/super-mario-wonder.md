@@ -21,4 +21,4 @@ Super Mario Wonder is an exciting online game set in the magical world of Mario,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: kiz10, Mario, Platform, run
+- Tags: kiz10, mario, Platform, run

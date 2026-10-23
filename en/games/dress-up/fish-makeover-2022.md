@@ -19,6 +19,6 @@ A new super stylist has arrived in town! Make sure your make-up and fashion styl
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Android, Arcade, Fish, Girl, HTML5, Kids, Makeover, Mobile

@@ -19,6 +19,6 @@ Help Santa get his gifts ready for Christmas! Each level brings a list of differ
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2 Player, Arcade, Avoid, Baby, Baby Hazel, Battle, Bejeweled, Ben 10, Bricks, Bridge, Bubble, Bubble Shooter, Cake, Candy, Christmas, Click, Clicker, Collecting, Collection, Color, Coloring, Crazy, Friv, Fruit, Fruits, Fun, Funny, Game, Games, Girl, H5, HTML5, Ice, Jewel, Logic, Logical, Match-3, Match3, Matching, Mobile, Snow
+- Tags: .io, .io Games, 1 Player, 2 Player, Arcade, Avoid, Baby, Baby Hazel, battle, Bejeweled, Ben 10, Bricks, Bridge, Bubble, Bubble Shooter, Cake, Candy, Christmas, Click, Clicker, Collecting, Collection, Color, Coloring, crazy, Friv, Fruit, Fruits, Fun, Funny, Game, Games, Girl, H5, HTML5, Ice, Jewel, Logic, Logical, Match 3, Match3, Matching, Mobile, Snow

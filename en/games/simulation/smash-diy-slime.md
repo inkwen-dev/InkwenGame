@@ -19,6 +19,6 @@ Smash Diy Slime is a very addictive art game. you can relax yourself through thi
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Coloring, Creation, Drawing, Fun, Girl, HTML5, Kids, Mobile, Simulation, Simulator
+- Tags: Boy, Coloring, Creation, drawing, Fun, Girl, HTML5, Kids, Mobile, Simulation, Simulator

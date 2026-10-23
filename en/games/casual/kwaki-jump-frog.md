@@ -21,4 +21,4 @@ Welcome to the world of kwaki, an exciting game where your goal is simple: contr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Air, Android, angrybirds, Animal, Best, Click, Crazy, frog, Fun, jump, Jumping, Mobile
+- Tags: 1 Player, 2D, Air, Android, angrybirds, Animal, Best, Click, crazy, frog, Fun, jump, jumping, Mobile

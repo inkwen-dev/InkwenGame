@@ -21,4 +21,4 @@ Voxel Crusher is a satisfying pixel destruction action game where you destroy th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 3D, Action, Arcade, Block, Casual, destroy, Hypercasual, Physics, smash, voxel
+- Tags: 2026 games, 3D, Action, Arcade, block, Casual, destroy, Hypercasual, Physics, smash, voxel

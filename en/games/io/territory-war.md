@@ -21,4 +21,4 @@ Gather your troops and capture the enemy's camp. You will win until you stay on 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D, 3D Games, Arcade, Army, Battle, Game, HTML5, Mobile, War
+- Tags: .io Games, 1 Player, 3D, 3D Games, Arcade, Army, battle, Game, HTML5, Mobile, War

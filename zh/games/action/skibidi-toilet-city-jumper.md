@@ -21,4 +21,4 @@ Skibidi 厕所城市跳跃者是一款充满肾上腺素的移动游戏，将厕
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 跳跃, 平台, 斯基比迪, 斯基比迪马桶, Unity3D, WebGL
+- 标签: 跳跃, 平台, Skibidi, skibidi-toilet, Unity3D, WebGL

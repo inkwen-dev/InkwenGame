@@ -19,6 +19,6 @@ MineEnergy.fun - is a free Minecraft style game. Mine resources, buy in the stor
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Block, Fight, Fighting, Mine, Minecraft, Miner, Multiplayer, Pixel, Strategy
+- Tags: .io, .io Games, block, Fight, fighting, Mine, Minecraft, Miner, Multiplayer, pixel, strategy

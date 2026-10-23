@@ -19,6 +19,6 @@ Coloring Book for Among Us is awesome game for boys and coloring book for kids w
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Draw, Drawing, Game, HTML5, Online
+- Tags: Color, Coloring, Draw, drawing, Game, HTML5, Online

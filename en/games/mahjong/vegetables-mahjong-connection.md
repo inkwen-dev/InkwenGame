@@ -19,6 +19,6 @@ Connect all the vegetables mahjong tiles and clear the board in this html5 mahjo
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Mahjong, Mobile
+- Tags: HTML5, mahjong, Mobile

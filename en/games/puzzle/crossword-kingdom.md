@@ -21,4 +21,4 @@ Crossword Kingdom is a challenging vocabulary game where you fill in words in th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kids, Mobile, Puzzle, Skill, Word
+- Tags: Kids, Mobile, Puzzle, Skill, word

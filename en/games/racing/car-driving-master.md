@@ -19,6 +19,6 @@ Car Driving Master is an exciting and immersive city driving game designed for p
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Car, Casual, city, Driving, Hot, offroad, Simulation, Simulator

@@ -21,4 +21,4 @@ Connect identical tiles to each other to eliminate both. Each connection can hav
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Fun, HTML5, Kids, Mahjong, Matching, Mobile, Puzzle, School
+- Tags: Board, Fun, HTML5, Kids, mahjong, Matching, Mobile, Puzzle, School

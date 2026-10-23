@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 差异, 复活节, 假日, HTML5, 移动
+- 标签: 找不同, 复活节, 节日, HTML5, 移动设备

@@ -15,6 +15,6 @@ Embark on a humorous clicking adventure in Knee Surgery Clicker. Perform zany kn
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Clicker

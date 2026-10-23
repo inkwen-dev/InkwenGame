@@ -19,6 +19,6 @@ Learning is joyful with Khan Academy Kids! Our award-winning app includes thousa
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Fun, Games, Girls, HTML5, Kids, Mobile, Puzzle
+- Tags: educational, Fun, Games, Girls, HTML5, Kids, Mobile, Puzzle

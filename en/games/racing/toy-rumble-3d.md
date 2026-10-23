@@ -21,4 +21,4 @@ Begin an explosive toy adventure in Toy Rumble 3D. A 3D running and racing arcad
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Racing, running, Strategy
+- Tags: Action, Racing, running, strategy

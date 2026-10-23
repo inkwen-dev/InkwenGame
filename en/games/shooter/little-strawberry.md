@@ -19,6 +19,6 @@ The goal of the game: Avoid collisions with the sword, jump deftly, this gives y
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Avoid, Best, Casual, Clash, endless, Fruits, Fun, Highscore, HTML5, Jumping, New
+- Tags: 1 Player, 2D, Adventure, Avoid, Best, Casual, Clash, endless, Fruits, Fun, Highscore, HTML5, jumping, New

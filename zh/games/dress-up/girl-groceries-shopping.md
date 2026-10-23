@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 烹饪, 换装, 改造, 购物
+- 标签: 厨艺, 装扮, 改造, 购物

@@ -19,6 +19,6 @@ Play Friday Night Funkin-PixelCrate, a fast-paced browser game with simple contr
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: free games for your site, free html5 games for your website

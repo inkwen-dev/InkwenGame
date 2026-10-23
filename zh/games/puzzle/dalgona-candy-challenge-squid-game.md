@@ -1,0 +1,24 @@
+# Dalgona糖果挑战鱿鱼游戏
+
+<a href="https://inkwengame.com/zh/games/dalgona-candy-challenge-squid-game" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/dalgona-candy-challenge-squid-game/cover.jpg)
+
+在这个美味的解谜冒险中，切换并匹配Dalgona糖果鱿鱼游戏，以晋级到下一关，体验甜蜜的胜利感觉！通过快速思考和聪明的移动解决谜题，并获得美味的彩虹色瀑布和可口的Dalgona糖果鱿鱼游戏！Dalgona糖果鱿鱼游戏是一款非常受欢迎的游戏，因为它能带来诸多益处。Dalgona糖果鱿鱼游戏挑战是免费娱乐类别中最好的应用…
+
+## 怎么玩
+
+通过巧妙使用助推器，将三个或更多Dalgona糖果连成一线来规划您的行动，以克服那些额外棘手的谜题
+
+## 介绍
+
+在这个美味的解谜冒险中，切换并匹配Dalgona糖果鱿鱼游戏，以晋级到下一关，体验甜蜜的胜利感觉！通过快速思考和聪明的移动解决谜题，并获得美味的彩虹色瀑布和可口的Dalgona糖果鱿鱼游戏！Dalgona糖果鱿鱼游戏是一款非常受欢迎的游戏，因为它能带来诸多益处。Dalgona糖果鱿鱼游戏挑战是免费娱乐类别中最好的应用。它是一款适用于Android设备的安全应用。鱿鱼游戏获得了广泛好评，并吸引了国际关注。这款2D游戏提供多种功能，我们将与您分享。目前，它仅提供有限的功能，但您可以在zazgames上探索这些功能并享受乐趣。在游戏中，大量人群必须奔跑。这是一种既简单又独特的玩法。您只需奔跑并完成目标即可。在您眼前是一个巨大的玩偶，您会知道它叫幽灵。您还可以看到戴着面具的人们。因此，如果戴面具的人看到您移动，他就会杀死您。如果幽灵没有盯着您，您就必须移动。在游戏里，玩家必须在红灯和绿灯之间做出选择。绿灯表示可以移动。为了避免幽灵转身，玩家必须停止移动。哪怕一点小动作也会导致您死亡。因此，请记住，即使灯光是绿色的，也要设法到达场地的另一侧。通过这样做，您将击败对手。
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/puzzle" target="_blank" rel="noopener noreferrer">益智</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 动作, 街机, 超休闲, 三消游戏, 匹配, 益智

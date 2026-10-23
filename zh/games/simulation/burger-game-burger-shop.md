@@ -33,4 +33,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 烹饪游戏, 食物, 闲暇
+- 标签: 厨艺, 食物, idle

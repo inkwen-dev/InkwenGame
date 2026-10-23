@@ -21,4 +21,4 @@ Welcome to the zaniest corner of the internet: Tap Skibidi Toilet Tap! Get ready
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Avoid, Fun, HTML5, Hypercasual, jump, Kids, Obstacle, Shoot, Skibidi, Skibidi Toilet, Skill
+- Tags: Arcade, Avoid, Fun, HTML5, Hypercasual, jump, Kids, Obstacle, Shoot, Skibidi, skibidi-toilet, Skill

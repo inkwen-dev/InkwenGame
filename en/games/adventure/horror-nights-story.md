@@ -21,4 +21,4 @@ Horror Nights Story is an action game where you have to escape the terrifying de
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Craft, Crafting, H5, Horse, HTML, HTML5, Minecraft, Pixel
+- Tags: 3D, Action, Adventure, Craft, Crafting, H5, horse, HTML, HTML5, Minecraft, pixel

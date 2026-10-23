@@ -21,4 +21,4 @@ The game Drive Hills is an excellent 3D car driving game, drive your car and bri
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Balance, Boy, Boys, Car, Driving, H5, HTML, HTML5, Kids, Obstacle, Platform, Skills, Stickman
+- Tags: Balance, Boy, Boys, Car, Driving, H5, HTML, HTML5, Kids, Obstacle, Platform, Skills, stickman

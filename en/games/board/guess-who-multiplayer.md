@@ -19,6 +19,6 @@ Guess Who Multiplayer is a HTML5 Board Game. The goal of the game is to be the f
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Kid, Kids, Strategy, Turn, Turn Based
+- Tags: Board, Kid, Kids, strategy, Turn, Turn Based

@@ -21,4 +21,4 @@ Play Gangster Bros game. Gangster Bros is a Action game to play free online. Gan
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Mario, Shooting
+- Tags: 2D, Adventure, mario, Shooting

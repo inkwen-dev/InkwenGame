@@ -19,6 +19,6 @@ Project VOID is a fast-paced sci-fi roguelike survival game set on a mysterious 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Alien, Arcade, attack, Avoid, Battle, Collecting, Pixel, Robot, run, Science, survival, Top Down
+- Tags: Alien, Arcade, attack, Avoid, battle, Collecting, pixel, Robot, run, Science, survival, Top Down

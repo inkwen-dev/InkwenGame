@@ -21,4 +21,4 @@ Welcome to Fat Mario vs Zombies, a new mario shooting game. Your mission is to a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Hypercasual, Mario, Shooting, Zombie
+- Tags: Arcade, Hypercasual, mario, Shooting, Zombie

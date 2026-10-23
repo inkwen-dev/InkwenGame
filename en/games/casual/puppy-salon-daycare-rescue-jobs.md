@@ -19,6 +19,6 @@ A cute puppy is waiting for you. Be the best pet veterinarian and keeper of a cu
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Click, Clicker, Girls, Point And Click, Super

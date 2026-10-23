@@ -21,4 +21,4 @@ Drive into the unknown with our bus simulator! Bus games were never so fun. Desi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, bus, Car, Cars, Crazy, Parking, Race, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D
+- Tags: Action, Adventure, Arcade, bus, Car, Cars, crazy, parking, Race, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D

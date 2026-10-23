@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 2D, 8球台球, 赌场, 赌博, 休闲, iPhone, 移动设备, 物理
+- 标签: .io, .io 游戏, 2D, 8球台球, 赌场, 赌博, 超休闲, iPhone, 移动设备, 物理

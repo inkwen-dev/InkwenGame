@@ -21,4 +21,4 @@ In Triple Tile Match Fever Game, your goal is simple yet captivating: match thre
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Fruits, HTML5, Hypercasual, Levels, Match 3, Matching, Online
+- Tags: block, Fruits, HTML5, Hypercasual, Levels, Match 3, Matching, Online

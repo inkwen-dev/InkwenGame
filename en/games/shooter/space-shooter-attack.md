@@ -19,6 +19,6 @@ Save the galaxy from alien shooter in free galaxy shooter-classic arcade game - 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Aircraft, Battle, Shoot, Shooter, Shooting, Space, Spaceship
+- Tags: Aircraft, battle, Shoot, Shooter, Shooting, Space, Spaceship

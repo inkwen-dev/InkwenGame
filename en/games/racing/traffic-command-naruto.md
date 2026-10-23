@@ -21,4 +21,4 @@ Traffic Command – is a cool game, take command of the traffic in the streets, 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adult, Adventure, Boys, Car, Educational, Girls, Logic, Traffic
+- Tags: Adult, Adventure, Boys, Car, educational, Girls, Logic, Traffic

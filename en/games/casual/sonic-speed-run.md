@@ -19,6 +19,6 @@ Experience lightning-fast action as Sonic in this retro-style pixel endless runn
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Avoid, Collecting, endless, Highscore, jump, Pixel, Retro, run
+- Tags: 1 Player, 2D, Avoid, Collecting, endless, Highscore, jump, pixel, retro, run

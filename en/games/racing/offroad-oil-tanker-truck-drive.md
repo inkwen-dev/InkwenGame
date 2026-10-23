@@ -19,6 +19,6 @@ Drive your Oil Tanker Truck Drive 3D for transportation in wonderful and amazing
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boys, Driving, HTML5, Road, Simulator, Truck, WebGL
+- Tags: 3D, Boys, Driving, HTML5, Road, Simulator, truck, WebGL

@@ -21,4 +21,4 @@ Woobble Balance 3D 2 是广受欢迎的移动游戏的续作，为玩家提供�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Balance, 球, 儿童, Mentolatux, 技巧, Unity3D, WebGL
+- 标签: 平衡, 球, 儿童, Mentolatux, 技巧, Unity3D, WebGL

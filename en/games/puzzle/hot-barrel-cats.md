@@ -39,4 +39,4 @@ Hold the gate. Watch the barrels.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, cats, merge, Strategy, Tower Defense
+- Tags: Arcade, cats, merge, strategy, Tower Defense

@@ -19,6 +19,6 @@ Do you like coloring? Then here you go, there are wonderful Dinosaurs world are 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Hazel, Barbie, Color, Coloring, Girl, Girls, Kids

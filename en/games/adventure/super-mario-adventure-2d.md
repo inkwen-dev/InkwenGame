@@ -21,4 +21,4 @@ Super Mario Adventure Kids Game platformer game The best action adventure game o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Adventure, Android, endless, Escape, HTML5, Mario, Minecraft, Mobile, Puzzle, Rescue, Stickman, Superhero
+- Tags: 3D Games, Action, Adventure, Android, endless, Escape, HTML5, mario, Minecraft, Mobile, Puzzle, Rescue, stickman, Superhero

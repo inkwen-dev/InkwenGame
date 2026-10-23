@@ -21,4 +21,4 @@ The objective of the game is to complete each level in a war of strategic moveme
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Gun, kiz10, Shooting, Strategy, War
+- Tags: Gun, kiz10, Shooting, strategy, War

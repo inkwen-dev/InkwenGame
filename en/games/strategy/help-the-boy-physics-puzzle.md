@@ -21,4 +21,4 @@ Help The Boy: Physics Puzzle is an enthralling adventure game that poses a chall
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ballon, Best, Boy, Brain, iPad, iPhone, Kids, Logic, Mobile, Online, Physics, Puzzle, Science, Strategy
+- Tags: Ballon, Best, Boy, Brain, iPad, iPhone, Kids, Logic, Mobile, Online, Physics, Puzzle, Science, strategy

@@ -21,4 +21,4 @@ Build a tower by dropping blocks one by one! Aim accurately and stack the blocks
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block
+- Tags: Arcade, block

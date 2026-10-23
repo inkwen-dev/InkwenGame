@@ -19,6 +19,6 @@ Upon beginning to play, you will undoubtedly become hooked on these 2048 puzzle 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2048, Block, HTML5, Mobile, Number
+- Tags: 2048, block, HTML5, Mobile, Number

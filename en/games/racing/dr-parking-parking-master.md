@@ -21,4 +21,4 @@ Perhaps you have enough confidence to complete any parking missions without any 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Car, Cars, Fun, H5, HTML5, Kid, Kids, Parking
+- Tags: Boy, Boys, Car, Cars, Fun, H5, HTML5, Kid, Kids, parking

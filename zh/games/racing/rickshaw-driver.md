@@ -21,4 +21,4 @@ WASD键移动 C键切换相机 Esc键暂停
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 冒险, 赛车, Unity3D, WebGL
+- 标签: 3D, 3D游戏, 冒险, 竞速, Unity3D, WebGL

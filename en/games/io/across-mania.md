@@ -19,6 +19,6 @@ Tilt your phone to control the cube and help it dodge deadly obstacles in this t
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D, 3D Games, Adventure, Air, Aircraft, Arcade, Avoid, Batman, Block, Casual, Clicker, Detective
+- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D, 3D Games, Adventure, Air, Aircraft, Arcade, Avoid, Batman, block, Casual, Clicker, Detective

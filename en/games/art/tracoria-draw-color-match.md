@@ -29,4 +29,4 @@ Can you earn three stars on every level? Start your artistic journey in Tracoria
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Color, Drawing
+- Tags: Color, drawing

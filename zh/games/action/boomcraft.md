@@ -22,4 +22,4 @@ BoomCraft 是一款在 Minecraft 世界中的双人 TNT 游戏，你将与朋友
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人, 双人游戏, 3D, 3D 游戏, 竞技场, 方块, 炸弹, 我的世界, 战争
+- 标签: 双人, 双人游戏, 3D, 3D游戏, 竞技场, 方块, 炸弹, 我的世界, 战争

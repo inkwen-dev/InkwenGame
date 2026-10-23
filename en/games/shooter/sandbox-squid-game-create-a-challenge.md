@@ -21,4 +21,4 @@ Sandbox Squid Game - Create a Challenge &mdash; a game inspired by Squid Game. T
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Best, Block, build, building, Cool, Mobile, New, Platform, Sandbox, Shooter, squid, squidgame
+- Tags: 1 Player, 2D, Best, block, build, building, cool, Mobile, New, Platform, Sandbox, Shooter, squid, squidgame

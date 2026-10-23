@@ -19,6 +19,6 @@ Thrill Rush 4 is a fun game you can play in your web browser for free on Superki
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Boys, Driving, Fun, Girls, Highscore, HTML5, Jumping, Mobile, Subway Surfers
+- Tags: Avoid, Boys, Driving, Fun, Girls, Highscore, HTML5, jumping, Mobile, Subway Surfers

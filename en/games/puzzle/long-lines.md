@@ -19,6 +19,6 @@ Try to pilot the snake to collect all dots and finish each level!
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Family, HTML, HTML5, Mobile, Puzzle, Snake
+- Tags: block, Family, HTML, HTML5, Mobile, Puzzle, snake

@@ -21,4 +21,4 @@ It is a game of badges where two players controlled by the player and two others
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Soccer, Sport, Sports
+- Tags: Football, Soccer, Sport, sports

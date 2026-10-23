@@ -19,6 +19,6 @@ Fun Jigsaw Puzzle Game is a relaxing and entertaining puzzle experience designed
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Best Games, Fun, Games, Jigsaw, New, Puzzle

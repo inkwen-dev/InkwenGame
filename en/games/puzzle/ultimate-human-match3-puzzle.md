@@ -19,6 +19,6 @@ What would happen to the world if there were no super heroes? It would probably 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Arcade, Best, Game, HTML5, Movie, Online, Puzzle

@@ -19,6 +19,6 @@ Quiz Painters Dive into the world of timeless masterpieces with Quiz Painters! T
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Casual, Classic, Educational, free games for your site, free games for your website, free html5 games for your website, html games for your website, HTML5, html5 games for your site, Quiz
+- Tags: Best Games, Casual, Classic, educational, free games for your site, free games for your website, free html5 games for your website, html games for your website, HTML5, html5 games for your site, Quiz

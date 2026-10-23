@@ -21,4 +21,4 @@ Let's put your creativity and drawing skill to a test! “Draw Here: Logic Puzzl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Craft, Draw, Drawing, Puzzle
+- Tags: Click, Craft, Draw, drawing, Puzzle

@@ -19,6 +19,6 @@ A big city tour is waiting for you. Try to score points with your engine. After 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Bike, Moto, Motorcycle, Racing, Unity3D
+- Tags: 3D, 3D Games, bike, Moto, Motorcycle, Racing, Unity3D

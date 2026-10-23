@@ -21,4 +21,4 @@ Do you dream of becoming a chef? Do you want to experience real madness cuisine?
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Boys, Burger, Cake, Candy, Cook, Cooking, Fish, Food, Game, Games, Girl, Girls, Ice, Restaurant, Simulation, World
+- Tags: 1 Player, Boys, Burger, Cake, Candy, Cook, Cooking, Fish, Food, Game, Games, Girl, Girls, Ice, restaurant, Simulation, World

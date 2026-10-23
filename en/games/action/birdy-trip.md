@@ -19,6 +19,6 @@ You are not alone in the sky! It&rsquo;s time to migrate to sunny lands. Grab yo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bird, Casual, Cute, fly, Highscore, HTML5, Hypercasual, Jumping, kiz10, running
+- Tags: Bird, Casual, Cute, fly, Highscore, HTML5, Hypercasual, jumping, kiz10, running

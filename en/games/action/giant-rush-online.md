@@ -19,6 +19,6 @@ Giant Rush Online is one of the new arcade games with the richest gameplay, the 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Avoid, Battle, Boy, Collecting, Highscore, HTML, HTML5, Hypercasual, Kids, Mobile, Online, Platform, Skill, Skills
+- Tags: 3D, 3D Games, Arcade, Avoid, battle, Boy, Collecting, Highscore, HTML, HTML5, Hypercasual, Kids, Mobile, Online, Platform, Skill, Skills

@@ -37,4 +37,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 动作, Adventure, 怪物, 复古, 角色扮演, 生存
+- 标签: 动作, 冒险, monster, 复古, rpg, 生存

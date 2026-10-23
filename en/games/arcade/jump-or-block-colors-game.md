@@ -19,6 +19,6 @@ Up to 4 players game. You must jump over the red needle with pikes or block it. 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Block, jump, Multiplayer, Puzzle
+- Tags: Action, Arcade, block, jump, Multiplayer, Puzzle

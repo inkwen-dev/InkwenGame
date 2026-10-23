@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 贝比·哈泽尔, 休闲, HTML, HTML5, 超休闲, 美人鱼
+- 标签: 2D, 小哈泽尔, 休闲, HTML, HTML5, 超休闲, 美人鱼

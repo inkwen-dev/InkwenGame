@@ -21,4 +21,4 @@ Hidden Burgers in Truck is hidden object game where you need to find all ten bur
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Hidden, Puzzle, Truck
+- Tags: Hidden, Puzzle, truck

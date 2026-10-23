@@ -19,6 +19,6 @@ In Water Sorting Color, players must skillfully blend colors within each bottle 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: bottle, Color, Mentolatux, Puzzle, sort, sorting, Unity3D, water, WebGL

@@ -21,4 +21,4 @@ In this Japanese 4x4 Offroad game, you have 6 images in three modes to play. Cho
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle, Truck
+- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle, truck

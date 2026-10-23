@@ -19,6 +19,6 @@ Draw half is a fun and satisfying game which makes you happy and enjoyable reduc
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Educational, Fun, HTML5, Logic, Logical, Puzzle, WebGL
+- Tags: Casual, educational, Fun, HTML5, Logic, Logical, Puzzle, WebGL

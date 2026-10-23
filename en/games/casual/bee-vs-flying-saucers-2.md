@@ -15,6 +15,6 @@ Dive into "Bee vs Flying Saucers," where you buzz through an endless sky in a he
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Casual

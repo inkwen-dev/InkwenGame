@@ -19,6 +19,6 @@ Tap Away plays like a 3D block movement puzzle arcade game. Your mission is to l
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Block, Boy, Casual, Kid, Puzzle, Relaxation
+- Tags: 3D, 3D Games, block, Boy, Casual, Kid, Puzzle, Relaxation

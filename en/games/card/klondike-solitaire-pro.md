@@ -19,6 +19,6 @@ Enjoy a stylish version of the Klondike card game. A modern reiteration of this 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Card, Game, Games, HTML, HTML5, Online, Solitaire
+- Tags: 1 Player, card, Game, Games, HTML, HTML5, Online, solitaire

@@ -19,6 +19,6 @@ How about washing dirty cars with John? Choose from 5 different cars. Wash with 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Best, Boys, Car, Driving, Funny, Hot, Kids, Mobile, New

@@ -21,4 +21,4 @@ Use mouse
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping
+- Tags: jumping

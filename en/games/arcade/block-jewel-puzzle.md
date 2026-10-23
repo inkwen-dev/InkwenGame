@@ -21,4 +21,4 @@ Match full lines or columns to clear the blocks, can you get highest score!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Hypercasual, Puzzle
+- Tags: block, Hypercasual, Puzzle

@@ -21,4 +21,4 @@ Jumping bottle is skill arcade game. You need to click your mouse or tap your sc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, Arcade, Highscore, jump, Jumping, Mobile, Skill, Skills
+- Tags: 2D, Android, Arcade, Highscore, jump, jumping, Mobile, Skill, Skills

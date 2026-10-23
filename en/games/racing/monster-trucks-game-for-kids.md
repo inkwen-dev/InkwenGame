@@ -19,6 +19,6 @@ If your kids love all things monster trucks, Then they will love this game! Mons
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Candy, Cars, Cartoon, Dinosaur, Monster, Moto, Motorcycle, Pokemon, Supercars
+- Tags: 1 Player, Candy, Cars, Cartoon, Dinosaur, monster, Moto, Motorcycle, Pokemon, Supercars

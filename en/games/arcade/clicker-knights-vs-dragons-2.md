@@ -21,4 +21,4 @@ Clicker Knights Vs dragons is a perfect idle game . Embark on your quest and beg
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Army, Dragon, Knight, Pixel
+- Tags: Action, Adventure, Arcade, Army, Dragon, knight, pixel

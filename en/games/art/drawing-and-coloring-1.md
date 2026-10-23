@@ -21,4 +21,4 @@ Choose a pet picture fill this color and make your pet picture. use a color brus
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Drawing, Kids
+- Tags: 1 Player, 2D, drawing, Kids

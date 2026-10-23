@@ -28,4 +28,4 @@ Mental arithmetic is an invaluable math skill for your everyday life. Inside Num
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, Logic, Math, Number, Puzzle
+- Tags: Brain, educational, Logic, math, Number, Puzzle

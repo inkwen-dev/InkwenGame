@@ -24,4 +24,4 @@ Pixel Hero Survivor is a Survivor-type game where you must survive endless waves
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mobile, Retro, survival
+- Tags: Mobile, retro, survival

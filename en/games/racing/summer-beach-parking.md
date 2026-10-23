@@ -21,4 +21,4 @@ Summer day and the great time to enjoy on the beach with friends, but you must f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Driving, Parking, Summer
+- Tags: Car, Driving, parking, Summer

@@ -19,6 +19,6 @@ Mommy Kitty Kate will go to the grooming cat hair salon to book a hairstylist. Y
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Cute, Decorate, Dress Up, Fashion, Girl, Girls, Hair, Kids, Makeover, Simulation

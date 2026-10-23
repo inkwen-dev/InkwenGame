@@ -19,6 +19,6 @@ In this game, you need to aim the ball into the pipe. Easy, right? Not at all. Y
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Game, Hypercasual, Logical, Pinball, Puzzle, Shoot, WebGL

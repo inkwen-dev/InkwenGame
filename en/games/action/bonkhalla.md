@@ -34,4 +34,4 @@ Survive 10 minutes, defeat the final boss, and try to endure the Final Storm!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Monster, pve
+- Tags: monster, pve

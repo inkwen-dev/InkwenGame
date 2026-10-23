@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人, 双人游戏, 3D, 汽车, HTML5, 赛车, 卡车, WebGL
+- 标签: 双人, 双人游戏, 3D, 汽车, HTML5, 比赛, 卡车, WebGL

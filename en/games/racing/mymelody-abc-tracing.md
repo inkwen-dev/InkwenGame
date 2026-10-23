@@ -19,6 +19,6 @@ MyMelody ABC Tracing is the learning HTML5 game for kids. Teach your kids to dra
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Draw, Educational, Hello Kitty, Kids, Red
+- Tags: Draw, educational, Hello Kitty, Kids, Red

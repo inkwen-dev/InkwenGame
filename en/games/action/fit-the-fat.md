@@ -21,4 +21,4 @@ Fit The Fat is a free online puzzle and funny game for boys played on PuzzleGame
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Arcade, Block, Boy, Brain, Fun, HTML5, Kids, Number, Online, Platform, Puzzle, running
+- Tags: 3D, Android, Arcade, block, Boy, Brain, Fun, HTML5, Kids, Number, Online, Platform, Puzzle, running

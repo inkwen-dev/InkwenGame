@@ -21,4 +21,4 @@ Help the ninja to cross the shurikens that are generated and automated by an ene
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Ninja, Platform
+- Tags: 2D, Action, Adventure, ninja, Platform

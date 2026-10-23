@@ -19,6 +19,6 @@ Urban Sniper Multiplayer 2 features ultimate sniper warfare in grand city, use d
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, CSGO, Gun, Multiplayer, Shoot, Shoot 'Em Up, Shooter, Shooting, Sniper, Unity3D, War, WebGL
+- Tags: 3D, 3D Games, Action, CSGO, Gun, Multiplayer, Shoot, Shoot 'Em Up, Shooter, Shooting, sniper, Unity3D, War, WebGL

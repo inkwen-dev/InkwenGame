@@ -19,6 +19,6 @@ Join Sweet Baby Girl in this new summer holiday camp game for girls! Explore sup
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Arena, Boy, Fairy, Games, Girl, Girls, Kids, Restaurant, Simulation, Simulator, Summer
+- Tags: Action, Adventure, Arcade, Arena, Boy, Fairy, Games, Girl, Girls, Kids, restaurant, Simulation, Simulator, Summer

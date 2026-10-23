@@ -21,4 +21,4 @@ Winter Truck Jigsaw is a free online game from genre of puzzle and jigsaw games.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Fun, HTML5, Jigsaw, Kids, Mobile, Truck, Winter
+- Tags: Christmas, Fun, HTML5, Jigsaw, Kids, Mobile, truck, Winter

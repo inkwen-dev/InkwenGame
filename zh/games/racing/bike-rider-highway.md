@@ -21,4 +21,4 @@ AD 左右移动 空格键刹车
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 摩托车, HTML5, iPad, iPhone, Mentolatux, 移动设备, 摩托车, 竞速, Unity3D, WebGL
+- 标签: 安卓, 自行车, HTML5, iPad, iPhone, Mentolatux, 移动设备, 摩托车, 竞速, Unity3D, WebGL

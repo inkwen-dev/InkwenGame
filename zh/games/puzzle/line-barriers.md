@@ -21,4 +21,4 @@ Line Barriers 是一款带有球和障碍物的游戏。你需要让球通过到
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 避开, 球, 收集, 儿童, 益智
+- 标签: 躲避, 球, 收集, 儿童, 益智

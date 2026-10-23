@@ -21,4 +21,4 @@ Get ready to test your rhythm and reflexes in Sprunki Retake Beat Box, an electr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, kiz10, Levels, Music
+- Tags: Clicker, kiz10, Levels, music

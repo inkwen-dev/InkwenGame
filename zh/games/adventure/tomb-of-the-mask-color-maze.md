@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 动作, Adventure, Casual, 免费HTML5游戏供您的网站使用, kiz10, 迷宫, 益智, 拼图块, 粉碎, 墓穴
+- 标签: 单人, 动作, 冒险, 休闲, 免费HTML5游戏供您的网站使用, kiz10, 迷宫, 益智, 拼图块, 击碎, 陵墓

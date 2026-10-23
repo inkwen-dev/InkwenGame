@@ -21,4 +21,4 @@ Interesting io game. Allows you to compete with other players. Collect items tha
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2D, Arcade, Boy, Boys, Casual, Cool, HTML5, Hypercasual, WebGL
+- Tags: .io, .io Games, 2D, Arcade, Boy, Boys, Casual, cool, HTML5, Hypercasual, WebGL

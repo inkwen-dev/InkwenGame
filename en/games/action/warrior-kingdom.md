@@ -21,4 +21,4 @@ Warrior Kingdom is an action RPG for one person. You will guide your character t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Arcade, Fight, Fighting, Fun, Funny, Game, Games, HTML, HTML5, NapTech Games, Online
+- Tags: 2D, Action, Adventure, Arcade, Fight, fighting, Fun, Funny, Game, Games, HTML, HTML5, NapTech Games, Online

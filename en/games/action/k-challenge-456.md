@@ -21,4 +21,4 @@ Join the game and you are now traped in unknown island, there is a musterious in
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arena, Avoid, Battle, Games, HTML5, Memory, Mobile, Online, Skill, Timing
+- Tags: 3D, 3D Games, Arena, Avoid, battle, Games, HTML5, memory, Mobile, Online, Skill, Timing

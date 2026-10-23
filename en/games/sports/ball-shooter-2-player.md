@@ -19,6 +19,6 @@ Ball shooter-game for two player! The mechanics of the game resemble a dodgeball
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Arena, Boys, Crazy, Fun, Platform, Retro, Shoot, Shooter, Shooting, Skills, Tennis
+- Tags: 2 Player, 2 Player Games, 2D, Action, Arena, Boys, crazy, Fun, Platform, retro, Shoot, Shooter, Shooting, Skills, Tennis

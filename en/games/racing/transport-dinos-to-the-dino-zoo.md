@@ -21,4 +21,4 @@ Transport Dinos To The Dino Zoo is an advance dino truck simulation game in the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boys, dino, Dinosaur, Driving, HTML5, Simulator, Truck, WebGL
+- Tags: 3D, Boys, dino, Dinosaur, Driving, HTML5, Simulator, truck, WebGL

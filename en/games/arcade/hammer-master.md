@@ -19,6 +19,6 @@ Are you want to be a hammer master who could fix anything? To be that, you need 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Adventure, Avoid, Block, Boy, Boys, Bricks, Game, Games, H5, Highscore, HTML, HTML5, Kid, Kids, Obstacle
+- Tags: 3D Games, Adventure, Avoid, block, Boy, Boys, Bricks, Game, Games, H5, Highscore, HTML, HTML5, Kid, Kids, Obstacle

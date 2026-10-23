@@ -19,6 +19,6 @@ Monster Family Jigsaw is a kind of interesting puzzle game jigsaw, which is deve
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Cartoon, Fun, HTML, HTML5, Jigsaw, Kids, Mobile, Puzzle, Relaxation

@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Android, Animal, Arcade, Brain, Candy, Classic, Color, Coloring, Fun, Funny, Girl, Girls, Horse, jump, Jumping, Kid, Kids, Mind, Mobile, Puzzle, Robot, Shoot, Shooter, Shooting
+- Tags: Action, Android, Animal, Arcade, Brain, Candy, Classic, Color, Coloring, Fun, Funny, Girl, Girls, horse, jump, jumping, Kid, Kids, Mind, Mobile, Puzzle, Robot, Shoot, Shooter, Shooting

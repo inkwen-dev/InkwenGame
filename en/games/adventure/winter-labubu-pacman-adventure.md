@@ -19,6 +19,6 @@ Winter Labubu Pacman Adventure is a super fun online game inspired by classic Pa
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Escape, Hypercasual, Kids, Labubu, Logic, Maze, Mobile, PacMan, Puzzle, Skill, survival

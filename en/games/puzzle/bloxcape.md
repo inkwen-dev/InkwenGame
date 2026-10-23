@@ -21,4 +21,4 @@ Bloxcape is a puzzle game with minimalistic graphics and sound effects. Take out
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Casual, Fun, HTML5, Hypercasual, Logic, Logical, Mobile, Skill
+- Tags: block, Casual, Fun, HTML5, Hypercasual, Logic, Logical, Mobile, Skill

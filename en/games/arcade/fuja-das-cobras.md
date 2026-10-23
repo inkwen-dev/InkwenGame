@@ -19,6 +19,6 @@ Help the hero escape from the snakes in this fast-paced reflex game! Tap or clic
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Escape, Mobile, touch

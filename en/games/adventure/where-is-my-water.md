@@ -19,6 +19,6 @@ Help Swampy by guiding water to his broken shower. Each level is a challenging p
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Cute, free html5 games for your website, HTML5, Hypercasual, Kids, Maze, Physics, Puzzle

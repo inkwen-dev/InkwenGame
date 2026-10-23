@@ -19,6 +19,6 @@ Connect the all halloween mahjong tiles and clear the board in this html5 mahjon
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Halloween, HTML5, Mahjong, Matching, Mobile
+- Tags: Halloween, HTML5, mahjong, Matching, Mobile

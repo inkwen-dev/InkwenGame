@@ -19,6 +19,6 @@ Tomb of the Dash – Template for Construct 3 is a game inspired by the cell pho
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Arcade, PacMan, Pixel, Puzzle, Skill
+- Tags: 1 Player, Action, Arcade, PacMan, pixel, Puzzle, Skill

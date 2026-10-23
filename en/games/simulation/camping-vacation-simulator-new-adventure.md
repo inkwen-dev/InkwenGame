@@ -19,6 +19,6 @@ Let's go to enjoy summer camps on this camping vacation trip! If your child want
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Best, Boys, Educational, Fun, Funny, Games, Girls, Kids, New, Simulation, Simulator
+- Tags: Adventure, Best, Boys, educational, Fun, Funny, Games, Girls, Kids, New, Simulation, Simulator

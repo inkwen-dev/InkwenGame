@@ -21,4 +21,4 @@ This game tests and challenges your memory! In each level, 12 cards (6 images in
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Fun, HTML5, Kids, Memory, Skill, Winter
+- Tags: Christmas, Fun, HTML5, Kids, memory, Skill, Winter

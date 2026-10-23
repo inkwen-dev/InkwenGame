@@ -19,6 +19,6 @@ Are you ready to go on an exciting adventure in the heart of nature with Duck Hu
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Android, Arcade, Best Games, Cartoon, Casual, Cute, Funny, Girls, Kid, Kids, Puzzle, Shooter, Shooting

@@ -19,6 +19,6 @@ Upgrade your stickman, fight enemies in the Stickman Archero game. Create cool a
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Arcade, Arena, Army, Avoid, Battle, Battlegrounds, Best, Brawl, Cartoon, Castle, Casual, Clash, Craft, Crafting, Crazy, Escape, Fantasy, Fight, Fighting, Game, Games, Hot, Interactive, Magic, Minecraft, Ninja, Platform, Play, Rescue, Samurai, Side Scrolling, Simulation, Simulator, Stickman, Street Fighting, Sword, Violence, War, weapons, Wizard
+- Tags: 1 Player, 2D, Action, Adventure, Arcade, Arena, Army, Avoid, battle, Battlegrounds, Best, Brawl, Cartoon, Castle, Casual, Clash, Craft, Crafting, crazy, Escape, Fantasy, Fight, fighting, Game, Games, Hot, Interactive, Magic, Minecraft, ninja, Platform, Play, Rescue, Samurai, Side Scrolling, Simulation, Simulator, stickman, Street Fighting, sword, Violence, War, weapons, Wizard

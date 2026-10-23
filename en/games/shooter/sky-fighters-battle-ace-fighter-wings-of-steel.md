@@ -21,4 +21,4 @@ Use Mouse Or keyboard To Play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adult, Adventure, Air, Aircraft, Boy, Fight, Fighting, Girl, Shoot, Shooter, Shooting, Strategy
+- Tags: Action, Adult, Adventure, Air, Aircraft, Boy, Fight, fighting, Girl, Shoot, Shooter, Shooting, strategy

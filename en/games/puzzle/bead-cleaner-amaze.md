@@ -19,6 +19,6 @@ Bead Cleaner Amaze is a very simple casual game. You just need to manipulate the
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Cleaning, Kids, Mobile, Skill

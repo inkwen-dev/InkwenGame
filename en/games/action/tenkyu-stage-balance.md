@@ -19,6 +19,6 @@ Have fun tenkyu, learn fast Stack Ball tenkyu and start balancing your tenkyu ba
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Balance, Ball, Casual, Color, Fun, Hypercasual, Platform

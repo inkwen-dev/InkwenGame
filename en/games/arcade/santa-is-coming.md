@@ -19,6 +19,6 @@ Santa is Coming, is a path finding puzzle game where you need to form a path bet
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Christmas, HTML5, Mobile, Puzzle

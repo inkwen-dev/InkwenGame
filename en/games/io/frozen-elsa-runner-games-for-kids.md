@@ -19,6 +19,6 @@ Frozen Elsa Running games for kids and adults! This is a cartoon runner game! Pl
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Adventure, Best, Elsa, endless, Frozen, Fun, Hot, Kids, New, run, running, Snow

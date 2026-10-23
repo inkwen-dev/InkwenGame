@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 弓, 大脑, 有趣, 女孩, 高分, HTML5, 体育
+- 标签: 弓箭, 大脑, 有趣, 女孩, 高分, HTML5, 运动

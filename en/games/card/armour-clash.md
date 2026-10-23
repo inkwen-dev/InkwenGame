@@ -19,6 +19,6 @@ Armour Clash is real time strategy tank game. Objective is to destroy the oppone
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Card, Tanks, Timing
+- Tags: Action, battle, card, tanks, Timing

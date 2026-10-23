@@ -15,6 +15,6 @@ Dive into Anime Headball, where each fast-paced duel is a colorful clash of styl
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Soccer

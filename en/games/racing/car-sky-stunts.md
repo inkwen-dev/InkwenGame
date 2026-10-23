@@ -21,4 +21,4 @@ Ramp Car Stunts Racing - Free Car Games 2021 Enjoy the most addictive offline ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, drift, drifting, Driving, jump, Jumping, Racing, Ski, sky, Stunts, Supercars
+- Tags: Car, drift, drifting, Driving, jump, jumping, Racing, Ski, sky, Stunts, Supercars

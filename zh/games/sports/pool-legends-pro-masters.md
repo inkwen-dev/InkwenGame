@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 8球台球, 最佳游戏, Poppy Playtime, 运动
+- 标签: 8球台球, 最佳游戏, 波比游乐场, 体育

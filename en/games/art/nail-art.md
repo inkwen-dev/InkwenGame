@@ -19,6 +19,6 @@ Hay, girls, here is a popular game about nail art. Choose a princess to design h
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Color, Decorate, Design, Frozen, Fun, Girls, HTML5, Kids, Mobile, Nail, Princess

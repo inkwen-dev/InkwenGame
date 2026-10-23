@@ -21,4 +21,4 @@ It's possible now to play Ben 10 Drone Destruction game in your web browser for 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Avoid, Ben 10, Boys, Brain, Cartoon, Cartoon Network, Defense, Educational, Family, Fun, Girls, HTML5, Mobile, Shoot 'Em Up, Shooting, Skills
+- Tags: Action, Adventure, Avoid, Ben 10, Boys, Brain, Cartoon, Cartoon Network, Defense, educational, Family, Fun, Girls, HTML5, Mobile, Shoot 'Em Up, Shooting, Skills

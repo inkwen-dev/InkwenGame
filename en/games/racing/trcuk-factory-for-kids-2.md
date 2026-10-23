@@ -19,6 +19,6 @@ CONSTRUCT and RIDE your very own construction transport is fairly easy right now
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Car, Classic, Cleaning, Creation, Disney, Girl, Girls, H5, HTML5, Train, Truck
+- Tags: Boy, Boys, Car, Classic, Cleaning, Creation, Disney, Girl, Girls, H5, HTML5, Train, truck

@@ -21,4 +21,4 @@ In our new exciting game, you will manage a real dental hospital. And every day 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Casual, Cleaning, Doctor, Girl, Girls, H5, HTML5, Surgery
+- Tags: Animal, Baby, Casual, Cleaning, Doctor, Girl, Girls, H5, HTML5, surgery

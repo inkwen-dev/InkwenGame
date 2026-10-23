@@ -21,4 +21,4 @@ Bug is an alien insect from another galaxy. He fell on planet Earth and found hi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Alien, Bounce, Flight, Jigsaw, Music, Side Scrolling
+- Tags: 1 Player, Action, Alien, Bounce, flight, Jigsaw, music, Side Scrolling

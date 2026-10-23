@@ -19,6 +19,6 @@ Two alien princesses are so similar and so different. One of them lives in the f
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Crazy, Cute, Dress Up, Fantasy, Fashion, Girl, Hair, HTML5, Makeover, Planet, Princess, World
+- Tags: crazy, Cute, Dress Up, Fantasy, Fashion, Girl, Hair, HTML5, Makeover, Planet, Princess, World

@@ -21,4 +21,4 @@ Simplified classic Mahjong game with birds theme. You can eliminate pair of simi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bird, HTML5, Mahjong, Matching, Mobile, Puzzle
+- Tags: Arcade, Bird, HTML5, mahjong, Matching, Mobile, Puzzle

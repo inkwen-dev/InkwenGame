@@ -19,6 +19,6 @@ The twin brothers need to collect the diamonds and activate the door. You have t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Android, Arcade, Boy, Mobile

@@ -50,4 +50,4 @@ Music: "Electric City" by Tsorthan Grove, licensed under CC BY 4.0; "Streets Aft
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Adventure, Fighting, Ninja, Platform, Zombie
+- Tags: 3D, Action, Adventure, fighting, ninja, Platform, Zombie

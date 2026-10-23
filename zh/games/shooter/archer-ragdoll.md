@@ -41,4 +41,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 射箭, 搞笑, 布娃娃, Stickman
+- 标签: 弓箭, 搞笑, 布娃娃, 木偶人

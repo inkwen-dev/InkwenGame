@@ -21,4 +21,4 @@ Garten of Banban Escape is an adrenaline-pumping online game that combines eleme
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Escape, kiz10, Monster
+- Tags: 3D Games, Escape, kiz10, monster

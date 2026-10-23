@@ -21,4 +21,4 @@ Complete all Poppy pop it toys to Escape From The Toys Factory! Try to do that a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boy, Boys, Click, Clicker, Girl, Girls, HTML, HTML5, Monster
+- Tags: 2D, Boy, Boys, Click, Clicker, Girl, Girls, HTML, HTML5, monster

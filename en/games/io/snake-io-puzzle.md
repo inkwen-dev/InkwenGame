@@ -21,4 +21,4 @@ Play against other people online! Can you become the longest slither? If your he
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Arcade, Multiplayer, Slither, Snake
+- Tags: .io Games, Arcade, Multiplayer, Slither, snake

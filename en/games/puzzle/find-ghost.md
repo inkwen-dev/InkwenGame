@@ -19,6 +19,6 @@ Welcome to the Find Ghost Memory Brain Game! Try to remember the orange ghost ca
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Ghost, Memory, Puzzle
+- Tags: Brain, Ghost, memory, Puzzle

@@ -19,6 +19,6 @@ Kids it's time to train yourself for take care of your's horse and unicorn pony 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D, 3D Games, Action, Adventure, Arcade, Casual, Dress Up, Fun, Funny, Hypercasual, Pony, Shopping, Unity3D

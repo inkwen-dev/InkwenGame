@@ -21,4 +21,4 @@ Super run is a classic platformer adventure game that is inspired by the very ol
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Classic, Mario, Platform, Super
+- Tags: Classic, mario, Platform, Super

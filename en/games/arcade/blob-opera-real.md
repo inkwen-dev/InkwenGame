@@ -21,4 +21,4 @@ Here is an experimental method for creating opera music using the voices of a re
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Bow, Classic, HTML, HTML5, Hypercasual, Music, Puzzle, Unity3D
+- Tags: 3D, 3D Games, Arcade, Bow, Classic, HTML, HTML5, Hypercasual, music, Puzzle, Unity3D

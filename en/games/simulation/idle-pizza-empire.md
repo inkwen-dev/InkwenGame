@@ -19,6 +19,6 @@ Are you a true pizza lover? Become a restaurant tycoon, build an empire, earn mo
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, Cartoon, Casual, Click, Clicker, Color, Cook, Cooking, Hypercasual, Restaurant, Simulation, Simulator, Stickman
+- Tags: 2D, Android, Cartoon, Casual, Click, Clicker, Color, Cook, Cooking, Hypercasual, restaurant, Simulation, Simulator, stickman

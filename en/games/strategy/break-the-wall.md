@@ -21,4 +21,4 @@ Smash the walls, set yourself free from the boring energy of office space, class
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Hypercasual, Strategy, War
+- Tags: Casual, Hypercasual, strategy, War

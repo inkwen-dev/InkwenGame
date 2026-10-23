@@ -21,4 +21,4 @@ Before the emergence of post-apocalyptic zombies, the globe was a tranquil and c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Best, Crazy, Interactive, Shooting, Skill, Unity3D, WebGL, Zombie
+- Tags: 3D Games, Action, Best, crazy, Interactive, Shooting, Skill, Unity3D, WebGL, Zombie

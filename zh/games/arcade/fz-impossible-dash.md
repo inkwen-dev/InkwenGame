@@ -21,4 +21,4 @@ FZ Impossible Dash – 通过你的反应来挑战自己，测试你的能力！
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 街机, 儿童, 孩子们
+- 标签: 冒险, 街机, 儿童, 儿童

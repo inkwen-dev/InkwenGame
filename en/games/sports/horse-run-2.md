@@ -19,6 +19,6 @@ Start your journey from a humble stable boy to a dressage super star! Join our p
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Sports
+- Tags: sports

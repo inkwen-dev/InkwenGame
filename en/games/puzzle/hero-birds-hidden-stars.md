@@ -19,6 +19,6 @@ Hero Birds Hidden Stars is a free online kids and hidden object game. Find out t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: angrybirds, Animal, Best, Fun, Funny, Hidden, Mobile, Relaxation, Skill

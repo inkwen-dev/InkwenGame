@@ -21,4 +21,4 @@ Sonic Wheelie Challenge 是一款超级有趣的驾驶游戏，您可以在网�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 躲避, 男孩, 汽车, 赛车, 收集, 驾驶, HTML5, 超休闲, 赛车, 道路, 技巧
+- 标签: 街机, 躲避, 男孩, 汽车, 汽车, 收集, 驾驶, HTML5, 超休闲, 竞速, 道路, 技巧

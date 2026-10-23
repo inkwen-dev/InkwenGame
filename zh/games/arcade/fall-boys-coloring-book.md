@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 涂色, 教育, 秋季男孩, Fall Guys, 趣味, 超休闲, 儿童, 学校
+- 标签: 街机, 着色, 教育, 跌倒男孩, Fall Guys, 有趣, 超休闲, 儿童, 学校

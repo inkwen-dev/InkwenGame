@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 热门, HTML5, 轻度休闲, 逻辑, 数字, 益智, 放松
+- 标签: 热门, HTML5, 超休闲, 逻辑, 数字, 益智, 放松

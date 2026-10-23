@@ -19,6 +19,6 @@ Are you ready to be the epic hero in the top battles? Gather your heroes with a 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML5, Puzzle, Superhero, Tower Defense, War

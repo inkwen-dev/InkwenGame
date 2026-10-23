@@ -21,4 +21,4 @@ Cartoon Motorbike Jigsaw is a free online game from genre of puzzle and jigsaw g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Fun, HTML5, Jigsaw, Kids, Mobile, Motorcycle, Skill
+- Tags: bike, Fun, HTML5, Jigsaw, Kids, Mobile, Motorcycle, Skill

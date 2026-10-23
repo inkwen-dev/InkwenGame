@@ -21,4 +21,4 @@ This is logical puzzle game where you need to escape from the frame. It is a kin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Escape, Hypercasual, Kids, Logical, Puzzle
+- Tags: block, Escape, Hypercasual, Kids, Logical, Puzzle

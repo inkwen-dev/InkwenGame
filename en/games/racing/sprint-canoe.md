@@ -21,4 +21,4 @@ Lacking an explosion of emotions and adrenaline? You can get it all in an incred
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Racing, Sport, Sports
+- Tags: Racing, Sport, sports

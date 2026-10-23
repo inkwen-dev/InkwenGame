@@ -21,4 +21,4 @@ The Subway Surfers World Tour goes to stunning Buenos Aires! - Experience unique
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Arcade, HTML5, Hypercasual, Jumping, running, subway, Subway Surfers
+- Tags: 3D, 3D Games, Action, Adventure, Arcade, HTML5, Hypercasual, jumping, running, subway, Subway Surfers

@@ -21,4 +21,4 @@ Light it Up Game is beautifully designed and made with love! Swing, jump, flip a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, jump, Jumping, Ninja, Stickman
+- Tags: Adventure, jump, jumping, ninja, stickman

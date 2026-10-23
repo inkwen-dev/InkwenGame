@@ -21,4 +21,4 @@ Territory.io is an exciting territory capture game where players compete to cont
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Arcade, Battle, Casual, Snake, Strategy, survival
+- Tags: .io, .io Games, Arcade, battle, Casual, snake, strategy, survival

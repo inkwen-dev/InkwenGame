@@ -21,4 +21,4 @@ Yummy Popsicle Memory is a free online game from genre of memory and kids games.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Kids, Memory, Mobile, Puzzle, Skill
+- Tags: Fun, HTML5, Kids, memory, Mobile, Puzzle, Skill

@@ -21,4 +21,4 @@ A new social media challenge has begun! Cute princesses decided to depict emoji.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Craft, Crazy, Cute, Dress Up, Fashion, Girl, HTML5, Makeover, Princess
+- Tags: Craft, crazy, Cute, Dress Up, Fashion, Girl, HTML5, Makeover, Princess

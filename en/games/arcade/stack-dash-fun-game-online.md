@@ -19,6 +19,6 @@ Stack Dash is new free fun game, Swipe the stack dash cube collectin to keep goi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Adventure, Anime, Arcade, Casual, Fun, Funny, Games, Hypercasual, Kids, Maze, Online, Puzzle, Stack

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 球, 繪畫, kiz10, 关卡, 超级英雄
+- 标签: 球, 绘画, kiz10, 关卡, 超级英雄

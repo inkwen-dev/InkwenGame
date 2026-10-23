@@ -19,6 +19,6 @@ It\\\\\\\&#39;s time to test your memory in the Cho Cho Charles Match Up game! J
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Adventure, Arcade, Click, Clicker, Kid, Kids, Matching, Puzzle

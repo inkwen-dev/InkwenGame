@@ -17,4 +17,4 @@ Ultimate Car Parking Challenge tests your driving precision in a realistic simul
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Parking
+- Tags: parking

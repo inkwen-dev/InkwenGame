@@ -15,6 +15,6 @@ Dive into the mesmerizing world of Tap Away Block Puzzle 3D, where each tap unra
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Puzzle

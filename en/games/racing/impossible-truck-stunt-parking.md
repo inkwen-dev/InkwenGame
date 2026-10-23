@@ -19,6 +19,6 @@ Are you like driving games? If yes then you will love to play the latest and uni
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Driving, Parking, Simulation, Simulator, Stunts, Truck
+- Tags: 1 Player, 3D, 3D Games, Driving, parking, Simulation, Simulator, Stunts, truck

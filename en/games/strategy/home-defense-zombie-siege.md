@@ -21,4 +21,4 @@ Home Defense Zombie Siege is a thrilling tower defense game that has taken the g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Defense, Kid, Strategy, Tower Defense, Zombie
+- Tags: Defense, Kid, strategy, Tower Defense, Zombie

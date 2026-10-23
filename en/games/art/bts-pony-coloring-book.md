@@ -19,6 +19,6 @@ BTS Pony Coloring Book is awesome game for children of all ages that loves to es
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Baby, Boys, Color, Coloring, Game, Girls, HTML5, Hypercasual, Kids, Mobile, School

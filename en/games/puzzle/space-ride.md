@@ -19,6 +19,6 @@ Play Space Ride Hidden Stars game for free on mobiles and tablets. No downloads 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Kids, Puzzle

@@ -19,6 +19,6 @@ Build your raft as you try to destroy your enemies rafts. Keep building so that 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Boat, Fighting, Online, War
+- Tags: Action, battle, Boat, fighting, Online, War

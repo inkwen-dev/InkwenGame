@@ -21,4 +21,4 @@ Drive.IO is a smart traffic control game where you take charge of managing cars 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, city, Parking, Train
+- Tags: 3D, Car, city, parking, Train

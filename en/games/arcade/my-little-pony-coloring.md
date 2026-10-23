@@ -19,6 +19,6 @@ My Little Pony coloring Book for Kids. My Little Pony coloring Book are a fun wa
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Army, Boys, Color, Coloring, Disney, Draw, Drawing, Fun, Girls, Kids, Plant
+- Tags: Arcade, Army, Boys, Color, Coloring, Disney, Draw, drawing, Fun, Girls, Kids, Plant

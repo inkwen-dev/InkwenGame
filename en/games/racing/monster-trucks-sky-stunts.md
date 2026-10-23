@@ -19,6 +19,6 @@ Monster Trucks Sky Stunts take extreme driving to the next level, as these power
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Driving, Mentolatux, monstertruck, Racing, Stunts, Truck, Unity3D, WebGL
+- Tags: Car, Driving, Mentolatux, monstertruck, Racing, Stunts, truck, Unity3D, WebGL

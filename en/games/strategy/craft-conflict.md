@@ -19,6 +19,6 @@ Welcome to the thrilling world of strategy and combat! In this captivating game,
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Arcade, Battle, Castle, Casual, Hypercasual, Tower Defense
+- Tags: 1 Player, 3D, 3D Games, Arcade, battle, Castle, Casual, Hypercasual, Tower Defense

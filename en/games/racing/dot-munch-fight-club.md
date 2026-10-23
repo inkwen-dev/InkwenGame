@@ -21,4 +21,4 @@ Dot Muncher Fight Club smooth and relaxing game based on osmosis principle. Eat 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player, 2 Player Games, 2D, 3D, 3D Games, Action, Arcade, Baby Hazel, Balance, Ball, Ballon, Bejeweled, Boy, Boys, Casual, Food, Game, Games, Girls, Hello Kitty, Hypercasual, Interactive, Interactive Fiction, Jewel, Machine, Miraculous Ladybug, Mobile, Obstacle, PacMan, Rabbit, Race, Racing, Slacking, Slot Machine, Space, Spaceship, Stack, Submachine, subway, Subway Surfers, Sudoku, Summer, sumo, Super, Supercars, Superhero, surfers, Surgery, Turn Based, WebGL, Whack
+- Tags: .io Games, 2 Player, 2 Player Games, 2D, 3D, 3D Games, Action, Arcade, Baby Hazel, Balance, Ball, Ballon, Bejeweled, Boy, Boys, Casual, Food, Game, Games, Girls, Hello Kitty, Hypercasual, Interactive, Interactive Fiction, Jewel, Machine, Miraculous Ladybug, Mobile, Obstacle, PacMan, Rabbit, Race, Racing, Slacking, Slot Machine, Space, Spaceship, Stack, Submachine, subway, Subway Surfers, Sudoku, Summer, sumo, Super, Supercars, Superhero, surfers, surgery, Turn Based, WebGL, Whack

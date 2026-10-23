@@ -19,6 +19,6 @@ Kids Unicorn Dress Up is a casual free game. There are 4 unicorns waiting for yo
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up

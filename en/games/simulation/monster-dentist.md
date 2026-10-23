@@ -19,6 +19,6 @@ These Monster have been eating way too much of their candy and need to have thei
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Baby, Casual, Doctor, Girl, Girls, Halloween, Kids, Monster, Puzzle, Simulation, Surgery, Zombie
+- Tags: 2D, Baby, Casual, Doctor, Girl, Girls, Halloween, Kids, monster, Puzzle, Simulation, surgery, Zombie

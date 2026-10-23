@@ -21,4 +21,4 @@ Huggy 和 Kissy 在追 Steve 和 Alex，嘿，Alex 和 Steve 快跑，永远不�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人, 双人游戏, 2D, 动作, 冒险, Android
+- 标签: 双人, 双人游戏, 2D, 动作, 冒险, 安卓

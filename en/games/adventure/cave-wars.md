@@ -21,4 +21,4 @@ Hunt Zombies to Earn Points!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Gun, Strategy, Zombie
+- Tags: 1 Player, 2D, Action, Gun, strategy, Zombie

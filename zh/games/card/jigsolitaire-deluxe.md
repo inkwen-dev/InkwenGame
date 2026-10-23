@@ -21,4 +21,4 @@ Jigsolitaire Deluxe 是一款精致的纸牌类谜题游戏，每一关都化作
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 卡片, 放松, 接龙
+- 标签: 单人, 卡牌, 放松, 纸牌游戏

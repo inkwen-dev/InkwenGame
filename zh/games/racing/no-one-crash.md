@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 对战, 休闲, 经典, 点击器, 疯狂, 飞, 高分, 赛车, Unity3D
+- 标签: 战斗, 休闲, 经典, 点击器, 疯狂, 飞, 高分, 比赛, Unity3D

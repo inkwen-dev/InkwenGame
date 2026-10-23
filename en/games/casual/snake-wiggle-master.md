@@ -30,4 +30,4 @@ With simple controls and clean visuals, Snake Wiggle Master! is easy to play and
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Snake
+- Tags: snake

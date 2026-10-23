@@ -21,4 +21,4 @@ Tap the birds out of the sky in this fast paced action strategy game from Mapi g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bird, Click, Clicker, Flight, fly, HTML, HTML5, Kill, Killing
+- Tags: Bird, Click, Clicker, flight, fly, HTML, HTML5, Kill, Killing

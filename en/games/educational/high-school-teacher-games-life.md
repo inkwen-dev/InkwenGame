@@ -21,4 +21,4 @@ Welcome to the High School Teacher Games Life, where you can experience the real
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 3D Games, Educational, Quiz, School
+- Tags: 2026 games, 3D Games, educational, Quiz, School

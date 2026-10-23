@@ -21,4 +21,4 @@ Survive the heat in THE LAVA ESCAPE! A high-stakes 2D platformer where you must 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Ai Games, Arcade, Escape, Monster, Platform, running, Stickman, survival
+- Tags: 2D, Action, Ai Games, Arcade, Escape, monster, Platform, running, stickman, survival

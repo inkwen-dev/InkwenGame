@@ -21,4 +21,4 @@ You own a pet store and the most important business is pet grooming. One day a g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cat, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: Animal, Baby, Cat, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

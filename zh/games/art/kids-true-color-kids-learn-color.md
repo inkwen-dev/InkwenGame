@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 成人, 男孩, 颜色, 涂色, 教育, 女孩, 猜测, HTML5, 儿童, 孩子们, 解谜, WebGL
+- 标签: 成人, 男孩, 颜色, 着色, 教育, 女孩, 猜谜, HTML5, 儿童, 儿童, 益智, WebGL

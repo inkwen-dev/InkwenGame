@@ -21,4 +21,4 @@ Race or run rich it's new life simulation game, the run rich game teaching you h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, 8 Ball Pool, Adventure, Bounce, Boy, Boys, Girl, Girls, Pool, Race, Racing, Unity3D
+- Tags: 3D, 3D Games, 8 Ball Pool, Adventure, Bounce, Boy, Boys, Girl, Girls, pool, Race, Racing, Unity3D

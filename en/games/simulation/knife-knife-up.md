@@ -21,4 +21,4 @@
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Boys, Girls, Knight, Puzzle, Simulator
+- Tags: Action, Arcade, Boys, Girls, knight, Puzzle, Simulator

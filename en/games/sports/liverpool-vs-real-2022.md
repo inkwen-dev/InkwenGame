@@ -21,4 +21,4 @@ This is your chance to win the championship. Choose Liverpool F.C. or Real madri
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Soccer, Sport, Sports
+- Tags: Arcade, Soccer, Sport, sports

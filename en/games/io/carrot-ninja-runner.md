@@ -19,6 +19,6 @@ Carrot Ninja Runner is an exciting game where you play as a ninja with a carrot-
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2D, Action, Adventure, Fun, running

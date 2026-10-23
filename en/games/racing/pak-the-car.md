@@ -21,4 +21,4 @@ Draw a road with you finger and park the car safely. Get ready for exciting park
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boy, Boys, Car, Cars, HTML5, Parking, Race, Racing, WebGL
+- Tags: 3D, Boy, Boys, Car, Cars, HTML5, parking, Race, Racing, WebGL

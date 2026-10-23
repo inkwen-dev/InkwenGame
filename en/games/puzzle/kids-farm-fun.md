@@ -19,6 +19,6 @@ Let your kids enter the farm with all of its cute inhabitants! What awaits them 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Animal, Cat, Farm, HTML5, Jigsaw, Puzzle

@@ -21,4 +21,4 @@ PC 跳跃 攻击 空格键
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 马里奥
+- 标签: 2D, mario

@@ -15,6 +15,6 @@ Race against the clock in Buzzy Match, a thrilling match-3 puzzle adventure! Str
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Match 3

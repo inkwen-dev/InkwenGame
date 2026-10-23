@@ -21,4 +21,4 @@ Jetski Racing World is an exciting fast-paced jetski 3D racing game. Complete al
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Boat, Crazy, HTML5, Race, Racing, Sim, Simulation, Sports, Unity3D, WebGL
+- Tags: 1 Player, 3D, 3D Games, Boat, crazy, HTML5, Race, Racing, Sim, Simulation, sports, Unity3D, WebGL

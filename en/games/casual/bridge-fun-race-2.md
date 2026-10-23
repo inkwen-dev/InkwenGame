@@ -15,6 +15,6 @@ In Bridge Fun Race, dive into thrilling knockout battles with adorable 3D charac
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Casual

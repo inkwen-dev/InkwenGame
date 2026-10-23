@@ -21,4 +21,4 @@ Features: * Endless 3 d Car Racing *Random generated Levels * Simple Controls * 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Animal, Arcade, Baby, Batman, Battle, Bejeweled, Best, Boy, Boys, Bubble, Bubble Shooter, Car, Card, Cars, Dragon, Dragon Ball Z, Fantasy, Fight, Girl, Girls, Jelly, Kid, Kids, Kiss, Kissing, Mario, Match 3, Matching, New, Ninja, Punch, Puzzle, Retro, Robot, run, running, Space, Spiderman, Spongebob, Sport, Supercars, Superhero, temple, Turn
+- Tags: Action, Animal, Arcade, Baby, Batman, battle, Bejeweled, Best, Boy, Boys, Bubble, Bubble Shooter, Car, card, Cars, Dragon, Dragon Ball Z, Fantasy, Fight, Girl, Girls, Jelly, Kid, Kids, Kiss, Kissing, mario, Match 3, Matching, New, ninja, Punch, Puzzle, retro, Robot, run, running, Space, Spiderman, Spongebob, Sport, Supercars, Superhero, temple, Turn

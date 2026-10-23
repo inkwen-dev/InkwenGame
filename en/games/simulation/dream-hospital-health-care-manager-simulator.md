@@ -21,4 +21,4 @@ Get on the board of the city multispecialty hospital and medical center and beco
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, Cartoon, Cartoon Network, Disney, Doctor, Kids, Simulation, Surgery
+- Tags: Baby, Baby Hazel, Cartoon, Cartoon Network, Disney, Doctor, Kids, Simulation, surgery

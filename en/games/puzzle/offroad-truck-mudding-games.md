@@ -19,6 +19,6 @@ Start engine of 6x6 Mud Car Tow Truck simulator games and drive to rescue wrecke
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2 Player Games, 8 Ball Pool, Action, Adult, Adventure, Animal, Ball, Batman, Battlegrounds, Bike, Block, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, Color, Coloring, drift, drifting, Driving, Game, Games, Sim, Simulation, Simulator, Spiderman, Supercars, Truck
+- Tags: .io Games, 1 Player, 2 Player Games, 8 Ball Pool, Action, Adult, Adventure, Animal, Ball, Batman, Battlegrounds, bike, block, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, Color, Coloring, drift, drifting, Driving, Game, Games, Sim, Simulation, Simulator, Spiderman, Supercars, truck

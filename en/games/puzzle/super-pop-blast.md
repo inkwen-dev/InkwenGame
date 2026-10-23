@@ -19,6 +19,6 @@ Get ready for a new kind of brick shooter! Clear all the blocks using a limited 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Bounce, Bricks, Bubble Shooter, Casual, Puzzle, puzzleblock

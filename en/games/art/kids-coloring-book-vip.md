@@ -19,6 +19,6 @@ Do you want to play a game with fun and quality time? This game is for you. This
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Color, Coloring, Draw, Drawing, Kid, Kids
+- Tags: 1 Player, 2D, Color, Coloring, Draw, drawing, Kid, Kids

@@ -19,6 +19,6 @@ Doodle Football is an imaginative and captivating 2D casual game that combines c
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Drawing, Sports
+- Tags: Casual, drawing, sports

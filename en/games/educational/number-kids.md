@@ -21,4 +21,4 @@ Number Kids is an engaging and educational game designed to help children enhanc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kid, Kids, NapTech Games
+- Tags: educational, Kid, Kids, NapTech Games

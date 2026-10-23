@@ -21,4 +21,4 @@ Embark on a thrilling adventure with the Laser Cave game! Perfect for fans of th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, H5, Hot, HTML5, New, Ninja, Ninjago, Shoot, Shooter, Shooting
+- Tags: Arcade, Best, H5, Hot, HTML5, New, ninja, Ninjago, Shoot, Shooter, Shooting

@@ -19,6 +19,6 @@ Unleash your creativity with the Italian Tung Coloring Book, a hilarious and sur
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Color, Coloring, Draw, Drawing, Girl, Girls, Kids, Tung, Tung Tung Tung Sahur
+- Tags: Boys, Color, Coloring, Draw, drawing, Girl, Girls, Kids, Tung, Tung Tung Tung Sahur

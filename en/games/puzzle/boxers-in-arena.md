@@ -21,4 +21,4 @@ In this Boxers in Arena game you have 6 images of boxers in action in three mode
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boxing, Boys, Brain, Fighting, Jigsaw, Puzzle
+- Tags: Boxing, Boys, Brain, fighting, Jigsaw, Puzzle

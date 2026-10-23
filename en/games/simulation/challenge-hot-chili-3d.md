@@ -21,4 +21,4 @@ It is a game based on eating pepper. In the game, players will be exposed to lei
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Cake, Candy, Cooking, Crazy, Food, Fruits, H5
+- Tags: 1 Player, Cake, Candy, Cooking, crazy, Food, Fruits, H5

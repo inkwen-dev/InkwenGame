@@ -21,4 +21,4 @@ Petzoong is a fun arcade matching mahjong game. It a simple yet fun game to play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Collecting, Cute, Funny, Logic, Mahjong, Matching, Puzzle
+- Tags: Animal, Collecting, Cute, Funny, Logic, mahjong, Matching, Puzzle

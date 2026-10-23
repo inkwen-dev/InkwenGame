@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 2048, 街机, 方块, 棋盘, 休闲, 休闲, mineblock, 益智, 拼图方块, 俄罗斯方块
+- 标签: 单人, 2048, 街机, 方块, 棋盘, 休闲, 超休闲, mineblock, 益智, 拼图块, tetris

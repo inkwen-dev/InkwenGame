@@ -23,4 +23,4 @@ Guide the snake to eat apples 🍏 to make its body grow longer. Your goal is to
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: Puzzle, Snake
+- Tags: Puzzle, snake

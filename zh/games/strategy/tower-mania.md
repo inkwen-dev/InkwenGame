@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 点击, 高塔奇缘, 乐趣, 搞笑, HTML, HTML5, 塔防
+- 标签: 点击, 永恒高飞, 有趣, 搞笑, HTML, HTML5, 塔防

@@ -21,4 +21,4 @@ One-tap ninja wall-jump climber. Leap between walls, slash flying enemies, chain
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, Ninja, Platform, running, Skill
+- Tags: Action, Arcade, ninja, Platform, running, Skill

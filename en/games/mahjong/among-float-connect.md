@@ -21,4 +21,4 @@ Connect 2 same among items with a path that no more than two 90 degree angles. C
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Mahjong, Mobile
+- Tags: HTML5, mahjong, Mobile

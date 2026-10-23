@@ -21,4 +21,4 @@ World Tour - is a game where player has to jump over worlds cultural monuments a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Casual, Jumping, run
+- Tags: 1 Player, Casual, jumping, run

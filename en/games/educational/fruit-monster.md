@@ -21,4 +21,4 @@ Fruit Monster game for kids. With the Fruit Monster game, learn the name of vari
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Food, Fruits, HTML5, Kids, Letters, School
+- Tags: educational, Food, Fruits, HTML5, Kids, Letters, School

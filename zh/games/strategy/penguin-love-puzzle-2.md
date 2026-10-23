@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 动物, 躲避, 男孩, H5, HTML5, 儿童, 爱情, 技巧, 策略
+- 标签: 安卓, 动物, 躲避, 男孩, H5, HTML5, 儿童, 爱情, 技巧, 策略

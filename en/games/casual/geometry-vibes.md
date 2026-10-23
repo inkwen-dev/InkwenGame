@@ -30,4 +30,4 @@ Geometry Vibes is a reaction-based arcade game where you avoid obstacles, traps 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mobile, Music, popular, Skill
+- Tags: Mobile, music, popular, Skill

@@ -21,4 +21,4 @@ Ink Design - Super Tattoo Salon is the application idea of how to draw the art o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Drawing
+- Tags: drawing

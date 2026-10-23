@@ -15,6 +15,6 @@ Welcome to the hustle and bustle of Marmot Diner Dash, where you master restaura
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Cooking

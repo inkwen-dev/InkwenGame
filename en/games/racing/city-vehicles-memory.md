@@ -21,4 +21,4 @@ City Vehicles Memory is a free online game from genre of memory and monsters tru
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Fun, HTML5, Kids, Memory, Mobile, Puzzle
+- Tags: Car, Fun, HTML5, Kids, memory, Mobile, Puzzle

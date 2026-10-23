@@ -19,6 +19,6 @@ Come to our nail salon to get a perfect manicure and pedicure! Here, you can pla
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Cartoon, Color, Decorate, Fashion, Girls, Kids, Makeover, Nail, Nails, Princess

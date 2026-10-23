@@ -19,6 +19,6 @@ High School Couples Anime Dress Up Dress up and make up a teenage girl for a rom
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Cartoon Network

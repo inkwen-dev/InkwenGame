@@ -21,4 +21,4 @@ Get ready for a sweet learning adventure with Shape Whiz &ndash; the donut-theme
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Clicker, Educational, Hypercasual, Kids, NapTech Games, Skills
+- Tags: Brain, Clicker, educational, Hypercasual, Kids, NapTech Games, Skills

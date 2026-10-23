@@ -53,4 +53,4 @@ PC 端 💻 — 按住鼠标左键并移动光标进行攻击。
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 怪兽, PVE
+- 标签: monster, PVE

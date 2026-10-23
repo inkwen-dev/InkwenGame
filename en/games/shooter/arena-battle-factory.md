@@ -19,6 +19,6 @@ Experience the satisfaction of conquering numerous levels of cleanliness while b
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, HTML5, Mentolatux, Mobile, Shoot, Shooter, Top Down, Unity3D, WebGL

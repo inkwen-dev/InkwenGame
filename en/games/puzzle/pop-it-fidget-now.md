@@ -19,6 +19,6 @@ Desktop Mouse Click and Swipe Mobile Touch Buttons on Screen
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Bubble, Casual, Color, Girls, HTML5, Hypercasual, Kids

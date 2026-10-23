@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 街机, 大脑, 城堡, 移动设备, 平台, 解谜, Stickman, WebGL
+- 标签: 3D, 街机, 大脑, 城堡, 移动设备, 平台, 益智, 木偶人, WebGL

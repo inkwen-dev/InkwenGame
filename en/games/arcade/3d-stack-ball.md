@@ -19,6 +19,6 @@ Bump and bounce through revolving helix platforms to reach the end
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arcade, Ball, Bounce, Casual, HTML, HTML5, Hypercasual, Puzzle, Stack

@@ -19,6 +19,6 @@ Add the numbers and choose the correct option. This is simple maths game for giv
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Math, Number, School
+- Tags: educational, math, Number, School

@@ -15,6 +15,6 @@ Unleash your inner ninja and slice your way to victory in Fruit Slasher! Test yo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Action

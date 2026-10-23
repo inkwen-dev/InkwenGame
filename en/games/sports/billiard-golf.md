@@ -21,4 +21,4 @@ A fun golf game, Billiard Golf offers a billiard-style golf game experience. In 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 8 Ball Pool, Ball, Best, Billiard, Golf, HTML5, Hypercasual, Mobile, Unity3D, WebGL
+- Tags: 1 Player, 3D, 8 Ball Pool, Ball, Best, Billiard, golf, HTML5, Hypercasual, Mobile, Unity3D, WebGL

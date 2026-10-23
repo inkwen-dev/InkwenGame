@@ -19,6 +19,6 @@ Practically all boys and girls love games about cars, and many of them, playing 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Adventure, Car, Cars, drift, drifting, Driving, Game, Games, jump, Race, Racing, Simulation, Simulator, Sport, Sports, Stunts, Supercars, Unity3D
+- Tags: 3D Games, Adventure, Car, Cars, drift, drifting, Driving, Game, Games, jump, Race, Racing, Simulation, Simulator, Sport, sports, Stunts, Supercars, Unity3D

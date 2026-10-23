@@ -19,6 +19,6 @@ Now it's time to take a look at some pictures with Stickman. Behind these pictur
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Android, Difference, Fun, HTML5, Mobile, Skill, Stickman
+- Tags: Adventure, Android, Difference, Fun, HTML5, Mobile, Skill, stickman

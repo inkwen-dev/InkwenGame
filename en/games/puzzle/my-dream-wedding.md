@@ -19,6 +19,6 @@ We have prepared a puzzle game full of great photos from a fairy tale wedding! H
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Girl, Kid, Kids, Puzzle

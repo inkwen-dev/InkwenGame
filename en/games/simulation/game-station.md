@@ -21,4 +21,4 @@ Mr. Robot has opened a new Game Station in city. Help him to grow the station. D
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Android, Best, Crazy, Fun, Funny, Games, HTML5, Logical, Management, Mobile, Robot
+- Tags: 1 Player, 3D, 3D Games, Android, Best, crazy, Fun, Funny, Games, HTML5, Logical, management, Mobile, Robot

@@ -21,4 +21,4 @@ Grind io offers a fun and challenging game where you must get power in order to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Battle, Multiplayer
+- Tags: .io, .io Games, battle, Multiplayer

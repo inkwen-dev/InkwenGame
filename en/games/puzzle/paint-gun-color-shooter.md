@@ -19,6 +19,6 @@ Shoot a pistol into falling colorful balls. The color of the built-in bullet mus
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boys, Bubble Shooter, Color, Fun, Girls, Kids, Shoot, Shoot 'Em Up, Shooter, Shooting

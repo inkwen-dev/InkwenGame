@@ -21,4 +21,4 @@ Crazy Runner &ndash; is a classic and cool is never ending runner game where you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping, Ninja, running
+- Tags: jump, jumping, ninja, running

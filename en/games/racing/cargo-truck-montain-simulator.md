@@ -19,6 +19,6 @@ Cargo Truck Mountain Simulator is an immersive driving game that puts you in the
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Mentolatux, offroad, Simulator, Truck, trucks, unity games, vehicle, WebGL
+- Tags: Driving, Mentolatux, offroad, Simulator, truck, trucks, unity games, vehicle, WebGL

@@ -21,4 +21,4 @@ BuildemUp is an entertaining and cool game where you should put various color an
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mobile, Physics, Truck
+- Tags: Mobile, Physics, truck

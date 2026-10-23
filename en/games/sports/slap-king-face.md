@@ -21,4 +21,4 @@ Slap King 2020 - Slap Face Games Become the slap face kings and smack with power
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boxing, Casual, Hypercasual, King, Sport, Sports
+- Tags: Boxing, Casual, Hypercasual, King, Sport, sports

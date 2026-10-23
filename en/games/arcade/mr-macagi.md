@@ -19,6 +19,6 @@ Embark on a hilarious adventure with Mr. Macagi, on a quest to collect apples. T
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Collection, Fruit, Monster
+- Tags: Action, Arcade, Collection, Fruit, monster

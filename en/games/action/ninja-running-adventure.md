@@ -19,6 +19,6 @@ Ninja Runner really is a great combination between role-playing game (RPG) and f
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Fight, Fighting, Street Fighting
+- Tags: Action, Fight, fighting, Street Fighting

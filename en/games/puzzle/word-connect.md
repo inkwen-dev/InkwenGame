@@ -21,4 +21,4 @@ The new Words Connect Puzzle Game with new thousands of words!Do you enjoy the e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Hypercasual, Kids, Puzzle, Word
+- Tags: Casual, Hypercasual, Kids, Puzzle, word

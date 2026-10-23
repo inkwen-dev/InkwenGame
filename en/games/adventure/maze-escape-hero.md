@@ -19,6 +19,6 @@ Maze Escape is an exciting 2D game where you play as a brave knight lost in a my
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Classic, Knight, Maze
+- Tags: Classic, knight, Maze

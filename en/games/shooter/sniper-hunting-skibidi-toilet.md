@@ -19,6 +19,6 @@ Embark on an unforgettable and quirky hunting adventure with Sniper Hunting Skib
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Gun, Level, Levels, Shooting, Skibidi, Skibidi Toilet, Skill, Sniper, Unity3D, weapons, WebGL
+- Tags: 3D Games, Gun, Level, Levels, Shooting, Skibidi, skibidi-toilet, Skill, sniper, Unity3D, weapons, WebGL

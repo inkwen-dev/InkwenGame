@@ -19,6 +19,6 @@ The adorable princess Rapunzel decide to have new hairstyle with awesome hair co
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Baby, Baby Hazel, Boys, Color, Coloring, Cook, Cooking, Girl, Girls, Kids

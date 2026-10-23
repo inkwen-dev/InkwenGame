@@ -21,4 +21,4 @@ Welcome to a chill-but-addictive idle roguelite loot grinder where your finger d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Battle, Boy, Boys, Fight, Gun, Monster, Shoot, Skills
+- Tags: 1 Player, 2026 games, battle, Boy, Boys, Fight, Gun, monster, Shoot, Skills

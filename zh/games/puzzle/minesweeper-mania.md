@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 炸弹, HTML5, 逻辑, 矿井, 矿工, 益智
+- 标签: 炸弹, HTML5, 逻辑, 挖掘, 矿工, 益智

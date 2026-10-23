@@ -21,4 +21,4 @@ Skibidi Toilet Rush is a fun online game that you can play for free. No download
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Avoid, Boy, Hypercasual, Jumping, Kill, Platform, run, Skibidi Toilet, Skill
+- Tags: Arcade, Avoid, Boy, Hypercasual, jumping, Kill, Platform, run, skibidi-toilet, Skill

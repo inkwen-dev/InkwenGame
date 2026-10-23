@@ -19,6 +19,6 @@ Now in the game Gold Digger Jack it's time to conduct her field tests, and you w
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Fun, HTML5, Logic, Miner, Mobile, Puzzle, Skill

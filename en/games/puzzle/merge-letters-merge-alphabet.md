@@ -19,6 +19,6 @@ Are you ready to take part in the other Fused Alphabet world ? Let's try Merge A
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cars, Cartoon, Cartoon Network, Jumping, Race, Racing, Simulation, Simulator, Street Fighting, Stunts, Supercars, War
+- Tags: Cars, Cartoon, Cartoon Network, jumping, Race, Racing, Simulation, Simulator, Street Fighting, Stunts, Supercars, War

@@ -21,4 +21,4 @@ This is a strategy game and a leisure game. There are two modes in this game: on
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Army, Battle, Battlegrounds, Bomb, Boy, Brain
+- Tags: 3D, 3D Games, Action, Army, battle, Battlegrounds, Bomb, Boy, Brain

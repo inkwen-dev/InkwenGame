@@ -19,6 +19,6 @@ Now we provided a car avoiding arcade game, which is made from 3D stickman game 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Car, Collecting, Highscore, HTML5, Mobile, Obstacle, Plane, Tanks, Truck
+- Tags: 3D, Arcade, Car, Collecting, Highscore, HTML5, Mobile, Obstacle, Plane, tanks, truck

@@ -21,4 +21,4 @@ Fill Up Block Logic Puzzle is an excellent game to challenge your brain when you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Kids, Logic, Mobile, Skill
+- Tags: block, Kids, Logic, Mobile, Skill

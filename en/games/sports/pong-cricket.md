@@ -21,4 +21,4 @@ Pong Cricket is an online arcade game that tests your skills and reflexes. Pong 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Game, Games, HTML5, Hypercasual, Sport, Sports
+- Tags: Arcade, Ball, Game, Games, HTML5, Hypercasual, Sport, sports

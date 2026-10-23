@@ -41,4 +41,4 @@ What are you waiting for? Join us to collect the longest snake of bullets and de
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, Shooting, Snake
+- Tags: Action, Arcade, Shooting, snake

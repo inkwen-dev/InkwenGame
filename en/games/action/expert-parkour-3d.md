@@ -19,6 +19,6 @@ Expert Parkour 3D is a 3D parkour game in which you need to run and jump from pi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Jumping, run, Unity3D
+- Tags: 1 Player, 3D, jumping, run, Unity3D

@@ -21,4 +21,4 @@ Are you ready for driving on the sky road to perform impossible car stunt.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Car, Cars, Casual, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing, Simulation, sky, Stunts
+- Tags: Action, Arcade, Car, Cars, Casual, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, jumping, Race, Racing, Simulation, sky, Stunts

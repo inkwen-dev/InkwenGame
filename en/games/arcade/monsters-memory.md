@@ -21,4 +21,4 @@ Click a card to reveal the Monster on it. Memorize it so that you can match to s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, HTML5, Kids, Memory, Mobile, Monster, Puzzle
+- Tags: Arcade, HTML5, Kids, memory, Mobile, monster, Puzzle

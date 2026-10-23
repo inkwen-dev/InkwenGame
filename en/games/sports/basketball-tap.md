@@ -22,4 +22,4 @@ Time your taps perfectly, launch the ball into the air, and score epic slam dunk
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Ball, Basketball, Mobile, Skill, Sports
+- Tags: Arcade, Ball, basketball, Mobile, Skill, sports

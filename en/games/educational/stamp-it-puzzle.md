@@ -19,6 +19,6 @@ An engaging puzzle game that challenges you to gather all the ink bottles and ma
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Hypercasual, Mentolatux, Puzzle
+- Tags: educational, Hypercasual, Mentolatux, Puzzle

@@ -19,6 +19,6 @@ In this Dirtbike Racing Stunts game, you have 6 images in three modes to play. C
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, HTML5, Jigsaw, Kids, Mobile, Motorcycle, Stunts
+- Tags: bike, HTML5, Jigsaw, Kids, Mobile, Motorcycle, Stunts

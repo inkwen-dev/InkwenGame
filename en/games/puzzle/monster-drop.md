@@ -21,4 +21,4 @@ Monster Drop is just the coolest physics-based puzzle game available. Built from
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Casual, Family, Girl, Halloween, HTML, HTML5, Kid, Mobile, Monster, Physics, Puzzle
+- Tags: 2D, Casual, Family, Girl, Halloween, HTML, HTML5, Kid, Mobile, monster, Physics, Puzzle

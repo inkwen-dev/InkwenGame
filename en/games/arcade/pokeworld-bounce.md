@@ -19,6 +19,6 @@ Welcome to PokeWorld Bounce game! Choose one of the 3 creatures to start the gam
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bounce, Bridge, Pokemon

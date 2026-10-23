@@ -35,4 +35,4 @@ Enter the thrilling world of Ragdoll Soccer, where you command a stick figure fo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, Funny, Multiplayer, penalty, ragdoll, Soccer, Sports, Stickman, two-player, unity
+- Tags: Boys, Funny, Multiplayer, penalty, ragdoll, Soccer, sports, stickman, two-player, unity

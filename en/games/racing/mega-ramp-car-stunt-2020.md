@@ -21,4 +21,4 @@ Car Stunt 3D Game is an extreme car racing game that gives racers the best fast 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Classic, Crazy, drift, drifting, Driving, Racing, Stunts
+- Tags: Car, Cars, Classic, crazy, drift, drifting, Driving, Racing, Stunts

@@ -21,4 +21,4 @@ Multiplayer Tank Battle is an amazing free online shooting game that you can pla
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Army, Battle, Collecting, Fight, Multiplayer, Shooting, Shopping, Skill, Tank, Tanks, War
+- Tags: Action, Army, battle, Collecting, Fight, Multiplayer, Shooting, Shopping, Skill, Tank, tanks, War

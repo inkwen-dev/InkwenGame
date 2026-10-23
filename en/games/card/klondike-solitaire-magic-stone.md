@@ -21,4 +21,4 @@ Classic Klondike solitaire game with two levels of difficulty and 3D background.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Card, Casual, Mobile
+- Tags: 3D, 3D Games, card, Casual, Mobile

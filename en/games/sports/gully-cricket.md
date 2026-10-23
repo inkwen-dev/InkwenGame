@@ -21,4 +21,4 @@ Gully Cricket is an exciting street-style cricket game that brings the heart of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Fun, Kids, Mentolatux, Simulator, Sport, Sports, Unity3D, WebGL
+- Tags: Cartoon, Fun, Kids, Mentolatux, Simulator, Sport, sports, Unity3D, WebGL

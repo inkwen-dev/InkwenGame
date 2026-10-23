@@ -21,4 +21,4 @@ Place cubes, add the same numbers and don't let the column rise! A tense classic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Number, Tetris, Timing
+- Tags: Number, tetris, Timing

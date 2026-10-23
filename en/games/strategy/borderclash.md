@@ -27,4 +27,4 @@ Border Clash is a strategy game where the right tactics and timing mean everythi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Army, Strategy, War
+- Tags: Army, strategy, War

@@ -19,6 +19,6 @@ The bottles are spread on the rotating pillar. Use the hammer to smash the bottl
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Hypercasual

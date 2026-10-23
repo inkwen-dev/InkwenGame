@@ -19,6 +19,6 @@ TOUCHGRIND BMX 2 is finally here! We took the core from TOUCHGRIND BMX, and pret
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Bike, Race, Racing, Sport, Sports
+- Tags: 2D, Action, bike, Race, Racing, Sport, sports

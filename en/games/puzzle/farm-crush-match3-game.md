@@ -19,6 +19,6 @@ Farm Crush - Match3 Game is a classic match3 puzzle game. Match 3 or more identi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Casual, Clicker, Color, Hot, Jewel, Match 3, Match3, Matching, Puzzle

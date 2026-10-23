@@ -21,4 +21,4 @@ Skibidi Toilet Sharp Shooter is an exciting and challenging shooting game that p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Shooter, Skibidi, Skibidi Toilet, Stickman
+- Tags: Shooter, Skibidi, skibidi-toilet, stickman

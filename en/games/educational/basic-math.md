@@ -21,4 +21,4 @@ Basic Math is the best math game suitable for kids who are starting to learn abo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Fun, HTML5, Kids, Math, Mobile, School, Skill
+- Tags: educational, Fun, HTML5, Kids, math, Mobile, School, Skill

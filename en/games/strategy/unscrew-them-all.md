@@ -21,4 +21,4 @@ Unscrew Them All is a challenging puzzle game where players must strategically u
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, html5 games, Mobile, Puzzle, Strategy
+- Tags: 1 Player, html5 games, Mobile, Puzzle, strategy

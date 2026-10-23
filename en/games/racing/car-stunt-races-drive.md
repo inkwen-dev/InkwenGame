@@ -21,4 +21,4 @@ Car Stunt Races: Mega Ramps is a car stunt simulator game that takes physics to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Arena, Army, Balance, Barbie, Bounce, bus, Car, Cars, drift, drifting, Driving, Moto, Motorcycle, Simulation, Simulator, Supercars, Truck
+- Tags: Arcade, Arena, Army, Balance, Barbie, Bounce, bus, Car, Cars, drift, drifting, Driving, Moto, Motorcycle, Simulation, Simulator, Supercars, truck

@@ -19,6 +19,6 @@ car parking 3d game lovers! It’s time to polish your real, parking mania skill
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Cars, drifting, Driving, Funny, Hypercasual, Parking, Race, Racing, Supercars
+- Tags: Action, Adventure, Cars, drifting, Driving, Funny, Hypercasual, parking, Race, Racing, Supercars

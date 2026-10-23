@@ -21,4 +21,4 @@ Tile Hill Descent is a fast-paced arcade game where you guide a bouncing emoji d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Adventure, amazing, Best, Best Games, Brain, Crazy, Hypercasual, Mind
+- Tags: 1 Player, 2026 games, Adventure, amazing, Best, Best Games, Brain, crazy, Hypercasual, Mind

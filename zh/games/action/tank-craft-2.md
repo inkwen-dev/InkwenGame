@@ -43,4 +43,4 @@ Z、X、C（或 1、2、3）：激活推进器/特殊能力。
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 制作, PVE, 生存, 坦克
+- 标签: 制作, PVE, 生存, tanks

@@ -21,4 +21,4 @@ The lush green mountains and hills in this free simulation game with beautiful h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Best, Bike, Hot, HTML5
+- Tags: 3D Games, Best, bike, Hot, HTML5

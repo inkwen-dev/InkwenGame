@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 男孩, 黄金, 宝石
+- 标签: 街机, 男孩们, 金币, 宝石

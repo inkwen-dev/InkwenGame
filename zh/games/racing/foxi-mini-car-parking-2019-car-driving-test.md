@@ -21,4 +21,4 @@ Foxi 小型汽车停车 2019 汽车驾驶测试，拥有最佳图形，充满冒
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 男孩, 汽车, 驾驶, HTML5, 停车, 模拟, 技巧, WebGL
+- 标签: 3D, 男孩们, 汽车, 驾驶, HTML5, 停车, 模拟, 技巧, WebGL

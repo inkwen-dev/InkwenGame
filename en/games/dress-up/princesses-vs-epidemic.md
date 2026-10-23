@@ -21,4 +21,4 @@ In this difficult time, the princesses forgot about their privileges. Each of th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Disney, Doctor, Dress Up, Elsa, Princess, Surgery
+- Tags: Disney, Doctor, Dress Up, Elsa, Princess, surgery

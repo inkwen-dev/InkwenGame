@@ -21,4 +21,4 @@ Stickman Gun Battle Simulator is a fun stickman tower defense game. The stickman
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Alien, Battle, Casual, Fantasy, Fighting, Shooting, Sim, Simulation, Stickman, Strategy, Unity3D, Violence
+- Tags: Alien, battle, Casual, Fantasy, fighting, Shooting, Sim, Simulation, stickman, strategy, Unity3D, Violence

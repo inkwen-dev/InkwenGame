@@ -19,6 +19,6 @@ With the help of a lawn mower you have to mow all the grass on the lawn. Each se
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Logic, Maze, Mind, Moto, Puzzle, Summer, Traffic

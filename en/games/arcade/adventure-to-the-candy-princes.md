@@ -21,4 +21,4 @@ In this adventure, we have taken the kings crown and must rescue the Sugar Princ
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Cartoon, Cartoon Network, mineblock, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Cartoon, Cartoon Network, mineblock, pixel

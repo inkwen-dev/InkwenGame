@@ -21,4 +21,4 @@ Fast Motorbikes Jigsaw game is a free online game and you have 6 images in three
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, HTML5, Jigsaw, Kids, Mobile, Motorcycle, Puzzle
+- Tags: bike, HTML5, Jigsaw, Kids, Mobile, Motorcycle, Puzzle

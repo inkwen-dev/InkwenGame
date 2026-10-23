@@ -19,6 +19,6 @@ Worry about your bad draw games skill? Don’t! Our drawing games is easy game t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Best, Draw, Drawing, Fun, Game, Hypercasual, Kid, Kids
+- Tags: 1 Player, 2D, Arcade, Best, Draw, drawing, Fun, Game, Hypercasual, Kid, Kids

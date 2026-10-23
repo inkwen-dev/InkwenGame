@@ -19,6 +19,6 @@ Engage in an epic battle between Human and The Fish. Your task is straightforwar
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Click, Fish, HTML, iPad, iPhone, Mentolatux, Mobile, Monster, Unity3D
+- Tags: Action, Click, Fish, HTML, iPad, iPhone, Mentolatux, Mobile, monster, Unity3D

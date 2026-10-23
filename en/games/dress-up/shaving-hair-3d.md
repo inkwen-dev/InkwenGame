@@ -19,6 +19,6 @@ This is a casual cure shaving game, the game content is rich and full of refined
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Avoid, Collecting, Dress Up, Grooming, H5, Hair, run

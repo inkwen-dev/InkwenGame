@@ -22,4 +22,4 @@ A night out, a closed museum, and a collection of famous paintings that someone 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing, Logic
+- Tags: drawing, Logic

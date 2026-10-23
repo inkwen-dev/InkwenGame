@@ -19,6 +19,6 @@ Racing championships existed at all times. At the beginning, they took place on 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Best, Bricks, Car, Cars, Crazy, Hypercasual, Logical, Machine, Racing, Sport
+- Tags: 3D, Best, Bricks, Car, Cars, crazy, Hypercasual, Logical, Machine, Racing, Sport

@@ -21,4 +21,4 @@ Among Mahjong Tiles is the classic tile-matching game with among theme. Match th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Mahjong, Mobile
+- Tags: HTML5, mahjong, Mobile

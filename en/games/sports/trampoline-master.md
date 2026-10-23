@@ -21,4 +21,4 @@ Welcome to the new colorful game "Trampoline Master", in which you will have to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Jumping, Sport
+- Tags: Action, jumping, Sport

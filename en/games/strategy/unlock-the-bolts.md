@@ -21,4 +21,4 @@ Unlock the Bolts is a challenging puzzle game where you carefully remove screws 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Puzzle, Strategy
+- Tags: Brain, Puzzle, strategy

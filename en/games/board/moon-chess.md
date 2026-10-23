@@ -24,4 +24,4 @@ Moon Chess is a cosmic strategy game where you face off against the mysterious H
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Board, Brain, chess, Logic, Mobile, Space, Strategy
+- Tags: Board, Brain, chess, Logic, Mobile, Space, strategy

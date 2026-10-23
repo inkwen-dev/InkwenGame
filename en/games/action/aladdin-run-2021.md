@@ -21,4 +21,4 @@ Aladdin Run 2021 is an awesome endless runner game that takes inspiration from t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Anime, Arcade, Boys, Cartoon, Disney, Family, Fun, Funny, Game, Games, jump, Jumping, Kids, Mobile, run, running, Subway Surfers, Super, Superhero
+- Tags: 3D, 3D Games, Action, Adventure, Anime, Arcade, Boys, Cartoon, Disney, Family, Fun, Funny, Game, Games, jump, jumping, Kids, Mobile, run, running, Subway Surfers, Super, Superhero

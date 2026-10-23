@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 2D, 3D, Action, Adventure, Animal, Anime, Arcade, Army, Baby, Ball, Ballon, Barbie, Basketball, Battle, Ben 10, Bike, Bounce, Boxing, Boys, Brain, Bubble, Bubble Shooter, bus, Cake, Car, Cartoon, Casual, Christmas, city, Color, Coloring, Crazy, Defense, Doctor, Dora, Dress Up, Driving, Family, Fight, Fighting, Fun, Funny, Games, Girl, Girls, Golf, jump, Kill, Killing, Love, Mario, Memory, Monster, Moto, Motorcycle, Pixel, Platform, Princess, Puzzle, Race, Simulation, Traffic
+- Tags: 2 Player Games, 2D, 3D, Action, Adventure, Animal, Anime, Arcade, Army, Baby, Ball, Ballon, Barbie, basketball, battle, Ben 10, bike, Bounce, Boxing, Boys, Brain, Bubble, Bubble Shooter, bus, Cake, Car, Cartoon, Casual, Christmas, city, Color, Coloring, crazy, Defense, Doctor, Dora, Dress Up, Driving, Family, Fight, fighting, Fun, Funny, Games, Girl, Girls, golf, jump, Kill, Killing, Love, mario, memory, monster, Moto, Motorcycle, pixel, Platform, Princess, Puzzle, Race, Simulation, Traffic

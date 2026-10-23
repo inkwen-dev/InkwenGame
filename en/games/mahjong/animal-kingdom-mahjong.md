@@ -21,4 +21,4 @@ Match identical animal-themed tiles in Animal Kingdom Mahjong! Clear the board b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, html5 games, Mahjong, Matching, Mobile, Puzzle
+- Tags: Animal, html5 games, mahjong, Matching, Mobile, Puzzle

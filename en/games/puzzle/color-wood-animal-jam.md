@@ -19,6 +19,6 @@ Begin a charming logic puzzle match game in Color Wood Animal Jam. Drag the colo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Block, Matching
+- Tags: Animal, block, Matching

@@ -19,6 +19,6 @@ Cleverly move your candy-shield to protect your snowman from many obstacles. Fea
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Air, Best, Christmas, fly, Holiday, HTML5, Mobile, Physics, Simulation

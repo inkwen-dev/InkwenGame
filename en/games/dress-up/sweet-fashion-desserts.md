@@ -19,5 +19,5 @@ Welcome to the Sweet Fashion Desserts! Here we can make various rainbow desserts
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize

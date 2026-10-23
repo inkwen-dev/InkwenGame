@@ -19,6 +19,6 @@ Beautiful and fun farming simulation game. Raise cute farm animals and harvest d
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2D, 3D Games, Animal, Casual, Chicken, Farm, Food, Multiplayer, Puzzle, World

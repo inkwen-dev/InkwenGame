@@ -19,6 +19,6 @@ Join SpongeBoob in an exhilarating arcade adventure! In this fast-paced game, he
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Fun, Funny, Game, Games, HTML, HTML5, Kid, Obstacle, run, running, Spongebob, Zombie

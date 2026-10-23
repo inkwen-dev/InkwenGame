@@ -19,6 +19,6 @@ The adventure begins in the deep sides of the space! You can play the game which
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Action, Adventure, Battle, Space, Spaceship, War
+- Tags: 2 Player, Action, Adventure, battle, Space, Spaceship, War

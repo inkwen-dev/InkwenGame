@@ -19,6 +19,6 @@ In this adventure, Steve joined Noob to help him, and they embarked on a joint q
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Adventure, Android, Arcade, mineblock, Minecraft, Mobile, Pixel
+- Tags: 2 Player, 2 Player Games, Adventure, Android, Arcade, mineblock, Minecraft, Mobile, pixel

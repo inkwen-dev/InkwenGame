@@ -21,4 +21,4 @@ Ice Cube Man is a 2D cute little platformer where you have to collect all of the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Cute, Ice, jump, Jumping, Kids, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Cute, Ice, jump, jumping, Kids, pixel, Platform, retro

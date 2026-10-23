@@ -19,6 +19,6 @@ In the captivating Ball Hit game,players are immersed in an exciting world where
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Ball, HTML5, Mobile, Skill, Unity3D, WebGL

@@ -21,4 +21,4 @@ MASTER OF PARKING SUV CARS: Are you ready for realistic driving and parking? New
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Parking, Simulation, Simulator
+- Tags: Car, parking, Simulation, Simulator

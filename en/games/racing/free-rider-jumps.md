@@ -19,6 +19,6 @@ Endless Bike Race is another game from the popular creator of Free Rider HD! Her
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Bike, H5, Hot, HTML, HTML5, jump, Jumping, Race, Racing, run, running, Sport, Sports, Stickman
+- Tags: Best, bike, H5, Hot, HTML, HTML5, jump, jumping, Race, Racing, run, running, Sport, sports, stickman

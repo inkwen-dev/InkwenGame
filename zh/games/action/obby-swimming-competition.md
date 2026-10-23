@@ -21,4 +21,4 @@ PC 操作 移动 — W A S D 跳跃 — 空格键 移动设备 操作 移动 —
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 脑残, 意大利脑残, 脑残萨胡尔, 货物, 卡通, 工艺, 可爱, 有趣, 我的世界, roblox, ship, ships, 俯视角
+- 标签: 3D, 脑残, 意大利脑残, 脑残sahuuur, 货物, 卡通, 建造, 可爱, 有趣, 我的世界, Roblox, 船, 船只, 俯视

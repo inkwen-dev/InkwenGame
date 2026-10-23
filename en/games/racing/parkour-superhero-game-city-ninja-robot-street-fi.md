@@ -19,6 +19,6 @@ Dash from rooftop to rooftop. Flip, jump, fall and vault over obstacles to set a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Game, Jumping, Parking, Race, Simulation, Simulator, Sports, Superhero
+- Tags: Game, jumping, parking, Race, Simulation, Simulator, sports, Superhero

@@ -21,4 +21,4 @@ Rise up the rankings during the year by defeating the best teams. Score goals an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, Soccer, Sports
+- Tags: 1 Player, 2 Player, Soccer, sports

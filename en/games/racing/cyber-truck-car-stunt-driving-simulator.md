@@ -19,6 +19,6 @@ Welcome to a new car driving simulator game & Mega ramp stunt car game with a sc
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Air, Car, Cars, drift, drifting, Driving, Game, Games, gta, jump, Jumping, Racing, Simulation, Simulator, Space, Stunts, Supercars, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Air, Car, Cars, drift, drifting, Driving, Game, Games, gta, jump, jumping, Racing, Simulation, Simulator, Space, Stunts, Supercars, Unity3D

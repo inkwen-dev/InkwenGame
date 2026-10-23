@@ -19,6 +19,6 @@ Ready to Play Disc Game , Best Battle with Disc .io Game. Throw the disc and eli
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Fun, Girls

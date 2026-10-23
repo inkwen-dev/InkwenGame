@@ -19,6 +19,6 @@ Onet Winter Christmas Mahjong is a fun and relaxing cute mahjong connect game. Y
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, HTML5, Mahjong, Mobile, Winter
+- Tags: Christmas, HTML5, mahjong, Mobile, Winter

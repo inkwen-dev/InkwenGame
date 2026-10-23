@@ -21,4 +21,4 @@ Take on the challenge of a rhythm-based rap battle against numerous famous chara
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dancing, Levels, Music
+- Tags: Dancing, Levels, music

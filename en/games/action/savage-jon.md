@@ -21,4 +21,4 @@ Savage Jon is an action-adventure platform game, where Jon looks for adventure a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Fun, Mario, Platform
+- Tags: 1 Player, 2D, Adventure, Fun, mario, Platform

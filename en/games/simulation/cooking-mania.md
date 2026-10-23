@@ -21,4 +21,4 @@ Live out your dreams as a chef in your own restaurant. Choose from one of the fi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cook, Cooking, Management, Simulation, Simulator
+- Tags: Cook, Cooking, management, Simulation, Simulator

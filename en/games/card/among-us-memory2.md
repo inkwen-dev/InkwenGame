@@ -21,4 +21,4 @@ Click on a card to reveal an image. Memorize the location of the card so that yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Card, HTML5, Memory, Puzzle, Space
+- Tags: 1 Player, Arcade, card, HTML5, memory, Puzzle, Space

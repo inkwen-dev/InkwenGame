@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 点击器, 切割, mapi游戏, Sprunki
+- 标签: 点击器, 切割, mapi games, 斯普朗基

@@ -21,4 +21,4 @@ Dangerous virus strains are spreading everywhere. Fight against them to protect 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Casual, HTML5, Mobile, Multiplayer, Simulation, Strategy
+- Tags: Best, Casual, HTML5, Mobile, Multiplayer, Simulation, strategy

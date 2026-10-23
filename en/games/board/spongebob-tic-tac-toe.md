@@ -19,6 +19,6 @@ SpongeBob and Patrick playing tic tac toe. Let's play with us. Who do you think 
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Animal, Board, Boys, Cartoon, Games, Girls, HTML5, Puzzle, Spongebob

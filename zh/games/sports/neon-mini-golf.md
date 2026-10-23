@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 球, 点击器, 高尔夫, HTML5, mapi games, 移动设备, 物理, 复古, 技巧, 太空, 体育
+- 标签: 球, 点击器, 高尔夫, HTML5, mapi games, 移动设备, 物理, 复古, 技巧, 太空, 运动

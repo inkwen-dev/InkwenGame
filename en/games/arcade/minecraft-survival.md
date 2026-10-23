@@ -19,6 +19,6 @@ Minecraft Survival is fun html5 game suitable for all minecraft lovers. The aim 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Block, Boys, Fun, HTML5, Hypercasual, Kids, Minecraft, Puzzle, Skill
+- Tags: Android, Arcade, block, Boys, Fun, HTML5, Hypercasual, Kids, Minecraft, Puzzle, Skill

@@ -21,4 +21,4 @@ Embark on a wild adventure with Skibidi Toilet Cross the Road! The Skibidi Toile
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Skibidi Toilet
+- Tags: skibidi-toilet

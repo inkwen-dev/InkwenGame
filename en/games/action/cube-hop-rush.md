@@ -21,4 +21,4 @@ Share and play the best music-based jumping game with friends to challenge your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, jump, Kids, Mobile, Music, running
+- Tags: Avoid, jump, Kids, Mobile, music, running

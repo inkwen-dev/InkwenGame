@@ -21,4 +21,4 @@ Unusual mechanics for RPG games. Raid villages and develop your hero. You play a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Clicker, RPG
+- Tags: Adventure, Clicker, rpg

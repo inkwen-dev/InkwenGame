@@ -21,4 +21,4 @@ This is an Amazing Monster truck game with HD graphics. Avoid all the obstacles 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Boy, Car, Cars, Truck
+- Tags: Boy, Car, Cars, truck

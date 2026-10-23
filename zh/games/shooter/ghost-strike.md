@@ -21,4 +21,4 @@ WASD - 移动 空格键 - 跳跃 C - 蹲下 左键鼠标 - 射击 右键鼠标 -
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, 动作, CSGO, 枪械, 多人游戏, 射击, 射击游戏, 射手, 射击游戏, Unity3D, WebGL
+- 标签: 3D, 3D游戏, 动作, CSGO, 枪械, 多人, 射击, 射击游戏, 射击类, 射击, Unity3D, WebGL

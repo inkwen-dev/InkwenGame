@@ -19,6 +19,6 @@ Line Color 3D is an addicting 3D online arcade game, you can enjoy it both on a 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Car, Color, Driving, H5, HTML, HTML5, Kids, Mobile, Obstacle, Skill, Skills

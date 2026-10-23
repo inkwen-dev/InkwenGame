@@ -19,6 +19,6 @@ Let’s ready to conquer this kar wala game the best ramp car stunts racing game
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, bus, Car, Cars, Game, Games, Love, Parking, Stunts, Supercars, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, bus, Car, Cars, Game, Games, Love, parking, Stunts, Supercars, truck

@@ -21,4 +21,4 @@ Hop Ball 3D: Dancing Ball on the Music Tiles Hop ball on the music tiles 3D
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Color, Coloring, jump, Jumping, Shopping
+- Tags: Ball, Color, Coloring, jump, jumping, Shopping

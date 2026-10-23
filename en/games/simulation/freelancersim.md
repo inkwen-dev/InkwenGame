@@ -21,4 +21,4 @@ Have you ever wanted to work from home and earn money? Yes, today we are freelan
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Arcade, Boys, Girls, Pixel, Simulation, Simulator
+- Tags: 1 Player, 2D, Action, Arcade, Boys, Girls, pixel, Simulation, Simulator

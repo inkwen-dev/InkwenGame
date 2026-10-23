@@ -21,4 +21,4 @@ Extreme Car Driving Simulator is the best car simulator of 2014, thanks to its a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Car, Card, Cars, Mobile, Simulation, Simulator, Stunts, Supercars, Unity3D
+- Tags: Adventure, Arcade, Car, card, Cars, Mobile, Simulation, Simulator, Stunts, Supercars, Unity3D

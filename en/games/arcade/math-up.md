@@ -21,4 +21,4 @@ Math Up is a brain game for kids and toddlers. You need to know the math to play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Kids, Logical, Math, Puzzle
+- Tags: Arcade, Brain, Kids, Logical, math, Puzzle

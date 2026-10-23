@@ -21,4 +21,4 @@ Snake Lite is a game in which you need to control a snake and collect cubes that
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Classic, Snake
+- Tags: Classic, snake

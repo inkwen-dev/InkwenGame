@@ -21,4 +21,4 @@ Space Velocity is an endless space-themed game where players control a spacecraf
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2D, Adventure, Air, Aircraft, Arcade, Avoid, Block, Boys, Brain, endless, Flight, fly, Game, Plane, Space, Spaceship
+- Tags: .io Games, 2D, Adventure, Air, Aircraft, Arcade, Avoid, block, Boys, Brain, endless, flight, fly, Game, Plane, Space, Spaceship

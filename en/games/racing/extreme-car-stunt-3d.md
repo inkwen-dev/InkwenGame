@@ -19,6 +19,6 @@ All the lovers of car stunt games are welcome to play car stunt racing with a tw
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D, Action, Adventure, Car, Online, Race, Racing, Stunts

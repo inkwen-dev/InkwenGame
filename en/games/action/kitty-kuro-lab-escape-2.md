@@ -15,6 +15,6 @@ Help Kitty Kuro dodge dangerous syringes and evade the persistent doctor in a th
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: platformer

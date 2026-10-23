@@ -21,4 +21,4 @@ This is a Spot the difference type of puzzle game where players must find at lea
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Difference, Educational, Hidden, HTML5, Kids, Memory, Mobile, Puzzle
+- Tags: Clicker, Difference, educational, Hidden, HTML5, Kids, memory, Mobile, Puzzle

@@ -21,4 +21,4 @@ A new kiz10 Game, Take control of your batallion to survive from epic war. Build
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, kiz10, Strategy
+- Tags: Action, kiz10, strategy

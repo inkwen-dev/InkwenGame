@@ -19,6 +19,6 @@ Puzzle Car - Free Jigsaw Game for kids & adults. Sports car puzzle and more! Car
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Arcade, Car, Cars, Kids, Puzzle, Quiz, Race, Racing, Supercars

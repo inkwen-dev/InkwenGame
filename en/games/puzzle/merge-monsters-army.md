@@ -21,4 +21,4 @@ Merge Monsters Army is a monster battle game. Your goal in this game is to stren
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Fighting, Kids, Mobile, Monster, Skills
+- Tags: Army, fighting, Kids, Mobile, monster, Skills

@@ -21,4 +21,4 @@ You must stay alive in this horror/puzzle adventure. Try to survive the vengeful
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Educational, Hypercasual, Match3, Matching, Memory, Puzzle
+- Tags: Brain, educational, Hypercasual, Match3, Matching, memory, Puzzle

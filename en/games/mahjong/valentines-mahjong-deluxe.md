@@ -21,4 +21,4 @@ Classic Mahjong game with valentine's day items and exciting levels. Eliminate i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Girls, HTML5, Love, Mahjong, Matching, Mobile
+- Tags: Arcade, block, Girls, HTML5, Love, mahjong, Matching, Mobile

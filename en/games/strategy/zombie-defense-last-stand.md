@@ -21,4 +21,4 @@ Hold the line. Build deadly defenses. Survive the zombie rush. In this fast-pace
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Battle, Defense, Fight, Gun, Strategy, Tower Defense, Zombie
+- Tags: 1 Player, Adventure, battle, Defense, Fight, Gun, strategy, Tower Defense, Zombie

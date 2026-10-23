@@ -21,4 +21,4 @@ This cute mouse needs your help to rescue his friends! Find all the keys to go t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Animal, Arcade, Game, Games, HTML, HTML5, jump, Jumping, Mobile, Platform, Play
+- Tags: 1 Player, 2D, Adventure, Animal, Arcade, Game, Games, HTML, HTML5, jump, jumping, Mobile, Platform, Play

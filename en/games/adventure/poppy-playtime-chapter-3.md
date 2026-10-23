@@ -19,6 +19,6 @@ The new online game Poppy PlayTime 3 is based on the well-known Poppy Playtime c
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Horror, kiz10, Room

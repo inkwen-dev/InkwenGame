@@ -85,4 +85,4 @@ A: Sound in the game is not mandatory.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Army, Boys, idle, Strategy, War
+- Tags: Action, Army, Boys, idle, strategy, War

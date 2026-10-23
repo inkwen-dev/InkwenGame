@@ -21,4 +21,4 @@ Draw Paint Spray Game is a fun and creative coloring game where players can draw
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Casual, Drawing, Fun, painting, Puzzle, Relaxation
+- Tags: 2026 games, Casual, drawing, Fun, painting, Puzzle, Relaxation

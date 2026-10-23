@@ -21,4 +21,4 @@ Have fun drawing your way to the goal in Roblox Draw to Escape Online, an entert
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Drawing, kiz10, Levels, Platform, running
+- Tags: drawing, kiz10, Levels, Platform, running

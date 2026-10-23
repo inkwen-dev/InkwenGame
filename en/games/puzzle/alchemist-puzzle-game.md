@@ -21,4 +21,4 @@ Alchemist puzzle : mix potions, is a casual puzzle game. This is the Best finger
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Board, Brain, Color, Magic, Match 3, Puzzle, Strategy
+- Tags: Arcade, Board, Brain, Color, Magic, Match 3, Puzzle, strategy

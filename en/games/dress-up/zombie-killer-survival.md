@@ -21,4 +21,4 @@ Zombie Killer Survival is a fun shooting game where you get to shoot zombies in 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Battlegrounds, Fashion, Fight, Fighting, Gun, HTML, Hypercasual, Killing, Shooting, War, Zombie
+- Tags: Action, Adventure, Battlegrounds, Fashion, Fight, fighting, Gun, HTML, Hypercasual, Killing, Shooting, War, Zombie

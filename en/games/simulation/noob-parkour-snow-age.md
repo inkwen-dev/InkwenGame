@@ -19,6 +19,6 @@ This time, the ice age welcomes the noob, who is trying to reach his home in the
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Arcade, Fun, Funny, Game, Ice, Minecraft, Simulator, Snow

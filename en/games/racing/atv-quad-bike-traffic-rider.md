@@ -19,6 +19,6 @@ Here we bring for you ATV quad bike racing simulator with added flavor of real b
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arena, Battle, Bike, Boy, Classic, Race, Traffic
+- Tags: Arena, battle, bike, Boy, Classic, Race, Traffic

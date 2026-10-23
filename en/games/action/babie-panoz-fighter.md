@@ -19,6 +19,6 @@ Fight with Babie Panoz in the city underground against her terrible enemy Lizy f
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fighting, Game, HTML5
+- Tags: fighting, Game, HTML5

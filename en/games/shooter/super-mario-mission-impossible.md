@@ -21,4 +21,4 @@ Welcome to Super Mario Mission Impossible, in this mission Mario will be given a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mario, Shoot, Shooter, Shooting, Super
+- Tags: mario, Shoot, Shooter, Shooting, Super

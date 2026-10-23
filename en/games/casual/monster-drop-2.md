@@ -17,4 +17,4 @@ In Monster Drop, unleash your strategic brilliance and physics know-how. Navigat
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Monster
+- Tags: monster

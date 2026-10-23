@@ -19,6 +19,6 @@ Battle! You need to control the rotation of your weapon and attack the enemy's b
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arcade, Avoid, Battle, Fight, Game, Kid, Kids, Management, Minecraft
+- Tags: 2D, Adventure, Arcade, Avoid, battle, Fight, Game, Kid, Kids, management, Minecraft

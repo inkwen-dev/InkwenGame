@@ -21,4 +21,4 @@ Play this fun version of the popular card game classic and try to be the first t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Card, Casino
+- Tags: 1 Player, card, Casino

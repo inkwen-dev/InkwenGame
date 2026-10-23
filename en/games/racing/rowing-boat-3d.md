@@ -21,4 +21,4 @@ good games This game is a yacht surfing game, crafting yachts, buying yachts wit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Cool, drifting, Games
+- Tags: 3D, 3D Games, Action, Adventure, cool, drifting, Games

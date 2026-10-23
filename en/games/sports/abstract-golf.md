@@ -21,4 +21,4 @@ Become king of the swing in this minimalist golf game in abstract design! Aim fo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Golf, Shoot, Sport
+- Tags: Ball, golf, Shoot, Sport

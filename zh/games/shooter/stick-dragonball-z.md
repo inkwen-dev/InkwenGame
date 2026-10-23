@@ -21,4 +21,4 @@ Stick Dragonball Z 是为玩过 stickman z bow 游戏的玩家打造的最佳游
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 弓, 射击, 射击
+- 标签: 弓箭, 射击, 射击类

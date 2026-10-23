@@ -19,6 +19,6 @@ Use mouse or touch pad to play this game
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Board, HTML5, Mobile, Puzzle, Tetris
+- Tags: Arcade, block, Board, HTML5, Mobile, Puzzle, tetris

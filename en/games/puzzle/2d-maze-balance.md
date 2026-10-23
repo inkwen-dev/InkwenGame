@@ -19,6 +19,6 @@ A game that will test your dexterity and patience. In the game Maze Balance you 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Balance, Ball, Maze, Puzzle, WebGL

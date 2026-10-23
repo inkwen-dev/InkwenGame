@@ -19,6 +19,6 @@ Baby Taylor House Cleaning 2 is an online game that you can play on Babygames fo
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Games, Cleaning, Cute, Decorate, Educational, Girl, Girls, Kids, Simulation
+- Tags: Baby, Baby Games, Cleaning, Cute, Decorate, educational, Girl, Girls, Kids, Simulation

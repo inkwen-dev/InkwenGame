@@ -21,4 +21,4 @@ The battlefield is set. It's you against another Viking kingdom. You have 3 minu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Army, Battle, Battlegrounds, Boy, Boys, Castle, Clash, Defense, Fight, Fighting, Fire, Game, HTML5, Kill, Killing, Play, Strategy, Tower Defense
+- Tags: 1 Player, Arcade, Army, battle, Battlegrounds, Boy, Boys, Castle, Clash, Defense, Fight, fighting, Fire, Game, HTML5, Kill, Killing, Play, strategy, Tower Defense

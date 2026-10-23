@@ -21,4 +21,4 @@ Black and white colors are in trend today. And still very close to everyone's fa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Barbie, Cartoon, Cute, Dress Up, Elsa, Fashion, Girl, Girls, RPG
+- Tags: Anime, Barbie, Cartoon, Cute, Dress Up, Elsa, Fashion, Girl, Girls, rpg

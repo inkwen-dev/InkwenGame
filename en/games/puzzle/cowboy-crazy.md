@@ -21,4 +21,4 @@ cowboy Crazy – this cool game three in a row, in which you have to put the blo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boys, Crazy, Funny, Girls, HTML5, Skill
+- Tags: Android, Boys, crazy, Funny, Girls, HTML5, Skill

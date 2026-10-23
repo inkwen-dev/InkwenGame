@@ -21,4 +21,4 @@ Do you like animals? Do you know that although a leopard is a kind of fierce ani
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: Baby, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

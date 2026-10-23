@@ -21,4 +21,4 @@ International SuperStar Soccer choose your own team from among 20 teams with tou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Ballon, Best, Clicker, Football, Hot, Soccer, Sport, Sports
+- Tags: Ball, Ballon, Best, Clicker, Football, Hot, Soccer, Sport, sports

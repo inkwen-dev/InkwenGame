@@ -19,6 +19,6 @@ Pipe Lines : Hexa is a Connect Line puzzle game that’ll keep your mind enterta
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Pipe, Puzzle

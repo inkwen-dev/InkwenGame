@@ -19,6 +19,6 @@ The game is a simple reinterpretation of the game of billiards but without rules
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Arcade, Billiard, Golf, Kid, Kids, Pool, Puzzle
+- Tags: 8 Ball Pool, Arcade, Billiard, golf, Kid, Kids, pool, Puzzle

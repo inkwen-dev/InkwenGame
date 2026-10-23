@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 战斗, 防御, 闲置, 手机, 生存
+- 标签: 战斗, 防御, idle, 移动设备, 生存

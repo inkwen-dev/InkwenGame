@@ -21,4 +21,4 @@ GT 卡车竞速是一款令人兴奋的卡车驾驶游戏，您将在不同的�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2026年游戏, 汽车, 汽车, 驾驶, 交通, unity, WebGL
+- 标签: 2026 游戏, 汽车, 汽车, 驾驶, 交通, unity, WebGL

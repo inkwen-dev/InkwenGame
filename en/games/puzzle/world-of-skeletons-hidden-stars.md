@@ -19,6 +19,6 @@ Find all the stars scattered around the world of skeletons in 6 different levels
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Game, Hidden, HTML5, Point And Click

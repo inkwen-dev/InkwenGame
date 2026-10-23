@@ -19,6 +19,6 @@ Animal Pj masks Cars Kids Racing Game is a fun and exciting racing game for youn
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Car, Cars, Cartoon, drifting, Driving, Kid, Kids, Racing, run

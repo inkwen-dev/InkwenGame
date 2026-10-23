@@ -21,4 +21,4 @@ If you are both a fashionista and a fan of Japan and asian pop culture of anime 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping
+- Tags: jump, jumping

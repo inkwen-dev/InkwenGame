@@ -21,4 +21,4 @@ Are you up for a very dangerous adventure? hey alex and steve in this adventure 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Block, Minecraft
+- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, block, Minecraft

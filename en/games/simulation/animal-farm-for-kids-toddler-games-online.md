@@ -21,4 +21,4 @@ Educational games for kindergarten are the most popular way to study for childre
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Dora, Draw, Educational, Farm, Girls, Horse, Kid, Kids, Magic, Online, Princess, Simulation
+- Tags: Animal, Dora, Draw, educational, Farm, Girls, horse, Kid, Kids, Magic, Online, Princess, Simulation

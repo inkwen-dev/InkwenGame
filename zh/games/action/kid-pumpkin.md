@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 躲避, 合集, 跳跃, 平台
+- 标签: 躲避, 收藏, 跳跃, 平台

@@ -19,6 +19,6 @@ Super Penguins is a block-matching puzzle game with 2D cartoon cute penguin bloc
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Arcade, Boy, Girl, Kid, Puzzle

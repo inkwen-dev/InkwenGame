@@ -21,4 +21,4 @@ Counter Craft 2 采用多人射击模式，包含全新的方块世界地图，�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 动作, 手工, CSGO, 枪械, 杀人, Minecraft, 多人, 投篮, 射击游戏, 射击类, 射击, Unity3D, 战争, WebGL
+- 标签: 3D, 3D游戏, 动作, 建造, CSGO, 枪械, 击杀, 我的世界, 多人, 射击, 射击游戏, 射击类, 射击, Unity3D, 战争, WebGL

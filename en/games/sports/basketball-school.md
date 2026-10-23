@@ -19,6 +19,6 @@ Basketball School is the basketball arcade game in which you must try to score b
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Basketball, Skills, Sport
+- Tags: Ball, basketball, Skills, Sport

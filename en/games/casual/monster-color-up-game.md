@@ -21,4 +21,4 @@ use mouse or finger
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Monster, Play, Super
+- Tags: Color, monster, Play, Super

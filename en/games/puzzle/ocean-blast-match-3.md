@@ -19,6 +19,6 @@ Ocean King Match Puzzle is design based on ocean creatures to gives you the tast
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, 3D Games, Adventure, Bomb, Brain, Match 3, Mind, Puzzle, Strategy
+- Tags: 1 Player, 2025 games, 3D Games, Adventure, Bomb, Brain, Match 3, Mind, Puzzle, strategy

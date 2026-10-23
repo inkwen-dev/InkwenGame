@@ -19,6 +19,6 @@ Drive a monster car on the rugged road, is that sounds crazy and exciting? In th
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Baby, Baby Hazel, Boy, Car, drift, drifting, Driving, Girl, HTML, HTML5, Kid, Mobile, Monster, New, Racing, Supercars, Superhero, Truck, WebGL
+- Tags: Adult, Baby, Baby Hazel, Boy, Car, drift, drifting, Driving, Girl, HTML, HTML5, Kid, Mobile, monster, New, Racing, Supercars, Superhero, truck, WebGL

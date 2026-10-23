@@ -21,4 +21,4 @@ Euro Truck Driver lets you become a real trucker! Featuring European trucks with
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Truck
+- Tags: 3D, Adventure, truck

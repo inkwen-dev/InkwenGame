@@ -19,6 +19,6 @@ PartyToons is a party game created by TinyDobbins. Jump in a mini-game party wit
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, Action, Cartoon, Cartoon Network, Interactive, Multiplayer, Simulation

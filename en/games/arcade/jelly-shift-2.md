@@ -19,6 +19,6 @@ Jelly Shift 2 is fun addictive casual game. Change the jelly shape according to 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Hypercasual, Jelly

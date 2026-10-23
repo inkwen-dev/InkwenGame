@@ -19,6 +19,6 @@ Engage in thrilling super bike stunt races against friends or random online oppo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Android, Bike, HTML5, iPad, iPhone, Mentolatux, Mobile, Motorcycle, Stunts, Unity3D, WebGL
+- Tags: Action, Android, bike, HTML5, iPad, iPhone, Mentolatux, Mobile, Motorcycle, Stunts, Unity3D, WebGL

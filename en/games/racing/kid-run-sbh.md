@@ -19,6 +19,6 @@ DASH as fast as you can! DODGE the oncoming trains!
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player Games, 3D Games, Action, Boy, Boys, Fun, Funny, Game, Games, Kid, Kids, run, running, Simulation, Simulator, subway, Subway Surfers, temple

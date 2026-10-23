@@ -21,4 +21,4 @@ You are THE RUNNER, the ultimate runner of the galaxy ! Run and jump into amazin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ninja, Race
+- Tags: Arcade, ninja, Race

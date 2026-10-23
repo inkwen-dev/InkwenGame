@@ -21,4 +21,4 @@ HissHope 是一款危险的蛇类游戏。LOL！它们从不会咬你。你只�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 点击类, 蛇
+- 标签: 动作, 点击器, snake

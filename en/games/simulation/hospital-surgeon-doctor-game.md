@@ -19,6 +19,6 @@ Become a skilled heart surgeon and take on challenging medical emergencies! Diag
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Doctor, Sim, Simulation, Simulator, Surgery
+- Tags: Adventure, Doctor, Sim, Simulation, Simulator, surgery

@@ -29,4 +29,4 @@ Dudes, this is a very short strategic card battle game that blends tactical game
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, cards, Strategy
+- Tags: Adventure, cards, strategy

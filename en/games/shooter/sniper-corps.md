@@ -21,4 +21,4 @@ Sniper Corps puts you in the crosshairs of battle as an elite marksman. Defend y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Fighting, military, Shooter, Sniper
+- Tags: Action, fighting, military, Shooter, sniper

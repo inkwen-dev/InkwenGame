@@ -19,6 +19,6 @@ Coffee is one of the favorite foods of many people and one of the most effective
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Business, Cook, Cooking, Educational, Fun, Funny, Girl, Girls, H5, HTML5, Restaurant
+- Tags: Business, Cook, Cooking, educational, Fun, Funny, Girl, Girls, H5, HTML5, restaurant

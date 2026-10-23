@@ -21,4 +21,4 @@ Thrilling Gameloft ARPG Sequel! Unite, fearless Bounty Hunters, and embrace Dung
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, 3D, 3D Games, Action, Adventure, Dungeon, Fight, Monster, RPG, Superhero, Sword
+- Tags: 2025 games, 3D, 3D Games, Action, Adventure, Dungeon, Fight, monster, rpg, Superhero, sword

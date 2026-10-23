@@ -21,4 +21,4 @@ Find an animal name using the given letters and then tap that animal on the scre
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Board, Educational, Hidden, HTML5, Kids, Mobile, Word
+- Tags: Animal, Board, educational, Hidden, HTML5, Kids, Mobile, word

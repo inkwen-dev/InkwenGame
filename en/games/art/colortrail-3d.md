@@ -24,4 +24,4 @@ Control your cube, move through exciting 3D tracks, and fill every path while av
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Color, Drawing
+- Tags: 3D, Color, drawing

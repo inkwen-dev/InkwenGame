@@ -19,6 +19,6 @@ Climb the highest mountains, race in the mud, and show your skills as an offroad
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Best, Car, Cars, Online, Parking, Race, Road, Supercars, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Best, Car, Cars, Online, parking, Race, Road, Supercars, Unity3D

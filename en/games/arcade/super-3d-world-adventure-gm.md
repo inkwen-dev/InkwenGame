@@ -19,6 +19,6 @@ Super 3d World Adventure a simple 3d platform game for Android, you have to avoi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: jump, Skill

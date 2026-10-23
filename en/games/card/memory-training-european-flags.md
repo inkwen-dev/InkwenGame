@@ -21,4 +21,4 @@ MEMORY TRAINING EUROPEAN FLAGS has 3 different categories with 4 levels each. To
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Card, Clicker, Educational, HTML5, Kids, Memory, Mobile, Puzzle
+- Tags: Adult, card, Clicker, educational, HTML5, Kids, memory, Mobile, Puzzle

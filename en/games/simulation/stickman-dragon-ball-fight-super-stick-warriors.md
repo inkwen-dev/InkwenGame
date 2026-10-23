@@ -21,4 +21,4 @@ You are a fan of role playing games? You like it to be stickman games? Welcome t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Anime, Battle, Best, Cartoon, Cartoon Network, Dragon Ball Z, Fight, Game, Ninja, Punch, Simulator, Street Fighting, weapons
+- Tags: 2D, Action, Adventure, Anime, battle, Best, Cartoon, Cartoon Network, Dragon Ball Z, Fight, Game, ninja, Punch, Simulator, Street Fighting, weapons

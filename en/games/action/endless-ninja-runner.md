@@ -21,4 +21,4 @@ You have just stumbled onto the best infinite temple runner game there is. If yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Android, HTML5, Mobile, Ninja, Ninjago, run, running, Unity3D
+- Tags: 1 Player, 3D Games, Android, HTML5, Mobile, ninja, Ninjago, run, running, Unity3D

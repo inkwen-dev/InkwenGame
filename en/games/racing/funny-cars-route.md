@@ -21,4 +21,4 @@ Funny Cars Route is an exciting game where your task is to draw a path for cars 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Draw, Drawing, Funny, Level, Levels, Logic, Mobile
+- Tags: Car, Cars, Draw, drawing, Funny, Level, Levels, Logic, Mobile

@@ -19,6 +19,6 @@ Gully Baseball is the game where you play baseball with your opponent and destro
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Baseball, Fun, Sport, Sports
+- Tags: 1 Player, baseball, Fun, Sport, sports

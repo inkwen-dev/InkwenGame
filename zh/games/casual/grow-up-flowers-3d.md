@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 竞技场, Boys, 交通
+- 标签: 2D, 竞技场, 男孩们, 交通

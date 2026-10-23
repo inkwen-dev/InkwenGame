@@ -19,6 +19,6 @@ Hey, a huge meteor is about to hit our beautiful world. However, Dr. Mindy has a
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, HTML5, Jumping, WebGL
+- Tags: 1 Player, 2D, HTML5, jumping, WebGL

@@ -19,6 +19,6 @@ Emotional Support Duck is a cozy life-management game where you balance your Emo
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, Animal, Battle
+- Tags: .io Games, 1 Player, Animal, battle

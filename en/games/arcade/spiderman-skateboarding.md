@@ -21,4 +21,4 @@ Spiderman Skateboarding
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Skateboard, Skating, Superhero
+- Tags: Adventure, skateboard, Skating, Superhero

@@ -21,4 +21,4 @@ Are you up for a super game of golf? You need to get the golf ball into the hole
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Golf
+- Tags: 1 Player, 2D, Adventure, Arcade, golf

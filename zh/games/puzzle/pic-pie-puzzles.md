@@ -21,4 +21,4 @@ Pic Pie Puzzles 是一款照片拼图游戏。在每一关中，你会看到一�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, HTML5, 拼图, 儿童, 移动, 益智
+- 标签: 街机, HTML5, 拼图, 儿童, 移动设备, 益智

@@ -21,4 +21,4 @@ This is a brick breaker game with different levels and game modes. Classic, Doub
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Ball, Block, Bounce, Bricks, Classic, endless, Funny, HTML5, Number
+- Tags: 2D, Arcade, Ball, block, Bounce, Bricks, Classic, endless, Funny, HTML5, Number

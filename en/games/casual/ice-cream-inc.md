@@ -19,6 +19,6 @@ If you like to eat ice cream, don't miss our new game Ice Cream Inc, you will fi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Boys, Color, Food, Girls, H5, HTML, HTML5, Hypercasual, Ice, Kids, Relaxation

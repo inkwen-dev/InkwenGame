@@ -21,4 +21,4 @@ We have for you another new game in which you will have as main character Sofia 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cartoon, Cartoon Network, Doctor, Kids, Simulation, Surgery
+- Tags: Baby, Cartoon, Cartoon Network, Doctor, Kids, Simulation, surgery

@@ -19,6 +19,6 @@ Do you aspire to be a hero in combat? There are numerous opponents and tough tow
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Puzzle, Tower Defense

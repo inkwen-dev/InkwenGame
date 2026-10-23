@@ -15,6 +15,6 @@ Guide a lost zombie through a shadowy realm in Faded Horror. Solve puzzles and n
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Zombie

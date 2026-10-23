@@ -19,6 +19,6 @@ Meet Bloomball, the plucky yellow sphere on a heroic quest to save its world. In
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Ball, Level, Logic, Mobile, Mouse, Racing, touchscreen

@@ -19,6 +19,6 @@ Our swamp shack is under attack by crocodiles, turtles, you name it, they all wa
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Battle, Bomb, Boy, Boys, Clicker, Defense, HTML, HTML5, Hypercasual, Shooter, Shooting, Tower Defense
+- Tags: Animal, Arcade, battle, Bomb, Boy, Boys, Clicker, Defense, HTML, HTML5, Hypercasual, Shooter, Shooting, Tower Defense

@@ -15,6 +15,6 @@ Lead your chosen race to victory in this fast-paced RTS/RPG hybrid. Master tacti
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Strategy
+- Tags: strategy

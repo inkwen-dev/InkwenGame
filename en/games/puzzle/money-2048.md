@@ -19,6 +19,6 @@ Money 2048 is a fun and relaxing puzzle game where you merge matching money item
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2048, Block, html5 games, Matching, Mobile
+- Tags: 2048, block, html5 games, Matching, Mobile

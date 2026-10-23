@@ -15,6 +15,6 @@ Surf the vibrant waves in Girl Surfer 3D, where you dodge obstacles, rescue comp
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Casual

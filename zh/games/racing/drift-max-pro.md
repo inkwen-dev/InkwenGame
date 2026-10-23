@@ -21,4 +21,4 @@ Drift Max Pro 以逼真的物理引擎为核心，结合引人注目的图形和
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 漂移驾驶, 驾驶, 竞速, 赛车
+- 标签: 漂移, 驾驶, 比赛, 竞速

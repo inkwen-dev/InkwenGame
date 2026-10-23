@@ -19,6 +19,6 @@ Yuki & Rina are 2 young talented football players. They showed incredible footba
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ben 10, Cartoon, Cartoon Network, Casual, Football, Fun, Funny, Hypercasual, jump, Jumping, Kid, Kids, run, running, Sport, Sports
+- Tags: Ben 10, Cartoon, Cartoon Network, Casual, Football, Fun, Funny, Hypercasual, jump, jumping, Kid, Kids, run, running, Sport, sports

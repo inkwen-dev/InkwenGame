@@ -19,6 +19,6 @@ Tower Defense is a strategy game where the player's goal is to protect their ter
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Adventure, Android, Arcade, Boy, Boys, Hot, New, Puzzle, Strategy
+- Tags: Adult, Adventure, Android, Arcade, Boy, Boys, Hot, New, Puzzle, strategy

@@ -21,4 +21,4 @@ All the baddies are choosing the most beautiful outfits for the catwalk! Your go
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adult, Adventure, Arcade, Baseball, Boy, Boys, Car, Cars, Family, Fashion, Game, Games, Girl, Girls, Ladybug, Race, subway, Undead, Unity3D, War
+- Tags: 3D, 3D Games, Adult, Adventure, Arcade, baseball, Boy, Boys, Car, Cars, Family, Fashion, Game, Games, Girl, Girls, Ladybug, Race, subway, Undead, Unity3D, War

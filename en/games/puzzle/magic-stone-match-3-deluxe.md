@@ -19,6 +19,6 @@ Match three or more identical magic stones and reach the target of each level. T
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, HTML5, Jewel, Magic, Match 3, Match3, Matching, Mobile

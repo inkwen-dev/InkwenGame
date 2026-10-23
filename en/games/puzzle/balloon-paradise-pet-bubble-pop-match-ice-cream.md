@@ -21,4 +21,4 @@ Use your mouse to play the game or tap on the screen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Avoid, Ball, Ballon, Bomb, Boy, Color, Cool, Crazy, Girl, HTML5, Mobile, New, Puzzle, WebGL
+- Tags: Adventure, Avoid, Ball, Ballon, Bomb, Boy, Color, cool, crazy, Girl, HTML5, Mobile, New, Puzzle, WebGL

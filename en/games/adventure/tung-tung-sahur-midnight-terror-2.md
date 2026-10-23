@@ -15,6 +15,6 @@ Step into the shadowy chaos of Tung Tung Sahur: Midnight Terror 2 as you dash th
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Horror

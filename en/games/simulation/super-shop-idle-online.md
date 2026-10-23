@@ -21,4 +21,4 @@ Super Shop Idle is a delightful idle game where you can experience the excitemen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fruit, Girls, Kids, Relaxation, Shopping, Simulation, Strategy
+- Tags: Fruit, Girls, Kids, Relaxation, Shopping, Simulation, strategy

@@ -19,6 +19,6 @@ You are a weaponized human test subject disguised as a robot. Your test is to sh
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Battle, Crazy, demolition, destroy, destroying, destruction, Pixel, Robot, Science, unity, unity games, Unity3D
+- Tags: 1 Player, 2D, battle, crazy, demolition, destroy, destroying, destruction, pixel, Robot, Science, unity, unity games, Unity3D

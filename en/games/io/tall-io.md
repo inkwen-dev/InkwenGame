@@ -21,4 +21,4 @@ Tall.io is an engaging and addictive browser-based HTML5 game that combines elem
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: .io, Boys, Mobile, Multiplayer, PvP, Stickman
+- Tags: .io, Boys, Mobile, Multiplayer, PvP, stickman

@@ -21,4 +21,4 @@ This is game with Mathematical Tasks. You need to react fast and to click on tru
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Kids, Math, Puzzle
+- Tags: Brain, Kids, math, Puzzle

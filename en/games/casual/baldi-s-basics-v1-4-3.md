@@ -21,4 +21,4 @@ Baldi's Basics v1.4.3 - Inspired by creepy/bad edutainment games from the 90s, B
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Fun, HTML5, Math, WebGL
+- Tags: 3D, Fun, HTML5, math, WebGL

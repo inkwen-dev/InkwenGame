@@ -21,4 +21,4 @@ Control 4 Cars 是一款广为人知的操控汽车游戏。但这一次，你�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 躲避, 汽车们, 竞速, 竞速
+- 标签: 躲避, 汽车, 比赛, 竞速

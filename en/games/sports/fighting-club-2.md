@@ -21,4 +21,4 @@ Choose one of the six members of the "Fighting Club" and show your fighting natu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, Arcade, Boxing, Brawl, Fight, Fighting, Sport, Sports, Street Fighting, WebGL
+- Tags: 1 Player, 2 Player, 2 Player Games, Arcade, Boxing, Brawl, Fight, fighting, Sport, sports, Street Fighting, WebGL

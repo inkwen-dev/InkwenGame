@@ -19,6 +19,6 @@ Drive your car in Car Eats Car 2 and use turbo and bombs to escape the cannibal 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Car, Multiplayer

@@ -21,4 +21,4 @@ Real Madrid Puzzle est la plus grande communauté en ligne de jeu de puzzles ave
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Funny, Puzzle, Sports
+- Tags: Football, Funny, Puzzle, sports

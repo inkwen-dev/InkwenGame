@@ -21,4 +21,4 @@ When playing, the player is assuming the role of Mario and has to go through the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Mario
+- Tags: Adventure, Arcade, mario

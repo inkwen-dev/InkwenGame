@@ -21,4 +21,4 @@ Block pixel cop is fun addictive action game.You are in Robbers World where all 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Block, Pixel, Shoot, Shooter, Shooting
+- Tags: Action, block, pixel, Shoot, Shooter, Shooting

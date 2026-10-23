@@ -21,4 +21,4 @@ The pillar is full of glass tiles . Tap the player to ascend and break the glass
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, fly, jump, Jumping, Obstacle, Unity3D
+- Tags: Arcade, fly, jump, jumping, Obstacle, Unity3D

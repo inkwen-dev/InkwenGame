@@ -19,6 +19,6 @@ Castel Wars continues with its new episode, Middle Ages! With the new episode, y
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Battle, Fun, Funny, Pixel, Retro, Strategy, War
+- Tags: 2 Player, 2 Player Games, battle, Fun, Funny, pixel, retro, strategy, War

@@ -21,4 +21,4 @@ What about starting an adventure in the battlefields in the Medieval period by g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, Battle, Simulation, Strategy, War
+- Tags: 2 Player, 2 Player Games, 3D, battle, Simulation, strategy, War

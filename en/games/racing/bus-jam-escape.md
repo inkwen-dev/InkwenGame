@@ -21,4 +21,4 @@ Bus Jam Escape is a fun and colorful puzzle game where your goal is to sort pass
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Best, bus, Driving, Fun, Kids, Management, Mobile, Skill
+- Tags: 1 Player, Best, bus, Driving, Fun, Kids, management, Mobile, Skill

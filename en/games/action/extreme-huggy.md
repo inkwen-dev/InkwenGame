@@ -19,6 +19,6 @@ Huggy needs to survive. Help Huggy and ensure he reaches the finish line. Do eve
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Arena, Battle, Platform
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Arena, battle, Platform

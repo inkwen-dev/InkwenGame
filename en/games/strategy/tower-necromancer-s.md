@@ -21,4 +21,4 @@ You are a necromancer living in a tower, but the local kingdom sees you as a thr
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Magic, Strategy, Tower Defense
+- Tags: Magic, strategy, Tower Defense

@@ -19,6 +19,6 @@ Welcome to the new crazy car - transporter truck game which is the best army veh
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adult, Adventure, Arcade, Car, Race, Racing

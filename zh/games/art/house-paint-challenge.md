@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2026年游戏, 方块, 大脑, 涂色, 房屋, html5游戏, 逻辑, 涂鸦, 绘画, 解谜, 放松, WebGL
+- 标签: 2026 游戏, 方块, 大脑, 着色, 房子, HTML5游戏, 逻辑, paint, 绘画, 益智, 放松, WebGL

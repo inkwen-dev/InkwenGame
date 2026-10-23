@@ -21,4 +21,4 @@ Welcome to Go Dentist Games Teeth Doctor Hospital Adventure, you have a chance t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, Cartoon, Cartoon Network, Doctor, Games, Girls, Hot, Kids, Simulation, Surgery
+- Tags: Baby, Baby Hazel, Cartoon, Cartoon Network, Doctor, Games, Girls, Hot, Kids, Simulation, surgery

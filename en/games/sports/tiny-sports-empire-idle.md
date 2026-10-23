@@ -31,4 +31,4 @@ Tiny Sports Empire Idle is a sports management idle game where you build a growi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Basketball, idle, Simulation, Sports, tycoon
+- Tags: basketball, idle, Simulation, sports, tycoon

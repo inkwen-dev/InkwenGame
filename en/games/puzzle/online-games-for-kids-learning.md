@@ -19,6 +19,6 @@ online games for kids: Kids will learn colors, shapes and follow through simple 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Anime, Baby, Baby Hazel, Balance, Ball, Ballon, Barbie, Ben 10, Bike, Bird, Cute, Decorate, Decoration, Fruit, Kids, Number, Train, Truck, Word
+- Tags: 2D, Animal, Anime, Baby, Baby Hazel, Balance, Ball, Ballon, Barbie, Ben 10, bike, Bird, Cute, Decorate, Decoration, Fruit, Kids, Number, Train, truck, word

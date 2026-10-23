@@ -21,4 +21,4 @@ Command your archers to defend your tower in Kingdom Guards - Tower Defense. Sho
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Castle, Casual, Defense, HTML5, Hypercasual, King, Shooting, Strategy, Tower Defense
+- Tags: Action, Arcade, Castle, Casual, Defense, HTML5, Hypercasual, King, Shooting, strategy, Tower Defense

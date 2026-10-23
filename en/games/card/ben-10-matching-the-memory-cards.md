@@ -19,6 +19,6 @@ One of your best friends, Ben 10 is back! Your favorite superhero is bringing fo
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arcade, Ben 10, Best, Card, Hypercasual, Memory, Puzzle, Shooter
+- Tags: 2D, Adventure, Arcade, Ben 10, Best, card, Hypercasual, memory, Puzzle, Shooter

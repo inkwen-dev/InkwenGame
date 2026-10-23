@@ -21,4 +21,4 @@ Find all the cross words by answer the questions on each rows and columns now!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Arcade, Puzzle, Word
+- Tags: .io, Arcade, Puzzle, word

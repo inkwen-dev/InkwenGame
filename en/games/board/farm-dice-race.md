@@ -19,6 +19,6 @@ An interesting farm dice game which you can play with you mobile or tablet or co
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, Board, HTML5, Mobile, Puzzle, Turn Based

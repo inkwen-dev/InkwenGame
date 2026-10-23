@@ -19,6 +19,6 @@ Select one of the characters in the game and control their movements to fight ag
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Fighting, kiz10, Street Fighting
+- Tags: 3D Games, fighting, kiz10, Street Fighting

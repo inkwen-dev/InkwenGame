@@ -21,4 +21,4 @@ You must take your place in the adventure of the men in red and yellow costumes,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Adventure, Arcade, Pixel, Platform, sky
+- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Adventure, Arcade, pixel, Platform, sky

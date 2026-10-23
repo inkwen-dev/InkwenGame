@@ -19,6 +19,6 @@ Candy Match game, here you have to match 3 or more of the same type doll to clea
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, free html5 games for your website, Fun, Funny, HTML, HTML5, Hypercasual, Match 3, Matching, NapTech Games, Online, Puzzle

@@ -19,6 +19,6 @@ All aboard for a brain-teasing adventure! In Train Puzzle, your goal is to becom
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Mentolatux, Skill, Train, unity, WebGL

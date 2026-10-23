@@ -19,6 +19,6 @@ This game is a flappy game where you can live the most important and most beauti
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, 2D, Adult, Adventure, Arcade, Bird, Funny, Game, Minecraft, run

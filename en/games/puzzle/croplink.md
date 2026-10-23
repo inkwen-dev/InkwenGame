@@ -19,6 +19,6 @@ CropLink game is a match-3 game in farm setting. Farm produces (vegetables) have
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Farm, Food, Match 3, Puzzle

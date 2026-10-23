@@ -19,6 +19,6 @@ super mario run race online is one of the most recognizable racing series around
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2D, Android, Cars, Mario, Racing, Super
+- Tags: .io Games, 1 Player, 2D, Android, Cars, mario, Racing, Super

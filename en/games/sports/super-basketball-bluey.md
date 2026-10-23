@@ -21,4 +21,4 @@ Super Basketball is a simple yet incredibly addictive game built on realistic ph
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Basketball, Cartoon, mapi games
+- Tags: Ball, basketball, Cartoon, mapi games

@@ -21,4 +21,4 @@ Sprinter 是一个来自 Flash 时代的简单跑步游戏。在 100 米短跑�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 赛车, 体育
+- 标签: 竞速, 运动

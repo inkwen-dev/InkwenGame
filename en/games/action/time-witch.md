@@ -19,6 +19,6 @@ Time Witch is a puzzle platformer where you control a witch with the power to di
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Magic, Pixel, Platform, Puzzle, Retro
+- Tags: Arcade, Magic, pixel, Platform, Puzzle, retro

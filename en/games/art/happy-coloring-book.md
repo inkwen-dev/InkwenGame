@@ -21,4 +21,4 @@ Color your world with our interactive web coloring book game! Choose from a vari
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Color, Drawing
+- Tags: Color, drawing

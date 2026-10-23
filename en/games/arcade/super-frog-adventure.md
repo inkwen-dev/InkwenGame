@@ -27,4 +27,4 @@ Collect all the fruits to pass the level!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Mobile, Platform, Retro
+- Tags: Arcade, Mobile, Platform, retro

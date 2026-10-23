@@ -21,4 +21,4 @@ Are You the next great stunt Skibidi Toilet pilot? You will need to have strong 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Flight, fly, HTML, Mobile, Skibidi, Skibidi Toilet
+- Tags: Arcade, flight, fly, HTML, Mobile, Skibidi, skibidi-toilet

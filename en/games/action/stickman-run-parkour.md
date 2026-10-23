@@ -21,4 +21,4 @@ Welcome to Stickman Run, A new Stickman running parkour Game . you'll face chall
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Best, Hot, jump, Jumping, run, running, Stickman
+- Tags: Action, Adventure, Best, Hot, jump, jumping, run, running, stickman

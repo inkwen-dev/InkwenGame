@@ -19,6 +19,6 @@ Choose your route, grab enough socks, and build faster than your rivals. The mor
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Bridge, Christmas, Holiday, running, Stack, Winter

@@ -19,6 +19,6 @@ Hot Air Balloon Game 2 is a fun game in which you need to avoid other objects in
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, airplane, Arcade, Ballon, Bird, Clicker

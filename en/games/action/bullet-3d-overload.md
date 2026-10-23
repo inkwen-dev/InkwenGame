@@ -21,4 +21,4 @@ Bullet 3d Overload is the newest puzzle from makers of Laser Overload and Laser 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Army, Best, Police
+- Tags: 3D Games, Action, Army, Best, police

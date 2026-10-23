@@ -21,4 +21,4 @@ Cake Link Master is a fun puzzle game where you tap two matching cakes to connec
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Cake, Girls, html5 games, Mahjong, Matching, Mobile, Puzzle
+- Tags: block, Cake, Girls, html5 games, mahjong, Matching, Mobile, Puzzle

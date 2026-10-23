@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 糖果, Mentolatux, 手机, 任务, 任务, 扭动, 无限制游戏, WebGL
+- 标签: 糖果, Mentolatux, 移动设备, 任务, 任务, 转折, 无限制游戏, WebGL

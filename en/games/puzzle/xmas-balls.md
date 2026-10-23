@@ -21,4 +21,4 @@ In Xmas Balls, your goal is to aim carefully and shoot the falling gift blocks t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arkanoid, Ball, Block, Christmas, mapi games, Santa, Santa Claus
+- Tags: Arkanoid, Ball, block, Christmas, mapi games, Santa, Santa Claus

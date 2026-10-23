@@ -21,4 +21,4 @@ Volley Challenge Compete with your friends Start right now! Features: Over 100 l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player, 3D Games, Ball, Hypercasual, Sport, Sports
+- Tags: .io Games, 2 Player, 3D Games, Ball, Hypercasual, Sport, sports

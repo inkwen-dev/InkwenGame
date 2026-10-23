@@ -21,4 +21,4 @@ This game is a painting, drawing and coloring tool for kids in Halloween Theme! 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Draw, Drawing, Family, Girl, Girls, Halloween, Kid, Kids, Monster
+- Tags: Color, Coloring, Draw, drawing, Family, Girl, Girls, Halloween, Kid, Kids, monster

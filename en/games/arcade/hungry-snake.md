@@ -19,6 +19,6 @@ Classic arcade Hungry Snake.io gets an upgrade for unique online live events pla
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Android, Arcade, Casual, Classic, Collecting, Collection, Crazy, endless, Escape, Hypercasual
+- Tags: Action, Adventure, Android, Arcade, Casual, Classic, Collecting, Collection, crazy, endless, Escape, Hypercasual

@@ -19,6 +19,6 @@ Drop It is a gem elimination puzzle game. It moves the gem horizontally, fills t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Block, Boy, Fun, Highscore, HTML5, Kids, Matching, Mobile, Puzzle
+- Tags: Android, block, Boy, Fun, Highscore, HTML5, Kids, Matching, Mobile, Puzzle

@@ -21,4 +21,4 @@ Running Bros features a one player mode and a unique two player mode where two p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Castle, Casual, endless, HTML, HTML5, Hypercasual, Mario, Pixel, Race, Racing, Retro, run, running
+- Tags: Boy, Boys, Castle, Casual, endless, HTML, HTML5, Hypercasual, mario, pixel, Race, Racing, retro, run, running

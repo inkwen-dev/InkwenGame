@@ -19,6 +19,6 @@ Kids Memory with insects is learning memory game for kids. In this game, you can
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kids, Memory, Puzzle
+- Tags: Kids, memory, Puzzle

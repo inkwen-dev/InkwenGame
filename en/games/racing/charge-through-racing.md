@@ -19,6 +19,6 @@ Recently we have a car stunt job for you to collect gold coins and avoid obstacl
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Avoid, Boy, Car, Collecting, Driving, HTML5, Mobile, Obstacle, Racing, Simulation

@@ -19,6 +19,6 @@ Enjoy a relaxing logic puzzle built around colorful shapes. Drag pieces onto emp
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Android, Best Games, Block, Casual, Color, HTML5, Hypercasual, Puzzle, puzzleblock, Relaxation, unblockedgamesatschool
+- Tags: 1 Player, 2026 games, 2D, Android, Best Games, block, Casual, Color, HTML5, Hypercasual, Puzzle, puzzleblock, Relaxation, unblockedgamesatschool

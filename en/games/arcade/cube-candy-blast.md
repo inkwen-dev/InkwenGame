@@ -21,4 +21,4 @@ Welcome to Cube Candy Blast. This is a candy blocks puzzle game. Your mission is
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Candy, Casual, Clicker
+- Tags: Arcade, block, Candy, Casual, Clicker

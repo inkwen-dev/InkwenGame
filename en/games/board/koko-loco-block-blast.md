@@ -21,4 +21,4 @@ Think fast, blast smart &mdash; can you beat your best score? Blast blocks, fit 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, blockchain, blocky, Board, Brain, Bricks, Casual, Classic, Cool, Cute, destroy, endless, Puzzle, puzzleblock
+- Tags: block, blockchain, blocky, Board, Brain, Bricks, Casual, Classic, cool, Cute, destroy, endless, Puzzle, puzzleblock

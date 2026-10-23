@@ -19,6 +19,6 @@ Compete across Europe and the Middle East as you race in the Superbike Series. B
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Bike, Classic, Hypercasual, Mobile, Race, Racing
+- Tags: 3D, Arcade, bike, Classic, Hypercasual, Mobile, Race, Racing

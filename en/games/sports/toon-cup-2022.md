@@ -21,4 +21,4 @@ Football is back and its bigger than ever! Play Toon Cup 2022, the totally free 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Cartoon, Cartoon Network, Soccer, Sports
+- Tags: 1 Player, Cartoon, Cartoon Network, Soccer, sports

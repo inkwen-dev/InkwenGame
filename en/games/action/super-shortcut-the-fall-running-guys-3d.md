@@ -19,6 +19,6 @@ Here is a new game of the fall guys to race against opponents you have to knocko
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Casual, Hypercasual, run, running

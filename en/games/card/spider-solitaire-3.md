@@ -21,4 +21,4 @@ Experience Spider Solitaire, one of the popular single-player card games. Arrang
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Classic, Collecting, Logic, Puzzle
+- Tags: card, Classic, Collecting, Logic, Puzzle

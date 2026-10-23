@@ -19,6 +19,6 @@ Mega Casino Mania brings the ultimate online casino slots experience straight to
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 3D Games, Card, Casino, Casual, Games, Poker, Slot Machine, spin-wheel
+- Tags: 2026 games, 3D Games, card, Casino, Casual, Games, Poker, Slot Machine, spin-wheel

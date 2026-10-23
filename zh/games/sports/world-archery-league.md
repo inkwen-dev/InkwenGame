@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 箭矢, 逼真, 体育, 策略
+- 标签: 箭矢, 真实, 运动, 策略

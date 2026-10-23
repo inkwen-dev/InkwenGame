@@ -21,4 +21,4 @@ Football Free Kick is a 3D arcade soccer game. Swipe to shoot, curl the ball ove
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, Ball, Physics, Skill, Soccer, Sports
+- Tags: 3D, Arcade, Ball, Physics, Skill, Soccer, sports

@@ -21,4 +21,4 @@ Sprunki Drift 多人游戏是一款充满精彩竞速、震撼特技和炫酷超
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 漂移, 漂移, 驾驶, 多人, 赛车, Sprunki
+- 标签: 漂移, 漂移, 驾驶, 多人, 竞速, 斯普朗基

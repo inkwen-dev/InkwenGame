@@ -21,4 +21,4 @@ School Bus is a fun top-down simulation game where you drive a bus to school.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Mobile, Parking
+- Tags: Driving, Mobile, parking

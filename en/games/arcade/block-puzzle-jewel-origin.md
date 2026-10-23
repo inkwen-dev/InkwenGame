@@ -21,4 +21,4 @@ Block Puzzle Jewel Origin is the best for relaxing & killing time but also train
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Jewel, Puzzle
+- Tags: Arcade, block, Jewel, Puzzle

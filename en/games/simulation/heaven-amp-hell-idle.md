@@ -21,4 +21,4 @@ Heaven &amp; Hell Idle is a fun 3D idle arcade management game where you build a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Casual, idle, Management, Simulation
+- Tags: 3D, Arcade, Casual, idle, management, Simulation

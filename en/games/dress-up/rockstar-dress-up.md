@@ -21,4 +21,4 @@ Amelia wants to be a famous rock star. She plays the guitar very well. She fasci
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Decorate, Dress Up, Fashion, Fun, Game, Girl, Girls, HTML5, Music
+- Tags: Decorate, Dress Up, Fashion, Fun, Game, Girl, Girls, HTML5, music

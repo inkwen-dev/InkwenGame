@@ -21,4 +21,4 @@ Block Craft Jumping Adventure is fun online game developed for kids and adults. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Avoid, Block, Boys, Craft, Fun, HTML5, jump, Jumping, Kids, Minecraft, Platform, Skill
+- Tags: Android, Arcade, Avoid, block, Boys, Craft, Fun, HTML5, jump, jumping, Kids, Minecraft, Platform, Skill

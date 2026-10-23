@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 竞技场, 军队, MMO, 投篮, 策略, 战争
+- 标签: 竞技场, 军队, MMO, 射击, 策略, 战争

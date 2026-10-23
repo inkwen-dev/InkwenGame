@@ -21,4 +21,4 @@ Emily, the fairy of goodness and beauty, strives for people to live in peace. Sh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cartoon, Dress Up, Fashion, Fun, Game, Girl, Girls, Horse
+- Tags: Animal, Cartoon, Dress Up, Fashion, Fun, Game, Girl, Girls, horse

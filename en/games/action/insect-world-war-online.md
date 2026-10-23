@@ -21,4 +21,4 @@ Insect World War Online is one of an epic casual &amp; strategy animal games, cu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Battle, Casual
+- Tags: 3D, Adventure, battle, Casual

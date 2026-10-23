@@ -19,6 +19,6 @@ Tap to drop numbers 2048 try to merge as much as possible
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Casual, Hypercasual, Puzzle

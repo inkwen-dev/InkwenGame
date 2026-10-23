@@ -21,4 +21,4 @@ Use Mouse To Play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casino, Castle, Fun, Slot Machine
+- Tags: card, Casino, Castle, Fun, Slot Machine

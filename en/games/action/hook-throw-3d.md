@@ -21,4 +21,4 @@ You are a brave fighter who single-handedly rushes at opponents, armed to the li
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Adventure, Arcade, Battle, Battlegrounds, Fight, Fighting, H5, HTML, HTML5, Unity3D
+- Tags: 3D Games, Adventure, Arcade, battle, Battlegrounds, Fight, fighting, H5, HTML, HTML5, Unity3D

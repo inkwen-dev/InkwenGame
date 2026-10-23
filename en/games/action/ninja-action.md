@@ -21,4 +21,4 @@ Play this awesome game "Ninja Action". Who doesn't like Ninja? Are you familiar 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: endless, Ninja, Platform, running
+- Tags: endless, ninja, Platform, running

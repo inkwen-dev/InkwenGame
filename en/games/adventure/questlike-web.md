@@ -19,6 +19,6 @@ Join the Hunt! Questlike: Web is a beat-bumping, monster-hunting RPG! Battle Bea
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Crafting, Monster
+- Tags: Adventure, Crafting, monster

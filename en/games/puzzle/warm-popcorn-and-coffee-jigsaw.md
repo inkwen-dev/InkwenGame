@@ -19,6 +19,6 @@ Warm popcorn and coffee jigsaw is an online puzzle jigsaw game. To solve this pu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Jigsaw

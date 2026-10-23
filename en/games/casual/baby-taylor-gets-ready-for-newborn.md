@@ -19,6 +19,6 @@ Today, Taylor's mom announced great news! She is pregnant! Taylor and her father
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cleaning, Girl, Girls, H5, House, HTML5, Kid, Kids

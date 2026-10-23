@@ -21,4 +21,4 @@ Here&rsquo;s a more straightforward, human-friendly version of your description:
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Best Games, Casual, Crazy, endless, free games for your site, Fun, Mind
+- Tags: Best, Best Games, Casual, crazy, endless, free games for your site, Fun, Mind

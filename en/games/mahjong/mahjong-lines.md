@@ -50,4 +50,4 @@ Game features:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Board, Brain, easy, Logic, Mahjong, Matching, Puzzle
+- Tags: Board, Brain, easy, Logic, mahjong, Matching, Puzzle

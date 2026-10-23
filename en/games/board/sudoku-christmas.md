@@ -19,6 +19,6 @@ This is a classic sudoku game. You can select any one of three grids(4x4, 6x6 or
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Christmas, Educational, HTML5, Mobile, Puzzle, School
+- Tags: Board, Christmas, educational, HTML5, Mobile, Puzzle, School

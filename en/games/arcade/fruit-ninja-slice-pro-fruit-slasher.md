@@ -21,4 +21,4 @@ This is a fun agile game. In the game, you should quickly cut the fruit that jum
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Boy, cut, Fight, Food, Fruit, Fruits, Girl, HTML5, New, Ninja, WebGL
+- Tags: Action, Adventure, Arcade, Boy, cut, Fight, Food, Fruit, Fruits, Girl, HTML5, New, ninja, WebGL

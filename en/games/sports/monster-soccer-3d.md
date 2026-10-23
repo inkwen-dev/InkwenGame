@@ -19,6 +19,6 @@ Monster Soccer 3D is a funny soccer game for 1 and 2 players. Before starting th
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Football, Fun, Funny, Monster, Soccer
+- Tags: 3D, 3D Games, Football, Fun, Funny, monster, Soccer

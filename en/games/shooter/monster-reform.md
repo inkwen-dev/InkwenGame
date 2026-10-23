@@ -21,4 +21,4 @@ Monster Reform is a 3D survival shooter game. It is a game that has a level syst
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Bomb, Clash, Gun, Hypercasual, Monster, Shoot, Shooter, weapons
+- Tags: 3D, Bomb, Clash, Gun, Hypercasual, monster, Shoot, Shooter, weapons

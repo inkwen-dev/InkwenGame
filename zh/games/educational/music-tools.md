@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩们, 教育, 家庭, 女生, HTML, HTML5, 儿童, 音乐
+- 标签: 男孩们, 教育, 家庭, 女孩, HTML, HTML5, 儿童, 音乐

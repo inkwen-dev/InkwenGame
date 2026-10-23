@@ -21,4 +21,4 @@ Which war have you led to great strength? Attack the castle with a crowd clash 3
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Funny, Hypercasual, Kids, run, running, Sports
+- Tags: 3D, 3D Games, Arcade, Funny, Hypercasual, Kids, run, running, sports

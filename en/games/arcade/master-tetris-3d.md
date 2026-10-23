@@ -19,6 +19,6 @@ You bring down blocks from the top of the screen. You can move the blocks around
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Arcade, Fun, Funny, Game, Games, Highscore, HTML, HTML5, Kid, Kids, Mind, Puzzle, Tetris
+- Tags: 1 Player, 3D, 3D Games, Arcade, Fun, Funny, Game, Games, Highscore, HTML, HTML5, Kid, Kids, Mind, Puzzle, tetris

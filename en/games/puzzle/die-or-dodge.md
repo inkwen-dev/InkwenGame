@@ -21,4 +21,4 @@ This is platform jumping game where player need to jump to collect diamonds and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Collecting, Jumping, Puzzle
+- Tags: Avoid, Collecting, jumping, Puzzle

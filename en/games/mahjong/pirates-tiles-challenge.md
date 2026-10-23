@@ -33,4 +33,4 @@ Pirates Tiles Challenge is a delightful tile-matching puzzle game with a vibrant
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Color, Mahjong, Matching, Puzzle
+- Tags: Brain, Color, mahjong, Matching, Puzzle

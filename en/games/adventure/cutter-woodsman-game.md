@@ -19,6 +19,6 @@ Become a skilled woodsman and chop your way through the forest! Use your axe to 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Best, Casual, cut, Fun, Hypercasual

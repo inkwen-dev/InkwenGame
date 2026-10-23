@@ -21,4 +21,4 @@ You are a little (but fat!) cute flightless chicken that wants to cross the lake
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Fun, HTML5, Jumping, Kids, Mobile, Puzzle, Skill
+- Tags: Arcade, Fun, HTML5, jumping, Kids, Mobile, Puzzle, Skill

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 人玩家, 安卓, 球类, 无尽, HTML5, 手机, 技能
+- 标签: 单人, 安卓, 球, 无尽, HTML5, 移动设备, 技巧

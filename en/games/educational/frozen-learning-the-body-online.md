@@ -21,4 +21,4 @@ Frozen Learning The Body Online is an innovative, interactive, and engaging educ
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Elsa, Frozen
+- Tags: educational, Elsa, Frozen

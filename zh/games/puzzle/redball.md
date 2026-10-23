@@ -21,4 +21,4 @@ RedBall 跳跃 红球
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 休閒, 游戏, 超休闲, Punch
+- 标签: 2D, 休闲, 游戏, 超休闲, 拳击

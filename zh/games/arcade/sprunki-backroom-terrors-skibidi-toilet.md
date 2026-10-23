@@ -21,4 +21,4 @@ Sprunki 后室恐怖 斯基比马桶是一款动作恐怖游戏，奔跑并收�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 恐怖, Skibidi, Skibidi Toilet, Sprunki
+- 标签: 恐怖, Skibidi, skibidi-toilet, 斯普朗基

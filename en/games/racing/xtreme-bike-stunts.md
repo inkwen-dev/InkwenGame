@@ -19,6 +19,6 @@ Xtreme Bike Stunts is a thrilling and adventurous Bike Stunts game sets on the t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Bike, Racing, Stunts
+- Tags: Adventure, bike, Racing, Stunts

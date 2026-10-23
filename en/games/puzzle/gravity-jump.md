@@ -21,4 +21,4 @@ Gravity Jump is another tap gravity games. You need to tap on the screen and to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, jump, Jumping, Puzzle
+- Tags: Avoid, jump, jumping, Puzzle

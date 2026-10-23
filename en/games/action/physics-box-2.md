@@ -19,6 +19,6 @@ Physics Box 2 - This is a game where you need to control the cube, which by mome
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Jumping, Kids, Mobile, Physics, Platform, Skill
+- Tags: Fun, jumping, Kids, Mobile, Physics, Platform, Skill

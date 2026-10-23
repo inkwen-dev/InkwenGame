@@ -19,6 +19,6 @@ Mad shark, is a fascinating and beautiful game in which you have to collect fish
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Fish, Fun, HTML5, Kids, Mobile, Shark, Skill

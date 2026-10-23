@@ -21,4 +21,4 @@ Play classic Hangman puzzles on your device. Suitable for all ages & abilities. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Game, Mind, Puzzle, Word
+- Tags: Brain, Game, Mind, Puzzle, word

@@ -21,4 +21,4 @@ In this idle/incremental game, you will build your gang, lead fighters to conque
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting, Games
+- Tags: Fight, fighting, Games

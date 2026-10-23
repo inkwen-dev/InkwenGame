@@ -21,4 +21,4 @@ The adventure is starting! Meet and play with Indiara, a girl who loves to colle
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Boys, Casual, endless, Girl, Gold, Hot, HTML5, Hypercasual, Kids, Mobile, Ninja, Online, Platform
+- Tags: Arcade, Best, Boys, Casual, endless, Girl, Gold, Hot, HTML5, Hypercasual, Kids, Mobile, ninja, Online, Platform

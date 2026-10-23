@@ -21,4 +21,4 @@ Get as many stars as possible to beat your record.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Christmas, Click, Jumping
+- Tags: 1 Player, 2D, Christmas, Click, jumping

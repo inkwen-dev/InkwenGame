@@ -19,6 +19,6 @@ Prison break is a very dangerous thing, can you help our game protagonist to esc
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boy, Brain, Escape, Fun, HTML, HTML5, Kids, Logic, Logical, Mobile, Online, Police, Puzzle
+- Tags: 2D, Boy, Brain, Escape, Fun, HTML, HTML5, Kids, Logic, Logical, Mobile, Online, police, Puzzle

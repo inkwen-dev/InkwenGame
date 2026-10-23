@@ -21,4 +21,4 @@ Draw the Rest Challenge is a fun drawing puzzle game. You are presented with a d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Boys, Cartoon, Drawing, Fun, Girls, HTML5, Hypercasual, Kids, Mobile, Skill
+- Tags: Android, Arcade, Boys, Cartoon, drawing, Fun, Girls, HTML5, Hypercasual, Kids, Mobile, Skill

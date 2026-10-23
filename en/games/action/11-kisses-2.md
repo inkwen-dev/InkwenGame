@@ -19,6 +19,6 @@ Angel-Girl and Demon-Boy were separated by fate. Help the Angel get to her lover
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Bomb, Boy, Bricks, Bridge, Fairy, Girl, HTML5, Logical, Love, Platform, Puzzle, run, running, Seduction

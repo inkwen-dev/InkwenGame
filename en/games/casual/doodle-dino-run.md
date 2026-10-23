@@ -19,6 +19,6 @@ Doodle Dino Run delivers an addictive running adventure where you control a cute
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: dino, Pixel, run
+- Tags: dino, pixel, run

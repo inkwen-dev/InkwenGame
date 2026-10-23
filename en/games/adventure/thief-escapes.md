@@ -21,4 +21,4 @@ Are you a devoted member of the Mafia, tasked with undertaking audacious heists,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, HTML5, iPad, iPhone, Mentolatux, Mobile, Police, Skill, sneak, steal, Thief, unity games, WebGL
+- Tags: Escape, HTML5, iPad, iPhone, Mentolatux, Mobile, police, Skill, sneak, steal, Thief, unity games, WebGL

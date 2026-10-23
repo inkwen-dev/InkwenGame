@@ -21,4 +21,4 @@ Try your hand at the most satisfying wood turning game and experience the real f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Best, Block, Boy, Boys, Puzzle, Skill, WebGL
+- Tags: 3D Games, Best, block, Boy, Boys, Puzzle, Skill, WebGL

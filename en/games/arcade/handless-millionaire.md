@@ -21,4 +21,4 @@ The famous game Handless Millionaire comes with a zombie mode. the same goal in 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Blood, Monster, Zombie
+- Tags: Adventure, Arcade, Blood, monster, Zombie

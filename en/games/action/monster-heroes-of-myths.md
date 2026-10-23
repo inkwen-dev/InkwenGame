@@ -21,4 +21,4 @@ Monster Heroes Of Myths is an action-packed adventure game where you can summon 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fight
+- Tags: battle, Fight

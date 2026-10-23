@@ -19,6 +19,6 @@ A panda has just landed in our forests! This imposing black and white animal is 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Casual, Ninja, Panda
+- Tags: Animal, Casual, ninja, Panda

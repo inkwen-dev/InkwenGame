@@ -15,6 +15,6 @@ Dive into the electrifying chaos of Laser Marathon, a fast-paced platformer wher
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: platformer

@@ -19,6 +19,6 @@ Soccer Kick Ball game in the style of Pinball Game. Use the Striker to get the b
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Football, Game, Online, Soccer

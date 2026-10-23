@@ -21,4 +21,4 @@ This is an interesting word puzzle game with Christmas theme. Try to find the na
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Educational, HTML5, Kids, Mobile, Puzzle, School, Skill, Word
+- Tags: Christmas, educational, HTML5, Kids, Mobile, Puzzle, School, Skill, word

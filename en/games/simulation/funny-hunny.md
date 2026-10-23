@@ -21,4 +21,4 @@ Funny cutie will drag you for a long time. Feed the glutton Funny Funny!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Casual, Click, Clicker, Cute, Food, Fun, Funny, Hot, HTML, HTML5, Hypercasual, Pixel, Simulation, Super
+- Tags: 1 Player, 2D, Android, Casual, Click, Clicker, Cute, Food, Fun, Funny, Hot, HTML, HTML5, Hypercasual, pixel, Simulation, Super

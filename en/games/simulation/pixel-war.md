@@ -21,4 +21,4 @@ Nothing goes well in the world of pixels anymore! The invaders are becoming more
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Simulation, Strategy, War
+- Tags: Simulation, strategy, War

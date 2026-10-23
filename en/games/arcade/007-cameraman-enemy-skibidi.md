@@ -21,4 +21,4 @@ Agent 007 must survive. He needs to collect money and defeat all the Skibidi ene
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Arcade, Army, Gun, Skibidi, Skibidi Toilet
+- Tags: 1 Player, 2D, Action, Arcade, Army, Gun, Skibidi, skibidi-toilet

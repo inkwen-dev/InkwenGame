@@ -21,4 +21,4 @@ Ear doctor is a doctor simulate game! Here we have many awesome medical tools an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Boys, Doctor, Girls, Kids, Simulation, Surgery
+- Tags: .io Games, Boys, Doctor, Girls, Kids, Simulation, surgery

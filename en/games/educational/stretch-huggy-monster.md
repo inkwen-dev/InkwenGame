@@ -19,6 +19,6 @@ Navigate through the levels by extending the limbs of the character while steeri
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Monster, Puzzle, Quiz, Skibidi Toilet
+- Tags: Boys, monster, Puzzle, Quiz, skibidi-toilet

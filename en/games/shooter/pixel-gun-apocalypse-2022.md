@@ -21,4 +21,4 @@ You should check out Pixel gun Apocalypse: Infection Begin Survival, a 3D multi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D Games, Block, Multiplayer, Shooter, Shooting, Unity3D
+- Tags: .io Games, 3D Games, block, Multiplayer, Shooter, Shooting, Unity3D

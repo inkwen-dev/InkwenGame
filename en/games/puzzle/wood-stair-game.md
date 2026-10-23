@@ -19,6 +19,6 @@ Build your way to the finish in Wood Stair Game! Collect wooden pieces along the
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Best Games, Casual, Fun, Hypercasual, Puzzle

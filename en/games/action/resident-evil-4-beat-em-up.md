@@ -19,6 +19,6 @@ In Resident Evil 4: Beat Em Up your missio is to fight through five chapters and
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Brawl, Fight, Fighting
+- Tags: Action, Arcade, Brawl, Fight, fighting

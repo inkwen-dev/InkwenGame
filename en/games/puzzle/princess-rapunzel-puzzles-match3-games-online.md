@@ -19,6 +19,6 @@ Princess Rapunzel Puzzles & Match3 Games Online is a match-3 type game. Swap to 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Christmas, Fashion, Match-3, Match3, Puzzle
+- Tags: .io Games, Christmas, Fashion, Match 3, Match3, Puzzle

@@ -19,6 +19,6 @@ There is crowded in Hippo's dental clinic. Look who's here! Little pig, dog and 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Doctor, Fun, Girls, HTML5, Kids, Mobile, Surgery
+- Tags: Animal, Doctor, Fun, Girls, HTML5, Kids, Mobile, surgery

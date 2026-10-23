@@ -19,6 +19,6 @@ Grow your hair longer and win this super fun hair running game! Are you ready fo
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Hair, Hypercasual, run, running

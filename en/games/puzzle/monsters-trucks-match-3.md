@@ -19,6 +19,6 @@ In this match 3 game you need to sort three or more monsters truck in a row to d
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Match 3, Match3, Puzzle, Truck
+- Tags: Match 3, Match3, Puzzle, truck

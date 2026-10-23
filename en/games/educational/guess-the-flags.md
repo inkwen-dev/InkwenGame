@@ -21,4 +21,4 @@ Embark on a thrilling journey around the globe with Guess The Flag &ndash; the u
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Family, Girl, Kids
+- Tags: educational, Family, Girl, Kids

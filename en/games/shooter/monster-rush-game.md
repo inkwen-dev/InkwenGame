@@ -21,4 +21,4 @@ Ready, aim, and SMASH cities in rampaging games! Go Rush! Select your favorite K
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Arena, Fighting, Game, Shooting, Sword
+- Tags: 2D, Action, Adventure, Arena, fighting, Game, Shooting, sword

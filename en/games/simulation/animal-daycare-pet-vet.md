@@ -19,6 +19,6 @@ Pet care games with levels offer hours of fun to boys and girls who love animals
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Baby, Casual, Girl, HTML5, Simulator, WebGL

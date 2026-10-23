@@ -21,4 +21,4 @@ Explore an isometric survival voxel world. Gather wood, stone and ores, craft to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Crafting, Minecraft, Pixel, Retro, Sandbox, survival, voxel
+- Tags: Crafting, Minecraft, pixel, retro, Sandbox, survival, voxel

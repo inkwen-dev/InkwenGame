@@ -19,6 +19,6 @@ Super Sprunki Run is an action-packed adventure game that takes players on a thr
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Casual, Fun, Platform

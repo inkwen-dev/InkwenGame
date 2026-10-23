@@ -21,4 +21,4 @@ BTS Cute Kitty Coloring is a super fun and completely free online coloring game 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cat, Coloring, Educational, Fun, Girls, Hypercasual, Mobile, painting, School
+- Tags: Boys, Cat, Coloring, educational, Fun, Girls, Hypercasual, Mobile, painting, School

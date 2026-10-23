@@ -21,4 +21,4 @@ wasd - 移动，鼠标 - 观察周围，射击 - 开火，aim - 瞄准，tab - �
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 枪械, 多人, 投篮, 射击游戏, 射击类, 射击, Unity3D, WebGL, 僵尸
+- 标签: 枪械, 多人, 射击, 射击游戏, 射击类, 射击, Unity3D, WebGL, 僵尸

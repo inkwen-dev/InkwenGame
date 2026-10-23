@@ -21,4 +21,4 @@ Crazy Car Drive is an html5 arcade game, race and avoid the cars, collect gas, l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, drift, drifting, Driving, Game, Games, HTML, HTML5, Kid, Kids, Race, Racing, Sport, Sports
+- Tags: Car, Cars, drift, drifting, Driving, Game, Games, HTML, HTML5, Kid, Kids, Race, Racing, Sport, sports

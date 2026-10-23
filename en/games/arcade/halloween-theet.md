@@ -21,4 +21,4 @@ Play this adorable variation of a classic video game in halloween theme, Your go
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Halloween, HTML, HTML5, mapi games, Mobile, Monster
+- Tags: Arcade, Casual, Halloween, HTML, HTML5, mapi games, Mobile, monster

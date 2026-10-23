@@ -19,6 +19,6 @@ Dunk Challenge is a skill game where you control a basketball, trying to get it 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Basketball, Casual, Hypercasual
+- Tags: Ball, basketball, Casual, Hypercasual

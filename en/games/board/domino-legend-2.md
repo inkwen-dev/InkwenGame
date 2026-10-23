@@ -21,4 +21,4 @@ A classic game of dominoes! Whether you are an experienced player or you haven´
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Block, Board, Draw, HTML5
+- Tags: 2 Player, 2 Player Games, block, Board, Draw, HTML5

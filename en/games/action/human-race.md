@@ -19,6 +19,6 @@ Human Race is an obstacle course control game. Move in 3D Human Race !A new kind
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Boy, Boys, Cool, HTML5, Kids, run, running, WebGL
+- Tags: Avoid, Boy, Boys, cool, HTML5, Kids, run, running, WebGL

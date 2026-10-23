@@ -15,6 +15,6 @@ Dive into intense tank warfare with Tanks 2D Battle with Ratte. Navigate dynamic
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Shooter

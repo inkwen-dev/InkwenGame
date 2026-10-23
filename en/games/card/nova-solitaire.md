@@ -21,4 +21,4 @@ Relax Now! Try this Most Addictive Classic Solitaire Card Games for You FREE!. W
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, build, Solitaire
+- Tags: Brain, build, solitaire

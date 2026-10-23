@@ -21,4 +21,4 @@ A game of the memory genre with a variety of modes. Search for pairs of identica
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Brain, Classic, Matching, Memory, Mind, Puzzle
+- Tags: Best Games, Brain, Classic, Matching, memory, Mind, Puzzle

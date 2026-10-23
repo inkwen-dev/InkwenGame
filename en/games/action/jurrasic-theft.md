@@ -19,6 +19,6 @@ Jurassic Theft is a cool platform game by playfreeonline.games in which you try 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Cool, Dinosaur, Platform
+- Tags: Action, cool, Dinosaur, Platform

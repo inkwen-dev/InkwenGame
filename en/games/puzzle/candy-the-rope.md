@@ -21,4 +21,4 @@ Candy The Rope is a wonderful puzzle game in which the goal is very simple, to g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Brain, Cake, Candy, cut, Fairy, Jewel, Monster, Puzzle, Rescue
+- Tags: 2D, Animal, Brain, Cake, Candy, cut, Fairy, Jewel, monster, Puzzle, Rescue

@@ -21,4 +21,4 @@ Space, rockets, astronauts, asteroids, traitors and spies! Does it remind you of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Card, HTML5, Memory, Mobile, Space
+- Tags: 1 Player, card, HTML5, memory, Mobile, Space

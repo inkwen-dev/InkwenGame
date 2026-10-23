@@ -21,4 +21,4 @@ Santa Basket is an exciting sports game to play for all ages. Play this technica
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Boys, Casual, HTML, HTML5, Kids, Mobile, Sport, Sports
+- Tags: basketball, Boys, Casual, HTML, HTML5, Kids, Mobile, Sport, sports

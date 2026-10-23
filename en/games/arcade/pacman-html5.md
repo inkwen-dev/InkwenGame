@@ -19,6 +19,6 @@ Play up to 70 unique levels of Pacman on the computer, tablet, or smartphone. Co
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, PacMan

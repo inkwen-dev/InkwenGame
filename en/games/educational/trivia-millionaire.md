@@ -21,4 +21,4 @@ Trivia Millionaire is a trivia game where players answer questions by choosing t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Classic, Educational, Quiz, trivia
+- Tags: Classic, educational, Quiz, trivia

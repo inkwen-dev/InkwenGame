@@ -21,4 +21,4 @@ Geometry Dash is back with a brand new adventure! Jump in, brace yourself, and g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Dungeon, jump, Jumping
+- Tags: Adventure, Arcade, Dungeon, jump, jumping

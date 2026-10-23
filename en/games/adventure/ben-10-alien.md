@@ -19,6 +19,6 @@ Do you love ben? Are u crazy fans of bentn alien? ben Super Hero boy Transform t
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Alien, Ben 10

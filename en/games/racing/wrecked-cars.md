@@ -19,6 +19,6 @@ Wrecked is a new racing game full of action and adrenaline! What makes it specia
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Car, Cars, Supercars

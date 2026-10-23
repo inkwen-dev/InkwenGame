@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 炸弹, 猫, 女孩, 女孩们, Hello Kitty, HTML, HTML5, 字母, 数字, 益智, 单词
+- 标签: 炸弹, 猫, 女孩, 女孩, Hello Kitty, HTML, HTML5, 字母, 数字, 益智, 单词

@@ -15,6 +15,6 @@ Pongoal 2 delivers a thrilling mix of brick-breaking action and soccer excitemen
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Soccer

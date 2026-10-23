@@ -19,6 +19,6 @@ Take the thrill to new heights in Bike Stunt Race, an immersive motorcycle racin
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Avoid, Bike, Boy, Casual, Motorcycle, Platform, Race
+- Tags: Arcade, Avoid, bike, Boy, Casual, Motorcycle, Platform, Race

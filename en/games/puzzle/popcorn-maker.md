@@ -19,6 +19,6 @@ Hey cuisine chef! kids fun is back with another exciting food factory game. Afte
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Bubble Shooter, Casual

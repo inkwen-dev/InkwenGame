@@ -19,6 +19,6 @@ Explore the candy quest game Sugar Rush Game story begins with a monster of the 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Casual, Fun, Physics, Strategy
+- Tags: 2D, Casual, Fun, Physics, strategy

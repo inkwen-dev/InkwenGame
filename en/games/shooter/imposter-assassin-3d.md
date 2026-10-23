@@ -21,4 +21,4 @@ Play the entertaining 3D action game Imposter Assassin 3D to transform into a tr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: attack, Fighting, Impostor, Shooter
+- Tags: attack, fighting, Impostor, Shooter

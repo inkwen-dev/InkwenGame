@@ -21,4 +21,4 @@ Gorilla Multiplayer Unleash your inner primate in Gorilla Multiplayer, an exhila
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Online, Word
+- Tags: Animal, Online, word

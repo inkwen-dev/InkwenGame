@@ -21,4 +21,4 @@ Pixel style action multiplayer fps game,You can fight with friends or other peop
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Craft, Crafting, Minecraft, Online, Pixel
+- Tags: Action, Adventure, Craft, Crafting, Minecraft, Online, pixel

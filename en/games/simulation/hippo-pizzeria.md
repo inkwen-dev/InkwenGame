@@ -21,4 +21,4 @@ Hippo Pizzeria is a very cute cooking game. Do you want to know how to make pizz
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cooking, Cute, Family, Food, Fun, Girls, HTML5, Kids, Mobile, Restaurant
+- Tags: Animal, Cooking, Cute, Family, Food, Fun, Girls, HTML5, Kids, Mobile, restaurant

@@ -19,6 +19,6 @@ Do you have the skills to keep something inside for long? Then Cherry Inhere bri
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Android, Arcade, Cake, Candy, Casual, Click, Hypercasual, Physics, Puzzle

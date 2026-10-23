@@ -19,6 +19,6 @@ In this fashion and beauty salon game for fashionista girls you dress up 12 prin
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Dress Up, Game, Girl, Girls, Princess, Puzzle

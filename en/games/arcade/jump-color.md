@@ -21,4 +21,4 @@ Click on your left mouse button or touch the screen and bounce the ball. Bounce 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Color, jump, Jumping
+- Tags: Avoid, Color, jump, jumping

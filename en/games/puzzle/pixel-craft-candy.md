@@ -21,4 +21,4 @@ Welcome to Pixel Craft game! Pixel Craft Candy is a simple match 3 game, tap scr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Candy, Fun, HTML5, Kids, Mobile, Pixel, Puzzle, Skill
+- Tags: Candy, Fun, HTML5, Kids, Mobile, pixel, Puzzle, Skill

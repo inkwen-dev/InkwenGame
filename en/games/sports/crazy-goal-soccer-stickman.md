@@ -19,6 +19,6 @@ Draw a line to kick the ball. The direction and route of the ball are completely
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Football, Girls, Soccer, Sport

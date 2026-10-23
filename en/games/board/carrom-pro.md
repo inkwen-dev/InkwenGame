@@ -19,6 +19,6 @@ Experience the ultimate digital adaptation of the classic Carrom board game! Car
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, Board, Multiplayer

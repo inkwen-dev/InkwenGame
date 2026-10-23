@@ -21,4 +21,4 @@ Alchemist Salazar is a wise old man who is trying to create a powerful new artif
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Candy, H5, HTML, HTML5, Hypercasual, Magic, Match-3, Match3, Mobile, Puzzle
+- Tags: Candy, H5, HTML, HTML5, Hypercasual, Magic, Match 3, Match3, Mobile, Puzzle

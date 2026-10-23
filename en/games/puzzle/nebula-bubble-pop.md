@@ -19,6 +19,6 @@ Nebula Bubble Pop is an immersive space-themed bubble shooter featuring 50 chall
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Bubble Shooter

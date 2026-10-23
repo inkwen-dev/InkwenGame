@@ -19,6 +19,6 @@ The game Water Race 3D is an amazing 3D water skating game. It adopts the standa
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Boys, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids

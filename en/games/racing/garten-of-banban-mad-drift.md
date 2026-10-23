@@ -19,6 +19,6 @@ BanBans are swarming the streets, but fear not! You may lack a weapon, but you p
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Car, drift, drifting, Hypercasual, Race

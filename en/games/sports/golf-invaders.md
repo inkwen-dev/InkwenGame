@@ -31,4 +31,4 @@ Welcome to Golf Invaders, the ultimate arcade golf shooter! Your golf course has
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, Golf, Mobile, Skill, Sports
+- Tags: Action, Arcade, golf, Mobile, Skill, sports

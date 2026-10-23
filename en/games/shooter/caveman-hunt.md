@@ -19,6 +19,6 @@ Jump as far as you can! The more meters you'll cross, the more coins you'll coll
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Launch, Shoot

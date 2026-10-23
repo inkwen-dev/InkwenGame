@@ -21,4 +21,4 @@ Experience the fun of color therapy with this unique puzzle. Try the newest Colo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2 Player Games, 3D, 3D Games, Android, Best, Best Games, Click, Crazy, Puzzle
+- Tags: .io Games, 1 Player, 2 Player Games, 3D, 3D Games, Android, Best, Best Games, Click, crazy, Puzzle

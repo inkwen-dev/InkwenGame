@@ -19,6 +19,6 @@ A quiz show is beginning in the Yes Or No Challenge game in single player and 2 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, Best, Brain, Puzzle, Quiz, WebGL, Word
+- Tags: 2 Player, 2 Player Games, 3D, Best, Brain, Puzzle, Quiz, WebGL, word

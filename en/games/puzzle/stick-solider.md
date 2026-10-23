@@ -19,6 +19,6 @@ Stick Solider game has a lot of success review and player this MONTH that signif
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Bubble Shooter, Collecting, Shoot, Shoot 'Em Up, Shooter, Shooting, Slot Machine, Solitaire
+- Tags: Adventure, Arcade, Bubble Shooter, Collecting, Shoot, Shoot 'Em Up, Shooter, Shooting, Slot Machine, solitaire

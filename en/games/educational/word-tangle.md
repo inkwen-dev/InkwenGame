@@ -19,6 +19,6 @@ Word Tangle is a fun and brain-teasing word puzzle game where you unscramble mix
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Hypercasual, Point And Click, Skills
+- Tags: educational, Hypercasual, Point And Click, Skills

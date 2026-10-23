@@ -19,6 +19,6 @@ Listen to the sound and try to guess it Spell your answer Difficult? A hint will
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Word
+- Tags: Action, Adventure, word

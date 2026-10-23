@@ -21,4 +21,4 @@ Drink Drive is a thrilling casual dodge-and-survive 2D pixel game where players 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Hypercasual, Physics, Pixel
+- Tags: 2D, Hypercasual, Physics, pixel

@@ -39,4 +39,4 @@ Cubby Soccer League is a thrilling online HTML5 game that lets you enjoy real so
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Soccer, Sports
+- Tags: Soccer, sports

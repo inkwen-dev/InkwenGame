@@ -19,6 +19,6 @@ Gem Dojo Match gems. Master skills. Become the ultimate puzzle ninja. Welcome to
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Jewel, Match 3

@@ -19,6 +19,6 @@ Taking a tuk-tuk on an off-road route can be beautiful and difficult, as you'll 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Bike, Parking, Racing, Unity3D
+- Tags: 1 Player, 3D Games, bike, parking, Racing, Unity3D

@@ -21,4 +21,4 @@ Ever played tic-tac-toe? If you have, then four square comes with a little more 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Multiplayer, Strategy
+- Tags: 2 Player, Multiplayer, strategy

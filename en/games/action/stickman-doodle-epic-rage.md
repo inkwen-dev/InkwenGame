@@ -21,4 +21,4 @@ Stickman Doodle Epic Rage is fun and addictive beatemup game with realistic phys
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Stickman, Street Fighting
+- Tags: stickman, Street Fighting

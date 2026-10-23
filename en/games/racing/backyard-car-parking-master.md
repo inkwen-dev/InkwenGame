@@ -21,4 +21,4 @@ Real Car Parking : Parking Master has realistic driving experience which will ta
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Bike, Car, Cars, drift, drifting, Parking, Race, Racing, Simulation, Simulator, Super, Superhero, Truck
+- Tags: Action, Adventure, bike, Car, Cars, drift, drifting, parking, Race, Racing, Simulation, Simulator, Super, Superhero, truck

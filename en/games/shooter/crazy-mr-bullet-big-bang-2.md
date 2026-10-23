@@ -21,4 +21,4 @@ A physics casual shooting game, the gameplay is interesting, the operation is si
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Crazy, Fun, H5, Physics, Puzzle
+- Tags: crazy, Fun, H5, Physics, Puzzle

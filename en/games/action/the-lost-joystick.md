@@ -21,4 +21,4 @@ They stole your joystick… but they don’t know who you are! You will do every
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Pixel, Platform
+- Tags: 1 Player, 2D, Action, Adventure, pixel, Platform

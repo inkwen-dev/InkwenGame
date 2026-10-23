@@ -19,6 +19,6 @@ Crazy Ball 3D is an excellent 3D ball game that will make you super happy and ad
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Boy, Boys, Bubble, Bubble Shooter, Collecting, Collection, Color, Coloring, Cool, Creation, Decoration, Educational, Fashion, Interactive Fiction, Simulation, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Boy, Boys, Bubble, Bubble Shooter, Collecting, Collection, Color, Coloring, cool, Creation, Decoration, educational, Fashion, Interactive Fiction, Simulation, Unity3D

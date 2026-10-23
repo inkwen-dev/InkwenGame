@@ -21,4 +21,4 @@ Welcome to Traffic Road Jam, the ultimate traffic jam puzzle game where your log
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Puzzle, Strategy, Traffic
+- Tags: Car, Puzzle, strategy, Traffic

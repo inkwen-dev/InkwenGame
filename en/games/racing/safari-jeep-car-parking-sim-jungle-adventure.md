@@ -19,6 +19,6 @@ Drive and enjoy Dangerous jeep hilly driver 2020with an offroad hummer on imposs
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Animal, Arcade, Casual, Family, HTML5, Kids, Race, Simulation, Simulator, WebGL

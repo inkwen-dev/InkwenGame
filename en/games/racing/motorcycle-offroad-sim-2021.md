@@ -19,6 +19,6 @@ Are you excited for 3d realistic bike-racing and bike riding! Motorcycle Offroad
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Best, Crazy, Driving, Games, Moto, Motorcycle, Unity3D, WebGL
+- Tags: 1 Player, 3D, 3D Games, Best, crazy, Driving, Games, Moto, Motorcycle, Unity3D, WebGL

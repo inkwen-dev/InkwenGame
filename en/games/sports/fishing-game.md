@@ -21,4 +21,4 @@ It’s a nice sunny day and our little friend, the Happy Penguin, decided to go 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Boat, Cool, Fish, Fishing, Fun, Holiday, Penguin, Shark, Sport, Sports
+- Tags: Adventure, Boat, cool, Fish, Fishing, Fun, Holiday, Penguin, Shark, Sport, sports

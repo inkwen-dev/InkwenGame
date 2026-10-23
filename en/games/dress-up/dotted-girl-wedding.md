@@ -19,6 +19,6 @@ Louis has long and hopelessly in love with Marie. What if we were in a parallel 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Celebrity, Cute, Dress Up, Fashion, Girl, Girls, Hair, HTML5, Ladybug, Love, Princess, Red

@@ -21,4 +21,4 @@ Explore space by piloting a ship, collecting minerals, and avoiding traps. Rise 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, amazing, Arcade, fly, Relaxation, ship, Strategy, Top Down, trap
+- Tags: 1 Player, 2D, Action, amazing, Arcade, fly, Relaxation, ship, strategy, Top Down, trap

@@ -19,6 +19,6 @@ Triple Death Jump is a single-touch jumping reaction game, has everything you ne
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Hypercasual, jump, Jumping, Race, Racing
+- Tags: Hypercasual, jump, jumping, Race, Racing

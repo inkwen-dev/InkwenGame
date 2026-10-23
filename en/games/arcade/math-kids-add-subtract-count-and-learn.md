@@ -19,6 +19,6 @@ Math Kids is a free learning game designed to teach young children numbers and m
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Best, Collecting, Game, Kid, Kids, Math, Quiz
+- Tags: Baby, Best, Collecting, Game, Kid, Kids, math, Quiz

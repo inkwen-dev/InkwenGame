@@ -21,4 +21,4 @@ MiniMissions is a collection of 80 difficult skill games. Each time you complete
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Arcade, Click, HTML5, Sports
+- Tags: 1 Player, 2D, Action, Arcade, Click, HTML5, sports

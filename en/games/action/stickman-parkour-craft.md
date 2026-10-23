@@ -19,6 +19,6 @@ Stickman will have to go through parkour skyblock, and overcome all obstacles on
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Craft, Minecraft, Platform, Stickman
+- Tags: 1 Player, 2D, Adventure, Craft, Minecraft, Platform, stickman

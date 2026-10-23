@@ -21,4 +21,4 @@ Tunnel Escape is an exciting action-adventure game where you battle monsters in 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arena, Battle, Fight
+- Tags: Action, Arena, battle, Fight

@@ -21,4 +21,4 @@ The time of terror has arrived with this incredible horror, shooting, survival g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, kiz10, Monster, Shooter, survival
+- Tags: Escape, kiz10, monster, Shooter, survival

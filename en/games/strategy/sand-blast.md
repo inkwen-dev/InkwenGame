@@ -19,6 +19,6 @@ Ready to blast some blocks? Welcome to Sand Blast, a super addictive puzzle game
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Classic, Strategy
+- Tags: block, Classic, strategy

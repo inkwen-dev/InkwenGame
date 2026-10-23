@@ -21,4 +21,4 @@ Rediscover one of the greatest games of your childhood with « The Battle » and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Card, Classic, Game
+- Tags: battle, card, Classic, Game

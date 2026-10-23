@@ -21,4 +21,4 @@ There are many injured animals in the forest, as a volunteer, come to help the l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cute, Food, Fun, Girls, HTML5, Kids, Mobile, Panda, Rescue, Surgery
+- Tags: Animal, Baby, Cute, Food, Fun, Girls, HTML5, Kids, Mobile, Panda, Rescue, surgery

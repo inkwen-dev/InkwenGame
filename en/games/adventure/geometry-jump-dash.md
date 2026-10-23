@@ -19,6 +19,6 @@ Jump, dash, and fly through a pulse-pounding obstacle course where one wrong mov
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Dancing, dash, Geometry, jump, Jumping, Rhythm
+- Tags: Action, Adventure, Dancing, dash, Geometry, jump, jumping, Rhythm

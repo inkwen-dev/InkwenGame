@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 马里奥, 拼图, 射击, 射击, 超级
+- 标签: 动作, mario, 益智, 射击, 射击类, 超级

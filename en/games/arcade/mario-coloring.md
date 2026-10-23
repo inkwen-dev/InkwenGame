@@ -19,6 +19,6 @@ If you have repeatedly been visited by thoughts that it's time to update Mario's
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Coloring, Fun, HTML5, Kids, Mobile

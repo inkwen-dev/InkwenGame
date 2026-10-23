@@ -21,4 +21,4 @@ Princess Barbie and her cute friend pony are walking around the garden. Do you w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Barbie, Decoration, Dress Up, Fashion, Game, Girl, Girls, Horse, HTML5, Pony
+- Tags: Animal, Barbie, Decoration, Dress Up, Fashion, Game, Girl, Girls, horse, HTML5, Pony

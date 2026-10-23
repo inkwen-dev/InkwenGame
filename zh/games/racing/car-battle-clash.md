@@ -21,4 +21,4 @@ PC 移动 滑动 摇杆 移动设备 移动 滑动 摇杆
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 对战, 汽车, 枪械, 射击游戏, Unity3D
+- 标签: 街机, 战斗, 汽车, 枪械, 射击类, Unity3D

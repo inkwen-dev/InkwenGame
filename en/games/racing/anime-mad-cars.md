@@ -19,6 +19,6 @@ Fill the road with your hoard of cars and complete the fun levels. You'll be dod
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Best, Car, Cars, Cartoon, Cartoon Network, Hot, New, Race, Racing, Sport, Sports, Supercars
+- Tags: Action, Adventure, Arcade, Best, Car, Cars, Cartoon, Cartoon Network, Hot, New, Race, Racing, Sport, sports, Supercars

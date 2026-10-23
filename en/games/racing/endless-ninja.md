@@ -21,4 +21,4 @@ Endless Ninja is fun addictive running game .In this game you have to collect th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collecting, Collection, Ninja, Obstacle, Racing, run, running
+- Tags: Collecting, Collection, ninja, Obstacle, Racing, run, running

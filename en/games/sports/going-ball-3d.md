@@ -19,6 +19,6 @@ Crazy Ball 3D is an excellent 3D ball game that will make you super happy and ad
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D, 3D Games, Arcade, Ball, Basketball, Best, Crazy, Game, Games, Online, Simulation, Simulator, Unity3D
+- Tags: .io Games, 1 Player, 3D, 3D Games, Arcade, Ball, basketball, Best, crazy, Game, Games, Online, Simulation, Simulator, Unity3D

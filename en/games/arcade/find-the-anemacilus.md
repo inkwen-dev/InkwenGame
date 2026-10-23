@@ -19,6 +19,6 @@ Its time to go on a journey. A whole new world awaits you, with treasures hidden
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Anime, Arcade, Clicker, Fantasy, Girl, Girls, Hidden, HTML5, Memory, Princess
+- Tags: Adventure, Anime, Arcade, Clicker, Fantasy, Girl, Girls, Hidden, HTML5, memory, Princess

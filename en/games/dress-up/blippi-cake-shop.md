@@ -19,6 +19,6 @@ Exciting news for all Blippi Pastry game lovers and aspiring chefs - with Cake S
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Cook, Cooking, Family, Fashion, Girl, Girls

@@ -21,4 +21,4 @@ Kim Jong Un LOL Face puts the power of comedy in your hands! Take a serious port
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, Draw, Drawing, paint
+- Tags: .io Games, 1 Player, Draw, drawing, paint

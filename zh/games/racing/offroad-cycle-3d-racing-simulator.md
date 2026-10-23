@@ -21,4 +21,4 @@ WASD - 驱动 空格键 - 刹车 C - 摄像机
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 男孩们, HTML5, 体育, WebGL
+- 标签: 3D, 男孩们, HTML5, 运动, WebGL

@@ -19,6 +19,6 @@ Welcome to Virus Hit. We have all suffered for the past 2 years on quarentine be
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Click, Clicker, Puzzle

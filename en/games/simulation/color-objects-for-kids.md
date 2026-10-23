@@ -21,4 +21,4 @@ Coloring Objects For Kids is a painting, drawing and coloring tool for kids! Pic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Color, Coloring, Draw, Drawing, Educational, Family, HTML, HTML5, Kids, School, Simulator
+- Tags: 2D, Color, Coloring, Draw, drawing, educational, Family, HTML, HTML5, Kids, School, Simulator

@@ -19,6 +19,6 @@ Bob the Thief 3 is an action-packed puzzle game in which you play as a young thi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adult, Adventure, Arcade, Best, Boy, Boys, Casual, Hot, HTML, HTML5, Kid, Kids

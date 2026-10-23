@@ -15,6 +15,6 @@ Lead a band of tank-riding fluffy soldiers in Metal Animals! Strategize by swapp
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Tanks
+- Tags: tanks

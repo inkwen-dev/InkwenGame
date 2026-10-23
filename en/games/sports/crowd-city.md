@@ -21,4 +21,4 @@ Population is a very important element of the city. Every crowd want people. The
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D, 3D Games, Arcade, Avoid, Boy, Boys, city, Highscore, HTML, HTML5, Kid, Kids, Multiplayer, run, running, Skills, Sport, Sports
+- Tags: .io Games, 1 Player, 3D, 3D Games, Arcade, Avoid, Boy, Boys, city, Highscore, HTML, HTML5, Kid, Kids, Multiplayer, run, running, Skills, Sport, sports

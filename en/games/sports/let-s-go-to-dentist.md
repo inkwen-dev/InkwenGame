@@ -19,6 +19,6 @@ Fear of the dentist, be gone! The crazy dentist salon is here to help you learn 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Doctor, Simulation, Simulator

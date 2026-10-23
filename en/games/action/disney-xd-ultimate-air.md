@@ -21,4 +21,4 @@ It's possible now to play the Disney XD: Ultimate Air game in your web browser f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Anime, Avoid, Battle, Bike, Boys, Brain, Cartoon, Disney, Family, Fun, Girls, HTML5, Platform, Super, Supercars, Superhero
+- Tags: 1 Player, Action, Adventure, Anime, Avoid, battle, bike, Boys, Brain, Cartoon, Disney, Family, Fun, Girls, HTML5, Platform, Super, Supercars, Superhero

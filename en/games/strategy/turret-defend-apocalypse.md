@@ -19,6 +19,6 @@ Turret Defend Apocalypse is a fast-paced defense game set in a world overrun by 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Shoot 'Em Up, Tower Defense, Zombie

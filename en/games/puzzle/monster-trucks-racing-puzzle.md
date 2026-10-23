@@ -21,4 +21,4 @@ Monster Trucks Racing Puzzle game is free online game and you have 6 images of m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Jigsaw, Kids, Mobile, Monster, Puzzle, Racing, Truck
+- Tags: HTML5, Jigsaw, Kids, Mobile, monster, Puzzle, Racing, truck

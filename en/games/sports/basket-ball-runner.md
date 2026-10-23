@@ -21,4 +21,4 @@ Basketball Runner- new Funny sport game with simple principle, your mission to r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Basketball, Sport
+- Tags: 1 Player, 3D, 3D Games, Action, basketball, Sport

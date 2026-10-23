@@ -21,4 +21,4 @@ Cricket Dash! 这是一款具有简单机制的超休闲游戏，能让你玩得
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io游戏, 1人游戏, 2D, 街机, 球类, 休闲, HTML5, 轻度休闲, 移动
+- 标签: .io, .io 游戏, 单人, 2D, 街机, 球, 休闲, HTML5, 超休闲, 移动设备

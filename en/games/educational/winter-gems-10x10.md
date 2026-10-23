@@ -19,6 +19,6 @@ Tap or click
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Brain, Educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids, Puzzle
+- Tags: Boy, Boys, Brain, educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids, Puzzle

@@ -19,6 +19,6 @@ Enjoy Your Creative And Relaxing Time! Bead Art is an addictive bead coloring ga
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Color, Coloring, Cute, Decorate, Design, Educational, Fashion, Girl, Girls, Kids, Puzzle, Simulation
+- Tags: Baby, Color, Coloring, Cute, Decorate, Design, educational, Fashion, Girl, Girls, Kids, Puzzle, Simulation

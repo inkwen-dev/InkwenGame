@@ -21,4 +21,4 @@ Is this a "rescue cut" game? Or a "pin" game? As you can see, this is a free puz
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mario, Puzzle, Rescue, Super
+- Tags: mario, Puzzle, Rescue, Super

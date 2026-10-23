@@ -19,6 +19,6 @@ Fireheart is a 2022 computer-animated adventure comedy film directed by Theodore
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Match3, Matching, Puzzle

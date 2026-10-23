@@ -19,6 +19,6 @@ Mahjong Connect Classic is a traditional tile-matching puzzle game. Simply conne
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Classic, Game, Games, HTML, HTML5, Mahjong, Online, Puzzle
+- Tags: 1 Player, Classic, Game, Games, HTML, HTML5, mahjong, Online, Puzzle

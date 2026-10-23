@@ -21,4 +21,4 @@ Army vehicle transporting refers to the specialized logistics and operations inv
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Army, Driving, HTML5, iPad, iPhone, Mentolatux, Mobile, Simulator, transport, Truck, vehicle
+- Tags: Android, Army, Driving, HTML5, iPad, iPhone, Mentolatux, Mobile, Simulator, transport, truck, vehicle

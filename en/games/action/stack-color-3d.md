@@ -19,6 +19,6 @@ In the "Stacking Color 3D" game, transport as many bricks as possible. Each leve
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Collecting, Fun, Hypercasual, Platform, Puzzle, Skills, Stack, Stickman
+- Tags: Avoid, Collecting, Fun, Hypercasual, Platform, Puzzle, Skills, Stack, stickman

@@ -27,4 +27,4 @@ Test your aim and precision in Precise Shooting, a satisfying basketball shootin
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Basketball, Physics, Skill
+- Tags: basketball, Physics, Skill

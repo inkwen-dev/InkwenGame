@@ -19,6 +19,6 @@ Here is a tricycle racing arcade game with 3D environments and models. You are a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Boy, Car, Collecting, drift, Kid, Mobile, Obstacle, Racing, Simulation

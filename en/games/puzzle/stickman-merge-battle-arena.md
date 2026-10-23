@@ -19,6 +19,6 @@ An exciting strategic merge game where you have to demonstrate your advantage ov
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Arena, Army, Battle, Bow, Clash, Enemy, Fight, Hypercasual, Management, Stickman, Strategy
+- Tags: 1 Player, 3D, Action, Arena, Army, battle, Bow, Clash, Enemy, Fight, Hypercasual, management, stickman, strategy

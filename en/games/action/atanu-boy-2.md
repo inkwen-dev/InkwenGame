@@ -21,4 +21,4 @@ Atanu Boy 2 is a 2D platformer where you have to collect money while avoiding th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Boy, Collecting, Cute, jump, Jumping, Pixel, Platform, Retro, Science
+- Tags: 1 Player, 2D, Adventure, Arcade, Boy, Collecting, Cute, jump, jumping, pixel, Platform, retro, Science

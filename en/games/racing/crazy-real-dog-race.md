@@ -19,6 +19,6 @@ Crazy Real Dog Race is a dog racing game where you need to participate in the ra
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Animal, Unity3D, WebGL

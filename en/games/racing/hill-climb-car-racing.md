@@ -21,4 +21,4 @@ Meet Newton Bill, the young aspiring uphill racer. He is about to embark on a jo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Car, Cars, Race, Racing, Sports
+- Tags: Adventure, Arcade, Car, Cars, Race, Racing, sports

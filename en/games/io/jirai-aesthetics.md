@@ -19,6 +19,6 @@ Jiraikei is a japanese style of clothing, that most modern japanese women prefer
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player

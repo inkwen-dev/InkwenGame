@@ -19,6 +19,6 @@ Join the Subway Surfers crew in this thrilling puzzle game based on the popular 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Games, HTML5, Puzzle, subway, Subway Surfers

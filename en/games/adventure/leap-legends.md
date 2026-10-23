@@ -19,6 +19,6 @@ Embark on a thrilling jungle adventure with Leap Legends! In this action-packed 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Hypercasual, jump, Jumping, Monkey, NapTech Games
+- Tags: Adventure, Hypercasual, jump, jumping, Monkey, NapTech Games

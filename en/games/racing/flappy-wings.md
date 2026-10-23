@@ -21,4 +21,4 @@ Flappy wings - You know what to do... Your mission is very simple: Tap the bird 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bird, Boys, Flight, fly, Racing
+- Tags: Bird, Boys, flight, fly, Racing

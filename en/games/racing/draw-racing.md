@@ -21,4 +21,4 @@ Complete each level by painting all the paths. Start drawing from the car to mak
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Draw, Drawing, Race, Racing
+- Tags: Avoid, Draw, drawing, Race, Racing

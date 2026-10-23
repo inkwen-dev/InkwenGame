@@ -19,6 +19,6 @@ Super Game Coloring is a super fun game for kids of all ages. Encourage creativi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Animal, Anime, Arcade, Baby, Boy, Boys, Cartoon, Casual, Click, Color, Coloring, Decorate, Design, Girl, Girls, HTML5

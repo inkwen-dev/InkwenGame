@@ -19,6 +19,6 @@ FumeBurst is a loved-by-children game where a gas filled ball moves around and h
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Casual, Click, Fire

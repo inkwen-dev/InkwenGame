@@ -19,6 +19,6 @@ Tap to scatter the shapes. Search the displayed shape type and drag it over to s
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, Collecting, Hidden, Puzzle

@@ -19,6 +19,6 @@ Welcome to Help the couple. Help the couple is a slide puzzle game. And it conta
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Casual, Girl, Girls, Love, Puzzle

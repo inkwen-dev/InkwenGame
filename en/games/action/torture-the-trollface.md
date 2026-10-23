@@ -21,4 +21,4 @@ Got some time to kick the trollface? You can torture this dummy in this awesome 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Cartoon, Crazy, kiz10
+- Tags: Action, Cartoon, crazy, kiz10

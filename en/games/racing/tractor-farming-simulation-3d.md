@@ -19,6 +19,6 @@ Experience the most realistic Indian vehicles game ever in Tractor Farming Simul
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 3D Games, Best Games, Driving, Farm, Kids, realistic, Simulator, tractor, vehicle

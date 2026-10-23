@@ -21,4 +21,4 @@ Ninja Jump Force is a game with many levels, great graphics and a fun gameplay. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ninja, Puzzle
+- Tags: ninja, Puzzle

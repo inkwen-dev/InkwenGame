@@ -15,6 +15,6 @@ In Ball Throw Fight, unleash fireball fury in a magical arcade adventure. Defend
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Casual

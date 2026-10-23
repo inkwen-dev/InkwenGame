@@ -21,4 +21,4 @@ Enter the world of fearless Norse warriors in Viking Guard, an action-packed def
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, amazing, Casual, Fighting, Fun, Skill
+- Tags: 2026 games, Adventure, amazing, Casual, fighting, Fun, Skill

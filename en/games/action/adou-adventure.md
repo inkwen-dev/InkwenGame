@@ -21,4 +21,4 @@ Adou Adventure is a 2D Platformer where you have to collect the jewels while avo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Animal, Arcade, Cartoon, Collecting, Cute, jump, Jumping, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Animal, Arcade, Cartoon, Collecting, Cute, jump, jumping, pixel, Platform, retro

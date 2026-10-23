@@ -19,6 +19,6 @@ Get ready to DEFEND THE WORLD! Fieldrunners TD has arrived! Build epic mazes out
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Strategy, Tower Defense
+- Tags: strategy, Tower Defense

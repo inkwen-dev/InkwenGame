@@ -19,6 +19,6 @@ In this tall man run game, Run on the track and pass through the different gates
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 3D Games, Action, Adventure, Best Games, endless, jump, Obstacle, run, running

@@ -21,4 +21,4 @@ Space, rockets, astronauts, asteroids, traitors and spies! Does it remind you of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Card, HTML5, Memory
+- Tags: Arcade, card, HTML5, memory

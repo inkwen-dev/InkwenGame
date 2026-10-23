@@ -21,4 +21,4 @@ Here is a car parking simulation game under a 3D game engine. You are able to dr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Car, Driving, HTML5, Mobile, Obstacle, Parking, Simulation
+- Tags: 3D, Avoid, Car, Driving, HTML5, Mobile, Obstacle, parking, Simulation

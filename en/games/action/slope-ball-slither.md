@@ -21,4 +21,4 @@ Slope Ball Slither is a ball rolling game where you have to collect gift packs a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Collection, Hypercasual, Mobile, Platform, Slither, Snake
+- Tags: 3D, Avoid, Collection, Hypercasual, Mobile, Platform, Slither, snake

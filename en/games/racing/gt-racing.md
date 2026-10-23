@@ -19,6 +19,6 @@ Immerse yourself in the heart-racing excitement of GT Racing, a game that captur
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Car, car tuning, Cars, drift, drifting, Driving, mapi games, Race, Racing, Sport, Sports
+- Tags: Arcade, Car, car tuning, Cars, drift, drifting, Driving, mapi games, Race, Racing, Sport, sports

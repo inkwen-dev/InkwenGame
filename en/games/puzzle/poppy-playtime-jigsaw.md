@@ -21,4 +21,4 @@ Poppy Playtime Jigsaw is a fun online puzzle game. Drag the pieces into right po
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Fun, Funny, Jigsaw, Kids, Mobile, Monster, Skill
+- Tags: Best, Fun, Funny, Jigsaw, Kids, Mobile, monster, Skill

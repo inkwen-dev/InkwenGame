@@ -19,6 +19,6 @@ Nexus 3D is a relaxing, glowing puzzle game where your goal is to connect all th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Logical, Pipe, Puzzle

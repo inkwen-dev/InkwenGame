@@ -21,4 +21,4 @@ PC版本使用WASD键进行驾驶，C键切换摄像机；移动用户使用屏�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 军队, 驾驶, HTML5, iPad, iPhone, Mentolatux, 移动设备, 模拟器, 运输, 卡车, 车辆
+- 标签: 安卓, 军队, 驾驶, HTML5, iPad, iPhone, Mentolatux, 移动设备, 模拟器, 运输, 卡车, 车辆

@@ -24,4 +24,4 @@ Dive into the quirky realm of Break Stick Completely, where you unleash mayhem w
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, crazy-games, Funny, Mobile, popular, ragdoll, Stickman
+- Tags: Arcade, crazy-games, Funny, Mobile, popular, ragdoll, stickman

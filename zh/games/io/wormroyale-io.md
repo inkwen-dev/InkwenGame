@@ -21,4 +21,4 @@ WormRoyale.io 一款以蠕虫为主题的大逃杀游戏！
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 战斗, 多人, 滑行, 虫, 蠕虫
+- 标签: .io, .io 游戏, 战斗, 多人, 滑行, 蠕虫, 蠕虫

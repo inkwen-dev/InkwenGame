@@ -15,6 +15,6 @@ Embrace the winter chaos as Santa and the Grinch face off in a frantic gift-grab
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: two-player

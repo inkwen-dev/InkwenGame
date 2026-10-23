@@ -21,4 +21,4 @@ Glow Hockey delivers a new style of hockey game. Easy to play, hard to master. C
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, hockey, Mobile, Sports
+- Tags: 1 Player, hockey, Mobile, sports

@@ -21,4 +21,4 @@ Minecraft Parkour Block is a fun and exciting game of dexterity that will put yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Block, Jumping, Minecraft
+- Tags: 1 Player, 2D, block, jumping, Minecraft

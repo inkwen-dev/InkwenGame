@@ -21,4 +21,4 @@ In this clever puzzle adventure, you guide a boy through tricky levels filled wi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Boy, dash, free html5 games for your website, jet, Jumping, Logic, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Boy, dash, free html5 games for your website, jet, jumping, Logic, pixel, Platform, retro

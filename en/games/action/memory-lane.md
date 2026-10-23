@@ -19,6 +19,6 @@ Your goal in each level is to reach the Goal Platform without falling or touchin
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Jumping, Memory, Pixel, Platform, Puzzle, Retro
+- Tags: 1 Player, 2D, Arcade, jumping, memory, pixel, Platform, Puzzle, retro

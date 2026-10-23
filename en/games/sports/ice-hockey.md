@@ -21,4 +21,4 @@ Experience the thrill of the rink in Ice Hockey, an exciting arcade-style sports
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2D, Snow, Sports
+- Tags: 2 Player, 2D, Snow, sports

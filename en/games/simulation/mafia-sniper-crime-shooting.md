@@ -21,4 +21,4 @@ Ready to become the coldest, deadliest sniper in the entire city? Mafia Sniper C
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Gun, Shoot, Simulator, Sniper
+- Tags: Gun, Shoot, Simulator, sniper

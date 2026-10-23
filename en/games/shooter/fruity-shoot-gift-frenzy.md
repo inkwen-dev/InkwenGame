@@ -19,6 +19,6 @@ Get ready for a juicy blast in Fruity Shoot! Test your precision and reflexes in
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 2D, Arcade, Best Games, free html5 games for your website, Shooting, watermelon

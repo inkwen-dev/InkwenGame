@@ -21,4 +21,4 @@ Tung Tung Super Sahur is a Platform &ndash; Adventure game where you will help t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Platform, Retro, Tung, Tung Tung Tung, Tung Tung Tung Sahur
+- Tags: Action, Adventure, Arcade, Platform, retro, Tung, Tung Tung Tung, Tung Tung Tung Sahur

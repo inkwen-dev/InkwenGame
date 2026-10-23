@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 航空, 飞机, Android, 街机, 经典
+- 标签: 2D, 空气, 飞机, 安卓, 街机, 经典

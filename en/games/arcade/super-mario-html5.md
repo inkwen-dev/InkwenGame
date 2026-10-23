@@ -21,4 +21,4 @@ Play Super Mario Html5, remastered after flash version. Play up to 9 levels, the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Mario, Super
+- Tags: HTML5, mario, Super

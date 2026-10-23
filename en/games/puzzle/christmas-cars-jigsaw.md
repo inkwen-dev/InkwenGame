@@ -19,6 +19,6 @@ This is jigsaw game with Christmas Cartoon cars. The game have 12 images with di
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cars, Cartoon, Christmas, Jigsaw, Kids, Puzzle

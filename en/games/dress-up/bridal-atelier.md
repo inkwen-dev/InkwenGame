@@ -19,6 +19,6 @@ Bridal atelier is the most glamorous and realistic dress up game of the moment. 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Disney, Dress Up, Girl, Girls, Hair, HTML5, Makeover, Matching, Mobile, Princess, Puzzle

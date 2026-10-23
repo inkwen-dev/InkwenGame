@@ -21,4 +21,4 @@ Welcome to the super fun Color Skibidi Toilet game, a magical world where your i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boys, Coloring, Fun, Funny, HTML5, Hypercasual, Kids, Online, School, Skibidi Toilet
+- Tags: Arcade, Boys, Coloring, Fun, Funny, HTML5, Hypercasual, Kids, Online, School, skibidi-toilet

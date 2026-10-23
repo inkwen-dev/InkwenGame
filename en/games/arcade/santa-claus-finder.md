@@ -19,6 +19,6 @@ Santa Claus Finder is the best santa Claus game for kids that you can play onlin
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Christmas, Fun, HTML5, Hypercasual, Kids, Mobile, Skill, Winter

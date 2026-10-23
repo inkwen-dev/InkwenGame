@@ -21,4 +21,4 @@ Management in the game Bloomji Ball on the computer is carried out using the mou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Basketball, Boys, Car, Cars, Physics, Platform, Skill, Skills, Sport, Sports
+- Tags: Ball, basketball, Boys, Car, Cars, Physics, Platform, Skill, Skills, Sport, sports

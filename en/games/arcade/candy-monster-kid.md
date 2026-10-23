@@ -19,6 +19,6 @@ Candy Monster Kid - Monsters want candy. Your task is to make sure that there ar
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Candy, Casual, Hypercasual, Kid, Kids, Monster, Puzzle
+- Tags: Arcade, Candy, Casual, Hypercasual, Kid, Kids, monster, Puzzle

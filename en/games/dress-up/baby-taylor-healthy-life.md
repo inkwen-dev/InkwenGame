@@ -21,4 +21,4 @@ This game will show some good habits for healthy life. Today Baby Taylor is goin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cleaning, Cute, Dress Up, Educational, Girl, Girls, Kids, Nail, Nails, Simulation
+- Tags: Baby, Cleaning, Cute, Dress Up, educational, Girl, Girls, Kids, Nail, Nails, Simulation

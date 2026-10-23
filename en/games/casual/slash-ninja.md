@@ -21,4 +21,4 @@ Slash Ninja is a fun and addictive game to play on. We all know about the reflex
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Casual, endless, HTML, HTML5, Kids, Mobile, Ninja, Ninjago, Samurai, Sword, weapons
+- Tags: Boys, Casual, endless, HTML, HTML5, Kids, Mobile, ninja, Ninjago, Samurai, sword, weapons

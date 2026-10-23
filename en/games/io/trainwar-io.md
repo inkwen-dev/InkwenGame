@@ -15,6 +15,6 @@ Embark on a vibrant train adventure in TrainWar.io, where strategy meets arcade 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Snake
+- Tags: snake

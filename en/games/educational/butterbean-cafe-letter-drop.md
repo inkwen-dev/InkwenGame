@@ -19,6 +19,6 @@ Play Butterbean Cafe: Letter Drop game in your web browser for free at Superkidg
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, Boys, Educational, Fairy, Fun, Girls, Highscore, HTML5, Kid, Letters, Mobile, Puzzle, Word
+- Tags: Baby, Baby Hazel, Boys, educational, Fairy, Fun, Girls, Highscore, HTML5, Kid, Letters, Mobile, Puzzle, word

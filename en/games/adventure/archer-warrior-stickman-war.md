@@ -21,4 +21,4 @@ In this interesting 3D fighting game Archer Warrior, what players need to do is 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Boy, Boys, Fun, H5, Horse, HTML5, Kid, Kids, War
+- Tags: 3D, 3D Games, Action, Adventure, Boy, Boys, Fun, H5, horse, HTML5, Kid, Kids, War

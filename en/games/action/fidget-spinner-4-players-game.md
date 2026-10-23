@@ -21,4 +21,4 @@ Are you the best Spinner player in the world? You must battle against 4 opponent
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Girls, Multiplayer, Online
+- Tags: battle, Girls, Multiplayer, Online

@@ -21,4 +21,4 @@ Solitaire Crime Stories is an exciting new Solitaire game which will carry you a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Detective, Solitaire
+- Tags: 1 Player, Detective, solitaire

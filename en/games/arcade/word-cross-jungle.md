@@ -21,4 +21,4 @@ Want to become a trivia master? Solve crosswords and explore beautiful sceneries
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Hypercasual, Puzzle, Word
+- Tags: Arcade, Hypercasual, Puzzle, word

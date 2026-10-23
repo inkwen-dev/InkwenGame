@@ -21,4 +21,4 @@ Dump Trucks Match 3 is a matching game with dump trucks. Move trucks to be 3 or 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Match 3, Matching, Puzzle, Truck
+- Tags: Match 3, Matching, Puzzle, truck

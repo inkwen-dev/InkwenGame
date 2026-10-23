@@ -26,4 +26,4 @@ Gameplay:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Management, Simulation
+- Tags: management, Simulation

@@ -19,6 +19,6 @@ Make a live contact to this new challenge of car stunts games by showing your pe
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Crazy, drift, Driving, Race, Stunts
+- Tags: Car, crazy, drift, Driving, Race, Stunts

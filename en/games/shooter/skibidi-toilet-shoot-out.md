@@ -21,4 +21,4 @@ Skibidi Toilet Shoot Out is super fun shooting game that you can play online for
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Avoid, Boys, Hypercasual, Shoot, Shooting, Skibidi Toilet, Skill
+- Tags: Android, Arcade, Avoid, Boys, Hypercasual, Shoot, Shooting, skibidi-toilet, Skill

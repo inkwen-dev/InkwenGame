@@ -21,4 +21,4 @@ Crazy Ball 3D is an excellent 3D ball game that will make you super happy and ad
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, 3D Games, Action, Adventure, Arcade, Ball, Baseball, Game, Games, Mobile, Sim, Simulation, Simulator, Stunts, Unity3D
+- Tags: .io Games, 3D, 3D Games, Action, Adventure, Arcade, Ball, baseball, Game, Games, Mobile, Sim, Simulation, Simulator, Stunts, Unity3D

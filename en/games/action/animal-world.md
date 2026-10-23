@@ -21,4 +21,4 @@ An open-world sandbox where you can catch and tame Brainrots, Palmons, and cute 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, build, builder, building, hunter, Hunting, Monster, survival, Sword, World
+- Tags: battle, build, builder, building, hunter, hunting, monster, survival, sword, World

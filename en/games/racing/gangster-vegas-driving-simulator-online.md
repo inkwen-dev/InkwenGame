@@ -21,4 +21,4 @@ Fierce Gangster-Mafia City Automobile Driving Crime Shooting Thief Break-in Rogu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Best, Car, Cars, Crazy, Driving, Super, Supercars, Unity3D, WebGL
+- Tags: 3D, 3D Games, Best, Car, Cars, crazy, Driving, Super, Supercars, Unity3D, WebGL

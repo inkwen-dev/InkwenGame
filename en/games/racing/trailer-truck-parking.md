@@ -21,4 +21,4 @@ Do you enjoy playing parking games, friends? You can play a fun truck parking ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Parking, Truck
+- Tags: Driving, parking, truck

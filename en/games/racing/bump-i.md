@@ -21,4 +21,4 @@ There are 16 cars are involved in competition.you must avoid collisions with mon
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Battle, Car, HTML5, Multiplayer
+- Tags: .io, battle, Car, HTML5, Multiplayer

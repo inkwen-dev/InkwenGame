@@ -19,6 +19,6 @@ Rope Wrapper is a free physics online game based on the rope for boys. It will h
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Avoid, Ball, Boy, Brain, Drawing, Fun, HTML5, Kids, Obstacle, Online, Physics, Puzzle
+- Tags: 3D, Android, Avoid, Ball, Boy, Brain, drawing, Fun, HTML5, Kids, Obstacle, Online, Physics, Puzzle

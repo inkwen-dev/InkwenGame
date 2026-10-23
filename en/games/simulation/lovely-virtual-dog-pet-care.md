@@ -19,6 +19,6 @@ Let us introduce you Duddu, our new dog! He is a super nice dog who lives in a w
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: 2D, Animal, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

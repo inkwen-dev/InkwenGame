@@ -21,4 +21,4 @@ Drag your character to move around. Your weapons will automatically shoot. Evade
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, endless, Monster, Ninja
+- Tags: 1 Player, 2D, Action, Adventure, endless, monster, ninja

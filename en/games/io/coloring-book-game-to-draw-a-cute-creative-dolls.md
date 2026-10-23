@@ -19,6 +19,6 @@ Coloring Book Game To Draw a Cute Creative Dolls - how to draw cute girls - How 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Anime, Baby, Baby Hazel, Boys, Color, Coloring, Cute, Draw, Drawing, Games, Girls, Kids, Princess, Superhero
+- Tags: .io Games, Anime, Baby, Baby Hazel, Boys, Color, Coloring, Cute, Draw, drawing, Games, Girls, Kids, Princess, Superhero

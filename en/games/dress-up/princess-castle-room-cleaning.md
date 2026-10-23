@@ -21,4 +21,4 @@ The princess castle room is about to get a major overhauling in this fun cleanin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cleaning, Cute, Decorate, Design, Dress Up, Educational, Girl, Girls, Kids, Makeover, Princess
+- Tags: Baby, Cleaning, Cute, Decorate, Design, Dress Up, educational, Girl, Girls, Kids, Makeover, Princess

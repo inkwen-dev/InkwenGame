@@ -21,4 +21,4 @@ Drifting It is a multiplayer interactive water racing game. In the game, you can
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Boat, HTML, HTML5, Multiplayer, Race, Racing, Relaxation, Sports
+- Tags: .io, .io Games, 3D, 3D Games, Boat, HTML, HTML5, Multiplayer, Race, Racing, Relaxation, sports

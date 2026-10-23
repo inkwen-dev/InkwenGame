@@ -21,4 +21,4 @@ THIS IS THE ULTIMATE Modern Air Combat GAME! Dominate the skies and master the w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Air, Battle, Battlegrounds, Race, Road, Space
+- Tags: Action, Adventure, Air, battle, Battlegrounds, Race, Road, Space

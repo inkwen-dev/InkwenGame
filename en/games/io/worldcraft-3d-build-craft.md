@@ -21,4 +21,4 @@ If you are a craft master. World Craft winter exploration ready for you. Show yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D Games, Craft, Crafting, Minecraft, Pixel, Unity3D
+- Tags: .io, .io Games, 3D Games, Craft, Crafting, Minecraft, pixel, Unity3D

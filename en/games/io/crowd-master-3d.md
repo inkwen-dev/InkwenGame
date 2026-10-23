@@ -21,4 +21,4 @@ Crowd Master 3d new Satisfying game with Ultimate fun , just swipe to Push all C
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, 3D Games, Action, Adventure, Battle, Defense, Game, Games, Punch
+- Tags: .io Games, 3D, 3D Games, Action, Adventure, battle, Defense, Game, Games, Punch

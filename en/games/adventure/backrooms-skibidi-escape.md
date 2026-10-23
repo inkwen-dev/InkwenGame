@@ -19,6 +19,6 @@ Backrooms: Skibidi Escape is a horror game where you are trapped in the backroom
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Escape, Horror, Skibidi, Skibidi Toilet, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Escape, Horror, Skibidi, skibidi-toilet, Unity3D

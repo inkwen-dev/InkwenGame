@@ -21,4 +21,4 @@ Escape your enemies by jumping and sliding over and under obstacles with the arr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting, Ninja, running
+- Tags: Fight, fighting, ninja, running

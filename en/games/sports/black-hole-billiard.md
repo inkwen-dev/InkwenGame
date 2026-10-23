@@ -19,6 +19,6 @@ Black Hole Billiard is fun billiard game suitable for all ages. Relaxed Game of 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Ball, Billiard, Boys, Fun, HTML5, Kids, Mobile, Pool, Skill, Sport
+- Tags: Android, Arcade, Ball, Billiard, Boys, Fun, HTML5, Kids, Mobile, pool, Skill, Sport

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 益智, Classic, 画, 拼图, 解谜
+- 标签: 大脑, 经典, 绘画, 拼图, 益智

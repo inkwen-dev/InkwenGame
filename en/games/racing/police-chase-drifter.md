@@ -19,6 +19,6 @@ Police Chase Drifter is a fun car game where you get to run from the police!
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Police
+- Tags: police

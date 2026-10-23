@@ -19,6 +19,6 @@ Claim the crown and rule the underground as you race for dominance in the first 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player, 3D, 3D Games, Bike, bus, Car, Cars, Casual, Simulation, Simulator, Stunts, Supercars, Truck, Unity3D
+- Tags: .io Games, 2 Player, 3D, 3D Games, bike, bus, Car, Cars, Casual, Simulation, Simulator, Stunts, Supercars, truck, Unity3D

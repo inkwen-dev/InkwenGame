@@ -21,4 +21,4 @@ Enjoy the "Aqua Park Drift" game! You will control an inflatable boat. Rescue pe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Boat, HTML, HTML5, Race, Racing, Stickman, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Boat, HTML, HTML5, Race, Racing, stickman, Unity3D

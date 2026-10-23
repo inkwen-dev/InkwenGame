@@ -21,4 +21,4 @@ et ready for the holiday season with Christmas Truck Run, an exciting endless ra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, HTML5, run, running, Truck
+- Tags: Christmas, HTML5, run, running, truck

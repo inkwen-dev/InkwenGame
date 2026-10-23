@@ -19,6 +19,6 @@ This is a matching game with military trucks and your job is to order 3 or more 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Match-3, Matching, Puzzle, Truck
+- Tags: Match 3, Matching, Puzzle, truck

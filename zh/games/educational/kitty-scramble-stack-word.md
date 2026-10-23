@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 大脑, 猫, 教育, Hello Kitty, HTML, HTML5, 超休闲, 字母, 思维, 拼图, 策略, 词汇
+- 标签: 大脑, 猫, 教育, Hello Kitty, HTML, HTML5, 超休闲, 字母, 思维, 益智, 策略, 单词

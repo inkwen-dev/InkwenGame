@@ -19,6 +19,6 @@ Do you truly appreciate monster truck games and desire to be the ultimate legend
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Driving, Monster, Racing, Truck, Unity3D
+- Tags: 3D Games, Driving, monster, Racing, truck, Unity3D

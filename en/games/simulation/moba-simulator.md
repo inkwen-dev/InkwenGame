@@ -21,4 +21,4 @@ Moba Simulator is a fun simulation game of moba strategy gameplay. If you are a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fantasy, Strategy, Superhero, WebGL
+- Tags: Fantasy, strategy, Superhero, WebGL

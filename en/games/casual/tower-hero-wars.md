@@ -19,6 +19,6 @@ Touch click the hero and drag it to the enemy tower
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Best Games, games for your website, HTML5, html5 games, Superhero

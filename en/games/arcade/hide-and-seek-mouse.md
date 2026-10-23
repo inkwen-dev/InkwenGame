@@ -19,6 +19,6 @@ Welcome to the Hide and Seek Mouse game. Tom and Jerry always quarrel with other
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Cartoon, Casual, Kids

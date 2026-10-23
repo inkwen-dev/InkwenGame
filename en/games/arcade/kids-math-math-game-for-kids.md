@@ -19,6 +19,6 @@ Kids Math - Math Game for Kids Kids Math - Game For Kids is an exciting game for
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Educational, Games, Kids, Math, Online, Puzzle
+- Tags: Arcade, educational, Games, Kids, math, Online, Puzzle

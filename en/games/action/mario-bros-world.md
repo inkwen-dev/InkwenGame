@@ -21,4 +21,4 @@ Mario Bros World a new kind of Mario game that you can play with one hand. You c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Mario, run, running
+- Tags: Action, Adventure, Arcade, mario, run, running

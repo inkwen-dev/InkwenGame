@@ -21,4 +21,4 @@ Pou 游戏是关于一个渺小且完全无助的外星人有趣的冒险故事�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: HTML5, 消除三连, 移动设备
+- 标签: HTML5, 三消, 移动设备

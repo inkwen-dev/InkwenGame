@@ -21,4 +21,4 @@ Head Football - Champions League 19/20 game with 32 champions league teams and c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Animal, Anime, Arcade, Ball, Ballon, Baseball, Basketball, Football, HTML, HTML5, Online, Soccer, Sport, Sports, Strategy, Unity3D, WebGL, World
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Animal, Anime, Arcade, Ball, Ballon, baseball, basketball, Football, HTML, HTML5, Online, Soccer, Sport, sports, strategy, Unity3D, WebGL, World

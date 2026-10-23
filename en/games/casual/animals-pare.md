@@ -19,6 +19,6 @@ Exciting 60 levels and cute animals are waiting for you, each of which needs to 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby Games, Best Games, Brain, Logic

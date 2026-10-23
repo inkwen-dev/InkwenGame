@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 Player, 动作, 最佳, 经典, 游戏, HTML, HTML5, Mobile, 模拟
+- 标签: 单人, 动作, 最佳, 经典, 网页游戏, HTML, HTML5, 移动设备, 模拟

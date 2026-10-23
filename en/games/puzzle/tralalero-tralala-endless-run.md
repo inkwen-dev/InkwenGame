@@ -19,6 +19,6 @@ Tralalero Tralala Endless Run is a colorful and exciting online game that kids w
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Brainrot Italian, Brainrot sahuuur, Collecting, Fun, Hypercasual, jump, Kids, Mobile, Tralalero Tralala

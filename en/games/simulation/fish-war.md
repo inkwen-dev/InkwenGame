@@ -19,6 +19,6 @@ Play the most fun game in the ocean... You are a fish and you must kill the othe
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Fish, Fishing, War

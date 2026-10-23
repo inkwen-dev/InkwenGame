@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 飞机, HTML5, 太空, 太空飞船, 战争
+- 标签: 飞机, HTML5, 太空, 宇宙飞船, 战争

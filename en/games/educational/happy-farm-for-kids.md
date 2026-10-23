@@ -21,4 +21,4 @@ Designed especially for toddlers 1.5 to 5 years, this exciting and educational g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Educational, Family, Farm, Girl, Girls, Kids, School
+- Tags: Animal, educational, Family, Farm, Girl, Girls, Kids, School

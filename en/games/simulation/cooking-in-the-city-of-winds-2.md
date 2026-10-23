@@ -21,4 +21,4 @@ Welcome to the City of Winds. The culinary festival starts here today! Participa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Arcade, Clicker, Creation, Decorate, Decoration, Design, Fantasy, HTML5, RPG
+- Tags: Anime, Arcade, Clicker, Creation, Decorate, Decoration, Design, Fantasy, HTML5, rpg

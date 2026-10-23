@@ -21,4 +21,4 @@ Candy Cutter Saga is a sweet and exciting physics-based puzzle game where precis
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Brain, Puzzle, Strategy
+- Tags: Best Games, Brain, Puzzle, strategy

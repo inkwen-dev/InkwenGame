@@ -21,4 +21,4 @@ Handslap 是一款双人游戏。你可以选择任意手臂与朋友对战。�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人, 双人游戏, 2D, 动作, 街机, 游戏, 游戏, HTML, HTML5, PvP, 技巧, 技能, unity, WebGL
+- 标签: 双人, 双人游戏, 2D, 动作, 街机, 游戏, 网页游戏, HTML, HTML5, PvP, 技巧, 技能, unity, WebGL

@@ -21,4 +21,4 @@ Letter Tracing Games for Kids is an educational game for kids designed to teach 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Baby, Educational, Kid, Kids, Letters, Word
+- Tags: 1 Player, Arcade, Baby, educational, Kid, Kids, Letters, word

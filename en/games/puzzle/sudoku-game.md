@@ -19,6 +19,6 @@ Sudoku Game is a free puzzle online game for boys, with various styles of backgr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Boy, Brain, Fun, Highscore, HTML5, Kids, Number, Online, Puzzle

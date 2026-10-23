@@ -21,4 +21,4 @@ Step into the thrill of the stadium with Football League, a fast-paced, action-p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Football, NapTech Games, Sport, Sports
+- Tags: 1 Player, Football, NapTech Games, Sport, sports

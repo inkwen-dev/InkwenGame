@@ -19,6 +19,6 @@ Discover this classic game which combines the best of Mahjong and Match 3 featur
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, Casual, HTML5, Hypercasual, Jewel, Match 3, Match3, Matching, Puzzle

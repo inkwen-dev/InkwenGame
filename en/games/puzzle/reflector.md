@@ -19,6 +19,6 @@ Reflector is a puzzle game where you need to put the blocks in a place where the
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, HTML5, Kids, Logical, Mobile, Puzzle
+- Tags: block, HTML5, Kids, Logical, Mobile, Puzzle

@@ -19,6 +19,6 @@ There are several types of cars in this new game 2022 where you can enjoy car st
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, 3D Games, Action, Android, Arcade, Car, Cars, Casual, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, Jumping, Unity3D
+- Tags: .io Games, 3D, 3D Games, Action, Android, Arcade, Car, Cars, Casual, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, jumping, Unity3D

@@ -19,6 +19,6 @@ Do you love to play US police bus parking games? Get the new edition of police b
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Arcade, bus, Cars, drift, drifting, Fun, Funny, Hot, Hypercasual, Interactive, Police, Racing, Supercars
+- Tags: .io, .io Games, Action, Arcade, bus, Cars, drift, drifting, Fun, Funny, Hot, Hypercasual, Interactive, police, Racing, Supercars

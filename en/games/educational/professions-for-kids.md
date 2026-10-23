@@ -19,6 +19,6 @@ Looking for an engaging and educational game for your kids? Look no further than
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cute, Educational, Fun, Girls, HTML5, Kids, Mobile, RPG
+- Tags: Animal, Cute, educational, Fun, Girls, HTML5, Kids, Mobile, rpg

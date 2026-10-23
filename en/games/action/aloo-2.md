@@ -21,4 +21,4 @@ Aloo 2 is a 2D platformer where you play as Aloo, the potato man, and you have t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Cute, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Cute, pixel, Platform, retro

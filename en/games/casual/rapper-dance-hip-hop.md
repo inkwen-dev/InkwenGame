@@ -21,4 +21,4 @@ You are a famous rapper who gives concerts. Adapt to the rhythms and dance with 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dancing, Game, Music
+- Tags: Dancing, Game, music

@@ -89,4 +89,4 @@ ESC
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 动作, 军队, 枪械, 多人游戏, PVE, 射击, 策略, 坦克
+- 标签: 动作, 军队, 枪械, 多人, PVE, 射击, 策略, tanks

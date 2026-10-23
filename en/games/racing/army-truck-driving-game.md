@@ -21,4 +21,4 @@ The new offline games for boys. If youre looking for a top truck simulator army 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, 3D Games, Action, Adventure, Car, Simulation, Simulator, Truck, trucks
+- Tags: 2025 games, 3D Games, Action, Adventure, Car, Simulation, Simulator, truck, trucks

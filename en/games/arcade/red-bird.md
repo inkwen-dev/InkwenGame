@@ -19,6 +19,6 @@ Red Bird is a highly addictive game for all kids and teens! Tap to fly and go fr
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bird, Casual, endless, Flight, fly, HTML, HTML5
+- Tags: Arcade, Bird, Casual, endless, flight, fly, HTML, HTML5

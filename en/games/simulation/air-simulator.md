@@ -19,6 +19,6 @@ Looking for a fun and challenging online game? Look no further than Air Simulato
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Game, Games, HTML5, Simulation, Simulator

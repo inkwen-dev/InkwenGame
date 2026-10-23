@@ -19,6 +19,6 @@ Block Puzzle 2048 Game is a puzzle game that combines 2048 and merged cubes. Com
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2048, Block, Puzzle, puzzleblock
+- Tags: 2048, block, Puzzle, puzzleblock

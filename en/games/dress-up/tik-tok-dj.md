@@ -19,6 +19,6 @@ Four girlfriends want you to help choose their own unique look for each of them,
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dating, Dora, Dress Up, Family, Fashion, Girl, Girls, HTML, HTML5

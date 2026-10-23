@@ -19,6 +19,6 @@ This is still very much a prototype, but I just needed to release what I had.
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cat, Educational, jump, Jumping, running
+- Tags: Animal, Cat, educational, jump, jumping, running

@@ -19,6 +19,6 @@ Merge identical cars to create more powerful vehicles and defend your base from 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Android, Battle, Car, Clicker, Cool, endless, Fun, idle, Levels, Relaxation, Shoot
+- Tags: 1 Player, 2026 games, 2D, Android, battle, Car, Clicker, cool, endless, Fun, idle, Levels, Relaxation, Shoot

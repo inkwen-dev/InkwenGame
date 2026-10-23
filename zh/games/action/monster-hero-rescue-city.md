@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, Android, 战斗, 男孩, 男孩, 城市, HTML5, 儿童, 移动设备, 怪兽, 救援, 超级英雄
+- 标签: 3D, 安卓, 战斗, 男孩, 男孩们, 城市, HTML5, 儿童, 移动设备, monster, 救援, 超级英雄

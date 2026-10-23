@@ -21,4 +21,4 @@ Color the Room is a cozy 3D coloring game. Pick a fantasy room — castle, witch
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Color, cozy, Decoration, Drawing
+- Tags: 3D, Color, cozy, Decoration, drawing

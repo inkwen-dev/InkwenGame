@@ -15,6 +15,6 @@ Race through an ever-changing world in Eclipse Run 3, where each environment mor
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: parkour

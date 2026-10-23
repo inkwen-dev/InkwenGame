@@ -21,4 +21,4 @@ Comic Teenage Mutant Ninja Turtles is a unique online game about the brave mutan
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, H5, Hot, Ninja, Ninjago, Race, Racing
+- Tags: Action, Adventure, H5, Hot, ninja, Ninjago, Race, Racing

@@ -19,6 +19,6 @@ It’s winter, there’s a huge storm getting near, and Princess Frosie needs he
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Hazel, Best, Decorate, Decoration, Design, Elsa, Frozen, Games, Girls, Hot, House, New, Online, Princess

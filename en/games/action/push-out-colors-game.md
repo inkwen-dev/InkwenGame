@@ -21,4 +21,4 @@ Up to 4 players game. You must push others players out of the arena. Your dot sp
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fighting, Hypercasual, Multiplayer
+- Tags: fighting, Hypercasual, Multiplayer

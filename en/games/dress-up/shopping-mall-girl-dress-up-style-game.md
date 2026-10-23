@@ -19,6 +19,6 @@ If you like dress up games, you’ll LOVE this one. Shop till you drop in the co
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Game, Games, Girl, Girls, Princess

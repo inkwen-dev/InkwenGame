@@ -17,4 +17,4 @@ Strategically place pins to guide a ball into a glass in Puzzle Pin. Master the 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Drawing
+- Tags: drawing

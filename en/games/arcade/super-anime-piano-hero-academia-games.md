@@ -19,6 +19,6 @@ Let's Play Super Anime Piano Hero Academia Games Full for best score to get reac
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Best, Games, Hot, Magic, Mobile, Music, Point And Click, Puzzle, Timing
+- Tags: Action, Adventure, Arcade, Best, Games, Hot, Magic, Mobile, music, Point And Click, Puzzle, Timing

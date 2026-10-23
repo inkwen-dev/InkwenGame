@@ -21,4 +21,4 @@ COUNTERFLOW 是一款快节奏的变道驾驶游戏。避开迎面而来的车�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 躲避, 汽车, 驾驶
+- 标签: 单人, 躲避, 汽车, 驾驶

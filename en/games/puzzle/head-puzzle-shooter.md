@@ -19,6 +19,6 @@ Head Puzzle Shooter is a very simple and addictive puzzle game. You are in contr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Anime, Arcade, Bubble, Bubble Shooter, Hypercasual, Shoot, Shooter

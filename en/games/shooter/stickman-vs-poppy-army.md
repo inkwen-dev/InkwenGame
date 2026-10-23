@@ -21,4 +21,4 @@ Stickman vs Poppy Army is an action shooting game with tons of levels. Put all y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Shoot, Shooting, Stickman, War, weapons
+- Tags: Action, Adventure, Shoot, Shooting, stickman, War, weapons

@@ -19,6 +19,6 @@ The outer planet has been invaded by aliens! You need to save the planet and fig
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Alien, Arcade, Hypercasual, Planet, World

@@ -19,6 +19,6 @@ DROP AND MERGE THE NUMBERS is a new kind of game like 2048. Just drop a block, i
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Brain, Casual, Number, Puzzle

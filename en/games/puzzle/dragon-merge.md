@@ -19,6 +19,6 @@ Dragon Merge is a casual game where you can merge and discover new dragons. Disc
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Battle, Cute, Dragon, Mobile, Unity3D
+- Tags: Animal, battle, Cute, Dragon, Mobile, Unity3D

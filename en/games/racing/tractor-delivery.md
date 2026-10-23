@@ -21,4 +21,4 @@ Tractor Delivery is a small but very addictive physical game! You play as a trac
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Driving, Fun, HTML5, Kids, Mobile, Skill, Truck
+- Tags: 1 Player, Driving, Fun, HTML5, Kids, Mobile, Skill, truck

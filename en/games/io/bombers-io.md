@@ -21,4 +21,4 @@ Bombers.io is a unique battle arena game, only weapon that you have is range wea
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Timing, weapons
+- Tags: battle, Timing, weapons

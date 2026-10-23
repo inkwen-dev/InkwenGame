@@ -19,6 +19,6 @@ Complete levels by driving your awesome tractor in the great 2d hill climb maps 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Driving, Mobile, Unity3D, WebGL

@@ -21,4 +21,4 @@ THE MOST DESIRED CITY DRIFT GAME 1 city tracks are ready ! Also there are 15 mos
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Car, Cars, drift, drifting, Driving, gta, Parking, Race, Supercars, WebGL
+- Tags: 3D, 3D Games, Adventure, Car, Cars, drift, drifting, Driving, gta, parking, Race, Supercars, WebGL

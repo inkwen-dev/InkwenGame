@@ -21,4 +21,4 @@ Tower Run Online is an easy arcade jumping game. You will run in a truck with lo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Avoid, H5, Highscore, HTML5, Hypercasual, jump, Jumping, Mobile, Obstacle, Online, Skill, Skills
+- Tags: 3D, 3D Games, Arcade, Avoid, H5, Highscore, HTML5, Hypercasual, jump, jumping, Mobile, Obstacle, Online, Skill, Skills

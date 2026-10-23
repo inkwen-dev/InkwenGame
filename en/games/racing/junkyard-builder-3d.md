@@ -21,4 +21,4 @@ Build a custom offroad truck and take it from a dusty junkyard to 10 driving wor
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, car tuning, Driving, offroad, Truck
+- Tags: 1 Player, car tuning, Driving, offroad, truck

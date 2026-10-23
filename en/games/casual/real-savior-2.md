@@ -15,6 +15,6 @@ Defend your city as a daring tank gunner in Real Savior. Experience nonstop acti
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Tanks
+- Tags: tanks

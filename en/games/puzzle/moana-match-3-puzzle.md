@@ -19,6 +19,6 @@ Are you like Moana Match 3 Puzzle? and you want play The new Of Princess Games M
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Hypercasual, Match 3, Matching, Puzzle

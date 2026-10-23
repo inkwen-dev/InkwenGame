@@ -21,4 +21,4 @@ Tangled Climber Escape is a challenging puzzle game where stranded climbers have
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, amazing, Best, Best Games, Brainrot, Casual, Crazy, Hypercasual, Mind, mountain, Puzzle
+- Tags: 2026 games, amazing, Best, Best Games, Brainrot, Casual, crazy, Hypercasual, Mind, mountain, Puzzle

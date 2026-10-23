@@ -19,6 +19,6 @@ This is a cheese tower building game where colored cheese blocks rack up on each
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Food, Geometry, Stack

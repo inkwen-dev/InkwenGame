@@ -19,6 +19,6 @@ Lolipop MAtch is a connect match game on html5, connecting the candy to match th
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Candy, Casual, Click, Color, HTML5, Hypercasual

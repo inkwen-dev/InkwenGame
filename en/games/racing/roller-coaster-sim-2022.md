@@ -19,6 +19,6 @@ Take Pleasure In Roller Rollercoaster Simulator Games and rise to higher elevati
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Arcade, Driving, Skill, Unity3D, WebGL

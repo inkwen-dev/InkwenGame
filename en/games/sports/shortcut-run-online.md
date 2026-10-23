@@ -21,4 +21,4 @@ You will join in a running race! At the start, you will be the last. So you need
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Arcade, Block, Boy, Boys, Bricks, Collecting, Collection, Game, Games, H5, HTML, HTML5, Kid, Kids, Race, run, running, Sport, Sports
+- Tags: 3D Games, Arcade, block, Boy, Boys, Bricks, Collecting, Collection, Game, Games, H5, HTML, HTML5, Kid, Kids, Race, run, running, Sport, sports

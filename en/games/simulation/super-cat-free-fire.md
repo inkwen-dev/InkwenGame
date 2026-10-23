@@ -21,4 +21,4 @@ Super Cat Free Fire is a wild and exciting action shooting simulator where a pow
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Cat, Shooting, Simulator
+- Tags: battle, Cat, Shooting, Simulator

@@ -19,6 +19,6 @@ Sort colorful cake slices to assemble whole desserts on a 4x4 grid. Enjoy relaxi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Puzzle, Relaxation, sort, sorting

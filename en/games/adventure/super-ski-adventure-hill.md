@@ -19,6 +19,6 @@ This is a free game about skiing, specifically designed for alpine skiing fans. 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Game, Games, Hypercasual, jump, Jumping
+- Tags: Adventure, Game, Games, Hypercasual, jump, jumping

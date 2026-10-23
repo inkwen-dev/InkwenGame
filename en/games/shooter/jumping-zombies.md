@@ -21,4 +21,4 @@ Jumping Zombies is an action-packed game where players must navigate through pla
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping, Platform, Shooting, Zombie
+- Tags: jumping, Platform, Shooting, Zombie

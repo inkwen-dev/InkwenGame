@@ -21,4 +21,4 @@ Farm of Words is a fun and relaxing word game in a wordcross style format made f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Casual, Educational, Fun, Funny, Hypercasual, Letters, School, Skill, Word
+- Tags: Best, Casual, educational, Fun, Funny, Hypercasual, Letters, School, Skill, word

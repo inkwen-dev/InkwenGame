@@ -19,6 +19,6 @@ Idle Power Rangers Kill Zombies it’s a very cool game, to destroy zombies, and
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Superhero, Zombie

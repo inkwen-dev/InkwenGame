@@ -21,4 +21,4 @@ Master truck drivers are ready to prove their skills on challenging snowy roads!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Driving, Racing, Simulation, Stunts, Truck
+- Tags: 3D, 3D Games, Driving, Racing, Simulation, Stunts, truck

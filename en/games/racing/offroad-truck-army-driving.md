@@ -19,6 +19,6 @@ In Offroad Truck Army Driving, players navigate rugged mountain terrains and div
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Driving, Mentolatux, mountain, offroad, Truck, trucks, Unity3D, WebGL
+- Tags: Army, Driving, Mentolatux, mountain, offroad, truck, trucks, Unity3D, WebGL

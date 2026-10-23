@@ -21,4 +21,4 @@ Best game Batman Beyond Coloring Book for Lover Batman Beyond Coloring Book Batm
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Batman, Best, Color, Coloring, Draw, Drawing, New, Puzzle
+- Tags: Arcade, Batman, Best, Color, Coloring, Draw, drawing, New, Puzzle

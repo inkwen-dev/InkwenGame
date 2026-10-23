@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 龙珠Z, 格斗, 免费 HTML5 网站游戏, 超休闲, kiz10, 物理, Stickman
+- 标签: 动作, 龙珠Z, 格斗, 免费HTML5游戏供您的网站使用, 超休闲, kiz10, 物理, 木偶人

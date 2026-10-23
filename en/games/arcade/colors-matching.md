@@ -19,6 +19,6 @@ Train your brain and test your eyes in Colors Matching! Match the correct colors
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Coloring, Hypercasual, Matching

@@ -19,6 +19,6 @@ Get into the festive spirit with Christmas Find The Differences, the ultimate ho
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Difference, Hidden, Puzzle, Santa, Santa Claus

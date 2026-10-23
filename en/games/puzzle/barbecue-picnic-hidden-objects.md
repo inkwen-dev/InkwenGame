@@ -19,6 +19,6 @@ In this hidden objects game your job is to find ten hidden barbecues in each ima
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Hidden, Kids, Puzzle

@@ -21,4 +21,4 @@ Car Stunt Race Trial and hot Rally Cars stunt games. Trending Games proudly pres
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Best, Crazy, Game, Games, Race, Racing, Stunts, Timing, Unity3D, WebGL
+- Tags: 3D, 3D Games, Best, crazy, Game, Games, Race, Racing, Stunts, Timing, Unity3D, WebGL

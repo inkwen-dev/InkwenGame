@@ -19,6 +19,6 @@ In Bus Parking Simulator you will play and enjoy the bus parking game with the b
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, bus, Driving, Parking, Simulation, Simulator
+- Tags: 3D, 3D Games, bus, Driving, parking, Simulation, Simulator

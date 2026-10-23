@@ -21,4 +21,4 @@ Tractor towing, Thrilling experience of tractor pulling heavy vehicles Welcome t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Adventure, Android, Family, Strategy
+- Tags: 3D Games, Adventure, Android, Family, strategy

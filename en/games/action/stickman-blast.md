@@ -21,4 +21,4 @@ Merge identical stickmen to unlock powerful warriors and mages! Lead your squad 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: attack, Battle, Casual, destroy, Launch
+- Tags: attack, battle, Casual, destroy, Launch

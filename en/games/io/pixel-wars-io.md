@@ -21,4 +21,4 @@ Collect pixels and draw beauty with them! The game has elements of hyper casual 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2D, Arena, Board, Draw, Drawing, Hypercasual, Pixel, Relaxation, Skills, Slither, WebGL
+- Tags: .io, .io Games, 1 Player, 2D, Arena, Board, Draw, drawing, Hypercasual, pixel, Relaxation, Skills, Slither, WebGL

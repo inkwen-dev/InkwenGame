@@ -21,4 +21,4 @@ Coronavirus covid-19 virus vaccine. you have to collect the same color items as 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Hypercasual, Physics
+- Tags: educational, Hypercasual, Physics

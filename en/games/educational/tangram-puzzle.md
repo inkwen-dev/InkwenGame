@@ -21,4 +21,4 @@ Try Tangram Puzzle game to develop fun intelligence. In this game you have to pl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Casual, Educational, Hypercasual, Kids, Matching, Mind, Mobile, Puzzle, Unity3D
+- Tags: 1 Player, 2D, Android, Casual, educational, Hypercasual, Kids, Matching, Mind, Mobile, Puzzle, Unity3D

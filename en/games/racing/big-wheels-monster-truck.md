@@ -21,4 +21,4 @@ Say hello to the legendary and powerful monster trucks BIG wheels monster truck.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Android, Arcade, Best, Car, Cars, Monster, Truck
+- Tags: 1 Player, 2D, Action, Android, Arcade, Best, Car, Cars, monster, truck

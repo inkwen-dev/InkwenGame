@@ -19,6 +19,6 @@ Using turrets and skills that you can improve, you must protect your castle from
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Defense, Dragon, Strategy, Tower Defense, Unity3D
+- Tags: 3D, 3D Games, Defense, Dragon, strategy, Tower Defense, Unity3D

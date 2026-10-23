@@ -19,6 +19,6 @@ Slidey Block is an addictive and easy game to play. Take a break at any time wit
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Block, Girl
+- Tags: 1 Player, 2D, Android, block, Girl

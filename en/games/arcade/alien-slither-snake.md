@@ -21,4 +21,4 @@ Alien Slither Snake is a fun snake game with multiple customizations.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Alien, Mobile, Snake
+- Tags: Alien, Mobile, snake

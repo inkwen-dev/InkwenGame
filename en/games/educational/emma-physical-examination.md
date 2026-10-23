@@ -21,4 +21,4 @@ Let's make our princess comfortable when she gets the eye and ear checkup. She n
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Educational, Princess, Surgery
+- Tags: Doctor, educational, Princess, surgery

@@ -21,4 +21,4 @@ Jail Drop is a 60 levels of fun physics puzzle game! all boxes except the grass 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Family, Girl, Girls, HTML5, Kids, Physics, Puzzle
+- Tags: Arcade, block, Family, Girl, Girls, HTML5, Kids, Physics, Puzzle

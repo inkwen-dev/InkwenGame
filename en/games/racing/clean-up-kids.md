@@ -21,4 +21,4 @@ This game is the best way to learn how to keep your house always tidy and clean.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Car, Cleaning, Cute, Educational, Family, Fun, Girls, HTML5, Kids, Mobile, Puzzle
+- Tags: Animal, Car, Cleaning, Cute, educational, Family, Fun, Girls, HTML5, Kids, Mobile, Puzzle

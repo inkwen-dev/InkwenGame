@@ -21,4 +21,4 @@ Blast and shoot to defend the precious power crates from the alien space pirates
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Alien, Arcade, Battle, Flight, Shoot 'Em Up, Space, Spaceship, War
+- Tags: Alien, Arcade, battle, flight, Shoot 'Em Up, Space, Spaceship, War

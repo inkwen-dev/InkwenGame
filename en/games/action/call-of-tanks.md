@@ -21,4 +21,4 @@ Call of Tanks is an action game to deploy tanks on the battlefield to defeat you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: attack, Battle, Defense, Tanks
+- Tags: attack, battle, Defense, tanks

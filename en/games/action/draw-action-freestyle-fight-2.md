@@ -21,4 +21,4 @@ The arcade battle begins! Just swipe your finger to formulate action battles, Br
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, attack, Fighting, Street Fighting
+- Tags: Action, Adventure, attack, fighting, Street Fighting

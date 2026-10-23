@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 战斗, 最佳, Stickman, 超级英雄, 战争
+- 标签: 单人, 战斗, 最佳, 木偶人, 超级英雄, 战争

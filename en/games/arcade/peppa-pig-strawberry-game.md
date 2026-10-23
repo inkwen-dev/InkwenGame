@@ -21,4 +21,4 @@ Help Peppa Pig to collect all the strawberries and return home as soon as possib
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Collecting, Fun, HTML5, Jumping, Kids, Mobile
+- Tags: 1 Player, 2D, Collecting, Fun, HTML5, jumping, Kids, Mobile

@@ -19,6 +19,6 @@ Domino Smash 3D is a free online puzzle game for boys played on a puzzle game. Y
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Avoid, Ball, Bounce, Boy, Brain, Card, Fun, HTML5, Kids, Obstacle, Online, Platform, Puzzle, running, Skill
+- Tags: 3D, Android, Avoid, Ball, Bounce, Boy, Brain, card, Fun, HTML5, Kids, Obstacle, Online, Platform, Puzzle, running, Skill

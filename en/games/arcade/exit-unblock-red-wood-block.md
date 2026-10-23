@@ -19,6 +19,6 @@ EXIT is a fun puzzle game, quick and easy to play, and also challenging for ever
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Board, Brain, Casual, Logic, Puzzle, Strategy
+- Tags: Arcade, Board, Brain, Casual, Logic, Puzzle, strategy

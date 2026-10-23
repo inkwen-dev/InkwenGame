@@ -21,4 +21,4 @@ Bearsus 是一款动作游戏，你将扮演一名搏击熊，在各种战斗竞
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 战斗
+- 标签: 动作, 格斗

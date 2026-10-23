@@ -21,4 +21,4 @@ Join Numbers is a popular puzzle game. How about your math skills? This game nee
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Kids, Logic, Math, Mobile, Platform, Skill
+- Tags: Avoid, Kids, Logic, math, Mobile, Platform, Skill

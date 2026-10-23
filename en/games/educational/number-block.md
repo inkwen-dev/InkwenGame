@@ -21,4 +21,4 @@ The addition and subtraction in this math puzzle game isn't tough at all. What i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Fun, Math
+- Tags: educational, Fun, math

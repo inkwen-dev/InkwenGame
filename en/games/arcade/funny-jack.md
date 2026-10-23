@@ -19,6 +19,6 @@ In the magical land of Bunnyville, Jack the pumpkin dreams of becoming the great
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Family, free html5 games for your website, Halloween, html5 games, jump, Jumping, mapi games, Monster
+- Tags: Arcade, Family, free html5 games for your website, Halloween, html5 games, jump, jumping, mapi games, monster

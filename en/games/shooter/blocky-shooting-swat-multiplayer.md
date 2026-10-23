@@ -21,4 +21,4 @@ Begin capturing with this shooter games unblocked that feature all of it like gr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Best, Block, Fire, Multiplayer, Online, Shoot, Shoot 'Em Up, Shooter, Shooting, Unity3D, WebGL
+- Tags: 3D Games, Best, block, Fire, Multiplayer, Online, Shoot, Shoot 'Em Up, Shooter, Shooting, Unity3D, WebGL

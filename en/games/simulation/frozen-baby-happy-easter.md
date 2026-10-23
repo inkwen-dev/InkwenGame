@@ -21,4 +21,4 @@ Happy Easter! It’s Easter Day. Baby Elsa wants to give a surprise for her litt
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Cooking, Cute, Easter, Educational, Elsa, Frozen, Girl, Girls, Holiday, Kids, Simulation
+- Tags: Coloring, Cooking, Cute, Easter, educational, Elsa, Frozen, Girl, Girls, Holiday, Kids, Simulation

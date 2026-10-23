@@ -21,4 +21,4 @@ The addictive game you&rsquo;ve been playing on your computer for years now goes
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Card, Solitaire
+- Tags: 1 Player, 2026 games, 2D, card, solitaire

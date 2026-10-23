@@ -19,6 +19,6 @@ Funny Elon Musk Face - Funny face game that everybody can play and enjoy. Use yo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Celebrity, Draw, Fun, Funny, HTML5, Hypercasual, Puzzle

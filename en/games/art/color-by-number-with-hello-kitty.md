@@ -19,6 +19,6 @@ Color by number with Hello Kitty is exciting and cute games for kids with the mo
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cartoon, Color, Coloring, Cute, Fun, Girls, Hello Kitty, HTML5, Kids, Mobile

@@ -21,4 +21,4 @@ In this game, the ninja has to run across buildings, defeat the enemies that app
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Adventure, amazing, attack, Best Games, Jumping, Puzzle, running
+- Tags: 1 Player, 2026 games, Adventure, amazing, attack, Best Games, jumping, Puzzle, running

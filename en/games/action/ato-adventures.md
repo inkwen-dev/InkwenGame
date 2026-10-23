@@ -21,4 +21,4 @@ Ato Adventures is a 2D simple platformer where your mission is to collect roses 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Girl, Pixel, Platform, Side Scrolling
+- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Girl, pixel, Platform, Side Scrolling

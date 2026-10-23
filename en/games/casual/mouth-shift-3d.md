@@ -15,6 +15,6 @@ Customize your voracious mouth to savor a feast of fun in Mouth Shift 3D. Naviga
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Casual

@@ -21,4 +21,4 @@ Ben Hollys Coloring Book is cool coloring game for kids and adults. Play Ben Hol
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Color, Coloring, Draw, Drawing, Jigsaw, Puzzle
+- Tags: Cartoon, Color, Coloring, Draw, drawing, Jigsaw, Puzzle

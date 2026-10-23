@@ -21,4 +21,4 @@ Come to the colorful world of Fidget Pop Run. Begin a casual arcade game. Race, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bubble, Monster, run
+- Tags: Bubble, monster, run

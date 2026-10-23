@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 大脑, 休闲, HTML5, 逻辑性, 麻将, 匹配, 在线, 解谜, 策略
+- 标签: 单人, 2D, 大脑, 休闲, HTML5, 逻辑性, mahjong, 匹配, 在线, 益智, 策略

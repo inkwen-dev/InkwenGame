@@ -19,6 +19,6 @@ Now we have some emergency military transport missions for a professional truck 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Driving, Mobile, Simulation, Timing, Truck, Unity3D
+- Tags: 3D, Driving, Mobile, Simulation, Timing, truck, Unity3D

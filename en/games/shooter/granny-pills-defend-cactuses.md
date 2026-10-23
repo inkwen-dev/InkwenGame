@@ -21,4 +21,4 @@ Left Mouse Button Click amp Hold to aim Release to throw the pill Right Mouse Bu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Alien, Cartoon, Casual, Defense, Enemy, Matching, Monster, survival
+- Tags: Alien, Cartoon, Casual, Defense, Enemy, Matching, monster, survival

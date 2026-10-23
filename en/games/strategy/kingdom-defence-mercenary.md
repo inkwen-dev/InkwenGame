@@ -19,6 +19,6 @@ This Tower Defence game "Kingdom Defence: Mercenary" is the combination of War G
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Girls, Tower Defense

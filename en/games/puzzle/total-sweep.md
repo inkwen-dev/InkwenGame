@@ -21,4 +21,4 @@ Total sweep is a calming tactical game where you guide drifting balls to break t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Ball, Best, Best Games, Block, Bricks, Casual, destroying, Geometry
+- Tags: 2D, Ball, Best, Best Games, block, Bricks, Casual, destroying, Geometry

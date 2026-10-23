@@ -19,6 +19,6 @@ Are you looking for the best 2D adventure game? Then don’t miss out fox's Adve
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Batman, Cartoon, Games, Mario, Minecraft, Zombie
+- Tags: 2D, Action, Batman, Cartoon, Games, mario, Minecraft, Zombie

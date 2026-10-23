@@ -49,4 +49,4 @@ TNT炸药箱会引发连锁反应，一击就能摧毁半座塔，但如果引�
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 怪物
+- 标签: monster

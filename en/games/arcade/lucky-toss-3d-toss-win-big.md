@@ -19,6 +19,6 @@ Lucky Toss 3D is a Free casual Ring Toss game. It is also a fun game to kill tim
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Best, Boys, Casual, Funny, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online

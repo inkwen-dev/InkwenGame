@@ -19,6 +19,6 @@ For all fashionistas and dressup games fans here is the ultimate makeover app wi
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Disney, Dora, Dress Up, Fairy, Fashion, Frozen, Funny, Game, Games, Girl, Girls, Hello Kitty, Makeover, Princess, Witch

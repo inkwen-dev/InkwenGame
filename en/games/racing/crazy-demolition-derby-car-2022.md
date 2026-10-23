@@ -21,4 +21,4 @@ Everyone who watches racing competitions on fantastic asphalt courses on televis
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Crazy, Multiplayer, Racing, Unity3D, WebGL
+- Tags: crazy, Multiplayer, Racing, Unity3D, WebGL

@@ -21,4 +21,4 @@ Ranch Empire &mdash; build a 3D ranch tycoon empire right in your browser. No do
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 3D, Boat, Farm, Hunting, Hypercasual, Match-3, Multiplayer, Racing, Simulation, Simulator
+- Tags: 2026 games, 3D, Boat, Farm, hunting, Hypercasual, Match 3, Multiplayer, Racing, Simulation, Simulator

@@ -19,6 +19,6 @@ SantaCraft is a 3D is a third-person shooter in which you must survive the zombi
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Action, Adventure, Christmas, Minecraft, Snow, Zombie

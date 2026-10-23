@@ -21,4 +21,4 @@ Bumble around as a bee in this whimsical collectathon while being harassed by th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Casual, Physics, Pixel
+- Tags: 1 Player, Animal, Casual, Physics, pixel

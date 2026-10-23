@@ -21,4 +21,4 @@ Fun turn the box game, each side of the box color is randomly assigned, and your
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Brain, Classic, Crazy, Funny, Obstacle, Turn
+- Tags: 3D Games, Brain, Classic, crazy, Funny, Obstacle, Turn

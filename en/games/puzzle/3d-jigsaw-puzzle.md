@@ -21,4 +21,4 @@ Mouse click or tap to play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Casual, Educational, Family, Jigsaw, Simulation
+- Tags: Board, Casual, educational, Family, Jigsaw, Simulation

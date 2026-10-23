@@ -21,4 +21,4 @@ Kids Game Collection fun collective games to play on. Here is the collection of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Draw, Drawing, Educational, Family, Kid, Kids, Music
+- Tags: Draw, drawing, educational, Family, Kid, Kids, music

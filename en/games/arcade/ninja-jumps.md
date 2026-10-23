@@ -21,4 +21,4 @@ Tap on the screen to make the ninja jump, keep playing this addicting game until
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, HTML5, Jumping, Mobile, Ninja
+- Tags: 2D, Arcade, HTML5, jumping, Mobile, ninja

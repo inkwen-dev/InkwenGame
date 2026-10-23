@@ -21,4 +21,4 @@ Smart Looter is a new addictive 3D game, featuring colorfull environments and ho
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Batman, Battle, Ben 10, Boys, Brain, Family, Girl, Kids, Puzzle, Racing, Supercars, Superhero
+- Tags: 3D, Action, Adventure, Batman, battle, Ben 10, Boys, Brain, Family, Girl, Kids, Puzzle, Racing, Supercars, Superhero

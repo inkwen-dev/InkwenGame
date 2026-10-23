@@ -19,6 +19,6 @@ Tape em up! to perfection but don't waste the tape. Tape em up as you chill back
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, HTML, HTML5

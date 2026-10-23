@@ -21,4 +21,4 @@ Stickman: Street battle is a rather unusual fighting game in which control is ca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Fight, Fighting, HTML, HTML5, Hypercasual, Kill, Killing, Stickman, Super, Superhero
+- Tags: Action, Adventure, Arcade, Fight, fighting, HTML, HTML5, Hypercasual, Kill, Killing, stickman, Super, Superhero

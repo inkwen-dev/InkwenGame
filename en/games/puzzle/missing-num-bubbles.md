@@ -19,6 +19,6 @@ It is interesting number game for kids. In this game there are 3 modes; what num
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Educational, HTML5, Kids, Math, Mobile, Number, Puzzle, School
+- Tags: Board, educational, HTML5, Kids, math, Mobile, Number, Puzzle, School

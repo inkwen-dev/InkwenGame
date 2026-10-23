@@ -19,6 +19,6 @@ Water Pipes is the one of the best puzzle games in the market and without a doub
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Draw, HTML, HTML5, Hypercasual, Mind, Pipe, Puzzle, Simulation, Strategy
+- Tags: Brain, Draw, HTML, HTML5, Hypercasual, Mind, Pipe, Puzzle, Simulation, strategy

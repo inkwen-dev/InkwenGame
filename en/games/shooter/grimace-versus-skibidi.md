@@ -19,6 +19,6 @@ Grimace vs Skibidi is an action-based defense game. The Grimace is in deep troub
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Defense, Grimace, Grimace Shake, HTML, HTML5, Mobile, Skibidi, Skibidi Toilet
+- Tags: Boy, Defense, Grimace, Grimace Shake, HTML, HTML5, Mobile, Skibidi, skibidi-toilet

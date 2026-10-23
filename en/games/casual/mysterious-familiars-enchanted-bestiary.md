@@ -21,4 +21,4 @@ Welcome to the magical world of Mysterious Familiars! Discover the Witchcraft En
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Click, Fantasy, Monster
+- Tags: Animal, Click, Fantasy, monster

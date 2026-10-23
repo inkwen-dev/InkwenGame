@@ -19,6 +19,6 @@ Grandiose tank battles that will take place on various planets are waiting for y
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Best Games, Fight, Mobile, Space, Strategy, Tanks
+- Tags: battle, Best Games, Fight, Mobile, Space, strategy, tanks

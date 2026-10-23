@@ -19,6 +19,6 @@ Dive into a fun and colorful world of puzzles with Toca Find The Differences, in
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Difference, Educational, Girls, Hidden, Hypercasual, Puzzle, School
+- Tags: Boys, Difference, educational, Girls, Hidden, Hypercasual, Puzzle, School

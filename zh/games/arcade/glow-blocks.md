@@ -21,4 +21,4 @@ Glow Blocks 是一款受经典游戏《俄罗斯方块》启发的充满活力�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 方块, mapi games, 俄罗斯方块
+- 标签: 街机, 方块, mapi games, tetris

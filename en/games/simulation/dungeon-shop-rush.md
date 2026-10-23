@@ -27,4 +27,4 @@ Shifts get busier as your reputation grows, and reputation never stops growing. 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Management, Simulation, Strategy, tycoon
+- Tags: Arcade, management, Simulation, strategy, tycoon

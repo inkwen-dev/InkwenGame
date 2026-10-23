@@ -21,4 +21,4 @@ Help the little blocky Parrot to avoid all enemies and collect the coin that you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bird, Boy, Boys, Casual, Racing, Snake
+- Tags: Arcade, Bird, Boy, Boys, Casual, Racing, snake

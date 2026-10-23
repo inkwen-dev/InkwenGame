@@ -19,6 +19,6 @@ BMW Car parking is back in the sequel to the biggest mobile parking simulation g
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Aircraft, Best, Boy, Boys, Car, Cars, Collection, Crazy, Creation, Decoration, Educational, Girl, Girls, Relaxation, Supercars, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Aircraft, Best, Boy, Boys, Car, Cars, Collection, crazy, Creation, Decoration, educational, Girl, Girls, Relaxation, Supercars, Unity3D

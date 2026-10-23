@@ -19,6 +19,6 @@ It is said that boomerang is a powerful flying weapon with strange physics knowl
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Block, Boy, Casual, Kid, Pixel, Puzzle
+- Tags: 3D, Arcade, block, Boy, Casual, Kid, pixel, Puzzle

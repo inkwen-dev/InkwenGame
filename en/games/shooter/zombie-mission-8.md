@@ -21,4 +21,4 @@ Zombie Mission 8 continues the adventure from where it left off. After the space
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Action, Battle, Platform, Shoot 'Em Up, Shooting, Space, Undead, War, Zombie
+- Tags: 2 Player, 2 Player Games, Action, battle, Platform, Shoot 'Em Up, Shooting, Space, Undead, War, Zombie

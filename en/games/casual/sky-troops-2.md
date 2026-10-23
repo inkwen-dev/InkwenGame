@@ -15,6 +15,6 @@ Soar through the skies in Sky Troops and engage in thrilling global dogfights. M
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: airplane

@@ -19,6 +19,6 @@ Huggy Wuggy Pixel Nights is a 3D horror game where you are lost in dark pixel to
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Adventure, Cartoon, Unity3D, WebGL

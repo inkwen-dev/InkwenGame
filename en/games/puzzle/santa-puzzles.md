@@ -19,6 +19,6 @@ In this game called Santa Puzzles you have 12 puzzles with pictures from Santa C
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Casual, Christmas, Fun, Funny, Hypercasual, Skill, Winter

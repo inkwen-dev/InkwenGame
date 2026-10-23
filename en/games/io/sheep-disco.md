@@ -21,4 +21,4 @@ Let the Sheep do the disco on every gift that lies on the game screen. Tap,jump 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, Brain, jump, Jumping, Mind, Puzzle, Strategy
+- Tags: .io, .io Games, 1 Player, Brain, jump, jumping, Mind, Puzzle, strategy

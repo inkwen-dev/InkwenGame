@@ -23,4 +23,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 怪物, 策略, 塔防, 僵尸
+- 标签: monster, 策略, 塔防, 僵尸

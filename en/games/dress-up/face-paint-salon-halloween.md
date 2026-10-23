@@ -21,4 +21,4 @@ Natalia has agreed to organize a contest for makeup. Any girl who likes to do ma
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Drawing, Fashion, Girl, Girls, Halloween, Kid
+- Tags: drawing, Fashion, Girl, Girls, Halloween, Kid

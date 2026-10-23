@@ -19,6 +19,6 @@ Daddy’s little girls to the rescue! You girls are gonna have SO much fun with 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Cleaning, Collecting, Kid, Mobile

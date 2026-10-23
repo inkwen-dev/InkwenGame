@@ -21,4 +21,4 @@ The poor princess is becoming a teenager, and she doesn't know what to do! What 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Adventure, Barbie, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Collecting, Coloring, Doctor, Fantasy, Fashion, Fight, Games, Girl, Girls, HTML5, Hypercasual, Mobile, Monkey, Monster, Physics, Sudoku
+- Tags: 8 Ball Pool, Adventure, Barbie, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Collecting, Coloring, Doctor, Fantasy, Fashion, Fight, Games, Girl, Girls, HTML5, Hypercasual, Mobile, Monkey, monster, Physics, Sudoku

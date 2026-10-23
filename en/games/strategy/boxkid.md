@@ -21,4 +21,4 @@ BoxKid is a simple puzzle game. Push boxes or crates into target point or goals 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Strategy
+- Tags: strategy

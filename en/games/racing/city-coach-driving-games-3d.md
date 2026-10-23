@@ -19,6 +19,6 @@ Start your journey in Easy Mode, featuring 5 engaging levels with 5 unique buses
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 2026 games, 3D, 3D Games, bus, free html5 games for your website, Games, WebGL

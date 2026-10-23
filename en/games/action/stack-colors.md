@@ -19,6 +19,6 @@ In the "stacking colors" game, transport as many bricks as possible. Each level 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Bricks, Collecting, Fun, Highscore, HTML5, Platform, Skills, Stack, Stickman
+- Tags: Avoid, Bricks, Collecting, Fun, Highscore, HTML5, Platform, Skills, Stack, stickman

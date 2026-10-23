@@ -19,6 +19,6 @@ Zombie Shooter 2D is a fun shooting puzzle game where you get to shoot zombies i
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Gun, Halloween, Mobile, Physics, Shoot, Shooter, weapons

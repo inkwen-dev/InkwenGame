@@ -21,4 +21,4 @@ Draw And Save The Stickman is a fun and addictive puzzle game where your creativ
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, Best Games, Casual, Fun, Puzzle, Stickman
+- Tags: 2026 games, Adventure, Best Games, Casual, Fun, Puzzle, stickman

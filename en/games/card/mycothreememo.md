@@ -19,6 +19,6 @@ Welcome to the quiet hunt, mushroom picker! Embark on an exciting journey throug
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Educational, Food, Forest, HTML5, Matching, Puzzle, Summer
+- Tags: card, educational, Food, Forest, HTML5, Matching, Puzzle, Summer

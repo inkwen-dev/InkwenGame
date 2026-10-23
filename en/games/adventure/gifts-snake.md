@@ -19,6 +19,6 @@ Collect gifts with moving the snack without collides it's body You have three ty
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Animal, Baby, Snake
+- Tags: Adventure, Animal, Baby, snake

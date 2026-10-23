@@ -21,4 +21,4 @@ Jump.io this is a very fun game. In this game you need to use all your skill and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 3D, 3D Games, Action, Arcade, jump, Jumping, Race, Racing, run, running, Skill, Skills, Sport, Sports
+- Tags: .io, .io Games, 1 Player, 3D, 3D Games, Action, Arcade, jump, jumping, Race, Racing, run, running, Skill, Skills, Sport, sports

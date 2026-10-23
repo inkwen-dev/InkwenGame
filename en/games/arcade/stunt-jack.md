@@ -21,4 +21,4 @@ Are You the next great Stunt Fly Pumpkin? You will need to have strong nerves an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Boy, Flight, fly, Halloween, HTML, HTML5, Mobile
+- Tags: 2D, Arcade, Boy, flight, fly, Halloween, HTML, HTML5, Mobile

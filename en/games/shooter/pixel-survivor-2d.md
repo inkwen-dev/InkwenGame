@@ -21,4 +21,4 @@ Experience Pixel Survivor 2D, an action-packed 2D game where you navigate a pixe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, HTML5, iPad, iPhone, Mentolatux, Mobile, Pixel, Shoot, Shooting
+- Tags: 2D, HTML5, iPad, iPhone, Mentolatux, Mobile, pixel, Shoot, Shooting

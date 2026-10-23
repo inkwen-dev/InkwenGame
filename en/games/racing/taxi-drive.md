@@ -21,4 +21,4 @@ Heard a lot about the crazy car taxi and the mad cab driver, here the street cab
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Arcade, Casual, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, Jumping, Parking, Race, Taxi
+- Tags: 3D, Action, Adventure, Arcade, Casual, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, jumping, parking, Race, Taxi

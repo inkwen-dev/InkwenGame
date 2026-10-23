@@ -19,6 +19,6 @@ Littlest Pet Shop Coloring Book: A Fantastic Coloring Book For Lovers Of Littles
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Cartoon, Cartoon Network, Color, Coloring, Draw, Drawing, Game, Online, Shopping, Slither, Super
+- Tags: 2D, Animal, Cartoon, Cartoon Network, Color, Coloring, Draw, drawing, Game, Online, Shopping, Slither, Super

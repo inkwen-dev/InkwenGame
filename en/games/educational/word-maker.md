@@ -21,4 +21,4 @@ Word Maker is a fun word puzzle game where you create real words from scrambled 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Educational, Fun, HTML5, Kids, NapTech Games, Puzzle, Word
+- Tags: Click, educational, Fun, HTML5, Kids, NapTech Games, Puzzle, word

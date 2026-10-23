@@ -21,4 +21,4 @@ Welcome to Ramp Car Stunts Racing: Impossible Tracks 3D and hot car stunts game.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Arcade, Car, Cars, Casual, city, Parking, Race, Racing, Strategy, Supercars, Traffic
+- Tags: 3D, Adventure, Arcade, Car, Cars, Casual, city, parking, Race, Racing, strategy, Supercars, Traffic

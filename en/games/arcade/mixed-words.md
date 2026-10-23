@@ -21,4 +21,4 @@ Let find the correct words or correct images
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Matching, Puzzle, Word
+- Tags: Arcade, Matching, Puzzle, word

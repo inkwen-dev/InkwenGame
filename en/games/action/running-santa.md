@@ -19,6 +19,6 @@ Santa Claus need to pass all levels in this game and to collect gifts for all ki
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Collecting, Kids, Platform, Puzzle

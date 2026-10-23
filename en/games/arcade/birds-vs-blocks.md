@@ -21,4 +21,4 @@ Here we come with another cute game where you have to use your mind to make more
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bird, Block, Casual, Hypercasual
+- Tags: Arcade, Bird, block, Casual, Hypercasual

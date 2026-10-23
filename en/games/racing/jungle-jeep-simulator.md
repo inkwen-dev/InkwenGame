@@ -19,6 +19,6 @@ Get ready for an exciting off-road adventure in Jungle Jeep Simulator! Drive pow
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Adventure, Car, jeep, jungle

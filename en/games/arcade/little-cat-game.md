@@ -21,4 +21,4 @@ Alienwolf Studios lets you work as a veterinarian in our animal medical facility
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cat, Educational, Kids
+- Tags: Animal, Cat, educational, Kids

@@ -21,4 +21,4 @@ Klondike Solitaire is a HTML5 Game. Enjoy this stylish version of the classic Kl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Card, Solitaire
+- Tags: 1 Player, card, solitaire

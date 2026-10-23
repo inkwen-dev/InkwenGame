@@ -21,4 +21,4 @@ A spectacular kung fu combat experience is provided by this hero karate game, Ci
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Action, Block, Fight, Fighting, Street Fighting, Unity3D
+- Tags: 1 Player, 3D Games, Action, block, Fight, fighting, Street Fighting, Unity3D

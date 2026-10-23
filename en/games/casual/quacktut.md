@@ -19,6 +19,6 @@ Hello everyone &lt;3 I am pleased to try my first game. I did my best to make my
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Animal, Anime, Cartoon, Cute, Kids, Love, Music
+- Tags: 1 Player, 2D, Animal, Anime, Cartoon, Cute, Kids, Love, music

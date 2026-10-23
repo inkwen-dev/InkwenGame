@@ -19,6 +19,6 @@ Bridge Stick is an arcade game, and the goal of this game is that you need to pa
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bridge, Kids, Puzzle

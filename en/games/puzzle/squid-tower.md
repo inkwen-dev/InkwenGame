@@ -21,4 +21,4 @@ Do you want to become a battle hero? You will find harsh towers with countless e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Match 3, Math, Puzzle
+- Tags: Adventure, Match 3, math, Puzzle

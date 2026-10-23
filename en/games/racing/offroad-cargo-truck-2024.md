@@ -21,4 +21,4 @@ The 2024 Offroad Cargo Truck roars through lush forest trails, showcasing its ru
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Forest, Mentolatux, offroad, Simulator, Truck, Unity3D, WebGL
+- Tags: Driving, Forest, Mentolatux, offroad, Simulator, truck, Unity3D, WebGL

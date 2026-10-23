@@ -21,4 +21,4 @@ Ready for a hot feast of square battles? In Minecraft Battle Party, youll enter 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fight, Funny, Minecraft
+- Tags: battle, Fight, Funny, Minecraft

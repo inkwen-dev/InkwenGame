@@ -21,4 +21,4 @@ Complete each level in the longest form possible. Cat’s body part will be coll
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Cat, Cool, Cute, Game, Games, Mind, Point And Click, Puzzle
+- Tags: 2D, Cat, cool, Cute, Game, Games, Mind, Point And Click, Puzzle

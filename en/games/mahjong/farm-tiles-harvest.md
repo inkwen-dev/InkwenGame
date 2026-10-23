@@ -19,6 +19,6 @@ Experience top-rated farm-themed tile matching in Farm Tile Harvest! Draw up to 
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Farm, html5 games, Mahjong, Matching, Mobile, Puzzle, Skill
+- Tags: Farm, html5 games, mahjong, Matching, Mobile, Puzzle, Skill

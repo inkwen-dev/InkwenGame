@@ -21,4 +21,4 @@ Pixel Hunting is a game that requires you to pick up the gun in front of you bef
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Pixel, Shooter, Shooting
+- Tags: 3D, pixel, Shooter, Shooting

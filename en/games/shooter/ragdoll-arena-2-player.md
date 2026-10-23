@@ -21,4 +21,4 @@ Ragdoll Arena 2 Player consists of 14 super cool and challenging 2 player games.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 3D, Action, Arcade, Battle, Boxing, Casual, Chicken, Fight, Fighting, HTML5, hunter, Matching, Shooting
+- Tags: 2 Player, 3D, Action, Arcade, battle, Boxing, Casual, Chicken, Fight, fighting, HTML5, hunter, Matching, Shooting

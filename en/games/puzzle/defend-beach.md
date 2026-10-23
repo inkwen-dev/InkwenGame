@@ -19,6 +19,6 @@ The enemy is coming from the sea. The player's goal is to guard the beach and pr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Hypercasual, Puzzle, World

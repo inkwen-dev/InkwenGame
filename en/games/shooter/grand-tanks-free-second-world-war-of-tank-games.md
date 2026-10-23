@@ -21,4 +21,4 @@ Tank defender – this is a game about the defense of their territories from ene
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adult, Adventure, Arcade, Battle, Bomb, Boy, Family, Girl, HTML, HTML5, Hypercasual, War, WebGL
+- Tags: Action, Adult, Adventure, Arcade, battle, Bomb, Boy, Family, Girl, HTML, HTML5, Hypercasual, War, WebGL

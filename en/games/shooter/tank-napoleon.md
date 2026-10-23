@@ -19,6 +19,6 @@ You are the commander of a tank brigade - collect unique tanks to your taste and
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Strategy, Tank, Tanks, War
+- Tags: battle, strategy, Tank, tanks, War

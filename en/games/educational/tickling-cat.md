@@ -21,4 +21,4 @@ Tickling Cat game has a lot of success review and player this MONTH that signifi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cat, Educational, Kid, Kids, King
+- Tags: Cat, educational, Kid, Kids, King

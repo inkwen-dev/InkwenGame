@@ -19,6 +19,6 @@ Angry Birdz is a captivating physics-based mobile game that challenges players t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bird, Hypercasual

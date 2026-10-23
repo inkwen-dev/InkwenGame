@@ -21,4 +21,4 @@ Space Brawlers is a Non-Stop Action Packed Sci-fi Top-Down Shooter! Choose from 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Brawl, Cartoon, Shoot, Shooter, Shooting, Tanks, Top Down, weapons
+- Tags: Action, Arcade, Brawl, Cartoon, Shoot, Shooter, Shooting, tanks, Top Down, weapons

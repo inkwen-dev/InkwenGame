@@ -19,6 +19,6 @@ The thrill of 4x4 hill car driving in jeep games 4x4 lies in adding a new dimens
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Driving, HTML5, Mobile, Supercars, Truck, Unity3D, WebGL
+- Tags: Android, Driving, HTML5, Mobile, Supercars, truck, Unity3D, WebGL

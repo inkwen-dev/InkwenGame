@@ -21,4 +21,4 @@ Are you looking for Driving Games? Racing Games? Fun Games? You got it right! Bi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Car, Motorcycle, Race, Racing, World
+- Tags: bike, Car, Motorcycle, Race, Racing, World

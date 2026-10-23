@@ -21,4 +21,4 @@ Dots.io 是一款精彩的点点对战游戏。你将从一个小小的灰色圆
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io游戏, 街机, 轻度休闲, 多人
+- 标签: .io, .io 游戏, 街机, 超休闲, 多人

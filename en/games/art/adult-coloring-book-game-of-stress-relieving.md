@@ -19,6 +19,6 @@ Enjoy our lovely coloring book – Relax Color by Number! Do you want to relieve
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Best, Color, Coloring, Draw, Drawing, Hot, Kids, New, Princess, Relaxation
+- Tags: Adult, Best, Color, Coloring, Draw, drawing, Hot, Kids, New, Princess, Relaxation

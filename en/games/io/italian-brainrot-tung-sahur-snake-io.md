@@ -21,4 +21,4 @@ Italian Brainrot Tung Sahur Snake.io is a hilarious and chaotic twist on the cla
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Slither, Snake
+- Tags: Brain, Slither, snake

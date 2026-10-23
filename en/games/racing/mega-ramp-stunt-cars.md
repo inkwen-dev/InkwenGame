@@ -19,6 +19,6 @@ Mega Ramp Stunt Cars is an adventurous driving game developed by CoolMathGamesKi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Driving, Racing, Stunts, Unity3D, WebGL

@@ -19,6 +19,6 @@ Everyone knows that the symbol of this year is the Blue Water Tiger! The blue co
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Christmas, Cute, Doctor, Dress Up, Fashion, Holiday, HTML5, Snow, Winter

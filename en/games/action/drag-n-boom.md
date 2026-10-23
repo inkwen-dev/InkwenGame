@@ -19,6 +19,6 @@ DragnBoom is a fun old-school arcade game combining speed and precision! &bull; 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Arcade, Cartoon Network, dash, Dragon, Mario, running, Skills
+- Tags: 1 Player, Action, Adventure, Arcade, Cartoon Network, dash, Dragon, mario, running, Skills

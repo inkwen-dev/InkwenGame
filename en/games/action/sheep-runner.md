@@ -19,6 +19,6 @@ An endless game play full of different obstacles, make your sheep character runn
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Balance, Cat, Click, Horse, Kid, Kids
+- Tags: Animal, Balance, Cat, Click, horse, Kid, Kids

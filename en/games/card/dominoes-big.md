@@ -21,4 +21,4 @@ The player with the highest double (double 6 therefore) begins the domino game. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Card, Casual, Puzzle, Strategy
+- Tags: Board, card, Casual, Puzzle, strategy

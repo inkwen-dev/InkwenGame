@@ -19,6 +19,6 @@ Draw your way to rescue in a world of zombies and thrilling quests. Complete all
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Draw, Drawing, Escape, HTML5, Hypercasual, Logic, Logical, Movie, Puzzle, Rescue, weapons, WebGL, Zombie
+- Tags: 1 Player, Draw, drawing, Escape, HTML5, Hypercasual, Logic, Logical, Movie, Puzzle, Rescue, weapons, WebGL, Zombie

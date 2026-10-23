@@ -21,4 +21,4 @@ The little princess will hold a grand ball in the castle. She is planning to red
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cleaning, Creation, Cute, Decorate, Design, Educational, Girl, Girls, Kids, Simulation
+- Tags: Cleaning, Creation, Cute, Decorate, Design, educational, Girl, Girls, Kids, Simulation

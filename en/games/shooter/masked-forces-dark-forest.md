@@ -19,6 +19,6 @@ Masked Forces: Dark Forest is an epic first-person shooter game in which you mus
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fantasy, Shooting, Unity3D, weapons, WebGL

@@ -21,4 +21,4 @@ To win the level, you must make yourself stronger and defeat the boss. This can 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Avoid, Boy, Boys, Collecting, Fight, Fighting, Kid, Kids, Obstacle, Punch, Puzzle, run, Stickman
+- Tags: Action, Avoid, Boy, Boys, Collecting, Fight, fighting, Kid, Kids, Obstacle, Punch, Puzzle, run, stickman

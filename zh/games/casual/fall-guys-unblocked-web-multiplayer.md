@@ -21,4 +21,4 @@ Fall Guys 无限制网页多人游戏将你直接带入快速、混乱的障碍�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2025 游戏, 秋季男孩, Fall Guys, 跳跃, Mentolatux, 多人, 障碍, unity游戏, WebGL
+- 标签: 2025年游戏, 跌倒男孩, Fall Guys, 跳跃, Mentolatux, 多人, 障碍, unity游戏, WebGL

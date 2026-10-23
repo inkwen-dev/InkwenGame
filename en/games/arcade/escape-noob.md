@@ -21,4 +21,4 @@ In this adventure, the noob is escaping from his own clone. The clone is a very 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Block, Minecraft, Pixel
+- Tags: 1 Player, 2D, Adventure, Arcade, block, Minecraft, pixel

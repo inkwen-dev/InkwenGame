@@ -21,4 +21,4 @@ Use the mouse to play Your goal is to get a value as close to 21 points as possi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casino, Solitaire
+- Tags: card, Casino, solitaire

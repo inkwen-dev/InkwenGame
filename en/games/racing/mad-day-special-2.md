@@ -21,4 +21,4 @@ Battle the oncoming Alien Invasion of Earth in this epic racer to rescue your be
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Alien, Battle, Car, Cars, WebGL
+- Tags: 2D, Action, Alien, battle, Car, Cars, WebGL

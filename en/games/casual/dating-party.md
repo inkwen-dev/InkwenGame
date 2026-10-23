@@ -19,6 +19,6 @@ The most beautiful princess Mia and Bella are going to attend the dating party t
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Barbie, Boys, Craft, Dating, Dora, Girls, Kids, Mario
+- Tags: Barbie, Boys, Craft, Dating, Dora, Girls, Kids, mario

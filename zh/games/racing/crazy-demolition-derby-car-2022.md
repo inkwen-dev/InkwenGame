@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 疯狂, 多人游戏, 竞速, Unity3D, WebGL
+- 标签: 疯狂, 多人, 竞速, Unity3D, WebGL

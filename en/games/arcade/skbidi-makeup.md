@@ -21,4 +21,4 @@ Skbidi MakeUp is a Makeup Run Kit time ,become a nice skibidi and Give your girl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Android, Arcade, HTML5, Hypercasual, Interactive, Mobile, Skibidi, Skibidi Toilet
+- Tags: Adventure, Android, Arcade, HTML5, Hypercasual, Interactive, Mobile, Skibidi, skibidi-toilet

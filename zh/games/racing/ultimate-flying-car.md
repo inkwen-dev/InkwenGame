@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人, 2 Player Games, 驾驶, 飞行, 飞翔, 赛车, 特技, 超级跑车
+- 标签: 双人, 双人游戏, 驾驶, 飞行, 飞, 竞速, 特技, 超跑

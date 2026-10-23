@@ -19,6 +19,6 @@ Mice Rush is a fast-paced 3D endless runner where you control a little mouse rac
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Casual, Collecting, endless, jump, Jumping, Mouse, Obstacle, run, running
+- Tags: Avoid, Casual, Collecting, endless, jump, jumping, Mouse, Obstacle, run, running

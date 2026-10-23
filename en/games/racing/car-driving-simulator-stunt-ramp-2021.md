@@ -19,6 +19,6 @@ Take control of amazing tuning cars and try to complete a mid-air track with 13 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Car, Cars, Fight, Fighting, Hypercasual, Race, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D
+- Tags: 3D, 3D Games, Arcade, Car, Cars, Fight, fighting, Hypercasual, Race, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D

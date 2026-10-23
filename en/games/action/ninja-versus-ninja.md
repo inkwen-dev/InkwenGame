@@ -21,4 +21,4 @@ Ninja Versus Ninja is a non-violent simple yet fun battle arena fighting game. P
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Fighting
+- Tags: 1 Player, 2D, Action, fighting

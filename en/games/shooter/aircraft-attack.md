@@ -21,4 +21,4 @@ Play this fun airplane shooting game Aircraft Attack! Shoot down enemy planes, c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Aircraft, Flight, Helicopter, HTML5, Mobile, Plane, Shooting
+- Tags: Aircraft, flight, helicopter, HTML5, Mobile, Plane, Shooting

@@ -19,6 +19,6 @@ Welcome to the garden of your dream and develop your ability to clean, repair an
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cleaning, Decoration, Game

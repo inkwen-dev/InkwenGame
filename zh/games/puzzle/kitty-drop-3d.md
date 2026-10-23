@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 方块, 益智, 猫, 地图游戏, 物理, 益智
+- 标签: 方块, 大脑, 猫, mapi games, 物理, 益智

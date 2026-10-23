@@ -21,4 +21,4 @@ A horde of horrible monsters is attacking your kingdom, build your towers fast a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mobile, popular, pve, Strategy, Tower Defense
+- Tags: Mobile, popular, pve, strategy, Tower Defense

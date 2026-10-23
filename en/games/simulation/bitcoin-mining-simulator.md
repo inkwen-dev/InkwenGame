@@ -21,4 +21,4 @@ The smash-hit idle clicker where you mine virtual bitcoins to mass a simulated f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Business, Classic, Click, Clicker, Relaxation, Simulation, Simulator, Strategy
+- Tags: 1 Player, Business, Classic, Click, Clicker, Relaxation, Simulation, Simulator, strategy

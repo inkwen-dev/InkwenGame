@@ -21,4 +21,4 @@ Play this slide puzzle games of the police cars. It's include 3 images and 3 mod
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, HTML5, Mobile, Police
+- Tags: Car, HTML5, Mobile, police

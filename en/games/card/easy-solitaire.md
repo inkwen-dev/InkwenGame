@@ -21,4 +21,4 @@ Play the simplest solitaire game you can find online. In this game you will be a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Solitaire
+- Tags: card, solitaire

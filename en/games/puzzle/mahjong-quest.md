@@ -21,4 +21,4 @@ Start off your Mahjong journey in this classic oriental solitaire puzzle game! T
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, HTML5, Mahjong, Match 3, Puzzle, Solitaire
+- Tags: Board, HTML5, mahjong, Match 3, Puzzle, solitaire

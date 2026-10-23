@@ -27,4 +27,4 @@ Yes, but it starts out easy. As you progress, you reach higher difficulty levels
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Ball, Classic, Mobile, Pool, Puzzle
+- Tags: Ball, Classic, Mobile, pool, Puzzle

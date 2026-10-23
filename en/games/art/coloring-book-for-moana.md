@@ -21,4 +21,4 @@ Are you into Moana ? Moana Coloring Book: A Stunning Coloring Book Including Man
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Cartoon, Color, Coloring, Draw, Drawing, Game, Kids, Movie, Online, Puzzle
+- Tags: Anime, Cartoon, Color, Coloring, Draw, drawing, Game, Kids, Movie, Online, Puzzle

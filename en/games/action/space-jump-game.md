@@ -21,4 +21,4 @@ Space Jump Astronaut jump from rock to cliff
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, jump, Jumping, run, running
+- Tags: Adventure, Arcade, jump, jumping, run, running

@@ -21,4 +21,4 @@ Slide into the addictive chaos of 2048! Merge tiles, double up, and chase that e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2048, Block, Brain, Puzzle
+- Tags: 1 Player, 2 Player, 2048, block, Brain, Puzzle

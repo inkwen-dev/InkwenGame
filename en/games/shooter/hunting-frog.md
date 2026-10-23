@@ -21,4 +21,4 @@ Dive into the whimsical world of Hunting Frog, an addictive, easy-to-play game t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Shooter, Shooting, Sniper
+- Tags: Adventure, Shooter, Shooting, sniper

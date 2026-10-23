@@ -19,6 +19,6 @@ Enjoy the sequel to a classic arcade Zuma Boom game. Shoot colored balls to crea
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble Shooter, Classic, Match 3, Match3, Zuma

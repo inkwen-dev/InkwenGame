@@ -21,4 +21,4 @@ SciWhy Easy&ndash; The Fun Science Quiz Adventure for Kids made much easier to h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Educational, Quiz, Science
+- Tags: Best Games, educational, Quiz, Science

@@ -19,6 +19,6 @@ The mind-blowing motocross stunt competitions are not to be missed. Add to the g
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Bike, Driving, HTML5, Mobile, Moto, Motorcycle, Stunts
+- Tags: Android, bike, Driving, HTML5, Mobile, Moto, Motorcycle, Stunts

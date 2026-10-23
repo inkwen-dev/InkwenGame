@@ -19,6 +19,6 @@ Welcome to Pokimon coonect Puzzle Game! Tap or click on two identical pokimon Ti
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Hot, Match3, Matching, Pokemon, Puzzle

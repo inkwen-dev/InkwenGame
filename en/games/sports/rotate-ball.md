@@ -21,4 +21,4 @@ Rotate the objects around the screen to help land all of the balls into the goal
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Baseball, Basketball, Hypercasual, Physics
+- Tags: Ball, baseball, basketball, Hypercasual, Physics

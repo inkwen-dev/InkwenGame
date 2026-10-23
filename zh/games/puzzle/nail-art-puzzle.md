@@ -1,0 +1,24 @@
+# 指甲艺术拼图
+
+<a href="https://inkwengame.com/zh/games/nail-art-puzzle" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/nail-art-puzzle/cover.jpg)
+
+您想将拼图块组合起来，从彼此中看到美丽的指甲造型吗？
+
+## 怎么玩
+
+左键点击 触控
+
+## 介绍
+
+您想将拼图块组合起来，从彼此中看到美丽的指甲造型吗？
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/puzzle" target="_blank" rel="noopener noreferrer">益智</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 安卓, 拼图, 改造, 移动设备, 美甲, 美甲

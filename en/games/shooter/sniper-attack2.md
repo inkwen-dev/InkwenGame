@@ -21,4 +21,4 @@ Sniper Attack2：A fast-paced sniper shooting game. Aim carefully, eliminate ene
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Army, Boys, First Person Shooter, Gun, Shooting, Skill, Sniper
+- Tags: 3D, Action, Army, Boys, First Person Shooter, Gun, Shooting, Skill, sniper

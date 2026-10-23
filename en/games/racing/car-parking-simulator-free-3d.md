@@ -21,4 +21,4 @@ You like parking car? Try RCC Car Parking 3D in unique 100 levels, your mission 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, 3D Games, Action, Adventure, Arcade, Car, Cars, Casual, Fun, Funny, Hot, Hypercasual, Parking, Race, Racing, Supercars
+- Tags: .io Games, 3D, 3D Games, Action, Adventure, Arcade, Car, Cars, Casual, Fun, Funny, Hot, Hypercasual, parking, Race, Racing, Supercars

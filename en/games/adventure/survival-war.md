@@ -19,6 +19,6 @@ Survival War is an exciting survival adventure game where you explore a mysterio
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Classic, Fun, survival, War

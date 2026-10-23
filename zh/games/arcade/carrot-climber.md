@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, HTML5, HTML5游戏, 超休闲, 跳跃, NapTech Games
+- 标签: 街机, HTML5, HTML5游戏, 超休闲, 跳跃, NapTech 游戏

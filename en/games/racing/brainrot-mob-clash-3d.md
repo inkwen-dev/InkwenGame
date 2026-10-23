@@ -21,4 +21,4 @@ Welcome to the wild and chaotic world of Brainrot Mob Clash 3D. It&rsquo;s a ful
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fighting, Obstacle, Racing, Stickman
+- Tags: fighting, Obstacle, Racing, stickman

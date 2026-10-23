@@ -21,4 +21,4 @@ Construction Simulator: City Building Games you will not only drive a snow excav
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Best Games, Bricks, city, Crazy
+- Tags: 3D, 3D Games, Adventure, Best Games, Bricks, city, crazy

@@ -21,4 +21,4 @@ wasd - 移动 - 使用鼠标瞄准和换枪 - tab - 菜单
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 射击, 射击, 射击, Unity3D, WebGL, 僵尸
+- 标签: 射击, 射击类, 射击, Unity3D, WebGL, 僵尸

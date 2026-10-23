@@ -15,6 +15,6 @@ Ant Destroyer 2 challenges you to unleash your tapping skills in a fast-paced, i
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Action

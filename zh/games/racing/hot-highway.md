@@ -21,4 +21,4 @@ WASD或方向键控制转向、加速、刹车 空格键手刹 左Shift键氮气
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 动作, 躲避, 汽车, 竞速
+- 标签: 3D, 动作, 躲避, 汽车, 比赛

@@ -15,6 +15,6 @@ Unleash your perceptive prowess in How Many Mice, where your quest is to discern
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: trivia

@@ -19,6 +19,6 @@ Infinity Golf is a simple golf game where you can compete with yourself. The con
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Ball, Golf, Hypercasual, Skill, Sports
+- Tags: 1 Player, Ball, golf, Hypercasual, Skill, sports

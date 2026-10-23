@@ -21,4 +21,4 @@ Wood Block Puzzle - Classic Block Puzzle Game, which also named Qblock is a clas
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Block, Brain, Casual, Funny, Puzzle
+- Tags: 1 Player, 2D, block, Brain, Casual, Funny, Puzzle

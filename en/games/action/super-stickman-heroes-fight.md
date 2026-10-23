@@ -19,6 +19,6 @@ Super Stickman Heroes est le meilleur jeu d'arcade d'action et de combat sur Goo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting, Stickman, Superhero
+- Tags: Fight, fighting, stickman, Superhero

@@ -15,6 +15,6 @@ Unleash your inner stunt master in Extreme Stunt Car Game, where daring maneuver
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: offroad

@@ -21,4 +21,4 @@ Skibidi Dungeon Of Doom is an epic adventure through 100 levels of monsters, tra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, HTML, HTML5, Mobile, Puzzle, Skibidi, Skibidi Toilet
+- Tags: Boy, HTML, HTML5, Mobile, Puzzle, Skibidi, skibidi-toilet

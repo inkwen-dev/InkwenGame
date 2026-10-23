@@ -19,6 +19,6 @@ Run as fast as you can! An infinite runner game where the goal is to collect shu
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, jump, Kids, Mobile, Ninja
+- Tags: Fun, HTML5, jump, Kids, Mobile, ninja

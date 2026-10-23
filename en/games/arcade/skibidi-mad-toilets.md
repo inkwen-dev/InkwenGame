@@ -21,4 +21,4 @@ Skibidi: Mad Toilets is an exhilarating game that pushes the boundaries of toile
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, HTML5, Mobile, Skibidi Toilet
+- Tags: 1 Player, 2D, Adventure, Arcade, HTML5, Mobile, skibidi-toilet

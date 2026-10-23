@@ -19,6 +19,6 @@ Pixel Art Coloring Book is fun online coloring game for girls and boys. Choose o
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Animal, Boys, Cartoon, Coloring, Fun, Girls, HTML5, Kids, Pixel, School
+- Tags: Android, Animal, Boys, Cartoon, Coloring, Fun, Girls, HTML5, Kids, pixel, School

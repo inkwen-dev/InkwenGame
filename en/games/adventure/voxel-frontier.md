@@ -19,6 +19,6 @@ Voxel Frontier is a Minecraft parody that is VoxelWork Games very first project.
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: building, Cool, Forest, free games for your site, mineblock, Minecraft, survival
+- Tags: building, cool, Forest, free games for your site, mineblock, Minecraft, survival

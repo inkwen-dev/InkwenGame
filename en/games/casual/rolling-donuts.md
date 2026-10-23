@@ -21,4 +21,4 @@ Fight against an army of evil dentures ready to eat you! Avoid them or try to ju
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Avoid, Cartoon, Casual, Collecting, Hypercasual, Jumping, Pixel, Retro
+- Tags: 1 Player, 2D, Avoid, Cartoon, Casual, Collecting, Hypercasual, jumping, pixel, retro

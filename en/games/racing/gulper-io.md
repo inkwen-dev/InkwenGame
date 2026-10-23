@@ -21,4 +21,4 @@ Gulper.io is an awesome multiplayer snake game that takes inspiration from Slith
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2D, Collecting, HTML5, Multiplayer, Racing, Slither, Snake
+- Tags: .io, .io Games, 2D, Collecting, HTML5, Multiplayer, Racing, Slither, snake

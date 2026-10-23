@@ -21,4 +21,4 @@ It’s time to wake up your brain and step it up for this challenge! In Stack Bl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Block, Hypercasual, Physics, Stack
+- Tags: 3D, block, Hypercasual, Physics, Stack

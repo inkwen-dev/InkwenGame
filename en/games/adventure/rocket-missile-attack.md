@@ -21,4 +21,4 @@ Gear up for an electrifying adventure in Rocket Missile Attack, the ultimate mis
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Bullet, Gun, Launch, Rocket, Tank, Tanks, War, Warrior
+- Tags: Army, Bullet, Gun, Launch, Rocket, Tank, tanks, War, Warrior

@@ -19,6 +19,6 @@ Ready to conquer the tallest towers? In this game its real! Climb higher and hig
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Baby, Clicker, Fighting, fly, jump, Jumping, Mobile, Multiplayer, roblox, Simulation, Simulator, sky
+- Tags: Animal, Arcade, Baby, Clicker, fighting, fly, jump, jumping, Mobile, Multiplayer, roblox, Simulation, Simulator, sky

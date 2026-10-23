@@ -21,4 +21,4 @@ Swipe and match 3 or more adjacent fruit candies to complete missions and clear 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Candy, Casual, Fruit, Fruits, Jewel, Match 3, Match3, Matching, Memory, Puzzle
+- Tags: Candy, Casual, Fruit, Fruits, Jewel, Match 3, Match3, Matching, memory, Puzzle

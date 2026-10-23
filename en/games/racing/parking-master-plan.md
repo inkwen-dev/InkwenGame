@@ -21,4 +21,4 @@ Get familiar with a new Car Parking Fun Driving School: Car Games 2020 in era of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 3D, 3D Games, Action, Arcade, Cars, Hypercasual, Parking, Race, Racing, Supercars
+- Tags: .io, 3D, 3D Games, Action, Arcade, Cars, Hypercasual, parking, Race, Racing, Supercars

@@ -21,4 +21,4 @@ Ultimate Disk - Frisbee Throwing Disc is fun flying disc game. All you have to d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Casual, Shooting, Sport, Sports
+- Tags: Action, Arcade, Casual, Shooting, Sport, sports

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 休闲, 可爱, 跳跃, 跳躍, 怪物, 企鹅
+- 标签: 冒险, 休闲, 可爱, 跳跃, 跳跃, monster, 企鹅

@@ -21,4 +21,4 @@ Shape Connect 是一款可爱又有趣的益智游戏，孩子们可以通过帮
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 婴儿游戏, 大脑, 教育, HTML5, 儿童, 匹配, NapTech Games, 拼图
+- 标签: 婴儿游戏, 大脑, 教育, HTML5, 儿童, 匹配, NapTech 游戏, 益智

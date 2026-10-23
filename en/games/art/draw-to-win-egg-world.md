@@ -21,4 +21,4 @@ Get ready to put your doodling skills to the ultimate test in Draw To Win! Your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Draw, Drawing, egg, eggames, eggs, Fun, Kids, Logic, Puzzle, puzzleblock
+- Tags: Draw, drawing, egg, eggames, eggs, Fun, Kids, Logic, Puzzle, puzzleblock

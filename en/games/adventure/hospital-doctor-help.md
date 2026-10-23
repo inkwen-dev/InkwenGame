@@ -19,6 +19,6 @@ This time you will become their doctor in your own hospital and cure some unusua
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, surfers, Surgery
+- Tags: Doctor, surfers, surgery

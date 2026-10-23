@@ -21,4 +21,4 @@ Word search HTML5 is a game that consists of more puzzle word searches with cele
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Puzzle, Word
+- Tags: Puzzle, word

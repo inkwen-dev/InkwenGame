@@ -19,6 +19,6 @@ Monster Haul is a fast pixel-art monster-survival brawler. Move, aim, and blast 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Monster, Pixel, Shooter, survival
+- Tags: 2D, Arcade, monster, pixel, Shooter, survival

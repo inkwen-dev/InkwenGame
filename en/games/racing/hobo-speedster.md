@@ -21,4 +21,4 @@ Hobo Speedster is an exciting motorcycle platform BMX game featuring 2D cartoon 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, BMX, Car, Casual, Kids, Motorcycle, Sports
+- Tags: 2D, BMX, Car, Casual, Kids, Motorcycle, sports

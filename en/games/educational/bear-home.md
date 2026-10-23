@@ -19,6 +19,6 @@ This is a funny, challenging and an Educational game. In this game you need to c
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, HTML5, Kids, Math, Mind, Mobile, Number, School
+- Tags: educational, HTML5, Kids, math, Mind, Mobile, Number, School

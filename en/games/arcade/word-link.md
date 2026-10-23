@@ -21,4 +21,4 @@ Concentrate to find all hidden words in given letters and connect them anyway yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Puzzle, Word
+- Tags: Arcade, Puzzle, word

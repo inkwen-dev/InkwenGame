@@ -21,4 +21,4 @@ Idle tower defense on a tiny island. Your lighthouse fires magic bolts at crabs,
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Arcade, idle, Skill, Strategy, Tower Defense
+- Tags: 3D, Action, Arcade, idle, Skill, strategy, Tower Defense

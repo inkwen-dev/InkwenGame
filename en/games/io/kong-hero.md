@@ -21,4 +21,4 @@ Run, jump, attack, explore. Cross the various dangers and reach the destination.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2D, Adventure, Arcade, Battle, Battlegrounds, Boy, Game, Girls, jump, Platform, PvP, run, Samurai, WebGL
+- Tags: .io, .io Games, 1 Player, 2D, Adventure, Arcade, battle, Battlegrounds, Boy, Game, Girls, jump, Platform, PvP, run, Samurai, WebGL

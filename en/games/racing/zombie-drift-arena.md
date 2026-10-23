@@ -21,4 +21,4 @@ You must try Zombie Drift Arena to play a fun drift game. You have to drift in t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Arena, Battle, Car, Cars, Cartoon, Crazy, drift, drifting, Escape, Fun, Hypercasual, Race, Racing, Road, Simulator, Supercars, WebGL, Zombie
+- Tags: 1 Player, 3D, Arena, battle, Car, Cars, Cartoon, crazy, drift, drifting, Escape, Fun, Hypercasual, Race, Racing, Road, Simulator, Supercars, WebGL, Zombie

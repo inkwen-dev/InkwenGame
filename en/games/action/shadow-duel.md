@@ -30,4 +30,4 @@ A one-on-one ninja duel drawn in ink and moonlight. Read your rival, guard, then
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Fighting, Ninja, Skill
+- Tags: Action, fighting, ninja, Skill

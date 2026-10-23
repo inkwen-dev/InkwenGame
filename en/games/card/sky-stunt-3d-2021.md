@@ -21,4 +21,4 @@ Are you ready for driving on the sky road to perform impossible car stunt. Get b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Arcade, Best, Bike, Car, Card, Cars, Driving, Parking, Plane, Race, Racing, Simulation, Simulator, sky, Stunts, Supercars, Truck
+- Tags: 1 Player, Adventure, Arcade, Best, bike, Car, card, Cars, Driving, parking, Plane, Race, Racing, Simulation, Simulator, sky, Stunts, Supercars, truck

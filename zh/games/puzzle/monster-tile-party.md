@@ -27,4 +27,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 消除三连, 配对, 怪物, 益智
+- 标签: 三消, 匹配, monster, 益智

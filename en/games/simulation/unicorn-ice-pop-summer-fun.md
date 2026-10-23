@@ -21,4 +21,4 @@ Unicorn Ice Pop is the best ice cream game to make ice pops and popsicles. For i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cook, Cooking, Educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Ice, Kid, Kids, Summer
+- Tags: Cook, Cooking, educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Ice, Kid, Kids, Summer

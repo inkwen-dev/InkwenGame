@@ -19,6 +19,6 @@ In this game Cars Differences you need to keep locate differences between the tw
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Car, Cars, Casual, Difference, Fun, Kids, Mobile, Skill, Supercars

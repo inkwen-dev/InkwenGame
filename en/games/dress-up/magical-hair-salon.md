@@ -19,6 +19,6 @@ Magical Hair Salon is a very fashionable game.In this game you have the freedom 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cute, Dress Up, Fun, Girls, Hair, HTML5, Kids, Magic, Mobile

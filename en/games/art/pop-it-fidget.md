@@ -19,6 +19,6 @@ Have fun playing Pop it Fidget. The object of the game is to tap all the circles
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Baby, Candy, Clicker, Coloring, Cute, Design, HTML5, Relaxation

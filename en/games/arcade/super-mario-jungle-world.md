@@ -21,4 +21,4 @@ A new kind of Mario game that you can play with one hand. You control Mario by t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2D, Adventure, Arcade, Mario
+- Tags: 2 Player, 2D, Adventure, Arcade, mario

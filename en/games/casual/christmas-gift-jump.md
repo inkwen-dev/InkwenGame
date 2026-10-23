@@ -21,4 +21,4 @@ Christmas Gift Jumpis a fun and festive arcade game designed to bring holiday ch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Best Games, Casual, Christmas, Clicker, Games, Hypercasual, jump, Jumping
+- Tags: 2D, Best Games, Casual, Christmas, Clicker, Games, Hypercasual, jump, jumping

@@ -21,4 +21,4 @@ Rope Swing is a cool game where you have to use your rope to swing through the l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Clicker, Hot, Hypercasual, Stickman
+- Tags: Arcade, Best, Clicker, Hot, Hypercasual, stickman

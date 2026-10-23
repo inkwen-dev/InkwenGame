@@ -21,4 +21,4 @@ The streets are disrupted and the forces of evil are at work. Enjoy an arcade-st
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fight, Street Fighting, Warrior
+- Tags: battle, Fight, Street Fighting, Warrior

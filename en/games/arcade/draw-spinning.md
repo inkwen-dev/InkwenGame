@@ -21,4 +21,4 @@ Draw a blade for spinning top and fight the opponent! How creative can you be? V
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 3D, Action, Adventure, Arcade, Cartoon, Color, Draw, Drawing, Kids
+- Tags: 2 Player Games, 3D, Action, Adventure, Arcade, Cartoon, Color, Draw, drawing, Kids

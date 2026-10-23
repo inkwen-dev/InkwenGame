@@ -21,4 +21,4 @@ Welcome to the Public Tricycle Rickshaw Driver long drive highway, realistic cyc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Boys, city, Driving, HTML5, Simulator
+- Tags: bike, Boys, city, Driving, HTML5, Simulator

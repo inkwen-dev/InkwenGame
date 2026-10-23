@@ -21,4 +21,4 @@ Burger shop is a management game where you have to serve your customer and give 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Cook, Cooking, Girl, Girls, IO
+- Tags: .io, .io Games, Cook, Cooking, Girl, Girls

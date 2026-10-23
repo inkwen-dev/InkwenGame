@@ -19,6 +19,6 @@ An addicted typical arcade game, simple to play, nice design, fun and relax-able
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Casual, Fruits, Games, HTML5, Hypercasual, Mobile, Ninja, Simulation, Slicing
+- Tags: Best, Casual, Fruits, Games, HTML5, Hypercasual, Mobile, ninja, Simulation, Slicing

@@ -19,6 +19,6 @@ Xmas is coming. Santa need gifts for childrens. Help Santa to collect more gifts
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, HTML5, Platform, Snow

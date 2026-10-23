@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2026 games, Adventure, 惊人的, 最佳, Best Games, 大脑, 疯狂, 轻度休闲, 思维
+- 标签: 单人, 2026 游戏, 冒险, 惊人, 最佳, 最佳游戏, 大脑, 疯狂, 超休闲, 思维

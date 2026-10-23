@@ -21,4 +21,4 @@ This Halloween we bring you a simple pair-matching game what could possibly go w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Card, Halloween, Puzzle, Witch, Wizard
+- Tags: 1 Player, 2D, card, Halloween, Puzzle, Witch, Wizard

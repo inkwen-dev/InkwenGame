@@ -21,4 +21,4 @@ Skibidi Toilet Rush 是一款有趣的在线游戏，您可以免费游玩。无
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 避开, 男孩, 超休闲, 跳跃, 击杀, 平台, 跑, 斯基比迪马桶, 技巧
+- 标签: 街机, 躲避, 男孩, 超休闲, 跳跃, 杀戮, 平台, 跑, skibidi-toilet, 技巧

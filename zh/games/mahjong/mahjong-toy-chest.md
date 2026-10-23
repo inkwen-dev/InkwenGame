@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 3D游戏, 冒险, 街机, HTML, HTML5, 儿童, 儿童, 麻将, 解谜
+- 标签: 单人, 2D, 3D游戏, 冒险, 街机, HTML, HTML5, 儿童, 儿童, mahjong, 益智

@@ -21,4 +21,4 @@ Fun Bear Block Puzzle is a classic and engaging block puzzle game that challenge
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, 2D, Adventure, amazing, Block, Brainrot, Puzzle, puzzleblock, Strategy, touchscreen
+- Tags: 1 Player, 2025 games, 2D, Adventure, amazing, block, Brainrot, Puzzle, puzzleblock, strategy, touchscreen

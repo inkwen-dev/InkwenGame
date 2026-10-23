@@ -21,4 +21,4 @@ This game consists 4 different game. Those are Coloring Game,Jigsaw Puzzle Game,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Anime, Batman, Cartoon, Cartoon Network, Color, Coloring, Draw, Drawing, Educational, Math, Puzzle
+- Tags: Action, Adventure, Anime, Batman, Cartoon, Cartoon Network, Color, Coloring, Draw, drawing, educational, math, Puzzle

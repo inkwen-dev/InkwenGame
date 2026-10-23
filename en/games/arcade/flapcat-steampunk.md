@@ -19,6 +19,6 @@ FlapCat Steampunk’s newest game based on the blockbuster games flap. Help the 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Best, Boys, Casual, Cat, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Puzzle

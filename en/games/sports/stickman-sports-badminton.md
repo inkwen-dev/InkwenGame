@@ -19,6 +19,6 @@ Different Stickman characters meet in Stickman Sports Badminton game! The game 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 3D Games, Classic, Retro, Sports, Stickman
+- Tags: 2 Player Games, 3D Games, Classic, retro, sports, stickman

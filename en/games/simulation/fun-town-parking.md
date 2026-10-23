@@ -27,4 +27,4 @@ Experience the excitement of **Fun Town Parking**, a dynamic parking simulation 
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: Car, Driving, Parking, Simulation
+- Tags: Car, Driving, parking, Simulation

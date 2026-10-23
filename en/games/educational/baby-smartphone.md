@@ -21,4 +21,4 @@ This fun educational game is the perfect tool to engage your little one in a wor
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Casual, Educational, Family, free html5 games for your website, HTML, iPhone, Kid, Kids, mapi games
+- Tags: Animal, Casual, educational, Family, free html5 games for your website, HTML, iPhone, Kid, Kids, mapi games

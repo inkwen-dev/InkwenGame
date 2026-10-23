@@ -21,4 +21,4 @@ Gap Ball 3D 的特色：- 多个关卡 - 简单的游戏玩法
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 球类, 物理, Unity3D, WebGL
+- 标签: 球, 物理, Unity3D, WebGL

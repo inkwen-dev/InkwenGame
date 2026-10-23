@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 益智, 收藏, 建设
+- 标签: 大脑, 收藏, 建造

@@ -21,4 +21,4 @@ Desktop A - Move Left D - Move Right Space Bar - Shoot Mobile Devices Touch Butt
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Casual, HTML5, Retro, Space, Spaceship
+- Tags: Action, Arcade, Casual, HTML5, retro, Space, Spaceship

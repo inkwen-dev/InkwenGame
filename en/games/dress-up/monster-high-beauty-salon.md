@@ -19,6 +19,6 @@ Love Magic Monster High Dolls Dress Up Game? Then This App is For You! Create an
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Candy, Cartoon Network, Celebrity, Disney, Dora, Dress Up, Elsa

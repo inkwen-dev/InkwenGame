@@ -19,6 +19,6 @@ Every bird has its perfect trio&mdash;can you find them all? Match three identic
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bird, Block, Match 3, Matching, sort, sorting
+- Tags: Bird, block, Match 3, Matching, sort, sorting

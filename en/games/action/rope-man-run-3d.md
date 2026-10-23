@@ -19,6 +19,6 @@ Have you ever made a stickman with ropes and sticks? Rope Man Run 3D is a 3D ver
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Collecting, Mobile, Platform, running, WebGL

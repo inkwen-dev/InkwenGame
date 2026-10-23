@@ -19,6 +19,6 @@ TideMatch game is fun game for kids! Just arrange sea-elements in match-3 way an
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fish, Match 3, Puzzle, water

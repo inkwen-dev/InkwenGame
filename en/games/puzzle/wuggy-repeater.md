@@ -19,6 +19,6 @@ Wuggy Repeater is an addictive adaptation of the classic old memory game; adults
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Casual, Click, Clicker, Family, HTML, HTML5, Hypercasual, Memory, Mobile
+- Tags: Boy, Casual, Click, Clicker, Family, HTML, HTML5, Hypercasual, memory, Mobile

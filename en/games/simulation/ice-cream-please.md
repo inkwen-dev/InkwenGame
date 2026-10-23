@@ -21,4 +21,4 @@ In Ice Cream, Please!, you take on the role of a small ice cream shop owner in t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cooking, Food, Girls, Restaurant, Simulation
+- Tags: Boys, Cooking, Food, Girls, restaurant, Simulation

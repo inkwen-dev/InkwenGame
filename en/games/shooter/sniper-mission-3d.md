@@ -21,4 +21,4 @@ Sniper Mission 3D is fun addictive action adventure shooting game.Shoot your tar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Shoot 'Em Up, Shooter, Shooting, Sniper
+- Tags: Action, Shoot 'Em Up, Shooter, Shooting, sniper

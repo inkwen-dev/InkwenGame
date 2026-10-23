@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, Android, 球, HTML5, iPad, iPhone, Mentolatux, 移动设备, 解谜, 太空
+- 标签: 动作, 安卓, 球, HTML5, iPad, iPhone, Mentolatux, 移动设备, 益智, 太空

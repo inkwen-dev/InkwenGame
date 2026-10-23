@@ -21,4 +21,4 @@ In Kick and Slap Kings, all you have to do is - aim right and strike as hard as 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Brawl, Crazy, Fighting, Simulation, Simulator
+- Tags: 3D, 3D Games, Action, Brawl, crazy, fighting, Simulation, Simulator

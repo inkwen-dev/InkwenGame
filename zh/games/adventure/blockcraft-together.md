@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人, 双人游戏, 方块, 矿井, mineblock, Minecraft, 怪物, PvP, 沙盒, 生存, 双人游戏, Unity3D, 体素, 僵尸
+- 标签: 双人, 双人游戏, 方块, 挖掘, mineblock, 我的世界, monster, PvP, 沙盒, 生存, 双人游戏, Unity3D, 体素, 僵尸

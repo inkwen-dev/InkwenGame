@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 清洁, HTML5, 孩子, 儿童, 改造, 管理, 移动设备
+- 标签: 清洁, HTML5, 儿童, 儿童, 改造, 管理, 移动设备

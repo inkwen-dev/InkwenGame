@@ -19,6 +19,6 @@ In ldquo Sins and Desires rdquo you play as detective Felicia investigating the 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Best Games, Casual, Detective, free games for your site, free games for your website, free html5 games for your website, Games, games for your website, html games for your website, html5 games, html5 games for your site

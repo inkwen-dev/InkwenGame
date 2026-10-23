@@ -19,6 +19,6 @@ Play RCK Cars Arena Stunt Trial, collect coins, you have minimap in game where i
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Car, Cars, Crazy, Simulation, Skill, Stunts, Supercars, Unity3D, WebGL
+- Tags: 1 Player, Car, Cars, crazy, Simulation, Skill, Stunts, Supercars, Unity3D, WebGL

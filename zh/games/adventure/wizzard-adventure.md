@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, Adventure, 奔跑, 巫师
+- 标签: 动作, 冒险, 跑, 巫师

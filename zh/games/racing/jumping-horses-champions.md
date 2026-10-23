@@ -21,4 +21,4 @@ W 或上箭头键加速 S 或下箭头键减速 空格键跳跃 AD 或左/右箭
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 马匹, 竞速
+- 标签: 冒险, horse, 竞速

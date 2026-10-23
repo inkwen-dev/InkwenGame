@@ -21,4 +21,4 @@ A game for all those who are tired of being tortured by their dentist. The time 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Doctor, Educational, Family, Simulation
+- Tags: Casual, Doctor, educational, Family, Simulation

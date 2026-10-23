@@ -19,6 +19,6 @@ Worms Zone is a game with a dynamic storyline. Start growing your worm right now
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Android, Arcade, Arena, Avoid, Battle, Candy, Casual, Cute, Flight, Food, Funny, Game, Multiplayer, Relaxation, Slither, Snake, Strategy, WebGL, World, Worm, Worms
+- Tags: 2D, Action, Android, Arcade, Arena, Avoid, battle, Candy, Casual, Cute, flight, Food, Funny, Game, Multiplayer, Relaxation, Slither, snake, strategy, WebGL, World, worm, Worms

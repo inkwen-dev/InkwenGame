@@ -21,4 +21,4 @@ Do you want to begin a fun dinosaur-themed shooting game in Dino Hide N Shoot? P
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Gun
+- Tags: battle, Gun

@@ -19,6 +19,6 @@ You're An Impostor. The game shows one of the options for what could happen afte
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Alien, Android, Arcade, Best, Casual, Click, Crazy, dino, endless, Game, Hot, HTML5, Hypercasual, Robot, Space
+- Tags: Action, Adventure, Alien, Android, Arcade, Best, Casual, Click, crazy, dino, endless, Game, Hot, HTML5, Hypercasual, Robot, Space

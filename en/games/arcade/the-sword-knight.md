@@ -21,4 +21,4 @@ Sword Knight is a very fun and challenging game. The objective of the game is to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Arcade, Casual, Pixel, Sword
+- Tags: 1 Player, 2D, Action, Adventure, Arcade, Casual, pixel, sword

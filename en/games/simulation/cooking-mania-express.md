@@ -21,4 +21,4 @@ Prepare, cook and serve in an amazing cooking game! Cooking Mania Express is one
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Food, Management, Restaurant
+- Tags: Food, management, restaurant

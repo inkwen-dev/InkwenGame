@@ -19,6 +19,6 @@ This is a classic puzzle game, inspired by popular Chinese tile removal game, Ma
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Mahjong, Mobile, Puzzle
+- Tags: HTML5, mahjong, Mobile, Puzzle

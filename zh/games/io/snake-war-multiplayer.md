@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, 3D 游戏, 动作, 街机, 最佳游戏, 移动设备, 滑行, 蛇, unity游戏
+- 标签: .io, 3D游戏, 动作, 街机, 最佳游戏, 移动设备, 滑行, snake, unity游戏

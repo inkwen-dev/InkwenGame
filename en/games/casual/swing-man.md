@@ -19,6 +19,6 @@ Be the best and swing to the victory! Try to hang on every ropes and swing to th
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boys, Girls, HTML5

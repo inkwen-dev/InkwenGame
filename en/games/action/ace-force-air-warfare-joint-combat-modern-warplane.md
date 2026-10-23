@@ -19,6 +19,6 @@ Arm yourself with different aircraft and weapons Upgrade your warplanes and aim 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Adult, Adventure, Air, Aircraft, Arcade, Arena, Army, Battle, Bejeweled, Boy, Crazy, Fight, Fighting, Fire, Girl, HTML, HTML5, Machine, Magic, Plane, sky, War, WebGL
+- Tags: 3D Games, Action, Adult, Adventure, Air, Aircraft, Arcade, Arena, Army, battle, Bejeweled, Boy, crazy, Fight, fighting, Fire, Girl, HTML, HTML5, Machine, Magic, Plane, sky, War, WebGL

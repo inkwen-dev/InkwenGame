@@ -21,4 +21,4 @@ This fun educational game will teach your little one to learn numbers and songs 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Baby Hazel, Educational, Family, Girls, House, HTML, HTML5, Kids, School, Simulation
+- Tags: Animal, Baby, Baby Hazel, educational, Family, Girls, House, HTML, HTML5, Kids, School, Simulation

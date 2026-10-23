@@ -21,4 +21,4 @@ Today is the day of the prince's prom. Poor Chloe is held at home by her stepmot
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cleaning, Dress Up, Educational, Fashion, Girl, Girls, Kids, Makeover, Simulation
+- Tags: Cleaning, Dress Up, educational, Fashion, Girl, Girls, Kids, Makeover, Simulation

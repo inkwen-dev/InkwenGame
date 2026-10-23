@@ -21,4 +21,4 @@ This is a tank fighting game. You can use tanks of the same level to synthesize 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Battle, Battlegrounds, Boy, Boys, Fight, H5
+- Tags: 3D, 3D Games, battle, Battlegrounds, Boy, Boys, Fight, H5

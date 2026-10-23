@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 绘画, 繪畫, egg, eggames, eggs, 有趣, 孩子们, 逻辑, 解谜, 解谜方块
+- 标签: 绘画, 绘画, 蛋, 蛋游戏, 蛋, 有趣, 儿童, 逻辑, 益智, 拼图块

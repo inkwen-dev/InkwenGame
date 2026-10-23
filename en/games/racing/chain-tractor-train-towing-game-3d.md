@@ -19,6 +19,6 @@ Drive your Chain Tractor Train Towing Game 3D for transportation in wonderful an
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Driving, Farm, HTML, HTML5, Simulation, Simulator, Train

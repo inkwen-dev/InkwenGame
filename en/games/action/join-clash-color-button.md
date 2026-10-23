@@ -21,4 +21,4 @@ Color Button is a unique and exciting game that keeps you entertained from start
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Collecting, Fighting, Platform, running
+- Tags: Avoid, Collecting, fighting, Platform, running

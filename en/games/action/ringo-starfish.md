@@ -19,6 +19,6 @@ Navigating in deep water, Ringo Starfish found a mysterious island. He suspects 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arcade, Classic, HTML5, Mario, Mobile, Pixel, Platform, Retro, Super
+- Tags: 2D, Adventure, Arcade, Classic, HTML5, mario, Mobile, pixel, Platform, retro, Super

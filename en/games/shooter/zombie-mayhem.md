@@ -19,6 +19,6 @@ A city has been filled with zombies. You are the last person who is alive at the
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Gun, Shoot, Shoot 'Em Up, Shooting, Zombie

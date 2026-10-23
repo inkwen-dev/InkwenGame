@@ -19,6 +19,6 @@ Grand Monster Hero: Superhero Games play as a monster superhero is real fun so l
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Bomb, Car, Defense, Police
+- Tags: Action, Adventure, Bomb, Car, Defense, police

@@ -21,4 +21,4 @@ Igrica Horse Riding Tales game play it on iyigames.com. Begin your journey from 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Animal, Collecting, Fun, Girls, Horse, HTML5, Mobile, Racing
+- Tags: 3D, Adventure, Animal, Collecting, Fun, Girls, horse, HTML5, Mobile, Racing

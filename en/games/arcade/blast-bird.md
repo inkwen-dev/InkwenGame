@@ -19,6 +19,6 @@ Hey, the cute Green Bird need your help to escape from this dark world! Your mis
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bomb, Family, HTML, mapi games, Mobile, Physics, Puzzle

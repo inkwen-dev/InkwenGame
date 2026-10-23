@@ -21,4 +21,4 @@ It is a very colorful game educational game for kids in kindergarten. This game 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D Games, Adventure, Boy, Boys, Game, Hot, Kid, Kids, New, Race, Racing, Truck
+- Tags: .io Games, 1 Player, 3D Games, Adventure, Boy, Boys, Game, Hot, Kid, Kids, New, Race, Racing, truck

@@ -21,4 +21,4 @@ In Soccer Training, your aspirations in soccer become a reality as you enter the
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, Mobile, Soccer, Sports
+- Tags: Boys, Mobile, Soccer, sports

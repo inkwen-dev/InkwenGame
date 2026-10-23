@@ -21,4 +21,4 @@ Super Stickman Hook is an exciting online game that falls under the category of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Hypercasual, Kiz 10, Spiderman, Stickman
+- Tags: Hypercasual, Kiz 10, Spiderman, stickman

@@ -21,4 +21,4 @@ Scary Math is an educational game. Here players need to choose right or wrong fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Game, Games, Girl, Girls, Math
+- Tags: educational, Game, Games, Girl, Girls, math

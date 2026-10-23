@@ -19,6 +19,6 @@ Play Train Surfers - Run, jump, turn and slide through the endless. Save yoursel
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Arcade, Fun, running, Strategy, subway, Subway Surfers, Train
+- Tags: 3D, Action, Arcade, Fun, running, strategy, subway, Subway Surfers, Train

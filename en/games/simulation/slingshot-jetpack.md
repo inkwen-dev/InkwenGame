@@ -21,4 +21,4 @@ Have you ever dreamed of flying a jet plane over the city? In the game Slingshot
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, city, Collection, Flight, fly, Highscore, HTML, HTML5, Kids, Mobile, Obstacle, Online, Simulator, Skill, Skills
+- Tags: 3D, 3D Games, Arcade, city, Collection, flight, fly, Highscore, HTML, HTML5, Kids, Mobile, Obstacle, Online, Simulator, Skill, Skills

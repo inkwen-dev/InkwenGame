@@ -19,6 +19,6 @@ Astounding sneak robbery game-play along with detail graphics that will hang you
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Anime, Best, Boys, Cartoon, Casual, Fun, Game, Girls, Hot, HTML5, Hypercasual, Kids, Mobile

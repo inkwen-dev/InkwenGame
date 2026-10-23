@@ -19,6 +19,6 @@ Welcome to Image Crossword, an innovative word puzzle game that transcends tradi
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Football, jungle, Puzzle

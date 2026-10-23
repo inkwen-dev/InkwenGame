@@ -19,6 +19,6 @@ The classic spider solitaire with multiple difficulty levels.
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Brain, Card, Casino, Casual, Classic, HTML5, Solitaire
+- Tags: Board, Brain, card, Casino, Casual, Classic, HTML5, solitaire

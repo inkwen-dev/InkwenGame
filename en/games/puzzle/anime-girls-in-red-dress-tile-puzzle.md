@@ -19,6 +19,6 @@ Anime in red dress with cold snow and snowmen. Relax by solving a puzzle and unl
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Anime, Boys, Casual, Girls, Hot, Jigsaw, Puzzle, Relaxation, Seduction, Snow

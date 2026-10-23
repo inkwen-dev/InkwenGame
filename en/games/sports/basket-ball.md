@@ -21,4 +21,4 @@ In this game called Basket Ball, players engage in a thrilling adventure of ball
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Basketball, Best, Fun, Funny, Kids, Logic, Skills
+- Tags: Ball, basketball, Best, Fun, Funny, Kids, Logic, Skills

@@ -19,6 +19,6 @@ This is funny jigsaw game with Santa Claus. There is 12 images with funny Santa'
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Funny, Jigsaw, Kids, Puzzle

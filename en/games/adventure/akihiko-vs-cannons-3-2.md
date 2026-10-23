@@ -15,6 +15,6 @@ Navigate adrenaline-fueled challenges in Akihiko vs Cannons 3, a thrilling 2D pl
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

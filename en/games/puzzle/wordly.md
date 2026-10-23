@@ -19,6 +19,6 @@ Wordly is a fun and relaxing word puzzle game that trains your mind and vocabula
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Family, Letters, Logic, mapi games, Puzzle, Word
+- Tags: Brain, Family, Letters, Logic, mapi games, Puzzle, word

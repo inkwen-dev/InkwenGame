@@ -19,6 +19,6 @@ Hole Run 3D is an addictive online puzzle game. Kids can play this game for free
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Avoid, Block, Board, Brain, Bricks, Fun, Highscore, HTML5, Kids, Obstacle, Online, Puzzle, running
+- Tags: 3D, Android, Avoid, block, Board, Brain, Bricks, Fun, Highscore, HTML5, Kids, Obstacle, Online, Puzzle, running

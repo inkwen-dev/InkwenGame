@@ -21,4 +21,4 @@ WASD rarr 移动 左键单击 rarr 射击 右键单击 rarr 放大镜 R rarr 换
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, fps, 恐怖, 射击, 生存, 僵尸
+- 标签: 动作, fps, 恐怖, 射击类, 生存, 僵尸

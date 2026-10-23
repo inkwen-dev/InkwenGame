@@ -21,4 +21,4 @@ Squid Game - Cookie Carver: Life Challenge game start! Win levels and get chance
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 3D Games, Car, Cars, Game, Parking, Race, Racing
+- Tags: 2 Player Games, 3D Games, Car, Cars, Game, parking, Race, Racing

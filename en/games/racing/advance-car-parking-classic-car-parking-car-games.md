@@ -21,4 +21,4 @@ In this vehicle parking game, you will learn about different traffic signs like 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Crazy, Parking, Race
+- Tags: Car, crazy, parking, Race

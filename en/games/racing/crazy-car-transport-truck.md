@@ -21,4 +21,4 @@ In this Advance Truck driving game your task is to move loads of freight things 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Army, bus, Helicopter, HTML5, monstertruck, transport, Truck, Unity3D
+- Tags: 3D, Army, bus, helicopter, HTML5, monstertruck, transport, truck, Unity3D

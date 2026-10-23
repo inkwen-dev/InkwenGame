@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 战斗, 绘画, 趣味, 节奏
+- 标签: 战斗, 绘画, 有趣, 节奏

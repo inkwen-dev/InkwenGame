@@ -21,4 +21,4 @@ Would you like to embark on an adventure with your offroad truck over the contin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, Car, HTML5, Race, Truck, WebGL
+- Tags: 2 Player, 2 Player Games, 3D, Car, HTML5, Race, truck, WebGL

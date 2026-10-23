@@ -19,6 +19,6 @@ Play impossible Go Car Stunt 3D: Car Racing Games - Free Car Game drive in which
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Android, Boy, Boys, Bridge, Car, Cars, Casual, city, Crazy, drift, drifting, Driving, fly, Fun, Game, Games, jump, Jumping, Kids, Race, Racing, Simulation, Simulator, Stunts, Super, Supercars, Superhero, Traffic
+- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Android, Boy, Boys, Bridge, Car, Cars, Casual, city, crazy, drift, drifting, Driving, fly, Fun, Game, Games, jump, jumping, Kids, Race, Racing, Simulation, Simulator, Stunts, Super, Supercars, Superhero, Traffic

@@ -21,4 +21,4 @@ Table Football, Table Soccer,. Now you can carry a whole retro table football ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, Sports
+- Tags: 1 Player, 2 Player, sports

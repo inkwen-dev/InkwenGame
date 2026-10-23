@@ -21,4 +21,4 @@ Welcome to ArmedForces.io, where adrenaline-fueled action, intense shooting, and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 3D, Army, Best, Best Games, First Person Shooter, fps, free games for your site, Gun, Multiplayer, Shooting, Sniper, Unity3D, weapons
+- Tags: .io, 3D, Army, Best, Best Games, First Person Shooter, fps, free games for your site, Gun, Multiplayer, Shooting, sniper, Unity3D, weapons

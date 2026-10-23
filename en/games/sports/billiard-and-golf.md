@@ -21,4 +21,4 @@ Prepare to play a fun game of golf and pool. Golf and billiards at the same time
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Best, Billiard, Golf, HTML5, Hypercasual, Mobile, Shooting, WebGL
+- Tags: 8 Ball Pool, Best, Billiard, golf, HTML5, Hypercasual, Mobile, Shooting, WebGL

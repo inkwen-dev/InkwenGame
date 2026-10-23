@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 躲避, 男孩, 大脑, 乐趣, HTML5, kids, 障碍, 在线, PacMan, 谜题
+- 标签: 躲避, 男孩, 大脑, 有趣, HTML5, 儿童, 障碍, 在线, 吃豆人, 益智

@@ -21,4 +21,4 @@ Ninja Race is a live, multiplayer racing game featuring unique Ninja Characters.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Games, Ninja, Ninjago, Race, Racing, run, running
+- Tags: Adventure, Arcade, Games, ninja, Ninjago, Race, Racing, run, running

@@ -19,6 +19,6 @@ Hop-Hop &ndash; Fun Jumping Game for Kids | Endless Arcade Looking for a dynamic
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Animal, Arcade, Baby Games, Casual, Cat, Cute, Hypercasual, Jumping, Kids, Obstacle, Platform, Rabbit
+- Tags: 1 Player, 2D, Animal, Arcade, Baby Games, Casual, Cat, Cute, Hypercasual, jumping, Kids, Obstacle, Platform, Rabbit

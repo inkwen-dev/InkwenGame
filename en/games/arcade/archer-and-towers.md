@@ -21,4 +21,4 @@ Is a cool game about protecting your fortress, upgrading your heroes, pumping yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Strategy
+- Tags: Adventure, strategy

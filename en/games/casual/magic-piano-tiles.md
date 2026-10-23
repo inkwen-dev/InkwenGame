@@ -19,6 +19,6 @@ You want to play new piano game. With new Hot songs and great music. Play our ga
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Magic, Music
+- Tags: Magic, music

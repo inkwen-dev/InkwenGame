@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动物, 鸟类, HTML, HTML5, 击杀, 杀戮, 滑行, 贪吃蛇, 虫, 蠕虫
+- 标签: 动物, 小鸟, HTML, HTML5, 杀戮, 击杀, 滑行, snake, 蠕虫, 蠕虫

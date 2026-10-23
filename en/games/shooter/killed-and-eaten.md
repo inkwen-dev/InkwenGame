@@ -19,6 +19,6 @@ You are lost in vast swamp area crowded with zombies and your mission is to use 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Action, Adventure, Kill, Killing, Shoot, Shoot 'Em Up, Shooter, Undead, weapons, WebGL, Zombie

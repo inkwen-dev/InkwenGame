@@ -21,4 +21,4 @@ Let’s prepare yourself to feel happy and relaxed by playing going balls. Roll,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Boy, Boys, Bubble, Bubble Shooter, Candy, Chicken, Fairy, Fantasy, Fun, Funny, Game, Mario, Retro
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Boy, Boys, Bubble, Bubble Shooter, Candy, Chicken, Fairy, Fantasy, Fun, Funny, Game, mario, retro

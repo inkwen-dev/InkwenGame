@@ -46,4 +46,4 @@ Gun race
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Boys, cool-games, First Person Shooter, Gun, Multiplayer, popular, Shooting, Sniper
+- Tags: 3D, Action, Boys, cool-games, First Person Shooter, Gun, Multiplayer, popular, Shooting, sniper

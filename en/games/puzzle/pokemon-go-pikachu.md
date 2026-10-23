@@ -19,6 +19,6 @@ Pokemon, takes place on the artificial island of Pasio. Pokemon and their Traine
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Cartoon, Cartoon Network, HTML5, Logical, Magic, Matching, Pokemon

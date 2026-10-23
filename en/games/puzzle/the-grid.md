@@ -21,4 +21,4 @@ The Grid is a fast paced puzzle game where the players are required to repeat th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Brain, Casual, Memory, Puzzle
+- Tags: Action, Brain, Casual, memory, Puzzle

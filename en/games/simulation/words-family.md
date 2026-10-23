@@ -21,4 +21,4 @@ Words Family is a fun and entertaining word puzzle game that can increase your i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Family, HTML, HTML5, Hypercasual, Mind, Puzzle, Simulation, Strategy, Word
+- Tags: Brain, Family, HTML, HTML5, Hypercasual, Mind, Puzzle, Simulation, strategy, word

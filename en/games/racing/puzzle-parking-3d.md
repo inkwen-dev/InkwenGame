@@ -21,4 +21,4 @@ Puzzle Parking 3D is a fun puzzle parking game online and a free simulation game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Android, Avoid, Boys, Brain, Car, Driving, Fun, HTML5, Kids, Obstacle, Online, Parking, Puzzle, Simulation
+- Tags: 3D, 3D Games, Android, Avoid, Boys, Brain, Car, Driving, Fun, HTML5, Kids, Obstacle, Online, parking, Puzzle, Simulation

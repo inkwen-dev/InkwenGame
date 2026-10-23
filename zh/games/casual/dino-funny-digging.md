@@ -27,4 +27,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 恐龙, 搞笑, 孩子们
+- 标签: Dino, 搞笑, 儿童

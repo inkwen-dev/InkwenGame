@@ -21,4 +21,4 @@ Paw Patrol Jigsaw is an interesting jigsaw cartoon game, which is developed for 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Animal, Cartoon, Educational, Fun, Girls, HTML5, Jigsaw, Kids, Matching, Mobile
+- Tags: Android, Animal, Cartoon, educational, Fun, Girls, HTML5, Jigsaw, Kids, Matching, Mobile

@@ -21,4 +21,4 @@ Get into the holiday spirit with Nine Cards of Winter, a fun and relaxing tile-m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Christmas, html5 games, Match 3, Matching, Mobile, Winter
+- Tags: block, Christmas, html5 games, Match 3, Matching, Mobile, Winter

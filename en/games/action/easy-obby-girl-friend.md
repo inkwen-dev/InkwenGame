@@ -21,4 +21,4 @@ Obby and his girlfriend set out on a journey, but the road suddenly turns into a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Mobile, Pixel, Platform
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Mobile, pixel, Platform

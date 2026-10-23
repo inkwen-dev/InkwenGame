@@ -21,4 +21,4 @@ Enchanted Mahjong Saga is a fast-paced twist on the classic tile-matching game, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Board, Fantasy, html5 games, Logic, Mahjong, Matching, Mobile
+- Tags: block, Board, Fantasy, html5 games, Logic, mahjong, Matching, Mobile

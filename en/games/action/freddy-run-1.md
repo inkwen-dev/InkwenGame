@@ -21,4 +21,4 @@ Freddy Run 1 is a hyper casual spooky running game where you need to help a youn
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Ghost, Jumping, Monster, Platform, run, running, Skill, Superhero
+- Tags: Avoid, Ghost, jumping, monster, Platform, run, running, Skill, Superhero

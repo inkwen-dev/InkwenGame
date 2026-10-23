@@ -19,6 +19,6 @@ In Shaun the Sheep Sheep Stack you must stack sheeps up to the window. Launch th
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Game, Games, Hypercasual, Puzzle, Sport, Sports
+- Tags: .io Games, Game, Games, Hypercasual, Puzzle, Sport, sports

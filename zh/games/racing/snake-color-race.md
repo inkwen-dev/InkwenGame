@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 球, 桥梁, 颜色, 竞速, Snake, Unity3D
+- 标签: 3D, 球, 桥, 颜色, 比赛, snake, Unity3D

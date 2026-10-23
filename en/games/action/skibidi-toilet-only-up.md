@@ -21,4 +21,4 @@ In Skibidi Toilet Only Up, a young slum dweller aspires to break free from pover
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping, OnlyUp, run, running, Skibidi, Skibidi Toilet
+- Tags: jump, jumping, OnlyUp, run, running, Skibidi, skibidi-toilet

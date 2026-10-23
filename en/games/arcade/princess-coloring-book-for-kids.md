@@ -21,4 +21,4 @@ Marvelous coloring book for girls especially for little princesses - sweet baby 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Color, Coloring, Draw, Drawing, Girl, Hypercasual
+- Tags: 1 Player, Arcade, Color, Coloring, Draw, drawing, Girl, Hypercasual

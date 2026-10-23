@@ -21,4 +21,4 @@ Wild Fusion 是一款轻松上瘾的闲置合并游戏，你可以通过合并�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动物, 点击, 有趣, 闲置
+- 标签: 动物, 点击, 有趣, idle

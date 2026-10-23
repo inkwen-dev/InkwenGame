@@ -15,6 +15,6 @@ Embark on a whimsical journey with Chill Cool Hidden Cheese Guy, where vibrant s
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Casual

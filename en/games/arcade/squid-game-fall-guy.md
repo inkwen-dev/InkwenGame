@@ -19,6 +19,6 @@ Squid Game Fall Guy is an exciting and action-packed skill game for the player w
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Adventure, Android, Arcade, Best, Casual, Hypercasual, jump, Kids, Mobile, Puzzle, WebGL

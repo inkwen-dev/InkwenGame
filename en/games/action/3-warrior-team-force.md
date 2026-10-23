@@ -19,6 +19,6 @@ Unite your band of brave warriors! Travel across dangers to free the kingdom fro
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Defense, Fighting, kiz10
+- Tags: Action, Defense, fighting, kiz10

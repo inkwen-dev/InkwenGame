@@ -19,6 +19,6 @@ Crush all the Ants that appear on the screen with your fingers, before they leav
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boys, endless, HTML, HTML5, Kid, Kids, Mobile, Plant

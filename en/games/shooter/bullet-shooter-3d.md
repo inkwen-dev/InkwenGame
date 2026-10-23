@@ -21,4 +21,4 @@ Hi and Welcome to Bullet man shooter is a man with a gun trying to help good peo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boy, Boys, HTML5, Shoot, Shooter, Stickman, WebGL
+- Tags: 3D, Boy, Boys, HTML5, Shoot, Shooter, stickman, WebGL

@@ -19,6 +19,6 @@ Jumping Birds is a game of skill and reflexes where players take on the roles of
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, jump, Jumping
+- Tags: Cartoon, jump, jumping

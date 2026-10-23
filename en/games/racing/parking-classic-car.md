@@ -21,4 +21,4 @@ For parking fans, the vintage automobile parking games are entirely accessible. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Android, Car, Cars, Classic, HTML5, Mobile, Parking, Racing, Supercars, Unity3D
+- Tags: 1 Player, 3D Games, Android, Car, Cars, Classic, HTML5, Mobile, parking, Racing, Supercars, Unity3D

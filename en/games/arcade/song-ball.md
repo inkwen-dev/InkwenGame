@@ -21,4 +21,4 @@ Song Ball 3D is a 3D music game and your only challenge is to keep the ball jump
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Ball, Bounce, jump, Jumping
+- Tags: 1 Player, 3D, Ball, Bounce, jump, jumping

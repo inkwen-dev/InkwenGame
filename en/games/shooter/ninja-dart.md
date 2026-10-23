@@ -21,4 +21,4 @@ Take a careful aim and throw a commendation to hit the target. You can change th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Hypercasual, Ninja, Shooting
+- Tags: 1 Player, Hypercasual, ninja, Shooting

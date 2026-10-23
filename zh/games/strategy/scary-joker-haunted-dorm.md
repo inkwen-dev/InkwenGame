@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, Android, 躲避, 防御, HTML5, 小孩, 塔防
+- 标签: 3D, 3D游戏, 安卓, 躲避, 防御, HTML5, 儿童, 塔防

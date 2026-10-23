@@ -19,6 +19,6 @@ The Kickin' it Old School game takes you on an exciting journey with the Teenage
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Battle, Battlegrounds, Best, H5, Hot, HTML5, New, Ninja, Ninjago
+- Tags: Action, Adventure, Arcade, battle, Battlegrounds, Best, H5, Hot, HTML5, New, ninja, Ninjago

@@ -21,4 +21,4 @@ Dungeon Survivor is a roguelike survivor game where you have to beat the enemies
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Fantasy, RPG
+- Tags: Action, Fantasy, rpg

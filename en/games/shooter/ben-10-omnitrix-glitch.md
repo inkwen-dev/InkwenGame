@@ -21,4 +21,4 @@ Omnitrix Glitch comprises four exclusive games – Action Attack, Alient Alert, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Alien, Battle, Ben 10, Boy, Boys, Cartoon, Crazy, HTML5, Mobile, Monster, Shoot, Shooting
+- Tags: 2D, Action, Adventure, Alien, battle, Ben 10, Boy, Boys, Cartoon, crazy, HTML5, Mobile, monster, Shoot, Shooting

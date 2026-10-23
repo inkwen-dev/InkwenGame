@@ -21,4 +21,4 @@ Get behind the wheel and experience the thrill of driving powerful American truc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, amazing, Best Games, drifting, Driving, Racing, Simulation, Truck
+- Tags: 2026 games, Adventure, amazing, Best Games, drifting, Driving, Racing, Simulation, truck

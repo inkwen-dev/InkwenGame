@@ -19,6 +19,6 @@ Can you help Little Red Riding Hood to defeat the bad Wolf? This is a platform g
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Boy, Boys, Candy, Disney, Fruit, Fun, Girl, Girls, Kid, Kids, Mario, Platform, Red, Snake, Unity3D, WebGL, Wolf
+- Tags: 1 Player, 2D, Action, Adventure, Boy, Boys, Candy, Disney, Fruit, Fun, Girl, Girls, Kid, Kids, mario, Platform, Red, snake, Unity3D, WebGL, Wolf

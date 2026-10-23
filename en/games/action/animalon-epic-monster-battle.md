@@ -21,4 +21,4 @@ Lead your team of tiny monsters in the battle arena. Beat them all ! Train your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Dragon, Family, Fight, Pokemon, Strategy, War, Wizard
+- Tags: Action, Dragon, Family, Fight, Pokemon, strategy, War, Wizard

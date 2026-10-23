@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车, 汽车改装, 汽车们, 竞速, 超跑, Unity3D, WebGL
+- 标签: 汽车, 汽车改装, 汽车, 竞速, 超跑, Unity3D, WebGL

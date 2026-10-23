@@ -19,6 +19,6 @@ This is educational memory game. In this game you are asked to open all the card
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Board, Card, Click, Clicker, Fun, HTML5, Kids, Matching, Memory, Mobile, Puzzle
+- Tags: Animal, Board, card, Click, Clicker, Fun, HTML5, Kids, Matching, memory, Mobile, Puzzle

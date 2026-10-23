@@ -21,4 +21,4 @@ Barbie is jumping rope in the garden. In this game you have to jump without touc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Barbie, Game, Games, Girl, Girls, HTML5, jump, Sports
+- Tags: Action, Barbie, Game, Games, Girl, Girls, HTML5, jump, sports

@@ -21,4 +21,4 @@ WASD 或方向键 - 移动 空格键 - 跳跃 Z 或 1 - 踢击 X 或 2 - 拳击 
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 冒险, 怪物, 僵尸
+- 标签: 动作, 冒险, monster, 僵尸

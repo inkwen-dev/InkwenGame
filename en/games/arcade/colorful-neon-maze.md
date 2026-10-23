@@ -19,6 +19,6 @@ Colorful Neon Maze is a classic random maze game with 3 difficulty modes designe
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Color, Fun, Game, Games, HTML5, Kids, Puzzle, Timing

@@ -17,4 +17,4 @@ Battle monstrous creatures in "Hopeless Island Survival Hero" as you navigate a 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Fighting
+- Tags: fighting

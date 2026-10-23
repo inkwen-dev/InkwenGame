@@ -21,4 +21,4 @@ Pixel Art Stealer is a wonderful pixel art game combining numbers, pixels, and p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, Cartoon, Escape, Game, Pixel, Relaxation, sneak, steal, Stickman, Strategy
+- Tags: 2026 games, Adventure, Cartoon, Escape, Game, pixel, Relaxation, sneak, steal, stickman, strategy

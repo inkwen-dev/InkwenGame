@@ -21,4 +21,4 @@ Bomber 3D game presents you a true classic, bombing field battles, in 3D gaming 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D Games, Battle, Bomb, Tank, Tanks, War
+- Tags: 2 Player, 2 Player Games, 3D Games, battle, Bomb, Tank, tanks, War

@@ -21,4 +21,4 @@ Grazing Giraffe is a cozy sliding puzzle game about one very hungry, very long g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Animal, Puzzle, slide, Snake
+- Tags: 1 Player, 2026 games, Animal, Puzzle, slide, snake

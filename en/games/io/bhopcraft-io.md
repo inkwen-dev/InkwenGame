@@ -21,4 +21,4 @@ Bhopcraft.io is a multiplayer parkour game. You can parkour on various maps and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 3D, 3D Games, Craft, jump, Jumping, Minecraft
+- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 3D, 3D Games, Craft, jump, jumping, Minecraft

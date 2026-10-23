@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, 动作, 突袭, 恐怖, mineblock, 我的世界
+- 标签: 3D, 3D游戏, 动作, 攻击, 恐怖, mineblock, 我的世界

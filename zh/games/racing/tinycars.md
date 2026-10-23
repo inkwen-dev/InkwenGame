@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 漂移, 漂移, HTML, HTML5, HTML5游戏供您的网站使用, 竞速, 赛车
+- 标签: 街机, 漂移, 漂移, HTML, HTML5, 适用于您网站的HTML5游戏, 比赛, 竞速

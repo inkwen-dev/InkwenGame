@@ -21,4 +21,4 @@ Hop on your bike, start riding it, and make big jumps. Execute stunts perfectly,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Avoid, Bike, Fun, Highscore, HTML5, Moto, Motorcycle, Road, Skills, Sport
+- Tags: Action, Adventure, Avoid, bike, Fun, Highscore, HTML5, Moto, Motorcycle, Road, Skills, Sport

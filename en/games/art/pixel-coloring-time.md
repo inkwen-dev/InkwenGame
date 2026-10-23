@@ -19,6 +19,6 @@ Our free colouring games for kids are simple and provide a way to encourage the 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boys, Coloring, Fun, Girls, HTML5, Kids, Pixel, School
+- Tags: Android, Boys, Coloring, Fun, Girls, HTML5, Kids, pixel, School

@@ -21,4 +21,4 @@ Tanks fight back for a futuristic country with the war tank of machines gun batt
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Battle, Battlegrounds, HTML, HTML5, Shoot, Shooting, Tank, Tanks, War
+- Tags: 3D, battle, Battlegrounds, HTML, HTML5, Shoot, Shooting, Tank, tanks, War

@@ -21,4 +21,4 @@ Celebrate in high-speed style with Dino Runner Birthday! In this neon-soaked end
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Action, Adventure, Arcade, Arena, Best Games, crazygamesunblocked, jump, Jumping, run, running, unblockedgames66, unblockedgames76
+- Tags: 1 Player, 2026 games, Action, Adventure, Arcade, Arena, Best Games, crazygamesunblocked, jump, jumping, run, running, unblockedgames66, unblockedgames76

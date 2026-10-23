@@ -15,6 +15,6 @@ Dive into Mafia Cards, where strategic card battles meet the cutthroat world of 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Strategy
+- Tags: strategy

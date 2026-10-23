@@ -21,4 +21,4 @@ Ready to drive the luxurious 4x4 jeep parking 3D game; one of the most new and l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Car, Cars, Parking, Race, Racing, Supercars
+- Tags: Arcade, Car, Cars, parking, Race, Racing, Supercars

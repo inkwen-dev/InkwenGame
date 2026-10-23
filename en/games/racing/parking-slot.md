@@ -21,4 +21,4 @@ Desktop Arrow keys or W A S D to drive the car Mouse to zoom and rotate the came
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Car, Driving, HTML5, Mobile, Parking
+- Tags: Boys, Car, Driving, HTML5, Mobile, parking

@@ -21,4 +21,4 @@ Hidden Totals is a fun and engaging counting game where you test your observatio
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collection, Educational, Skills
+- Tags: Collection, educational, Skills

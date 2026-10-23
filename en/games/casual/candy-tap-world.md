@@ -19,6 +19,6 @@ Tap the colorful candies as they fly up from the bottom! You must tap them befor
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, 2026 games, 2D, Air, amazing, Best Games, Candy, Girls, sky, Super

@@ -19,6 +19,6 @@ Forget the slimming diets and make your cute rabbit fatten in this buffet of swe
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Android, Arcade, Cake, Candy, Cartoon, Casual, Classic, Collecting, Cool, Mario, Platform, Rabbit
+- Tags: 1 Player, Action, Adventure, Android, Arcade, Cake, Candy, Cartoon, Casual, Classic, Collecting, cool, mario, Platform, Rabbit

@@ -19,6 +19,6 @@ Sort the color hoops by their colors! Solve the game by sorting colorful hoops. 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, H5, HTML, HTML5, Hypercasual, Puzzle, Stack, Unity3D

@@ -21,4 +21,4 @@ Baby Cat Daycare is a super adorable virtual pet care experience where players t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cat, Educational, Family, Hypercasual
+- Tags: Cat, educational, Family, Hypercasual

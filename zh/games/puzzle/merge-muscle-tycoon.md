@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 安卓, 点击, HTML5, HTML5游戏, iPad, iPhone, Mentolatux, 移动设备, 一键操作, 运动, 触摸, 触控屏
+- 标签: 安卓, 点击, HTML5, HTML5游戏, iPad, iPhone, Mentolatux, 移动设备, 单触, 体育, 触控, 触摸屏

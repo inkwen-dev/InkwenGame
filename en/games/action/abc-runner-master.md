@@ -21,4 +21,4 @@ ABC Runner game which is very fun and challenging. you must try and feel the sen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Educational, Hypercasual
+- Tags: Arcade, Casual, educational, Hypercasual

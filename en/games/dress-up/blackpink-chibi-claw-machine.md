@@ -21,4 +21,4 @@ Try your luck in the new game BlackPink Chibi Claw Machine. Use the right, left 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Anime, Arcade, Celebrity, Collecting, Cool, cut, endless, Fashion, Fun, HTML5
+- Tags: 1 Player, Anime, Arcade, Celebrity, Collecting, cool, cut, endless, Fashion, Fun, HTML5

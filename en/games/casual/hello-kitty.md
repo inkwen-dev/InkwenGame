@@ -19,6 +19,6 @@ It's a cat world Help the loved cat to meet each other. Earn coins and unlock di
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Cat, Fun, Funny, Girls, Hello Kitty, Hypercasual, Love, Skill, Skills

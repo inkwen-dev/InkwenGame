@@ -21,4 +21,4 @@ Hours of fun begin with the Stickman Temple Duel game. "Story mode", "2Player" a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Fighting, Multiplayer, Platform, Stickman, War
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, fighting, Multiplayer, Platform, stickman, War

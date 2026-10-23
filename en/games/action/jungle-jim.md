@@ -19,6 +19,6 @@ Have fun with this entertaining new 2D platformer game. Jungle Jim will need all
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Arcade, Cartoon, Casual, Collecting, Forest, jump, jungle, Mario, Platform, run, Side Scrolling
+- Tags: 2D, Action, Adventure, Arcade, Cartoon, Casual, Collecting, Forest, jump, jungle, mario, Platform, run, Side Scrolling

@@ -21,4 +21,4 @@ I'm Rebecca, a vampire princess. Tired of the endless boring life of the Vampire
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Dress Up, Educational, Fun, Girl, Girls, H5, HTML5, Makeover, Vampire
+- Tags: 2D, Dress Up, educational, Fun, Girl, Girls, H5, HTML5, Makeover, Vampire

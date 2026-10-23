@@ -19,6 +19,6 @@ The objective of this game is to gather the even cards Win the game when you col
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Card, Math, Memory
+- Tags: 1 Player, 2D, Arcade, card, math, memory

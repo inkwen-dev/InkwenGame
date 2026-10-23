@@ -19,6 +19,6 @@ Conquer The City is a simple and fun puzzle game that allows you to Conquer citi
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Animal, Boys, Brain, city, Fun, HTML5, Kid, Mobile, Puzzle, Skills, Strategy
+- Tags: Android, Animal, Boys, Brain, city, Fun, HTML5, Kid, Mobile, Puzzle, Skills, strategy

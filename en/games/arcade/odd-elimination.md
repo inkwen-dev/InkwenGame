@@ -19,6 +19,6 @@ It is a very interesting Photo Puzzle game, in which you need to find odd pic fr
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Educational, HTML5, Kids, Logical, Mobile, Puzzle, Skill
+- Tags: Arcade, educational, HTML5, Kids, Logical, Mobile, Puzzle, Skill

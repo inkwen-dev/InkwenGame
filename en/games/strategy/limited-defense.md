@@ -23,4 +23,4 @@ Play Limited Defense, a thrilling tower defense game! Command bandits, archers &
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Classic, Mobile, popular, Strategy, Tower Defense
+- Tags: Classic, Mobile, popular, strategy, Tower Defense

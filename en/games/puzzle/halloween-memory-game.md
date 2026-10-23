@@ -21,4 +21,4 @@ The objective of this game is to join the same cards Win the game when you colle
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Game, Halloween, Matching, Memory
+- Tags: 1 Player, 2D, Android, Game, Halloween, Matching, memory

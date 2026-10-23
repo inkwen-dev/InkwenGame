@@ -19,6 +19,6 @@ Step into the wild, wacky, and pixelated world of Chicken Jockey Shooting Tung T
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 8 Ball Pool, Action, Air, airplane, apocalypse, Arena, mineblock, Minecraft

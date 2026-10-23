@@ -19,6 +19,6 @@ Are you looking for the best 2D adventure game? Then don’t miss out Niki Adven
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Anime, Kill, Killing, run, running, Shoot 'Em Up, Shooter, Shooting, Skill

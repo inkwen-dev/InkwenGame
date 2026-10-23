@@ -19,6 +19,6 @@ Among Us Truck Driver - is an attractive truck driving game, you will have to co
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML, HTML5, Race, Racing, Truck
+- Tags: HTML, HTML5, Race, Racing, truck

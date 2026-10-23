@@ -19,6 +19,6 @@ Drift Mania: Street Outlaws takes the heat to the streets allowing players to ba
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Cars, Casual, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, Parking, Race, Racing, Supercars
+- Tags: Action, Adventure, Cars, Casual, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, parking, Race, Racing, Supercars

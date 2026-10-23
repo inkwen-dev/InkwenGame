@@ -19,6 +19,6 @@ The goal of the game is to get to the top without hitting the walls.Achieve the 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Arkanoid, Bricks, Clash, Click, Crazy, Fun, Highscore, HTML5, Logic, Management, Mind, Mine, Platform
+- Tags: 1 Player, Arcade, Arkanoid, Bricks, Clash, Click, crazy, Fun, Highscore, HTML5, Logic, management, Mind, Mine, Platform

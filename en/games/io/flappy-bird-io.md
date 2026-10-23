@@ -21,4 +21,4 @@ Play flappy bird .io here online for free. Click on the screen, to get started. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bird, Brain, Casual, Hot, Hypercasual, Mario, Super
+- Tags: Bird, Brain, Casual, Hot, Hypercasual, mario, Super

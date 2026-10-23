@@ -19,6 +19,6 @@ Build a strong defense and hold the road against incoming waves. Choose tower sp
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Android, Best Games, Boys, Level, Levels, Logic, Management, Mobile, Relaxation, Strategy, Tower Defense
+- Tags: 1 Player, 2026 games, 2D, Android, Best Games, Boys, Level, Levels, Logic, management, Mobile, Relaxation, strategy, Tower Defense

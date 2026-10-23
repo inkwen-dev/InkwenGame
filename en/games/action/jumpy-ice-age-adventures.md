@@ -19,6 +19,6 @@ Start your adventures with Mr ice age , easy and smooth game play , surely you w
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Game, Ice, jump, Jumping, run, running, Snow
+- Tags: Adventure, Game, Ice, jump, jumping, run, running, Snow

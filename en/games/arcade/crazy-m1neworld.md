@@ -19,6 +19,6 @@ Play another clone like minecraft, this game is offline mode, you can build home
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Unity3D, WebGL, Zombie

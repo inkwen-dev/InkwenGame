@@ -21,4 +21,4 @@ This game is actually not a car avoiding arcade game but a bridge drawing puzzle
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Brain, Car, Drawing, Mobile, Platform, Puzzle, Unity3D
+- Tags: 3D, Brain, Car, drawing, Mobile, Platform, Puzzle, Unity3D

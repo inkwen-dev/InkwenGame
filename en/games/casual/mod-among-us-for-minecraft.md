@@ -19,6 +19,6 @@ Play among us mod for Minecraft. Build your own world where only you make the ro
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Boy, Boys, Design, Girls, Minecraft
+- Tags: block, Boy, Boys, Design, Girls, Minecraft

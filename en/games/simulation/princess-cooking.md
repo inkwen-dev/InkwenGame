@@ -19,6 +19,6 @@ Cooking Games for girls 2020 World & Restaurant Craze is the Best Restaurant Gam
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Casual, Cook, Cooking, Food, Frozen, Funny, Games, Hypercasual, Online, Princess

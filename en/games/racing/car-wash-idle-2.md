@@ -21,4 +21,4 @@ Car Wash Idle is a fun 3D idle arcade management game where you build and grow y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Car, Cars, Casual, Cleaning, HTML5, idle, Management, Simulation, Simulator, WebGL
+- Tags: 3D, Arcade, Car, Cars, Casual, Cleaning, HTML5, idle, management, Simulation, Simulator, WebGL

@@ -19,6 +19,6 @@ Santa Snow Runner is a free online game. Run through the snow and deliver the pr
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, endless, run, running

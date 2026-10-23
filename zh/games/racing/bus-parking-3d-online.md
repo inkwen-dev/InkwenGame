@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 男孩们, 公交车, 汽车, 驾驶, 乐趣, HTML
+- 标签: 3D, 男孩们, 公交车, 汽车, 驾驶, 有趣, HTML

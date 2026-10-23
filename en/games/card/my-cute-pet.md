@@ -21,4 +21,4 @@ My cute pet is a memory card game with super cute animals. With each level the n
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Anime, Boy, Boys, Card, Cute, Fun, Funny, Girl, Girls, Kid, Kids, Matching, Math
+- Tags: 1 Player, Animal, Anime, Boy, Boys, card, Cute, Fun, Funny, Girl, Girls, Kid, Kids, Matching, math

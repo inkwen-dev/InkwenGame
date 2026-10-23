@@ -21,4 +21,4 @@ Have you ever seen a candy-eating monster before? These monsters love candies. t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Android, Arcade, Click, Mobile, Monster
+- Tags: 2D, Action, Adventure, Android, Arcade, Click, Mobile, monster

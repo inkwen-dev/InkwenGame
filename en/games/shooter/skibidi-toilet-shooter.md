@@ -21,4 +21,4 @@ Skibidi Toilet Shooter is a fast-paced, shooting game where you have to kill the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Arcade, Casual, Classic, Crazy, Fun, Game, Games, Shoot, Shooter, Shooting, Ski, Skibidi, Skibidi Toilet
+- Tags: 3D Games, Arcade, Casual, Classic, crazy, Fun, Game, Games, Shoot, Shooter, Shooting, Ski, Skibidi, skibidi-toilet

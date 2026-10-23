@@ -21,4 +21,4 @@ Crazy Basketball Machine simulates the realistic physics and features great grap
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Basketball, Sports
+- Tags: Arcade, basketball, sports

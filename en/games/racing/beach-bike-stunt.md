@@ -21,4 +21,4 @@ Prepare yourself to ride through extreme challenging adventure in Beach Bike Stu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Android, Arena, Battle, Bike, Flight, HTML5, Race, Stunts
+- Tags: 3D Games, Android, Arena, battle, bike, flight, HTML5, Race, Stunts

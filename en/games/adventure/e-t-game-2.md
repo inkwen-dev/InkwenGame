@@ -15,6 +15,6 @@ Embark on a cosmic adventure in E.T. Game, navigating vibrant, maze-like levels 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

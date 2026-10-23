@@ -21,4 +21,4 @@ Stickman Dragon Fight is an action-packed game where players control power heroe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2D, Fight, Fighting, firefighters, HTML5, Mentolatux, Mobile, Street Fighting, WebGL
+- Tags: 1 Player, 2 Player, 2D, Fight, fighting, firefighters, HTML5, Mentolatux, Mobile, Street Fighting, WebGL

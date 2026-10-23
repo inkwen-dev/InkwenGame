@@ -24,4 +24,4 @@ A simple but engaging matching challenge! Look at the variety of items at the bo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Educational
+- Tags: educational

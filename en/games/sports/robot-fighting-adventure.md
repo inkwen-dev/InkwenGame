@@ -19,6 +19,6 @@ Enter Robot Fighting Adventure which is filled with challenges in robot fighting
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fight, Interactive, Robot, transport
+- Tags: battle, Fight, Interactive, Robot, transport

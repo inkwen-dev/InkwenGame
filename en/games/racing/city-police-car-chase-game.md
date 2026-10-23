@@ -19,6 +19,6 @@ Welcome to the world of police car simulator games. Get ready to patrol the stre
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, building, Car, Cars, city, Police, Race, Racing
+- Tags: Action, Adventure, building, Car, Cars, city, police, Race, Racing

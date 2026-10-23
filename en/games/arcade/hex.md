@@ -19,6 +19,6 @@ Fit the hexa bricks into the blanks space. Merge the hexa bricks and destroy ful
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Brain, Casual, Hypercasual, Logic, Puzzle
+- Tags: Arcade, block, Brain, Casual, Hypercasual, Logic, Puzzle

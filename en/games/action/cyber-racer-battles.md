@@ -21,4 +21,4 @@ Get ready to embark on an adventure with the Cyber Racer Battles game in which y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, Battle, Race, Space, Spaceship, War
+- Tags: 2 Player, 2 Player Games, 3D, battle, Race, Space, Spaceship, War

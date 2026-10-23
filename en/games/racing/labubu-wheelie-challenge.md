@@ -19,6 +19,6 @@ Join us on a thrilling ride with Labubu Wheelie Challenge, where balance and pre
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Balance, Car, Collecting, Driving, jeep, Labubu, Mouse

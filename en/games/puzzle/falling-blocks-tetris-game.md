@@ -21,4 +21,4 @@ Use the keyboard to control the blocks All the controls are clearly explained in
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, Brain, Casual, Classic, Click, Logical, Matching, Mobile, Tetris
+- Tags: 1 Player, block, Brain, Casual, Classic, Click, Logical, Matching, Mobile, tetris

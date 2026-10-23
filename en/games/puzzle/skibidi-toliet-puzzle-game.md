@@ -21,4 +21,4 @@ Are You able to collect all the purple Goo? Squash the Goos as you roll, climb, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML, Mobile, Skibidi, Skibidi Toilet
+- Tags: HTML, Mobile, Skibidi, skibidi-toilet

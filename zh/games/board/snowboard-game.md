@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2026 games, 惊人, 休闲, 有趣
+- 标签: 2026 游戏, 惊人, 休闲, 有趣

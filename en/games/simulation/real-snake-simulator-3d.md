@@ -21,4 +21,4 @@ Real Snake Simulator 3D takes you to play a life of a giant real snake that need
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Animal, Battle, Collecting, Skibidi, Skibidi Toilet, Zuma
+- Tags: Adventure, Animal, battle, Collecting, Skibidi, skibidi-toilet, Zuma

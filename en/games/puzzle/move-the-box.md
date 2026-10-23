@@ -19,6 +19,6 @@ Move the Box game is a bit like a game of golf, and above all in that the block 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Fun, Funny, HTML5, Kids, Logic, Physics, Skill

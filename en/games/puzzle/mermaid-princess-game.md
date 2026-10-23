@@ -19,6 +19,6 @@ Do you love Mermaid Princess Games? Do you love Princess house cleaning and clea
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Girls, HTML5, Kid, Kids, Mermaid, Princess, Unity3D

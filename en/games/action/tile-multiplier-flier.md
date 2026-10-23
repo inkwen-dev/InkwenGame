@@ -21,4 +21,4 @@ Tile Multiplier Flier is a fast-paced game where players strategically place let
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, iPad, iPhone, Jumping, Mobile, Platform, Puzzle, Unity3D, WebGL
+- Tags: Android, Arcade, iPad, iPhone, jumping, Mobile, Platform, Puzzle, Unity3D, WebGL

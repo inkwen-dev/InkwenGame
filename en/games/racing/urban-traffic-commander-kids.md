@@ -21,4 +21,4 @@ Traffic Commander - Kids is an easy version of Traffic Commander game by Immanit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Management, Puzzle, Traffic
+- Tags: Car, management, Puzzle, Traffic

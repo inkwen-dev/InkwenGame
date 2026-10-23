@@ -21,4 +21,4 @@ Stickman Archer is a sleek and athletic black stickman warrior with a simple but
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Physics, realistic, Stickman
+- Tags: Physics, realistic, stickman

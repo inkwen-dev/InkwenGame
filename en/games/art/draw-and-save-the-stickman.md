@@ -21,4 +21,4 @@ Draw And Save The Stickman is a fun and addictive puzzle game where your creativ
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing, Logic, Puzzle, Stickman
+- Tags: drawing, Logic, Puzzle, stickman

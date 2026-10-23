@@ -19,6 +19,6 @@ Football King offers a highly engaging gameplay experience where players can sel
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Football, free html5 games for your website, FreezeNova, Online, onlinegames io, Sport

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, 球, 大脑, 色彩, 心智, 益智, Unity3D
+- 标签: 3D, 3D游戏, 球, 大脑, 颜色, 思维, 益智, Unity3D

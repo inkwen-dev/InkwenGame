@@ -21,4 +21,4 @@ Unblocked Golf Challenge is an exciting 3D golf game with multiple levels of var
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Android, Click, Golf, HTML5, iPad, iPhone, Mentolatux, Mobile, Unity3D
+- Tags: 3D, 3D Games, Android, Click, golf, HTML5, iPad, iPhone, Mentolatux, Mobile, Unity3D

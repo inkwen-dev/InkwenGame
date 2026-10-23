@@ -19,6 +19,6 @@ Are you ready to spend a day as a chief in the restaurant? Welcome to My Cute Re
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cooking, Restaurant
+- Tags: Animal, Cooking, restaurant

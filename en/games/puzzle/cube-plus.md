@@ -19,6 +19,6 @@ Forget the existing 3 matches! Cube Plus features: &middot; Easy operation-Enjoy
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Hypercasual, Match3, Puzzle
+- Tags: block, Hypercasual, Match3, Puzzle

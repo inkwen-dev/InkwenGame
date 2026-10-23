@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Android, Arcade, Classic, Fun, Funny, jump, Jumping, Kid, Kids, Kill, Killing, King, Mario, Mobile, Pixel, Princess, run, running, Skill, Skills, Super, Superhero, Sword
+- Tags: Adventure, Android, Arcade, Classic, Fun, Funny, jump, jumping, Kid, Kids, Kill, Killing, King, mario, Mobile, pixel, Princess, run, running, Skill, Skills, Super, Superhero, sword

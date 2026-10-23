@@ -19,6 +19,6 @@ Minecraft Runner city - Explore the whole craft world with the craft game: Craft
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Casual, Hypercasual, Mine, Minecraft, Miner, run, running, subway, Subway Surfers

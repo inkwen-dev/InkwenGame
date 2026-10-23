@@ -21,4 +21,4 @@ Sniper Master 3D is new a Brand new Sniper Game its Time For Trigger Shooting . 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Boy, Boys, Cool, HTML5, Shoot, Shooter, Shooting, Sniper, WebGL
+- Tags: 3D, Action, Boy, Boys, cool, HTML5, Shoot, Shooter, Shooting, sniper, WebGL

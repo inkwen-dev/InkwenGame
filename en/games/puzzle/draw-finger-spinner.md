@@ -19,6 +19,6 @@ We all know that Fidget Spinner was created to destroy the stress and kill the t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Adult, Adventure, Anime, Arcade, Arena, Arkanoid, Army, Barbie, Boy, Boys, Bubble, Candy, Fun, Game, Games, Girl, Girls, Space, Spaceship, Spiderman, Spongebob, Sport, Sports
+- Tags: 3D Games, Adult, Adventure, Anime, Arcade, Arena, Arkanoid, Army, Barbie, Boy, Boys, Bubble, Candy, Fun, Game, Games, Girl, Girls, Space, Spaceship, Spiderman, Spongebob, Sport, sports

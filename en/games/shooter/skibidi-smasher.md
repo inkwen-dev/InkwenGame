@@ -21,4 +21,4 @@ Skibidi Toilet Smasher is an exciting alien-killing game where you have to defen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Alien, Clicker, HTML, Mobile, Shooting, Skibidi, Skibidi Toilet
+- Tags: Alien, Clicker, HTML, Mobile, Shooting, Skibidi, skibidi-toilet

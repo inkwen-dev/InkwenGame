@@ -19,6 +19,6 @@ Try the Cartoon Retro Car Parking 2019 in nice mission of driving. You will have
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Parking
+- Tags: Car, parking

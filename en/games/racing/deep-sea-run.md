@@ -19,6 +19,6 @@ Deep Sea Run is a great funny racing game! It's an endless addictive runner with
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Arcade, Boy, Family, Game, Girl, HTML, HTML5, Kid, Kids, Race, run, running

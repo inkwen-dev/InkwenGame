@@ -27,4 +27,4 @@ Tiles keep coming from the top and move down. Your job is to make sure none of t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mahjong, Mobile, popular, Puzzle
+- Tags: mahjong, Mobile, popular, Puzzle

@@ -19,6 +19,6 @@ Sandman Pixel Race 3D: Imposter Pixel 3d Man Run Game is a satisfying and entert
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Color, Coloring, Game, Hypercasual, Online, Pixel, Race, run, running, Stickman
+- Tags: 3D, Arcade, Color, Coloring, Game, Hypercasual, Online, pixel, Race, run, running, stickman

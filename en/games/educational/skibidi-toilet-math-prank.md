@@ -21,4 +21,4 @@ Skibidi Toilet Math Prank test you to answer the math quickly before time run ou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Educational, Math, Skibidi, Skibidi Toilet
+- Tags: 1 Player, educational, math, Skibidi, skibidi-toilet

@@ -21,4 +21,4 @@ Armour Crush is a strategy tank deployment game. Objective is to destroy the opp
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Card, Skill
+- Tags: Action, battle, card, Skill

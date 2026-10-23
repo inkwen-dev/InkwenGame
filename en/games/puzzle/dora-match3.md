@@ -19,6 +19,6 @@ Dora Match3 is a colorful puzzle adventure featuring your favorite explorer. Mat
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Girls, HTML5, Match 3

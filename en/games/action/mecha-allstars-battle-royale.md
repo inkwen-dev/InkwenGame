@@ -19,6 +19,6 @@ Get ready to enter the ultimate battlefield of steel and fire. Mecha Allstars Ba
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Fighting, Strategy
+- Tags: Action, battle, fighting, strategy

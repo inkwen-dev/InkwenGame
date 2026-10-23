@@ -19,6 +19,6 @@ Are you a good shot? Let’s find out! Note: Don’t forget to upgrade your arse
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble Shooter, Casual, Gun, Shoot, Shooter, Shooting

@@ -21,4 +21,4 @@ In a difficult and distant world, the brave cat Snowball will start your adventu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Boys, Casual, Christmas, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Puzzle, Snow, Word
+- Tags: Arcade, Best, Boys, Casual, Christmas, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Puzzle, Snow, word

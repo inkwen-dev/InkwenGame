@@ -19,6 +19,6 @@ Dive into the fantastic world of Fishdom! Youre in for an ocean of exciting leve
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cute, Fish, Fishing, Fun, html5 games for your site, kiz10, Puzzle, Rescue

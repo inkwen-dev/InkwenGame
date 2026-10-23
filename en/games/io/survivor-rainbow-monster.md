@@ -21,4 +21,4 @@ Im Red Monster - your guide in this Survivor In Rainbow Monster io game. The fir
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Action, Adventure, Brain, Monster, monstertruck
+- Tags: .io Games, Action, Adventure, Brain, monster, monstertruck

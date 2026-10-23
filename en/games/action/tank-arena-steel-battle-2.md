@@ -15,6 +15,6 @@ Dive into the heart of battle in Tank Arena Steel Battle, where every shot count
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Tanks
+- Tags: tanks

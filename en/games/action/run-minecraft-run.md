@@ -21,4 +21,4 @@ Run Minecraft Run is a great arcade game. Jump or duck to avoid the fire arrows.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Avoid, Boys, HTML5, jump, Jumping, Minecraft, run, running
+- Tags: Android, Avoid, Boys, HTML5, jump, jumping, Minecraft, run, running

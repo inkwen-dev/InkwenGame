@@ -21,4 +21,4 @@ Math Mania is a fast-paced educational game where quick thinking is the key! Sol
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Educational, Fun, Highscore, Kids, Math, Mind, Mobile, Number, Puzzle, Quiz, Relaxation, Skill
+- Tags: Brain, educational, Fun, Highscore, Kids, math, Mind, Mobile, Number, Puzzle, Quiz, Relaxation, Skill

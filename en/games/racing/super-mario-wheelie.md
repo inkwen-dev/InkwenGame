@@ -19,6 +19,6 @@ In Super Mario Wheelie, free online game, jump on your motorcycle and drive like
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Boys, Driving, Fun, HTML5, Hypercasual, Kids, Mario, Mobile, Motorcycle, Obstacle, Race, Racing
+- Tags: bike, Boys, Driving, Fun, HTML5, Hypercasual, Kids, mario, Mobile, Motorcycle, Obstacle, Race, Racing

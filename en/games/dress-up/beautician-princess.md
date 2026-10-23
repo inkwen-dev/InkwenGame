@@ -19,6 +19,6 @@ Modern technologies and materials make our lives better. Test yourself as a beau
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cute, Doctor, Dress Up, Girl, Makeover

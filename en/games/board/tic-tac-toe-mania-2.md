@@ -15,6 +15,6 @@ Tic Tac Toe Mania offers a modern twist on a classic duel of wits. Strategically
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Board

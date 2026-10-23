@@ -21,4 +21,4 @@ Master of 3 Tiles is a thrilling online puzzle game. Match identical tiles in se
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Mahjong, Match 3, Puzzle, scrabble
+- Tags: Brain, mahjong, Match 3, Puzzle, scrabble

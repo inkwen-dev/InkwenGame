@@ -19,6 +19,6 @@ Help Tom! Find the key on the map and free Tom from the room. It will make you r
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Adventure, Platform, run, running, Unity3D, WebGL

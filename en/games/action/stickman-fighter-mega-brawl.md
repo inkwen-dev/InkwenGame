@@ -21,4 +21,4 @@ STICKMAN FIGHTER MEGA BRAWL is the best stickman action game. Fight against othe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Brawl, Fight, Fighting, Skills, Stickman, weapons
+- Tags: Action, Arcade, Brawl, Fight, fighting, Skills, stickman, weapons

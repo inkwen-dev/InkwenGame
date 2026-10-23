@@ -21,4 +21,4 @@ Do you want to drive a truck with a heavy crane? Here is both a 3D truck driving
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boy, Driving, Kid, Mobile, Parking, Simulation, Truck
+- Tags: 3D, Boy, Driving, Kid, Mobile, parking, Simulation, truck

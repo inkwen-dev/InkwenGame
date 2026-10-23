@@ -21,4 +21,4 @@ Mini Colors is a puzzle game where you have to turn on/off color platforms in or
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Arcade, HTML5, Pixel, Platform, Puzzle, Retro
+- Tags: 1 Player, 2D, Android, Arcade, HTML5, pixel, Platform, Puzzle, retro

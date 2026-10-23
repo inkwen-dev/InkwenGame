@@ -21,4 +21,4 @@ Babysitter Daycare is a very cute caring game. Do you like playing with little b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Color, Coloring, Cute, Decorate, Decoration, Dress Up, Educational, Family, Fun, Girls, HTML5, Kids, Mobile
+- Tags: Baby, Color, Coloring, Cute, Decorate, Decoration, Dress Up, educational, Family, Fun, Girls, HTML5, Kids, Mobile

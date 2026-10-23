@@ -21,4 +21,4 @@ Talking Santa Claus is a delightful and free online game designed especially for
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Christmas, Drawing, Hypercasual, Kids, Physics, Santa, Santa Claus, Winter
+- Tags: Avoid, Christmas, drawing, Hypercasual, Kids, Physics, Santa, Santa Claus, Winter

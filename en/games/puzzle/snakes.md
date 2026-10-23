@@ -23,4 +23,4 @@ SNAKES is a fun and relaxing puzzle game where you guide colorful snakes to fill
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Puzzle, Snake
+- Tags: Puzzle, snake

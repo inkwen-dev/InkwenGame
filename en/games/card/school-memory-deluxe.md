@@ -21,4 +21,4 @@ Click the cards to reveal the items. Memorize their locations so that you can ma
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Card, Educational, Fun, HTML5, Kids, Matching, Memory, Mobile, Puzzle, School
+- Tags: Board, card, educational, Fun, HTML5, Kids, Matching, memory, Mobile, Puzzle, School

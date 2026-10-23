@@ -21,4 +21,4 @@ Our hero will go to a special site and there will stand on the platform. From di
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Fun, HTML5, Hypercasual, jump, Jumping, Kids, Mobile, Skill
+- Tags: Casual, Fun, HTML5, Hypercasual, jump, jumping, Kids, Mobile, Skill

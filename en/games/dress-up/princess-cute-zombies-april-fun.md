@@ -19,6 +19,6 @@ Want to have some fun on April Fools Day? Then join Eliza and Jacqueline. The pr
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Blood, Crazy, Disney, Dress Up, Elsa, Fantasy, Fashion, Frozen, Fun, Funny, Girl, Girls, Hair, Makeover, Monster, Zombie
+- Tags: Blood, crazy, Disney, Dress Up, Elsa, Fantasy, Fashion, Frozen, Fun, Funny, Girl, Girls, Hair, Makeover, monster, Zombie

@@ -21,4 +21,4 @@ Wolfoo Memory Sequence is a colorful memory game for kids starring Wolfoo and fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Memory
+- Tags: memory

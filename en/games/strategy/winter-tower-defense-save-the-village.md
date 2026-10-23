@@ -21,4 +21,4 @@ A fun winter-themed tower defense game. Some creepy clowns and some other odd lo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mobile, Strategy, Tower Defense, Winter
+- Tags: Mobile, strategy, Tower Defense, Winter

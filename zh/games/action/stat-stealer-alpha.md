@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 战斗, 点击游戏, 角色扮演, 切割
+- 标签: 战斗, 点击器, rpg, 切割

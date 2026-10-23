@@ -21,4 +21,4 @@ Enter the Smithing Master, an addictive casual role-playing game where you play 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Funny, Monster, Simulation
+- Tags: battle, Funny, monster, Simulation

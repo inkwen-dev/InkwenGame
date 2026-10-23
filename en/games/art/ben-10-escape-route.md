@@ -19,6 +19,6 @@ Play BEN 10 Escape Route game and join Ben 10 in a new mission. This time, you n
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ben 10, Boys, Cartoon, Cartoon Network, Drawing, Family, Girls, HTML5, Kids, Mobile, Puzzle, Superhero
+- Tags: Ben 10, Boys, Cartoon, Cartoon Network, drawing, Family, Girls, HTML5, Kids, Mobile, Puzzle, Superhero

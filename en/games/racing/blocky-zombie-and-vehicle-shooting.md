@@ -19,6 +19,6 @@ are you ready to hunt some zombie? are you ready to drive vehicle and destroy ot
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Multiplayer, Pixel, Shooter, Unity3D, WebGL, Zombie
+- Tags: Car, Multiplayer, pixel, Shooter, Unity3D, WebGL, Zombie

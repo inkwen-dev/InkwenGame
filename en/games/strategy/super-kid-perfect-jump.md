@@ -19,6 +19,6 @@ Lead your units to the final victory. They have started to invade the galaxy and
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Board, Brain, Defense, jump, Jumping, Kid, Space, Strategy, Tower Defense
+- Tags: Arcade, Board, Brain, Defense, jump, jumping, Kid, Space, strategy, Tower Defense

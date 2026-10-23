@@ -19,6 +19,6 @@ Galactic War is a game which includes past and future at the same time, it has h
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Shoot 'Em Up, Shooter, Shooting, Space

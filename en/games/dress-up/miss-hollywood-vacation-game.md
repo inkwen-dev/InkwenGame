@@ -19,6 +19,6 @@ After winning a dream getaway to visit a beautiful island resort, Miss Hollywood
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cook, Cooking, Dress Up, Fun, Girl, Girls, H5, HTML5, Kid, Kids

@@ -21,4 +21,4 @@ Hi! Are you ready to match words with pictures? Each letter is a different level
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Matching, Word
+- Tags: 1 Player, Matching, word

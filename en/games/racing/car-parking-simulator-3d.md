@@ -21,4 +21,4 @@ Are you good at hard-core car parking simulation games like Car Parking Simulato
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Car, Driving, Mobile, Obstacle, Parking, Simulation
+- Tags: 3D, Avoid, Car, Driving, Mobile, Obstacle, parking, Simulation

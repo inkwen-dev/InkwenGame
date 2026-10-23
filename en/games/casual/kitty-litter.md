@@ -19,6 +19,6 @@ Kitty Litter is a fun and addictive stack-and-run game where you help a cute kit
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Best Games, Cat, Hello Kitty, Stack

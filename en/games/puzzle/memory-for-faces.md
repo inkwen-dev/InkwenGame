@@ -21,4 +21,4 @@ Let's boost your memory power! Flip tiles to find two identical tiles to remove 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Classic, Girls, HTML5, Memory, Point And Click
+- Tags: Classic, Girls, HTML5, memory, Point And Click

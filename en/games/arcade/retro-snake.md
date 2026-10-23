@@ -21,4 +21,4 @@ Are you one of the ones who miss the classic games? Here is a really fun and ret
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Classic, Retro, Snake
+- Tags: 2D, Arcade, Classic, retro, snake

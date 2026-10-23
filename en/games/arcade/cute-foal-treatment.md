@@ -19,6 +19,6 @@ Cute lovely foal got a heavy injury on her body, she needs the best care and tre
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Funny, Horse
+- Tags: Animal, Arcade, Funny, horse

@@ -21,4 +21,4 @@ Following the worldwide success of its sports games, iWare Designs presents Pro 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Sport, Sports
+- Tags: Sport, sports

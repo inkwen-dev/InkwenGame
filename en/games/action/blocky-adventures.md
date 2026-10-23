@@ -19,6 +19,6 @@ Blocky Adventures is a fast platformer where every jump counts. Guide your littl
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Jumping, Platform, Skill
+- Tags: 2D, jumping, Platform, Skill

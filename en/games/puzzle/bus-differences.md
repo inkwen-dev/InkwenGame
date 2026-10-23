@@ -19,6 +19,6 @@ Now is the time to look at several buses in which we need to find differences. B
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: bus, Difference, Fun, HTML5, Kids, Mobile, Skill

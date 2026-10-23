@@ -19,6 +19,6 @@ Simple to play but difficult to master. Puzzles range from beginner to expert fe
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Board, Brain, Collecting, Collection, HTML, HTML5, Hypercasual, Matching, Mind, Puzzle
+- Tags: block, Board, Brain, Collecting, Collection, HTML, HTML5, Hypercasual, Matching, Mind, Puzzle

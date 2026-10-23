@@ -21,4 +21,4 @@ Today, in the game Monster and Candy we will move you in the interesting world p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Best, Candy, Fun, Funny, Kids, Mobile, Monster, Skill
+- Tags: 1 Player, Best, Candy, Fun, Funny, Kids, Mobile, monster, Skill

@@ -21,4 +21,4 @@ In the Skibidi Toilet Parkour run game you Dash Toilet Toilets to Toilets. Flip,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Best, Best Games, Hypercasual, jump, Jumping, run, running, Unity3D
+- Tags: 3D, 3D Games, Arcade, Best, Best Games, Hypercasual, jump, jumping, run, running, Unity3D

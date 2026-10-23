@@ -21,4 +21,4 @@ You have already perfectly learned all the heroes of the world of Sonic, who are
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Kids, Memory, Mobile
+- Tags: HTML5, Kids, memory, Mobile

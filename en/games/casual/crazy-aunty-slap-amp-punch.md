@@ -19,6 +19,6 @@ Had a long day and need to blow off some steam? Meet Crazy Aunty, the hilarious 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, angry, attack, Crazy, Punch
+- Tags: 3D Games, angry, attack, crazy, Punch

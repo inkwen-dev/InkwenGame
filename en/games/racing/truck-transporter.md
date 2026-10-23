@@ -21,4 +21,4 @@ In the game Truck Transporter you will drive a truck of the company KamAZ. Your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Driving, Fun, HTML5, Mobile, Skill, Truck
+- Tags: 1 Player, Driving, Fun, HTML5, Mobile, Skill, truck

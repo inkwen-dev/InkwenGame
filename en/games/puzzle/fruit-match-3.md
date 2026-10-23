@@ -19,6 +19,6 @@ Fruit Match 3 is a match-3 games with the fruits. In each level, you need to cle
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fruit, Fruits, HTML5, Match 3, Match3, Matching

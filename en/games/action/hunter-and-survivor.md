@@ -21,4 +21,4 @@ Hunter and Survivor is an intense hide-and-seek game where you play as either th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Hidden, Hunting, running
+- Tags: Avoid, Hidden, hunting, running

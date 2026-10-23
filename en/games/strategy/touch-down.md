@@ -19,6 +19,6 @@ you have to draw a line with your finger to final point for win
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Brain, Hypercasual, Strategy
+- Tags: 3D, Brain, Hypercasual, strategy

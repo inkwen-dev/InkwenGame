@@ -21,4 +21,4 @@ Experience the ultimate shooting adventure. In Pubg Hack, you step into the batt
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: battleship, Shoot, Strategy, weapons
+- Tags: battleship, Shoot, strategy, weapons

@@ -21,4 +21,4 @@ Drive a red sports car through city streets and park it into marked parking spac
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Driving, HTML5, Parking
+- Tags: Car, Driving, HTML5, parking

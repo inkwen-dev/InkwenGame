@@ -42,4 +42,4 @@ Use your reaction and accuracy to win every fight! The faster and more accurate 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Boys, Fighting, Mobile, ragdoll
+- Tags: Action, Boys, fighting, Mobile, ragdoll

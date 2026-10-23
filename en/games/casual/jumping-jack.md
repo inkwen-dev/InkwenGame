@@ -21,4 +21,4 @@ Hey there, friend! Get ready to get on an epic adventure with Jack in the pursui
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Family, Halloween, HTML, jump, Jumping, mapi games, Mobile
+- Tags: Casual, Family, Halloween, HTML, jump, jumping, mapi games, Mobile

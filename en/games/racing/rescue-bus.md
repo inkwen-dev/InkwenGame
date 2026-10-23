@@ -21,4 +21,4 @@ A fire is sparked by the earthquake! Hurry up and guide the residents to escape.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Action, Adventure, bus, Car, Cars, Casual, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing, Rescue, Simulation, Simulator
+- Tags: .io Games, Action, Adventure, bus, Car, Cars, Casual, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, jumping, Race, Racing, Rescue, Simulation, Simulator

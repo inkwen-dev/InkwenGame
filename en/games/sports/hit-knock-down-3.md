@@ -21,4 +21,4 @@ Throw balls at structures to make them collapse but be careful not to exceed the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Android, Ball, Basketball, Bomb, Football
+- Tags: 3D, Action, Adventure, Android, Ball, basketball, Bomb, Football

@@ -28,4 +28,4 @@ Created by game experts and played by millions of puzzle lovers worldwide, Jigsa
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, Mobile, Puzzle
+- Tags: Brain, educational, Mobile, Puzzle

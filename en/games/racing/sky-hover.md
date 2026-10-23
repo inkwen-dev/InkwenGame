@@ -19,6 +19,6 @@ Sky Hover is an exciting endless racing game in which you touch left and right t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Fighting, Highscore, Plane, sky
+- Tags: Action, Adventure, Arcade, fighting, Highscore, Plane, sky

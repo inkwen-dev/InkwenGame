@@ -21,4 +21,4 @@ Street Dunk is an simple but very addictive game which base on realistic physics
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Ball, Basketball, Bounce, Obstacle, Physics, Shoot
+- Tags: Avoid, Ball, basketball, Bounce, Obstacle, Physics, Shoot

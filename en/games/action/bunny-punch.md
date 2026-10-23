@@ -19,6 +19,6 @@ Bunny Punch - is a game where you and your bunny have to punch and destroy the b
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boxing, Click, Clicker, Fight, Fighting, Punch, Rabbit
+- Tags: Boxing, Click, Clicker, Fight, fighting, Punch, Rabbit

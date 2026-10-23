@@ -21,4 +21,4 @@ Unblock Skibidi : is an amazing tile puzzle with a modern challenging twist. Mov
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 2D, Android, HTML5, Hypercasual, iPad, iPhone, Skibidi, Skibidi Toilet, Skill
+- Tags: .io, 2D, Android, HTML5, Hypercasual, iPad, iPhone, Skibidi, skibidi-toilet, Skill

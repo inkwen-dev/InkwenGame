@@ -21,4 +21,4 @@ On the battle arena of Stick Duelists, a new battle is beginning with the new he
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Arena, Battle, Shooting, Skill, Stickman, Superhero, War
+- Tags: 2 Player, 2 Player Games, Arena, battle, Shooting, Skill, stickman, Superhero, War

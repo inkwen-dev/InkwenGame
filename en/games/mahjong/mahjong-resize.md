@@ -21,4 +21,4 @@ You need to find and match tiles with the same pictures of animals. Unlike regul
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Fun, Funny, Logic, Mahjong, Puzzle, Skill
+- Tags: 1 Player, Animal, Fun, Funny, Logic, mahjong, Puzzle, Skill

@@ -19,6 +19,6 @@ Jerry & Cheese is original game concept which was created by our team. Jerry lov
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Adult, Adventure, Android, Animal, Anime, Avoid, Baby, Baby Hazel, Balance, Brain, Brawl, Cat, Fairy, Family, Girl, Girls, Kid, Kids, Shooting, World

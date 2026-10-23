@@ -19,6 +19,6 @@ Wrestling Fight - is a wrestling game with an entertaining version of it. Your g
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Click, Clicker, Fight, Fighting, Kid, Kids
+- Tags: Action, Arcade, Click, Clicker, Fight, fighting, Kid, Kids

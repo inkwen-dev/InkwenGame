@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 战斗, 格斗, 火焰, HTML5, 投篮
+- 标签: 动作, 格斗, 格斗, 火焰, HTML5, 射击

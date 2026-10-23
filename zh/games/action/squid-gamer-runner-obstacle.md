@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 安卓, 点击游戏, HTML5, 移动, 障碍, 跑, 跑步, 技巧, Unity3D, WebGL
+- 标签: 3D, 3D游戏, 安卓, 点击器, HTML5, 移动设备, 障碍, 跑, 奔跑, 技巧, Unity3D, WebGL

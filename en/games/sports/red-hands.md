@@ -21,4 +21,4 @@ Challenge your friends to a game of classic fast reaction game – hand slapping
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Kids, Multiplayer, Red, Sports
+- Tags: Boys, Kids, Multiplayer, Red, sports

@@ -19,6 +19,6 @@ If you’re someone who loves to watch movies and shows, then you must have watc
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Adventure, Anime, Arcade, Battle, Escape, Hypercasual, Movie
+- Tags: 3D Games, Adventure, Anime, Arcade, battle, Escape, Hypercasual, Movie

@@ -19,6 +19,6 @@ Power the bulb is a connecting puzzle game . In this game, you need to connect t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Click, Hypercasual, Puzzle

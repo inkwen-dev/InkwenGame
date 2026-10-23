@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 汽车, 汽车, 驾驶, 怪物, 赛车, 超跑, 卡车, Unity3D
+- 标签: 3D游戏, 汽车, 汽车, 驾驶, monster, 竞速, 超跑, 卡车, Unity3D

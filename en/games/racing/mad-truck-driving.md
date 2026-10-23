@@ -19,6 +19,6 @@ Do you love driving trucks and crushing cars? Then you will enjoy Mad Truck Driv
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Boys, Car, Collecting, Girls, Kids, monstertruck, Truck
+- Tags: Avoid, Boys, Car, Collecting, Girls, Kids, monstertruck, truck

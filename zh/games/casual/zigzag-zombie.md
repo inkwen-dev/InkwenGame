@@ -21,4 +21,4 @@ Zigzag Zombie 无尽跑酷是一款免费在线游戏。在这个 zigzag 无尽�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 休闲, 游戏, 游戏, HTML, HTML5, 超休闲, 在线, 竞速
+- 标签: 休闲, 游戏, 网页游戏, HTML, HTML5, 超休闲, 在线, 比赛

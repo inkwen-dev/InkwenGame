@@ -19,6 +19,6 @@ Here is recommended as a skillful arcade car racing simulation game that is made
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Boy, Car, HTML5, Mobile, Platform, Racing, Skill

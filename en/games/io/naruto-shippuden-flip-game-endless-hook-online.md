@@ -19,6 +19,6 @@ naruto shippuden newest game online free based on the blockbuster games flap fla
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Adventure, Anime, Best, endless, fly, Hot, Online, Stickman
+- Tags: .io Games, Adventure, Anime, Best, endless, fly, Hot, Online, stickman

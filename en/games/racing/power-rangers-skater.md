@@ -21,4 +21,4 @@ The Red Ranger is trying to go to the mission by skateboarding. Let's skateboard
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cartoon, Driving, Fun, Games, HTML5, jump, Skateboard, Skating
+- Tags: Boys, Cartoon, Driving, Fun, Games, HTML5, jump, skateboard, Skating

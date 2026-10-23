@@ -19,6 +19,6 @@ You have to learn to jump over obstacles and over long distances. Will you be ab
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Avoid, Block, Boys, Craft, Fun, jump, Jumping, Minecraft
+- Tags: Action, Adventure, Avoid, block, Boys, Craft, Fun, jump, jumping, Minecraft

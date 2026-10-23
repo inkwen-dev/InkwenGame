@@ -21,4 +21,4 @@ UNRAVEL 是一款极简风格的滑动拼图游戏，规则看似简单：棋盘
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 大脑, 休闲, HTML5, html5游戏, html5 games for your site, 逻辑, 移动, 拼图, 放松, 滑梯
+- 标签: 单人, 大脑, 休闲, HTML5, HTML5游戏, 适用于您网站的HTML5游戏, 逻辑, 移动设备, 益智, 放松, 滑动

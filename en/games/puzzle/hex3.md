@@ -21,4 +21,4 @@ Rotate the Hexagon to prevent the blocks from stacking outside the outer grey he
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Color, Match 3, Match3, Puzzle, Tetris
+- Tags: block, Color, Match 3, Match3, Puzzle, tetris

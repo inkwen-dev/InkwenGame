@@ -19,6 +19,6 @@ Count Masters: Stickman Games About this game Choose the best gate, pass through
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 3D Games, Action, Best, Brain, Casual, Kids, Math, Number, Puzzle, run, running
+- Tags: 2026 games, 3D Games, Action, Best, Brain, Casual, Kids, math, Number, Puzzle, run, running

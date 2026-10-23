@@ -21,4 +21,4 @@ Bricks Puzzle Classic is a colorful version of Tetris. Arranging the colorful br
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Board, Brain, Bricks, Classic, HTML, Mobile, Tetris
+- Tags: Best, Board, Brain, Bricks, Classic, HTML, Mobile, tetris

@@ -19,6 +19,6 @@ Help Winki Tinli in his adventure, overcoming the different levels to achieve vi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Fruits, jump, Pixel, Platform
+- Tags: 1 Player, 2D, Fruits, jump, pixel, Platform

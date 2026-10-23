@@ -19,6 +19,6 @@ Shoot the arrows into the logs to break them. Slash the apples and unlock new ar
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, Best, Casual

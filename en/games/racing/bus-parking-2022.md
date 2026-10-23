@@ -19,6 +19,6 @@ Drive your bus to the parking spot before the timer runs out. Complete tough and
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, bus, Car, Interactive, Parking, Race
+- Tags: 3D, bus, Car, Interactive, parking, Race

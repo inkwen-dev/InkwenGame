@@ -21,4 +21,4 @@ Welcome to Kart Stroop Challenge car driving game! Kart Stroop Challenge is a fa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Cars, drift, drifting, Driving, Pixel
+- Tags: card, Cars, drift, drifting, Driving, pixel

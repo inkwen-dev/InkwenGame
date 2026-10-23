@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, 单人游戏, 大脑, 脑残, 脑残梗意大利版, 脑残梗守夜, 有趣, 跳跃, roblox, Sahur, Tung, 东东, 咚咚咚, 东东东守夜
+- 标签: .io, 单人, 大脑, 脑残, 意大利脑残, 脑残sahuuur, 有趣, 跳跃, Roblox, 斋月, Tung, 咚咚, 通通通, 咚咚咚 萨胡尔

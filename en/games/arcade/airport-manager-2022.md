@@ -19,6 +19,6 @@ t is time to take over this city airport! Build your own airline, managing all t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Barbie, Boys, Games, Girls

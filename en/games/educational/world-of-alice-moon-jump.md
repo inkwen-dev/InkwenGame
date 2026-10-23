@@ -19,6 +19,6 @@ World of Alice - Moon Jump World of Alice - Moon Jump is an educational game dev
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Educational, free games for your site, free games for your website, free html5 games for your website, games for your website, html games for your website, HTML5, html5 games for your site, jump, Jumping, Kids, School, Space
+- Tags: Best Games, educational, free games for your site, free games for your website, free html5 games for your website, games for your website, html games for your website, HTML5, html5 games for your site, jump, jumping, Kids, School, Space

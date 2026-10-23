@@ -19,6 +19,6 @@ Mack Trucks Coloring is a kids puzzle coloring game. Here you can color twelve i
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Funny, HTML5, Kids, Puzzle, Truck
+- Tags: Color, Coloring, Funny, HTML5, Kids, Puzzle, truck

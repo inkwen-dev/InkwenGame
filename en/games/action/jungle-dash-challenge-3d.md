@@ -21,4 +21,4 @@ Jungle Dash 3D is an 3D online game with simple controls. You must run in the ju
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping, running
+- Tags: jumping, running

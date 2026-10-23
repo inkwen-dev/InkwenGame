@@ -19,6 +19,6 @@ Aim your tennis balls at a tower of cubes on the table and knock the whole lot d
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Block, cannon, destroy, Family, Physics, Puzzle
+- Tags: 3D, block, cannon, destroy, Family, Physics, Puzzle

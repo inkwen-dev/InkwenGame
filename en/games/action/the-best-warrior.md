@@ -19,6 +19,6 @@ In The Best Warrior, you start as a humble peasant with one goal&mdash;to become
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, attack, Battle, Best, Best Games, Click, Clicker, Fighting, Knight, Pixel, RPG, Sword, Warrior
+- Tags: Action, Adventure, attack, battle, Best, Best Games, Click, Clicker, fighting, knight, pixel, rpg, sword, Warrior

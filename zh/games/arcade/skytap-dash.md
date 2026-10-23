@@ -21,4 +21,4 @@ SkyTap Dash 是一款快节奏的点击飞行街机游戏，拥有流畅的操�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 鸟类, 弹跳, 无尽, flappybird, 飞行, 休闲, 跳跃, 移动设备
+- 标签: 街机, 小鸟, 弹跳, 无尽, flappybird, 飞, 超休闲, 跳跃, 移动设备

@@ -19,6 +19,6 @@ Move the Items to the blank spaces in order to create a horizontal or vertical r
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Christmas, Fun, HTML5, Matching, Mobile, Puzzle, Skill

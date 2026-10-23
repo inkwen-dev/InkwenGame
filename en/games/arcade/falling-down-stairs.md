@@ -19,6 +19,6 @@ Jump off the stairs and control the center of gravity. This is a bottomless spir
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Avoid, Boys, endless, H5, Highscore, Hypercasual, Obstacle, Online, Race, Skill

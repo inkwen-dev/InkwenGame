@@ -21,4 +21,4 @@ Enter the realm of Wars Island Management, where players must forge their own ar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Management, Mentolatux, unity games, War, WebGL
+- Tags: Army, management, Mentolatux, unity games, War, WebGL

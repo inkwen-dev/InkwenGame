@@ -21,4 +21,4 @@ Animal House With the Animal House game you learn the natural habitat of each an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Best, Educational, Kids, Puzzle
+- Tags: Animal, Best, educational, Kids, Puzzle

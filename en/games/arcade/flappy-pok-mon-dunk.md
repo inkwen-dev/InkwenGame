@@ -19,6 +19,6 @@ An addicted hypercasual game, simple to control, nice design, fun and relax-able
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Casual, Clicker, fly, Fun, Mobile

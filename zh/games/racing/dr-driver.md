@@ -21,4 +21,4 @@ DR Driving 2 是由 CoolMathGamesKids.com 开发的一款出色的特技赛车�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 动作, 冒险, 街机, 汽车, cars, 漂移驾驶, 驾驶, 有趣, 搞笑, 超休闲, 停车, 超级, Unity3D
+- 标签: 3D, 动作, 冒险, 街机, 汽车, 汽车, 漂移, 驾驶, 有趣, 搞笑, 超休闲, 停车, 超级, Unity3D

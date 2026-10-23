@@ -21,4 +21,4 @@ Control an eight-wheels car as you conquer mountains and hills in this uphill dr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collecting, Driving, Fun, HTML5, Mobile, Obstacle, Physics, Skill, Truck
+- Tags: Collecting, Driving, Fun, HTML5, Mobile, Obstacle, Physics, Skill, truck

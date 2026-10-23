@@ -21,4 +21,4 @@ Zombie Parade Defense 4 continues with new defense. Defense this time is more di
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Battle, Castle, Shooting, Tower Defense, War, Zombie
+- Tags: 2 Player, 2 Player Games, 2D, battle, Castle, Shooting, Tower Defense, War, Zombie

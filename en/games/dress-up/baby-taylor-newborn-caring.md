@@ -19,6 +19,6 @@ Taylor's mom is about to give birth to a baby! Give her an emergency call! While
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cooking, Cute, Dress Up, Educational, Food, Girl, Girls, Kids, Simulation
+- Tags: Baby, Cooking, Cute, Dress Up, educational, Food, Girl, Girls, Kids, Simulation

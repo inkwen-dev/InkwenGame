@@ -19,6 +19,6 @@ Witch Flight is an endless game in which you play as a witch flying through the 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Air, Arcade, Clicker, Flight, Ghost, Halloween, Hypercasual, Witch
+- Tags: Action, Air, Arcade, Clicker, flight, Ghost, Halloween, Hypercasual, Witch

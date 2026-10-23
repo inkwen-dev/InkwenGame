@@ -19,6 +19,6 @@ Drive a forklift, balance wobbly loads and deliver them in one piece! In Warehou
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, cargo, Casual, Driving, HTML5, Levels, Mobile, Parking, Physics, Puzzle, Simulation, Simulator, Skill, Truck, unity, vehicle, WebGL
+- Tags: 3D, 3D Games, cargo, Casual, Driving, HTML5, Levels, Mobile, parking, Physics, Puzzle, Simulation, Simulator, Skill, truck, unity, vehicle, WebGL

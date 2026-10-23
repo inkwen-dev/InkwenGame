@@ -21,4 +21,4 @@ Army Vehicles Memory is a free online game from genre of memory and military gam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Memory, Puzzle
+- Tags: memory, Puzzle

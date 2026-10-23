@@ -21,4 +21,4 @@ This game is about cute little monsters that you have to pop to complete the lev
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cute, Funny, Logic, Monster
+- Tags: Cute, Funny, Logic, monster

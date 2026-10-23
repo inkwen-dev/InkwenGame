@@ -19,6 +19,6 @@ You play a role of a Saviour Virus, which is intentionally injected in a Covid-1
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2 Player, Arena, Multiplayer, Snake
+- Tags: .io, .io Games, 2 Player, Arena, Multiplayer, snake

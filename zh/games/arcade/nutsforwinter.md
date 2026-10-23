@@ -21,4 +21,4 @@ Nuts For Winter 是一款可爱且高品质的物理驱动游戏，提供数小�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2025 游戏, 冒险, 街机
+- 标签: 2025年游戏, 冒险, 街机

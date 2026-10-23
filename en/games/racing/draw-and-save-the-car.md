@@ -19,6 +19,6 @@ Use your imagination and draw a bridge to help the car trying to reach its desti
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Car, Casual, Draw, Drawing, Fun, Funny, Puzzle, Skill
+- Tags: Brain, Car, Casual, Draw, drawing, Fun, Funny, Puzzle, Skill

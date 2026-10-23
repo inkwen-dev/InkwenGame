@@ -19,6 +19,6 @@ Use your reaction to go down as far as possible in the Snake Down game. Each cli
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Fruit, Game, HTML5, Jumping, Mobile, New, Snake, Worm
+- Tags: 2D, Arcade, Fruit, Game, HTML5, jumping, Mobile, New, snake, worm

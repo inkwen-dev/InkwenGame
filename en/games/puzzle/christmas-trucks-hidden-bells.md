@@ -21,4 +21,4 @@ Christmas Trucks Hidden Bells is a free online skill and hidden object game. Fin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Casual, Christmas, Fun, Hidden, Holiday, Hypercasual, Mobile, Skill, Truck
+- Tags: 1 Player, Casual, Christmas, Fun, Hidden, Holiday, Hypercasual, Mobile, Skill, truck

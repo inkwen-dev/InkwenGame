@@ -15,6 +15,6 @@ Experience the thrill of Right Tap, where perfect timing and reflexes are your b
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: tap

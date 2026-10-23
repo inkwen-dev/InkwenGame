@@ -21,4 +21,4 @@ Mermaid Struggle is an online game that challenges players to help a mermaid jum
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Game, Games, HTML5, jump, Jumping, Online, Platform
+- Tags: Adventure, Arcade, Game, Games, HTML5, jump, jumping, Online, Platform

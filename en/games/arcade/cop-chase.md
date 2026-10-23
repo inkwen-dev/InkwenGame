@@ -21,4 +21,4 @@ Run!! Police cars are chasing you! Hold your steering strong and evade them away
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Highscore, HTML, HTML5, Hypercasual, Police
+- Tags: Action, Adventure, Arcade, Highscore, HTML, HTML5, Hypercasual, police

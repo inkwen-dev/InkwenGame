@@ -21,4 +21,4 @@ Defend your castle in a relentless battle against hordes of terrifying enemies!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Castle, Defense, Fire, Magic, Shooting, Tower Defense
+- Tags: Action, battle, Castle, Defense, Fire, Magic, Shooting, Tower Defense

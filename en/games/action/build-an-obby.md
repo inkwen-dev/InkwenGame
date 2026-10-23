@@ -21,4 +21,4 @@ Build your Obby! How big can you make it? &bull; Buy blocks, walls, ramps, lava,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: build, builder, building, Creation, jump, Jumping, Road, roblox, run, running
+- Tags: build, builder, building, Creation, jump, jumping, Road, roblox, run, running

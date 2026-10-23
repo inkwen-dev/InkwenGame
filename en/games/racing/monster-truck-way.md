@@ -21,4 +21,4 @@ Monster Truck Madness is a driving platform HTML5game. Monster Truck Madness is 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, HTML5, Racing, Truck
+- Tags: Driving, HTML5, Racing, truck

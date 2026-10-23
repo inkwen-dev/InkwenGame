@@ -21,4 +21,4 @@ Hit The Skibidi is a fun game where you need to throw a diamond sword to Steve b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Click, endless, Funny, Game, Games, Highscore, Hypercasual, Kid, Minecraft, Music, Turn Based
+- Tags: Boy, Boys, Click, endless, Funny, Game, Games, Highscore, Hypercasual, Kid, Minecraft, music, Turn Based

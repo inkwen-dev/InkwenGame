@@ -21,4 +21,4 @@ A dollhouse and fashion for girls! Building, creation and craft! It is the best 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cleaning, Cool, Creation, Fun, Management
+- Tags: Baby, Cleaning, cool, Creation, Fun, management

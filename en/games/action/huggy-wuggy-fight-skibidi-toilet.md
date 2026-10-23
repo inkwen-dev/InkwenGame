@@ -19,6 +19,6 @@ Huggy Wuggy and Killy Willy fight Skibidi Toilet in Poppy Playtime. Grab all rif
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Fighting, huggy, Play, Skibidi, Skibidi Toilet
+- Tags: 3D, fighting, huggy, Play, Skibidi, skibidi-toilet

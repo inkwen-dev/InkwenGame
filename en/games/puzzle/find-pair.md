@@ -19,6 +19,6 @@ The objective of this game is to find the same object to match. When 2 same obje
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Brain, Fun, Highscore, HTML5, Kid, Matching, Puzzle, Relaxation

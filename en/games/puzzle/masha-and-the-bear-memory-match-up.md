@@ -19,6 +19,6 @@ It's possible now to play Masha and the Bear Memory Match Up game in your web br
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Boys, Brain, Educational, Fun, Girls, HTML5, Kids, Match 3, Matching, Mobile, Puzzle
+- Tags: Animal, Boys, Brain, educational, Fun, Girls, HTML5, Kids, Match 3, Matching, Mobile, Puzzle

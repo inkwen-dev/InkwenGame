@@ -15,6 +15,6 @@ Draw The Path - Puzzle invites you to creatively guide a ball into a basket usin
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Drawing
+- Tags: drawing

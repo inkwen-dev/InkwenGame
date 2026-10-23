@@ -21,4 +21,4 @@ Western Sniper is a fun sniper game with amazing gameplay and great graphics.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mobile, Sniper, weapons
+- Tags: Mobile, sniper, weapons

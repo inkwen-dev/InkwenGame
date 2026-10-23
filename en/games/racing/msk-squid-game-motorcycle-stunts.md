@@ -19,6 +19,6 @@ I am summoning the best bike biker to organize the racing bikes while in these f
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 3D Games, Action, Best, Bike, Crazy, Driving, Game, Games, Moto, Motorcycle, Sim, Simulation, Stunts
+- Tags: .io, .io Games, 1 Player, 3D Games, Action, Best, bike, crazy, Driving, Game, Games, Moto, Motorcycle, Sim, Simulation, Stunts

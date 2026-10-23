@@ -21,4 +21,4 @@ Move the mouse to aim your cue Left click once to lock your aim and start the po
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Ball, Pool, Stickman
+- Tags: 8 Ball Pool, Ball, pool, stickman

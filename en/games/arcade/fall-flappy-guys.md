@@ -21,4 +21,4 @@ flappy full flapping guys funny flappy games
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Best, Cartoon, fly, jump, Jumping
+- Tags: Action, Adventure, Arcade, Best, Cartoon, fly, jump, jumping

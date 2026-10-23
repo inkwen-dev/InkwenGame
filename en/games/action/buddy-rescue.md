@@ -19,6 +19,6 @@ Main object of this game is Rescuing Bruno.Hence Jackson went for the rescue.Dur
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Casual, Platform, survival

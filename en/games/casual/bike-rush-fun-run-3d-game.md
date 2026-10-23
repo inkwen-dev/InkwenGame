@@ -21,4 +21,4 @@ Bike Rush is a new driving experience game that can let many players drive a ver
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Bike, Boy, Boys, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids, Race
+- Tags: 3D, 3D Games, bike, Boy, Boys, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids, Race

@@ -21,4 +21,4 @@ Jive Jerry, the agile monkey extraordinaire, is known far and wide for his funky
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Animal, Arcade, Jumping, Mario, Monkey, Platform
+- Tags: Adventure, Animal, Arcade, jumping, mario, Monkey, Platform

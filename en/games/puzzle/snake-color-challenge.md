@@ -21,4 +21,4 @@ Dive into the thrilling world of Snake Color Rush, an exciting and fast-paced ar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, kiz10, Puzzle, Snake
+- Tags: Color, kiz10, Puzzle, snake

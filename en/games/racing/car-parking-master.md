@@ -21,4 +21,4 @@ Do you want to park your car easily too? So start the game right away.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, Parking
+- Tags: 3D, Car, parking

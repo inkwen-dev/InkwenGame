@@ -19,6 +19,6 @@ Super Mario vs Wario is fun puzzle-platformer game suitable for all ages. Mario 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Boys, Collecting, Fun, HTML5, Hypercasual, Kids, Mario, Mobile, Racing, run
+- Tags: Android, Arcade, Boys, Collecting, Fun, HTML5, Hypercasual, Kids, mario, Mobile, Racing, run

@@ -21,4 +21,4 @@ Dribble, shoot and score! Overtake your opponents, move swiftly and shoot goals!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Football, Hypercasual, Soccer, Sport, Sports
+- Tags: Arcade, Casual, Football, Hypercasual, Soccer, Sport, sports

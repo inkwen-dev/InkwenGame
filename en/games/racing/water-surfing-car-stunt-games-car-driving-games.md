@@ -21,4 +21,4 @@ Have you ever been in search of some real change in the world of car racing game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Car, Cars, Jumping, Race, Racing, Stunts
+- Tags: 3D, Adventure, Car, Cars, jumping, Race, Racing, Stunts

@@ -21,4 +21,4 @@ Hunting Season - Hunt or be hunted as simple as that. You have hunter instincts,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Animal, Brain, Gun, Killing, Rabbit, Skills, Sniper, weapons, WebGL, Wolf
+- Tags: 3D, Animal, Brain, Gun, Killing, Rabbit, Skills, sniper, weapons, WebGL, Wolf

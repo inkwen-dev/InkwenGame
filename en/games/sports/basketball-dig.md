@@ -21,4 +21,4 @@ Dig the sand and dunk the ball! Get 3 stars to claim more rewards and buy new un
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Arcade, Baseball, Basketball, Football, Mind, Minecraft, Online, Puzzle
+- Tags: 1 Player, Adventure, Arcade, baseball, basketball, Football, Mind, Minecraft, Online, Puzzle

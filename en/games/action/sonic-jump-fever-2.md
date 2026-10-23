@@ -21,4 +21,4 @@ Play as Sonic the Hedgehog as you run, dash, jump and spin your way across stunn
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, jump, Jumping, run, running
+- Tags: Adventure, Arcade, jump, jumping, run, running

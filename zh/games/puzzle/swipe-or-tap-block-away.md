@@ -21,4 +21,4 @@ Tap Away 是一款引人入胜的 3D 解谜游戏，核心玩法是旋转立方�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩, 男孩们, 休闲, 点击, 超休闲, 儿童, 孩子们, Mentolatux, puzzleblock, 技巧
+- 标签: 男孩, 男孩们, 休闲, 点击, 超休闲, 儿童, 儿童, Mentolatux, 拼图块, 技巧

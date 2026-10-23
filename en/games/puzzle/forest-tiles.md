@@ -19,6 +19,6 @@ There are several coins on the 9 by 9 playing field. It is necessary to place th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Forest, Match 3, Puzzle, Tetris
+- Tags: Animal, Forest, Match 3, Puzzle, tetris

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 方块, Board, 收集, HTML5, 宝石, 匹配, 手机
+- 标签: 街机, 方块, 棋盘, 收集, HTML5, 宝石, 匹配, 移动设备

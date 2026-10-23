@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, Animal, 宝宝游戏, 卡通, 青蛙, 游戏
+- 标签: 单人, 2D, 动物, 婴儿游戏, 卡通, 青蛙, 游戏

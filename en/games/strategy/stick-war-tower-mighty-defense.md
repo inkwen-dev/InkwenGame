@@ -21,4 +21,4 @@ Stick War: Tower Mighty Defense is an exciting rescue adventure where you contro
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Defense, Math, Stickman, Tower Defense
+- Tags: Action, Defense, math, stickman, Tower Defense

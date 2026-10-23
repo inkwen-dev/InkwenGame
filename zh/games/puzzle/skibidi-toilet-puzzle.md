@@ -21,4 +21,4 @@ Skibidi Toilet 拼图是一款有趣的拼图游戏。你可以选择九张图�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 最佳, 有趣, 搞笑, 拼图, 儿童, Skibidi马桶, 技巧
+- 标签: 冒险, 最佳, 有趣, 搞笑, 拼图, 儿童, skibidi-toilet, 技巧

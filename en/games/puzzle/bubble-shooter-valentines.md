@@ -19,6 +19,6 @@ Bubble Shooter Valentines is a Classical bubble shooter game, with Modern featur
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Ball, Bubble Shooter, Fun, Girls, HTML5, Love, Mobile, Shooting

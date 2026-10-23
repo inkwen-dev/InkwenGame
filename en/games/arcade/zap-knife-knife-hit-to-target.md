@@ -21,4 +21,4 @@ Zap Knife is here for you to hit all the Yummy Food. Hitting all the yummy food 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Arcade, Casual, Click, Crazy, endless, Hypercasual, Play, Point And Click, Unity3D, WebGL
+- Tags: 2D, Action, Arcade, Casual, Click, crazy, endless, Hypercasual, Play, Point And Click, Unity3D, WebGL

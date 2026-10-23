@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 人游戏, 双人, 2人游戏, 2D, 街机, 战斗, mineblock, 我的世界
+- 标签: 单人, 双人, 双人游戏, 2D, 街机, 战斗, mineblock, 我的世界

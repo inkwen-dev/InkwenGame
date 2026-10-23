@@ -1,0 +1,24 @@
+# 危险金钱路
+
+<a href="https://inkwengame.com/zh/games/dangerous-money-road" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/dangerous-money-road/cover.jpg)
+
+在圈圈中奔跑，尽可能多地收集硬币，但要小心，你正处在一条充满快速车辆的危险道路上。有时你需要改变奔跑方向，甚至放慢速度来喘口气。不要让能量耗尽！
+
+## 怎么玩
+
+使用鼠标或触摸屏幕
+
+## 介绍
+
+在圈圈中奔跑，尽可能多地收集硬币，但要小心，你正处在一条充满快速车辆的危险道路上。有时你需要改变奔跑方向，甚至放慢速度来喘口气。不要让能量耗尽！
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/racing" target="_blank" rel="noopener noreferrer">赛车</a>
+- 画面方向: portrait
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 汽车, 汽车, 收集, 驾驶, 有趣, 搞笑, 移动设备, 技巧, 超跑, 交通

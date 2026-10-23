@@ -22,4 +22,4 @@ Get ready to exercise your brain with the incredible Draw One Line: Drawing Puzz
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Drawing, Logic, Puzzle
+- Tags: Brain, drawing, Logic, Puzzle

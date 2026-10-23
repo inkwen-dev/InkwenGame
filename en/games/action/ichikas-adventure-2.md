@@ -21,4 +21,4 @@ Ichikas Adventure 2 is a 2D anime themed platformer where you play as Anime girl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Cartoon, Cute, Girl, jump, Jumping, Monster, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Cartoon, Cute, Girl, jump, jumping, monster, pixel, Platform, retro

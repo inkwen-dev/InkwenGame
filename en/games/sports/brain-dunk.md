@@ -19,6 +19,6 @@ Draw a line and make the ball to score the basket! Start drawing and dunk the ba
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Basketball, Draw, Drawing
+- Tags: Ball, basketball, Draw, drawing

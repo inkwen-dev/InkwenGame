@@ -21,4 +21,4 @@ W S 俯仰 A D 偏航 空格键 扇动 左移位键 加速下落 Tab 退出暂�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 鸟, 模拟, 模拟器, Unity3D, WebGL
+- 标签: 小鸟, 模拟, 模拟器, Unity3D, WebGL

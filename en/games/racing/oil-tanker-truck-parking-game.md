@@ -21,4 +21,4 @@ Do you like heavy duty oil cargo truck driving simulator games 2021? Then Oil Ta
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, Car, monstertruck, Parking, Tank, Truck
+- Tags: 2025 games, Car, monstertruck, parking, Tank, truck

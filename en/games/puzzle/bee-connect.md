@@ -19,6 +19,6 @@ Get ready to connect colourful lines of Babees, make awesome combos and have som
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Best, Click, Clicker, Game, Games, Hot, HTML, HTML5, Hypercasual, Puzzle

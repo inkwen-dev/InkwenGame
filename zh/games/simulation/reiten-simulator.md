@@ -21,4 +21,4 @@ WASD 1 2 3 Shift F M
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, 马, 模拟, 模拟器, WebGL
+- 标签: 3D, 3D游戏, horse, 模拟, 模拟器, WebGL

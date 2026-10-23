@@ -19,6 +19,6 @@ Play with colorful beasts in a match 3 game and take part in the best connecting
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Click, Clicker, Girls, Point And Click

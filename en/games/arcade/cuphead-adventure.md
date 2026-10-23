@@ -19,6 +19,6 @@ Cuphead Adventure is fun game suitable for all ages. The aim of the game is to c
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Boys, Collecting, Fun, HTML5, Kids

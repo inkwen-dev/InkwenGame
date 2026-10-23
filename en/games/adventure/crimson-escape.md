@@ -19,6 +19,6 @@ Crimson Escape is a fast-paced space survival game where your reflexes are the o
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Space, Spaceship

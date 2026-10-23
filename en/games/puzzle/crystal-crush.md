@@ -19,6 +19,6 @@ Match the crystal blocks and help bunny to win the game. Bunny has to win the ga
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Casual, Match3, Matching, Puzzle

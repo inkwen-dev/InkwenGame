@@ -21,4 +21,4 @@ The New Super Mario 2021 is available now
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Mario, run, running, Super
+- Tags: Arcade, mario, run, running, Super

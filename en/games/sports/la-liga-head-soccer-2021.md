@@ -21,4 +21,4 @@ Hit the ball with Hands , get the points and win the match ! Try this full of fu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Soccer, Sport, Sports
+- Tags: Football, Soccer, Sport, sports

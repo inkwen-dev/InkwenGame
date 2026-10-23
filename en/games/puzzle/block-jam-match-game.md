@@ -19,6 +19,6 @@ Embark on a thrilling adventure that combines strategic block matching, a heart-
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, 3D, amazing, Block, Casual, Hypercasual, Puzzle
+- Tags: 2025 games, 3D, amazing, block, Casual, Hypercasual, Puzzle

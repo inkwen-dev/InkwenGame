@@ -21,4 +21,4 @@ ATV Quad Bike Racing game is a free online game in the jigsaw puzzle genre. You 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Fun, HTML5, Jigsaw, Kids, Mobile, Motorcycle, Puzzle
+- Tags: bike, Fun, HTML5, Jigsaw, Kids, Mobile, Motorcycle, Puzzle

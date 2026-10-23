@@ -19,6 +19,6 @@ This version of SPIDER SOLITAIRE has wonderful and unique graphics and fantastic
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Card, King, Puzzle, Solitaire, Spiderman
+- Tags: Arcade, Brain, card, King, Puzzle, solitaire, Spiderman

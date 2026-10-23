@@ -19,6 +19,6 @@ Underwater Blast is a colorful and addictive match3 puzzle game set in a lively 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, free html5 games for your website, HTML, html games for your website, html5 games, Jewel, Match 3, Match3, Matching, Puzzle, water

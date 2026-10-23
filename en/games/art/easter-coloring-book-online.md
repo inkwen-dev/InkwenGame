@@ -19,6 +19,6 @@ Easter Coloring Book Online Game is a delightful and engaging digital coloring a
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Coloring, Easter

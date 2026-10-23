@@ -21,4 +21,4 @@ Dive into the depths of fun with Ocean Memory Challenge! This captivating memory
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fish, Memory, Puzzle
+- Tags: Fish, memory, Puzzle

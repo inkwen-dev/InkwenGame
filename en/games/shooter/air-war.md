@@ -21,4 +21,4 @@ The open skies are your battlefield in this scrolling shooter game Pilot your fi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Air, Aircraft, Flight, Shooting
+- Tags: 1 Player, 3D, Action, Air, Aircraft, flight, Shooting

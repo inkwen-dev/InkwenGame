@@ -19,6 +19,6 @@ You are Huggy wuggy the blue monster. Try to shoot all zombies and do not waste 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Shoot, Shoot 'Em Up, Shooter, Shooting, Zombie

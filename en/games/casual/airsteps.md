@@ -19,6 +19,6 @@ AirSteps is a game where player has to jump over different platforms avoiding fa
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Casual, jump, Undead

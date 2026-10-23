@@ -15,6 +15,6 @@ In Blockworld Parkour, navigate a pixelated block universe teeming with challeng
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Pixel
+- Tags: pixel

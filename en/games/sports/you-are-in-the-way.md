@@ -19,6 +19,6 @@ This is a leisure puzzle game. It controls the rubber man to launch different co
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Avoid, Boy, Boys, Brain, Casual, Click, Color, Coloring, Fun, Game, Games, Girl, Girls, Google, H5, Hypercasual, Kid, Kids, Management, Mobile, Relaxation, Road, run, Sport
+- Tags: 3D, 3D Games, Avoid, Boy, Boys, Brain, Casual, Click, Color, Coloring, Fun, Game, Games, Girl, Girls, Google, H5, Hypercasual, Kid, Kids, management, Mobile, Relaxation, Road, run, Sport

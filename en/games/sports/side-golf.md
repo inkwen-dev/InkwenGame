@@ -19,6 +19,6 @@ Miniature Golf is the most addictive 2D game for Miniature Golf sports lovers. 4
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Golf, Physics, Sport, Sports
+- Tags: Arcade, golf, Physics, Sport, sports

@@ -21,4 +21,4 @@ It has been some long time since we have last brought our visitors any new PJ Ma
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Disney, H5, jump, Jumping, Race, Racing
+- Tags: Action, Disney, H5, jump, jumping, Race, Racing

@@ -21,4 +21,4 @@ Solve the word game by finding the words Use your word finding capability and so
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Casual, Fun, Matching, Puzzle, Word
+- Tags: 2D, Casual, Fun, Matching, Puzzle, word

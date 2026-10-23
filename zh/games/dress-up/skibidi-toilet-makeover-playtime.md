@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, Android, HTML5, 休闲, iPad, iPhone, Mentolatux, 移动设备, 谜题, 斯基比迪, 斯基比迪马桶
+- 标签: 2D, 安卓, HTML5, 超休闲, iPad, iPhone, Mentolatux, 移动设备, 益智, Skibidi, skibidi-toilet

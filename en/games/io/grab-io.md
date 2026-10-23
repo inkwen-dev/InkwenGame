@@ -19,6 +19,6 @@ grab.io is a fast land-grab arcade game in the paper.io style, set on a round ar
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, cut, Multiplayer, Snake
+- Tags: Arcade, cut, Multiplayer, snake

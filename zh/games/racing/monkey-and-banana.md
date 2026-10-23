@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 2 人, 棋盘, HTML5, 手机, 猴子, 赛车, Snake, 回合制
+- 标签: 单人, 双人, 棋盘, HTML5, 移动设备, 猴子, 竞速, snake, 回合制

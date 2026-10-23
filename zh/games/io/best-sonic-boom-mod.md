@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 成人, Android, Board, 男孩们, 热门, 新游戏, 益智
+- 标签: .io, .io 游戏, 成人, 安卓, 棋盘, 男孩们, 热门, 新游戏, 益智

@@ -19,6 +19,6 @@ Tom and Jerry Run is fun endless runner game such as subway surfers! Run with Je
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 3D, 3D Games, endless, run, running, subway, Subway Surfers, surfers

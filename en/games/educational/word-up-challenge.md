@@ -21,4 +21,4 @@ Word Up Challenge is a fun and addictive word puzzle game that tests your vocabu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Brain, Casual, Educational, Fun, Game, Kids, Letters, Logic, Puzzle, Word
+- Tags: 2026 games, Brain, Casual, educational, Fun, Game, Kids, Letters, Logic, Puzzle, word

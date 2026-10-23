@@ -19,6 +19,6 @@ The Sorcerer is a HTML5 puzzle game freely inspired to Zuma gameplay. The game c
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Bubble, Bubble Shooter, Zuma

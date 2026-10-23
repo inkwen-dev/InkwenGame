@@ -21,4 +21,4 @@ Ever wanted to try a go-kart simulator? Now you can drive, skid and experience a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Car, Cars, Casual, Cool, Crazy, drift, Driving, Fun, HTML5, Kart, Kids, Racing, Stunts, Unity3D, WebGL
+- Tags: 1 Player, 3D, 3D Games, Car, Cars, Casual, cool, crazy, drift, Driving, Fun, HTML5, Kart, Kids, Racing, Stunts, Unity3D, WebGL

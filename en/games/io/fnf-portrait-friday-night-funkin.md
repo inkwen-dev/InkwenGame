@@ -21,4 +21,4 @@ FNF Portrait : Friday Night Funkin is a rhythm matching music game to test your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Action, Barbie, Battle, Boy, Clash, Fight, Friv, Girl, Hypercasual, Music
+- Tags: .io Games, Action, Barbie, battle, Boy, Clash, Fight, Friv, Girl, Hypercasual, music

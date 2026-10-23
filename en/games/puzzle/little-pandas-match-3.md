@@ -19,6 +19,6 @@ This is a puzzle-matching game called Little Panda Match 3. In this game, player
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Kids, Match 3, Matching, Puzzle

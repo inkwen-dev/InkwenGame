@@ -19,6 +19,6 @@ You haven't forgotten the Angry Birds yet, and they decided to remind you of the
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Best, Bird, Cool, Fun, HTML5, Kids, Mobile, Physics, Skill
+- Tags: Action, Best, Bird, cool, Fun, HTML5, Kids, Mobile, Physics, Skill

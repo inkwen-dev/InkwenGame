@@ -21,4 +21,4 @@ Jumpero parkour is an exciting free running game which features you as the jumpe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Football, Game, jump, Jumping, Online, Parking, Sport, Sports
+- Tags: Arcade, Football, Game, jump, jumping, Online, parking, Sport, sports

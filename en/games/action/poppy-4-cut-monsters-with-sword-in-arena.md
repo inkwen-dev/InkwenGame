@@ -42,4 +42,4 @@ Welcome to "Poppy 4! Cut Monsters with Sword in Arena!" - an exciting action gam
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Monster, pve
+- Tags: monster, pve

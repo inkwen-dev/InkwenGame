@@ -15,6 +15,6 @@ Join the festive fun in Santa Claus Helper, where you'll skillfully launch ice b
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Christmas

@@ -19,6 +19,6 @@ Sportix is a game where a magical pot generates sport items at good pace and use
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Clicker, Magic, Sports
+- Tags: Casual, Clicker, Magic, sports

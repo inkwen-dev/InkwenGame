@@ -19,6 +19,6 @@ Best game Spongebob Coloring Book for Lover Spongebob Coloring Book Spongebob Co
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Color, Coloring, Draw, Drawing, Game, HTML5, Online, Spongebob
+- Tags: 2D, Color, Coloring, Draw, drawing, Game, HTML5, Online, Spongebob

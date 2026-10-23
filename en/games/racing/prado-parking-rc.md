@@ -21,4 +21,4 @@ Welcome to Prado Advance Car Parking with hard parking pro new generation Master
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, Action, Arcade, Cars, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing, Supercars
+- Tags: .io Games, 1 Player, Action, Arcade, Cars, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, jumping, Race, Racing, Supercars

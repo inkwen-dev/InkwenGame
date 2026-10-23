@@ -21,4 +21,4 @@ In Snake Race, navigate a vibrant arena as a colorful snake. Your mission: eat b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Ball, Bridge, Color, Race, Snake, Unity3D
+- Tags: 3D, Ball, Bridge, Color, Race, snake, Unity3D

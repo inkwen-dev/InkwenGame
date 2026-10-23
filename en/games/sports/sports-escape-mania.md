@@ -21,4 +21,4 @@ Sports Escape Mania is a sports version of game Lollipop Escape Mania Kids where
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Candy, Casual, Platform, Sports
+- Tags: Candy, Casual, Platform, sports

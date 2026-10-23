@@ -21,4 +21,4 @@ Help baby cat Twinkle hatch from her magical egg! Show the kitty around the roya
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cat, Cleaning, Coloring, Decorate, Design, Dress Up, Educational, Girl, Girls, Kids, Makeover, Princess, Simulation
+- Tags: Animal, Baby, Cat, Cleaning, Coloring, Decorate, Design, Dress Up, educational, Girl, Girls, Kids, Makeover, Princess, Simulation

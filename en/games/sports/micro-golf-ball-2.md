@@ -21,4 +21,4 @@ Micro Golf Ball 2 is a game in which you need to drive golf balls into holes, av
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Golf, Kids, Logic, Mobile, Skill, Sport
+- Tags: Fun, golf, Kids, Logic, Mobile, Skill, Sport

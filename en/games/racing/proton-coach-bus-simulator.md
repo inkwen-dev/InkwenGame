@@ -19,6 +19,6 @@ ProTon Coach Bus Simulator is driving game that will teach you to drive a real c
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boys, bus, Car, Driving, HTML5, Simulator, WebGL

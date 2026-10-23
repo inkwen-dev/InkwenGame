@@ -19,6 +19,6 @@ Track Rotate is a free puzzle online game for boys played on PuzzleGame. You nee
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Block, Boy, Car, Fun, HTML5, Kid, Matching, Online, Parking, Puzzle
+- Tags: 3D, Android, block, Boy, Car, Fun, HTML5, Kid, Matching, Online, parking, Puzzle

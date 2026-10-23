@@ -19,6 +19,6 @@ MY LITTLE PONY: Princess Game Adventure , friendship and adventure with all of t
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Adventure, Anime, Baby, Best, Boy, Cartoon, Cartoon Network, Fun, Games, Girls, Online, Pony, Princess, run, running, Strategy
+- Tags: .io Games, Adventure, Anime, Baby, Best, Boy, Cartoon, Cartoon Network, Fun, Games, Girls, Online, Pony, Princess, run, running, strategy

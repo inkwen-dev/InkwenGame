@@ -19,6 +19,6 @@ Super Kick 3D: World Cup is a casual soccer game where you don't need to grab th
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collecting, Football, Kids, Mobile, Skill, Soccer, Super, World

@@ -19,6 +19,6 @@ Rotating Skibidi is a unique platform puzzle game where you rotate the world to 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML, HTML5, Mobile, Puzzle, Skibidi, Skibidi Toilet
+- Tags: HTML, HTML5, Mobile, Puzzle, Skibidi, skibidi-toilet

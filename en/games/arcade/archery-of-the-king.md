@@ -21,4 +21,4 @@ Stickman Archery Master - Archer Puzzle Warrior Be an Archer Hero (Arc-hero) and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Arcade, King, Stickman
+- Tags: 2D, Action, Arcade, King, stickman

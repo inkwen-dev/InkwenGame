@@ -21,4 +21,4 @@ Parkour GO is a first simulator parkour game in 3D for mobile devices. Feel the 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Casual, Puzzle, Simulation, Sport, Sports
+- Tags: Adventure, Arcade, Casual, Puzzle, Simulation, Sport, sports

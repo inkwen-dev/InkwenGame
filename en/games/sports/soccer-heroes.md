@@ -21,4 +21,4 @@ Show all your skill in this football game. Choose your dream team and get into t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Soccer, Sports
+- Tags: Football, Soccer, sports

@@ -21,4 +21,4 @@ The two sides are battling on the field, and the battle is going to happen at an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Adventure, Avoid, Boys, Collecting, Obstacle, Platform, Rescue, running, Stickman
+- Tags: 1 Player, 3D, Adventure, Avoid, Boys, Collecting, Obstacle, Platform, Rescue, running, stickman

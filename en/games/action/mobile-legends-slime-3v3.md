@@ -19,6 +19,6 @@ Mobile Legends Slime 3v3 will bring you into a fun arena of exciting battles! In
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fight, Robot
+- Tags: battle, Fight, Robot

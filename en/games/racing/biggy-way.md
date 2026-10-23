@@ -21,4 +21,4 @@ Drive a monster car on the rugged road, is that sounds crazy and exciting? In th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Monster, Racing, Truck
+- Tags: Driving, monster, Racing, truck

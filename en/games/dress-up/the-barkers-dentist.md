@@ -19,6 +19,6 @@ Favorite cartoon characters Barkers go to treat their teeth to a new dentist in 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cute, Doctor, Dress Up, Educational, Girl, Girls, Kids, Simulation, Surgery
+- Tags: Animal, Cute, Doctor, Dress Up, educational, Girl, Girls, Kids, Simulation, surgery

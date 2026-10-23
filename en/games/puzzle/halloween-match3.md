@@ -19,6 +19,6 @@ this game has a lot of success review and player this MONTH that significantly i
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Christmas, Ghost, Holiday, Kids, Match 3, Matching, Shoot, Shoot 'Em Up, Shooter, Shooting

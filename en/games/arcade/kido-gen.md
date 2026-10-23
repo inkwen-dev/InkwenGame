@@ -19,6 +19,6 @@ Kido Gen is a super fun and free-to-play online game designed specifically for k
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boy, Celebrity, Fun, Funny, Girls, HTML5, Hypercasual, Kids

@@ -26,4 +26,4 @@ Join the excitement of Bomber Quest! Engage in a strategic 3D puzzle game where 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Classic, Mobile, Monster
+- Tags: 3D, Classic, Mobile, monster

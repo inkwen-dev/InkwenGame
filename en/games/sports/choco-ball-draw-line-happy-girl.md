@@ -21,4 +21,4 @@ Enjoy a fun and challenging experience as you draw lines through a slew of obsta
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Ball, Basketball, Candy, Hypercasual, Physics, Puzzle
+- Tags: Android, Arcade, Ball, basketball, Candy, Hypercasual, Physics, Puzzle

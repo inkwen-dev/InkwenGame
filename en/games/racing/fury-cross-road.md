@@ -21,4 +21,4 @@ Furious Road GT is a simple but addictive game in the genre of infinite races, d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Boy, Boys, Fun, Race, Sport, Strategy, Supercars, Traffic
+- Tags: 1 Player, Boy, Boys, Fun, Race, Sport, strategy, Supercars, Traffic

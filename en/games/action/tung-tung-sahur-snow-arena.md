@@ -21,4 +21,4 @@ Powerful snowballs are being fired at you from two towers on the left and right 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Arena, Battle, Brainrot Italian, Tralalero Tralala, Tung Tung, Tung Tung Tung Sahur
+- Tags: 2 Player, 2 Player Games, 2D, Arena, battle, Brainrot Italian, Tralalero Tralala, Tung Tung, Tung Tung Tung Sahur

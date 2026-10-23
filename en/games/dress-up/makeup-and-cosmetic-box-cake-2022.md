@@ -21,4 +21,4 @@ Like make cake , bake and decorate! Get a step forward in makeup cake box and be
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cake, Cooking, Educational, Girls, Makeover, Nail
+- Tags: Cake, Cooking, educational, Girls, Makeover, Nail

@@ -19,6 +19,6 @@ Energy Flow is a skill game where you have to solve the puzzle by placing the un
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Brain, Fun, Funny, HTML5, Logic, Logical, Mobile, Puzzle, Skill

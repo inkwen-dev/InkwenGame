@@ -19,6 +19,6 @@ Pixel Legyfare Wars is a fast-paced, turn-based strategy game combining retro pi
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Gun, legyfare, Mentolatux, Multiplayer, Pixel, Shooting, unity, War, WebGL
+- Tags: Gun, legyfare, Mentolatux, Multiplayer, pixel, Shooting, unity, War, WebGL

@@ -21,4 +21,4 @@ doggy vs zombie is an endless run game, run and avoid obstacles from zombie ambu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, Action, Game, Games, HTML, HTML5, jump, Jumping, Kid, Kids, Obstacle, run, running, Zombie
+- Tags: .io, 1 Player, Action, Game, Games, HTML, HTML5, jump, jumping, Kid, Kids, Obstacle, run, running, Zombie

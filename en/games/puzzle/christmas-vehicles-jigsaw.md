@@ -21,4 +21,4 @@ Christmas Vehicles Jigsaw is a free online game from genre of puzzle and jigsaw 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Christmas, Fun, HTML5, Jigsaw, Mobile, Truck
+- Tags: Car, Christmas, Fun, HTML5, Jigsaw, Mobile, truck

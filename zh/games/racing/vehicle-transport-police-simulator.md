@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 军队, 巴士, 汽车, 汽车, 驾驶, Mentolatux, 军事, 模拟, 卡车, Unity3D, WebGL
+- 标签: 军队, 公交车, 汽车, 汽车, 驾驶, Mentolatux, 军事, 模拟, 卡车, Unity3D, WebGL

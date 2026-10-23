@@ -19,6 +19,6 @@ In Puzzle Ball Rotate, which is a fun and mindful game, you have to pass all the
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Ball, Best, Casual, Fun, Game, HTML5, Hypercasual, Math, Mind, Mine, Puzzle, Unity3D, WebGL
+- Tags: Android, Arcade, Ball, Best, Casual, Fun, Game, HTML5, Hypercasual, math, Mind, Mine, Puzzle, Unity3D, WebGL

@@ -19,6 +19,6 @@ Offroad driving in the forest, drive against opponents AI. Be fast to arrive fir
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Simulator, Truck, Unity3D, WebGL
+- Tags: Driving, Simulator, truck, Unity3D, WebGL

@@ -21,4 +21,4 @@ Enter the delightful world of Choco Blocks, a tantalizing puzzle adventure where
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Board, Collecting, Girls, HTML5, Mobile, Puzzle
+- Tags: block, Board, Collecting, Girls, HTML5, Mobile, Puzzle

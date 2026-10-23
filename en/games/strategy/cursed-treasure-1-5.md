@@ -21,4 +21,4 @@ Once again the gems of the evil forces are in danger! After a decade of peace th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Classic, Defense, Fantasy, Strategy, Tower Defense
+- Tags: Casual, Classic, Defense, Fantasy, strategy, Tower Defense

@@ -19,6 +19,6 @@ PixelParkour is a pixel-style action game where you take on the role of a profes
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Avoid, Cartoon, Jumping, Puzzle
+- Tags: Adventure, Avoid, Cartoon, jumping, Puzzle

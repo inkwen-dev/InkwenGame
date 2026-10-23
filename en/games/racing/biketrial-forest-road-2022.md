@@ -21,4 +21,4 @@ The goal of Infinite Bike Trials is to complete each of the game's two hundred d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Driving, Stunts, Unity3D, WebGL
+- Tags: bike, Driving, Stunts, Unity3D, WebGL

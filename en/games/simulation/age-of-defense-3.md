@@ -21,4 +21,4 @@ Age of Defense 3 is a real time strategy game that takes you way back in time to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Simulator, Strategy, Street Fighting
+- Tags: Simulator, strategy, Street Fighting

@@ -19,6 +19,6 @@ Nonetheless, if you choose to play our game, you can progress through 100 stages
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Android, Car, Cars, Driving, HTML5, Mobile, Simulator, Supercars

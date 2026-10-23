@@ -19,6 +19,6 @@ The kids accidentally mixed the different colors of liquid together! In order to
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Boy, Brain, Casual, Game, Kid, Kids, Point And Click, Puzzle

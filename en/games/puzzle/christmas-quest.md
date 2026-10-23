@@ -19,6 +19,6 @@ Christmas Quest is an unique match 3 game. Move the items to the blank spaces in
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Girls, HTML5, Match 3, Matching, Mobile, Puzzle

@@ -19,6 +19,6 @@ Quiz Education: A Fun and Interactive Way to Learn! Tired of boring textbooks? T
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Ai Games, amazing, Animal, Baby Games, Balance, Ball, Educational, Logic, Logical, quest, quests, Quiz
+- Tags: 1 Player, 2D, Ai Games, amazing, Animal, Baby Games, Balance, Ball, educational, Logic, Logical, quest, quests, Quiz

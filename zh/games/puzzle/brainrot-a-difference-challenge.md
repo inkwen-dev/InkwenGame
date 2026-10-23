@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Brainrot Italian, 差异, HTML游戏供您的网站使用, 儿童, 手机, 拼图
+- 标签: 意大利脑残, 找不同, HTML游戏供您的网站使用, 儿童, 移动设备, 益智

@@ -21,4 +21,4 @@ Choose your weapon from the 18 available. Protect yourself from the invasion of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Arena, Army, Battle, Battlegrounds, Bomb, Boys, Crazy, CSGO, Fight, Fun, Funny, Game, Gun, HTML5, Jumping, Physics, Rocket, Shoot, Shooter, Shooting, Sniper, Unity3D, War, weapons, WebGL
+- Tags: 1 Player, 3D, 3D Games, Action, Arena, Army, battle, Battlegrounds, Bomb, Boys, crazy, CSGO, Fight, Fun, Funny, Game, Gun, HTML5, jumping, Physics, Rocket, Shoot, Shooter, Shooting, sniper, Unity3D, War, weapons, WebGL

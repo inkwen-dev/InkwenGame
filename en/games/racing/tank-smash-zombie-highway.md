@@ -19,6 +19,6 @@ In the video game Zombie Smash Racer, you take control of a tank and race agains
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Car, Driving, HTML5, Mobile, Racing, Tank, Zombie

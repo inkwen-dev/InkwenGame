@@ -21,4 +21,4 @@ ADDICTIVE GAMEPLAY Be Warned! iSlash Heroes features the same addictive slashing
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Battle, Fruit, Fruits, Knight
+- Tags: Adventure, Arcade, battle, Fruit, Fruits, knight

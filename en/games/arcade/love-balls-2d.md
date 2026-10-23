@@ -19,6 +19,6 @@ It's time to use your brain and find a way to bump the balls! The rule's easy, j
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Ball, Love, Puzzle

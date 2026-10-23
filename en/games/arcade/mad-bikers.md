@@ -21,4 +21,4 @@ Welcome to Mad Bikers Perform crazy stunts on your motorcycle and push your skil
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Best, Bike, Hot, Race
+- Tags: Action, Adventure, Arcade, Best, bike, Hot, Race

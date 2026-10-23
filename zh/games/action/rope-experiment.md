@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 成人, 冒险, Android, 街机, iPhone, 物理, 平台, 解谜
+- 标签: 单人, 2D, 成人, 冒险, 安卓, 街机, iPhone, 物理, 平台, 益智

@@ -21,4 +21,4 @@ Are you ready to kick, bounce, and score? Bunny Goal combines the thrill of socc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Football, html5 games, NapTech Games, Sport, Sports
+- Tags: Casual, Football, html5 games, NapTech Games, Sport, sports

@@ -19,6 +19,6 @@ play free action games in Joint Combat Air Force. Get into your jet fighter cock
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Air, Aircraft, Fighting, Platform, Shoot, Shooter, Shooting, Strategy
+- Tags: Air, Aircraft, fighting, Platform, Shoot, Shooter, Shooting, strategy

@@ -21,4 +21,4 @@ Be quick and sneaky and grab tons of loots! Watch out for the patrols and become
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Casual, Hypercasual, Strategy
+- Tags: Adventure, Casual, Hypercasual, strategy

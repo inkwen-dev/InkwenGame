@@ -21,4 +21,4 @@ Street Fighter IV Champion Edition The real street fighting challenge & action f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Fight, Fighting, Games, Girls, jump, Killing, Street Fighting, Superhero
+- Tags: Boy, Fight, fighting, Games, Girls, jump, Killing, Street Fighting, Superhero

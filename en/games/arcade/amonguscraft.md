@@ -19,6 +19,6 @@ AmongusCraft is a 3D Among us style game in a blocky minecraft world where you p
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Alien, Block, Minecraft, Space, Spaceship
+- Tags: 3D, Alien, block, Minecraft, Space, Spaceship

@@ -19,6 +19,6 @@ Tank Force Battle Game is an action-packed modern tank shooter where your missio
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Action, Battle, destroy, Enemy, html games for your website, military, Shooting, Tank, Tanks, War, WebGL
+- Tags: 2026 games, Action, battle, destroy, Enemy, html games for your website, military, Shooting, Tank, tanks, War, WebGL

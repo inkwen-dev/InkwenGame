@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Animal, 贝比·哈泽尔, 农场, 有趣, 女孩, 女孩, H5, HTML5, 儿童, kids
+- 标签: 动物, 小哈泽尔, 农场, 有趣, 女孩, 女孩, H5, HTML5, 儿童, 儿童

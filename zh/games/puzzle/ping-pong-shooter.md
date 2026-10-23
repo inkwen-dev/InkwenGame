@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 泡泡射击, HTML, HTML5, 射击, 射手, 射击
+- 标签: 2D, 泡泡射击, HTML, HTML5, 射击, 射击类, 射击

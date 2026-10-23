@@ -21,4 +21,4 @@ Running is exciting and if you are running from the police while you are the thi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Fun, HTML, HTML5, jump, Jumping, Online, Play
+- Tags: 2D, Action, Adventure, Fun, HTML, HTML5, jump, jumping, Online, Play

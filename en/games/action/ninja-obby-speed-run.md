@@ -26,4 +26,4 @@ From smashing glass doors at checkpoints with your ninja power to unlocking powe
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, Ninja, obby
+- Tags: 3D, Arcade, ninja, obby

@@ -19,6 +19,6 @@ Snowman Jump Online is a fast-paced action game that will keep you entertained f
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Game, Games, jump, Jumping, Online
+- Tags: Action, Adventure, Arcade, Game, Games, jump, jumping, Online

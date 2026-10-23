@@ -19,6 +19,6 @@ Ride your BMX on big ramps and get crazy air, or get technical with street skati
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bicycle, Bike, Physics, Racing, Simulation, Simulator
+- Tags: Bicycle, bike, Physics, Racing, Simulation, Simulator

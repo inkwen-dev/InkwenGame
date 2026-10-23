@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 男孩, 女孩们, 隐藏, HTML, HTML5, 儿童, 移动设备, 解谜
+- 标签: 单人, 男孩们, 女孩, 隐藏, HTML, HTML5, 儿童, 移动设备, 益智

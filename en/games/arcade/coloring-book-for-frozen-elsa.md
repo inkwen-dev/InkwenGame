@@ -19,6 +19,6 @@ Are you into Frozen Elsa ? Frozen Elsa Coloring Book: A Stunning Coloring Book I
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Cartoon, Color, Coloring, Draw, Drawing, Frozen, Game, Kids, Online, Puzzle
+- Tags: Arcade, Cartoon, Color, Coloring, Draw, drawing, Frozen, Game, Kids, Online, Puzzle

@@ -19,6 +19,6 @@ Play Tic Tac Toe on your Android phone. No need waste paper to play puzzle games
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player, 2 Player Games, Game, Games

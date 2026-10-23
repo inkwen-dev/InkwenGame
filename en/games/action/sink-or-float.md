@@ -19,6 +19,6 @@ Embark on a fascinating journey into the world of physics with Sink or Float. Th
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Click, Clicker, Educational, Fruit, Fruits, Fun, Kid, Kids, Platform, Puzzle
+- Tags: Arcade, Brain, Click, Clicker, educational, Fruit, Fruits, Fun, Kid, Kids, Platform, Puzzle

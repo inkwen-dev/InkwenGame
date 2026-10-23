@@ -21,4 +21,4 @@ Welcome to new cool and awesome Helicopter And Tank Battle Desert Storm Multipla
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Battlegrounds, Multiplayer, Shooter, Shooting, Tank, Tanks, Unity3D, War, WebGL
+- Tags: battle, Battlegrounds, Multiplayer, Shooter, Shooting, Tank, tanks, Unity3D, War, WebGL

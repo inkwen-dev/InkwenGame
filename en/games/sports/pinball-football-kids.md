@@ -21,4 +21,4 @@ Pinball Football Kids - is a specially designed game for kids. There are many pi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Football, Pinball, Sports
+- Tags: Action, Football, Pinball, sports

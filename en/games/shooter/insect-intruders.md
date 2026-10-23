@@ -19,6 +19,6 @@ Defend your tree against the invading insects by hurling leaves at them! How man
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Boy, Game, Games, HTML, HTML5, Kid, Shoot 'Em Up, Shooter, Shooting, Space

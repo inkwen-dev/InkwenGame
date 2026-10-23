@@ -19,6 +19,6 @@ Super 8 Race is a racing HTML5game. In this game you can control super car Bugat
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Race, Racing, Super, Supercars

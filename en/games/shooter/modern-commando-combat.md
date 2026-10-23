@@ -21,4 +21,4 @@ Get ready & play as an fps shooter hero to kill your enemy like the gangster and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Shooter, Shooting
+- Tags: Action, battle, Shooter, Shooting

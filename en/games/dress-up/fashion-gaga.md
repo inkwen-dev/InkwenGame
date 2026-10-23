@@ -19,6 +19,6 @@ Every girl likes beautiful dresses. Today a top model wants to try different sty
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cute, Disney, Dress Up, Fashion, Girl, Girls, Grooming, Kids, Princess

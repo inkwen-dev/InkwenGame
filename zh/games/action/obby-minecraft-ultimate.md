@@ -21,4 +21,4 @@ PC操作 鼠标移动视角 WASD键移动 空格键跳跃 手机操作 使用游
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 弹跳, kiz10, 我的世界, 平台
+- 标签: 跳跃, kiz10, 我的世界, 平台

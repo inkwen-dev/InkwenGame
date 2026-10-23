@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 大脑, 休闲, 家庭, 万圣节, HTML5, 地图游戏, 匹配, 手机, 怪物, 数字, 拼图, 益智方块
+- 标签: 大脑, 休闲, 家庭, 万圣节, HTML5, mapi games, 匹配, 移动设备, monster, 数字, 益智, 拼图块

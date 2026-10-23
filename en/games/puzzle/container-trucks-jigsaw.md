@@ -21,4 +21,4 @@ Container Trucks Jigsaw is jigsaw puzzle game with container trucks. You can pla
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jigsaw, Puzzle, Truck
+- Tags: Jigsaw, Puzzle, truck

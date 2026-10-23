@@ -33,4 +33,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 点击器, 狩猎, 移动, 怪物
+- 标签: 点击器, 狩猎, 移动设备, monster

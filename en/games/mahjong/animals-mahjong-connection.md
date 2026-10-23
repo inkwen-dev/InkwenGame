@@ -21,4 +21,4 @@ Connect all the animals mahjong tiles and clear the board in this html5 mahjong 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, HTML5, Mahjong, Mobile
+- Tags: Animal, HTML5, mahjong, Mobile

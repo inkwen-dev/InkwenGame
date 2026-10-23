@@ -19,6 +19,6 @@ Race as Sonic the Hedgehog as you run, dash, jump and spin your way across stunn
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Adventure, Best, endless, Fun, Hot, Kids, Race, Racing, run, running

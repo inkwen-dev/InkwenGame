@@ -19,6 +19,6 @@ This is a game which prepares Standard Xth to University students for a fast-pac
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Management, Math, Science
+- Tags: educational, management, math, Science

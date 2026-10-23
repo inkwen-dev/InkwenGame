@@ -15,6 +15,6 @@ Outsmart foes and dodge traps in the thrilling world of Mr Kaw 2. Navigate diver
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Arcade

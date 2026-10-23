@@ -21,4 +21,4 @@ Best game Adult Coloring Book for Lover Adult Coloring Book Adult Coloring Book 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Color, Coloring, Draw, Drawing, Puzzle
+- Tags: Arcade, Best, Color, Coloring, Draw, drawing, Puzzle

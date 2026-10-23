@@ -21,4 +21,4 @@ Set sail with a fearless straw-hat kid and his rubber-quick reflexes in Rogue Se
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, attack, Math, Puzzle, Stickman
+- Tags: Action, attack, math, Puzzle, stickman

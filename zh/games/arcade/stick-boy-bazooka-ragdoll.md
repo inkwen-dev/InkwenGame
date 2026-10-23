@@ -35,4 +35,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: Mobile, 软体娃娃, Stickman
+- 标签: 移动设备, 布娃娃, 木偶人

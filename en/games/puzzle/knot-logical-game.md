@@ -19,6 +19,6 @@ The goal is to exchange hexagons to connect all the colored nodes. This online p
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Games, HTML5, Logic, Math, Puzzle
+- Tags: Games, HTML5, Logic, math, Puzzle

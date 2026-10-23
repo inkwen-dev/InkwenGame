@@ -19,6 +19,6 @@ Run for your life! The Cops are chasing you! You've to speed up your car to avoi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Classic, Crazy, Hypercasual, Police, Race, Racing, Sports, Supercars
+- Tags: Car, Cars, Classic, crazy, Hypercasual, police, Race, Racing, sports, Supercars

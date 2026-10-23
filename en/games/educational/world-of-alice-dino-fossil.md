@@ -21,4 +21,4 @@ World of Alice - Dino Fossil World of Alice - Dino Fossil is an educational game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: dino, Dinosaur, Educational, Kids, School
+- Tags: dino, Dinosaur, educational, Kids, School

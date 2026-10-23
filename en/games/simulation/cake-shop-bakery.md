@@ -21,4 +21,4 @@ Use your imagination and cook the most tasty and delicious cakes for your custom
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cake, Cooking, Girls, Restaurant
+- Tags: Cake, Cooking, Girls, restaurant

@@ -19,6 +19,6 @@ Welcome to Mini Football, the best soccer game ever with 3D design. Overtake you
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Football, Hypercasual, Soccer, Sport, Sports
+- Tags: .io Games, Football, Hypercasual, Soccer, Sport, sports

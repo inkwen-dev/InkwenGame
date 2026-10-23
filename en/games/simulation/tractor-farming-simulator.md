@@ -21,4 +21,4 @@ Welcome to Modern Tractor Farming Simulator Games. Do you love to play modern fa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Animal, Arcade, Best, Farm, Strategy
+- Tags: 3D Games, Animal, Arcade, Best, Farm, strategy

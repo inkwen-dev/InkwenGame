@@ -21,4 +21,4 @@ HERO DOCTOR is a surgery game where you start as a medical intern in a hospital 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Girl, Girls, Hypercasual, Simulation, Skill, Skills, Surgery
+- Tags: Doctor, Girl, Girls, Hypercasual, Simulation, Skill, Skills, surgery

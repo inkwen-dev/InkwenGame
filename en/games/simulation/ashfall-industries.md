@@ -43,4 +43,4 @@ Core Features
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, idle, Simulation, Strategy, tycoon
+- Tags: Clicker, idle, Simulation, strategy, tycoon

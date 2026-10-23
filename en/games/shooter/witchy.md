@@ -19,6 +19,6 @@ Fly with Witchy and her black cat through four magical worlds! Defeat monster wa
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Cat, Flight, Halloween, mapi games, Retro, Shoot 'Em Up
+- Tags: Arcade, Cat, flight, Halloween, mapi games, retro, Shoot 'Em Up

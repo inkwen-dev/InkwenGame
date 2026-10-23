@@ -19,6 +19,6 @@ Race across wild motocross tracks packed with steep hills, dangerous gaps, and c
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Bike, Motorcycle, offroad, Racing, Sports, Stunts
+- Tags: 3D, bike, Motorcycle, offroad, Racing, sports, Stunts

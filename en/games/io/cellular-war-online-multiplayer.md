@@ -15,6 +15,6 @@ Join the microscopic frenzy in Cellular War, where you control a cell battling f
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: .io

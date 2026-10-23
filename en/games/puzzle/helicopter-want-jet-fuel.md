@@ -21,4 +21,4 @@ This time you are Helicopter driver, and you need to avoid rocks and other obsta
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collecting, Flight, Helicopter
+- Tags: Collecting, flight, helicopter

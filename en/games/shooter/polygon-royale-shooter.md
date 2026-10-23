@@ -21,4 +21,4 @@ This game Polygon Royale Shooter is a third person shooting and survival game, i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Blood, Gun, Multiplayer, Shoot, Shooting, Unity3D, WebGL
+- Tags: block, Blood, Gun, Multiplayer, Shoot, Shooting, Unity3D, WebGL

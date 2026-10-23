@@ -21,4 +21,4 @@ Dimness – the Dark Side of an Endless Runner Game Dimness is a new, free autom
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Classic, Crazy, HTML, HTML5, Platform
+- Tags: Action, Classic, crazy, HTML, HTML5, Platform

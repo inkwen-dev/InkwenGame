@@ -24,4 +24,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 方块, 休闲, 经典, 点击器, 疯狂, 破坏, 农场, 游戏, 黄金, HTML, 儿童, Labubu, Minecraft, 像素
+- 标签: 方块, 休闲, 经典, 点击器, 疯狂, 破坏, 农场, 游戏, 金币, HTML, 儿童, Labubu, 我的世界, 像素

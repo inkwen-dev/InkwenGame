@@ -19,6 +19,6 @@ Among SKY SKI is an arcade game where you have to ski down the mountain to compl
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Ski, Skill, Skills, Sports
+- Tags: Adventure, Ski, Skill, Skills, sports

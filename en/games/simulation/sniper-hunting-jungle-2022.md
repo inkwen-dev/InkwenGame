@@ -21,4 +21,4 @@ Participate in worldwide cooperative challenges with your peers where cooperatio
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Shooter, Shooting, Simulator, Sniper, Unity3D, WebGL
+- Tags: 1 Player, Animal, Shooter, Shooting, Simulator, sniper, Unity3D, WebGL

@@ -21,4 +21,4 @@ Obby Parkour Ultimate 3D is a fun skill-based game. Enjoy 35 distinct levels wit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping, kiz10, Minecraft, Platform
+- Tags: jumping, kiz10, Minecraft, Platform

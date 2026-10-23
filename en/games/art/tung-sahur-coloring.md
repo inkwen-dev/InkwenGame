@@ -21,4 +21,4 @@ Tung Sahur Coloring is a colorful joyride just waiting to happen! This super fun
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Educational, Girl, Hypercasual, Kids, School, Tung, Tung Tung Tung, Tung Tung Tung Sahur
+- Tags: Coloring, educational, Girl, Hypercasual, Kids, School, Tung, Tung Tung Tung, Tung Tung Tung Sahur

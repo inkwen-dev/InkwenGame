@@ -19,6 +19,6 @@ Simple control with just swipes. Move the player, and push off objects as many a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Casual, HTML5, Skill, WebGL

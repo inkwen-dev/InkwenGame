@@ -19,6 +19,6 @@ BTS Hello Kitty Coloring Book is fun online game for kids. How will you decorate
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Coloring, Fun, Girls, Hello Kitty, HTML5, Kids, School

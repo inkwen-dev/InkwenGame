@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩们, 汽车, 汽车, HTML, HTML5, 停车, 赛跑, 超级跑车
+- 标签: 男孩们, 汽车, 汽车, HTML, HTML5, 停车, 比赛, 超跑

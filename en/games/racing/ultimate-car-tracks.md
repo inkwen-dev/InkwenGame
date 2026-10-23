@@ -19,6 +19,6 @@ Ultimate Car Tracks features: - multiple levels - multiple cars - challenging ga
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Car, Unity3D, WebGL

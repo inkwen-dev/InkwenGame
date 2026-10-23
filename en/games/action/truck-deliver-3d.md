@@ -21,4 +21,4 @@ Here is a truck balanced arcade game with 3D art animations called Truck Deliver
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Balance, HTML5, Mobile, Platform, Truck
+- Tags: 3D, Arcade, Balance, HTML5, Mobile, Platform, truck

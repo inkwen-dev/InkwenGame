@@ -19,6 +19,6 @@ Are you a reflex guy? Can you react fast to a change? If so, this game is for yo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Casual, Classic, Click, Clicker, Color, Coloring, Crazy, Game, Games, Hypercasual, Matching
+- Tags: Android, Arcade, Casual, Classic, Click, Clicker, Color, Coloring, crazy, Game, Games, Hypercasual, Matching

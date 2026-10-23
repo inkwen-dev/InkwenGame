@@ -21,4 +21,4 @@ Welcome to this amazing Grimace Shake Cards memory game! Look carefully and reme
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Grimace, Memory, Puzzle
+- Tags: Grimace, memory, Puzzle

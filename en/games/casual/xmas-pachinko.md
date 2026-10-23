@@ -15,6 +15,6 @@ Spread holiday cheer in Xmas Pachinko by dropping the magic Christmas Sphere thr
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Christmas

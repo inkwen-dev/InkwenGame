@@ -22,4 +22,4 @@ Grimace 罚球目标游戏是一款有趣且具有挑战性的游戏，你需要
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 最佳游戏, 足球, 有趣, Grimace, Grimace Shake, NapTech Games, 体育, 运动
+- 标签: 动作, 最佳游戏, 橄榄球, 有趣, 格里马斯, 格里马斯奶昔, NapTech 游戏, 运动, 体育

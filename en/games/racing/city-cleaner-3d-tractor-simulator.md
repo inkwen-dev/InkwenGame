@@ -19,6 +19,6 @@ Here is a tractor driving simulation game that plays also like a truck parking 3
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, Driving, Mobile, Parking, Simulation, Timing, WebGL
+- Tags: 3D, Car, Driving, Mobile, parking, Simulation, Timing, WebGL

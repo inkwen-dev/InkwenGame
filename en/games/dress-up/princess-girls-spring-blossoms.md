@@ -19,6 +19,6 @@ Welcome to the Disney Girls Spring Blossoms. The Season of blossom has just begu
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Android, Dress Up, Game, Girl, Girls, Hot, New

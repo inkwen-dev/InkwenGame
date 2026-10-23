@@ -19,6 +19,6 @@ Explore nature as a wild animal and raise a family in the wilderness in Wildcraf
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, 3D Games, Action, Animal, Arcade, Forest, Game, Hunting, Simulator, Wolf
+- Tags: 2025 games, 3D Games, Action, Animal, Arcade, Forest, Game, hunting, Simulator, Wolf

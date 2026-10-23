@@ -21,4 +21,4 @@ Get ready for a popular brain game. Solve the puzzle by deleting some pieces in 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Boys, Brain, Cartoon, Cleaning, Design, Draw, Drawing, Funny, Girls, Hypercasual, Kid, Kids, Puzzle
+- Tags: Best, Boys, Brain, Cartoon, Cleaning, Design, Draw, drawing, Funny, Girls, Hypercasual, Kid, Kids, Puzzle

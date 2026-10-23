@@ -21,4 +21,4 @@ Embark on a spooktacular journey with Ellie in From Zombie to Glam: A Spooky Tra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Dress Up, Kids, Surgery, Zombie
+- Tags: Doctor, Dress Up, Kids, surgery, Zombie

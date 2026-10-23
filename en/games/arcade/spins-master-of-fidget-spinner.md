@@ -21,4 +21,4 @@ Spin fidgets to crash others and stop them to win! Are you ready to be the maste
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Arcade, Block, Casual, Fun, Funny, Hot, Hypercasual, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Arcade, block, Casual, Fun, Funny, Hot, Hypercasual, Unity3D

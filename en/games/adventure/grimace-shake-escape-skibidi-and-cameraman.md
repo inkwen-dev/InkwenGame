@@ -21,4 +21,4 @@ You wake up in Doctor Grimace Shake scary hospital and remember nothing. You sho
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Enemy, Game, Games, Grimace, Grimace Shake, Horror, HTML5, Skibidi, Skibidi Toilet, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Enemy, Game, Games, Grimace, Grimace Shake, Horror, HTML5, Skibidi, skibidi-toilet, Unity3D

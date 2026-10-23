@@ -19,6 +19,6 @@ Lamas are playing volleyball! Experience a different outcome with every hit with
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Ball, Fun, Funny, Mobile, Pixel, Sport
+- Tags: 2 Player, 2 Player Games, Ball, Fun, Funny, Mobile, pixel, Sport

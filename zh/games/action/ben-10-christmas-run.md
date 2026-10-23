@@ -21,4 +21,4 @@ Ben 10 圣诞跑
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, Ben 10, 圣诞节, 跑, 跑步
+- 标签: 动作, Ben 10, 圣诞节, 跑, 奔跑

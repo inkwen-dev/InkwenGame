@@ -21,4 +21,4 @@ Embark on a relaxing brain adventure in Nest Quest! Slide blocks to help a lost 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Casual, HTML, HTML5, html5 games, Hypercasual, jump, Jumping, NapTech Games
+- Tags: Best Games, Casual, HTML, HTML5, html5 games, Hypercasual, jump, jumping, NapTech Games

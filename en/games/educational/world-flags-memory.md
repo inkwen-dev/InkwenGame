@@ -21,4 +21,4 @@ We are with you in the game World Flags Memory. Together with you we will try to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Fun, Kids, Matching, Memory, Mobile, Skill, Skills
+- Tags: educational, Fun, Kids, Matching, memory, Mobile, Skill, Skills

@@ -21,4 +21,4 @@ Sprunki 子弹搅拌机是一款休闲游戏，玩家控制子弹和弹药，击
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 最佳游戏, 有趣, Mentolatux, 射击, Sprunki, Unity3D, WebGL
+- 标签: 最佳游戏, 有趣, Mentolatux, 射击, 斯普朗基, Unity3D, WebGL

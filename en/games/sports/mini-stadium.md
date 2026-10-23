@@ -21,4 +21,4 @@ MINI STADIUM is an exciting and fast-paced cricket arcade game where players can
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Clicker, Fun, Hypercasual, Sports
+- Tags: Arcade, Clicker, Fun, Hypercasual, sports

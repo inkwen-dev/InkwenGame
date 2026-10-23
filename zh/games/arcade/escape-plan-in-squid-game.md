@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 人玩家, 3D 游戏, 动作, 街机, 最佳, 点击器, 疯狂, 游戏, HTML, HTML5, 手机, 点击式, Unity3D, WebGL
+- 标签: 单人, 3D游戏, 动作, 街机, 最佳, 点击器, 疯狂, 网页游戏, HTML, HTML5, 移动设备, 点击式, Unity3D, WebGL

@@ -15,6 +15,6 @@ Strategize to escort your king to safety or orchestrate a siege in Tafl Viking C
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: chess

@@ -21,4 +21,4 @@ Number Merge 10 is a very innovative math puzzle game.Select a rectangular area,
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Logic, Math, merge, Number, Puzzle
+- Tags: Logic, math, merge, Number, Puzzle

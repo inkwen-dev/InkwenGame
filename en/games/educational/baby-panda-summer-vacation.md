@@ -21,4 +21,4 @@ Baby Panda Summer Vacation is an interesting educational game. Summer is a seaso
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational
+- Tags: educational

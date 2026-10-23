@@ -19,6 +19,6 @@ Welcome to the Tall Man Runner Game: 3D Running Games. Run as tall, Run as wide,
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Adventure, amazing, Casual, Fun, Skill

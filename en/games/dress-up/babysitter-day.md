@@ -21,4 +21,4 @@ Looking after a baby is not easy, but at the same time interesting and enjoyable
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cleaning, Cute, Dress Up, Educational, Family, Fun, Girls, HTML5, Kids, Mobile, Puzzle
+- Tags: Baby, Cleaning, Cute, Dress Up, educational, Family, Fun, Girls, HTML5, Kids, Mobile, Puzzle

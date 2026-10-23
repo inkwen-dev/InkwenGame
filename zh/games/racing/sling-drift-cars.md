@@ -21,4 +21,4 @@ Sling Drift Cars 是一款充满乐趣的赛车游戏，拥有无限玩法。
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车, 赛车, 漂移, 漂移, 移动设备
+- 标签: 汽车, 汽车, 漂移, 漂移, 移动设备

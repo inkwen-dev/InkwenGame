@@ -21,4 +21,4 @@ Bricks N Balls - is a brand new and challenging bricks breaker puzzle game. Play
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Bubble Shooter, Math, Number, Puzzle, Shoot, Shoot 'Em Up, Shooter, Shooting
+- Tags: Arcade, Bubble Shooter, math, Number, Puzzle, Shoot, Shoot 'Em Up, Shooter, Shooting

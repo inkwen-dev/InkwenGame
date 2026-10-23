@@ -19,6 +19,6 @@ Puzzle Game is a most addictive puzzle games collection, With beautiful graphics
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, 2026 games, Block, Casual, Hypercasual, Puzzle, puzzleblock
+- Tags: 2025 games, 2026 games, block, Casual, Hypercasual, Puzzle, puzzleblock

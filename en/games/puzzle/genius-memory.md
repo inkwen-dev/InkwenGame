@@ -21,4 +21,4 @@ Are you a genius? Are you ready to challenge your memory? We are very happy to i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Match 3, Matching, Memory
+- Tags: card, Match 3, Matching, memory

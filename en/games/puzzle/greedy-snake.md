@@ -21,4 +21,4 @@ A puzzle casual game, you can control the apple snake by operating up, down, lef
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Fun, Snake, Worm
+- Tags: Brain, Fun, snake, worm

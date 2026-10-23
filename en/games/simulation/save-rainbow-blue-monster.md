@@ -19,6 +19,6 @@ Save Rainbow: Blue monster is a wonderful puzzle game for people who're looking 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Casual, Draw, Drawing, Escape, Hypercasual, run, running, Simulation, Simulator, Unity3D
+- Tags: 3D, 3D Games, Casual, Draw, drawing, Escape, Hypercasual, run, running, Simulation, Simulator, Unity3D

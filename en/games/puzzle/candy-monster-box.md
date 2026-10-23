@@ -19,6 +19,6 @@ Candy Monster Box offers an engaging, captivating gameplay experience that ensur
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, HTML5, Hypercasual, iPad, iPhone, Mentolatux, Mobile, Monster, Puzzle
+- Tags: 2D, Android, HTML5, Hypercasual, iPad, iPhone, Mentolatux, Mobile, monster, Puzzle

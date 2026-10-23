@@ -19,6 +19,6 @@ Help the Easter Bunny to save Easter by collecting all the Easter Eggs! Flap you
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Cute, fly, Game, Online, run

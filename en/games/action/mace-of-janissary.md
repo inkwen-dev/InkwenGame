@@ -19,6 +19,6 @@ The struggle of Janissaries continue with the mace gun. The player which dominat
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Battle, Mobile, War
+- Tags: 2 Player, 2 Player Games, battle, Mobile, War

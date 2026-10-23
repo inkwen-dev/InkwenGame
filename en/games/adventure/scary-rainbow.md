@@ -19,6 +19,6 @@ This game is the greatest RPG action game, is combination of fighting games and 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Stickman, Zombie
+- Tags: 2D, stickman, Zombie

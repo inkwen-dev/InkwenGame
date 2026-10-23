@@ -21,4 +21,4 @@ An unsuspecting Skibidi drank too much and ended up in a wheel ... Help him befo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ballon, HTML5, Mobile, Skibidi, Skibidi Toilet
+- Tags: Arcade, Ballon, HTML5, Mobile, Skibidi, skibidi-toilet

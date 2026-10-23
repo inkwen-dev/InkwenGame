@@ -19,6 +19,6 @@ Forge weapons for your King. Keep clicking away until you unlock all of the item
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Gold, Strategy, weapons
+- Tags: Gold, strategy, weapons

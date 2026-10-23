@@ -21,4 +21,4 @@ Magic Forest : Block Puzzle is a fun brain teaser in a fantasy universe. Train y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Fairy, Hypercasual, Logic, Puzzle, Tetris
+- Tags: Arcade, Fairy, Hypercasual, Logic, Puzzle, tetris

@@ -21,4 +21,4 @@ Beat the robbers with one punch! You are a police officer. A police officer shou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Fighting
+- Tags: 1 Player, fighting

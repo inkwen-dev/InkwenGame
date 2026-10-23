@@ -21,4 +21,4 @@ Do you have any knowledge of building stability? Jenga Demolish Master is a funn
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Bomb, Casual, Game, Kid, Physics, Point And Click, Puzzle, Stickman
+- Tags: 3D, Avoid, Bomb, Casual, Game, Kid, Physics, Point And Click, Puzzle, stickman

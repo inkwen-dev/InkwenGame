@@ -19,6 +19,6 @@ Hoverboard Stunts Hill Climb - Ride Hoverboard in cool way to climb if you can. 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Bridge, Car, Cars, fly, Motorcycle, Race, Racing, Skateboard, Skating, Stunts, Supercars
+- Tags: bike, Bridge, Car, Cars, fly, Motorcycle, Race, Racing, skateboard, Skating, Stunts, Supercars

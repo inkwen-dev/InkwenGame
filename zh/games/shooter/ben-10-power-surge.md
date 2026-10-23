@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 冒险, Ben 10, 男孩, 女孩, H5, HTML, HTML5, 超休闲, 移动, 射手
+- 标签: 动作, 冒险, Ben 10, 男孩, 女孩, H5, HTML, HTML5, 超休闲, 移动设备, 射击类

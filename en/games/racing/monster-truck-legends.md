@@ -21,4 +21,4 @@ Real Monster Truck Racing, get off the asphalt and onto the dirt Great physics, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Game, Lego, Monster, Online, Racing, Space, Truck
+- Tags: Game, Lego, monster, Online, Racing, Space, truck

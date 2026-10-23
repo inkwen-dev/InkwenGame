@@ -19,6 +19,6 @@ Survival Fairy jump is a survival game that you can play online. The objective o
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Fun, Funny, Game, Games, HTML5, Hypercasual, jump, Jumping, Online
+- Tags: Arcade, Fun, Funny, Game, Games, HTML5, Hypercasual, jump, jumping, Online

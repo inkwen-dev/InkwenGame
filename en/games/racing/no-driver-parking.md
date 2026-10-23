@@ -21,4 +21,4 @@ No Driver Parking is fun online game suitable for all ages. The aim of the game 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Avoid, Boys, Car, Cars, Driving, HTML5, Kids, Mobile, Parking, Race, Racing, Skill
+- Tags: Android, Avoid, Boys, Car, Cars, Driving, HTML5, Kids, Mobile, parking, Race, Racing, Skill

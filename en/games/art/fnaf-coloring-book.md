@@ -21,4 +21,4 @@ Unleash your creativity in the spooky and exciting world of FNAF Coloring Book! 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Color, Coloring, Draw, Drawing, Girls, Hypercasual, Puzzle
+- Tags: Boys, Color, Coloring, Draw, drawing, Girls, Hypercasual, Puzzle

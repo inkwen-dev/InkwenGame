@@ -19,6 +19,6 @@ Fun and colorful races on different race areas await you in the Fall Beans game.
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, jump, Jumping, run, running
+- Tags: Action, Adventure, Arcade, jump, jumping, run, running

@@ -21,4 +21,4 @@ Everyone in the beach laughs at you when you say that you can surf as high as th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Funny, Game, Games, jump, Jumping, Sport, Sports, Subway Surfers, surfers
+- Tags: Fun, Funny, Game, Games, jump, jumping, Sport, sports, Subway Surfers, surfers

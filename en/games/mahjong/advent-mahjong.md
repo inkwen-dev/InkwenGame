@@ -21,4 +21,4 @@ Advent Mahjong is a connect Mahjong in Cristmas setting. By passing a level you 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Brain, Christmas, Holiday, Mahjong, Matching, Puzzle
+- Tags: 1 Player, Brain, Christmas, Holiday, mahjong, Matching, Puzzle

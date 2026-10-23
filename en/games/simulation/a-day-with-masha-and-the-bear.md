@@ -19,6 +19,6 @@ Would you like to have fun playing with Masha and the Bear? Well, then you can s
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cartoon, Cooking, Decorate, Decoration, Educational, Family, Fun, Girls, Highscore, HTML5, Kids, Mobile, Puzzle
+- Tags: Animal, Baby, Cartoon, Cooking, Decorate, Decoration, educational, Family, Fun, Girls, Highscore, HTML5, Kids, Mobile, Puzzle

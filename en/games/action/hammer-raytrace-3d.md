@@ -19,6 +19,6 @@ Join Hammer Raytrace 3D, where we use up raytrace to attack the enemy and win. D
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Brain, Kids, Mobile
+- Tags: battle, Brain, Kids, Mobile

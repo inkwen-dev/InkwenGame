@@ -19,6 +19,6 @@ Tappy Flappy Trump is fun flying game suitable for all ages. This time you need 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Celebrity, Collecting, fly, Fun, Funny, HTML5, jump, Kids, Mobile, Skill

@@ -19,6 +19,6 @@ Are you ready to build a successful cafe empire with you? You currently own a pi
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cook, Cooking, Game, Restaurant, Simulation, Street Fighting, Timing
+- Tags: Cook, Cooking, Game, restaurant, Simulation, Street Fighting, Timing

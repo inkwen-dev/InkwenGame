@@ -19,6 +19,6 @@ Tinywar.io throws you into a ruthless sword-fighting free-for-all where a single
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, Action, attack, Casual, Fight, Sword
+- Tags: .io, .io Games, 1 Player, Action, attack, Casual, Fight, sword

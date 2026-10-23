@@ -21,4 +21,4 @@ slice fruits and avoid bombs that’s all you need to know to get started with t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fruit, Fruits, Highscore, Hypercasual, Ninja, Slicing
+- Tags: Fruit, Fruits, Highscore, Hypercasual, ninja, Slicing

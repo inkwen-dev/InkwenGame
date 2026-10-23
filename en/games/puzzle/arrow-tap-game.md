@@ -19,6 +19,6 @@ Puzzle, Brain, Logic, Maze, Mind, Levels, onetouch, touch, Casual, Skill, 2026 g
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, arrow, arrows, Brain, Casual, Levels, Maze, Mind, onetouch, Puzzle, Relaxation, Skill, touch

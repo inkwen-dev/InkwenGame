@@ -21,4 +21,4 @@ Use your mouse
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Air, Arcade, Flight, fly, Girl, Girls, Management, Plane, sky
+- Tags: 2D, Adventure, Air, Arcade, flight, fly, Girl, Girls, management, Plane, sky

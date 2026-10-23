@@ -19,6 +19,6 @@ Drop fruits blocks in the board to make one or more rows or columns of 10 fruits
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Casino, Clicker, Fruit, Girl, Girls, HTML5, Mobile, Puzzle, Tetris
+- Tags: block, Casino, Clicker, Fruit, Girl, Girls, HTML5, Mobile, Puzzle, tetris

@@ -21,4 +21,4 @@ Welcome to the Wood Block Puzzles game. It's a new puzzle game for kids very sim
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Boys, Casual, Fun, HTML5, Kids, Puzzle
+- Tags: block, Boys, Casual, Fun, HTML5, Kids, Puzzle

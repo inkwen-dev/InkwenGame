@@ -21,4 +21,4 @@ Welcome to Choco Draw, the sweetest twist on classic card games! In this candy-t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Candy, Card, Poker
+- Tags: Best Games, Candy, card, Poker

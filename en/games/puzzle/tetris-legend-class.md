@@ -21,4 +21,4 @@ Play Tetris Legend Class now.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Color, Puzzle, Tetris
+- Tags: block, Color, Puzzle, tetris

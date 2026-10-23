@@ -19,6 +19,6 @@ I already know that you are a master cook. But you haven't made a doughnut. Come
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cooking, Cute, Decorate, Design, Educational, Girl, Girls, Kids, Simulation
+- Tags: Cooking, Cute, Decorate, Design, educational, Girl, Girls, Kids, Simulation

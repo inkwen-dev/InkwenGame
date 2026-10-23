@@ -21,4 +21,4 @@ Remove all the blocks to make the composite number going out but keep the prime 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: airplane, Educational, Math
+- Tags: airplane, educational, math

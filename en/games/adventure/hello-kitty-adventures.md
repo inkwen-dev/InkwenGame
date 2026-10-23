@@ -19,6 +19,6 @@ Hello Kitty's cute game is something out of the Sanrio universe. In Hello Kitty 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Baby, Baby Hazel, Girls, HTML5, Hypercasual

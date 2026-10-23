@@ -33,4 +33,4 @@ This game stands out in the crowded runner genre by blending instant pick-up-and
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Mobile, running, Skill, Stickman
+- Tags: Arcade, Mobile, running, Skill, stickman

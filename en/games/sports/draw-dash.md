@@ -19,6 +19,6 @@ Draw your way to the hoop and slam dunk! Play the best basketball game! Get read
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, HTML, HTML5, Online, Sport, Sports
+- Tags: 1 Player, 2D, HTML, HTML5, Online, Sport, sports

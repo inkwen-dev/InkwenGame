@@ -21,4 +21,4 @@ Could you jump higher and escape zombies? Select your favourite hero and jump
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping, Superhero
+- Tags: jump, jumping, Superhero

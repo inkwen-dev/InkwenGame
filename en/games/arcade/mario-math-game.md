@@ -21,4 +21,4 @@ Youre good at maths? well then try to answer all the questions about the tiles w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Educational, Family, HTML, HTML5, Kids, Mario, Math, Mobile, Puzzle, Super
+- Tags: Arcade, educational, Family, HTML, HTML5, Kids, mario, math, Mobile, Puzzle, Super

@@ -21,4 +21,4 @@ WASD - 移动角色 鼠标 - 射击瞄准 切换武器 Tab - 菜单 空格键 - 
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 多人游戏, 投篮, 射击游戏, 射击, Unity3D, WebGL
+- 标签: 多人, 射击, 射击类, 射击, Unity3D, WebGL

@@ -19,6 +19,6 @@ In this game, you need to fill a 9&times;9 grid with numbers so that each column
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: free html5 games for your website, Puzzle, Sudoku

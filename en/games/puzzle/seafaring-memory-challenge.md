@@ -21,4 +21,4 @@ Embark on a mesmerizing journey beneath the waves with Seafaring Memory Challeng
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Memory, Mobile, Puzzle
+- Tags: HTML5, memory, Mobile, Puzzle

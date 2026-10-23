@@ -21,4 +21,4 @@ Enter "Cafe 3 in a Row", an engaging game where you have to put three products i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Brain, Burger, Cartoon, Classic, Clicker, Educational, Food, HTML5, Hypercasual, Logic, Logical, Mahjong, Match 3, Match3, Matching, Math, Memory, New, Puzzle, Relaxation, Restaurant, Retro, Timing, WebGL
+- Tags: 1 Player, Brain, Burger, Cartoon, Classic, Clicker, educational, Food, HTML5, Hypercasual, Logic, Logical, mahjong, Match 3, Match3, Matching, math, memory, New, Puzzle, Relaxation, restaurant, retro, Timing, WebGL

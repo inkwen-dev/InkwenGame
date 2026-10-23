@@ -21,4 +21,4 @@ Are you ready to go on an adventure in search of some flying creatures? Here is 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Best, Crazy, Shooting, Unity3D, WebGL
+- Tags: 3D, 3D Games, Best, crazy, Shooting, Unity3D, WebGL

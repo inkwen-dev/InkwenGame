@@ -19,6 +19,6 @@ Step into the world of beauty, fashion, and makeovers! Become a makeover expert 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 2D, Fashion, Girl, Girls, Makeover, Sim, Simulation

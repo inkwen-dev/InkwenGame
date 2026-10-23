@@ -19,6 +19,6 @@ Monster Matcher - Match 3 or more of the same monsters to get a highscore!
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Clicker, Match 3, Match3, Matching, Monster
+- Tags: Click, Clicker, Match 3, Match3, Matching, monster

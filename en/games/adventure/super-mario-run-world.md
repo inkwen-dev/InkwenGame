@@ -21,4 +21,4 @@ Super Mario Run World a new kind of Mario game that you can play with one hand. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Mario
+- Tags: Action, Adventure, mario

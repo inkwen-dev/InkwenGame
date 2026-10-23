@@ -21,4 +21,4 @@ You are a cute but weird little creature that wants to go high in the sky! You h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Jumping, Kids, Mobile, Puzzle, Skill
+- Tags: Fun, HTML5, jumping, Kids, Mobile, Puzzle, Skill

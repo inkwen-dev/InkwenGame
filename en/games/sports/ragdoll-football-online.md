@@ -21,4 +21,4 @@ Every shot can turn into a wild tumble. Play soccer with floppy ragdoll players:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 1v1, Funny, Multiplayer, ragdoll, Soccer, Sports
+- Tags: 1v1, Funny, Multiplayer, ragdoll, Soccer, sports

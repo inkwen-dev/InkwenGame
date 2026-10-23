@@ -19,6 +19,6 @@ Drift around the corners as you attempt to complete as many laps as possible wit
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, drift, Driving, Fun, Kids, Road, Skill

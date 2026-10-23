@@ -19,6 +19,6 @@ Bus Stunt 3D Simulator 2024 is a driving stunt game where you need to drive care
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, bus, Driving, HTML5, iPad, iPhone, Mentolatux, Mobile, Simulator, Stunts, Unity3D, WebGL

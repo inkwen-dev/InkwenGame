@@ -19,6 +19,6 @@ Use your finger to cut the rope and release the ball. Smash all cans to complete
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ballon, Basketball, Boys, Clicker, Football, Pinball, Slicing, Slither
+- Tags: Arcade, Ballon, basketball, Boys, Clicker, Football, Pinball, Slicing, Slither

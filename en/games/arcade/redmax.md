@@ -21,4 +21,4 @@ Are you ready for an adventure in Redmax game? Your adventure will be escaping f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Mobile, Pixel
+- Tags: 1 Player, 2D, Adventure, Arcade, Mobile, pixel

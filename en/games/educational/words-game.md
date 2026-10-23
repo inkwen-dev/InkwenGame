@@ -21,4 +21,4 @@ Words With the Words game, learn various words in a fun way. From mobile phone, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kids, Letters, School, Word
+- Tags: educational, Kids, Letters, School, word

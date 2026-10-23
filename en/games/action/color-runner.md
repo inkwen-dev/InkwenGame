@@ -15,6 +15,6 @@ Dash through a kaleidoscope of cubes in Color Runner, a vibrant arcade race that
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Casual

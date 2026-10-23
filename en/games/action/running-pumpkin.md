@@ -21,4 +21,4 @@ Running Pumpkin is a runner-style game. With lots of fun, this game will test yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Halloween, HTML5, jump, Jumping, Mobile, running, Skill
+- Tags: Arcade, Halloween, HTML5, jump, jumping, Mobile, running, Skill

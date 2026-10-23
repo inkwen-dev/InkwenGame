@@ -19,6 +19,6 @@ Super Mario &amp; Sonic FNF Dance is a rhythm action game. Featuring Super Mario
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Dancing, Fantasy, Mario, Music, Play, Rhythm, Simulation, unity, Unity3D, WebGL
+- Tags: 3D, 3D Games, Dancing, Fantasy, mario, music, Play, Rhythm, Simulation, unity, Unity3D, WebGL

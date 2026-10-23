@@ -21,4 +21,4 @@ Every one is busy in the preparation of Chinese Lunar new year. In this day peop
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Boy, Boys, Candy, Chicken, Cook, Cooking, Food, Girl, Kids, New, Restaurant
+- Tags: Best, Boy, Boys, Candy, Chicken, Cook, Cooking, Food, Girl, Kids, New, restaurant

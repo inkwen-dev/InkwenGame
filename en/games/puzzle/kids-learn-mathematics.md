@@ -19,6 +19,6 @@ Here we have interesting kids mathematical skills game where your mathematical k
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Fun, HTML5, Kids, Logic, Math, Mobile, Puzzle, Skill
+- Tags: Casual, Fun, HTML5, Kids, Logic, math, Mobile, Puzzle, Skill

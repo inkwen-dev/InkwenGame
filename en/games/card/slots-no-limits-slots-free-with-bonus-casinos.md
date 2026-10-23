@@ -19,6 +19,6 @@ Play NO LIMITS SLOT MACHINES FREE WITH BONUS CASINOS! Try OVER 45+ FREE Slot Mac
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Card, Casino, Game, Girls, Machine, Slot Machine
+- Tags: .io Games, card, Casino, Game, Girls, Machine, Slot Machine

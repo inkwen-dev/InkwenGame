@@ -21,4 +21,4 @@ Jump your ninja.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mobile, Ninja
+- Tags: Mobile, ninja

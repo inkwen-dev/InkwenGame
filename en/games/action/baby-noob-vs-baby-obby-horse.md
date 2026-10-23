@@ -21,4 +21,4 @@ Two baby siblings need to find a key and a chest in the forest. Help the baby si
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Animal, Block, Horse, Minecraft, Platform
+- Tags: 2 Player, 2 Player Games, 2D, Animal, block, horse, Minecraft, Platform

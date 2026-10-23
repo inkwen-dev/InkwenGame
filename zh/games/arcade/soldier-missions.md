@@ -21,4 +21,4 @@ WASD - 角色移动 E - 使用急救包 R - 重新装填武器 G - 投掷手榴�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 3D游戏, 动作, 街机, 军队, 乐趣, 搞笑, 游戏, 游戏, HTML5, Unity3D, 武器, WebGL
+- 标签: 单人, 3D, 3D游戏, 动作, 街机, 军队, 有趣, 搞笑, 游戏, 网页游戏, HTML5, Unity3D, 武器, WebGL

@@ -19,6 +19,6 @@ Step into the gritty streets of Grand Crime City, where danger lurks around ever
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: city, Fighting, First Person Shooter, gta, Killing, Shoot, Shoot 'Em Up, Shooting
+- Tags: city, fighting, First Person Shooter, gta, Killing, Shoot, Shoot 'Em Up, Shooting

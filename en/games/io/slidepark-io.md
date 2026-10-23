@@ -19,6 +19,6 @@ Enter in the craziest aqua park in a competition on the biggest slide ever seen,
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Mobile, Unity3D, WebGL

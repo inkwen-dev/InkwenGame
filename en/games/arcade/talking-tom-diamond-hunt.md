@@ -19,6 +19,6 @@ Talking Tom Diamond Hunt is an online game that you can play for free. Talking T
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Android, Arcade, Boys, Cartoon, Cat, Celebrity, Collecting, HTML5, Kids, Skill

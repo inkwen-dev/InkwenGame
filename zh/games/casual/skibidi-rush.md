@@ -21,4 +21,4 @@ Skibidi Rush 是一款高分竞速游戏，你需要操控急速前进的 Skibid
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Skibidi Toilet
+- 标签: skibidi-toilet

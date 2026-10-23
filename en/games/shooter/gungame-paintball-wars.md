@@ -21,4 +21,4 @@ Welcome to the awesome paintball gungame wars! Multiplayer and campaign waiting 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fire, Multiplayer, Pixel, Shooter, Shooting, Unity3D, WebGL
+- Tags: Fire, Multiplayer, pixel, Shooter, Shooting, Unity3D, WebGL

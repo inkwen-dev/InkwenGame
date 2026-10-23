@@ -19,6 +19,6 @@ Are you ready to join the excitement in Sonic Run for Lamborghini, an amazing an
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boys, Brain, Drawing, HTML5, Hypercasual, Kids, Logic, Physics, Puzzle
+- Tags: Arcade, Boys, Brain, drawing, HTML5, Hypercasual, Kids, Logic, Physics, Puzzle

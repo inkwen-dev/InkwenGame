@@ -21,4 +21,4 @@ Skibidi 跳跃挑战是一款有趣且富有挑战性的游戏。在这里，玩
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 动作, 冒险, 跳跃, 跳跃, Skibidi, Skibidi 马桶
+- 标签: 2D, 动作, 冒险, 跳跃, 跳跃, Skibidi, skibidi-toilet

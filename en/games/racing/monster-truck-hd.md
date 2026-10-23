@@ -19,6 +19,6 @@ Rev up your engine and leave your competitors in the dust in this thrilling mons
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Car, Driving, Monster, Truck
+- Tags: Action, Adventure, Car, Driving, monster, truck

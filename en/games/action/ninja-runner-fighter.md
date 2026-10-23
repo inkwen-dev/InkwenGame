@@ -19,6 +19,6 @@ Sky Runner is a fun game, simple, easy to play and a great time killer. You are 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Fight, Fighting, running
+- Tags: Action, Adventure, Fight, fighting, running

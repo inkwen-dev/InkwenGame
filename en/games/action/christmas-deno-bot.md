@@ -19,6 +19,6 @@ Christmas Deno Bot is a 2D Sci-fi themed platformer on a Christmas setting in wh
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Cute, jump, Jumping, Platform, Retro, Robot, Science
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Cute, jump, jumping, Platform, retro, Robot, Science

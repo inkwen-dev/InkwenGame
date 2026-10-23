@@ -19,6 +19,6 @@ This fun winter obstacle race is about to begin. Knowing when to stop is more im
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Hypercasual, Ice, Kids, Mobile, Obstacle, Online, Platform, Race, run, Skill, Snow

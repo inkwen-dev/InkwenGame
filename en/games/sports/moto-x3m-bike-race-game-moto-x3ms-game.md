@@ -21,4 +21,4 @@ Moto X3M is a time trial bike racing game featuring challenging obstacles. There
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Game, Games, Moto, Motorcycle, Race
+- Tags: bike, Game, Games, Moto, Motorcycle, Race

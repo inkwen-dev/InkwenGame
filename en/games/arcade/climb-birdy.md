@@ -21,4 +21,4 @@ Avoid the spikes by swiping your Bird upwards. Birds may fly faster when you tou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Clicker, HTML5, jump, Jumping, Mobile
+- Tags: 1 Player, 2D, Android, Clicker, HTML5, jump, jumping, Mobile

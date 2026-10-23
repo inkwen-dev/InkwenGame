@@ -19,6 +19,6 @@ Block Puzzle, Slide Block, and any other hyper-casual game. Drag and drop the bl
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 3D, amazing, Casual, Puzzle

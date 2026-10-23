@@ -21,4 +21,4 @@ Jump into your car and discover green hills, snowy mountains and desert dunes in
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Block, Cars, Clash, Classic, Fight, Hypercasual, jump, Play, Race, Stunts
+- Tags: Adventure, Arcade, block, Cars, Clash, Classic, Fight, Hypercasual, jump, Play, Race, Stunts

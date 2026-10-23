@@ -21,4 +21,4 @@ Connection elimination is a classic casual puzzle gameplay, which can be complet
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Ball, Bomb, Color, Strategy
+- Tags: 1 Player, Ball, Bomb, Color, strategy

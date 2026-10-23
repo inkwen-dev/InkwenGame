@@ -21,4 +21,4 @@ A new kind of word search games with emoji instead of words. It's really fun. If
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Brain, Casual, Educational, Word
+- Tags: Board, Brain, Casual, educational, word

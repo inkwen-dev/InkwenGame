@@ -21,4 +21,4 @@ This adventure takes place in the oceans depths with the dangerous fishes of all
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Animal, Arcade, Arena, Battle, Casual, Fish, Fishing, HTML5, Skill
+- Tags: 2 Player, 2 Player Games, 2D, Action, Animal, Arcade, Arena, battle, Casual, Fish, Fishing, HTML5, Skill

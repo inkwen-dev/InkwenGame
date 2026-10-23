@@ -19,6 +19,6 @@ Become a member of our Kings and Queens Club and enjoy its unlimited possibiliti
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Board, Brain, Card, Casino, HTML, HTML5, Hypercasual, Mind, Solitaire, Summer
+- Tags: 3D, Arcade, Board, Brain, card, Casino, HTML, HTML5, Hypercasual, Mind, solitaire, Summer

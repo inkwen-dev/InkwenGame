@@ -21,4 +21,4 @@ Defend the base from the alien and soldiers attack, all enemies are here to dest
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kiz 10, kiz10, Stickman
+- Tags: Kiz 10, kiz10, stickman

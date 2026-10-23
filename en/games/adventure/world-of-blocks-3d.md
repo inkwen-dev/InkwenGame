@@ -19,6 +19,6 @@ Do you like building games? World of Blocks 3D invites you into a completely ope
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: building, Craft, Minecraft, Pixel, World
+- Tags: building, Craft, Minecraft, pixel, World

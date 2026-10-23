@@ -19,6 +19,6 @@ In this amazing and fun matching game, you must match at least 3 similar objects
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Candy, Kid, Kids, Logic, Logical, Match 3, Mobile, Panda, Puzzle

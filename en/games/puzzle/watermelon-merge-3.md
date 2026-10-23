@@ -19,6 +19,6 @@ Watermelon Merge 3 is an adorable and entertaining puzzle game where players mer
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Hypercasual, Kids, Mentolatux, Unity3D, WebGL

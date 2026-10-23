@@ -19,6 +19,6 @@ COLOR SPIN is a super arcade game with simple rules : Bounce the ball on the sam
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: amazing, Android, Arcade, Bounce

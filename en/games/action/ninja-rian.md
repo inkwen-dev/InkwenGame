@@ -21,4 +21,4 @@ NINJA RIAN This is a platform game with ninja style with the skills: sliding, ju
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Boy, Boys, Fight, Fighting, jump, Jumping, Ninja, Ninjago, running, Skill, Skills, Street Fighting
+- Tags: Action, Adventure, Boy, Boys, Fight, fighting, jump, jumping, ninja, Ninjago, running, Skill, Skills, Street Fighting

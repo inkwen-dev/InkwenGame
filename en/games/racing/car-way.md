@@ -19,6 +19,6 @@ If you like cars and puzzle games, this game is for you. You can improve your in
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Brain, Car, Driving, Fun, Game, Girls, HTML5, Puzzle, Racing

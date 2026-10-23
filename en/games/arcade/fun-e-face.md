@@ -19,6 +19,6 @@ Have fun playing around with this cool Fun-E Face game with AI model generating 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, Celebrity, Fun, Funny, Girls, Hypercasual, Kids, Mobile, Online, Puzzle

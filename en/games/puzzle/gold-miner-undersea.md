@@ -19,6 +19,6 @@ Gold Miner is a fun and addictive arcade game where you play as a miner on a que
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Gold, Mine, mineblock, Miner

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 卡通, 卡通网络, HTML5, 拼图, 儿童, 益智
+- 标签: 街机, 卡通, 卡通频道, HTML5, 拼图, 儿童, 益智

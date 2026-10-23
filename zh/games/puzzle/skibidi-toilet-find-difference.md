@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 侦探, 差异, 万圣节, Skibidi, Skibidi马桶
+- 标签: 侦探, 找不同, 万圣节, Skibidi, skibidi-toilet

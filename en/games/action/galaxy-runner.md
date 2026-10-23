@@ -15,6 +15,6 @@ Guide Nova's spaceship through neon-lit space in Galaxy Runner. Perfectly time y
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: hyper-casual

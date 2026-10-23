@@ -19,6 +19,6 @@ Batman Truck Driving - is an attractive truck driving game, you will have to con
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Batman, Car, Race, Truck
+- Tags: Batman, Car, Race, truck

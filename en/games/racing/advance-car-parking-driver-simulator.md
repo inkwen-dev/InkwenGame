@@ -19,6 +19,6 @@ You can set camera angle by swiping on screen up, down left and right. zoom in a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, 3D Games, Action, Adventure, Arcade, Boys, Car, Cars, Girls, Parking, Race, Racing, Simulation, Simulator, Super, Supercars, Unity3D
+- Tags: 2D, 3D Games, Action, Adventure, Arcade, Boys, Car, Cars, Girls, parking, Race, Racing, Simulation, Simulator, Super, Supercars, Unity3D

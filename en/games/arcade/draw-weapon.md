@@ -21,4 +21,4 @@ Control your character with the mouse, but be careful not to fall into the botto
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Draw, Drawing, Gun, Hypercasual, Unity3D
+- Tags: 3D, 3D Games, Arcade, Draw, drawing, Gun, Hypercasual, Unity3D

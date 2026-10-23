@@ -19,6 +19,6 @@ Swipe To Park The Cars is a captivating 2D mobile game that puts your parking sk
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Cars, Click, HTML5, iPad, iPhone, Mentolatux, Mobile, Mouse, Parking, Skill, Unity3D, WebGL
+- Tags: Android, Cars, Click, HTML5, iPad, iPhone, Mentolatux, Mobile, Mouse, parking, Skill, Unity3D, WebGL

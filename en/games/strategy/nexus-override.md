@@ -39,4 +39,4 @@ Features:
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, co-op, pve, Strategy, survival, Tower Defense, two-player
+- Tags: 3D, co-op, pve, strategy, survival, Tower Defense, two-player

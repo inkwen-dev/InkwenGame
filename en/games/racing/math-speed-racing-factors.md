@@ -21,4 +21,4 @@ A fun math number factoring race game. Keep on racing by keeping your racecar fu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Math
+- Tags: educational, math

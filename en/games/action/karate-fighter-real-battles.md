@@ -21,4 +21,4 @@ Play as a karate master and fight against waves of warriors ! Are you able to ra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Boxing, Fighting, Kill
+- Tags: Action, Arcade, Boxing, fighting, Kill

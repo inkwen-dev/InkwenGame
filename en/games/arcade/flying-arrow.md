@@ -19,6 +19,6 @@ Aim carefully and throw your arrow through the world then control it to dodge ob
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Arena, Game, Online, Puzzle

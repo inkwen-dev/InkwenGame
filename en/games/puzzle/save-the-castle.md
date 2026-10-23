@@ -15,6 +15,6 @@ In Save the Castle, protect your kingdom in a thrilling match-3 RPG adventure. U
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Match-3
+- Tags: Match 3

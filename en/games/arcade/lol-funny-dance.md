@@ -19,6 +19,6 @@ LOL Funny Dance is a hilarious and free-to-play online game perfect for kids. Pi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Celebrity, Fun, Funny, Hypercasual, Mouse, Point And Click

@@ -19,6 +19,6 @@ In the magical land of Bunnyville, a little pink rabbit named Hoppy dreams of be
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Clicker, Easter, Family, HTML5, jump, Jumping, mapi games, Mobile, Puzzle, Rabbit
+- Tags: Casual, Clicker, Easter, Family, HTML5, jump, jumping, mapi games, Mobile, Puzzle, Rabbit

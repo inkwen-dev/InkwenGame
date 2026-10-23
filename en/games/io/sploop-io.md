@@ -19,6 +19,6 @@ Sploop.io is one of the best village building, crafting and PVP game. The PVP in
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Craft, Fantasy, Fight, HTML5, Multiplayer, PvP

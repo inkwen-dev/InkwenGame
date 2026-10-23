@@ -19,6 +19,6 @@ Turn on your sneak mode! Test your hide and seek skills in a realistic robbery s
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Batman, Best, Boys, Casual, Girls, Hot, HTML5, Hypercasual, Kids, Online, Police, Simulation, Simulator, Snake, Stealth
+- Tags: Adventure, Arcade, Batman, Best, Boys, Casual, Girls, Hot, HTML5, Hypercasual, Kids, Online, police, Simulation, Simulator, snake, Stealth

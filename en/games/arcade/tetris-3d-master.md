@@ -19,6 +19,6 @@ Tetris 3D Master is a 3D block puzzle, a cross between classic brick game and 3D
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Block, Brain, Casual, Clicker, Hot, Puzzle, Tetris
+- Tags: Arcade, Best, block, Brain, Casual, Clicker, Hot, Puzzle, tetris

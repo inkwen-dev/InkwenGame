@@ -19,6 +19,6 @@ Geometry Dash Finally is a game where you will have fun. There are 3 different l
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Click, Clicker, Crazy
+- Tags: 1 Player, Adventure, Click, Clicker, crazy

@@ -19,6 +19,6 @@ Do you like Unblock the ball games. This is Unroll that Ball, a new amazing puzz
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Maze, Puzzle

@@ -21,4 +21,4 @@ Extreme Car Parking Game 3D: Car Racing Free Games drives you crazy. Broken Diam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, Action, Arcade, Car, Cars, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing
+- Tags: .io Games, 3D, Action, Arcade, Car, Cars, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, jump, jumping, Race, Racing

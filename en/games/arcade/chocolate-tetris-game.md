@@ -21,4 +21,4 @@ Play a fun and challenging game of Tetris in the shape of chocolate!\ Play The C
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Puzzle, Tetris
+- Tags: Arcade, Puzzle, tetris

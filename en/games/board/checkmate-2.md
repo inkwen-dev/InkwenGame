@@ -21,4 +21,4 @@ Step into the world of Checkmate, a strategic chess-inspired game featuring 500 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Casual, Hypercasual, Puzzle, Strategy
+- Tags: Board, Casual, Hypercasual, Puzzle, strategy

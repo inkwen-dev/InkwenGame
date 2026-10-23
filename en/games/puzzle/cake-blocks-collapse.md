@@ -19,6 +19,6 @@ Collapse the blocks by tapping groups of horizontally or vertically connected sa
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Cake, Girls, HTML5, Matching, Mobile, Puzzle, Skill
+- Tags: block, Cake, Girls, HTML5, Matching, Mobile, Puzzle, Skill

@@ -19,6 +19,6 @@ The ugly toys living in uglyvilla need to be put in the box urgently. The ugly t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Alien, Arcade, Best

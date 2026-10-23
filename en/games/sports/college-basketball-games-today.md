@@ -21,4 +21,4 @@ College Basketball Games Today is the ultimate arcade-style college basketball g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball
+- Tags: basketball

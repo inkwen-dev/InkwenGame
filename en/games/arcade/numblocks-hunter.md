@@ -21,4 +21,4 @@ Numblocks Hunter is an Arcade-Action Math game. In this game you need to keep th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Educational, HTML5, Math, Mobile, Puzzle, School
+- Tags: Arcade, educational, HTML5, math, Mobile, Puzzle, School

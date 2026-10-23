@@ -21,4 +21,4 @@ Snake falls 是一款非常有趣的益智游戏，拥有美丽的鸟头和蛇�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 躲避, 男孩, 大脑, 水果, 有趣, HTML5, 儿童, 移动, 障碍, 益智, 贪吃蛇
+- 标签: 安卓, 躲避, 男孩, 大脑, 水果, 有趣, HTML5, 儿童, 移动设备, 障碍, 益智, snake

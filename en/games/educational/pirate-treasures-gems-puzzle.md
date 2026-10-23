@@ -21,4 +21,4 @@ This classic matching puzzle game is easy for all every age. Hunt no tales, but 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Brawl, Educational, Gold, Puzzle
+- Tags: Brain, Brawl, educational, Gold, Puzzle

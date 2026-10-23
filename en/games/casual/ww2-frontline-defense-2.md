@@ -15,6 +15,6 @@ In WW2 Frontline Defense, command the battlefield with strategic prowess. Assemb
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: War

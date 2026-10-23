@@ -27,4 +27,4 @@ Place it up, place it down, place it on the side. If you've found the number rig
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Logic, Math, Number, Puzzle
+- Tags: Brain, Logic, math, Number, Puzzle

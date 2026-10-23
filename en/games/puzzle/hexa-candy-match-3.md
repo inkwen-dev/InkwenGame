@@ -19,6 +19,6 @@ Match hexagonal candies by rotating clusters to form color lines and clear the b
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, hexa, hexagon, Match 3, Match3, Matching

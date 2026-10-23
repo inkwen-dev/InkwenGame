@@ -19,6 +19,6 @@ Chained Cars 3d is a new fast beam drive and unique ramp in real car racing game
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D, 3D Games, Action, Adventure, Arcade, Battle, Best, Brain, Car, Fight
+- Tags: .io Games, 1 Player, 3D, 3D Games, Action, Adventure, Arcade, battle, Best, Brain, Car, Fight

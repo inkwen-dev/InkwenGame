@@ -19,6 +19,6 @@ Stunt superbike doesn't get any better than racing against a friend or a random 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Bike, Driving, Moto, Motorcycle, Stunts, Unity3D, WebGL
+- Tags: 1 Player, 3D Games, bike, Driving, Moto, Motorcycle, Stunts, Unity3D, WebGL

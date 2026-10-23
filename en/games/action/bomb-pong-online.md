@@ -35,4 +35,4 @@ Easy to learn, hard to master, and increasingly chaotic with every hit.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 1v1, Arcade, Fighting, Multiplayer, Skill, two-player
+- Tags: 1v1, Arcade, fighting, Multiplayer, Skill, two-player

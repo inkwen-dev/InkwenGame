@@ -21,4 +21,4 @@ In this game you can play with a Flappy Poppy! Just Tap to fly and try to pass a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Casual, Clicker, Games, HTML5, Hypercasual, Kids, Monster, Racing
+- Tags: Boys, Casual, Clicker, Games, HTML5, Hypercasual, Kids, monster, Racing

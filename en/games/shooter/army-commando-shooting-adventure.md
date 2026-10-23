@@ -21,4 +21,4 @@ We are presenting another new action game "Army Commando Playground - FPS Shooti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Army, Gun, Shooter, Shooting, Sniper
+- Tags: 3D, Action, Army, Gun, Shooter, Shooting, sniper

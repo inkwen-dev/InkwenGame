@@ -21,4 +21,4 @@ Bike Dont Rush is a bike game where you try to move forward without hitting obst
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Bike, Driving, Hypercasual, Mobile, Slicing, Stunts, Unity3D
+- Tags: 3D, bike, Driving, Hypercasual, Mobile, Slicing, Stunts, Unity3D

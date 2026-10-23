@@ -21,4 +21,4 @@ You are in charge of a stickman in a box with a pickaxe in its hand, and your ob
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, New, Skills, Stickman
+- Tags: Clicker, New, Skills, stickman

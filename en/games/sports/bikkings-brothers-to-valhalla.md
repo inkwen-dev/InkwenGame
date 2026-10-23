@@ -19,6 +19,6 @@ Vikings gave up on longships; hovercrafts get you to Valhalla faster. You and a 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Driving, Racing, Soccer, water

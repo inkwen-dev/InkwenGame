@@ -19,6 +19,6 @@ Draw a line to guide your car or plane moving toward the goal. The more you pass
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Avoid, Car, Collecting, Draw, Driving, HTML5, Mobile, Online, Plane, Puzzle

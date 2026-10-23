@@ -21,4 +21,4 @@ Click the cards to flip a fruit items. Memorize their position and match them up
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fruit, Fruits, HTML5, Memory, Mobile
+- Tags: Fruit, Fruits, HTML5, memory, Mobile

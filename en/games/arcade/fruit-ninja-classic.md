@@ -19,6 +19,6 @@ Swipe your screen to cut fruit, but don’t hit bombs – that’s how easy it i
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Classic, Click, Clicker, Fruit, Fruits

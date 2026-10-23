@@ -21,4 +21,4 @@ Welcome to the definitive motorbike impossible track race experience! Impossible
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Bike, HTML5, Moto, Motorcycle, Race, Stunts, WebGL
+- Tags: 3D, bike, HTML5, Moto, Motorcycle, Race, Stunts, WebGL

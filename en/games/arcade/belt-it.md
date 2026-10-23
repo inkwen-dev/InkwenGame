@@ -19,6 +19,6 @@ Most players never trying to transport express. As a 3D arcade puzzle game, now 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Brain, Casual, Kid, Kids, Puzzle, Relaxation

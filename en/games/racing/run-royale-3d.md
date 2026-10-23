@@ -19,6 +19,6 @@ Tired of stuffy running races? A fun new obstacle course? It's today's royal fun
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Game, Games, Kid, Kids, Obstacle, Puzzle, Racing, running

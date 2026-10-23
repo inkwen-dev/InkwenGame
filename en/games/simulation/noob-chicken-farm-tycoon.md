@@ -21,4 +21,4 @@ Help Noob run a chicken farm: breed and upgrade chickens, buy useful tools for t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Best, Brain, Business, Casual, Chicken, Classic, Clicker, Collecting, Minecraft, Pixel, Zombie
+- Tags: 1 Player, 2D, Arcade, Best, Brain, Business, Casual, Chicken, Classic, Clicker, Collecting, Minecraft, pixel, Zombie

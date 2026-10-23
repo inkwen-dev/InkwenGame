@@ -26,4 +26,4 @@ Master the classic Latto Latto! Hold and move the handle to swing the two balls 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Ball, Music, Skill
+- Tags: Ball, music, Skill

@@ -21,4 +21,4 @@ Hold the screen to aim, swipe the ball to the brick and break all the bricks eas
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Ball, Block, Game, Shooter
+- Tags: 2D, Arcade, Ball, block, Game, Shooter

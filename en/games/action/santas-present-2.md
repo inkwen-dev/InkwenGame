@@ -21,4 +21,4 @@ Santas Present 2 is a 2D Christmas themed platformer where you play as Santa who
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Christmas, Collecting, Cute, jump, Jumping, Pixel, Platform, Retro, Snow
+- Tags: 1 Player, 2D, Adventure, Arcade, Christmas, Collecting, Cute, jump, jumping, pixel, Platform, retro, Snow

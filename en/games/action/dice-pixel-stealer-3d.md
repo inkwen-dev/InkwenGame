@@ -21,4 +21,4 @@ Dice Pixel Stealer 3D is both a strategy and physics launch arcade game with 3D 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Battle, Boy, Kid, Pixel, Puzzle
+- Tags: 3D, 3D Games, Arcade, battle, Boy, Kid, pixel, Puzzle

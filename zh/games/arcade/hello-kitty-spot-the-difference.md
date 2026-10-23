@@ -21,4 +21,4 @@ Hello Kitty 找不同 - 欢迎来到令人难忘的「找不同」游戏！测�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 男孩们, 差异, 有趣, 女孩, Hello Kitty, HTML5, 孩子们, 移动设备, 益智
+- 标签: 街机, 男孩们, 找不同, 有趣, 女孩, Hello Kitty, HTML5, 儿童, 移动设备, 益智

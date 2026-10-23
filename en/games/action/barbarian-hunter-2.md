@@ -21,4 +21,4 @@ Save all the maidens and kill all the Barbarian. Defend your base as long as you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Arcade, Fighting, Sword, War
+- Tags: 2D, Action, Adventure, Arcade, fighting, sword, War

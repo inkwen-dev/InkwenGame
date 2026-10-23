@@ -21,4 +21,4 @@ A shooting game is waiting for you in Wild West Adventures. Ride your horse and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Fun, Gun, Horse, Kids, Mobile, run, running, Shoot, Shooting, Skill
+- Tags: Best, Fun, Gun, horse, Kids, Mobile, run, running, Shoot, Shooting, Skill

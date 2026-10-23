@@ -19,6 +19,6 @@ Shift Run is a fun addictive hyper-casual game. Just Click to Adjust Angle and S
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Casual, Fun, Girl, Hypercasual, run, Skateboard, sky
+- Tags: 1 Player, Adventure, Casual, Fun, Girl, Hypercasual, run, skateboard, sky

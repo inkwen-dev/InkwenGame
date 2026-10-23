@@ -21,4 +21,4 @@ Pixel Gun Apocalypse 5 is a fast-paced multiplayer FPS that plunges players into
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mentolatux, Multiplayer, Pixel, Shooting, WebGL
+- Tags: Mentolatux, Multiplayer, pixel, Shooting, WebGL

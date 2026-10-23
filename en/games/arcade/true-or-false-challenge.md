@@ -21,4 +21,4 @@ True or False Challenge is a brain teasing trivia quiz game. In this game, you n
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Fun, HTML5, Kids, Mobile, Quiz, Skill, Word
+- Tags: Arcade, Casual, Fun, HTML5, Kids, Mobile, Quiz, Skill, word

@@ -19,6 +19,6 @@ For your benefit, we have included in this game all of the thrills, laughs, and 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Action, Android, Driving, HTML5, Mobile, Moto, Motorcycle, Racing, Unity3D, WebGL

@@ -21,4 +21,4 @@ Do you love Snake Games? Welcome to classic Snake where you have to eat small do
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Snake
+- Tags: snake

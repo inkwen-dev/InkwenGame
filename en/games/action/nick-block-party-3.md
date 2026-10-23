@@ -21,4 +21,4 @@ Play Nick Block Party 3 game in your web browser for free at Superkidgames.com a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Avoid, Battle, Ben 10, Bounce, Boy, Cartoon, Cartoon Network, Family, Fight, Girls, HTML5, Hypercasual, Logic, Miraculous Ladybug, Mobile, Spongebob, Superhero
+- Tags: Adventure, Arcade, Avoid, battle, Ben 10, Bounce, Boy, Cartoon, Cartoon Network, Family, Fight, Girls, HTML5, Hypercasual, Logic, Miraculous Ladybug, Mobile, Spongebob, Superhero

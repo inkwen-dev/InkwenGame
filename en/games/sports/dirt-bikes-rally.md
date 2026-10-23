@@ -21,4 +21,4 @@ Get ready for a heart-pounding motocross adventure in Stunt Dirt Bikes Rally Ext
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Action, Bike, Casual, Hypercasual, Multiplayer, Obstacle, offroad, Race, Road, Sports, Stunts
+- Tags: 2026 games, Action, bike, Casual, Hypercasual, Multiplayer, Obstacle, offroad, Race, Road, sports, Stunts

@@ -21,4 +21,4 @@ Want to get rich, get ready for the hard work. In the game Gold Truck Crane we w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Casual, Collecting, Fun, Gold, Mobile, Truck
+- Tags: 1 Player, Casual, Collecting, Fun, Gold, Mobile, truck

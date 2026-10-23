@@ -21,4 +21,4 @@ Enjoy presents Hello Kitty Educational Games! Help Hello Kitty to complete a lot
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Educational, Fun, Girls, Hello Kitty, HTML5, Kids, Mobile, Puzzle
+- Tags: Cartoon, educational, Fun, Girls, Hello Kitty, HTML5, Kids, Mobile, Puzzle

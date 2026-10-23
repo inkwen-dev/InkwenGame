@@ -21,4 +21,4 @@ Territory.io 是一款令人兴奋的领土争夺游戏，玩家需竞争控制�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 街机, 战斗, 休闲, 蛇, 策略, 生存
+- 标签: .io, .io 游戏, 街机, 战斗, 休闲, snake, 策略, 生存

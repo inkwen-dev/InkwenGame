@@ -19,6 +19,6 @@ Sequel to the 2021 smash hit, Mr Bullet, Mr Ninja Glory Spiderman will be your n
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Boy, Game, Puzzle, Superhero

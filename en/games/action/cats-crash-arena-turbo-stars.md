@@ -21,4 +21,4 @@ From the creators of the hit games Cut the Rope and King of Thieves, comes the m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, PvP
+- Tags: battle, PvP

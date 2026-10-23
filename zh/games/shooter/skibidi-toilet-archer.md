@@ -21,4 +21,4 @@ Skibidi Toilet Archer：在这款有趣的街机挑战中释放你的瞄准力�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 弓, 射击, 斯基比迪, 斯基比迪马桶
+- 标签: 街机, 弓箭, 射击, Skibidi, skibidi-toilet

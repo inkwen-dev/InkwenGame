@@ -19,6 +19,6 @@ To beat the opponent, we have to empty the entire pile of cards in our hand. mat
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Android, Arcade, Card, Collecting, Collection, Color, Coloring, H5, HTML, HTML5, Matching
+- Tags: 2 Player, 2 Player Games, 2D, Android, Arcade, card, Collecting, Collection, Color, Coloring, H5, HTML, HTML5, Matching

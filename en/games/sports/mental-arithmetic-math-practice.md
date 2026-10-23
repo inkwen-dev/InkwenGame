@@ -21,4 +21,4 @@ WELCOME TO THE SWEETEST mental arithmetic math practice mental arithmetic math p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Math, Puzzle
+- Tags: math, Puzzle

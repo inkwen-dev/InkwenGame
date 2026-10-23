@@ -19,6 +19,6 @@ Memory Match is a free online puzzle game for boys played on PuzzleGame. It comb
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boy, Brain, Card, Fun, HTML5, Kids, Matching, Memory, Online, Puzzle
+- Tags: Android, Boy, Brain, card, Fun, HTML5, Kids, Matching, memory, Online, Puzzle

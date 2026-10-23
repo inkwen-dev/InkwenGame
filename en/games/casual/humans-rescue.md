@@ -21,4 +21,4 @@ Pete young astronaut who passed special training and is now traveling through sp
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Collecting, Flight, Fun, Kids, Mobile, Rescue, Rocket, Skill
+- Tags: Best, Collecting, flight, Fun, Kids, Mobile, Rescue, Rocket, Skill

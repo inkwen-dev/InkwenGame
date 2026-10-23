@@ -19,6 +19,6 @@ Desktop Arrow keys or W A S D to drive the truck Mouse to zoom and rotate the ca
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Android, Car, Driving, HTML5, iPhone, Mobile, Parking, Simulation, Simulator, Truck
+- Tags: 3D, 3D Games, Android, Car, Driving, HTML5, iPhone, Mobile, parking, Simulation, Simulator, truck

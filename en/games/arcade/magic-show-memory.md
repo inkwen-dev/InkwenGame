@@ -19,6 +19,6 @@ Click a card to reveal the Magician’s item on it. Memorize it so that you can 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, HTML5, Matching, Memory, Mobile, Puzzle
+- Tags: Arcade, HTML5, Matching, memory, Mobile, Puzzle

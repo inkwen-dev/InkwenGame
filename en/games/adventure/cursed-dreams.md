@@ -15,6 +15,6 @@ Enter the haunting realm of "Cursed Dreams," where nightmares come alive on Hall
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: scary

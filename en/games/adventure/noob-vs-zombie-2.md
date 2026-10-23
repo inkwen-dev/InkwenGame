@@ -19,6 +19,6 @@ Are you ready for a thrilling adventure? Look no further than "Noob vs Zombie 2"
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Best, Crafting, Game, Hot, HTML5, Kiz 10, kiz10, Knight, Minecraft
+- Tags: 2D, Action, Adventure, Best, Crafting, Game, Hot, HTML5, Kiz 10, kiz10, knight, Minecraft

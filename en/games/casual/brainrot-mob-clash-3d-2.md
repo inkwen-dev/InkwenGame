@@ -15,6 +15,6 @@ Enter the chaotic fray of Brainrot Mob Clash 3D, where racing meets battle. Navi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Casual

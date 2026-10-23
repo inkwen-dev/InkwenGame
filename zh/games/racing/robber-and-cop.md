@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1人, 3D, 3D游戏, 动作, Android, 最佳游戏, 汽车, 城市, 战斗, 乐趣, 搞笑, 游戏, gta, HTML5
+- 标签: 单人, 3D, 3D游戏, 动作, 安卓, 最佳游戏, 汽车, 城市, 格斗, 有趣, 搞笑, 游戏, gta, HTML5

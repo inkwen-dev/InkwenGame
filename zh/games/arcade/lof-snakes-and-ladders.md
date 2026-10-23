@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人, 双人游戏, 街机, 棋盘, HTML5, 移动, 蛇, 回合制
+- 标签: 双人, 双人游戏, 街机, 棋盘, HTML5, 移动设备, snake, 回合制

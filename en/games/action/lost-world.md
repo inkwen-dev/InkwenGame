@@ -19,6 +19,6 @@ A 2D platform game is a type of video game where the main character navigates th
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boy, Boys, Escape, Fun, Games, Highscore, HTML5, Kill, Killing, run, running

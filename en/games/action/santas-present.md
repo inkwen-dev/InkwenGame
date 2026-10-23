@@ -19,6 +19,6 @@ Santas Present is a 2D Christmas themed platformer where you play as Santa who h
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Christmas, Collecting, Cute, jump, Jumping, Pixel, Platform, Retro, Snow
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Christmas, Collecting, Cute, jump, jumping, pixel, Platform, retro, Snow

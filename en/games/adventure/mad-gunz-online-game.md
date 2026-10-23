@@ -19,6 +19,6 @@ Get ready for the battle royale of the century in the action-packed pixel first-
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, H5, HTML, HTML5, Mobile, Pixel, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, H5, HTML, HTML5, Mobile, pixel, Unity3D

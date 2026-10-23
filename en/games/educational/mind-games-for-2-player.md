@@ -19,6 +19,6 @@ We collected some brain and board games that you can play as two player in a sin
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Educational, HTML5, Math, Quiz
+- Tags: Brain, educational, HTML5, math, Quiz

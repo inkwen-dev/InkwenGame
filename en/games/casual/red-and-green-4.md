@@ -15,6 +15,6 @@ Jump into the vibrant world of Red and Green 4, a thrilling co-op adventure. Mas
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: two-player

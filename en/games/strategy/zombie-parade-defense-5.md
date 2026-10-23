@@ -21,4 +21,4 @@ Zombie Parade Defense 5 is here with desert defense! Desert storms and zombies t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Battle, Castle, Shoot 'Em Up, Tower Defense, Undead, War, Zombie
+- Tags: 2 Player, 2 Player Games, battle, Castle, Shoot 'Em Up, Tower Defense, Undead, War, Zombie

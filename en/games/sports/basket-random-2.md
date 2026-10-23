@@ -19,6 +19,6 @@ Basketball is here with its most funny and random way. In Basket Random game, tr
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Basketball, Fun, Funny, HTML5, Physics, Pixel, Sport, Sports
+- Tags: 2 Player, 2 Player Games, basketball, Fun, Funny, HTML5, Physics, pixel, Sport, sports

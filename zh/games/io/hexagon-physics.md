@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, 1人游戏, 游戏, 高分, HTML5, 物理, 谜题
+- 标签: .io, 单人, 网页游戏, 高分, HTML5, 物理, 益智

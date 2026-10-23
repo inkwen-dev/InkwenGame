@@ -19,6 +19,6 @@ In Squid Crowd Pusher, one of the legendary game series of Squid game, your goal
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Best, Casual, Hot, Hypercasual, jump, Jumping, Kids, Maze, Road, Skills, Stack, Stickman
+- Tags: 3D, Adventure, Best, Casual, Hot, Hypercasual, jump, jumping, Kids, Maze, Road, Skills, Stack, stickman

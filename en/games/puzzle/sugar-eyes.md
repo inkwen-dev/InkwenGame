@@ -21,4 +21,4 @@ your objective is to combine little monsters of the same color -or the same amou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Matching, Monster, Puzzle
+- Tags: Matching, monster, Puzzle

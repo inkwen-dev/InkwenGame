@@ -21,4 +21,4 @@ Mr Stickman is a crazy shooting Game. Aim and shoot all your enemies. Explore to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML, HTML5, Hypercasual, Shoot, Shooter, Shooting, Sniper, Stickman, weapons
+- Tags: HTML, HTML5, Hypercasual, Shoot, Shooter, Shooting, sniper, stickman, weapons

@@ -15,6 +15,6 @@ Guide a perpetually bouncing ball through a maze of obstacles in Ball Bounce. St
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Ball

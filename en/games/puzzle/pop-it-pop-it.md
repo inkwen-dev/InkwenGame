@@ -19,6 +19,6 @@ Welcome to the game Pop It Pop It. Select the Pop It toy you want from the menu.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Baby, Bubble, Click, Clicker, Cool, Cute, endless, Girl, Girls, HTML, HTML5, Magic, Mobile
+- Tags: Android, Baby, Bubble, Click, Clicker, cool, Cute, endless, Girl, Girls, HTML, HTML5, Magic, Mobile

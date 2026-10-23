@@ -19,6 +19,6 @@ Very interesting eggs on the hundred layers of the game, very good oh!
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Animal, Boy, Boys, Car, Casual, Click, Clicker

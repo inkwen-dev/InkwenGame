@@ -45,4 +45,4 @@ Save the picture of your cakes in the 😋 Girls Cake Game
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Cake, Cooking, Decoration, Food, Girls, Restaurant
+- Tags: Cake, Cooking, Decoration, Food, Girls, restaurant

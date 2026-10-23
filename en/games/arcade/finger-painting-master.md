@@ -19,6 +19,6 @@ Il est temps de peindre et de dessiner! Alors, venez peindre au doigt et dessine
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Draw, Drawing, Kids
+- Tags: Draw, drawing, Kids

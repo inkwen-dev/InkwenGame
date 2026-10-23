@@ -21,4 +21,4 @@ Point your finger, take aim and try to score a basket! Shoot further and further
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Basketball, Clicker, Family, HTML, HTML5, Kids, Mobile, Sport, Sports
+- Tags: Arcade, basketball, Clicker, Family, HTML, HTML5, Kids, Mobile, Sport, sports

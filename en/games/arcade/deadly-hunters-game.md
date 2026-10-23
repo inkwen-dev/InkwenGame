@@ -19,6 +19,6 @@ Find all the hunters and form a team to kill Jungle beast.Avoid obstacle and for
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adult, Adventure, Animal, Arcade, Batman, Ben 10, Blood, Boys, Clash, Collection, Highscore, Kid, Kill, Rescue, Spiderman, Spongebob, Super

@@ -19,6 +19,6 @@ Get ready for a fast-paced memory challenge with a Sprunki twist! In Sprunki Car
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Card, HTML, mapi games, Matching, Memory, Sprunki
+- Tags: Brain, card, HTML, mapi games, Matching, memory, Sprunki

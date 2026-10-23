@@ -19,6 +19,6 @@ Now drive urban bus parking and city bus simulator mode of tourist bus parking, 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: bus, Cars, city, gta, Race, Racing, Road, Simulation, Traffic

@@ -19,6 +19,6 @@ For play this amazing game just filled swipe to move the ball up,down and in all
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Casual, Hypercasual, Puzzle

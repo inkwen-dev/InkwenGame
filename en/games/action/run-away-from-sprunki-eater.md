@@ -15,6 +15,6 @@ Dash through daring levels in Run Away from Sprunki Eater, as the relentless Dev
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: platformer

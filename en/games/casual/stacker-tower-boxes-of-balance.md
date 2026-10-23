@@ -19,6 +19,6 @@ Pile up all the boxes! Revive the old-school fun of playing a classic tower stac
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Balance, Casual, Stack

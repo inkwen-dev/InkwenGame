@@ -19,6 +19,6 @@ Desktop Mouse Drag and Drop Mobile Touch Screen Buttons
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Best, Casual, Game, Games, HTML5, Hypercasual

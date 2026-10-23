@@ -19,6 +19,6 @@ A classic sliding block puzzle games that unites the best of number games and pu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, free html5 games for your website, HTML, html5 games, html5 games for your site, Hypercasual, Puzzle

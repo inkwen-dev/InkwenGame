@@ -19,6 +19,6 @@ In Baby Panda Memory, players are invited to test their memory skills in a capti
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Boy, Fun, Girl, Hypercasual, Memory, Panda, Skill
+- Tags: Animal, Arcade, Boy, Fun, Girl, Hypercasual, memory, Panda, Skill

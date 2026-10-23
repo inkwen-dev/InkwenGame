@@ -19,6 +19,6 @@ Rolly Legs 3D is an amazing fun game. Roll on slopes to gain speed, and use your
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Arcade, Hypercasual, Race, Racing, running, Strategy
+- Tags: .io, .io Games, 3D, 3D Games, Arcade, Hypercasual, Race, Racing, running, strategy

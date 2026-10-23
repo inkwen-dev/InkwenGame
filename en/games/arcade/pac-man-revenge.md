@@ -21,4 +21,4 @@ defend yourself from ghosts go for the fruit and get improvements to your weapon
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, PacMan, Retro
+- Tags: Action, PacMan, retro

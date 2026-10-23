@@ -19,6 +19,6 @@ Winter Tile Connect is a fun and relaxing puzzle game where you match two identi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Christmas, html5 games, Matching, Mobile, Puzzle, Winter
+- Tags: block, Christmas, html5 games, Matching, Mobile, Puzzle, Winter

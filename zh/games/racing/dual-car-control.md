@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车, cars, 障碍, 竞速, 赛车, Unity3D
+- 标签: 汽车, 汽车, 障碍, 比赛, 竞速, Unity3D

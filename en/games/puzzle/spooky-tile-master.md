@@ -21,4 +21,4 @@ Spooky Tile Master is a Halloween-themed game where you clear the board by group
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Halloween
+- Tags: block, Halloween

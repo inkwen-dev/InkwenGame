@@ -19,6 +19,6 @@ Gun Fest legend is here with a brand new Squid Game theme. Duplicate their weapo
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Arcade, Battle, Best, Brain, Fun, Funny, Gun, Hot, Hypercasual, Math, run, running, Unity3D, weapons, WebGL
+- Tags: 3D, Action, Arcade, battle, Best, Brain, Fun, Funny, Gun, Hot, Hypercasual, math, run, running, Unity3D, weapons, WebGL

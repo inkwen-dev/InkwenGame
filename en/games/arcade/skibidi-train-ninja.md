@@ -21,4 +21,4 @@ Skibidi Train Ninja is an electrifying mobile game where players become agile ni
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Jumping, Ninja, Skibidi, Skibidi Toilet, Train
+- Tags: Arcade, jumping, ninja, Skibidi, skibidi-toilet, Train

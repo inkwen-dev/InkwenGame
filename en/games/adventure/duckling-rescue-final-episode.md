@@ -19,6 +19,6 @@ Hi... I'm your webby, Thankyou you for helping me to find my babies. But my youn
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Point And Click

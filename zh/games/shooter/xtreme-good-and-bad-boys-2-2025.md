@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 第一人称射击, Mentolatux, 多人游戏, 射击, Unity3D, WebGL
+- 标签: 第一人称射击, Mentolatux, 多人, 射击, Unity3D, WebGL

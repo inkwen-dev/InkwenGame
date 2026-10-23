@@ -21,4 +21,4 @@ You are a fan of arcade game of the old times and nothing pleases you as much as
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Bricks, Hypercasual, Retro
+- Tags: Arcade, Ball, Bricks, Hypercasual, retro

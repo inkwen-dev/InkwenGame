@@ -21,4 +21,4 @@ A D Left and Right Space Jump
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, run, running, Stickman, Unity3D, WebGL
+- Tags: 3D Games, run, running, stickman, Unity3D, WebGL

@@ -21,4 +21,4 @@ Survival Squid Game Offline 3D theme is like an invasion squad for players of re
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Adventure, Arcade, Fight, Fighting, Gun, Shooting, WebGL
+- Tags: 1 Player, 3D, Action, Adventure, Arcade, Fight, fighting, Gun, Shooting, WebGL

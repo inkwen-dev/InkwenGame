@@ -21,4 +21,4 @@ Armour Crush Defense is a strategy tank deployment game. Objective is to destroy
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Battlegrounds, Defense, Tank, Tanks, Tower Defense
+- Tags: Action, battle, Battlegrounds, Defense, Tank, tanks, Tower Defense

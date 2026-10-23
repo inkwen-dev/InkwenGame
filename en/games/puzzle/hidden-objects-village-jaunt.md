@@ -19,6 +19,6 @@ Have a virtual picnic in the village. This hidden object game brings you 16 leve
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Hidden, HTML5, Mobile

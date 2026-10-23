@@ -21,4 +21,4 @@ A single-player billiards game with levels, different tables, and simple control
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, 8 Ball Pool, Best Games, Billiard, Levels, Logic, Mobile, Pool, Simulation, Simulator, Sport, Sports
+- Tags: 1 Player, 2026 games, 2D, 8 Ball Pool, Best Games, Billiard, Levels, Logic, Mobile, pool, Simulation, Simulator, Sport, sports

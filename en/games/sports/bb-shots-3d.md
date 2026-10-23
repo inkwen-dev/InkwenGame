@@ -21,4 +21,4 @@ You got a chance to shoot the ball in between the zone game. Its Endless game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Ball, Basketball, Play
+- Tags: 1 Player, 3D Games, Ball, basketball, Play

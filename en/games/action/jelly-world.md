@@ -19,6 +19,6 @@ Click the mouse to operate the character, make the character jump, leap in the a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Collecting, Fighting, Jumping, Kids, Platform, Relaxation, Skill, Skills
+- Tags: Action, Adventure, Collecting, fighting, jumping, Kids, Platform, Relaxation, Skill, Skills

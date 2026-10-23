@@ -21,4 +21,4 @@ Extreme Balancer 3 is an adventurous game in which you have to balance the ball 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, 8 Ball Pool, Ball, Baseball, Basketball, bus, Car, Cars, Parking, Racing, Simulation, Simulator, Supercars, Truck, Unity3D
+- Tags: 3D, 3D Games, 8 Ball Pool, Ball, baseball, basketball, bus, Car, Cars, parking, Racing, Simulation, Simulator, Supercars, truck, Unity3D

@@ -21,4 +21,4 @@ Tank Battle Multiplayer Game! Shoot other tanks, destroy terrain and collect pow
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Battle, Multiplayer, Shooter, Tank, Tanks, War
+- Tags: .io, .io Games, Action, battle, Multiplayer, Shooter, Tank, tanks, War

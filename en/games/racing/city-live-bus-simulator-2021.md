@@ -19,6 +19,6 @@ Play City Live Bus Simulator 2021 in the great mission of simulator bus driving.
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: bus, Driving, Unity3D, WebGL

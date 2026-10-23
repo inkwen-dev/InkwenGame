@@ -19,6 +19,6 @@ In the Temple Puzzle game, 32 wonderful puzzles are waiting for you. The aim in 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Bejeweled, Casual, Collecting, Collection, Game, HTML, HTML5, Mobile, Puzzle

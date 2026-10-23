@@ -19,6 +19,6 @@ There is a great fantastic face paint party downtown!!! Inviting everyone to joi
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D, Adventure, Arcade, Cartoon, Casual, Dress Up, Frozen, Fun, Games, Hypercasual, Kids, Online, Princess

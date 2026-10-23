@@ -19,6 +19,6 @@ Let's dress up the legendary warrior who is protecting the world from evil force
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Clicker, Decorate, Dress Up, Fashion, Game, Games, Girls, HTML5

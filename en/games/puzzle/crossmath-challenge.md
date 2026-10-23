@@ -21,4 +21,4 @@ CrossMath is a fast-paced number puzzle where you drag tiles into a crossword-st
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Logic, Math, Number, Puzzle
+- Tags: Brain, Casual, Logic, math, Number, Puzzle

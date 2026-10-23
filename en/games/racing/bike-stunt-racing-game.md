@@ -21,4 +21,4 @@ Welcome to the world of bike stunt games. Get ready to experience the most thril
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, Adventure, Bike, Race, Racing, Stunts
+- Tags: 2025 games, Adventure, bike, Race, Racing, Stunts

@@ -21,4 +21,4 @@ Talking Tom 逗趣时光是一款你可以免费玩的在线游戏。Talking Tom
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动物, 街机, 男孩们, 猫, 名人, 可爱, 有趣, 搞笑, 女孩们, HTML5, 儿童
+- 标签: 动物, 街机, 男孩们, 猫, 名人, 可爱, 有趣, 搞笑, 女孩, HTML5, 儿童

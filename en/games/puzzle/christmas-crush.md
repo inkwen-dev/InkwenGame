@@ -19,6 +19,6 @@ It's Christmas Time Welcome to Christmas Crush Match3 Game with Amazing Christma
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Best, Brain, Candy, Casual, Christmas, Hot, Hypercasual, Jewel, Match 3, Match3, Matching

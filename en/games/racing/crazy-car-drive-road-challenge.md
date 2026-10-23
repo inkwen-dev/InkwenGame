@@ -21,4 +21,4 @@ Draw a safe road and guide your cartoon car across hills, gaps, and dangerous ob
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Car, Casual, Drawing, Driving, HTML5, Physics
+- Tags: Arcade, Car, Casual, drawing, Driving, HTML5, Physics

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 动作, 冒险, 手工, 制作, H5, 马匹, HTML, HTML5, Minecraft, 像素
+- 标签: 3D, 动作, 冒险, 建造, 制作, H5, horse, HTML, HTML5, 我的世界, 像素

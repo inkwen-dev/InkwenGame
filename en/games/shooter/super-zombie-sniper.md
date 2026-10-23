@@ -21,4 +21,4 @@ Shoot all Zombies before the time is over! Enjoy!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, HTML, HTML5, Monster, Shooter, Shooting, Sniper, War, weapons, Zombie
+- Tags: battle, HTML, HTML5, monster, Shooter, Shooting, sniper, War, weapons, Zombie

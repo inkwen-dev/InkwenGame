@@ -21,4 +21,4 @@ Football World Cup Pro is an exciting football tournament game where players com
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, Football, Hypercasual, Soccer, Sports
+- Tags: .io, 1 Player, Football, Hypercasual, Soccer, sports

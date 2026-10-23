@@ -19,6 +19,6 @@ Elsa's Halloween Party Tattoo is a very addictive make up game with Halloween th
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Cleaning, Color, Coloring, Decorate, Decoration, Draw, Drawing, Dress Up, Elsa, Frozen, Fun, Girl, Girls, Halloween, Holiday, HTML5, Kid, Kids, Makeover, Mobile, Princess
+- Tags: Cartoon, Cleaning, Color, Coloring, Decorate, Decoration, Draw, drawing, Dress Up, Elsa, Frozen, Fun, Girl, Girls, Halloween, Holiday, HTML5, Kid, Kids, Makeover, Mobile, Princess

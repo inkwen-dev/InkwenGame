@@ -21,4 +21,4 @@ Bus Parking City 3D is a realistic Bus Driving game and Bus Simulator having a 3
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Arcade, bus, Car, Cars, drifting, Driving, Parking
+- Tags: 1 Player, 3D, 3D Games, Arcade, bus, Car, Cars, drifting, Driving, parking

@@ -21,4 +21,4 @@ Embark on an exhilarating journey with Cool Racing: Crazy Stunts. Defy gravity, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Car, Cars, Cool, Crazy, drift, drifting, Driving, Skill, Skills, Supercars, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Car, Cars, cool, crazy, drift, drifting, Driving, Skill, Skills, Supercars, Unity3D

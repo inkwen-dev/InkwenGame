@@ -19,6 +19,6 @@ GEL PEN RUSH 2021 --s an interesting running, relaxing game. There are many obst
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Arena, Block, Boys, Girls, Hypercasual, IO, Kids, run, running, Simulation, WebGL
+- Tags: .io, 3D, 3D Games, Adventure, Arena, block, Boys, Girls, Hypercasual, Kids, run, running, Simulation, WebGL

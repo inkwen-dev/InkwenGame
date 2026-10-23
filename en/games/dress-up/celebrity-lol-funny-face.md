@@ -19,6 +19,6 @@ Celebrity LOL Funny Face is a hilarious and free online game for kids. Have fun 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Celebrity, Drawing, Fun, Funny, HTML5, Hypercasual, Kids, Makeover
+- Tags: Arcade, Celebrity, drawing, Fun, Funny, HTML5, Hypercasual, Kids, Makeover

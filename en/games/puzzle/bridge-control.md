@@ -19,6 +19,6 @@ In the case of our Bridge Control game, you don’t need it, enough dexterity an
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Avoid, Bridge, Casual, Fun, HTML5, Hypercasual, Mobile, Obstacle, Skill

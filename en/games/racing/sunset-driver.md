@@ -19,6 +19,6 @@ Don’t hit the cars who go to meet. Bonus system. Collect diamonds to buy skins
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Car, Casual, Driving, Hypercasual, Racing

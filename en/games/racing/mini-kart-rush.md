@@ -19,6 +19,6 @@ Here is a kart racing arcade game with 3D kart racers and platform tracks. It is
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Car, HTML5, Kart, Mobile, Platform, Racing

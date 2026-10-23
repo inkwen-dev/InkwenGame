@@ -21,4 +21,4 @@ Z 攻击 X 攻击 C 防御 空格键 跳跃
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 战斗, 格斗, kiz10, Stickman, 街头格斗
+- 标签: 格斗, 格斗, kiz10, 木偶人, 街头格斗

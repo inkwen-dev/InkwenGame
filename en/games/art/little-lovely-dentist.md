@@ -21,4 +21,4 @@ Lots of people want to be great dentists. Is that your dream? Now you get a chan
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cat, Cleaning, Color, Coloring, Cute, Doctor, Educational, Fun, Girls, HTML5, Kids, Mobile, Panda, Surgery
+- Tags: Animal, Cat, Cleaning, Color, Coloring, Cute, Doctor, educational, Fun, Girls, HTML5, Kids, Mobile, Panda, surgery

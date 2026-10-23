@@ -19,6 +19,6 @@ Blaze Monster Truck Coloring Book is a free online coloring and fun game! In thi
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Color, Coloring, Fun, HTML5, Kids, Mobile, Skill, Truck
+- Tags: Cartoon, Color, Coloring, Fun, HTML5, Kids, Mobile, Skill, truck

@@ -19,6 +19,6 @@ Make it 13 is an addictive number puzzle game based on simple addition. You can 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arena, Best, Color, Coloring, Educational, Puzzle
+- Tags: 2D, Arena, Best, Color, Coloring, educational, Puzzle

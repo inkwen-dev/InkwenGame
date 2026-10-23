@@ -21,4 +21,4 @@ Play Viking War of Clans by touch on screen or long press the left mouse button 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, Action, Adventure, Battle
+- Tags: 1 Player, 2 Player, 2 Player Games, Action, Adventure, battle

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: HTML5, 拼图, 儿童, 移动, 怪物, 益智, 卡车
+- 标签: HTML5, 拼图, 儿童, 移动设备, monster, 益智, 卡车

@@ -19,6 +19,6 @@ Roll to the ball which has the same color! Avoid the ball which has different co
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 3D, 3D Games, Action, Adventure, Ball, Color, Hypercasual, Puzzle, Road, Unity3D

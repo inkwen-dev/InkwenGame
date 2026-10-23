@@ -23,4 +23,4 @@ You are acting a professional ear doctor here to help people get rid of their ea
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Funny, hospital, Surgery
+- Tags: Funny, hospital, surgery

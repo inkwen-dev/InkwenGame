@@ -21,4 +21,4 @@ Russian trucks are one of the most powerful vehicles. Here you will find the bes
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Difference, Fun, HTML5, Kids, Skill, Truck
+- Tags: Difference, Fun, HTML5, Kids, Skill, truck

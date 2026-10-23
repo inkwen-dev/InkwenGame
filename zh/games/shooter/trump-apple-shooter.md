@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 躲避, 弓, 男孩, HTML5, 超休闲, 射击
+- 标签: 街机, 躲避, 弓箭, 男孩, HTML5, 超休闲, 射击

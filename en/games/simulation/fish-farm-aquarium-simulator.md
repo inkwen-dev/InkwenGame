@@ -21,4 +21,4 @@ After the huge success of Fish Farm, you can now experience even more: most real
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Best, Boys, Educational, Family, Farm, Fish, Fishing, Games, Girls, Kids, Online, Simulator
+- Tags: Animal, Best, Boys, educational, Family, Farm, Fish, Fishing, Games, Girls, Kids, Online, Simulator

@@ -21,4 +21,4 @@ bull 点击或使用鼠标射击敌人 bull 坚持到一天结束，直到太阳
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 点击器, 射击类, Stickman, 塔防
+- 标签: 点击器, 射击类, 木偶人, 塔防

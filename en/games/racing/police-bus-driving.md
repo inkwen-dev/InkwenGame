@@ -19,6 +19,6 @@ Police Bus Driving is a realistic transport simulator where you become a police 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, bus, city, offroad, Police, Prison, Road
+- Tags: Action, Adventure, bus, city, offroad, police, Prison, Road

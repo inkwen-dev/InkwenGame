@@ -21,4 +21,4 @@ The principle of this game is super simple and fun. Slide the tiles up, right, l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Educational, Family, Logic, Number, Puzzle
+- Tags: Arcade, Brain, educational, Family, Logic, Number, Puzzle

@@ -21,4 +21,4 @@ ELECTRIX is a puzzle game that looks simple but will keep you glued to the scree
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ai Games, Arcade, Family, mapi games, Puzzle, Tetris
+- Tags: Ai Games, Arcade, Family, mapi games, Puzzle, tetris

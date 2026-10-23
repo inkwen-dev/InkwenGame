@@ -19,6 +19,6 @@ Find out why millions of people all over the world play Solitaire every day! Enj
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casual, King, Logic, Logical, Puzzle, Solitaire
+- Tags: card, Casual, King, Logic, Logical, Puzzle, solitaire

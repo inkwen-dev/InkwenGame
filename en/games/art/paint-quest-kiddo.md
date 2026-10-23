@@ -21,4 +21,4 @@ Paint Quest: Kiddo! is a fun and colorful online coloring game for kids where cr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Educational, Fun, HTML5, Hypercasual, Kids, Mobile, painting, School
+- Tags: Color, Coloring, educational, Fun, HTML5, Hypercasual, Kids, Mobile, painting, School

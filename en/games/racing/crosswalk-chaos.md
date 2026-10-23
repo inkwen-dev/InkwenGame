@@ -19,6 +19,6 @@ Step into the chaos of busy streets in Crosswalk Chaos! Guide your group safely 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, amazing, Best, Best Games, Car, Crazy, Hypercasual, Puzzle, Road
+- Tags: 2026 games, Adventure, amazing, Best, Best Games, Car, crazy, Hypercasual, Puzzle, Road

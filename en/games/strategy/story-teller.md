@@ -19,6 +19,6 @@ Story Teller is a puzzle game full of romance and magic. In front of you is a ma
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Anime, Brain, Cute, Funny, HTML5, Kids, Love, Strategy
+- Tags: Android, Anime, Brain, Cute, Funny, HTML5, Kids, Love, strategy

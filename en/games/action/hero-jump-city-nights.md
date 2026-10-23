@@ -21,4 +21,4 @@ Hero Jump: City Nights is an addictive arcade platformer where you control a her
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Action, Arcade, Casual, jump, Jumping, Platform
+- Tags: 1 Player, 2026 games, Action, Arcade, Casual, jump, jumping, Platform

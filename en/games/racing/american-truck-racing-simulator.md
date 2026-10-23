@@ -21,4 +21,4 @@ Hit the highway in American Truck Racing Simulator, a pixel art arcade racer fro
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: drift, Fall Guys, free games for your website, Truck
+- Tags: drift, Fall Guys, free games for your website, truck

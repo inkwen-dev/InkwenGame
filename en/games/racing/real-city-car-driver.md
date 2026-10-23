@@ -21,4 +21,4 @@ Welcome to the new exciting crazy car stunt game . Golden guns offer you the bes
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, bus, Car, Cars, city, Game, Games, jump, Jumping, Love, Race, Racing, Stunts, Supercars, Truck, Unity3D, War
+- Tags: .io Games, 2 Player Games, 3D Games, bus, Car, Cars, city, Game, Games, jump, jumping, Love, Race, Racing, Stunts, Supercars, truck, Unity3D, War

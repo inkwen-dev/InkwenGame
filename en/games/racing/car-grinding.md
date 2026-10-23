@@ -21,4 +21,4 @@ This is a stress-free game,using the mouse to crush the abandoned car into a mai
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Car, Cars, Click, Crazy, cut, Google, H5
+- Tags: 3D Games, Car, Cars, Click, crazy, cut, Google, H5

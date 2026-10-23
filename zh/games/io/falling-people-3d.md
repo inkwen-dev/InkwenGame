@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io游戏, 轻度休闲, 多人, 竞速
+- 标签: .io, .io 游戏, 超休闲, 多人, 比赛

@@ -19,6 +19,6 @@ Pick and drop sets of fish blocks to complete vertical and horizontal rows. Once
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Fish, Girls, HTML5, Mobile, Puzzle, Skill, Tetris
+- Tags: block, Fish, Girls, HTML5, Mobile, Puzzle, Skill, tetris

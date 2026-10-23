@@ -19,6 +19,6 @@ Airplan io is an online game that you can play for free Airplan Io is a fun game
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Aircraft, Arcade, Avoid, Collecting, Fun, Game, Games, HTML5, Kids, Skill

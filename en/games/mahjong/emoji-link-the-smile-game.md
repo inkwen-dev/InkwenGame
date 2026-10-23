@@ -21,4 +21,4 @@ If you love emoji and like games, this super fun emoji game is for you ! The goa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Mahjong, Puzzle
+- Tags: Arcade, Casual, mahjong, Puzzle

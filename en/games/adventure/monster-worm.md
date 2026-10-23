@@ -19,6 +19,6 @@ Monster Worm is an amazing action game feed your hungry monster pet as long as y
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Hot, Hypercasual, War, Worm, Zombie
+- Tags: Best, Hot, Hypercasual, War, worm, Zombie

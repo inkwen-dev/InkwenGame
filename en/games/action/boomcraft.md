@@ -21,4 +21,4 @@ BoomCraft is a 2 player TNT game in a minecraft world where you defeat your frie
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, 3D Games, Arena, Block, Bomb, Minecraft, War
+- Tags: 2 Player, 2 Player Games, 3D, 3D Games, Arena, block, Bomb, Minecraft, War

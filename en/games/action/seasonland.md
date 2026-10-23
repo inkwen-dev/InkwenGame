@@ -19,6 +19,6 @@ SeasonLand is a classic 2D pixel art platformer game. Please help the Bunny Bot 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Platform

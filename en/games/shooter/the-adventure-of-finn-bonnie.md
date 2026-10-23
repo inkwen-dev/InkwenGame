@@ -19,6 +19,6 @@ Robot colonizes planet x. Finn and bonnie needs to collect many weapons to destr
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Kiz 10, kiz10, Shooting

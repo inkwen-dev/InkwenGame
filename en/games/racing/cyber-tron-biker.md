@@ -21,4 +21,4 @@ Welcome to Cyber Tron Biker racing game! Lets begin the race, tap on your phone 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Driving, Highscore, Racing
+- Tags: bike, Driving, Highscore, Racing

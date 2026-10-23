@@ -19,6 +19,6 @@ Welcome to Noob: Parkour 2D! Noob: Parkour 2D is a parkour game set in a Minecra
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Block, Minecraft
+- Tags: 1 Player, 2D, Adventure, block, Minecraft

@@ -15,6 +15,6 @@ Navigate intricate mazes in Pac-Chef as an ambitious cook, collecting coins and 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Retro
+- Tags: retro

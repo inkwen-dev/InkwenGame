@@ -21,4 +21,4 @@ Best Kuroko Jump Dunk Basketball make your smartphone look awesome! Customize yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Baseball, Basketball, Dungeon, Games, jump, Jumping, Online, Sport, Sports
+- Tags: Arcade, baseball, basketball, Dungeon, Games, jump, jumping, Online, Sport, sports

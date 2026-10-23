@@ -21,4 +21,4 @@ SCARS is a fast-paced 2D arcade racing game focused on instant action and precis
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ai Games, Cars, mapi games, Race, Racing, Sports, Supercars
+- Tags: Ai Games, Cars, mapi games, Race, Racing, sports, Supercars

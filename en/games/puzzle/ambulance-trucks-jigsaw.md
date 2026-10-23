@@ -21,4 +21,4 @@ Ambulance Trucks Jigsaw is jigsaw game with Ambulance Trucks. You can play with 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jigsaw, Puzzle, Truck
+- Tags: Jigsaw, Puzzle, truck

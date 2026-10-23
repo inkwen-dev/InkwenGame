@@ -19,6 +19,6 @@ You have to jump and go to the end of the level without losing life by escaping 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Fun, Hypercasual, jump, Jumping
+- Tags: Arcade, Fun, Hypercasual, jump, jumping

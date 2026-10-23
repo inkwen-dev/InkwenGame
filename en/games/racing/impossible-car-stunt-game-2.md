@@ -15,6 +15,6 @@ Strap in for a sky-high thrill ride in Impossible Car Stunt Game. Navigate insan
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: offroad

@@ -21,4 +21,4 @@ Most popular Janissary series are now in one game! Now you can play 8 unique ret
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Action, Battle, HTML5, Pixel, War
+- Tags: 2 Player, 2 Player Games, Action, battle, HTML5, pixel, War

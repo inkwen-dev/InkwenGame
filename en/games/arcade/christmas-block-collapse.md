@@ -19,6 +19,6 @@ Touch or click to collect similar items that are horizontally or vertically conn
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bejeweled, Christmas, Collecting, HTML5, Mobile, Puzzle

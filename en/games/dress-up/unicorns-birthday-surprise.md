@@ -19,6 +19,6 @@ Today is pink unicorn's birthday. The blue unicorn wants to give her a surprise,
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cake, Cooking, Dress Up, Girl, Horse, Kids, Timing
+- Tags: Cake, Cooking, Dress Up, Girl, horse, Kids, Timing

@@ -21,4 +21,4 @@ Hop on your BMX and swipe, jump, duck, dodge and dash your way to victory! Non-s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Bike, H5, Hot, HTML, HTML5, Hypercasual, jump, Jumping, Race, Racing, running, subway, Subway Surfers
+- Tags: Action, Adventure, bike, H5, Hot, HTML, HTML5, Hypercasual, jump, jumping, Race, Racing, running, subway, Subway Surfers

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, Board, 圣诞节, 差异, HTML5, 儿童, 移动, 拼图
+- 标签: 街机, 棋盘, 圣诞节, 找不同, HTML5, 儿童, 移动设备, 益智

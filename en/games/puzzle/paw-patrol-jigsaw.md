@@ -19,6 +19,6 @@ Paw Patrol Jigsaw is an online HTML5 game presented by yiv.com, it's playable in
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Cartoon, Cartoon Network, Classic, Educational, Game, Girls, HTML5, Kids, Logic, Subway Surfers, Wizard
+- Tags: card, Cartoon, Cartoon Network, Classic, educational, Game, Girls, HTML5, Kids, Logic, Subway Surfers, Wizard

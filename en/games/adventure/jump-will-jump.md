@@ -19,6 +19,6 @@ Jump, dash, use various weapons to maul everything on your way with only one con
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Jumping
+- Tags: Adventure, jumping

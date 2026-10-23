@@ -19,6 +19,6 @@ Hexa Two is a fun 3D running and jumping game for 1 Player and 2 Players! Play t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, Funny, Hypercasual, Jumping, Online, running
+- Tags: 2 Player Games, Funny, Hypercasual, jumping, Online, running

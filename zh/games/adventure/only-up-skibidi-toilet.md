@@ -21,4 +21,4 @@ WASD - 移动 鼠标 - 摄像机 空格键 - 跳跃
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 冒险, 跳跃, 跳躍, 仅向上, Skibidi, Skibidi 马桶, 技巧
+- 标签: 动作, 冒险, 跳跃, 跳跃, OnlyUp, Skibidi, skibidi-toilet, 技巧

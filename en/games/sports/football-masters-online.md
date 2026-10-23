@@ -21,4 +21,4 @@ Football Masters is the new sports game by Madpuffers. In Football Masters you c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Football, Highscore, Kid, Physics, Sports
+- Tags: Boy, Football, Highscore, Kid, Physics, sports

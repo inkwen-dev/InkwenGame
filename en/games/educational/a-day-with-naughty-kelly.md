@@ -19,6 +19,6 @@ Barbie's good friend Teresa wants to ask her to go shopping, but because her par
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Baby, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: 2D, Baby, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

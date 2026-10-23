@@ -19,6 +19,6 @@ The Royal Prince Tailor Master: Clothing Shop 2018 opened the actual personaliza
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boys, Car, car tuning, carparking, Stunts

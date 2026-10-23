@@ -19,6 +19,6 @@ Dear friends, I hope you are enjoying this app. You can improve your vocabulary 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Letters, Puzzle, Word
+- Tags: Letters, Puzzle, word

@@ -19,6 +19,6 @@ Is your finger faster then the others? Will your finger crush other enemies? Tak
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Blood, Funny, Hypercasual, Jumping
+- Tags: Arcade, Blood, Funny, Hypercasual, jumping

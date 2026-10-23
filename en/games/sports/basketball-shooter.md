@@ -21,4 +21,4 @@ Like Basketball? Be the player yourself and compete with the other team. Players
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2D, Ball, Basketball, Best, HTML5
+- Tags: 1 Player, 2 Player, 2D, Ball, basketball, Best, HTML5

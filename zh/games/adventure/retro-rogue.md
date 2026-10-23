@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 收集, 免费HTML5游戏供您的网站使用, 骑士, 移动设备, 复古, 生存
+- 标签: 收集, 免费HTML5游戏供您的网站使用, knight, 移动设备, 复古, 生存

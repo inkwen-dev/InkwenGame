@@ -21,4 +21,4 @@ Enjoy endless word-guessing fun with Hangman Saga! With thousands of levels, eac
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Puzzle, Quiz, School, Word
+- Tags: educational, Puzzle, Quiz, School, word

@@ -19,6 +19,6 @@ Drive a large truck and park it into marked parking area in this 3D truck simula
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Android, Boys, Car, Driving, HTML5, Mobile, Parking, Simulation, Truck
+- Tags: 3D, 3D Games, Android, Boys, Car, Driving, HTML5, Mobile, parking, Simulation, truck

@@ -19,6 +19,6 @@ The parking master lets you try to park perfectly while avoiding all obstacles. 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Casual, drift, drifting, Fun, Funny, Hot, Hypercasual, Race, Racing, Supercars

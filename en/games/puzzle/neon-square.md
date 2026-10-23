@@ -19,6 +19,6 @@ Neon Square is an intelligence game. Game suitable for those with quick reflexes
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Ball, Boxing, Boy, Brain, Casual, Click, Clicker, Girl, Hypercasual, Memory, Puzzle
+- Tags: 2D, Ball, Boxing, Boy, Brain, Casual, Click, Clicker, Girl, Hypercasual, memory, Puzzle

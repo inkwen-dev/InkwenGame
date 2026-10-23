@@ -21,4 +21,4 @@ Play an exciting 2D finger soccer game with smooth drag-and-flick controls! Scor
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 2026 games, 3D Games, Action, Casual, Hypercasual, Sports, Unity3D
+- Tags: 1 Player, 2 Player, 2 Player Games, 2026 games, 3D Games, Action, Casual, Hypercasual, sports, Unity3D

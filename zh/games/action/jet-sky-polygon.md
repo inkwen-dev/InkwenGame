@@ -21,4 +21,4 @@ Jet-Run 是一款 3D 无尽跑酷游戏模板，你将操控喷气滑板，躲�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 喷气, 喷气背包, 喷气滑水板, Mentolatux, 水, WebGL
+- 标签: 喷气机, 喷气背包, 喷气式摩托, Mentolatux, 水, WebGL

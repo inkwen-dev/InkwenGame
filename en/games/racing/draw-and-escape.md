@@ -21,4 +21,4 @@ Car Games: Draw And Escape is a collection of parking puzzle games and drawing p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Drawing, Parking
+- Tags: Car, drawing, parking

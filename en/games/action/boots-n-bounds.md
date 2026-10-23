@@ -21,4 +21,4 @@ Boots &amp; Bounds Saddle up and hang tight &mdash; it&rsquo;s a wild ride! In B
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Jumping, jungle, running
+- Tags: Casual, jumping, jungle, running

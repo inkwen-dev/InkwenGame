@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, Android, 动物, 鱼类, 谜题, 赛车
+- 标签: 单人, 2D, 安卓, 动物, 鱼, 益智, 竞速

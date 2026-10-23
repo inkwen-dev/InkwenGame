@@ -21,4 +21,4 @@ How are your drawing skills? Here, you can use your imagination, you can imagine
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boy, Car, Draw, Drawing, Game, Kid, Platform, Race, Racing
+- Tags: 3D, Boy, Car, Draw, drawing, Game, Kid, Platform, Race, Racing

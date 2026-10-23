@@ -21,4 +21,4 @@ This is a HTML5 version of the classic tower defense game, now with mobile devic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Defense, Fantasy, HTML5, Jewel, Strategy, Tower Defense
+- Tags: Defense, Fantasy, HTML5, Jewel, strategy, Tower Defense

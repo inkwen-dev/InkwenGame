@@ -19,6 +19,6 @@ Candy Rush is a puzzle match 3 game with colorful and beautiful graphics, collec
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, Fun, Kids, Match 3, Matching, Skill

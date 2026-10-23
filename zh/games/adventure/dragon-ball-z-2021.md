@@ -21,4 +21,4 @@ Stickman Warriors - 超级龙影格斗，Google Play上最佳格斗动作角色�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, Android
+- 标签: 动作, 安卓

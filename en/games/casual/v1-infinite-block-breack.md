@@ -21,4 +21,4 @@ Destrua os blocos infinitos sem deixar a bolinha cair
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Aircraft, Block, Defense
+- Tags: 1 Player, 2D, Aircraft, block, Defense

@@ -19,6 +19,6 @@ Make a plan to escape from the prison and watch out from the guards. Draw the es
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Skill, Unity3D, WebGL

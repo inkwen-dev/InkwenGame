@@ -21,4 +21,4 @@ Logic Pro &ndash; Neon Edition is an addictive online puzzle game that challenge
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Brain, Casual, Logic, Logical, Mind, Puzzle, Skill, Strategy
+- Tags: 1 Player, Brain, Casual, Logic, Logical, Mind, Puzzle, Skill, strategy

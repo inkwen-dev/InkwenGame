@@ -21,4 +21,4 @@ Who will collect the most sweets for Halloween !? Collect candies. Buy various m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Boys, Candy, Cartoon, Clicker, Collecting, Collection, Ghost, HTML5, Hypercasual, Monster, Spongebob, Vampire
+- Tags: Arcade, Boy, Boys, Candy, Cartoon, Clicker, Collecting, Collection, Ghost, HTML5, Hypercasual, monster, Spongebob, Vampire

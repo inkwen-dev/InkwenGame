@@ -21,4 +21,4 @@ Word Master is an exciting online game that tests your vocabulary skills. In thi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kids, Logical, Puzzle, Quiz, Word
+- Tags: Kids, Logical, Puzzle, Quiz, word

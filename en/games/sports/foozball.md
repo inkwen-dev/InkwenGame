@@ -21,4 +21,4 @@ Foosball is the pocket sized table football for your phone. Play against the CPU
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Soccer, Sport, Sports
+- Tags: Football, Soccer, Sport, sports

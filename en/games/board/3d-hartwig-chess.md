@@ -21,4 +21,4 @@ Chess is a two-player strategy board game played on a checkered board with 64 sq
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Brain, Strategy
+- Tags: 3D, 3D Games, Brain, strategy

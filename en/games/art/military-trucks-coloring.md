@@ -21,4 +21,4 @@ This is truck game with coloring. In this game you can choose some of eight mili
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Puzzle, Truck
+- Tags: Coloring, Puzzle, truck

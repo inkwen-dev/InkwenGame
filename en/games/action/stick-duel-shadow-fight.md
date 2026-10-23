@@ -21,4 +21,4 @@ Shadow stickmans are on the scene with relentless fights. Use your punches and k
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Action, Arcade, Battle, Fight, Fighting, Stickman
+- Tags: 2 Player, 2 Player Games, Action, Arcade, battle, Fight, fighting, stickman

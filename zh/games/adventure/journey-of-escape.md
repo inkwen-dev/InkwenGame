@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 逃脱, 隐藏, 解谜, 房间
+- 标签: 逃脱, 隐藏, 益智, 房间

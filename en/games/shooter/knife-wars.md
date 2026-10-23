@@ -21,4 +21,4 @@ If you like knife throwing and spaceship games, you will love this game. The gam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Android, Best, Bomb, Casual, Classic, Clicker, Cool, Fruit, Fun, Funny, Hot, HTML5, Hypercasual, Kids, Kill, Killing, Mobile, Shoot, Shoot 'Em Up, Shooter, Shooting, Skills, Space, Spaceship, Strategy, Timing, weapons
+- Tags: 1 Player, 2D, Action, Android, Best, Bomb, Casual, Classic, Clicker, cool, Fruit, Fun, Funny, Hot, HTML5, Hypercasual, Kids, Kill, Killing, Mobile, Shoot, Shoot 'Em Up, Shooter, Shooting, Skills, Space, Spaceship, strategy, Timing, weapons

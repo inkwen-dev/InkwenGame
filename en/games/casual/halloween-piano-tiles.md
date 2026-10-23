@@ -19,6 +19,6 @@ Halloween is coming now! Play Halloween Piano Tiles for FUN and FREE! I hope you
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Halloween

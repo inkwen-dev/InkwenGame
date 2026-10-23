@@ -19,6 +19,6 @@ Airport Manager simulator games is the best choice if you re looking for interes
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Plane, Simulation, Space, Sports, World
+- Tags: Cartoon, Plane, Simulation, Space, sports, World

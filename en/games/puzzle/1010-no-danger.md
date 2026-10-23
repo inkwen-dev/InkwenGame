@@ -21,4 +21,4 @@ Use mouse or touchscreen to drag and drop block groups
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, HTML5, Jewel, Mobile, Puzzle, Tetris
+- Tags: block, HTML5, Jewel, Mobile, Puzzle, tetris

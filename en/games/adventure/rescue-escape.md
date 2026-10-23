@@ -15,6 +15,6 @@ Guide agile stick figures through perilous prison mazes in Rescue Escape. Dodge 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Stickman
+- Tags: stickman

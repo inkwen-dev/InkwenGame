@@ -19,6 +19,6 @@ Be a Train driver, Drive your trains in the modern world and serve your passenge
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Games, HTML, HTML5, Race, Racing, Train

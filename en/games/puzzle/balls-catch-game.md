@@ -19,6 +19,6 @@ Balls Catch Game is a fun and addictive casual arcade game that challenges your 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Ball, Color, Fun, Hypercasual, Puzzle

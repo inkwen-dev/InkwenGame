@@ -21,4 +21,4 @@ Embark on a monstrous adventure in Monster Match Mania! Match 3 monsters of the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Halloween, Logic, Monster, Puzzle
+- Tags: Halloween, Logic, monster, Puzzle

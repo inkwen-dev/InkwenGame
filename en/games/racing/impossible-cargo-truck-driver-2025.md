@@ -21,4 +21,4 @@ Impossible Cargo Truck Driver 2025 is a thrilling driving simulator that challen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: cargo, Driving, Mentolatux, transport, Truck, unity, WebGL
+- Tags: cargo, Driving, Mentolatux, transport, truck, unity, WebGL

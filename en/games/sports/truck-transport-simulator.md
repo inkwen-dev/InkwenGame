@@ -21,4 +21,4 @@ Ready to test your driving skills like a pro? Step into Truck Transport Simulato
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, transport, Truck
+- Tags: Boys, transport, truck

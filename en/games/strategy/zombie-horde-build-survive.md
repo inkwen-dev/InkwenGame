@@ -22,4 +22,4 @@ Defend your base from hordes of zombies by shooting them with various weapons an
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Halloween, Mobile, popular, Strategy, survival, Tower Defense, Zombie
+- Tags: Halloween, Mobile, popular, strategy, survival, Tower Defense, Zombie

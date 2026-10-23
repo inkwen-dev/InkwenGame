@@ -19,6 +19,6 @@ A colorful, fast-paced bouncing ball game. Jump higher and higher, overcoming ob
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Color, Hypercasual, jump, Jumping
+- Tags: Ball, Color, Hypercasual, jump, jumping

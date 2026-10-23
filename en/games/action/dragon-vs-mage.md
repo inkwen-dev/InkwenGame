@@ -19,6 +19,6 @@ Dragon vs Mage is a free online action and running object game. Help Mage to esc
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Collecting, Dragon, Escape, HTML5, Mobile, Obstacle, running

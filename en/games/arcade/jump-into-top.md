@@ -19,6 +19,6 @@ Help the character get to the highest point in order to catch the villain who ha
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Click, Clicker, Disney, H5, Hot, HTML5, jump, Matching, New, Point And Click, Spiderman

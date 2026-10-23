@@ -21,4 +21,4 @@ Buckle up! Get ready to blast full throttle around Hot Wheels™ Islands! We’r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D Games, Adventure, Arcade, Balance, Car, Crazy, Play, Skill, Sports, Truck, WebGL, World
+- Tags: .io Games, 3D Games, Adventure, Arcade, Balance, Car, crazy, Play, Skill, sports, truck, WebGL, World

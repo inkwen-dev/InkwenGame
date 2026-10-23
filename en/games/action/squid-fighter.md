@@ -21,4 +21,4 @@ Two Player Squid Fighter Game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Fight, Fighting, Street Fighting
+- Tags: 2 Player, Fight, fighting, Street Fighting

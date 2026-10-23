@@ -21,4 +21,4 @@ Winter Sports Jigsaw is a fun online puzzle game. Drag the pieces into right pos
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Jigsaw, Mobile, Ski, Skill, Sport, Sports, Winter
+- Tags: Fun, HTML5, Jigsaw, Mobile, Ski, Skill, Sport, sports, Winter

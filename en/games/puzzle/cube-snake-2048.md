@@ -24,4 +24,4 @@ A great Cube Snake 2048 game begins with cube snakes and cubes in a huge arena. 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Number, Snake
+- Tags: Number, snake

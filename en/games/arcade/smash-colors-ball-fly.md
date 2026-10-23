@@ -19,6 +19,6 @@ Fascinating arcade game Smash Colors. A game with gravity. To prevent the ball f
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Ball, Casual, Color, Coloring, HTML, HTML5, Hypercasual

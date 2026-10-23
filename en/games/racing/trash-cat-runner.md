@@ -19,6 +19,6 @@ Embark on a thrilling endless running adventure through a grimy world filled wit
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cat, Collecting, Hello Kitty, Hypercasual, running

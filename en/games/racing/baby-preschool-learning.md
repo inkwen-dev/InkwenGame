@@ -19,6 +19,6 @@ You will learn 10 types of knowledge in this Baby Preschool Learning game: Fruit
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Car, Educational, Fruit, Fun, Girls, HTML5, Kids, Mobile, Puzzle
+- Tags: Baby, Car, educational, Fruit, Fun, Girls, HTML5, Kids, Mobile, Puzzle

@@ -19,6 +19,6 @@ Sword Hunter plays like a 2D RPG beat-em-up game. Now you have a chance to contr
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fighting
+- Tags: battle, fighting

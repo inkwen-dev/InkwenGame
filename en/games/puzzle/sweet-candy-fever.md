@@ -19,6 +19,6 @@ Welcome to Sweet Candy Fever. In this simple candy matching game, you can swipe 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, Fruit, HTML5, Hypercasual, Match 3, Mobile, Puzzle

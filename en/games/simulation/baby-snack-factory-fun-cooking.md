@@ -21,4 +21,4 @@ Baby Snack Factory is now open! Here, children can try their hand at snack-makin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Business, Cooking, Educational, Food, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Panda
+- Tags: Animal, Business, Cooking, educational, Food, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Panda

@@ -19,6 +19,6 @@ Save The Piggies is a car-moving game. But this time you are moving not a car, b
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Brain, Logic, Logical, Strategy
+- Tags: Animal, Brain, Logic, Logical, strategy

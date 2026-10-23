@@ -21,4 +21,4 @@ Join an exciting adventure in mastering parking skills with Car Parking Order. T
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Parking
+- Tags: parking

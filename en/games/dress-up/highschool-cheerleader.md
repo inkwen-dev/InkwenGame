@@ -19,6 +19,6 @@ Cheerleader's Revenge 3 - Breakup Girl Story Games High school cheerleader break
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Arcade, Cartoon, Casual, Dress Up, Fashion, Frozen, Games, Girl, Hypercasual, Kids, Online, Princess

@@ -21,4 +21,4 @@ Smart Numbers! Logic puzzle variation of classic game with some changes. Touchsc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, Educational, Kid, Kids, School, Sudoku
+- Tags: Baby, Baby Hazel, educational, Kid, Kids, School, Sudoku

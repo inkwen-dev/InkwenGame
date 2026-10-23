@@ -21,4 +21,4 @@ This little game will challenge you to work in a fast food restaurant. You will 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Burger, Cake, Cook, Cooking, Food, Girl, Girls, H5, HTML, HTML5, Hypercasual, Restaurant
+- Tags: Burger, Cake, Cook, Cooking, Food, Girl, Girls, H5, HTML, HTML5, Hypercasual, restaurant

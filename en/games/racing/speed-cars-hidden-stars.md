@@ -19,6 +19,6 @@ Speed Cars Hidden Stars is a free online kids and hidden object game. That is 10
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Fun, Hidden, HTML5, Kids, Mobile, Skill

@@ -21,4 +21,4 @@ Play badminton against clever opponents. Hit short, hit long and smash your way 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Skill, Sports, Tennis
+- Tags: Skill, sports, Tennis

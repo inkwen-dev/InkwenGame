@@ -19,6 +19,6 @@ Just draw a line and turn it into a car. Draw different cars for driving dependi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Draw, HTML5, Online

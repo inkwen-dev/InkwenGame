@@ -21,4 +21,4 @@ Face the wonderful Moto Attack Showdown! In this explosive action game, you&rsqu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Enemies, Fighting, Moto, Race
+- Tags: Enemies, fighting, Moto, Race

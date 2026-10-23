@@ -27,4 +27,4 @@ On mobile devices 📱: a joystick will be available for movement, and you can r
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, Car, Driving, obby, Police
+- Tags: Boys, Car, Driving, obby, police

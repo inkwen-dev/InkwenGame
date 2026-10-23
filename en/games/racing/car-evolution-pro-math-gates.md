@@ -21,4 +21,4 @@ Car Evolution Pro : Math Gates turns math practice into a race! Drive down the r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Brain, Car, car tuning, Cars, Casual, Educational, Fun, Hypercasual, Kid, Kids, Math, Super
+- Tags: 1 Player, 3D, Brain, Car, car tuning, Cars, Casual, educational, Fun, Hypercasual, Kid, Kids, math, Super

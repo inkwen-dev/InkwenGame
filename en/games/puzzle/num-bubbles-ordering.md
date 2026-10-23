@@ -19,6 +19,6 @@ Touch or click the Num Bubbles in the correct order. Selecting the wrong bubble 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Educational, HTML5, Mobile, Puzzle
+- Tags: Arcade, educational, HTML5, Mobile, Puzzle

@@ -19,6 +19,6 @@ Super Barbie is a great game for girls. Barbie have a super power and become a S
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Dress Up, Girl, Girls

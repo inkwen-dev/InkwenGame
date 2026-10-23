@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车, 驾驶, HTML, HTML5, 竞速, 模拟, 模拟, 出租车
+- 标签: 汽车, 驾驶, HTML, HTML5, 竞速, 模拟, 模拟器, 出租车

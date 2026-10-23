@@ -32,4 +32,4 @@ Ready for crazy antics and unpredictable situations? Then join the camel on its 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mobile, Strategy
+- Tags: Mobile, strategy

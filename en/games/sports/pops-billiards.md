@@ -19,6 +19,6 @@ Try to defeat an online opponent or friend in Pops Billiards a fun ball pool sty
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Billiard, HTML5, Pool, Shoot, Shooter, Shooting, Sport, Sports
+- Tags: 8 Ball Pool, Billiard, HTML5, pool, Shoot, Shooter, Shooting, Sport, sports

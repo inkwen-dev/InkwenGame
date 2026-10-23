@@ -21,4 +21,4 @@ Ricochet Arena is a high-tension arcade shooter where every shot counts. Trapped
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 3D Games, Action, Best, Best Games, Fighting, Fire, html5 games, Hypercasual, Shooting
+- Tags: 2026 games, 3D Games, Action, Best, Best Games, fighting, Fire, html5 games, Hypercasual, Shooting

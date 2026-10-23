@@ -21,4 +21,4 @@ Puzzle Block Jewels is simple yet addictive classic jewels game. The block sin d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Jewel, Puzzle
+- Tags: block, Jewel, Puzzle

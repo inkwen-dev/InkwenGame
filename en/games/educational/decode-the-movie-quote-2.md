@@ -19,6 +19,6 @@ Welcome to an exciting game where you guess famous movie quotes one letter at a 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, Brain, Casual, Educational, Guessing, html5 games, Letters, Logic, Movie, Puzzle, quest, Quiz, Word
+- Tags: 1 Player, 2025 games, Brain, Casual, educational, Guessing, html5 games, Letters, Logic, Movie, Puzzle, quest, Quiz, word

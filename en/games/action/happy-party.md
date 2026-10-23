@@ -21,4 +21,4 @@ First of all, as a life simulation business class to develop mobile games, its p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Action, Arena, Battle, Crazy, Funny, H5
+- Tags: 1 Player, 3D Games, Action, Arena, battle, crazy, Funny, H5

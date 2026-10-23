@@ -19,6 +19,6 @@ Now is the time to look at several Russian cars in which we need to find differe
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Difference, Fun, HTML5, Kids, Mobile, Skill

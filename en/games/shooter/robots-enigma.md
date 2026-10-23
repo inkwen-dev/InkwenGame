@@ -21,4 +21,4 @@ Coins are scattered throughout the level, collect as many coins as you can while
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Battle, Fight, Robot, survival
+- Tags: Action, Adventure, battle, Fight, Robot, survival

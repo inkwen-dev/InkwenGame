@@ -21,4 +21,4 @@ Dive into the messy and hilarious world of Toilet Plumber, a fast-paced and quir
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Business, Skibidi, Skibidi Toilet, Unity3D, WebGL
+- Tags: Arcade, Business, Skibidi, skibidi-toilet, Unity3D, WebGL

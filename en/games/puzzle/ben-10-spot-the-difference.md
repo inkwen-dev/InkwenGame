@@ -19,6 +19,6 @@ Ben 10 Spot The Difference is a puzzle game that challenges you with the pairs o
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Ben 10, Boys, Cartoon, Collecting, Difference, Girls, HTML5, Kids, Superhero

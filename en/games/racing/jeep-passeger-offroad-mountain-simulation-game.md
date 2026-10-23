@@ -19,6 +19,6 @@ Pick passenger from given location and drop them to the next stop.
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Boys, Driving, HTML, HTML5, Racing

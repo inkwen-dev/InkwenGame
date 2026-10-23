@@ -19,6 +19,6 @@ Life is like a race, everyone's starting point is the same, but the height we ca
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Music, Platform, Puzzle, running, Skills, Sports
+- Tags: 3D Games, music, Platform, Puzzle, running, Skills, sports

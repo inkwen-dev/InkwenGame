@@ -19,6 +19,6 @@ Jelly merge 3D is a colorful and addictive puzzle game! It is easy to learn, but
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Brain, free games for your site, Jelly, Logical, Maze, Mind, Mobile, Puzzle, Relaxation, Unity3D, WebGL

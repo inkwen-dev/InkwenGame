@@ -19,6 +19,6 @@ Play Ludo online with friends and be a star - play LUDO CLUB! This is the online
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Fun, Game, Games, Multiplayer

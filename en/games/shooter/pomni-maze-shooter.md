@@ -19,6 +19,6 @@ Welcome to the thrilling world of Pomni Maze Shooter &ndash; a super and unique 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Arcade, Boys, digital circus, Gun, HTML5, Maze, Pomni, Shoot, Shooting, Skill

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: HTML5, 孩子们, 数学, 数字, 解谜, 僵尸
+- 标签: HTML5, 儿童, 数学, 数字, 益智, 僵尸

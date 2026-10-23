@@ -19,6 +19,6 @@ City Racing Game Free is a game where I can drive in the endless temple. There a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, Arcade, Car, Cars, Casual, city, Hot, Hypercasual, Play, Race, Racing, Street Fighting, Supercars, Taxi, Traffic

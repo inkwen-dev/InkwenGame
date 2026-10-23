@@ -19,6 +19,6 @@ Fast mini matches&mdash;pass, shoot, tackle, and challenge friends in local duel
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Dragon, Sport, Sports
+- Tags: 3D, Action, Dragon, Sport, sports

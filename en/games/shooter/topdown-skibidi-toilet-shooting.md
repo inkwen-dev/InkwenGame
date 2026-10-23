@@ -21,4 +21,4 @@ Embark on an exhilarating journey with TopDown Skibidi Toilet Shooting, an actio
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Enemies, Enemy, Shooting, Skibidi, Skibidi Toilet, Top Down, Unity3D, WebGL
+- Tags: Enemies, Enemy, Shooting, Skibidi, skibidi-toilet, Top Down, Unity3D, WebGL

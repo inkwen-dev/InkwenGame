@@ -21,4 +21,4 @@ Mowgli is a fictional character and the protagonist of Rudyard Kipling's The Jun
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Brain, Educational, Match 3, Memory, Puzzle
+- Tags: 3D, Brain, educational, Match 3, memory, Puzzle

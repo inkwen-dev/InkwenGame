@@ -21,4 +21,4 @@ Experience Halloween Tile Matching with a 9-space stack. Tap tiles to stack and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Halloween, Mahjong, Match 3, Matching, Puzzle
+- Tags: Arcade, Halloween, mahjong, Match 3, Matching, Puzzle

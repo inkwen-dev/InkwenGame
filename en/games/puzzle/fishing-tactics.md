@@ -21,4 +21,4 @@ It is a challenging block collapse game. In each level you will get a unique cha
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Fish, HTML5, Match 3, Matching, Mobile, Puzzle
+- Tags: Arcade, block, Fish, HTML5, Match 3, Matching, Mobile, Puzzle

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1人, 3D, 3D游戏, 公交车, 驾驶, HTML5, 赛车, 模拟器, 交通, 卡车, Unity3D
+- 标签: 单人, 3D, 3D游戏, 公交车, 驾驶, HTML5, 竞速, 模拟器, 交通, 卡车, Unity3D

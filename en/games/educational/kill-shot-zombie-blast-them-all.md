@@ -19,6 +19,6 @@ Zombie buster is an action shooting game. Not a shooting game , but Blasting the
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Halloween, Puzzle, Quiz

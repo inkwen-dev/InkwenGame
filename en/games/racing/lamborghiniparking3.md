@@ -21,4 +21,4 @@ Park your luxury car to the designated position, which requires superb control. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Car, Driving, Parking
+- Tags: 2 Player, 2 Player Games, Car, Driving, parking

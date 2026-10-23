@@ -21,4 +21,4 @@ The legendary mob farm in Mine is back and ready to introduce you to a lot of ne
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, 2D, amazing, Android, Best, Best Games, Bomb, Classic, Crazy, free games for your website, Minecraft, Sandbox, Unity3D, WebGL
+- Tags: 2025 games, 2D, amazing, Android, Best, Best Games, Bomb, Classic, crazy, free games for your website, Minecraft, Sandbox, Unity3D, WebGL

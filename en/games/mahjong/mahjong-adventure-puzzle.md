@@ -19,6 +19,6 @@ Mahjong Tile Match is a fun and relaxing puzzle game inspired by the classic Mah
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brainrot, Casual, Hypercasual, Mahjong, Puzzle
+- Tags: Brainrot, Casual, Hypercasual, mahjong, Puzzle

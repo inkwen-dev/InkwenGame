@@ -19,6 +19,6 @@ In Impostor Hook game, you must use the hook chain to pull the enemies on the op
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 3D, Casual, Fun, HTML5, Unity3D, WebGL

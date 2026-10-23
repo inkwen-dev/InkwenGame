@@ -21,4 +21,4 @@ Have you ever seen a stickman throwing a web before? yes he is throwing net and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Click, Stickman, Superhero
+- Tags: 1 Player, 2D, Action, Adventure, Click, stickman, Superhero

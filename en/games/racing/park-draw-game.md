@@ -19,6 +19,6 @@ Test your parking skills and creativity in Park Draw Game! Draw the perfect path
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Casual, Draw, Hypercasual, Parking, Puzzle
+- Tags: 2026 games, Casual, Draw, Hypercasual, parking, Puzzle

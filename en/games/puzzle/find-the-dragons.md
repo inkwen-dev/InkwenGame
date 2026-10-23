@@ -19,6 +19,6 @@ The Dragons were having so much fun on the Party that got lost!! Help to Find th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Cat, Chicken, Classic, Click, Clicker, Cool, Cute, Dancing, Detective, Difference, Dragon, Easter, endless, Family, Fantasy, Fun, Games, Girls, Guessing, Hidden, Hypercasual, Island, Memory, Point And Click, Puzzle, Relaxation, Rescue
+- Tags: Casual, Cat, Chicken, Classic, Click, Clicker, cool, Cute, Dancing, Detective, Difference, Dragon, Easter, endless, Family, Fantasy, Fun, Games, Girls, Guessing, Hidden, Hypercasual, Island, memory, Point And Click, Puzzle, Relaxation, Rescue

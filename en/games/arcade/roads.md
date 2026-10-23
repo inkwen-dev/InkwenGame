@@ -21,4 +21,4 @@ Put all roads in the right order and try to complete each level!!! Enjoy!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Family, HTML, HTML5, Mobile, Puzzle, Road, Tetris
+- Tags: Arcade, block, Family, HTML, HTML5, Mobile, Puzzle, Road, tetris

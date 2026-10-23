@@ -21,4 +21,4 @@ wasd - 驾驶坦克、直升机和汽车以及角色移动；鼠标 - 观察周�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车, 射击类, Unity3D, WebGL
+- 标签: 汽车, 射击, Unity3D, WebGL

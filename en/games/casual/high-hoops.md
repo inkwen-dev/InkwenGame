@@ -19,6 +19,6 @@ Here we have yet another 3D game, where you’ll be controlling a ball and will 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Ball, Fun, Hypercasual, jump, Jumping, Skill, Skills
+- Tags: 3D, 3D Games, Ball, Fun, Hypercasual, jump, jumping, Skill, Skills

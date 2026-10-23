@@ -35,4 +35,4 @@ It is a non-stop race to see how much you can build. Do you have what it takes t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: idle, Management, Simulation, tycoon
+- Tags: idle, management, Simulation, tycoon

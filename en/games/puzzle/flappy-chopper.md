@@ -21,4 +21,4 @@ In Flappy Chopper you need to control the chopper and to avoid rocks and other o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Flight, Puzzle
+- Tags: flight, Puzzle

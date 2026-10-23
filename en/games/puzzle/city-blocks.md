@@ -21,4 +21,4 @@ City Blocks is a match-3 puzzle game. Strategically place new buildings and upgr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Block, Casual, Highscore, Logic, Logical, Match 3, Match3, Puzzle, Strategy, Unity3D, WebGL
+- Tags: 1 Player, 3D, 3D Games, block, Casual, Highscore, Logic, Logical, Match 3, Match3, Puzzle, strategy, Unity3D, WebGL

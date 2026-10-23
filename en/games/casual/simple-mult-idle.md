@@ -21,4 +21,4 @@ Simple Mult Idle - is a little game, made in about a week, which combines Revolu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Math
+- Tags: Clicker, math

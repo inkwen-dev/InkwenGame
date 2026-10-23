@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车, 圣诞节, 有趣, HTML5, 拼图, 移动, 卡车
+- 标签: 汽车, 圣诞节, 有趣, HTML5, 拼图, 移动设备, 卡车

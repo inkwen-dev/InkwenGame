@@ -19,6 +19,6 @@ Fruit Cut Smash is an interesting fruitgame! Tap the knife to cut the fruit, cho
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Fruit, Fruits, Slicing

@@ -21,4 +21,4 @@ Blackjack is one of the most popular casino games in the world. Try your luck an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Card, Casino, Games, HTML5
+- Tags: Best, card, Casino, Games, HTML5

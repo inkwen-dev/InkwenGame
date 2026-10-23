@@ -19,6 +19,6 @@ Be the talented commander of a space fleet that fights against the Dark Alliance
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Adventure, Battle, Fighting
+- Tags: 2 Player, Adventure, battle, fighting

@@ -21,4 +21,4 @@ In this Mario's Friends Toys Jigsaw game you have 6 images in three modes to pla
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Jigsaw, Kids, Mario, Mobile, Puzzle
+- Tags: Fun, HTML5, Jigsaw, Kids, mario, Mobile, Puzzle

@@ -19,6 +19,6 @@ Step into a cozy world where merging fluffy kittens leads to pure joy. In Kitty 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Cat, Clicker, Collecting, Cute, games for your website, Hello Kitty, Math, sorting, unity games
+- Tags: 1 Player, Animal, Cat, Clicker, Collecting, Cute, games for your website, Hello Kitty, math, sorting, unity games

@@ -21,4 +21,4 @@ You are running on the dangerous place. There will be many dangerous obstacles a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Hypercasual, Jumping, running
+- Tags: HTML5, Hypercasual, jumping, running

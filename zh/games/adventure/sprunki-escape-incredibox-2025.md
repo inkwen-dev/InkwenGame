@@ -21,4 +21,4 @@ WADS 移动 空格键拾取物品
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 恐怖, Sprunki
+- 标签: 恐怖, 斯普朗基

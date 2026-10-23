@@ -19,6 +19,6 @@ Elemental Rescue Adventure is a captivating online platform game that will take 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping, Level, Platform, Timing
+- Tags: jumping, Level, Platform, Timing

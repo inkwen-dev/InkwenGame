@@ -21,4 +21,4 @@ You like manual work and you’re not afraid to dirty your hands while on the jo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, city, Classic, Fish, Fishing, Fun, Funny, Kid, Kids, Math, Pixel, Puzzle
+- Tags: Brain, city, Classic, Fish, Fishing, Fun, Funny, Kid, Kids, math, pixel, Puzzle

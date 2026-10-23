@@ -19,6 +19,6 @@ Here is a running arcade game called Heels Stacky Rush 3D that offers you a chan
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Avoid, Block, Collecting, Mobile, Obstacle, Platform, Unity3D
+- Tags: 3D, Arcade, Avoid, block, Collecting, Mobile, Obstacle, Platform, Unity3D

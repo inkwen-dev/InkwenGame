@@ -21,4 +21,4 @@ Spectators of races on pristine asphalt courses always secretly wish they could 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Crazy, drift, drifting, Driving, Mobile, Multiplayer, Racing, Unity3D, War, WebGL
+- Tags: Car, crazy, drift, drifting, Driving, Mobile, Multiplayer, Racing, Unity3D, War, WebGL

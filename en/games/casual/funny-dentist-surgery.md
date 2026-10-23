@@ -23,4 +23,4 @@ Leah has always had a sweet tooth. She loves candies, ate them a bunch, and end 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Funny, Surgery
+- Tags: Funny, surgery

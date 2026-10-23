@@ -21,4 +21,4 @@ The elusive 2048 block is almost within your reach. Combine and count up your bl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Number
+- Tags: block, Number

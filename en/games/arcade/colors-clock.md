@@ -21,4 +21,4 @@ Color Matching Games are a great way to improve your color recognition skills. T
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Crazy, endless, Game, Games, HTML5, Hypercasual, Matching, Puzzle
+- Tags: 1 Player, 2D, Arcade, crazy, endless, Game, Games, HTML5, Hypercasual, Matching, Puzzle

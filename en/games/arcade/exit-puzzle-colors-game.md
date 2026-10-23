@@ -21,4 +21,4 @@ A simple and addictive action puzzle game. You have to guide one or more green d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Escape, Pixel, Puzzle
+- Tags: Arcade, Escape, pixel, Puzzle

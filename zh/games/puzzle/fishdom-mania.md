@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 吃, 鱼, 搞笑
+- 标签: 进食, 鱼, 搞笑

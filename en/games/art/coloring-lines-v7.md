@@ -19,6 +19,6 @@ Coloring lines comes again with a new version ! Game Control is very simple pres
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Color, Coloring, Hypercasual

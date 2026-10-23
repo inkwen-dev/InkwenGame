@@ -21,4 +21,4 @@ Highway traffic bike stunts is the most addictive superbike racing game speciall
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Bike, Boys, Driving, HTML5, Motorcycle, Stunts, WebGL
+- Tags: 3D, bike, Boys, Driving, HTML5, Motorcycle, Stunts, WebGL

@@ -35,4 +35,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 管理, Mobile, 模拟, 巨头
+- 标签: 管理, 移动设备, 模拟, 大亨

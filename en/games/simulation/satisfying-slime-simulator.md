@@ -19,6 +19,6 @@ Satisfying Slime Simulator is a very popular relaxing game. In this game, you ca
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cute, Fun, Girls, HTML5, Kids, Mobile, Simulation, Simulator

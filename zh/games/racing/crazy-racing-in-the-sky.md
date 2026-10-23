@@ -21,4 +21,4 @@ WASD 或方向键 - 车辆移动 空格键 - 手刹 Tab 键 - 切换汽车视角
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 3D, 街机, 汽车, cars, 漂移, 漂移驾驶, 障碍, 竞速, 体育, unity, Unity3D, WebGL
+- 标签: 单人, 3D, 街机, 汽车, 汽车, 漂移, 漂移, 障碍, 比赛, 运动, unity, Unity3D, WebGL

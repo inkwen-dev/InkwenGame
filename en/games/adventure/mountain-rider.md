@@ -19,6 +19,6 @@ Mountain Rider is a physics simulation game template where you ride down the cha
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Bike, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids
+- Tags: 1 Player, 2D, Action, Adventure, bike, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids

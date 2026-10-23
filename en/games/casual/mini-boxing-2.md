@@ -15,6 +15,6 @@ Guide Nick-Joe to victory in Mini Boxing, a charming throwback to 1980s arcade g
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Boxing

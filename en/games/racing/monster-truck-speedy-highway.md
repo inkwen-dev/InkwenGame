@@ -21,4 +21,4 @@ It's time for a new generation of mobile racing games! Millions of other gamers 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Car, Cars, Driving, Monster, Racing, Supercars, Truck, Unity3D
+- Tags: 3D Games, Car, Cars, Driving, monster, Racing, Supercars, truck, Unity3D

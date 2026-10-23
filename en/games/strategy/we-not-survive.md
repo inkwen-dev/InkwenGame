@@ -21,4 +21,4 @@ We Not Survive is a thrilling tower defense game in a zombie-infested, post-apoc
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mobile, Strategy, survival, Tower Defense, Zombie
+- Tags: Mobile, strategy, survival, Tower Defense, Zombie

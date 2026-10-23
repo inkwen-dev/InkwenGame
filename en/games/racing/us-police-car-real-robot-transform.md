@@ -21,4 +21,4 @@ In US Police Car Real Robot Transform: Robot Car Game, enjoy robot games action 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Arena, Army, Batman, Battle, Police, Robot
+- Tags: 3D Games, Arena, Army, Batman, battle, police, Robot

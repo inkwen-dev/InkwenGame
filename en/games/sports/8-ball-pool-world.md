@@ -21,4 +21,4 @@ Play 8 ball pool online. You can play the game with your friend!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 8 Ball Pool, Pool
+- Tags: 2 Player Games, 8 Ball Pool, pool

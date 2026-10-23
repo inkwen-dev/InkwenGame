@@ -19,6 +19,6 @@ It's a race against time to see how far you can travel while avoiding other vehi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Car, Driving, HTML5, Mobile, Road, Supercars, Unity3D, WebGL, Zombie

@@ -19,6 +19,6 @@ Car chase is a fun driving game where you have a mini super fast car and you hav
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 3D, Adventure, Arcade, Car, drifting, Police, Race
+- Tags: .io, .io Games, 1 Player, 3D, Adventure, Arcade, Car, drifting, police, Race

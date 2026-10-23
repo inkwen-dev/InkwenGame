@@ -21,4 +21,4 @@ this game you will merge with a large number of racers for the title of the best
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Game, Games, Moto, Motorcycle, Parking, Sim, Simpson, Simulation, Simulator, sky, Supercars, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Game, Games, Moto, Motorcycle, parking, Sim, Simpson, Simulation, Simulator, sky, Supercars, truck

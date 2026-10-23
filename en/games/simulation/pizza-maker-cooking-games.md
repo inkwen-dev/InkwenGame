@@ -19,6 +19,6 @@ Can you become the best pizza? Pizza Maker cooking games introduce the world of 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Adult, Adventure, Arcade, Boys, CSGO, Ever After High, Food, Game, Games, Girl, Girls, Jumping, Ladybug, Minecraft, Miraculous Ladybug, Mobile, Monkey, Monster, Moto, Motorcycle, Pinball, Pipe, Pirate, Pixel, Road, Traffic
+- Tags: 3D Games, Adult, Adventure, Arcade, Boys, CSGO, Ever After High, Food, Game, Games, Girl, Girls, jumping, Ladybug, Minecraft, Miraculous Ladybug, Mobile, Monkey, monster, Moto, Motorcycle, Pinball, Pipe, Pirate, pixel, Road, Traffic

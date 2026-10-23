@@ -21,4 +21,4 @@ Hexa Time is a hexa (hexagonal) block puzzle game. It challenges your brain and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Color, Match 3, Matching, Number
+- Tags: block, Color, Match 3, Matching, Number

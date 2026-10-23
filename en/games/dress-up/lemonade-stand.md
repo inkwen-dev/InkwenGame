@@ -21,4 +21,4 @@ Your goal is to make as much money as you can in 7, 14, or 30 days by selling le
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Anime, Cartoon, Cartoon Network, Coloring, Cook, Cool, Disney, Food, HTML, HTML5, Kids, Makeover
+- Tags: 2D, Anime, Cartoon, Cartoon Network, Coloring, Cook, cool, Disney, Food, HTML, HTML5, Kids, Makeover

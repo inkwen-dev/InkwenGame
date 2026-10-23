@@ -19,6 +19,6 @@ Heads Arena Soccer All Stars is a fun soccer game you can play on iyigames.com. 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, Ball, Basketball, Boys, Celebrity, Football, Fun, Girls, HTML5, School, Shoot, Soccer, Sport
+- Tags: 1 Player, 2 Player, Ball, basketball, Boys, Celebrity, Football, Fun, Girls, HTML5, School, Shoot, Soccer, Sport

@@ -21,4 +21,4 @@ Match 2 of the same halloween mahjong tiles to remove them from the board. You o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Halloween, HTML5, Mahjong, Mobile
+- Tags: Halloween, HTML5, mahjong, Mobile

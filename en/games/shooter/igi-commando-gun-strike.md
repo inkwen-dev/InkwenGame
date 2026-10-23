@@ -21,4 +21,4 @@ Be Ready to defend your country from these dangerous counter terrorist in this s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Arena, Army, Battle, Boys, Shoot, Shooter
+- Tags: 3D Games, Arena, Army, battle, Boys, Shoot, Shooter

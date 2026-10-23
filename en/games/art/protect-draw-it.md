@@ -21,4 +21,4 @@ Protect Draw It is a free casual cartoon online game for boys played on Puzzlega
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Animal, Boy, Brain, Cartoon, Drawing, Fun, HTML5, Kids, Online, Puzzle, Strategy
+- Tags: 3D, Android, Animal, Boy, Brain, Cartoon, drawing, Fun, HTML5, Kids, Online, Puzzle, strategy

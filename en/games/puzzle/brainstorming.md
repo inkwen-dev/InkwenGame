@@ -19,6 +19,6 @@ Brainstorming is a tricky brain-teaser puzzle game that breaks the rules of logi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, 2026 games, 2D, Best, Best Games, Brain, Brainrot, Casual, Hypercasual, Logic, Logical, Mind, Puzzle

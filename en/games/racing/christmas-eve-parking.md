@@ -21,4 +21,4 @@ Christmas Eve Parking is fun addictive hyper casual parking game. Christmas is j
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Christmas, Parking
+- Tags: Car, Cars, Christmas, parking

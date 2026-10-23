@@ -21,4 +21,4 @@ Play with 6 images in this perfect jigsaw puzzle game: Monster Truck Puzzle. All
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, HTML5, Mobile, Truck
+- Tags: Car, Cars, HTML5, Mobile, truck

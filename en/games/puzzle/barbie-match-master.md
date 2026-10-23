@@ -19,6 +19,6 @@ Play as your favorite Barbie characters in this exciting match-3 puzzle game, Ba
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Baby Hazel, Barbie, HTML, HTML5, Match 3, Match3, Matching, Puzzle

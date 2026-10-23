@@ -19,6 +19,6 @@ Many missions await you to help the hero to rescue the princess from danger by s
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, Action, Adventure, Android, Arcade, Casual, HTML5, Princess, Rescue

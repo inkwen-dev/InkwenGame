@@ -21,4 +21,4 @@ Halloween Games Online are the perfect way to get into the spirit of the season 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Games, jump, Jumping
+- Tags: Arcade, Casual, Games, jump, jumping

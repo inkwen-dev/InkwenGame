@@ -19,6 +19,6 @@ Master Maths with thousands of questions across dozens of topics based on India'
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 2D, Dragon, Math, Number
+- Tags: .io, 2D, Dragon, math, Number

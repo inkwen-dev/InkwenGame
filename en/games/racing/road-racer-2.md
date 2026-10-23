@@ -19,6 +19,6 @@ Experience the thrill of the neon highway in Road Racer 2! Drive at high speeds,
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Driving, endless, Racing, spin-wheel

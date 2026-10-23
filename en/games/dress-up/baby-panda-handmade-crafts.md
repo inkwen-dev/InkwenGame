@@ -19,6 +19,6 @@ Baby Panda Handmade Craft is a very cute handcraft educational game. Baby Pandas
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Baby Games, Cute, Educational, Fashion, Fun, HTML5, Jewel, Kids, Mobile, Panda
+- Tags: Animal, Baby, Baby Games, Cute, educational, Fashion, Fun, HTML5, Jewel, Kids, Mobile, Panda

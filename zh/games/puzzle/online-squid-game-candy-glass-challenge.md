@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 男孩, 男孩, 泡泡射击, 公交车, Cars, Cartoon Network, 火焰, 女孩, 女孩, 射击, 射击游戏, 射手, 射击, Unity3D
+- 标签: 3D, 3D游戏, 男孩, 男孩们, 泡泡射击, 公交车, 汽车, 卡通频道, 火焰, 女孩, 女孩, 射击, 射击游戏, 射击类, 射击, Unity3D

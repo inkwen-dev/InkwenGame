@@ -19,6 +19,6 @@ Welcome to the world of the city tuk tuk rickshaw game. Get ready to drive your 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, city, Driving, Motorcycle, Parking, TukTuk
+- Tags: bike, city, Driving, Motorcycle, parking, TukTuk

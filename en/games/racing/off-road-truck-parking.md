@@ -21,4 +21,4 @@ If yes then wait is over! We bring an amazing best offroad truck game for you wh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Arcade, Car, Cars, Funny, Parking, Supercars, Truck, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Arcade, Car, Cars, Funny, parking, Supercars, truck, Unity3D

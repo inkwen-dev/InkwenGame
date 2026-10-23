@@ -19,6 +19,6 @@ An online coloring book created based on the cartoon "Lady Bug and the Super Cat
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Hazel, Boy, Boys, Color, Coloring, Girl, Girls, H5

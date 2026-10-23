@@ -21,4 +21,4 @@ WASD - 移动角色 鼠标 - 射击并瞄准 切换武器 TAB - 菜单 空格键
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 多人游戏, 射击
+- 标签: 多人, 射击

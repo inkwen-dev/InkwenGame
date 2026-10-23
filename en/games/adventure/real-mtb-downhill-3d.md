@@ -19,6 +19,6 @@ Real MTB Downhill 3D game is an adventurous simulation on different mountain roa
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Best, Bike, Boy, Road
+- Tags: 1 Player, Action, Best, bike, Boy, Road

@@ -19,6 +19,6 @@ Sweet fruit candy is one of the best match-3 games! The classic elimination game
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 2 Player Games, Android, Arcade, Candy, Casual, Fruit, Fruits, Game, Games, Girl, Girls, Hypercasual, King, Mobile, Puzzle, Unity3D

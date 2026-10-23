@@ -21,4 +21,4 @@ Tap Pumpkin is an addictive arcade game that will test your reactions and accura
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Halloween, Hypercasual, Jumping
+- Tags: 1 Player, 2D, Arcade, Halloween, Hypercasual, jumping

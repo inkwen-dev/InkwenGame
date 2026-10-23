@@ -19,6 +19,6 @@ Test Your Color Perception and Speed! Identify Quick! is a fast-paced arcade gam
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Color, Matching
+- Tags: block, Color, Matching

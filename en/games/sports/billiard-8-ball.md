@@ -21,4 +21,4 @@ Billiard 8 Ball is an online game that you can play for free. Do you like playin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Billiard, Fun, HTML5, Mobile, Pool, Skill, Sport
+- Tags: 8 Ball Pool, Billiard, Fun, HTML5, Mobile, pool, Skill, Sport

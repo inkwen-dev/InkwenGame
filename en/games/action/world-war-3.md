@@ -21,4 +21,4 @@ An immersive combat strategy game in a world of armies, tanks and warships, War 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Fight, Fighting, Gun, running, Street Fighting, Super, Superhero
+- Tags: Action, Adventure, Arcade, Fight, fighting, Gun, running, Street Fighting, Super, Superhero

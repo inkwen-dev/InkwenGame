@@ -21,4 +21,4 @@ Skibidi Toilet vs Camera Man A shooting game is a fun and challenging game that 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Best Games, NapTech Games, Shoot, Shooter, Shooting, Skibidi, Skibidi Toilet
+- Tags: 2D, Best Games, NapTech Games, Shoot, Shooter, Shooting, Skibidi, skibidi-toilet

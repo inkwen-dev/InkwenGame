@@ -21,4 +21,4 @@ Ball.io 是一款有趣且令人上瘾的 io 游戏。移除球路径上的障�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 球类, 休闲, 休闲
+- 标签: 球, 休闲, 超休闲

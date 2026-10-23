@@ -21,4 +21,4 @@ A new online Cartoon Network game for boys is appearing here on our website, and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ben 10, Card, Memory, Puzzle
+- Tags: Ben 10, card, memory, Puzzle

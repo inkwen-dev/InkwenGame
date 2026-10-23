@@ -21,4 +21,4 @@ Kids home cleanup is an educational game. In this game, you can experience clean
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cleaning, Educational
+- Tags: Cleaning, educational

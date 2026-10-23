@@ -21,4 +21,4 @@ Test you Kendo Skills as you defend from attacks by Sensei, He will start off sl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Defense, Fighting, HTML5, Ninja
+- Tags: Arcade, Defense, fighting, HTML5, ninja

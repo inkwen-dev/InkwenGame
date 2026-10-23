@@ -19,6 +19,6 @@ Here is a military transport car driving simulation game with 3D trucks and a ta
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Driving, HTML5, Mobile, Parking, Simulation, Tank, Truck
+- Tags: 3D, Driving, HTML5, Mobile, parking, Simulation, Tank, truck

@@ -19,6 +19,6 @@ Heroes Beware is a merge-defense game where you play the villains side. Hatch mo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, attack, Battle, Monster
+- Tags: Adventure, attack, battle, monster

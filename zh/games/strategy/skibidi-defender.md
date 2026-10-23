@@ -21,4 +21,4 @@ Skibidi Defender 是一款充满动作的 Unity 脚本游戏，将文章重写�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 防御, Skibidi, Skibidi Toilet, 塔防, Unity3D, WebGL
+- 标签: 街机, 防御, Skibidi, skibidi-toilet, 塔防, Unity3D, WebGL

@@ -21,4 +21,4 @@ ChillPaths 是一款在清凉的冰世界中展开的放松又充满脑力挑战
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 点击, 冰, 益智, 水
+- 标签: 点击器, 冰, 益智, 水

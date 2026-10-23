@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 休闲, 家庭, 万圣节, HTML, 跳跃, 跳, mapi游戏, 移动
+- 标签: 休闲, 家庭, 万圣节, HTML, 跳跃, 跳跃, mapi games, 移动设备

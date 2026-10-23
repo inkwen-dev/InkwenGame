@@ -28,4 +28,4 @@ If you like trivia, crossword puzzles or popular word games like Scrabble, Words
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, hidden-object, words
+- Tags: Brain, educational, hidden-object, words

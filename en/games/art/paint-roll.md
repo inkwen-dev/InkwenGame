@@ -31,4 +31,4 @@ Perfect for quick sessions or long playtimes, Paint & Roll delivers a colorful e
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Color, Drawing
+- Tags: Color, drawing

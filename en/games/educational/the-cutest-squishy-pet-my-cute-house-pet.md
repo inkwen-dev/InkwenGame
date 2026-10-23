@@ -21,4 +21,4 @@ Smolsies are very cute plush creatures! Whether you are a toddler or a cute boy 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids
+- Tags: Animal, Baby, educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids

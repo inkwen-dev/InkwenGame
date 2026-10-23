@@ -21,4 +21,4 @@ Cute rabbit - 2 black and white rabbits are lost in the land of Dop5 and are loo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, HTML, HTML5, jump, Jumping, Monster, Rabbit, run, running, Strategy
+- Tags: Adventure, Arcade, HTML, HTML5, jump, jumping, monster, Rabbit, run, running, strategy

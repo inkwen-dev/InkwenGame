@@ -21,4 +21,4 @@ Cat Loves Cake is a skill game where you have to bounce your cat across the leve
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cake, Cat, jump, Jumping, Love
+- Tags: Cake, Cat, jump, jumping, Love

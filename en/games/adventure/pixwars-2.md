@@ -19,6 +19,6 @@ PixWars 2 is a multiplayer shooter game where you have to face off against a hor
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Aircraft, Craft, Crafting, Hot, HTML, HTML5, Minecraft, Multiplayer, Pixel
+- Tags: 3D, Action, Adventure, Aircraft, Craft, Crafting, Hot, HTML, HTML5, Minecraft, Multiplayer, pixel

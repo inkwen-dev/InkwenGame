@@ -19,6 +19,6 @@ Hidden Animals is an skill based puzzle game where you need to find all the hidd
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Arcade, Girls, Hidden, HTML5, Mobile, Puzzle

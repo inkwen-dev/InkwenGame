@@ -21,4 +21,4 @@ A fast-paced arcade snake game with neon visuals, combo multipliers, power-ups, 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, easy, Snake
+- Tags: Arcade, easy, snake

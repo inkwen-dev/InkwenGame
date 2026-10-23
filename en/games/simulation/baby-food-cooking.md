@@ -21,4 +21,4 @@ Learn how to make simple and tasty snacks for lovely babies. Develop your babysi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Baby, Cook, Cooking, Educational, Food, Fun, Girl, HTML5, Kids, Mobile, Puzzle
+- Tags: Baby, Cook, Cooking, educational, Food, Fun, Girl, HTML5, Kids, Mobile, Puzzle

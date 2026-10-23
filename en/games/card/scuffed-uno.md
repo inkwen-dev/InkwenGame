@@ -19,6 +19,6 @@ Scuffed Uno lets you play the popular Uno card game in your web browser. The aim
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 3D, 3D Games, Arcade, Board, Boys, Card, Color, Fun, Logic, Multiplayer
+- Tags: 1 Player, 2 Player, 2 Player Games, 3D, 3D Games, Arcade, Board, Boys, card, Color, Fun, Logic, Multiplayer

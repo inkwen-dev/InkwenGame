@@ -19,6 +19,6 @@ Draw the path of the ball and dunk it! Basketball has never been more awesome! M
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Baseball, Basketball, Punch, Shoot, Sport, Sports
+- Tags: Arcade, baseball, basketball, Punch, Shoot, Sport, sports

@@ -19,6 +19,6 @@ Enjoy classic gameplay with three chess modes, each offering varying time settin
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Board, Classic, Logic, Logical, Puzzle, Strategy
+- Tags: 3D, Board, Classic, Logic, Logical, Puzzle, strategy

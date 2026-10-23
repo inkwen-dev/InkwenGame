@@ -21,4 +21,4 @@ Flag Runner &zwj; Dash, dodge, and sprint through epic obstacle courses in Flag 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Best Games, Crazy, endless, Ever After High, Highscore, run, running
+- Tags: Action, Best Games, crazy, endless, Ever After High, Highscore, run, running

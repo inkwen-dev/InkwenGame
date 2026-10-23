@@ -41,4 +41,4 @@ Show your business skill!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Food, Management, Minecraft
+- Tags: Food, management, Minecraft

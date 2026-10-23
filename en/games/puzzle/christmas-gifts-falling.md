@@ -19,6 +19,6 @@ The newest Christmas puzzle game is Christmas Gifts Falling. Your goal in this g
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Fun, Kids, Puzzle, Skill, Winter

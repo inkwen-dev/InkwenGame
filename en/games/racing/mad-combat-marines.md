@@ -19,6 +19,6 @@ Cartoon third person shooter with 5 weapons, 3 maps and a lot of fun!
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Car, Cartoon, Shooter, Unity3D, WebGL

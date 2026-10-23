@@ -19,6 +19,6 @@ The polar bear and the penguin decided to play golf among the snowy plains, join
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Clash, Golf, HTML, HTML5, Sport, Sports
+- Tags: Adventure, Clash, golf, HTML, HTML5, Sport, sports

@@ -19,6 +19,6 @@ Naruto Shippuden Coloring Book: draw Book Ninja This coloring book is definitely
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Anime, Boys, Cartoon, Cartoon Network, Color, Coloring, Fun, Games, Girl, Girls, Online

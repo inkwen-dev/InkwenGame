@@ -21,4 +21,4 @@ Very challenging puzzle Control the square to your target position, and then cho
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Casual, Classic, Educational, Puzzle
+- Tags: Board, Casual, Classic, educational, Puzzle

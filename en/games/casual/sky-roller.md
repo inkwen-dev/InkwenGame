@@ -21,4 +21,4 @@ Sky Roller is fun addictive hyper casual game. Just Click to Adjust Angle and Sh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Hypercasual, Skateboard, Skating
+- Tags: Casual, Hypercasual, skateboard, Skating

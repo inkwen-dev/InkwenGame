@@ -19,6 +19,6 @@ Welcome to Magic Dot - Dancing Line, a fantastic music game. With our Magic Dot,
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Gold, Hypercasual, Stickman
+- Tags: Action, Arcade, Gold, Hypercasual, stickman

@@ -19,6 +19,6 @@ This ocean is full of rare fish and other sea creatures! Match and combine them 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bomb, Fish, Jewel, Logic, Logical, Match 3, Match3, Math, Turn
+- Tags: Arcade, Bomb, Fish, Jewel, Logic, Logical, Match 3, Match3, math, Turn

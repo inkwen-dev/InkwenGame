@@ -19,6 +19,6 @@ Mousy Look is a 2D platform game where you need to collect cheese while avoiding
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Animal, Arcade, Collecting, Cute, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Animal, Arcade, Collecting, Cute, pixel, Platform, retro

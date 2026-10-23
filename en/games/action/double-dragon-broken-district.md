@@ -19,6 +19,6 @@ Double Dragon: Broken District is a martial arts story through four missions. Ch
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Fighting, Mobile, Retro, Side Scrolling, Street Fighting
+- Tags: 1 Player, 2D, fighting, Mobile, retro, Side Scrolling, Street Fighting

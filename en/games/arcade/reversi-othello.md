@@ -19,6 +19,6 @@ Reversi Othello is an addictive and strategic online game that puts players tact
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Educational, Game, Puzzle, Strategy
+- Tags: Arcade, Brain, educational, Game, Puzzle, strategy

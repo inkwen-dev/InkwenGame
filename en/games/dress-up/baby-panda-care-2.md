@@ -19,6 +19,6 @@ Baby Panda Care 2 offers a new experience with more interactions and lets you ca
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cleaning, Decorate, Decoration, Educational, Family, Fun, Girls, HTML5, Kids, Makeover, Mobile, Puzzle
+- Tags: Baby, Cleaning, Decorate, Decoration, educational, Family, Fun, Girls, HTML5, Kids, Makeover, Mobile, Puzzle

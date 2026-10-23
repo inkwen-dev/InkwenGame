@@ -15,6 +15,6 @@ Get ready for a jolly rush in Mr Santa Run 2! Guide Santa through a festive, obs
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: addictive

@@ -21,4 +21,4 @@ Click the cards to reveal an animal baby. Memorize their locations so that you c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Card, Fun, HTML5, Kids, Matching, Memory, Mobile, Puzzle
+- Tags: Animal, Baby, card, Fun, HTML5, Kids, Matching, memory, Mobile, Puzzle

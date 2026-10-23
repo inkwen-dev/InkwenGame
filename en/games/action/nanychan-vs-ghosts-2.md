@@ -21,4 +21,4 @@ Nanychan vs Ghosts is a 2D Halloween themed platformer where you have to collect
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Ghost, Halloween, jump, Jumping, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Ghost, Halloween, jump, jumping, pixel, Platform, retro

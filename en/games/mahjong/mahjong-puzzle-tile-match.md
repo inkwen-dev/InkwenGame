@@ -24,4 +24,4 @@ Mahjong Puzzle: Tile Match is a soothing yet brain-teasing tile-matching game wh
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Logic, Mahjong, Matching, Puzzle
+- Tags: Brain, Logic, mahjong, Matching, Puzzle

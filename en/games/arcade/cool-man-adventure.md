@@ -19,6 +19,6 @@ Hi there! It sounds like youre interested in playing Cool Man Adventure, To play
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, amazing, Arcade, Best Games, html5 games, Kids

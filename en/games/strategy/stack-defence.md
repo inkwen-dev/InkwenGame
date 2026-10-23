@@ -21,4 +21,4 @@ Welcome to the fun multiplayer game "Stack Defense", in which you will have to t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Battle, Casual, Defense, Game, Tower Defense
+- Tags: 3D, 3D Games, battle, Casual, Defense, Game, Tower Defense

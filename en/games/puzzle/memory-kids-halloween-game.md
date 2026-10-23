@@ -21,4 +21,4 @@ Play this memory game with Halloween images. Memorize all Halloween images and c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Halloween, Memory, Puzzle
+- Tags: Halloween, memory, Puzzle

@@ -15,6 +15,6 @@ Immerse yourself in Kaligrafi Photo Image Scramble, a challenging and captivatin
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Brain

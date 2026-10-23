@@ -21,4 +21,4 @@ Ultimate Boxing is an addictive sports. Face your opponent in the ring in this e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boxing, Sport, Sports
+- Tags: Boxing, Sport, sports

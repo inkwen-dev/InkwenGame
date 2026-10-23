@@ -21,4 +21,4 @@ Click the cards to reveal a Dog. Memorize their locations so that you can match 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Card, HTML5, Kids, Matching, Memory, Mobile, Puzzle
+- Tags: Animal, Arcade, card, HTML5, Kids, Matching, memory, Mobile, Puzzle

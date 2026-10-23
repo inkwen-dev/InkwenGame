@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 球, 泡泡射击, 最高分, 怪物, 射击
+- 标签: 球, 泡泡射击, 高分, monster, 射击

@@ -21,4 +21,4 @@ Apocalypse Truck is a fun driving game where you get to control a truck in a wor
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Mobile, Truck, weapons, Zombie
+- Tags: 2D, Mobile, truck, weapons, Zombie

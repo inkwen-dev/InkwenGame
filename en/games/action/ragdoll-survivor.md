@@ -21,4 +21,4 @@ A stick fighter is stuck in the middle of a war zone and has to fight to stay al
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Boys, Fighting, HTML5, Physics, ragdoll, Stickman, survival, War
+- Tags: Action, battle, Boys, fighting, HTML5, Physics, ragdoll, stickman, survival, War

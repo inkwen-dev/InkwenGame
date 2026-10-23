@@ -21,4 +21,4 @@ In Stack Road game, collect the rollers on the roads and build bridges for yours
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Casual, Fun, Funny, Hypercasual, Stickman
+- Tags: 3D, 3D Games, Casual, Fun, Funny, Hypercasual, stickman

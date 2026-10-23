@@ -21,4 +21,4 @@ Doodle Aircraft is an exciting checked-paper-graphics game. Experience the world
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Air, Aircraft, Boy, Boys, endless, Flight, fly, Shoot 'Em Up, Shooter, Shooting, sky
+- Tags: Air, Aircraft, Boy, Boys, endless, flight, fly, Shoot 'Em Up, Shooter, Shooting, sky

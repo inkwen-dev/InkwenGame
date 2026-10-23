@@ -21,4 +21,4 @@ Welcome to Sky Block Bounce, the ultimate test of agility and strategy in a sky-
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Ball, Block, blocky, Collecting, jump, Jumping, Kids, Puzzle
+- Tags: Avoid, Ball, block, blocky, Collecting, jump, jumping, Kids, Puzzle

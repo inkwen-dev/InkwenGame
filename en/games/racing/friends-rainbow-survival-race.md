@@ -21,4 +21,4 @@ Survival Race: The Blue Rainbow Monster takes you on an adrenaline-fueled journe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, HTML5, iPad, iPhone, Mobile, Monster, Racing, run, running
+- Tags: Android, HTML5, iPad, iPhone, Mobile, monster, Racing, run, running

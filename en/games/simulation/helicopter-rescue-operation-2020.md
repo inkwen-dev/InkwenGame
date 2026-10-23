@@ -19,6 +19,6 @@ Helicopter Rescue Operation 2020 is a flight simulator game developed by CoolMat
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Flight, fly, Helicopter, Rescue, Simulator
+- Tags: 3D, flight, fly, helicopter, Rescue, Simulator

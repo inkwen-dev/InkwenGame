@@ -19,6 +19,6 @@ In the game Orbit Escape you have to tap the screen at the right time to make th
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Best, Fun, Mobile, Rocket, Skill, Space, Spaceship

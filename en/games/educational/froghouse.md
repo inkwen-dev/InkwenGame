@@ -21,4 +21,4 @@ This is just a drag and drop game about the frog house! Grab items and have fun!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Brain, Educational, Girl, Puzzle
+- Tags: Boys, Brain, educational, Girl, Puzzle

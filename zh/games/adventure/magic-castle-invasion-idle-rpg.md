@@ -35,4 +35,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 冒險, 闲置, 魔法, 角色扮演
+- 标签: 冒险, idle, 魔法, rpg

@@ -19,6 +19,6 @@ MONOPOLY online game. It's the classic game of Monopoly that you know and love w
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 3D, 3D Games, Board, Boys, Girl, Girls, HTML5, Logic, Logical, Multiplayer, Puzzle

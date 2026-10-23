@@ -21,4 +21,4 @@ Desktop Mouse Mobile Touch Screen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Casual, Educational, HTML5, Kids, Puzzle
+- Tags: Cartoon, Casual, educational, HTML5, Kids, Puzzle

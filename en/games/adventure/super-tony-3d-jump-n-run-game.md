@@ -19,6 +19,6 @@ Super Tony 3D - Adventure World gives you the chance to step back in time to you
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, jump, Jumping, Super, Superhero
+- Tags: Adventure, jump, jumping, Super, Superhero

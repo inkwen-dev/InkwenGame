@@ -19,6 +19,6 @@ Play flap football game with flappy type, tap to jump and fly football to avoid 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: fly, Football, Game, Highscore, jump, Jumping, Online, Soccer
+- Tags: fly, Football, Game, Highscore, jump, jumping, Online, Soccer

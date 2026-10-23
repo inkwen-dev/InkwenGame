@@ -19,6 +19,6 @@ Color Rope will keep you hooked for hours! Puzzle game with one finger control. 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 2D, 3D, 3D Games, Action, Adventure, Arcade, Car, Casual, Hypercasual, Unity3D

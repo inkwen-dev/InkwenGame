@@ -19,6 +19,6 @@ Play as a Stickman Ninja Warriors your duty is to save the princess from the evi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boy, Boys, Cool, Crazy, HTML5, WebGL
+- Tags: 2D, Boy, Boys, cool, crazy, HTML5, WebGL

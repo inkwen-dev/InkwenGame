@@ -17,4 +17,4 @@ Command bandits and archers in a strategic battle against relentless foes in Lim
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Strategy
+- Tags: strategy

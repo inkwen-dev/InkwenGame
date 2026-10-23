@@ -21,4 +21,4 @@ ASWD 移动 E 互动 F 手电筒 Q 退出 窗口 ESC 暂停 游戏内教程
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 动作, 冒险, 涂色, 幽灵, 房屋, 房间, 生存, Unity3D
+- 标签: 单人, 3D, 动作, 冒险, 颜色, 幽灵, 房子, 房间, 生存, Unity3D

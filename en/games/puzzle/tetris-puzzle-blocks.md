@@ -21,4 +21,4 @@ This is the most intriguing block game you have ever had the pleasure of holding
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Block, Brain, HTML5, Mobile, Puzzle, Skill
+- Tags: 1 Player, 2D, Android, block, Brain, HTML5, Mobile, Puzzle, Skill

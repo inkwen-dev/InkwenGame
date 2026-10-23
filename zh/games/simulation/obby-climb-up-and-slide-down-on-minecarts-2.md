@@ -21,4 +21,4 @@ PC端：WASD 键移动，鼠标 控制视角；移动端：使用屏幕上的控
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, Android, 大炮, 汽车, 卡通, 卡通网络, 手工, CSGO, 摧毁, eggames, 钓鱼, 超休闲, 企鹅, roblox
+- 标签: 冒险, 安卓, 大炮, 汽车, 卡通, 卡通频道, 建造, CSGO, 破坏, 蛋游戏, 钓鱼, 超休闲, 企鹅, Roblox

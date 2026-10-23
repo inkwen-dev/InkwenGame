@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 男孩, 男孩, HTML, HTML5, 跳跃, 跳躍, 赛车, 蜘蛛侠, 超级, 超级英雄
+- 标签: 2D, 男孩, 男孩们, HTML, HTML5, 跳跃, 跳跃, 竞速, 蜘蛛侠, 超级, 超级英雄

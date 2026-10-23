@@ -15,6 +15,6 @@ Stick Ninja Survival delivers thrilling rogue-like action as stickman warriors b
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Ninja
+- Tags: ninja

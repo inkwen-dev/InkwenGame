@@ -19,6 +19,6 @@ Complete each level by painting all the paths. Tap to make each person run. Be c
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Arcade, Casual, Color, Coloring, Fun, Funny, Hot, Hypercasual, Interactive, Race, Racing, Sport, Sports, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Arcade, Casual, Color, Coloring, Fun, Funny, Hot, Hypercasual, Interactive, Race, Racing, Sport, sports, Unity3D

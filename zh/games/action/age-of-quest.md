@@ -21,4 +21,4 @@ WASD - 移动 N 和 鼠标左键 - 发射 Q 和 鼠标右键 - 更换武器
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 火焰, Mentolatux, 怪兽, 剑, unity游戏, Unity3D, WebGL
+- 标签: 火焰, Mentolatux, monster, 剑, unity游戏, Unity3D, WebGL

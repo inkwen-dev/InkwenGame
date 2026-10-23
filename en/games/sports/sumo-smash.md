@@ -19,6 +19,6 @@ Step into the ring and embrace the ancient art of Sumo&mdash; with a twist! Welc
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Arcade, Arena, Avoid, Bounce, Fighting, Funny, sumo
+- Tags: .io, .io Games, 3D, 3D Games, Action, Arcade, Arena, Avoid, Bounce, fighting, Funny, sumo

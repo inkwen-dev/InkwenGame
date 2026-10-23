@@ -19,6 +19,6 @@ Fluffy Mania is a casual arcade game created by Bekho Team. In this game, your o
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Candy, Match 3, Puzzle

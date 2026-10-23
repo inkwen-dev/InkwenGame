@@ -21,4 +21,4 @@ Play the real Mahjong puzzle game. Match up traditional Mahjong tiles until all 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mahjong
+- Tags: mahjong

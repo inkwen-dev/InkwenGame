@@ -19,6 +19,6 @@ Play Temple Run 2 Online - Run, jump, turn and slide through the endless landsca
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Boys, endless, run, running, Subway Surfers, temple

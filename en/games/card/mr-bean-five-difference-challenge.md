@@ -19,6 +19,6 @@ Find the differences between two photos in Mr Bean Five Difference Challenge, le
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Brain, Card, Cartoon, Cartoon Network, Casual, Classic, Detective, Difference
+- Tags: Board, Brain, card, Cartoon, Cartoon Network, Casual, Classic, Detective, Difference

@@ -19,6 +19,6 @@ Get ready to practice in this best parking simulator. This car parking games wil
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Arcade, Car, Cars, Casual, Fantasy, Fun, Funny, Hot, Hypercasual, Parking, Race, Racing
+- Tags: 3D, 3D Games, Adventure, Arcade, Car, Cars, Casual, Fantasy, Fun, Funny, Hot, Hypercasual, parking, Race, Racing

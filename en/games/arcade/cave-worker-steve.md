@@ -19,6 +19,6 @@ Steve, who works in the cave to protect and develop his village, collects money 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Arcade, Click, Clicker, Minecraft, Miner, Mobile

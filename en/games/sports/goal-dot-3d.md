@@ -19,6 +19,6 @@ Welcome to Goal Dot 3D Soccer Game! Aim and release to shoot the ball into the g
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Hypercasual, Soccer, unity games for your website, Unity3D

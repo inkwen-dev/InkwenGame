@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 建造, 商业, 休闲, 手工, html5游戏, 闲暇, 管理
+- 标签: 建造, 商业, 休闲, 制作, HTML5游戏, idle, 管理

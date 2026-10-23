@@ -21,4 +21,4 @@ Lorenzo the Runner is a 2D Mario-like platformer that takes you on an exhilarati
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Casual, Mario, Pixel, Platform
+- Tags: 1 Player, 2D, Casual, mario, pixel, Platform

@@ -19,6 +19,6 @@ Animal House With the Animal House game, you learn the natural habitat of each a
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Educational, HTML5, Kids, School
+- Tags: Baby, educational, HTML5, Kids, School

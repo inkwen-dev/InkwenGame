@@ -19,6 +19,6 @@ Monsters Wheels 2 is a monster truck game where every event asks something diffe
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, car tuning, monstertruck, Truck, trucks
+- Tags: Car, car tuning, monstertruck, truck, trucks

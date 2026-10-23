@@ -21,4 +21,4 @@ Karate King Online is a free online game where you can fight your way through th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Boxing, Fight, Fighting, Game, Games, HTML5, Street Fighting
+- Tags: Action, Boxing, Fight, fighting, Game, Games, HTML5, Street Fighting

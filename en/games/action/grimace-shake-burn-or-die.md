@@ -19,6 +19,6 @@ An epic battle between you and Grimace, burn or be killed! No more Grimace Terro
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Best Games, Bomb, Casual, Enemy, Escape
+- Tags: battle, Best Games, Bomb, Casual, Enemy, Escape

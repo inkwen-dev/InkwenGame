@@ -19,6 +19,6 @@ Collect nuts and bolts to build up your train's length in this io-style snake ga
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Multiplayer, RPG, Simulation
+- Tags: .io, .io Games, Multiplayer, rpg, Simulation

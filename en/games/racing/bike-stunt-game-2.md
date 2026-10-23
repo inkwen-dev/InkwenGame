@@ -21,4 +21,4 @@ Bike Stunt Game is a thrilling 2.5D arcade racer where you perform insane tricks
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Race, Racing, run, Stunts
+- Tags: bike, Race, Racing, run, Stunts

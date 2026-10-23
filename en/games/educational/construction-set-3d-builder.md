@@ -34,4 +34,4 @@ Relaxing Gameplay: With its soothing music and relaxing gameplay, Construction S
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, construction, Educational, popular
+- Tags: 3D, construction, educational, popular

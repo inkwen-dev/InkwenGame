@@ -21,4 +21,4 @@ Step into a magical woodland adventure in The Forest Friends! Match colorful for
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, amazing, Best, Best Games, Candy, Crazy, Frozen, Fun, Hypercasual, Puzzle
+- Tags: 2026 games, Adventure, amazing, Best, Best Games, Candy, crazy, Frozen, Fun, Hypercasual, Puzzle

@@ -19,6 +19,6 @@ Santa Claus Adventure is fun arcade game suitable for all ages. Your task is to 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Boys, Christmas, Collecting, Fun, Girls, HTML5, Kids, Platform, Skill, Winter

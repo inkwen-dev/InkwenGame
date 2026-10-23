@@ -21,4 +21,4 @@ Block Sliding - Jewel Blast, a new artisan relaxing block puzzle. Just move the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Casual, Color, HTML, HTML5, Jewel, Puzzle
+- Tags: block, Casual, Color, HTML, HTML5, Jewel, Puzzle

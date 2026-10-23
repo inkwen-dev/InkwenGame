@@ -21,4 +21,4 @@ Dot Connect is an exciting line puzzle game where you must connect the dots on t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, 8 Ball Pool, Adventure, Brain, Color, Kid, Kids, Letters, Math, Number, Physics, Science, Sport, Word
+- Tags: 2D, 8 Ball Pool, Adventure, Brain, Color, Kid, Kids, Letters, math, Number, Physics, Science, Sport, word

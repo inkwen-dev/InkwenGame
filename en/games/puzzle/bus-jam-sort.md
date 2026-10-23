@@ -19,6 +19,6 @@ The passengers are waiting for their bus, sort them out based on their color! Vi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, bus, puzzleblock, sort

@@ -21,4 +21,4 @@ In our corner version, you can improve your analytical skills and strategic thin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2025 games, 2D, Adult, Board, Brain, Casual, Classic, Logic, Logical, Multiplayer, Puzzle, Strategy
+- Tags: 2 Player, 2 Player Games, 2025 games, 2D, Adult, Board, Brain, Casual, Classic, Logic, Logical, Multiplayer, Puzzle, strategy

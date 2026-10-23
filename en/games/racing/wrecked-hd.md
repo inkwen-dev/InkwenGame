@@ -21,4 +21,4 @@ Wrecked is a great HTML5 racing game. Drive your car in the circle ring fast as 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2D, Android, Arcade, Ben 10, Best, Bike, Boat, Bomb, Bow, Boxing, Boy, Boys, Brain, Car, Cars, Cartoon Network, Clash, Classic, Click, Clicker, Crazy, drifting, Driving, Fight, Fighting, Fun, Game, Games, H5, HTML, HTML5, Kart, Kid, Kids, Kill, Kiz 10, kiz10, Mobile, Monster, Race, Racing, Retro, Road
+- Tags: .io, .io Games, 1 Player, 2D, Android, Arcade, Ben 10, Best, bike, Boat, Bomb, Bow, Boxing, Boy, Boys, Brain, Car, Cars, Cartoon Network, Clash, Classic, Click, Clicker, crazy, drifting, Driving, Fight, fighting, Fun, Game, Games, H5, HTML, HTML5, Kart, Kid, Kids, Kill, Kiz 10, kiz10, Mobile, monster, Race, Racing, retro, Road

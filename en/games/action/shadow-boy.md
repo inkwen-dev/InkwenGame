@@ -19,6 +19,6 @@ Ignatius is a atmospheric puzzle-platformer game with an interesting story. The 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Arcade, Ben 10, Best, Cartoon, Casual, Classic, Dragon, Dragon Ball Z, Fantasy, Halloween, Mario, run, running
+- Tags: 1 Player, Action, Adventure, Arcade, Ben 10, Best, Cartoon, Casual, Classic, Dragon, Dragon Ball Z, Fantasy, Halloween, mario, run, running

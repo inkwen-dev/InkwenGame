@@ -21,4 +21,4 @@ Carrot Climber is a cute and fun game where a hungry rabbit climbs walls to coll
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, HTML5, html5 games, Hypercasual, Jumping, NapTech Games
+- Tags: Arcade, HTML5, html5 games, Hypercasual, jumping, NapTech Games

@@ -21,4 +21,4 @@ Play Stickman Ghost Online for free at kiz10.com, an excellent exclusive game fu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Fighting, Ninja, Stickman
+- Tags: Action, fighting, ninja, stickman

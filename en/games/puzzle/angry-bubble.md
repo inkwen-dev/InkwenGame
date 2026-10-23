@@ -21,4 +21,4 @@ Angry Bubble is a fun action puzzle game where you control a character to elimin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Click, Monster
+- Tags: Brain, Casual, Click, monster

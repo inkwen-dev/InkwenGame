@@ -21,4 +21,4 @@ Immerse yourself in the magical world of the North to meet the northern valkyrie
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, beauty, Celebrity, Crazy, Dress Up, Fashion, Hair, Makeover
+- Tags: Animal, beauty, Celebrity, crazy, Dress Up, Fashion, Hair, Makeover

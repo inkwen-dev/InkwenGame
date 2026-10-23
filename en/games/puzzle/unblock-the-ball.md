@@ -21,4 +21,4 @@ Unblock The Ball is a simple and addictive puzzle game. There are many pipes mad
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Block, Boys, Brain, Fun, HTML5, Kids, Matching, Puzzle
+- Tags: Ball, block, Boys, Brain, Fun, HTML5, Kids, Matching, Puzzle

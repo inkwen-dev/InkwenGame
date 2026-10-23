@@ -21,4 +21,4 @@ Just simple control by tapping. Are you smart to complete all challenges? Let's 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boys, Brain, Educational, Girls, HTML5, Kids, Logic, Logical, Mobile, Online
+- Tags: 2D, Boys, Brain, educational, Girls, HTML5, Kids, Logic, Logical, Mobile, Online

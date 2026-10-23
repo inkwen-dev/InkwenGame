@@ -19,6 +19,6 @@ Brush Hit is a relaxing game for kids. You only need to brush them on colorful. 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Casual, Game, Kid, Kids, Relaxation

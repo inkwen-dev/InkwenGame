@@ -19,6 +19,6 @@ Shoot the ball at the right moment so that it bounces off the platform and destr
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids

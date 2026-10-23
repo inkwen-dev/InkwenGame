@@ -21,4 +21,4 @@ Box Run is a touch and hold game. Boxes of the same color touch each other to ea
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Color, Funny, Logic, Math
+- Tags: Click, Color, Funny, Logic, math

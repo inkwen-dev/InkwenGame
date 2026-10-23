@@ -26,4 +26,4 @@ Merge brave and deadly heroes together to create even deadlier ones. Defend your
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: merge, Mobile, Monster, Strategy, Tower Defense
+- Tags: merge, Mobile, monster, strategy, Tower Defense

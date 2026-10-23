@@ -21,4 +21,4 @@ Alex the alien is lost on a strange planet! Help him collect coins and open the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Alien, Android, Casual, Click, jump, Jumping, Platform, Rescue, Rocket, Space, Spaceship
+- Tags: 2D, Alien, Android, Casual, Click, jump, jumping, Platform, Rescue, Rocket, Space, Spaceship

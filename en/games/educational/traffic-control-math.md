@@ -19,6 +19,6 @@ This is a traffic control game where you control the flow of traffic by starting
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, HTML5, Math, Mobile, Puzzle, Skill
+- Tags: educational, HTML5, math, Mobile, Puzzle, Skill

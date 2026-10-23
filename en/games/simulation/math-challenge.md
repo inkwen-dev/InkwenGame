@@ -19,6 +19,6 @@ With this game you or your children can improve their mathematical skills and pr
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Interactive, Math, Simulation, Simulator
+- Tags: Interactive, math, Simulation, Simulator

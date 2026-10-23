@@ -21,4 +21,4 @@ Joyance 男孩逃脱是一款由8BGames开发的点击式逃脱游戏。想象�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 逃脱, 点击解谜
+- 标签: 逃脱, 点击式

@@ -19,6 +19,6 @@ Zoom across a challenging and fun downward descend in a retro 3D world! Take you
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Ballon, jump

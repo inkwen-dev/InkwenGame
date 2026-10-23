@@ -21,4 +21,4 @@ Football fans will love this game, as here they will be able to work out how to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ben 10, Boy, Boys, Cartoon, Cartoon Network, Soccer, Spongebob, Sport, Sports
+- Tags: Ben 10, Boy, Boys, Cartoon, Cartoon Network, Soccer, Spongebob, Sport, sports

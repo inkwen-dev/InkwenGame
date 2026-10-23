@@ -19,6 +19,6 @@ With simple, fast gameplay, piga pig soccer shoot up is easy to play and offers 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Classic, Click, Clicker, Football, Soccer

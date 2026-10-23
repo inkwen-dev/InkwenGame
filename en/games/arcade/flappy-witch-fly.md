@@ -21,4 +21,4 @@ Flappy Witch Fly is a fun and challenging arcade game inspired by the classic Fl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bird, Brain, Casual, flappybird, Hot, Mario, Super
+- Tags: Bird, Brain, Casual, flappybird, Hot, mario, Super

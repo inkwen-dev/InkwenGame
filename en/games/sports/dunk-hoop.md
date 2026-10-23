@@ -21,4 +21,4 @@ Play the basket hoop not the ball! This time, you control the basket hoop and yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Basketball
+- Tags: Ball, basketball

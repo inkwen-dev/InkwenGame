@@ -19,6 +19,6 @@ This is a special bubble shooter game in which you will find a rotating wheel of
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Board, Bubble, Bubble Shooter, Candy, Fun, Girls, HTML5, Match3, Matching, Mobile

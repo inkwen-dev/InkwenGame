@@ -21,4 +21,4 @@ Play this slide puzzle games of the cartoon police car. It's include 3 images an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Cartoon, Police
+- Tags: Car, Cars, Cartoon, police

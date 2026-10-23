@@ -21,4 +21,4 @@ Drunken Duel 2 is here with new challenges. Stickman characters are on the roof 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Battle, Fun, Funny, Shooter, Shooting, War
+- Tags: 2 Player, 2 Player Games, battle, Fun, Funny, Shooter, Shooting, War

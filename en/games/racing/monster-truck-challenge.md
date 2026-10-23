@@ -19,6 +19,6 @@ Are you a fan of arcade car racing, where it is possible not only to ride offroa
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Car, Cars, Crazy, drift, Driving, Fun, Funny, jump, Jumping, Kid, Kids, Monster, Truck
+- Tags: Boy, Boys, Car, Cars, crazy, drift, Driving, Fun, Funny, jump, jumping, Kid, Kids, monster, truck

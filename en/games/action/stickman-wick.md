@@ -21,4 +21,4 @@ The ruthless Stickman Wick must get his best friend back! To do this, he is read
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Click, Gun, HTML5, jump, Jumping, Mobile, New, running, weapons, WebGL
+- Tags: 2D, Action, Click, Gun, HTML5, jump, jumping, Mobile, New, running, weapons, WebGL

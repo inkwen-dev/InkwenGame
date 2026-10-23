@@ -21,4 +21,4 @@ Immerse yourself in the amazing world of pixel art right now! In the game, your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, beauty, Best Games, Creation, Design, Drawing, endless, free html5 games for your website, Friv, HTML5, html5 games, Pixel, Relaxation
+- Tags: 2D, Android, beauty, Best Games, Creation, Design, drawing, endless, free html5 games for your website, Friv, HTML5, html5 games, pixel, Relaxation

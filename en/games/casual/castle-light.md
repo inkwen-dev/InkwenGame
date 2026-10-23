@@ -21,4 +21,4 @@ Castle Light is a casual game. You are a Knight in the Castle and you need to tu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Castle, Knight
+- Tags: Castle, knight

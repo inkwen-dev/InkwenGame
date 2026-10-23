@@ -19,6 +19,6 @@ Are you all set for a zombie apocalypse? Dodge, search, & eliminate undead zombi
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Best, Blood, Crazy, Mobile, Unity3D, WebGL, Zombie
+- Tags: 3D Games, Action, Best, Blood, crazy, Mobile, Unity3D, WebGL, Zombie

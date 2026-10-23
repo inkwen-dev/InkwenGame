@@ -21,4 +21,4 @@ Akochan Quest 2 is a 2D Anime themed platformer where you play as a girl, Akocha
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Collecting, Cute, Girl, jump, Jumping, Monster, Pixel, Platform, Retro, Zombie
+- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Collecting, Cute, Girl, jump, jumping, monster, pixel, Platform, retro, Zombie

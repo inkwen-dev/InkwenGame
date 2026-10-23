@@ -19,6 +19,6 @@ Choose one of the fun weapons and start shooting. Progress through the sections 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Block, Bricks, Gun, HTML5, Kids, Pixel, Shooter, weapons
+- Tags: 2D, block, Bricks, Gun, HTML5, Kids, pixel, Shooter, weapons

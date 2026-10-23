@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 竞速, 赛车, 奔跑, 地铁, 地铁狂奔, Unity3D
+- 标签: 3D, 3D游戏, 比赛, 竞速, 奔跑, 地铁, 地铁跑酷, Unity3D

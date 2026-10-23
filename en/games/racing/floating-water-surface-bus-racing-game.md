@@ -19,6 +19,6 @@ Enjoy your yacht racing drive through deep sea. Run your water coach bus to get 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, bus, Driving, Game, Games, HTML, HTML5, Race, Racing

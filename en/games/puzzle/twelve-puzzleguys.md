@@ -21,4 +21,4 @@ Hyper-casual puzzle game. Tap on the same numbers to grow them. Can you reach tw
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Math
+- Tags: math

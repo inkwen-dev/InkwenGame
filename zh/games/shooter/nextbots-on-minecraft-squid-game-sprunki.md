@@ -21,4 +21,4 @@ Nextbots 是由人工智能控制的角色，以紧张刺激且动态的方式�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: mineblock, 我的世界, 射击, Sprunki
+- 标签: mineblock, 我的世界, 射击类, 斯普朗基

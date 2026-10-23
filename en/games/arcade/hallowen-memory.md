@@ -21,4 +21,4 @@ It is a very engaging, fun and challenging casual game. Touch the cards to make 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Halloween, Memory, Puzzle
+- Tags: Adventure, Arcade, Halloween, memory, Puzzle

@@ -45,4 +45,4 @@ Available in 8 languages
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cats, cozy, Drawing, Logic, Physics, Puzzle
+- Tags: cats, cozy, drawing, Logic, Physics, Puzzle

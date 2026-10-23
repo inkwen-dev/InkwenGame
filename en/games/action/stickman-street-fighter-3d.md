@@ -21,4 +21,4 @@ It is time to fight in kz10 !! Choose your favorite stickman and perform awesome
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting, kiz10, Stickman, Street Fighting
+- Tags: Fight, fighting, kiz10, stickman, Street Fighting

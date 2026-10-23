@@ -19,6 +19,6 @@ A fantasy world, filed with monsters and magnificent views are waiting for you. 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Fantasy, RPG, running
+- Tags: Adventure, Fantasy, rpg, running

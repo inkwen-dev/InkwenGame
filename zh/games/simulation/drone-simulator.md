@@ -21,4 +21,4 @@ WASD - 飞行 J L - 旋转 I K - 上下移动 P - 暂停游戏 Tab - 显示信�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 3D游戏, 动作, 空中, 街机, 最佳, 飞行, 飞行, 有趣, 搞笑, HTML5, Unity3D, WebGL
+- 标签: 单人, 3D, 3D游戏, 动作, 空气, 街机, 最佳, 飞行, 飞, 有趣, 搞笑, HTML5, Unity3D, WebGL

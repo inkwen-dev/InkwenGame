@@ -19,6 +19,6 @@ Connect A Way is a HTML5 game where have to solve the puzzle by drawing a path t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Hypercasual, Puzzle, subway

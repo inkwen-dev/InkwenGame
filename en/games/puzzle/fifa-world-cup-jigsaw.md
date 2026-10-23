@@ -19,6 +19,6 @@ FIFA World Cup Jigsaw Puzzle is a game where you are presented with a total of t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Football, Fun, Funny, Jigsaw, Kids, Skill, Soccer, Sport, Sports
+- Tags: 1 Player, Football, Fun, Funny, Jigsaw, Kids, Skill, Soccer, Sport, sports

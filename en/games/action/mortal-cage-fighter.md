@@ -19,6 +19,6 @@ Fight your way to victory in this street fighter game. Punch or kick to attack. 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boxing, Fight, Fighting
+- Tags: Boxing, Fight, fighting

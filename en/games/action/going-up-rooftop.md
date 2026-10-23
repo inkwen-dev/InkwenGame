@@ -19,6 +19,6 @@ Going Up Rooftop is a 3D parkour adventure across the rooftops of a sprawling ci
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Adventure, Arcade, city, jump, Obstacle, running, Skill, Skills, Stunts, Unity3D

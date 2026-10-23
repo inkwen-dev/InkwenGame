@@ -19,6 +19,6 @@ This is 4 Cars game. Like other similar games, you have to gather flags and dodg
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Race, Racing

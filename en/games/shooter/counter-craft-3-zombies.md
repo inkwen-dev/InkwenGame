@@ -19,6 +19,6 @@ Counter Craft 3 Zombies features fun and action packed zombie shooting in minecr
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Arcade, Gun, Killing, Shoot, Shoot 'Em Up, Shooter, Shooting, Undead, Unity3D, WebGL, Zombie

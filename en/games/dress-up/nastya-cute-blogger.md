@@ -21,4 +21,4 @@ Cute Nastya is a very popular blogger. Her mom and dad help her make cool videos
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Celebrity, Crazy, Cute, Decorate, Decoration, Design, Dress Up, Family, Fashion, Fun, Funny, Girl, Girls, Hair, HTML5, Makeover, Princess
+- Tags: Baby, Celebrity, crazy, Cute, Decorate, Decoration, Design, Dress Up, Family, Fashion, Fun, Funny, Girl, Girls, Hair, HTML5, Makeover, Princess

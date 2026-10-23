@@ -19,6 +19,6 @@ The candy looks delicious! Want to own them! Can you pack some for me? As a cand
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Avoid, Casual, Kid, Kids, Puzzle, Relaxation

@@ -21,4 +21,4 @@ Christmas Puzzle With Santa is a cheerful jigsaw game full of holiday magic! Joi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Christmas, Hypercasual, Jigsaw, Kids, Puzzle, Santa, Santa Claus, Winter
+- Tags: block, Christmas, Hypercasual, Jigsaw, Kids, Puzzle, Santa, Santa Claus, Winter

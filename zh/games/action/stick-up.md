@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 动作, 街机, 无尽, 逃脱, 仅向上, 平台, Stickman, 生存
+- 标签: 单人, 动作, 街机, 无尽, 逃脱, OnlyUp, 平台, 木偶人, 生存

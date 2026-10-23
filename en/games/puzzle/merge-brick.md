@@ -21,4 +21,4 @@ Merge Brick is an engaging puzzle game where you combine blocks of the same type
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Casual, Logic, swipe
+- Tags: block, Casual, Logic, swipe

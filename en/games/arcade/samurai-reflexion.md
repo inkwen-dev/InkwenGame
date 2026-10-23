@@ -21,4 +21,4 @@ Welcome to the world of sword games, samurai games and ninja style. Samurai swor
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Ninja, Ninjago, Samurai, Sword
+- Tags: 1 Player, Arcade, ninja, Ninjago, Samurai, sword

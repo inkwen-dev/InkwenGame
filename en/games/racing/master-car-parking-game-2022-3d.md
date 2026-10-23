@@ -19,6 +19,6 @@ Welcome to Master Car Parking Game 2022 3D: This Master Car Parking Game 2022 3D
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Car, Driving, Parking, Road, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Car, Driving, parking, Road, Unity3D

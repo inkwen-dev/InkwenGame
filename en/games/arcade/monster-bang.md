@@ -21,4 +21,4 @@ Monster Bang is a fun addictive casual game. Bang the monster before they reach 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Click, Clicker, Fun, Halloween, Hypercasual, Monster
+- Tags: Arcade, Casual, Click, Clicker, Fun, Halloween, Hypercasual, monster

@@ -21,4 +21,4 @@ Lucky Looter is a cool 3D stealth game. This kind of game is a little bit diffic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Avoid, Boy, Boys, Collecting, Collection, H5, House, HTML, HTML5, Mobile, Police, Room, Stealth
+- Tags: 3D, 3D Games, Avoid, Boy, Boys, Collecting, Collection, H5, House, HTML, HTML5, Mobile, police, Room, Stealth

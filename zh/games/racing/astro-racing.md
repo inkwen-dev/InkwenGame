@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: AI游戏, mapi games, 竞速, 竞速, 复古, 太空
+- 标签: AI游戏, mapi games, 比赛, 竞速, 复古, 太空

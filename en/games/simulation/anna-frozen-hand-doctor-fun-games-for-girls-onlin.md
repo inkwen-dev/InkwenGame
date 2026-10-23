@@ -21,4 +21,4 @@ Anna Get pain on hand and need doctor because hurt hand so in this Anna hand doc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Baby, Cartoon, Cartoon Network, Doctor, Fun, Girl, Kids, Simulation, Surgery
+- Tags: Anime, Baby, Cartoon, Cartoon Network, Doctor, Fun, Girl, Kids, Simulation, surgery

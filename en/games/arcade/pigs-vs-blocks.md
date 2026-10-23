@@ -21,4 +21,4 @@ Pigs vs Blocks is an arcade game where you have to break the blocks with the hel
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Fun, Kids, Mobile, Puzzle
+- Tags: Arcade, block, Fun, Kids, Mobile, Puzzle

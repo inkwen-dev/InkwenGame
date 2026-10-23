@@ -19,6 +19,6 @@ In an endless game where the conveyor accelerates, you also need to accelerate a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Cake, Casual, Clicker, Food, Game, Highscore, HTML, HTML5, Hypercasual, Kid, Kids, Pixel, WebGL
+- Tags: 1 Player, 2D, Arcade, Cake, Casual, Clicker, Food, Game, Highscore, HTML, HTML5, Hypercasual, Kid, Kids, pixel, WebGL

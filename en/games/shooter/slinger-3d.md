@@ -21,4 +21,4 @@ A Wild West 3D Shooting Game As sheriff you have been assigned to protect a trai
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Mobile, Point And Click, Retro, Shoot, Shoot 'Em Up, Shooter, Shooting, Train, Unity3D, weapons, WebGL
+- Tags: 1 Player, 3D Games, Mobile, Point And Click, retro, Shoot, Shoot 'Em Up, Shooter, Shooting, Train, Unity3D, weapons, WebGL

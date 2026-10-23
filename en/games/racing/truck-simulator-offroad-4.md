@@ -21,4 +21,4 @@ ff-road challenges starting again! We are here with improved physic engine to gi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Car, Cars, drift, drifting, Driving, Parking, Race, Racing, Supercars
+- Tags: 3D, 3D Games, Car, Cars, drift, drifting, Driving, parking, Race, Racing, Supercars

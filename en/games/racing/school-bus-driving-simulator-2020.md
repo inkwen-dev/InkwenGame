@@ -21,4 +21,4 @@ Pick the school students from their home and drop school students to the school.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: bus, Parking, Racing, School
+- Tags: bus, parking, Racing, School

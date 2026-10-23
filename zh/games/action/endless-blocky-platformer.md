@@ -21,4 +21,4 @@ WASD 方向键 - 移动
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D 游戏, 安卓, 街机, 方块, 无尽, HTML5, 手机, 像素, 平台, Unity3D
+- 标签: 单人, 3D游戏, 安卓, 街机, 方块, 无尽, HTML5, 移动设备, 像素, 平台, Unity3D

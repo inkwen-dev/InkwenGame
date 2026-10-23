@@ -19,6 +19,6 @@ Are you ready for some magic spells? Potion Frenzy brings you one of the best wa
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Casual, Color, Coloring, endless, HTML, HTML5, Hypercasual, Matching, Puzzle

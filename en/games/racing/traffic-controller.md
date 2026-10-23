@@ -19,6 +19,6 @@ In each major metropolis there is a special service that deals with the regulati
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Fun, HTML5, Logic, Mobile, Skill, Traffic

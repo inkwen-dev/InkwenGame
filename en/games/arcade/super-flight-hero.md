@@ -21,4 +21,4 @@ Get ready to fly through the sky, face monsters and gain superpowers. Super Flig
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Casual, Flight, fly, Highscore, Mario, Mobile, Pixel, Retro
+- Tags: Adventure, Arcade, Casual, flight, fly, Highscore, mario, Mobile, pixel, retro

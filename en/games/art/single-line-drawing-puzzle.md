@@ -21,4 +21,4 @@ Challenge your mind and unleash your creativity with Single Line: Drawing Puzzle
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Drawing, intelligence, Logic, Puzzle
+- Tags: Brain, drawing, intelligence, Logic, Puzzle

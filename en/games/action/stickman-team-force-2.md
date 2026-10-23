@@ -21,4 +21,4 @@ A new Adventure begins in DobCorp Special ces called Stickman Team Force are rec
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Fight, Fighting, Gun, HTML, HTML5, Hypercasual, Kill, Killing, Puzzle, Stickman, Street Fighting
+- Tags: Action, Adventure, Arcade, Fight, fighting, Gun, HTML, HTML5, Hypercasual, Kill, Killing, Puzzle, stickman, Street Fighting

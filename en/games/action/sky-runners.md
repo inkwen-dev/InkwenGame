@@ -19,6 +19,6 @@ Play as different characters as you run, jump and avoid obstacles in stunning 3D
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adventure, amazing, Best Games, Cartoon, free games for your website, Fun, Funny, Obstacle, Platform, Play

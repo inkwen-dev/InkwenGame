@@ -21,4 +21,4 @@ Welcome to the exciting world of chicken tower defense! With the power of mergin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: angry, angrybirds, Animal, Battle, Chicken, Gun, Shoot, Shooting, Tower Defense, War
+- Tags: angry, angrybirds, Animal, battle, Chicken, Gun, Shoot, Shooting, Tower Defense, War

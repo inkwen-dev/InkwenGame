@@ -19,6 +19,6 @@ Minecraft Chicken Lava 2 is a fun and fiery spotting challenge where your missio
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Chicken, Minecraft

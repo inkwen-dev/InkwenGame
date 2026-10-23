@@ -19,6 +19,6 @@ Draw Couple is a drawing puzzle online game for boys for free, which has colorfu
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Boys, Drawing, Fun, HTML5, Kids, Online, Puzzle
+- Tags: 3D, Android, Boys, drawing, Fun, HTML5, Kids, Online, Puzzle

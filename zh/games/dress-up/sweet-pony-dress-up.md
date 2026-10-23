@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动物, 装饰, 装扮, 有趣, Game, 女孩, 马匹, HTML5, 小马
+- 标签: 动物, 装扮, 装扮, 有趣, 游戏, 女孩, horse, HTML5, 小马

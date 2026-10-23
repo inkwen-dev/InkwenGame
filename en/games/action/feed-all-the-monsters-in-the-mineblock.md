@@ -21,4 +21,4 @@ Feed all the monsters in the Mineblock World right now! Immerse yourself in the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Classic, Crazy, Fighting, Food, Horror, html5 games, Minecraft, Monster, Play, Sandbox, unity games, unity games for your site, unity games for your website
+- Tags: 2D, Classic, crazy, fighting, Food, Horror, html5 games, Minecraft, monster, Play, Sandbox, unity games, unity games for your site, unity games for your website

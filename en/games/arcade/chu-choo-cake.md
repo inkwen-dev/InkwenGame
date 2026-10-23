@@ -28,4 +28,4 @@ If you love cake, then you will want to help Chef Piggo to save his creations fr
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Cake, Funny, Retro
+- Tags: Arcade, Cake, Funny, retro

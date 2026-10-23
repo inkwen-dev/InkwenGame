@@ -19,6 +19,6 @@ In the game power rangers have to pass the obstacles inside the spaceship and co
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Cartoon, fly, Game, HTML5, Jumping, run, running
+- Tags: Action, Adventure, Arcade, Cartoon, fly, Game, HTML5, jumping, run, running

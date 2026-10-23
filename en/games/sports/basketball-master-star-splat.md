@@ -21,4 +21,4 @@ Grab a real 3D ball to start your dunking legend! Just dunk to see if you can be
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Game, Games, Sport, Sports
+- Tags: basketball, Game, Games, Sport, sports

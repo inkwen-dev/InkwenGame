@@ -19,6 +19,6 @@ Save the Pumpkin is a fun Halloween adventure game in which you must save the pu
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, HTML, HTML5, jump, Jumping, Online
+- Tags: Adventure, Arcade, HTML, HTML5, jump, jumping, Online

@@ -40,4 +40,4 @@ fans of Roblox Obby — this one’s even cooler!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing, obby
+- Tags: drawing, obby

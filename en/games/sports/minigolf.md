@@ -21,4 +21,4 @@ Play online Minigolf on any device, the game load on computers, tablets, and sma
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Golf, Sport
+- Tags: 1 Player, golf, Sport

@@ -19,6 +19,6 @@ Welcome to the jump world, where you can leap and fly. Today we have Andy's fact
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Action, Adventure, Arcade, Casual, endless, Game, Games, Hypercasual, Mario, Platform, run, running, subway, Subway Surfers, Super, Superhero
+- Tags: .io, Action, Adventure, Arcade, Casual, endless, Game, Games, Hypercasual, mario, Platform, run, running, subway, Subway Surfers, Super, Superhero

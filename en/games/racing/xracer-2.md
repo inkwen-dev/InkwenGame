@@ -19,6 +19,6 @@ X Racer 2 propels you into a thrilling 3D infinite racing universe where the pac
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, fly, Mentolatux, Obstacle, Race, Spaceship, Unity3D

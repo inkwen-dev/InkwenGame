@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 冒险, 方块, 建设, 手工, 制作, 矿井, mineblock, Minecraft, 矿工, 逼真, 世界
+- 标签: 3D, 冒险, 方块, 建造, 建造, 制作, 挖掘, mineblock, 我的世界, 矿工, 真实, 世界

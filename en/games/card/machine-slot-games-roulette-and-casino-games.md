@@ -21,4 +21,4 @@ Welcome to the #1
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casino, Casual, Puzzle, Quiz, Slot Machine
+- Tags: card, Casino, Casual, Puzzle, Quiz, Slot Machine

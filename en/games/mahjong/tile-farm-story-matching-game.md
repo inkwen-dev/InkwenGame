@@ -21,4 +21,4 @@ Are you tired of your dull daily routine? Discover the magical world of the remo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Bejeweled, Mahjong
+- Tags: Adventure, Bejeweled, mahjong

@@ -19,6 +19,6 @@ Angry Birds Go! Hidden Stars is a free online fun and hidden object game. Find o
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: angrybirds, Best, Cars, Fun, Funny, Hidden, Kart, Mobile, Skill

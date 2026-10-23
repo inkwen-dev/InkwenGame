@@ -19,6 +19,6 @@ Christmas Gifts is fun addictive hyper casual match 3 game.Christmas is round th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Funny, HTML5, Hypercasual, Match 3, Match3, Puzzle

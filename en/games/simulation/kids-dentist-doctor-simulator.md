@@ -19,6 +19,6 @@ Children's Dentist Doctor Games: Kids Teeth Games. Become a dentist and help you
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Baby, Casual, Doctor, Hypercasual, Kid, Kids, Puzzle, Simulation, Simulator

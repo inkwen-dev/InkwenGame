@@ -19,6 +19,6 @@ A simple block collapse game with unlimited number of levels. Complete a level b
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Candy, Christmas, HTML5, Matching, Mobile, Puzzle
+- Tags: Arcade, block, Candy, Christmas, HTML5, Matching, Mobile, Puzzle

@@ -19,6 +19,6 @@ Alien invasion has begun. The galaxy is under attack and only your strategy can 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: RPG, Tower Defense
+- Tags: rpg, Tower Defense

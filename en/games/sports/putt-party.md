@@ -23,4 +23,4 @@ Putt Party is a laid-back mini-golf puzzler with a bold retro-poster look. Line 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Golf, mini-golf, Sports
+- Tags: golf, mini-golf, sports

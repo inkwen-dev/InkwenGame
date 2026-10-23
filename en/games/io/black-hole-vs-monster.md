@@ -21,4 +21,4 @@ Black Hole is ready for battle against big monsters. Gather your army with your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Battle, Collecting, Skibidi, Skibidi Toilet, War
+- Tags: .io Games, battle, Collecting, Skibidi, skibidi-toilet, War

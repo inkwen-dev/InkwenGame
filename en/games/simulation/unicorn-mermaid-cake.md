@@ -21,4 +21,4 @@ Tons of realistic cooking tools to play with: oven, piping bags, spatula, bowls,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Cake, Cook, Cooking, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: 2D, Cake, Cook, Cooking, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

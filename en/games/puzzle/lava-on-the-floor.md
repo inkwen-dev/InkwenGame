@@ -21,4 +21,4 @@ Floor is Lava is a very fun and challenging game The aim of the game is simple, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fire, Fun, Funny, Game, Games, HTML, HTML5, jump, Jumping, Kid, Kids, Puzzle
+- Tags: Fire, Fun, Funny, Game, Games, HTML, HTML5, jump, jumping, Kid, Kids, Puzzle

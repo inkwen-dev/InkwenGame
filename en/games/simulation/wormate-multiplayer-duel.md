@@ -19,6 +19,6 @@ Wormate multiplayer duel is the original snake game with new Skins. choose your 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2 Player, Action, Hypercasual, Multiplayer, Simulation, Strategy, Worm, Worms
+- Tags: .io, .io Games, 2 Player, Action, Hypercasual, Multiplayer, Simulation, strategy, worm, Worms

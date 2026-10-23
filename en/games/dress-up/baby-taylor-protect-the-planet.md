@@ -21,4 +21,4 @@ Taylor and Jessica meet to go camping in the park, but the park's camp was full 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cleaning, Decorate, Dress Up, Educational, Girl, Girls, Kids, Makeover, Simulation
+- Tags: Cleaning, Decorate, Dress Up, educational, Girl, Girls, Kids, Makeover, Simulation

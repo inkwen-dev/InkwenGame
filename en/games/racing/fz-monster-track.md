@@ -21,4 +21,4 @@ FZ Monster Track - Race in style Hill Climb Racing, 60 more levels, 5 more big c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Cars, Race, Racing, Sports, Truck
+- Tags: Adventure, Cars, Race, Racing, sports, truck

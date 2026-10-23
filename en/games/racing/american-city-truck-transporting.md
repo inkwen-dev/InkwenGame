@@ -19,6 +19,6 @@ American City Truck Transporting by BestCrazyGames offers thrilling cargo delive
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Kids, Mentolatux, Simulator, transport, Truck, trucks, Unity3D, vehicle, WebGL
+- Tags: Driving, Kids, Mentolatux, Simulator, transport, truck, trucks, Unity3D, vehicle, WebGL

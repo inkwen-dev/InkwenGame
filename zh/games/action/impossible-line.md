@@ -21,4 +21,4 @@ Impossible Line 是一款解谜游戏，你需要跳跃过平台，收集硬币�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 躲避, 收集, 平台, 解谜
+- 标签: 躲避, 收集, 平台, 益智

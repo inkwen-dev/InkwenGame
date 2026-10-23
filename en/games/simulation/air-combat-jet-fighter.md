@@ -21,4 +21,4 @@ Get ready for adrenaline-pumping aerial battles in Air Combat: Jet Fighter. Take
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 3D, Air, Aircraft, Fight, firefighters, Flight, jet, military, Shooting, Simulation, War
+- Tags: 2026 games, 3D, Air, Aircraft, Fight, firefighters, flight, jet, military, Shooting, Simulation, War

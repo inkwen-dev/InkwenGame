@@ -19,6 +19,6 @@ Explore the enchanting realm of Merge Digital Circus within the exciting Merge T
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Android, Click, HTML5, iPad, iPhone, Mentolatux, Mobile, Skibidi, Skibidi Toilet
+- Tags: Action, Android, Click, HTML5, iPad, iPhone, Mentolatux, Mobile, Skibidi, skibidi-toilet

@@ -21,4 +21,4 @@ Minecraft Zombie Survial is an amazing and free to play online game belongs to s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Block, Boys, Hypercasual, Kids, Minecraft, Mobile, Puzzle, Skill
+- Tags: Android, Arcade, block, Boys, Hypercasual, Kids, Minecraft, Mobile, Puzzle, Skill

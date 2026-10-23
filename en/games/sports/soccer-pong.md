@@ -21,4 +21,4 @@ You have to hit the football ball into the opponent goal. Good luck!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Casual, Football, Soccer, Sports
+- Tags: Ball, Casual, Football, Soccer, sports

@@ -21,4 +21,4 @@ Police Car Drive is a fun driving game where you race through traffic. Collect c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Mobile, Police
+- Tags: Car, Cars, Mobile, police

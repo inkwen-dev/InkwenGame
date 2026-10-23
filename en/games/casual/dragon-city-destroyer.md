@@ -21,4 +21,4 @@ The scene of Dragon City Destroyer is all set for the new contesters of flying d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boy, city, Dragon, Fire, Flight, HTML5, WebGL
+- Tags: 3D, Boy, city, Dragon, Fire, flight, HTML5, WebGL

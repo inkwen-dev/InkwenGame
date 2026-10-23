@@ -31,4 +31,4 @@ Mafia Wars is an action-packed shooting game where you play as a cowboy vigilant
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Fighting, gta, Gun, Shooting, Strategy
+- Tags: fighting, gta, Gun, Shooting, strategy

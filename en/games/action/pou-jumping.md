@@ -19,6 +19,6 @@ Pou Jumping is fun jumping game suitable for all ages. Jump on floating platform
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Avoid, Boys, Collecting, Game, HTML5, jump, Jumping, Kids, Mobile, Platform, Pou, Skill
+- Tags: Android, Avoid, Boys, Collecting, Game, HTML5, jump, jumping, Kids, Mobile, Platform, Pou, Skill

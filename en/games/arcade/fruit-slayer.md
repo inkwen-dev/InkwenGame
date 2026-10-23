@@ -21,4 +21,4 @@ In Fruit Slayer, unleash your swift slicing skills as you take on the role of a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Fruits, Sword, Unity3D, WebGL
+- Tags: Adventure, Arcade, Fruits, sword, Unity3D, WebGL

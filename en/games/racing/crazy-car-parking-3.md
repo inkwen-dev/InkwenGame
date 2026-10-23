@@ -21,4 +21,4 @@ Crazy Car Parking 3d Game is the latest car drive parking and totally genuine of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D, 3D Games, Car, Cars, Casual, drift, drifting, Driving, Hot, Hypercasual, Parking, Race, Supercars
+- Tags: .io Games, 1 Player, 3D, 3D Games, Car, Cars, Casual, drift, drifting, Driving, Hot, Hypercasual, parking, Race, Supercars

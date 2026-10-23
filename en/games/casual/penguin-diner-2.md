@@ -21,4 +21,4 @@ This is a casual kitchen and restaurant game. Because Penny is not satisfied wit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Business, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Penguin, Restaurant, RPG
+- Tags: Business, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Penguin, restaurant, rpg

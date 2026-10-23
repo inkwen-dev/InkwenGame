@@ -21,4 +21,4 @@ You have to collect the coins for score and escape from enemies. You can turn pl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Collecting, Escape, jump, Jumping, Ninja, run, running
+- Tags: Collecting, Escape, jump, jumping, ninja, run, running

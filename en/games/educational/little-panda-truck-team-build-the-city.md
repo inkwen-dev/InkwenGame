@@ -21,4 +21,4 @@ Little Panda's truck Team is a very addictive game. In this game, you need to he
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, city, Educational, Fun, H5, HTML5, Kid, Kids, Truck
+- Tags: Animal, city, educational, Fun, H5, HTML5, Kid, Kids, truck

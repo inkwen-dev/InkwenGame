@@ -19,6 +19,6 @@ hero city game has a lot of success review and player this MONTH that significan
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Anime, Bubble Shooter, Interactive, Machine, Road, Shoot, Shoot 'Em Up, Shooter, Shooting

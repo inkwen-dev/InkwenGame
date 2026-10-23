@@ -21,4 +21,4 @@ Police Chase Car Driving Simulator game improves the car driving games skills in
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Boys, Car, Cars, Casual, city, drift, drifting, Driving, Fun, Game, Games, gta, Police, Race, Racing, Simulation, Simulator, Super, Supercars, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Boys, Car, Cars, Casual, city, drift, drifting, Driving, Fun, Game, Games, gta, police, Race, Racing, Simulation, Simulator, Super, Supercars, Unity3D

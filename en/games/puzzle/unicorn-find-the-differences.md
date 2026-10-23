@@ -21,4 +21,4 @@ Unicorn Find The Differences is a magical spot-the-difference game designed to t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Best Games, Difference, Hidden, Horse, Puzzle
+- Tags: 1 Player, Animal, Best Games, Difference, Hidden, horse, Puzzle

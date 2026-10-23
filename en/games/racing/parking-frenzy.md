@@ -21,4 +21,4 @@ Welcome to Parking Frenzy, the ultimate test of precision, planning, and timing!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, carparking, Parking
+- Tags: Car, carparking, parking

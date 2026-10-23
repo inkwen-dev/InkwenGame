@@ -19,6 +19,6 @@ Dress Up Match 3 is the ultimate fashion puzzle game where you match tiles to ge
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Collection, Dress Up, Fashion, free games for your site, Match 3, Puzzle

@@ -21,4 +21,4 @@ Get ready to make Olli fly in this addictive game. The lovable round elephant kn
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Boys, Fighting, Highscore, HTML5, Kids, Skills
+- Tags: Animal, Boys, fighting, Highscore, HTML5, Kids, Skills

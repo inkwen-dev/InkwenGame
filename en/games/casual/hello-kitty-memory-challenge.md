@@ -21,4 +21,4 @@ A great memory game for little girls, with Hello Kitty, the cute little white ca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Android, Fun, Game, Girls, Hello Kitty, HTML5, Kids, Memory
+- Tags: 1 Player, Android, Fun, Game, Girls, Hello Kitty, HTML5, Kids, memory

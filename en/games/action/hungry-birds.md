@@ -19,6 +19,6 @@ Hungry Bird is a nice game tap to fly up, and eat as many fruits as possible
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids

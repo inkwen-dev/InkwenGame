@@ -19,6 +19,6 @@ Do you have trouble with pimples? Come and join Pimple Pop Rush to enjoy squeezi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Boys, Fun, H5, HTML5, Kid, Kids, run, running

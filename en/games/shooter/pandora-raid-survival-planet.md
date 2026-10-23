@@ -21,4 +21,4 @@ Try to survive on the surface of an unfriendly planet until rescuers arrive. A f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, endless, Escape, Monster, Obstacle, Planet, Shoot, Shoot 'Em Up, Shooter, Shooting, Sword, Unity3D, weapons, WebGL
+- Tags: 1 Player, 3D, 3D Games, endless, Escape, monster, Obstacle, Planet, Shoot, Shoot 'Em Up, Shooter, Shooting, sword, Unity3D, weapons, WebGL

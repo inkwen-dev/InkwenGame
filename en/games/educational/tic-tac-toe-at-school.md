@@ -21,4 +21,4 @@ What could be better than being with your friends at school? A game that you wil
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, Brain, Educational, Funny, Kids
+- Tags: 2 Player Games, Brain, educational, Funny, Kids

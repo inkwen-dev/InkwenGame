@@ -21,4 +21,4 @@ Bus Driver Simulator 2019 is the first bus driving game that will teach you how 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, bus, Car, Cars, Collection, Creation, Decoration, Educational, Fashion, Interactive Fiction, Mario, Minion, Relaxation, Seduction, Sim, Simulation, Simulator, Supercars, Unity3D, Violence
+- Tags: .io, .io Games, 3D, 3D Games, Action, bus, Car, Cars, Collection, Creation, Decoration, educational, Fashion, Interactive Fiction, mario, Minion, Relaxation, Seduction, Sim, Simulation, Simulator, Supercars, Unity3D, Violence

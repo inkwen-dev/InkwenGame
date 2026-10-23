@@ -21,4 +21,4 @@ Impostor Ruun – it’s amazing and cool game in which you play as a Impostor w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Arcade, Bounce, Ninja, Skill, World
+- Tags: 1 Player, 2D, Action, Arcade, Bounce, ninja, Skill, World

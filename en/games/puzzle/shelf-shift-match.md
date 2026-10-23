@@ -19,6 +19,6 @@ Test your strategy and speed in Shelf Shift Match! Shift items on the shelves to
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: html5 games, Match-3, Matching, Mobile, Puzzle, sort, sorting
+- Tags: html5 games, Match 3, Matching, Mobile, Puzzle, sort, sorting

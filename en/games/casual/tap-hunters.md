@@ -27,4 +27,4 @@ Travel to new worlds to earn rewards, and grow stronger as you play. With each r
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, Hunting, Mobile, Monster
+- Tags: Clicker, hunting, Mobile, monster

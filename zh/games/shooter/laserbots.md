@@ -21,4 +21,4 @@ Laserbots 是一款等距视角的第三人称射击游戏，您将扮演一个�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, 动作, 竞技场, 防御, HTML5, 多人游戏, 玩家对战, 射手, 射击游戏, WebGL
+- 标签: 3D, 3D游戏, 动作, 竞技场, 防御, HTML5, 多人, PvP, 射击类, 射击, WebGL

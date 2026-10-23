@@ -19,6 +19,6 @@ Advance Car Parking Game Car Driver Simulator is the latest car drive parking an
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Best, bus, Car, Driving, Fun, Game, Parking, Racing, Truck
+- Tags: 1 Player, 3D, Best, bus, Car, Driving, Fun, Game, parking, Racing, truck

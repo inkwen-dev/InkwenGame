@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 卡通, Cartoon Network, 游戏类, 拼图, 在线, 益智
+- 标签: 街机, 卡通, 卡通频道, 网页游戏, 拼图, 在线, 益智

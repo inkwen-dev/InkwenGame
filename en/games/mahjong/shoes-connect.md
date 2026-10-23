@@ -21,4 +21,4 @@ Who likes onet puzzle games? Welcome to Shoes Connect Puzzle. Tap or Click to co
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Clicker, Mahjong, Puzzle
+- Tags: Casual, Clicker, mahjong, Puzzle

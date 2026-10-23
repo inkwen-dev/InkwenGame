@@ -21,4 +21,4 @@ Car parking game with realistic graphics. You have to get to the finish line wit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Android, Arcade, Boy, Boys, Car, Parking
+- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Android, Arcade, Boy, Boys, Car, parking

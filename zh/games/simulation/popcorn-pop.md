@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 休闲, 收集, 烹饪, 可爱, 高分, HTML, HTML5, 技巧, 技能
+- 标签: 休闲, 收集, 厨艺, 可爱, 高分, HTML, HTML5, 技巧, 技能

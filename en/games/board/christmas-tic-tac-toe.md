@@ -19,6 +19,6 @@ Christmas Tic Tac Toe is a festive twist on the classic game that brings the hol
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Casual, Hypercasual, Puzzle, Strategy
+- Tags: Board, Casual, Hypercasual, Puzzle, strategy

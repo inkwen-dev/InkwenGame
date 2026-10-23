@@ -19,6 +19,6 @@ Do you love cutting apples and beat the score? All you can do is download Knife 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Bow, Fruits, Hypercasual, Slicing

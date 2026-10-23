@@ -19,6 +19,6 @@ Hexa Stack Sort is a fun and engaging puzzle game that will put your brain to th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, hexa, Stack
+- Tags: block, hexa, Stack

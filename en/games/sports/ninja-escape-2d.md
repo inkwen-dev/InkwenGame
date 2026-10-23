@@ -19,6 +19,6 @@ Ninja Escape is an action-packed game where you dodge obstacles and jump across 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: endless, Escape, html5 games, Sport, unity, unity games, unity games for your site, unity games for your website, Unity3D, WebGL

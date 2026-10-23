@@ -21,4 +21,4 @@ Welcome to World of Tanks Blitz, where you will experience the thrill of a real 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Battlegrounds, Best, Fire, Kill, Mobile, Online, Shoot, Tank, Tanks, Timing, unity, War
+- Tags: 1 Player, Battlegrounds, Best, Fire, Kill, Mobile, Online, Shoot, Tank, tanks, Timing, unity, War

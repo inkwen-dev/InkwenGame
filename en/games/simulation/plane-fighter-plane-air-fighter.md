@@ -19,6 +19,6 @@ Fly new, faster military jets in the exciting airplane sim game,Modern Air Comba
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Air, Aircraft, Fight, Fighting, Plane, Simulation, Simulator, War
+- Tags: Air, Aircraft, Fight, fighting, Plane, Simulation, Simulator, War

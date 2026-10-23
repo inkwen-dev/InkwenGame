@@ -21,4 +21,4 @@ Welcome to the Stickman Run! Colorful game that will keep you on your toes till 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Color, Games, Online, run, running, Stickman, Sword
+- Tags: 3D, Color, Games, Online, run, running, stickman, sword

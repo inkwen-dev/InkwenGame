@@ -21,4 +21,4 @@ Nani Peleka Get pain on hand and need doctor because hurt hand so in this Nani P
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Anime, Cartoon, Cartoon Network, Disney, Doctor, Fun, Girls, Kids, Simulation, Surgery
+- Tags: .io Games, Anime, Cartoon, Cartoon Network, Disney, Doctor, Fun, Girls, Kids, Simulation, surgery

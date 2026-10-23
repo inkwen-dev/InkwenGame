@@ -19,6 +19,6 @@ Adventure of Time, a legendary adventure game, awaits you on a magnificent adven
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Cartoon, Cartoon Network, Platform

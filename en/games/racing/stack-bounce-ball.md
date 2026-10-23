@@ -19,6 +19,6 @@ Play Stack Bounce Ball game in your web browser for free at Superkidgames.com an
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Avoid, Ball, Best, Boy, Brain, Bridge, Car, Craft, Creation, Fun, Girl, Highscore, HTML, Logic, Logical, Mobile, Obstacle, Skill, Skills, Timing

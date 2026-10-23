@@ -19,6 +19,6 @@ Test your precision driving skills in challenging city parking missions. Navigat
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, carparking, city, Driving, Parking, Racing
+- Tags: 3D, Car, carparking, city, Driving, parking, Racing

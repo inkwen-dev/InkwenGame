@@ -21,4 +21,4 @@ Womens world cup is here and you find yourself in the elimination rounds. Win tr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Soccer, Sport, Sports
+- Tags: Soccer, Sport, sports

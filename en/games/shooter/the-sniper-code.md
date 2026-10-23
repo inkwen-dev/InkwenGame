@@ -19,6 +19,6 @@ The best sniper you've ever been sent on a mission. Complete the task according 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Shooting, Sniper
+- Tags: Shooting, sniper

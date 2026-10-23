@@ -19,6 +19,6 @@ Players need to fight with monsters to defend the peace of the city. The game's 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Game, Games, Google, H5, HTML5, Hypercasual, Kid, Kids, Monster, Play, Rescue, Skill, Skills, Violence
+- Tags: 3D Games, Game, Games, Google, H5, HTML5, Hypercasual, Kid, Kids, monster, Play, Rescue, Skill, Skills, Violence

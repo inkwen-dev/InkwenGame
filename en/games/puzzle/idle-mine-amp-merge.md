@@ -21,4 +21,4 @@ Dig into the mines and get deep discovering all the blocks that are underground,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Block, Casual, Clicker, Collecting, Hypercasual, Mine, Minecraft, Miner
+- Tags: 2D, block, Casual, Clicker, Collecting, Hypercasual, Mine, Minecraft, Miner

@@ -19,6 +19,6 @@ CueSoccer is a game that blends billiards precision with football rules. Aim car
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, Billiard, Football, Pool, Soccer, Sports
+- Tags: 1 Player, 2 Player, Billiard, Football, pool, Soccer, sports

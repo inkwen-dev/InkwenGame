@@ -19,6 +19,6 @@ MX OffRoad Mountain Bike is extreme descenders riding game! Enter the big world 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Bike, Boys, Crazy, Mobile, Race, Racing, Unity3D
+- Tags: Action, bike, Boys, crazy, Mobile, Race, Racing, Unity3D

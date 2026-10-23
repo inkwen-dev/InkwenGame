@@ -21,4 +21,4 @@ Cute Monsters Memory is a free online game from genre of memory and monster game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Memory, Mobile, Monster, Puzzle, Skill
+- Tags: HTML5, memory, Mobile, monster, Puzzle, Skill

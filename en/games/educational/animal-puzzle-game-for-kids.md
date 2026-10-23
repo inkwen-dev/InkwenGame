@@ -21,4 +21,4 @@ This animals puzzle game helps your kids develop their matching skills . It is a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Educational, Puzzle
+- Tags: Animal, Baby, educational, Puzzle

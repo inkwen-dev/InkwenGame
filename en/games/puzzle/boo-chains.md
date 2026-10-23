@@ -21,4 +21,4 @@ Link cute Halloween monsters with the same number or one apart and watch them bl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Family, Halloween, HTML5, mapi games, Matching, Mobile, Monster, Number, Puzzle, puzzleblock
+- Tags: Brain, Casual, Family, Halloween, HTML5, mapi games, Matching, Mobile, monster, Number, Puzzle, puzzleblock

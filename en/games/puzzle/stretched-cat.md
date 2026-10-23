@@ -19,6 +19,6 @@ In Stretched Cat game, which is a fun casual game, you have to take the cat that
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Animal, Best, Cartoon, Casual, Collection, Cool, Hypercasual, Kids, Mind, Mobile, Unity3D
+- Tags: 1 Player, 2D, Android, Animal, Best, Cartoon, Casual, Collection, cool, Hypercasual, Kids, Mind, Mobile, Unity3D

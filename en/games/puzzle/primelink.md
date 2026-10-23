@@ -21,4 +21,4 @@ Enter the world of numbers and logic with PrimeLink &mdash; a brainy and addicti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Halloween, Match-3, Math
+- Tags: educational, Halloween, Match 3, math

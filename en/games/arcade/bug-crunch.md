@@ -19,6 +19,6 @@ Something is crawling across the picnic blanket, and you are the shoe. Drag to m
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, destroy, Food, Kill, Skill

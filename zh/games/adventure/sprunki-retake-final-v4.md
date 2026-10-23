@@ -21,4 +21,4 @@ Sprunki 重制版：通往明星之路的专属配乐 灯光，摄像，行动�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Boxing, 音乐, Sprunki
+- 标签: Boxing, 音乐, 斯普朗基

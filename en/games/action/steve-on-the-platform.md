@@ -21,4 +21,4 @@ Steve on the platform is a very fun platform game! Try to escape from the sweet 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cute, Fun, Funny, Game, Games, Monster, Pixel, Platform
+- Tags: 1 Player, 2D, Adventure, Arcade, Cute, Fun, Funny, Game, Games, monster, pixel, Platform

@@ -21,4 +21,4 @@ BINGO Real 是一款 75 个球的游戏，您可以像真实游戏一样使用�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 棋盘, 卡片
+- 标签: 单人, 2D, 棋盘, 卡牌

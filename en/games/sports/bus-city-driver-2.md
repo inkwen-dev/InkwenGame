@@ -21,4 +21,4 @@ Modern Bus Parking: Bus Driving Games Ready to play Luxury Bus Parking Simulator
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Adventure, Arcade, Baseball, Basketball, bus, Car, Cars, Casino, Castle, Casual, Christmas, Ladybug, Race, Racing, Road, Samurai, Simulation, Simulator, Supercars, Truck
+- Tags: Adult, Adventure, Arcade, baseball, basketball, bus, Car, Cars, Casino, Castle, Casual, Christmas, Ladybug, Race, Racing, Road, Samurai, Simulation, Simulator, Supercars, truck

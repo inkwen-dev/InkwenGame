@@ -21,4 +21,4 @@ Want to dress up little girls favorite cartoon hero Monster High dolls? You can 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Dress Up, Fashion, Fun, Game, Girl, Girls, Magic, Monster
+- Tags: Cartoon, Dress Up, Fashion, Fun, Game, Girl, Girls, Magic, monster

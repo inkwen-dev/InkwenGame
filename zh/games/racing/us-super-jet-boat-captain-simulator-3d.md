@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 船, 男孩, 驾驶, HTML, HTML5, 赛车, 模拟, 模拟器, 超级
+- 标签: 船只, 男孩们, 驾驶, HTML, HTML5, 竞速, 模拟, 模拟器, 超级

@@ -19,6 +19,6 @@ Simplified classic Mahjong game with Xmas theme. You can eliminate pair of simil
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Christmas, HTML5, Mahjong, Matching, Mobile, Puzzle, Winter
+- Tags: Arcade, Christmas, HTML5, mahjong, Matching, Mobile, Puzzle, Winter

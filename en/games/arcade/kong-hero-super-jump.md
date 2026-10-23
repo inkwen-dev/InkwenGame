@@ -21,4 +21,4 @@ Run, jump, attack, explore. Cross the various dangers and reach the destination.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Animal, Arcade, jump, Jumping, Skill, Skills
+- Tags: Adventure, Animal, Arcade, jump, jumping, Skill, Skills

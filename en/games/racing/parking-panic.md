@@ -21,4 +21,4 @@ Test your logic in the puzzle game Parking Panic. Move cars, buses and trailers 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Escape, Games, HTML5, Logic, Parking, Puzzle, Racing, Traffic
+- Tags: Car, Escape, Games, HTML5, Logic, parking, Puzzle, Racing, Traffic

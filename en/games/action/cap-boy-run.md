@@ -15,6 +15,6 @@ Join Cap Boy on a high-speed adventure filled with tricky terrains and dynamic o
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: runner

@@ -21,4 +21,4 @@ It's time to start an afresh race. To merge the DNA of each component of your mo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Avoid, Collecting, Fun, Hypercasual, Monster, Obstacle, Platform, run, Skill
+- Tags: 3D, 3D Games, Avoid, Collecting, Fun, Hypercasual, monster, Obstacle, Platform, run, Skill

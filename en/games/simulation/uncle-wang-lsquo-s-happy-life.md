@@ -21,4 +21,4 @@ Step into the heart of rural China &mdash; where every day is a delicious advent
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Business, Classic, Collecting, Cooking, Educational, Farm, Food, Funny, health, Hypercasual, Relaxation, Restaurant, Retro
+- Tags: 1 Player, Business, Classic, Collecting, Cooking, educational, Farm, Food, Funny, health, Hypercasual, Relaxation, restaurant, retro

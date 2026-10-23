@@ -21,4 +21,4 @@ Spider Solitaire is a card game that uses two decks of cards. The more cards, th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Card, Game, Games, HTML, HTML5, Mobile, Online, Solitaire
+- Tags: 1 Player, card, Game, Games, HTML, HTML5, Mobile, Online, solitaire

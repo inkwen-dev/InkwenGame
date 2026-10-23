@@ -19,6 +19,6 @@ Control the frog into the chain of colored balls and shoot a blast to match thre
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, 3D, 3D Games, Adult, Adventure, Air, Avoid, Baseball, Basketball, Battlegrounds, Boxing, Bridge, Classic, Difference, Dragon Ball Z, drift, Driving, Girl, Girls, Kiz 10, kiz10, Punch, Puzzle
+- Tags: 2D, 3D, 3D Games, Adult, Adventure, Air, Avoid, baseball, basketball, Battlegrounds, Boxing, Bridge, Classic, Difference, Dragon Ball Z, drift, Driving, Girl, Girls, Kiz 10, kiz10, Punch, Puzzle

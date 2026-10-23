@@ -19,6 +19,6 @@ One Bullet to Grimace is a shooting game where the player needs to control a bul
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Grimace, Grimace Shake, HTML5, iPad, iPhone, Mentolatux, Mobile, Shoot, Shooting, Unity3D, WebGL

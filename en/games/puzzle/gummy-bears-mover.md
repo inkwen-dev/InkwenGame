@@ -19,6 +19,6 @@ Slide a row of bears horizontally or vertically to make a horizontal or vertical
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Candy, Girls, HTML5, Jelly, Match 3, Matching, Mobile, Puzzle

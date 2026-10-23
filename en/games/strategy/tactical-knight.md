@@ -19,6 +19,6 @@ Get ready for adventure with Tactical Knight, a fun and gripping knight game. Yo
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Cartoon, Casual, Hypercasual, Island, Knight, Mobile, Monster, Sword, Tower Defense
+- Tags: Action, Adventure, Arcade, Cartoon, Casual, Hypercasual, Island, knight, Mobile, monster, sword, Tower Defense

@@ -21,4 +21,4 @@ Ready to take on giant monsters and destroy everything in sight? In Monster Demo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, destroy, Lego, Monster
+- Tags: Car, destroy, Lego, monster

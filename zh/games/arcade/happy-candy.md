@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 动作, 冒险, Android, 街机, 点击, 移动设备, 怪物
+- 标签: 2D, 动作, 冒险, 安卓, 街机, 点击, 移动设备, monster

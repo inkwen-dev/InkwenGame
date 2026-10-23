@@ -21,4 +21,4 @@ Do you really think that living on a farm is all about riding the horses, playin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Road, Truck
+- Tags: Driving, Road, truck

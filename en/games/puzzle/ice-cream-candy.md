@@ -19,6 +19,6 @@ The ocean is full of cute candies and other garden creatures! In this classic Ma
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Candy, Fruit, Fruits, Hypercasual, Jewel, Match 3, Match3, Matching

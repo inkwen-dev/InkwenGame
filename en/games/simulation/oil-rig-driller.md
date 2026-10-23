@@ -21,4 +21,4 @@ Drill Tycoon is a top-down idle tycoon set in a sun-baked desert oil field. Sink
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: idle, Management, tycoon
+- Tags: idle, management, tycoon

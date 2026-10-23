@@ -21,4 +21,4 @@ WSDA 跳跃 空格键 喊叫 鼠标点击
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 球, 足球, 足球, 体育
+- 标签: 2D, 球, 橄榄球, 足球, 运动

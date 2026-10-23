@@ -21,4 +21,4 @@ The scientist decided to try his new invention and for this he called his faithf
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Animal, Arcade, Best, Bomb, Doctor, Hot, HTML, HTML5, jump, Jumping, run, running
+- Tags: Action, Adventure, Animal, Arcade, Best, Bomb, Doctor, Hot, HTML, HTML5, jump, jumping, run, running

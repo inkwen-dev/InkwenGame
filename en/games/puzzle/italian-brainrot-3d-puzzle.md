@@ -21,4 +21,4 @@ Italian Brainrot 3D Puzzle is a modern take on the classic jigsaw puzzle, featur
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Animal, Brain, Crazy, Puzzle, Sahur, Tung Tung Tung Sahur
+- Tags: 3D, 3D Games, Animal, Brain, crazy, Puzzle, Sahur, Tung Tung Tung Sahur

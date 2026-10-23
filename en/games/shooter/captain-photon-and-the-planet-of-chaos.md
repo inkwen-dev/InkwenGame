@@ -21,4 +21,4 @@ Captain Photon and the planet of chaos game plat it on iyigames.com. Join Captai
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Alien, Arcade, Army, Battle, Classic, Defense, Escape, HTML5, Shooting, Space, Spaceship, WebGL
+- Tags: Action, Adventure, Alien, Arcade, Army, battle, Classic, Defense, Escape, HTML5, Shooting, Space, Spaceship, WebGL

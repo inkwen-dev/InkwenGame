@@ -21,4 +21,4 @@ Winx Stella 想要去购物。在出门之前，她需要打扮得非常时尚�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 装扮, 时尚, 乐趣, 游戏, 游戏们, 女孩, HTML5
+- 标签: 装扮, 时尚, 有趣, 游戏, 网页游戏, 女孩, HTML5

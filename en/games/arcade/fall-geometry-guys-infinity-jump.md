@@ -21,4 +21,4 @@ endless jump game jump and collect the highest score awesome jumping game fallda
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Android, Arcade, jump, Jumping
+- Tags: 1 Player, 2D, Adventure, Android, Arcade, jump, jumping

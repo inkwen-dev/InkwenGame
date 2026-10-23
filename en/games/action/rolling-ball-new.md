@@ -21,4 +21,4 @@ Rolling Ball is an addictive running game. Avoid the obstacles (trees and rocks)
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Ball, Best, Holiday, jump, Jumping, Mobile, run, running
+- Tags: 3D, Ball, Best, Holiday, jump, jumping, Mobile, run, running

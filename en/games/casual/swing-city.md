@@ -21,4 +21,4 @@ Test your skills with Swing City! The physics based game where you swing across 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, city, endless, fly, Girls, HTML5, jump, Jumping, Kids, Mobile, Superhero
+- Tags: Boys, city, endless, fly, Girls, HTML5, jump, jumping, Kids, Mobile, Superhero

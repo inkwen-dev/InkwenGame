@@ -19,6 +19,6 @@ Get to the end of the track and try to collect as many money bills as possible a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Arcade, Casual, endless, Hypercasual, Interactive Fiction, Mobile

@@ -21,4 +21,4 @@ Shape up now! Tap the blocks to get it right position
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Block, Hypercasual, Puzzle
+- Tags: 3D, block, Hypercasual, Puzzle

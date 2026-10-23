@@ -21,4 +21,4 @@ Test your bat flying skill, collect all pumpkins and celebrate Halloween with Ba
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Animal, Casual, Click, Flight, Girl, Halloween, HTML5, Physics
+- Tags: 1 Player, 2D, Adventure, Animal, Casual, Click, flight, Girl, Halloween, HTML5, Physics

@@ -21,4 +21,4 @@ Your role is to go through every challenge Spidey have prepared for you! Some ma
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Best, Click, Clicker, H5, Hot, HTML5, jump, Jumping, New, Spiderman
+- Tags: Action, Best, Click, Clicker, H5, Hot, HTML5, jump, jumping, New, Spiderman

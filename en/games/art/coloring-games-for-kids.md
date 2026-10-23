@@ -19,6 +19,6 @@ Coloring Games For Kids is a very popular coloring game. If you like coloring ga
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Color, Coloring, Cute, Draw, Drawing, Fun, Girls, HTML5, Kids, Mobile
+- Tags: Animal, Color, Coloring, Cute, Draw, drawing, Fun, Girls, HTML5, Kids, Mobile

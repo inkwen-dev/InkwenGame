@@ -19,6 +19,6 @@ Play Legendary Warrior Goblin Rush and have fun, in this game you must make your
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Arcade, Battle, Boys, Cartoon, Defense, Fun, Girls, HTML, Kill, Monster, Puzzle, Skills
+- Tags: 2D, Action, Arcade, battle, Boys, Cartoon, Defense, Fun, Girls, HTML, Kill, monster, Puzzle, Skills

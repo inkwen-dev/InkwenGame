@@ -21,4 +21,4 @@ Welcome! It's the season for total destruction! This Demolition Derby is all abo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Arena, Battle, Car, Cars, Cool, Crazy, drift, Driving, HTML5, New, Race, Racing, Skill, Skills, Stunts, Supercars, Unity3D, WebGL
+- Tags: 1 Player, 3D, 3D Games, Action, Arena, battle, Car, Cars, cool, crazy, drift, Driving, HTML5, New, Race, Racing, Skill, Skills, Stunts, Supercars, Unity3D, WebGL

@@ -21,4 +21,4 @@ Simplified classic Mahjong game with Valentines theme. You can eliminate pair of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Board, Girl, HTML5, Love, Mahjong, Matching, Mobile, Puzzle
+- Tags: block, Board, Girl, HTML5, Love, mahjong, Matching, Mobile, Puzzle

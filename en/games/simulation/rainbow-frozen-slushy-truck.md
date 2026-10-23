@@ -21,4 +21,4 @@ Do you love Frosty Ice Drinks, Frozen Slushy Maker, and Frozen Snow Cones? Do yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cook, Cooking, Decorate, Decoration, Frozen, Fun, Girls, HTML5, Kids, Mobile, Truck
+- Tags: Cook, Cooking, Decorate, Decoration, Frozen, Fun, Girls, HTML5, Kids, Mobile, truck

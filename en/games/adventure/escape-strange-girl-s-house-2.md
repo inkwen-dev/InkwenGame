@@ -30,4 +30,4 @@ This is a classic first-person point and click adventure with atmospheric music,
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Brain, Escape, hidden-object, Horror, Point And Click, RPG, story
+- Tags: Adventure, Brain, Escape, hidden-object, Horror, Point And Click, rpg, story

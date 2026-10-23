@@ -19,6 +19,6 @@ All you have to do is get as far as you can, but watch out for the crates and ex
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Casual, Click, endless, Game, Highscore, jump, Jumping, Obstacle, Penguin, Platform, Play, Side Scrolling, unity
+- Tags: 2D, Casual, Click, endless, Game, Highscore, jump, jumping, Obstacle, Penguin, Platform, Play, Side Scrolling, unity

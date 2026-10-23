@@ -19,6 +19,6 @@ US Army Drone Attack Mission has all the combat missions that will lead to secur
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Aircraft, Arena, Army, Battle, Driving, Fantasy, Shooter, Tank
+- Tags: Adventure, Aircraft, Arena, Army, battle, Driving, Fantasy, Shooter, Tank

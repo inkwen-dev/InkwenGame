@@ -21,4 +21,4 @@ Conquer Castle is a simple and fun puzzle game. You can click on the opponent's 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Battle, Boy, Collection, Girl, Kid, Mobile, Puzzle, Skill, Tower Defense
+- Tags: 3D, battle, Boy, Collection, Girl, Kid, Mobile, Puzzle, Skill, Tower Defense

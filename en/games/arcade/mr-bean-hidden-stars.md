@@ -19,6 +19,6 @@ Play Mr. Bean Hidden Stars game online and for free. Find out the hidden stars i
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Best, Best Games, Cartoon, Casual, Fun, Funny, Hidden, Kids, Mobile, Skill

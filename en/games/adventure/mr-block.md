@@ -21,4 +21,4 @@ You start the game as a blue square box. you are moving on a wire. You will try 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Block, Casual, jump, Jumping, Red
+- Tags: 2D, Adventure, block, Casual, jump, jumping, Red

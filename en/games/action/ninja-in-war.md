@@ -21,4 +21,4 @@ This is one kind of platform game where you as ninja need to fight against other
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping, Ninja, Platform, War
+- Tags: jumping, ninja, Platform, War

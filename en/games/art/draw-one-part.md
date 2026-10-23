@@ -19,6 +19,6 @@ DOP: Draw One Part- fun and tricky game, which refresh your mind and put a smile
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Draw, Drawing, Hypercasual, Puzzle
+- Tags: 3D Games, Draw, drawing, Hypercasual, Puzzle

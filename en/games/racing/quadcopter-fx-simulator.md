@@ -19,6 +19,6 @@ Here is a helicopter driving simulation game. You can experience pizza-quadcopte
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Driving, Helicopter, Mobile, Parking, Simulation, Unity3D
+- Tags: 3D, Action, Driving, helicopter, Mobile, parking, Simulation, Unity3D

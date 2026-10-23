@@ -22,4 +22,4 @@ Guide a green-black voxel snake inside a rotatable cube. Spin both snake and cub
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Mobile, Snake
+- Tags: 3D, Mobile, snake

@@ -21,4 +21,4 @@ Glitch Dash is a first-person game in which you have to dodge obstacles in order
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Collecting, Hypercasual, jump, Jumping, Puzzle, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Collecting, Hypercasual, jump, jumping, Puzzle, Unity3D

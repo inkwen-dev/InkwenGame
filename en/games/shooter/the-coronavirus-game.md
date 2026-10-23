@@ -19,6 +19,6 @@ A fun game in which you will have to eliminate the virus with the vaccine quickl
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Clicker, Defense, Highscore, Pixel, Shooting
+- Tags: 1 Player, Clicker, Defense, Highscore, pixel, Shooting

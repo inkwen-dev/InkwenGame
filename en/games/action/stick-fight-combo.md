@@ -21,4 +21,4 @@ Stick Fight Combo: Let you relive the classic arcade fighting game! It is a side
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Battle, Boys, Clash, Collecting, Obstacle, Stickman
+- Tags: 1 Player, 2D, Action, Adventure, battle, Boys, Clash, Collecting, Obstacle, stickman

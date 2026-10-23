@@ -19,6 +19,6 @@ This art draw fan game is just a simple coloring book of red cartoon. Just choos
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Color, Coloring, Disney, Draw, Drawing, Educational, Girl, Girls, Kid, Kids, Red
+- Tags: Cartoon, Color, Coloring, Disney, Draw, drawing, educational, Girl, Girls, Kid, Kids, Red

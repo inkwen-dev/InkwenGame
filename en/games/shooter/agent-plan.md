@@ -21,4 +21,4 @@ The game is a very exciting shooting game. In the game, the player will control 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Action, Alien, Battle, Battlegrounds, Bomb, Fighting, H5, Shoot 'Em Up
+- Tags: 1 Player, 3D Games, Action, Alien, battle, Battlegrounds, Bomb, fighting, H5, Shoot 'Em Up

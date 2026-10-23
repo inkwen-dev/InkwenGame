@@ -21,4 +21,4 @@ It is a very simple puzzle game :) shooting color and make correct answer. simpl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Battle, Bow, Color, Coloring, Relaxation, Stickman
+- Tags: Ball, battle, Bow, Color, Coloring, Relaxation, stickman

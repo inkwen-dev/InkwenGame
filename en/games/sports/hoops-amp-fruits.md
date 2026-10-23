@@ -19,6 +19,6 @@ Get ready for a slam dunk of fun with Hoops &amp; Fruits, the ultimate basketbal
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, endless, HTML, HTML5, Online

@@ -19,6 +19,6 @@ Let's our lovely princesses Emma, Mia and Clara decide to make the new trends in
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fantasy, Girl, Girls

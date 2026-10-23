@@ -19,6 +19,6 @@ Things are getting even tougher in the second part of the series, so are you up 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Action, Adventure, Alien, Arcade, Battle, Minecraft, Pixel
+- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Action, Adventure, Alien, Arcade, battle, Minecraft, pixel

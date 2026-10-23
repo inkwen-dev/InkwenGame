@@ -21,4 +21,4 @@ Truck Deliver 3D is a cool 3D truck driving game, you need to drive your truck t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Avoid, Boys, Car, Hypercasual, Kid, Physics, Simulator, Truck
+- Tags: 3D, Arcade, Avoid, Boys, Car, Hypercasual, Kid, Physics, Simulator, truck

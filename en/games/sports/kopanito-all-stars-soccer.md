@@ -21,4 +21,4 @@ Control in the game "Football Heads" on the computer is carried out using the ar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Ball, Ballon, Football, HTML, HTML5, Shoot, Shooting, Sport, Sports, Unity3D, World
+- Tags: 3D, 3D Games, Ball, Ballon, Football, HTML, HTML5, Shoot, Shooting, Sport, sports, Unity3D, World

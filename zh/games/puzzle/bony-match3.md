@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1人, 2D, 冒险, 糖果, 颜色, HTML5, 三消, 拼图
+- 标签: 单人, 2D, 冒险, 糖果, 颜色, HTML5, 三消游戏, 益智

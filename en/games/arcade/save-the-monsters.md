@@ -21,4 +21,4 @@ Save all of the hanging monsters before they run out of air. Use your bow and ar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Halloween, Monster, Puzzle
+- Tags: Halloween, monster, Puzzle

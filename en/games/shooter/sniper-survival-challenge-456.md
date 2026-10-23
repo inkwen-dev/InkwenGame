@@ -21,4 +21,4 @@ Squid Sniper Game it’s a new Shoot game, it’s a challenging game that makes 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, New, Shooter, Shooting, Sniper, Unity3D
+- Tags: 3D Games, New, Shooter, Shooting, sniper, Unity3D

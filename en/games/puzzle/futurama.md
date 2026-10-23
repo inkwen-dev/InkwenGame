@@ -19,6 +19,6 @@ Futurama is an American animated science fiction sitcom created by Matt Groening
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Brain, Cartoon, Memory, Puzzle
+- Tags: 1 Player, Brain, Cartoon, memory, Puzzle

@@ -19,6 +19,6 @@ In the heart of the notorious Squid Game Chamber, there is only one thing on Spr
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Horror, School, Sprunki, unity games

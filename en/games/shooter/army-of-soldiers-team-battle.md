@@ -19,6 +19,6 @@ You must lead your army and defeat the enemy ! Up to the victory !!! You are in 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Army, Battle, Puzzle, Shoot, Strategy, War, weapons
+- Tags: Adventure, Army, battle, Puzzle, Shoot, strategy, War, weapons

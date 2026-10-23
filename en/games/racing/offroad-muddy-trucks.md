@@ -21,4 +21,4 @@ Get ready to embark on a great adventure with huge trucks that have huge tires a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, Car, monstertruck, mountain, offroad, Race, Racing, Simulation, Simulator, Truck
+- Tags: 1 Player, 2 Player, Car, monstertruck, mountain, offroad, Race, Racing, Simulation, Simulator, truck

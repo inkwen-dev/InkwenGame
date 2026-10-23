@@ -19,6 +19,6 @@ Art Of Puzzle is a free jigsaw online puzzle game with beautiful pictures for bo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Animal, Boy, Brain, Fun, Games, HTML5, Jigsaw, Kids, Matching, Online, Puzzle, Relaxation

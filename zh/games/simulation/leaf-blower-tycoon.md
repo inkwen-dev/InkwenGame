@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, 街机, 巨头
+- 标签: 3D, 街机, 大亨

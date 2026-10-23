@@ -19,6 +19,6 @@ Ultimate Lightning McQueen is an exceptional course racing car with its own pers
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Disney, Race, Racing, Sport, Sports, Supercars
+- Tags: Disney, Race, Racing, Sport, sports, Supercars

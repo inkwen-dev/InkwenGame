@@ -21,4 +21,4 @@ Kid Maestro is funny music game where you can play piano. Follow the star and cl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kids, Music, Puzzle
+- Tags: Kids, music, Puzzle

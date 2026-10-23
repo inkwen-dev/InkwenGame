@@ -21,4 +21,4 @@ You are locked in a maze with the other matchmakers. The game has two modes. The
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Avoid, Casual, Collecting, Game, Games, Hidden, Kid, Kids, Puzzle, Stickman
+- Tags: 3D, 3D Games, Avoid, Casual, Collecting, Game, Games, Hidden, Kid, Kids, Puzzle, stickman

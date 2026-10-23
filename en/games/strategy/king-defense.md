@@ -19,6 +19,6 @@ Time to play, soldier! Want a quick and exciting tower defense battle? It will s
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Shooting, Tower Defense

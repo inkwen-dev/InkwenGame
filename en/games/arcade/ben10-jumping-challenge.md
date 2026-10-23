@@ -21,4 +21,4 @@ Ben 10 Endless Jumping is an online game that you can play for free. Ben 10 Jump
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Avoid, Ben 10, Boys, Cartoon, Collecting, Girls, HTML5, Hypercasual, Jumping, Kids, Skill
+- Tags: Android, Arcade, Avoid, Ben 10, Boys, Cartoon, Collecting, Girls, HTML5, Hypercasual, jumping, Kids, Skill

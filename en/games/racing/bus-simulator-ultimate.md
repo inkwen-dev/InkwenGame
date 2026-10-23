@@ -21,4 +21,4 @@ Bus Simulator Ultimate is the first coach driving game that will teach you to dr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, bus, drifting, Driving, Parking, Sim, Simulation, Simulator, Stunts
+- Tags: Android, bus, drifting, Driving, parking, Sim, Simulation, Simulator, Stunts

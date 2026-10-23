@@ -19,6 +19,6 @@ Enter a brutal wasteland battlefield in Tank Strike: Wasteland Rogue. Youre stra
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Tank, War
+- Tags: Action, battle, Tank, War

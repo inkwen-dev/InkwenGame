@@ -21,4 +21,4 @@ Reversi (Othello) in beautiful 3D — the classic strategy game where one move c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Board, Classic, Logic, Multiplayer, Strategy, two-player
+- Tags: 3D, Board, Classic, Logic, Multiplayer, strategy, two-player

@@ -19,6 +19,6 @@ The adorable Princess Elsa is respecting her cultures and also need some changes
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Alien, Baby, Barbie, Ben 10, Dora, Dress Up, Fashion, Girls, Hair, Makeover, Princess

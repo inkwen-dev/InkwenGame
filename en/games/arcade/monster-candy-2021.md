@@ -21,4 +21,4 @@ Monster Candy brings a new twist to your quest for puzzle adventure. Players beg
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Bird, Candy, Flight, fly
+- Tags: Adventure, Arcade, Bird, Candy, flight, fly

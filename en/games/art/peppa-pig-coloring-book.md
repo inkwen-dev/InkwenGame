@@ -19,6 +19,6 @@ Best game Peppa Pig Coloring Book for Lover Peppa Pig Coloring Book Peppa Pig Co
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Color, Coloring, Draw, Drawing, Game, Online
+- Tags: 2D, Color, Coloring, Draw, drawing, Game, Online

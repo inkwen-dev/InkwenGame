@@ -21,4 +21,4 @@ Bounce your way to victory! Take control of a bouncy ball in this fun and challe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, amazing, Ball, Casual, Escape, Fun, HTML5, jump, Jumping, Levels, Puzzle
+- Tags: 1 Player, 2D, Adventure, amazing, Ball, Casual, Escape, Fun, HTML5, jump, jumping, Levels, Puzzle

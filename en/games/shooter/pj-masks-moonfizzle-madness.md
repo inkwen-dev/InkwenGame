@@ -19,6 +19,6 @@ Moonfizzle Madness is the newest game to be added into the PJ Masks Games catego
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Anime, Bounce, Cartoon, Cartoon Network, Disney, HTML5, Kids, Shoot, Shooter, Shooting, Stack

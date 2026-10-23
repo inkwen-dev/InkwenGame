@@ -19,6 +19,6 @@ Goal Skibidi Goal is a fast-paced, physics-based soccer game where you control a
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Ball, Football, Fun, Game, Games, NapTech Games, Online, Ski, Skibidi, Skibidi Toilet, Sports
+- Tags: 2D, Arcade, Ball, Football, Fun, Game, Games, NapTech Games, Online, Ski, Skibidi, skibidi-toilet, sports

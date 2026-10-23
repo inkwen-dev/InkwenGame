@@ -19,6 +19,6 @@ This is an original online puzzle game made for free for kids. In this game, you
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Boy, Brain, Escape, Fun, HTML5, Kid, Online, Puzzle, running

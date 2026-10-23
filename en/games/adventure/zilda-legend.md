@@ -19,6 +19,6 @@ Zilda Legend is a role-playing adventure game in which you will play the hero li
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Ninja, RPG, run, Superhero
+- Tags: Adventure, ninja, rpg, run, Superhero

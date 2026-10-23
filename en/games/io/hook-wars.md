@@ -19,6 +19,6 @@ Hook Wars is an immersive 3D combat game where the main objective is to dodge ho
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, free games for your website, Online, onlinegames io

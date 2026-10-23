@@ -15,6 +15,6 @@ Become a cosmetic virtuoso in ASMR Stye Treatment. Start as a skilled surgeon, t
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Surgery
+- Tags: surgery

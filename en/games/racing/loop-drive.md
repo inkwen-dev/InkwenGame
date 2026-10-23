@@ -19,6 +19,6 @@ Loop Drive is a simple but challenging driving/racing game where all you have to
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Car, Cars, Puzzle, Race, Racing, Supercars, Traffic

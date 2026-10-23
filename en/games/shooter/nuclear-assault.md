@@ -19,6 +19,6 @@ Nuclear Assault is a Shoot 'em Up with all the essence of Arcades in the 90s! Eq
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Arcade, Bomb, Casual, HTML5, Pixel, Race, Road, Robot, Rocket, run, Shoot, Shoot 'Em Up, Shooter, Shooting, Tank, Tanks, Traffic, War, weapons
+- Tags: 1 Player, 2D, Action, Arcade, Bomb, Casual, HTML5, pixel, Race, Road, Robot, Rocket, run, Shoot, Shoot 'Em Up, Shooter, Shooting, Tank, tanks, Traffic, War, weapons

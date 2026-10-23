@@ -21,4 +21,4 @@ New free hexa jigsaw puzzle game every day - a Daily Free hexa jigsaw Puzzle and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Animal, Anime, Block, Board, Brain, Cat, Family, Jigsaw, Lego, Puzzle
+- Tags: .io Games, Animal, Anime, block, Board, Brain, Cat, Family, Jigsaw, Lego, Puzzle

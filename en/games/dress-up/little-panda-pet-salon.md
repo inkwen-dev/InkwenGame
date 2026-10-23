@@ -21,4 +21,4 @@ Have you ever wanted to dress your pooch in a funky outfit or paint your cat in 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cute, Educational, Fashion, Fun, Hair, HTML5, Kids, Makeover, Mobile, Nail, Panda
+- Tags: Animal, Cute, educational, Fashion, Fun, Hair, HTML5, Kids, Makeover, Mobile, Nail, Panda

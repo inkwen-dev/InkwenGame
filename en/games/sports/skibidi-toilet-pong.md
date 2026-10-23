@@ -21,4 +21,4 @@ Get ready to dive into the hilariously entertaining world of Skibidi Toilet Pong
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Arcade, HTML5, Kids, Skibidi, Skibidi Toilet, Skill, Sport
+- Tags: 2 Player, Arcade, HTML5, Kids, Skibidi, skibidi-toilet, Skill, Sport

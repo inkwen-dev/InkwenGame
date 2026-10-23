@@ -19,6 +19,6 @@ Play the world championship or a simle 8 stone curlout,. You can also play again
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, HTML5, Sports
+- Tags: 2 Player Games, HTML5, sports

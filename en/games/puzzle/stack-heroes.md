@@ -19,6 +19,6 @@ This is a game with flying heroes. Stack the heroes in a line or in a row of thr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Kids, Match 3, Matching, Puzzle, Stack, Superhero

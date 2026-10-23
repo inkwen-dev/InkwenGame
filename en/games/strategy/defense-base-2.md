@@ -19,6 +19,6 @@ Defense Base 2 is an action-packed base defense game! Protect your stronghold fr
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, 2026 games, 2D, Action, attack, Best, Best Games, Defense, Shooting, Strategy, survival, Tower Defense, weapons
+- Tags: 1 Player, 2025 games, 2026 games, 2D, Action, attack, Best, Best Games, Defense, Shooting, strategy, survival, Tower Defense, weapons

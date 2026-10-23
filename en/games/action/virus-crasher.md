@@ -21,4 +21,4 @@ Virus Crasher is a fun game! Help the monster survive, destroy various mutated v
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Avoid, Best, Clicker, Fun, HTML5, Monster, Skill
+- Tags: 1 Player, Action, Avoid, Best, Clicker, Fun, HTML5, monster, Skill

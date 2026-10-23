@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 色彩, 可爱, 乐趣, 匹配
+- 标签: 颜色, 可爱, 有趣, 匹配

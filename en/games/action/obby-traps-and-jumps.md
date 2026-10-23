@@ -19,6 +19,6 @@ Pc wasd mdash move space mdash jump shift mdash sprint r mdash restart right mou
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Casual, free games for your site, free games for your website, free html5 games for your website, Fun, games for your website, html games for your website, html5 games, Jumping, Platform, trap, WebGL
+- Tags: 1 Player, 3D, Casual, free games for your site, free games for your website, free html5 games for your website, Fun, games for your website, html games for your website, html5 games, jumping, Platform, trap, WebGL

@@ -19,6 +19,6 @@ Skydiver a fun sports game to play on. transiting from a high point in the atmos
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Casual, Flight, fly, Hypercasual, sky, Sport, Sports
+- Tags: Boy, Boys, Casual, flight, fly, Hypercasual, sky, Sport, sports

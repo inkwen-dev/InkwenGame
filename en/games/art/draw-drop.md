@@ -27,4 +27,4 @@ Dive into the thrilling universe of Draw & Drop, where creativity and skill coll
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Ball, Drawing, Mobile, Physics
+- Tags: Ball, drawing, Mobile, Physics

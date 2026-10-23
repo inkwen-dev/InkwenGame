@@ -19,6 +19,6 @@ dle Fall Balls is an addictive idle simulation game where balls of all kinds &md
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, Ball, Bounce, Casual, Clicker, idle, Physics, Relaxation, WebGL

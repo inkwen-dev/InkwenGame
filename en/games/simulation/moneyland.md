@@ -19,6 +19,6 @@ Moneyland is an island that is full of unlimited money and some buildings. Your 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Collecting, House, Mobile, Simulation, Stickman, Unity3D
+- Tags: 3D, Arcade, Collecting, House, Mobile, Simulation, stickman, Unity3D

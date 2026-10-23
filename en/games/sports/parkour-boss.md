@@ -21,4 +21,4 @@ Parkour Boss in an awesome 3D platformer game where you have to get from the sta
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, 3D, 3D Games, Action, Adventure, Boys, jump, Jumping, Minecraft, Platform, Sport
+- Tags: .io, 1 Player, 3D, 3D Games, Action, Adventure, Boys, jump, jumping, Minecraft, Platform, Sport

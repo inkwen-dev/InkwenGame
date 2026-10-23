@@ -21,4 +21,4 @@ Fall Boys：谁将获胜是一款最有趣的竞速游戏。最重要的是如�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 3D游戏, 赛车
+- 标签: .io 游戏, 3D游戏, 竞速

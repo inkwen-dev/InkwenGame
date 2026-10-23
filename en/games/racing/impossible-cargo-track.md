@@ -21,4 +21,4 @@ Impossible Cargo Track is the best truck driving game explored in year when the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Casual, Driving, Hypercasual, Racing, Truck
+- Tags: Adventure, Casual, Driving, Hypercasual, Racing, truck

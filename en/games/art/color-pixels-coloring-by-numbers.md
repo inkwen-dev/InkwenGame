@@ -28,4 +28,4 @@ Immerse yourself in a delightful realm of art and tranquility with Color Pixels 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Color, Drawing, Number
+- Tags: Color, drawing, Number

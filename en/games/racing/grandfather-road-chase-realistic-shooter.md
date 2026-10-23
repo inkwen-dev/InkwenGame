@@ -19,6 +19,6 @@ Your goal is to break away from the chase. But bad luck, you have a rather weak 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Arcade, Car, crash, Defense, First Person Shooter, gta, Helicopter, Hypercasual, Kill, Shooter, Shooting
+- Tags: 1 Player, 3D, Action, Arcade, Car, crash, Defense, First Person Shooter, gta, helicopter, Hypercasual, Kill, Shooter, Shooting

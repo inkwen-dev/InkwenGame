@@ -19,6 +19,6 @@ Bunny Theo and Fiona are very good friends. Theo is meeting his girlfriend in th
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Dating, Dress Up, Fun, Game, Girl, Girls, HTML5, Rabbit

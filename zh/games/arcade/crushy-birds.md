@@ -21,4 +21,4 @@ ChatGPT Crushy Birds 是一款引人入胜且节奏快速的浏览器游戏，�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 动作, 愤怒的小鸟, 动物, 街机, 鸟
+- 标签: 单人, 动作, 愤怒的小鸟, 动物, 街机, 小鸟

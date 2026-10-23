@@ -19,6 +19,6 @@ Parking Jam is a challenging puzzle game where you untangle a crowded parking lo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Baby Games, Car, car tuning, carparking, Cars, crazygamesunblocked, free games for your site, Hypercasual, Puzzle, puzzleblock, Supercars

@@ -19,6 +19,6 @@ You’re Santa and is the night of 24th December, you need to deliver as many gi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Christmas, Family, Flight, fly, HTML, HTML5, Kid, Kids, Mobile
+- Tags: Casual, Christmas, Family, flight, fly, HTML, HTML5, Kid, Kids, Mobile

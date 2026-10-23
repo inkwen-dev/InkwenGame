@@ -21,4 +21,4 @@ Move and stack up the tiles higher and higher on the maze. Try to avoid obstacle
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, 3D, Adventure, Arcade, Boy, Girl, jump, Jumping, Kids, Maze, Online
+- Tags: .io, 1 Player, 3D, Adventure, Arcade, Boy, Girl, jump, jumping, Kids, Maze, Online

@@ -19,6 +19,6 @@ Welcome to Five Nights at Talking Juans creepy &amp; scary place where you can t
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Holiday, Horror, House, Killing, Logic

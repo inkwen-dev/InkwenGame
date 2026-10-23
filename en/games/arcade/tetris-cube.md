@@ -19,6 +19,6 @@ Tetris cube is a HTML5 Arcade Game. Are you a nostalgic of the timeless Tetris? 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Arcade, Puzzle, Tetris
+- Tags: 1 Player, Action, Arcade, Puzzle, tetris

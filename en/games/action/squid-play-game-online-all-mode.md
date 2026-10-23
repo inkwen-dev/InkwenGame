@@ -21,4 +21,4 @@ Squid Game is a thrilling and fascinating 3D typical simulator game based upon p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Best, Crazy, HTML, HTML5, Mobile, run, running, Skills, Unity3D, WebGL
+- Tags: 1 Player, 3D Games, Best, crazy, HTML, HTML5, Mobile, run, running, Skills, Unity3D, WebGL

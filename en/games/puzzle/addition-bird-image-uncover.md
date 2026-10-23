@@ -21,4 +21,4 @@ In this game, a bird image is hidden beneath addition expression tiles. Players 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bird, Brain, Educational, html5 games, Jigsaw, Logical, Math, Mobile, Puzzle
+- Tags: Bird, Brain, educational, html5 games, Jigsaw, Logical, math, Mobile, Puzzle

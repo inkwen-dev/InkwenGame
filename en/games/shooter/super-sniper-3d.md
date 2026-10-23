@@ -21,4 +21,4 @@ At each level, several bandits are waiting for you, and in addition to the bandi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adult, Adventure, Gun, Hypercasual, Sniper, Super
+- Tags: Action, Adult, Adventure, Gun, Hypercasual, sniper, Super

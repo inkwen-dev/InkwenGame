@@ -19,6 +19,6 @@ Halloween is the spookiest time of the year. You can be anyone you want to be on
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Games, Girl, Girls, Halloween, Princess

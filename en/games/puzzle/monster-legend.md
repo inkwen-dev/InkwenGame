@@ -21,4 +21,4 @@ This is Monster Legend, an amazing Match3 game. Swipe to connect monsters of the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Candy, HTML, HTML5, Magic, Match 3, Mobile, Monster, Puzzle
+- Tags: Candy, HTML, HTML5, Magic, Match 3, Mobile, monster, Puzzle

@@ -21,4 +21,4 @@ Are you ready for the ultimate showdown between Trallero and Tung Tung Sahur? Ye
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Arena, Battle, Brainrot Italian, Italian Brainrot, Tung Tung, Tung Tung Tung Sahur
+- Tags: 2 Player, 2 Player Games, 2D, Arena, battle, Brainrot Italian, Italian Brainrot, Tung Tung, Tung Tung Tung Sahur

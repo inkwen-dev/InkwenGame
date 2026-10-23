@@ -19,6 +19,6 @@ The ultimate platformer game where agility, precision, and creativity come toget
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, Jumping, mineblock, Minecraft
+- Tags: 1 Player, block, jumping, mineblock, Minecraft

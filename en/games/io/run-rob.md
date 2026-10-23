@@ -19,6 +19,6 @@ Rob Runner is made with html5 technology, and it's available on PC and Mobile we
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, 2 Player, Anime, Arcade, Board, Bomb, Defense, Design, Dungeon, Fantasy, Farm, Fight, Fighting, Fire, Fun, Game, Games, Gun, H5, Halloween, Helicopter, HTML5, Kill, Killing, King, Kiz 10, Magic, Minecraft, MMO, Ninja, Ninjago, Pixel, Planet, Platform
+- Tags: .io, 1 Player, 2 Player, Anime, Arcade, Board, Bomb, Defense, Design, Dungeon, Fantasy, Farm, Fight, fighting, Fire, Fun, Game, Games, Gun, H5, Halloween, helicopter, HTML5, Kill, Killing, King, Kiz 10, Magic, Minecraft, MMO, ninja, Ninjago, pixel, Planet, Platform

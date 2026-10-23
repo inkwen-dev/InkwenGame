@@ -21,4 +21,4 @@ Super Doctor Bros Mano is a 2D adventure game where the player controls Bros, wh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Mario
+- Tags: 2D, mario

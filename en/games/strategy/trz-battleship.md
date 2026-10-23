@@ -19,6 +19,6 @@ TRZ Battleship is a free strategy and classic online game for boys played on a p
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Block, Boy, Brain, Fun, HTML5, Kids, Launch, Online, Puzzle, Strategy
+- Tags: 3D, Android, block, Boy, Brain, Fun, HTML5, Kids, Launch, Online, Puzzle, strategy

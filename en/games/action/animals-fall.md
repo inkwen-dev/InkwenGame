@@ -19,6 +19,6 @@ There is a Animals who fall with parashoot. But of course there is obstacles in 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Kids, Platform, Puzzle

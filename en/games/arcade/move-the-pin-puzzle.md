@@ -19,6 +19,6 @@ Move The Pin Puzzle is a game where you need to push back the pins to help the c
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Physics, Puzzle, Strategy
+- Tags: Arcade, Physics, Puzzle, strategy

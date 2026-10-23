@@ -21,4 +21,4 @@ Speedrun all the levels and share your score with your friends. Jump through blo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Adventure, jump, Jumping, Minecraft, Mobile
+- Tags: 1 Player, 3D, Adventure, jump, jumping, Minecraft, Mobile

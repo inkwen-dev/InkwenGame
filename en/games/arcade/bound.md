@@ -19,6 +19,6 @@ BOUND BOUND is a Hyper casual game with a minimalist design. Aim to hit the ball
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Clicker, Game, HTML5, Hypercasual, Pinball

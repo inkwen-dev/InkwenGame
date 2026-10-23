@@ -19,6 +19,6 @@ Welcome to Forest Monster Breaker! In this addictive physics-based arcade puzzle
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Ball, Forest, Monster
+- Tags: 2D, Ball, Forest, monster

@@ -21,4 +21,4 @@ In Mountain Man Climbing game you need to jump thru hills, Collect watches to ge
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Collecting, Jumping, Puzzle
+- Tags: Avoid, Collecting, jumping, Puzzle

@@ -21,4 +21,4 @@ Touch and pop all the Balloons that fall off the screen, but you wait that this 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Ball, Ballon, Basketball, Clicker, HTML, HTML5, Pool, Soccer, Sport, Sports, Tennis
+- Tags: 8 Ball Pool, Ball, Ballon, basketball, Clicker, HTML, HTML5, pool, Soccer, Sport, sports, Tennis

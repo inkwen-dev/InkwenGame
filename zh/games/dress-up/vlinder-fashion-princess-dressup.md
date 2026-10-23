@@ -21,4 +21,4 @@ Vlinder娃娃是您个人的时尚形象创建者和自定义表情符号制作�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, 单人游戏
+- 标签: .io, 单人

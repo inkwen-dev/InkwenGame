@@ -21,4 +21,4 @@ WASD- 移动 鼠标- 瞄准 四周查看 射击 Tab- 菜单 空格键- 跳跃
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 双人游戏, 最佳, 疯狂, 多人, 射手, 射击, Unity3D, WebGL, 僵尸
+- 标签: .io 游戏, 双人游戏, 最佳, 疯狂, 多人, 射击类, 射击, Unity3D, WebGL, 僵尸

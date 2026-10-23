@@ -21,4 +21,4 @@ In this Big Monster Trucks game you have 6 images of monster truck toys in three
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle, Truck
+- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle, truck

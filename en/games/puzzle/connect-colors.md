@@ -19,6 +19,6 @@ Play Connect Colors game online and for free. This is a game where you have to c
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Brain, Color, Fun, Kids, Logic, Skill

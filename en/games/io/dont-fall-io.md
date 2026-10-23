@@ -21,4 +21,4 @@ You compete with other players who will be the last to stay on the platform to b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Fun, jump, Jumping, Minecraft
+- Tags: Cartoon, Fun, jump, jumping, Minecraft

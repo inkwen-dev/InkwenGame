@@ -21,4 +21,4 @@ Try your brain skills with this great math game! Play this fun math game with an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Family, Kid, Math, Number, Puzzle
+- Tags: educational, Family, Kid, math, Number, Puzzle

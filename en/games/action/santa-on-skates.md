@@ -19,6 +19,6 @@ Santa on Skates is a cute arcade game. It has 20 awesome levels. In which you ha
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Christmas, Kids, Platform

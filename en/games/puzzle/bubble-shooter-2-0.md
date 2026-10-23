@@ -21,4 +21,4 @@ The goal of the game is to clear the playing field by forming groups of three or
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Block, Bubble, Bubble Shooter, Games
+- Tags: 1 Player, 2D, Adventure, Arcade, block, Bubble, Bubble Shooter, Games

@@ -21,4 +21,4 @@ Eliminate identical tiles in pairs in order to collect all tiles.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Board, Fun, HTML5, Mahjong, Matching, Mobile
+- Tags: Animal, Board, Fun, HTML5, mahjong, Matching, Mobile

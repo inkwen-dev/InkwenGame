@@ -19,6 +19,6 @@ Jelly can flow and jelly can crash. Empty your mind. Be formless, shapeless, lik
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Game, Jelly, Unity3D

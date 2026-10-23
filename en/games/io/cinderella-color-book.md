@@ -21,4 +21,4 @@ Cinderella coloring book: +50 cute Cinderella Images To Color For Kids, Awesome 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Color, Coloring, Dancing, Draw, Drawing, Online, Princess
+- Tags: .io Games, Color, Coloring, Dancing, Draw, drawing, Online, Princess

@@ -15,6 +15,6 @@ Master the exhilarating art of drifting on icy tracks in Drift King - Fast Froze
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: drifting

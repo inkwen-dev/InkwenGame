@@ -19,6 +19,6 @@ Wheel of Bingo has two parts. Part 1: Spin the wheel to match bingo numbers. Cho
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Brain, Casual, Classic, Cool, Highscore, Logic, New, Physics, Simulation, Skill
+- Tags: Ball, Brain, Casual, Classic, cool, Highscore, Logic, New, Physics, Simulation, Skill

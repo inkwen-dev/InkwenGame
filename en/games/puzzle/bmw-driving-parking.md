@@ -19,6 +19,6 @@ Are you ready for most realistic Bmw CAR game! More then race , park and car gam
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, 8 Ball Pool, Action, Bike, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, Game, Games, Simulation, Simulator, Supercars, Truck
+- Tags: 3D Games, 8 Ball Pool, Action, bike, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, Game, Games, Simulation, Simulator, Supercars, truck

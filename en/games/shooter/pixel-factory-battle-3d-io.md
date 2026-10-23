@@ -21,4 +21,4 @@ Pixel Factory Battle 3D is a Battle game that is exciting and fun, trying to win
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Pixel, Shoot, Shooting
+- Tags: 3D, pixel, Shoot, Shooting

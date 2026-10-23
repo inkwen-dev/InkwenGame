@@ -56,4 +56,4 @@ A: The music complements the game and makes it more dynamic, but it is not neces
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Snake
+- Tags: Arcade, snake

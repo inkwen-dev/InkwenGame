@@ -19,6 +19,6 @@ Zombie Frontier Shooter is an adrenaline-pumping experience filled with non-stop
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Avoid, Collecting, Gun, Helicopter, Simulation, Sniper, Zombie
+- Tags: 3D, Arcade, Avoid, Collecting, Gun, helicopter, Simulation, sniper, Zombie

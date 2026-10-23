@@ -21,4 +21,4 @@ The new challenge of Drunken Stickmans, spinning punches begins! Swing your fist
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Action, Battle, Boxing, Fight, Fighting, Stickman
+- Tags: 2 Player, 2 Player Games, Action, battle, Boxing, Fight, fighting, stickman

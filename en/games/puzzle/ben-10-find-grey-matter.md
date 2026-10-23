@@ -19,6 +19,6 @@ Ben 10 grey matter hiding. What omnitrix watch is it hiding in? Follow very well
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ben 10, Brain, Cartoon, Fun, Game, Guessing, HTML5, Puzzle

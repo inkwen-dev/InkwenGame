@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 动作, 点击, 枪械, HTML5, 跳跃, 跳跃, 移动, 新, 跑步, 武器, WebGL
+- 标签: 2D, 动作, 点击, 枪械, HTML5, 跳跃, 跳跃, 移动设备, 新游戏, 奔跑, 武器, WebGL

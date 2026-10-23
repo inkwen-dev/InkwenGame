@@ -15,6 +15,6 @@ Dive into Mahjong Butterflies Deluxe, where vibrant visuals and over 160 unique 
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Board

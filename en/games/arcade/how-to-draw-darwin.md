@@ -19,6 +19,6 @@ The Amazing World of Gumball: How to Draw Darwin is a turn-based drawing game. F
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Cartoon, Cartoon Network, Draw, Drawing, Game, Girl, Online
+- Tags: Arcade, Cartoon, Cartoon Network, Draw, drawing, Game, Girl, Online

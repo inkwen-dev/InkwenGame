@@ -19,6 +19,6 @@ How many guns do you know? Gun Fest is a gun-collecting arcade game. There are m
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Collecting, Gun, Mobile, Platform, WebGL

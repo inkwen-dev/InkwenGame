@@ -15,6 +15,6 @@ Heal an adorable puppy in Doc HoneyBerry Puppy Surgery! Embrace a veterinarian's
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: games-for-girls

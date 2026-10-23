@@ -19,6 +19,6 @@ Race or run rich it's new life simulation game, the run rich game teaching you h
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boy, Boys, Bubble Shooter, Car, Cars, Girl, Girls, Pool, Supercars, Unity3D
+- Tags: 3D, 3D Games, Boy, Boys, Bubble Shooter, Car, Cars, Girl, Girls, pool, Supercars, Unity3D

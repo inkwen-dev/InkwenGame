@@ -23,4 +23,4 @@ A relaxing yet challenging hypercasual game where you test your precision. Choos
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Drawing, Puzzle, Skill
+- Tags: Arcade, drawing, Puzzle, Skill

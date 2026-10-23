@@ -21,4 +21,4 @@ P1 A D 移动 W 跳跃 S 射门 P2 移动 跳跃 射门
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 足球, 体育, 运动
+- 标签: 2D, 橄榄球, 运动, 体育

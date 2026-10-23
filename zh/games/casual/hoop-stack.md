@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 颜色, 休闲, 堆叠
+- 标签: 3D, 颜色, 超休闲, 堆叠

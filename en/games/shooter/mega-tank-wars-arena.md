@@ -19,6 +19,6 @@ Tank Battle Arena is a game with various mods for tank combats. In "Classic" mod
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Multiplayer, Shooting, Tank, Tanks, War
+- Tags: battle, Multiplayer, Shooting, Tank, tanks, War

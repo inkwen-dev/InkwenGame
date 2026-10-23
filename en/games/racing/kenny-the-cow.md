@@ -21,4 +21,4 @@ Downhill skiing fun and mayhem in this great game! Avoid the obstacles, move up 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Game, Games, HTML, HTML5, Mobile, Sport, Sports
+- Tags: Arcade, Game, Games, HTML, HTML5, Mobile, Sport, sports

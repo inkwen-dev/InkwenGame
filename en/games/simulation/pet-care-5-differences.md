@@ -21,4 +21,4 @@ Tap the location where you spot the difference between 2 images
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Difference, Hidden, HTML5, Kids, Memory, Mobile, Puzzle
+- Tags: Difference, Hidden, HTML5, Kids, memory, Mobile, Puzzle

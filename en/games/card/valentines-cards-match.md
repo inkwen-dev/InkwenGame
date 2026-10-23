@@ -21,4 +21,4 @@ Click the cards to reveal a love icon . Memorize it so that you can match to sim
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Card, HTML, HTML5, Kids, Love, Memory, Mobile, Puzzle
+- Tags: Board, card, HTML, HTML5, Kids, Love, memory, Mobile, Puzzle

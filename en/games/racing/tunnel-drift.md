@@ -19,6 +19,6 @@ Tunnel Drift is an intense endless arcade racer where precision is key. Key Feat
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, Action, Race, survival

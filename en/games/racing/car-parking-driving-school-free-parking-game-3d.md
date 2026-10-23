@@ -21,4 +21,4 @@ Brace yourself to extreme car parking spots fun with the real challenging car pa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Car, Cars, Game, Games, HTML, HTML5, Parking
+- Tags: 3D Games, Car, Cars, Game, Games, HTML, HTML5, parking

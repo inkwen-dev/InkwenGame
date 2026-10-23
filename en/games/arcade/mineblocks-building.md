@@ -19,6 +19,6 @@ MineBlocks: Building is an immersive sandbox game where creativity knows no boun
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, build, building, Minecraft, Unity3D, WebGL
+- Tags: Arcade, block, build, building, Minecraft, Unity3D, WebGL

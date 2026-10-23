@@ -19,6 +19,6 @@ Street Fighter Online Game is a free to play fighting game full-of-fighting feat
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Fighting, Game, Games, HTML5, Street Fighting
+- Tags: Action, Arcade, fighting, Game, Games, HTML5, Street Fighting

@@ -21,4 +21,4 @@ Treasure Hunting Version is online! Just keep exploring and the prize await will
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Air, Anime, Best, Cartoon, Cartoon Network, Fight, Fighting, Plane, Shoot, Shooter, Shooting, sky, Space, Spaceship, Super
+- Tags: Air, Anime, Best, Cartoon, Cartoon Network, Fight, fighting, Plane, Shoot, Shooter, Shooting, sky, Space, Spaceship, Super

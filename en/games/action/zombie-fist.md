@@ -19,6 +19,6 @@ Step into a fast-paced 2D action world where you are the lone hero standing agai
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arena, Battle
+- Tags: Arena, battle

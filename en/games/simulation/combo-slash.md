@@ -21,4 +21,4 @@
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Avoid, Best, Bomb, Brain, Cute, Detective, Fun, Memory, Physics, Simulation
+- Tags: Adventure, Avoid, Best, Bomb, Brain, Cute, Detective, Fun, memory, Physics, Simulation

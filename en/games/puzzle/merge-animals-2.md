@@ -21,4 +21,4 @@ Merge Animals is a little Tower Defense game in which you will have to interact 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Helicopter
+- Tags: Action, Arcade, helicopter

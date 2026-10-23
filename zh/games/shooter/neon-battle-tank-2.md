@@ -21,4 +21,4 @@ WASD - 控制 左键或空格键 - 攻击
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 动作, 竞技场, 坦克, 坦克
+- 标签: 2D, 动作, 竞技场, 坦克, tanks

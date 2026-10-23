@@ -19,6 +19,6 @@ In the new online game Hide N Seek Challenge we invite you and other players fro
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Boys, Fun, Funny, HTML5, Kids, Mobile, Skill

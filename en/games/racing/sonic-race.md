@@ -19,6 +19,6 @@ Controlling Sonic Motorbike may not be easy, but it's extremely fun! Drive, jump
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Anime, Best, Race, Sport

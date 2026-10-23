@@ -21,4 +21,4 @@ Bus Shift: Parking Jam is a colorful and addictive parking puzzle game where eve
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, bus, Car, Casual, Logic, Parking, Puzzle, Traffic, vehicle
+- Tags: Brain, bus, Car, Casual, Logic, parking, Puzzle, Traffic, vehicle

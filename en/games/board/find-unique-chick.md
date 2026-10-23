@@ -19,6 +19,6 @@ This is a board puzzle game where you have to tap the unique Chick. All other Tr
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Difference, Easter, Hidden, HTML5, Kids, Memory, Mobile, Puzzle
+- Tags: Board, Difference, Easter, Hidden, HTML5, Kids, memory, Mobile, Puzzle

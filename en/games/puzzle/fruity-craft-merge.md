@@ -19,6 +19,6 @@ Fruity Craft Merge is a fun and relaxing merge game where you grow fruits from t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Craft, Food, Fruits, html5 games, html5 games for your site, Management, Matching, Puzzle, Relaxation
+- Tags: Casual, Craft, Food, Fruits, html5 games, html5 games for your site, management, Matching, Puzzle, Relaxation

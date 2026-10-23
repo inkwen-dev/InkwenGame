@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 跳跃, 儿童, 怪兽, 平台, 解谜
+- 标签: 跳跃, 儿童, monster, 平台, 益智

@@ -19,6 +19,6 @@ Welcome to the all cakes lovers and the cakes bakers! Hey Guys, do you like cake
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2 Player Games, 3D Games, 8 Ball Pool, Adult, Adventure, Arcade, Army, Baby, Baby Hazel, Balance, Ballon, Block, Blood, Collection, Color, Coloring, Fun, Funny, Game, Games, Girl, Girls, Halloween, Hello Kitty, Ladybug, Memory, Miraculous Ladybug
+- Tags: .io Games, 1 Player, 2 Player Games, 3D Games, 8 Ball Pool, Adult, Adventure, Arcade, Army, Baby, Baby Hazel, Balance, Ballon, block, Blood, Collection, Color, Coloring, Fun, Funny, Game, Games, Girl, Girls, Halloween, Hello Kitty, Ladybug, memory, Miraculous Ladybug

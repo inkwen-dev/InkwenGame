@@ -21,4 +21,4 @@ How about protecting your bed and destroying your friend&rsquo;s bed in Bedwars 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Battle, mineblock, Minecraft
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, battle, mineblock, Minecraft

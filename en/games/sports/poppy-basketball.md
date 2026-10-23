@@ -21,4 +21,4 @@ Poppy Basketball a fun sport game to play on. This is the game just to throw as 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Basketball, Family, HTML, HTML5, Kids, Mobile, Sport, Sports
+- Tags: Arcade, basketball, Family, HTML, HTML5, Kids, Mobile, Sport, sports

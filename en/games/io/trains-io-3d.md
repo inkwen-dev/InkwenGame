@@ -21,4 +21,4 @@ Trains.io 3D is slithering train game in 3d world. Become the grand trainin game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 3D, 3D Games, Action, Arcade, Arena, Avoid, Casual, Collecting, Cool, Crazy, Snake, Train
+- Tags: .io, .io Games, 1 Player, 3D, 3D Games, Action, Arcade, Arena, Avoid, Casual, Collecting, cool, crazy, snake, Train

@@ -21,4 +21,4 @@ Simulator Game Offline is aware that you have played many driving simulation gam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Battle, Fight, Fighting, Gun, monstertruck, Truck
+- Tags: Army, battle, Fight, fighting, Gun, monstertruck, truck

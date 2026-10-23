@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D 游戏, 最佳游戏, 游戏, 游戏们, 供您的网站使用的游戏, 移动设备, 单指, onlinegames io, 益智, puzzleblock, 触摸, 触屏
+- 标签: 3D游戏, 最佳游戏, 游戏, 网页游戏, 你的网站上的游戏, 移动设备, 单触, onlinegames io, 益智, 拼图块, 触控, 触摸屏

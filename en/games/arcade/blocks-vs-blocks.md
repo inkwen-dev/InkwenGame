@@ -19,6 +19,6 @@ Blocks Vs Blocks is a relaxing puzzle game. You just need to place the first squ
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Block, Casual, Game, Kid, Kids, Puzzle
+- Tags: 3D, 3D Games, Arcade, block, Casual, Game, Kid, Kids, Puzzle

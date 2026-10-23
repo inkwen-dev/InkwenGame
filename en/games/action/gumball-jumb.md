@@ -19,6 +19,6 @@ Gumball en a assez de faire la queue. Aide-le à récupérer la place qui lui re
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Alien, Dragon Ball Z, Gun, jump, Jumping, Penguin, running
+- Tags: Adventure, Alien, Dragon Ball Z, Gun, jump, jumping, Penguin, running

@@ -19,6 +19,6 @@ This is a great Puzzle game to challenge your brain, with more than 240 levels f
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Block, Brain, Bricks, Casual, HTML5, Hypercasual
+- Tags: 2D, block, Brain, Bricks, Casual, HTML5, Hypercasual

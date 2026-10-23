@@ -21,4 +21,4 @@ Space Prospector is a fun game where you have to fly on a jet device, search, co
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Flight, Gold, Rocket, Space
+- Tags: flight, Gold, Rocket, Space

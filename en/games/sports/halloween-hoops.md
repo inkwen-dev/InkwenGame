@@ -21,4 +21,4 @@ Scary game of hoops at the local graveyard playground. Watch out for zombie defe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Halloween, Monster, Shooting, Sports
+- Tags: basketball, Halloween, monster, Shooting, sports

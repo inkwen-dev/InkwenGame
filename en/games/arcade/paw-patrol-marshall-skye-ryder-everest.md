@@ -19,6 +19,6 @@ An exciting runner inspired by Paw Patrol. Players choose their favorite patrol 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Cat, Color, Crazy, Creation, Cute, Disney, Fall Boys, Funny, Game, jump, Kids, Minecraft, Point And Click
+- Tags: Cartoon, Cat, Color, crazy, Creation, Cute, Disney, Fall Boys, Funny, Game, jump, Kids, Minecraft, Point And Click

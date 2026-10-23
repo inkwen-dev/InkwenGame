@@ -19,6 +19,6 @@ Classic pixel-style graphics, retro horizontal gameplay, rich and interesting le
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Avoid, Boy, Brain, Girl, Kids, Mobile, Obstacle, Online, Pixel, Platform, Puzzle, Retro, Wizard
+- Tags: Adventure, Avoid, Boy, Brain, Girl, Kids, Mobile, Obstacle, Online, pixel, Platform, Puzzle, retro, Wizard

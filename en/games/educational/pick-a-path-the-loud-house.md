@@ -19,6 +19,6 @@ Play Pick-a-Path The Loud House Game online in your web browser and mobile at Su
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Boys, Brain, Cartoon, Family, Fun, Girls, HTML5, Kids, Mobile, Puzzle, Quiz, Skills

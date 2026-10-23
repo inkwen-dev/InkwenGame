@@ -19,6 +19,6 @@ Want to try driving a Formula 1 and win a few championships? Before you there wi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Avoid, Best, Collecting, Driving, Fun, Mobile, Race, Skill

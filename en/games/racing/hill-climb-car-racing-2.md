@@ -19,6 +19,6 @@ Face the challenges of unique hill climbing environments with many different car
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Car, Cars, Race, Racing, Sport

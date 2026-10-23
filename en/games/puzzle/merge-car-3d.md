@@ -19,6 +19,6 @@ Here is a merge-matching arcade game with 3D vehicles and animals. You can merge
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Animal, Battle, Car, Matching, Mobile
+- Tags: 3D, Animal, battle, Car, Matching, Mobile

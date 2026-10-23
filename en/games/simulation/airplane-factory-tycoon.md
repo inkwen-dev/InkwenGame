@@ -25,4 +25,4 @@ Build and expand your own aviation empire in Airplane Factory - Tycoon ! Start s
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: airplane, construction, idle, Management, Mobile, tycoon
+- Tags: airplane, construction, idle, management, Mobile, tycoon

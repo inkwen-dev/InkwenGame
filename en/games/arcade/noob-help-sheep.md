@@ -21,4 +21,4 @@ In a game filled with adventures, the noob has to protect the sheep. You must be
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, mineblock, Minecraft, Pixel
+- Tags: Adventure, Arcade, mineblock, Minecraft, pixel

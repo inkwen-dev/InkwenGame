@@ -21,4 +21,4 @@ Drag your finger to aim and launch a football player to kick the ball. Each matc
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Physics, Soccer, Sports
+- Tags: Physics, Soccer, sports

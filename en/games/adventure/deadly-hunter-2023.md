@@ -19,6 +19,6 @@ Tiger trapped your friends, you need to rescue your friends and then around the 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Funny, HTML5, Killing, WebGL

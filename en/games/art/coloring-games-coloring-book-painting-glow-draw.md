@@ -21,4 +21,4 @@ Kids love fun coloring games, and this Coloring Game is one of the best free col
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Cartoon, Cartoon Network, Color, Coloring, Draw, Drawing, Girl, Girls, Kid, Kids
+- Tags: Boy, Boys, Cartoon, Cartoon Network, Color, Coloring, Draw, drawing, Girl, Girls, Kid, Kids

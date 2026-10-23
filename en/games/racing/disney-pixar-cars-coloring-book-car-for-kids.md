@@ -21,4 +21,4 @@ This coloring book for any age contains tons of cars pictures, auto, vehicles, r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Car, Cars, Cartoon, Cartoon Network, Coloring, Drawing, Race, Sports
+- Tags: Anime, Car, Cars, Cartoon, Cartoon Network, Coloring, drawing, Race, sports

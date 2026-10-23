@@ -21,4 +21,4 @@ Card Memory Match
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Memory, Puzzle
+- Tags: card, memory, Puzzle

@@ -19,6 +19,6 @@ Valentines School Bus 3D Parking is super fun driving and parking game that you 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Boys, bus, Driving, Girls, HTML5, Hypercasual, Kids, Love, Mobile, Parking, Racing, Skill
+- Tags: 3D, Avoid, Boys, bus, Driving, Girls, HTML5, Hypercasual, Kids, Love, Mobile, parking, Racing, Skill

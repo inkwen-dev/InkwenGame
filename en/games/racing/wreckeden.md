@@ -19,6 +19,6 @@ wreckeden game has a lot of success review and player this MONTH that significan
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Car, Cars, Cartoon, Sport, Sports
+- Tags: 1 Player, Car, Cars, Cartoon, Sport, sports

@@ -21,4 +21,4 @@ Welcome to the car wash simulator game. The ultimate car cleaning and detailing 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Car, car tuning, carparking, Cars, city, Driving, Parking
+- Tags: Action, Adventure, Car, car tuning, carparking, Cars, city, Driving, parking

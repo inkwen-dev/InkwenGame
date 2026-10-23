@@ -19,6 +19,6 @@ Merge Blocks is an addictive puzzle game combining 2048 and match-3 mechanics. D
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2048, 3D, Logic, Relaxation

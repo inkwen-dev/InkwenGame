@@ -21,4 +21,4 @@ Hopnova is a fastpaced vertical adventure where every jump takes you closer to t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Cartoon, jump, Jumping, Monster, Platform
+- Tags: 1 Player, 2D, Arcade, Cartoon, jump, jumping, monster, Platform

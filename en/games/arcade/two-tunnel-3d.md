@@ -21,4 +21,4 @@ Two Tunnel 3D is an endless tunnel game consist of amazing gameplay and soundtra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Arcade, Collecting, Fun, Funny, Music, Point And Click
+- Tags: 2 Player, 2 Player Games, Arcade, Collecting, Fun, Funny, music, Point And Click

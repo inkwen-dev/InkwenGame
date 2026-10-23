@@ -15,6 +15,6 @@ Join two adorable teddy bears on a puzzle-filled journey! Test young minds as th
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Educational
+- Tags: educational

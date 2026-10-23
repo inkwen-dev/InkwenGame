@@ -21,4 +21,4 @@ Drive a selection of Awesome Vehicles, from Sedans through Sports Cars, Buses to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Basketball, Battlegrounds, Bow, Boy, Boys, bus, Car, Cars, Elsa, Game, Games, Kids, Minecraft, Parking, Simulation, Simulator, Stunts, Supercars, Truck, Unity3D
+- Tags: 3D, 3D Games, basketball, Battlegrounds, Bow, Boy, Boys, bus, Car, Cars, Elsa, Game, Games, Kids, Minecraft, parking, Simulation, Simulator, Stunts, Supercars, truck, Unity3D

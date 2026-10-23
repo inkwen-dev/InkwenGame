@@ -21,4 +21,4 @@ This is Monsters , an amazing Match3 game. Swipe to connect monsters of the same
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Candy, Fun, Funny, HTML5, Magic, Match 3, Match3, Monster, Puzzle
+- Tags: Candy, Fun, Funny, HTML5, Magic, Match 3, Match3, monster, Puzzle

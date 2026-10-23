@@ -19,6 +19,6 @@ Are you ready to challenge yourself? 2048 Cube Winner is an addictive merge puzz
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Fun, Math, Puzzle
+- Tags: 3D, Fun, math, Puzzle

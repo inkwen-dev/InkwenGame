@@ -19,6 +19,6 @@ Looking for an exciting and engaging game to play during Easter? Look no further
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Games, HTML5, Kid, Kids, Play, Timing

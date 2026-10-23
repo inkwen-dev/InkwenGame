@@ -21,4 +21,4 @@ ONE LINE ONLY, is a super fun game, easy to play but the increasing difficulty m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Casual, Educational, Family, Logic, Puzzle
+- Tags: Arcade, Brain, Casual, educational, Family, Logic, Puzzle

@@ -21,4 +21,4 @@ Snow Plow Inc. is a relaxing snow plowing game. Drive your orange plow truck thr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Casual, destroy, destruction, Relaxation, Simulator, Snow, Truck
+- Tags: 1 Player, 2026 games, Casual, destroy, destruction, Relaxation, Simulator, Snow, truck

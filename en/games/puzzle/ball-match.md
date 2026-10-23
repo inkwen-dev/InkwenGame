@@ -19,6 +19,6 @@ You can play the super ball match game online for free at y9-games.com! You will
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Funny, Kids, Matching, Puzzle, Skill

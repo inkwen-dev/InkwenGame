@@ -27,4 +27,4 @@ Do you love word games, brain teasers, and puzzle challenges? Get ready for a un
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Educational, words
+- Tags: educational, words

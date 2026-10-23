@@ -19,6 +19,6 @@ Mud Truck Driving is an exciting off-road truck simulator that challenges you to
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Best, Parking, Truck
+- Tags: Action, Adventure, Best, parking, truck

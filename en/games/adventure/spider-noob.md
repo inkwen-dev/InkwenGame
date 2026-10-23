@@ -19,6 +19,6 @@ How To Play? You’re a noob and you know how to throw nets, throw nets where yo
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Games, HTML5, Spiderman

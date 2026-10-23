@@ -19,6 +19,6 @@ Fall Guys Halloween Puzzle is an interesting jigsaw puzzle game for kids. There 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Baby, Boys, Game, Girls, Halloween, HTML5, Jigsaw, Kids, Puzzle, Skill

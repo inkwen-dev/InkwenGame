@@ -19,6 +19,6 @@ Bus Parking is a clean, skill-based driving challenge where you thread a long ci
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: bus, Driving, Mentolatux, Parking, unity, WebGL
+- Tags: bus, Driving, Mentolatux, parking, unity, WebGL

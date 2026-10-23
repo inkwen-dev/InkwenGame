@@ -21,4 +21,4 @@ Play classic checkers. Plan your moves and try to beat the computer or your oppo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, 3D Games, Brain, Casual, Educational, Family, Fun, Logic, Logical, Matching, Memory, Play
+- Tags: 2 Player, 2 Player Games, 3D, 3D Games, Brain, Casual, educational, Family, Fun, Logic, Logical, Matching, memory, Play

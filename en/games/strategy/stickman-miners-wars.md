@@ -34,4 +34,4 @@ Lead your stickman king to victory in Stickman Miners Wars, where strategic deci
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Stickman, Strategy, War
+- Tags: stickman, strategy, War

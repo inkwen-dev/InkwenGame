@@ -21,4 +21,4 @@ In the first-person action game American Block Sniper Online, set in the Minecra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: kiz10, mineblock, Shooting, Sniper
+- Tags: kiz10, mineblock, Shooting, sniper

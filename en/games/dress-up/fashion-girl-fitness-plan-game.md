@@ -19,6 +19,6 @@ Summer is coming! Adella wants to go to the beach on holiday. But she gained som
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dress Up, Fashion, Girls, Sports
+- Tags: Dress Up, Fashion, Girls, sports

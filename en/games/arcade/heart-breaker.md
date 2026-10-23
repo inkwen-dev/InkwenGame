@@ -19,6 +19,6 @@ Heart Breaker is a free online game that challenges players to break as many hea
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Crazy, Funny, HTML, HTML5, Love, Online, Puzzle
+- Tags: Adventure, Arcade, crazy, Funny, HTML, HTML5, Love, Online, Puzzle

@@ -21,4 +21,4 @@ Hyper Jumper Mr Jump is a free game suitable for all ages. In the arsenal of the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Dress Up, Jumping, Shoot 'Em Up
+- Tags: Arcade, Dress Up, jumping, Shoot 'Em Up

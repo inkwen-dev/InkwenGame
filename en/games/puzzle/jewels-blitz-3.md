@@ -19,6 +19,6 @@ The most popular puzzles were and are games with crystals, there are simply a hu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bomb, Candy, Fruit, Fruits, HTML, Hypercasual, Match 3, Match3, Matching, Puzzle, Shoot, Shooting

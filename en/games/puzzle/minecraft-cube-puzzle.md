@@ -21,4 +21,4 @@ Minecraft Cube Puzzle is a new game in the setting of Minecraft, in the puzzle g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Casual, Mine, Minecraft, Miner, Puzzle
+- Tags: block, Casual, Mine, Minecraft, Miner, Puzzle

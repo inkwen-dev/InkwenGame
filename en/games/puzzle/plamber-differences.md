@@ -21,4 +21,4 @@ Plumber Differences is a super fun and engaging spot-the-differences game inspir
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collecting, Difference, free html5 games for your website, Fun, Girls, Hypercasual, Mario, Skills
+- Tags: Collecting, Difference, free html5 games for your website, Fun, Girls, Hypercasual, mario, Skills

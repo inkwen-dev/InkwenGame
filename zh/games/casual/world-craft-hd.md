@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 手工, 手工, 游戏, Minecraft
+- 标签: 3D游戏, 建造, 制作, 网页游戏, 我的世界

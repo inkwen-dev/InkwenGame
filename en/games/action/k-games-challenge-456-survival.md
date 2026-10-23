@@ -21,4 +21,4 @@ Today I will provide you K-Games Challenge:456 Survival . K-Games Challenge:456 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Arcade, Fighting, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Arcade, fighting, Unity3D

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩, 益智, 有趣, 女生, 拼图, Labubu, 逻辑, 益智
+- 标签: 男孩们, 大脑, 有趣, 女孩, 拼图, Labubu, 逻辑, 益智

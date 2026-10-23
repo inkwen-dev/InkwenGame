@@ -21,4 +21,4 @@ Batman Coloring Book is cool coloring game for kids and adults. Play Batman Colo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Color, Coloring, Draw, Drawing, Educational, Puzzle, Red
+- Tags: Clicker, Color, Coloring, Draw, drawing, educational, Puzzle, Red

@@ -21,4 +21,4 @@ Christmas Lollipop is a 2D Christmas themed platformer where you have to collect
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Candy, Christmas, Collecting, jump, Jumping, Pixel, Platform, Retro, Snow, Winter
+- Tags: 1 Player, 2D, Adventure, Arcade, Candy, Christmas, Collecting, jump, jumping, pixel, Platform, retro, Snow, Winter

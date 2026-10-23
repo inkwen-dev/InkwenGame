@@ -19,6 +19,6 @@ Monster truck is here and need your skill to drive up in the sky. The stunts are
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Monster, Stunts, Truck
+- Tags: monster, Stunts, truck

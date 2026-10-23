@@ -15,6 +15,6 @@ Build a thriving farm on a desolate planet in Skivl Tycoon: Farm Magnat. Hire he
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Monster
+- Tags: monster

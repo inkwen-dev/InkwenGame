@@ -21,4 +21,4 @@ Darios Quest 2 is a 2D platformer where you have to collect all of the ice cream
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Boy, Cartoon, Collecting, Ice, jump, Jumping, Monster, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Boy, Cartoon, Collecting, Ice, jump, jumping, monster, pixel, Platform, retro

@@ -15,6 +15,6 @@ Feel the rush in Car Chase Parking as you dodge police cars at breakneck speeds.
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Driving

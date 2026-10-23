@@ -21,4 +21,4 @@ Skibidi Toilets are enjoying swimming in pool. Your mission is to move the tootb
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Skibidi Toilet
+- Tags: Best, skibidi-toilet

@@ -21,4 +21,4 @@ Dragon vs Mage is a free online action and running object game. Help Mage to esc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Battle, Casual, Dragon, Dragon Ball Z, Hypercasual, Wizard
+- Tags: Adventure, battle, Casual, Dragon, Dragon Ball Z, Hypercasual, Wizard

@@ -19,6 +19,6 @@ Remember back when you used to go to the arcade, put a quarter in, and spend a f
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Basketball, HTML5, Sport, WebGL
+- Tags: 3D, basketball, HTML5, Sport, WebGL

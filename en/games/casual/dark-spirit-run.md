@@ -19,6 +19,6 @@ Dark Spirit Run Run fast. Dodge death. Embrace the shadows. Step into the shadow
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Casual, Clicker, Ghost

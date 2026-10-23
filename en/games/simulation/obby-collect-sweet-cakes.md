@@ -19,6 +19,6 @@ Collect all the sweet cakes in this exciting game called Obby Collect Sweet Cake
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Adventure, amazing, Cake, Cook, Cooking, Cool, eating, Fun, Funny, Platform
+- Tags: .io, .io Games, 3D, 3D Games, Adventure, amazing, Cake, Cook, Cooking, cool, eating, Fun, Funny, Platform

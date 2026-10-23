@@ -19,6 +19,6 @@ Robo Escape - Speed Run game has a lot of success review and player this MONTH t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Bubble Shooter, Clash, Clicker, Interactive, Interactive Fiction, Point And Click, Robot, Shoot, Shoot 'Em Up, Shooter, Shooting, Space, Spaceship, Spiderman, Sport, Sports
+- Tags: Action, Bubble Shooter, Clash, Clicker, Interactive, Interactive Fiction, Point And Click, Robot, Shoot, Shoot 'Em Up, Shooter, Shooting, Space, Spaceship, Spiderman, Sport, sports

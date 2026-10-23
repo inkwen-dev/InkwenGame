@@ -21,4 +21,4 @@ Fun Halloween Memory is a free online game from genre of memory and halloween ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Fun, Halloween, Kids, Matching, Memory, Mobile, Skill
+- Tags: card, Fun, Halloween, Kids, Matching, memory, Mobile, Skill

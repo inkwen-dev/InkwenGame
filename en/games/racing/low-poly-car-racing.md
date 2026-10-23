@@ -19,6 +19,6 @@ This game is an 3d blocky racing 1 player and 2 player game, you can split scree
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Block, Pixel, Racing, Unity3D, WebGL
+- Tags: 2 Player, 2 Player Games, block, pixel, Racing, Unity3D, WebGL

@@ -19,6 +19,6 @@ Snowzo is a snowy platform game where there is an ice-cube moving over snowy pla
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Jumping, Platform, Snow
+- Tags: Clicker, jumping, Platform, Snow

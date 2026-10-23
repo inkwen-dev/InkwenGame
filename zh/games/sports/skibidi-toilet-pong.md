@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人, 街机, HTML5, 儿童, Skibidi, Skibidi 洗手间, 技巧, 体育
+- 标签: 双人, 街机, HTML5, 儿童, Skibidi, skibidi-toilet, 技巧, 运动

@@ -19,6 +19,6 @@ with our Plane War -Endless Missiles! game drive the super fighter and start the
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Bomb, Driving, Fight, Fighting, Plane, Simulator, War
+- Tags: Action, Adventure, Arcade, Bomb, Driving, Fight, fighting, Plane, Simulator, War

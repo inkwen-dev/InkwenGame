@@ -19,6 +19,6 @@ In this game you control Skibidi Toilet; so moving them around a world that revo
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Boy, HTML, Mobile, Physics, Puzzle, Skibidi, Skibidi Toilet
+- Tags: Adventure, Boy, HTML, Mobile, Physics, Puzzle, Skibidi, skibidi-toilet

@@ -19,6 +19,6 @@ Enjoy and play mini golf game in a cartoon style! Complete all 18 holes, and sig
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Golf, Sport, Sports
+- Tags: golf, Sport, sports

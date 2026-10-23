@@ -21,4 +21,4 @@ Play with 6 images in this perfect jigsaw puzzle game: Trucks Puzzle. All images
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Truck
+- Tags: Car, Cars, truck

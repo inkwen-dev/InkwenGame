@@ -21,4 +21,4 @@ Sky Emoji: Flutter is an enchanting mobile game that takes you on a whimsical jo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Bird, Jumping, Mobile
+- Tags: 1 Player, 2D, Adventure, Arcade, Bird, jumping, Mobile

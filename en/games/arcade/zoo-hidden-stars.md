@@ -19,6 +19,6 @@ Attractive and a very fun free online game from the ZOO animal games category. I
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Animal, Arcade, Boys, Collecting, Girls, Hidden, HTML5, Kids, Mobile, Skill

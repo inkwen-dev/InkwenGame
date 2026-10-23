@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: AI游戏, 街机, 弹珠, 免费HTML5游戏供您的网站使用, 超休闲, 跳躍, mapi games, 赛车
+- 标签: AI游戏, 街机, 球, 免费HTML5游戏供您的网站使用, 超休闲, 跳跃, mapi games, 竞速

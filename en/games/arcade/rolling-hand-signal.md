@@ -19,6 +19,6 @@ Aim and roll the ball containing the hand signal into the correct basket. Remove
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Balance, Ball, Physics

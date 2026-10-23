@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, HTML5, 小孩, 记忆, 移动设备, 怪物, 解谜
+- 标签: 街机, HTML5, 儿童, 记忆, 移动设备, monster, 益智

@@ -21,4 +21,4 @@ If you like classic brick breaking games, you will love this game. We have prepa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Ball, Block, Bricks, HTML5, Skills
+- Tags: 1 Player, 2D, Ball, block, Bricks, HTML5, Skills

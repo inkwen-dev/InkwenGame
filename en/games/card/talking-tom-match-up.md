@@ -19,6 +19,6 @@ Welcome to this amazing Cards memory game! Look carefully and remember cards! Ta
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Card, Clicker, Hot, Matching, Memory, Puzzle
+- Tags: Best, card, Clicker, Hot, Matching, memory, Puzzle

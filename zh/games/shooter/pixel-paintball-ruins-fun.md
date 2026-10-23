@@ -21,4 +21,4 @@ WASD - 移动 鼠标 - 射击瞄准环顾四周 切换枪支 空格键 - 跳跃 
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 多人游戏, 射击, Unity3D, WebGL
+- 标签: 动作, 多人, 射击, Unity3D, WebGL

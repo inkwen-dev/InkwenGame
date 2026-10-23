@@ -17,4 +17,4 @@ Test your typing finesse in Speed Typer, a thrilling word challenge where every 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Word
+- Tags: word

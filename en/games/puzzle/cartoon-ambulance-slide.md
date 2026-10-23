@@ -19,6 +19,6 @@ Play this slide puzzle games of the cartoon ambulance. It's include 3 images and
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Cartoon, HTML5, Jigsaw, Mobile

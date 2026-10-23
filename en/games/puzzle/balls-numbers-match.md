@@ -19,6 +19,6 @@ Can you shoot balls, merge them and reach 2048 ? This game is a mix of arcade an
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Brain, Bubble, Bubble Shooter, Casual, Number, Puzzle, Shoot

@@ -21,4 +21,4 @@ Sprunki 对战海盗是一款适合所有年龄段的精彩体育游戏。进入
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 篮球, mapi games, Sprunki
+- 标签: 篮球, mapi games, 斯普朗基

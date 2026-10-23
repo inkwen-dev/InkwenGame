@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 战斗, Mentolatux, 警察, 射击, 斯基比迪, 斯基比迪马桶, Unity3D, 战争, WebGL
+- 标签: 格斗, Mentolatux, 警察, 射击, Skibidi, skibidi-toilet, Unity3D, 战争, WebGL

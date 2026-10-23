@@ -19,6 +19,6 @@ Play Lunar Phase Battle, a simple turn-based strategy game! Connect moon phases 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, html5 games, Mobile, Puzzle, Space
+- Tags: educational, html5 games, Mobile, Puzzle, Space

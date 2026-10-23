@@ -21,4 +21,4 @@ WASD - 驾驶 Shift - 氮气加速
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 自行车, HTML5, 摩托, 摩托车, 竞速, 特技, WebGL
+- 标签: 3D, 自行车, HTML5, 摩托, 摩托车, 比赛, 特技, WebGL

@@ -21,4 +21,4 @@ Select your team and try to score as many goals as you can. Try to be the best f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Kids, Mobile, Shoot, Soccer, Sport, Sports
+- Tags: Football, Kids, Mobile, Shoot, Soccer, Sport, sports

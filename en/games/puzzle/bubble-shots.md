@@ -19,6 +19,6 @@ Bubble Shots is a classic arcade skill game where the objective is to shoot and 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, Candy, Fruit, Fruits, Match 3, Match3, Puzzle

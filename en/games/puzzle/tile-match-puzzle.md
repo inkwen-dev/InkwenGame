@@ -36,4 +36,4 @@ Test and improve your memory and pattern recognition skills with this fun and re
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mahjong, Match 3, popular, Puzzle
+- Tags: mahjong, Match 3, popular, Puzzle

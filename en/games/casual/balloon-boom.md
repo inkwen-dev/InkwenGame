@@ -19,6 +19,6 @@ Balloon Boom is an exciting color-matching arcade game where quick reflexes are 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ballon, Casual, Clicker, HTML5, html5 games, Hypercasual, NapTech Games

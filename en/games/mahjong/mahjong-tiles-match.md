@@ -21,4 +21,4 @@ Mahjong Puzzle Game is a relaxing and challenging tile-matching game inspired by
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Hypercasual, Mahjong, Puzzle
+- Tags: Brain, Hypercasual, mahjong, Puzzle

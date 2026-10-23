@@ -21,4 +21,4 @@ Bike Stunts Tricky Racing Rider Free 2020 PLAY THE WORLD BEST BIKE STUNT GAME
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Bike, Race, Racing, Road, Stunts
+- Tags: 3D Games, bike, Race, Racing, Road, Stunts

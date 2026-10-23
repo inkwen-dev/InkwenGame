@@ -19,6 +19,6 @@ Apocalypse Rush is a fast-paced survival game where you must defend your trailer
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, apocalypse, Best Games, Defense, Enemies, free games for your site, free games for your website, free html5 games for your website, Fun, Games

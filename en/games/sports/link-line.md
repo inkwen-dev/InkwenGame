@@ -21,4 +21,4 @@
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Android, Baby, Baby Hazel, Billiard, Block, Casual, Puzzle
+- Tags: 1 Player, Android, Baby, Baby Hazel, Billiard, block, Casual, Puzzle

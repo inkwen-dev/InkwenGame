@@ -21,4 +21,4 @@ Just pull pins. Use your brain and think before pulling any pin and make sure yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Puzzle, Strategy
+- Tags: Color, Puzzle, strategy

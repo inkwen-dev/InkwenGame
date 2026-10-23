@@ -19,6 +19,6 @@ Faraday Game is an interactive experience inspired by Faradays Law, letting play
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Arcade, Casual, Educational, HTML5, Mobile, Mouse, onetouch, Physics, Science, Simulation, touch, WebGL
+- Tags: 1 Player, 3D, Arcade, Casual, educational, HTML5, Mobile, Mouse, onetouch, Physics, Science, Simulation, touch, WebGL

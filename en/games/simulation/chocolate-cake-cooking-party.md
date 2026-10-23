@@ -19,6 +19,6 @@ Wow, this day is Magnifique! A perfect moment to play the best cooking game of t
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Cooking, Decoration, Girls, Kids, Simulation

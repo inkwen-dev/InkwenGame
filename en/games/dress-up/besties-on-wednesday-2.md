@@ -21,4 +21,4 @@ A young bestie goes to school to learn magic and make new friends. She has her o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Celebrity, Cute, Dress Up, Fashion, Girl, Hair, HTML5, Makeover, Monster, Vampire, Wolf
+- Tags: Celebrity, Cute, Dress Up, Fashion, Girl, Hair, HTML5, Makeover, monster, Vampire, Wolf

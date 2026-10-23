@@ -42,4 +42,4 @@ A fast first-person voxel hunting game. Raise your rifle, line up the shot, and 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, First Person Shooter, Hunting, Shooting, Sniper
+- Tags: Action, First Person Shooter, hunting, Shooting, sniper

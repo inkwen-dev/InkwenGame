@@ -21,4 +21,4 @@ If you like police car game and car driving, a simulator game with great graphic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Car, drift, drifting, Driving, Police, Simulation, Simulator, Supercars, Unity3D, WebGL
+- Tags: Action, Car, drift, drifting, Driving, police, Simulation, Simulator, Supercars, Unity3D, WebGL

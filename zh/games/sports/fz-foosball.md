@@ -21,4 +21,4 @@ FZ 足球桌 - HTML5 游戏。运用你的技巧来玩游戏。Foxzin.com 提供
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 超休闲, 儿童, 儿童, 体育, 运动
+- 标签: 超休闲, 儿童, 儿童, 运动, 体育

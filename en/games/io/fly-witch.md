@@ -21,4 +21,4 @@ In this game you can play with a Fly Witch! Just Tap to fly and try to pass acro
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2D, Family, Flight, fly, Game, Girl, Girls, HTML, HTML5, Mobile, Witch
+- Tags: .io Games, 2D, Family, flight, fly, Game, Girl, Girls, HTML, HTML5, Mobile, Witch

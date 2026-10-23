@@ -19,6 +19,6 @@ Wolfoo Word Wonders: swipe letters on the wheel to spell words and fill the cros
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kid, Letters, Word
+- Tags: educational, Kid, Letters, word

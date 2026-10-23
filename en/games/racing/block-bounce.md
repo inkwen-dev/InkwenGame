@@ -19,6 +19,6 @@ Try to sign the best score in this great hyper casual game! Enjoy it!
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Boy, Casual, endless, HTML, HTML5, Hypercasual, Physics, Racing
+- Tags: block, Boy, Casual, endless, HTML, HTML5, Hypercasual, Physics, Racing

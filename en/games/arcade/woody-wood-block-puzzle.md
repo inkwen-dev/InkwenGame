@@ -19,6 +19,6 @@ WOODY is a uniquely crafted artisan block puzzle designed just for you. Inspired
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Block, Mentolatux, Mobile, Puzzle, WebGL
+- Tags: Best, block, Mentolatux, Mobile, Puzzle, WebGL

@@ -19,6 +19,6 @@ We all know the stickman as an excellent warrior, a good friend and a generally 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Hypercasual, Spiderman, Stickman, Super, Superhero
+- Tags: Adventure, Arcade, Hypercasual, Spiderman, stickman, Super, Superhero

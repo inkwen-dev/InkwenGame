@@ -21,4 +21,4 @@ Ace Brawl Battle 3D is an exhilarating casual game. It is not impossible that on
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, Action, Battle, Boy, Gun, HTML, Kid, Mobile
+- Tags: .io, .io Games, 3D, Action, battle, Boy, Gun, HTML, Kid, Mobile

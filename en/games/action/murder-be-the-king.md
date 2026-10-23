@@ -19,6 +19,6 @@ Murder is a fun assassination game. Creep up behind the king and take him out qu
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Boy, Boys, Fun, H5, HTML5, Kid, Kids, Kill, Killing

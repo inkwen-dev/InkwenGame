@@ -30,4 +30,4 @@ Use WASD / arrow keys / drag the left mouse button to move around. Release the b
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Basketball, Boys, popular, Sports
+- Tags: basketball, Boys, popular, sports

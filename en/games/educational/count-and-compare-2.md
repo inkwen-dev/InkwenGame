@@ -21,4 +21,4 @@ First Count the items of both pictures then tap the suitable comparison sign.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, HTML5, Kids, Mobile, Number, Puzzle, School
+- Tags: educational, HTML5, Kids, Mobile, Number, Puzzle, School

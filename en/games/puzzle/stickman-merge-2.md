@@ -21,4 +21,4 @@ Combine weapons in the action game "Stickman: Weapon Combination" and create mor
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Gun, Shoot, Shooting, Stickman
+- Tags: Gun, Shoot, Shooting, stickman

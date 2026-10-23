@@ -19,6 +19,6 @@ Minecraft Coin Adventure is fun html5 game and you can play it online for free. 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, Collecting, Fun, Game, HTML5, Kids, Minecraft, Platform, Skill

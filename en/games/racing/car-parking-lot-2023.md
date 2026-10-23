@@ -21,4 +21,4 @@ Car Parking Lot is an exciting and challenging mobile game that puts your parkin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Car, Mentolatux, Parking, Super, Supercars, Unity3D, WebGL
+- Tags: 3D Games, Car, Mentolatux, parking, Super, Supercars, Unity3D, WebGL

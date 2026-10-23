@@ -19,6 +19,6 @@ Tangram Grid is a very fun and interesting puzzle online game for boys for free.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Block, Boy, Brain, Bricks, Fun, HTML5, Jigsaw, Kids, Online, Puzzle
+- Tags: 3D, Android, block, Boy, Brain, Bricks, Fun, HTML5, Jigsaw, Kids, Online, Puzzle

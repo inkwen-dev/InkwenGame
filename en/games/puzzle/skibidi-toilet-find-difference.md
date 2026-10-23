@@ -21,4 +21,4 @@ Find all difference for skibidi toilet depicted in the picture within time limit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Detective, Difference, Halloween, Skibidi, Skibidi Toilet
+- Tags: Detective, Difference, Halloween, Skibidi, skibidi-toilet

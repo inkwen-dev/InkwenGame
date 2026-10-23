@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 绘画, 繪畫, 旋转轮子
+- 标签: 绘画, 绘画, 旋转轮盘

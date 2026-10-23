@@ -19,6 +19,6 @@ Multiplication Master isn&rsquo;t your average math game &ndash; it&rsquo;s a fu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Logic, Math, Number, Puzzle, School
+- Tags: Brain, Logic, math, Number, Puzzle, School

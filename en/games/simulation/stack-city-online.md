@@ -21,4 +21,4 @@ Stack City Online is a merge game where you can build your own city using stacke
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, city, Management, Relaxation, Simulation
+- Tags: 3D, city, management, Relaxation, Simulation

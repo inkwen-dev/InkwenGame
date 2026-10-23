@@ -19,6 +19,6 @@ Trains.io 3D is a slithering train game in a 3d world. Become the grand training
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Boys, Fun, H5, HTML5, Kid, Kids

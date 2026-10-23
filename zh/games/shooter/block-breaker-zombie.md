@@ -21,4 +21,4 @@ Block Breaker 是一款你可以免费在线玩的僵尸游戏。在这款游戏
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 冒险, 街机, HTML, HTML5, 在线, 益智, 射击, 僵尸
+- 标签: 单人, 冒险, 街机, HTML, HTML5, 在线, 益智, 射击, 僵尸

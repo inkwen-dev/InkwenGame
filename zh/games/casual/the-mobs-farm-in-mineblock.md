@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2025年游戏, 2D, 精彩, Android, 最佳, 最佳游戏, 炸弹, 经典, 疯狂, 免费网站游戏, Minecraft, 沙盒, Unity3D, WebGL
+- 标签: 2025年游戏, 2D, 惊人, 安卓, 最佳, 最佳游戏, 炸弹, 经典, 疯狂, 免费游戏供你的网站使用, 我的世界, 沙盒, Unity3D, WebGL

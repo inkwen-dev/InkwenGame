@@ -19,6 +19,6 @@ It's picnic time! Play games for four-year-old and older, take some food, and fe
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cat, Collecting, Educational, Family, Fruit, Fun, Girls, HTML5, Kids, Mobile, Puzzle
+- Tags: Cat, Collecting, educational, Family, Fruit, Fun, Girls, HTML5, Kids, Mobile, Puzzle

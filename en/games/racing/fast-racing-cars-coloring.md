@@ -19,6 +19,6 @@ Fast Racing Cars Coloring is a free online game from genre of memory and monster
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Coloring, Fun, HTML5, Kids, Mobile

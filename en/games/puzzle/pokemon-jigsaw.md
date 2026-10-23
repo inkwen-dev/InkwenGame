@@ -21,4 +21,4 @@ A new jigsaw puzzle game! The theme is cute Pokemon Pikachu and his dear friends
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Anime, Baby, Boy, Boys, Cartoon, Casual, Cute, Educational, Girl, Girls, H5, HTML5, Jigsaw, Pokemon, Puzzle
+- Tags: Animal, Anime, Baby, Boy, Boys, Cartoon, Casual, Cute, educational, Girl, Girls, H5, HTML5, Jigsaw, Pokemon, Puzzle

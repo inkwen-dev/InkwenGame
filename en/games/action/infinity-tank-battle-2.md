@@ -15,6 +15,6 @@ Engage in exhilarating tank battles across 610 intricate maps in Infinity Tank B
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Tanks
+- Tags: tanks

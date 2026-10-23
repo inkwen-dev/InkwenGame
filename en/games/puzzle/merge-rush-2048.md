@@ -19,6 +19,6 @@ Merge Rush 2048 is a parkour-style 2048 online game for boys for free. Besides o
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Avoid, Block, Boy, Brain, Fun, HTML5, Kids, Obstacle, Online, Puzzle, run, Skill
+- Tags: 3D, Android, Avoid, block, Boy, Brain, Fun, HTML5, Kids, Obstacle, Online, Puzzle, run, Skill

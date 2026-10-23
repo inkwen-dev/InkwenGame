@@ -21,4 +21,4 @@ Mobile-friendly, fullscreen game play experience. The Ninja is running to his de
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Jumping, Mobile, Ninja, Platform, running
+- Tags: Action, Adventure, jumping, Mobile, ninja, Platform, running

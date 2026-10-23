@@ -21,4 +21,4 @@ A real-time robot card duel. Build a deck of 8 robots, drop them on the field to
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cards, Mobile, Robot, Strategy, Tower Defense
+- Tags: cards, Mobile, Robot, strategy, Tower Defense

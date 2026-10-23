@@ -19,6 +19,6 @@ Roary the Racing Car Hidden Keys is a free online kids and hidden object game. T
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Cars, Cartoon, Clicker, Hidden, HTML5, Kids, Mobile, Point And Click, Supercars

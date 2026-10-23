@@ -21,4 +21,4 @@ How to invade a castle? Mob Control will show you the correct way to win a war w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Brain, Castle, Mobile, Platform, Puzzle, Stickman, WebGL
+- Tags: 3D, Arcade, Brain, Castle, Mobile, Platform, Puzzle, stickman, WebGL

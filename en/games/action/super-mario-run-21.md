@@ -21,4 +21,4 @@ Super Mario Run 21 is endless runner game.You have to avoid from obstacles and f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Mario, run, running, Super
+- Tags: Action, Adventure, Arcade, mario, run, running, Super

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 蛋糕, 涂色, 跳舞, 时尚
+- 标签: 蛋糕, 着色, 跳舞, 时尚

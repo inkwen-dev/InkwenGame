@@ -19,6 +19,6 @@ A global zombie infestation has converted many into zombies. As a survivor, your
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Defense, html games for your website, kiz10, Shooter, survival, Tower Defense, War, Zombie

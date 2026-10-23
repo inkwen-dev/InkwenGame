@@ -21,4 +21,4 @@ Tap To Play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Anime, Hypercasual, Monster, Movie
+- Tags: Action, Anime, Hypercasual, monster, Movie

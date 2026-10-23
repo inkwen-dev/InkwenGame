@@ -19,6 +19,6 @@ Stick Runner is a fun online game. There is only one track in this game, and obs
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Avoid, Bounce, Boy, Brain, Fun, HTML5, Kids, Obstacle, Online, Puzzle, running, Stickman
+- Tags: 3D, Android, Avoid, Bounce, Boy, Brain, Fun, HTML5, Kids, Obstacle, Online, Puzzle, running, stickman

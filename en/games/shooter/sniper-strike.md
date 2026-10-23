@@ -21,4 +21,4 @@ Sniper Strike is a first-person shooter game that puts you in intense and diffic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Gun, Killing, Shoot, Shooting, Sniper
+- Tags: 3D, Gun, Killing, Shoot, Shooting, sniper

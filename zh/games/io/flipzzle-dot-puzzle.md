@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io游戏, 1人游戏, 2D, 方块, 休闲, HTML5, kiz10, 谜题, 切割
+- 标签: .io 游戏, 单人, 2D, 方块, 休闲, HTML5, kiz10, 益智, 切割

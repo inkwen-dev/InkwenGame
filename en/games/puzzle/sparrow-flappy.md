@@ -19,6 +19,6 @@ Sparrow Fly to get this to pass through circles to get higher score win...
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: fly, jump, Jumping, Puzzle
+- Tags: fly, jump, jumping, Puzzle

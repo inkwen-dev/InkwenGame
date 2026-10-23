@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 大脑, 糖果, 休闲, 家庭, 女孩们, mapi 游戏, 益智, puzzleblock, 俄罗斯方块
+- 标签: 大脑, 糖果, 休闲, 家庭, 女孩, mapi games, 益智, 拼图块, tetris

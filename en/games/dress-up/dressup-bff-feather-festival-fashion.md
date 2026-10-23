@@ -19,6 +19,6 @@ The prettiest girls Emma, Bonnie is going to attend the feather festival. So the
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Dancing, Dating, Dora, Dress Up, Fashion, Hair, Halloween, Holiday, Kiss, Love, Summer

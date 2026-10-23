@@ -15,6 +15,6 @@ Unleash chaos as you navigate a Russian town in Russian Grand City Auto, a sandb
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: gangster

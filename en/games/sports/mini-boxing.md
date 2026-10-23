@@ -21,4 +21,4 @@ Mini Boxing is a fantastic super-deformed boxing game where you control the boxe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boxing, Fight, Fighting, HTML, HTML5, mapi games, Sport
+- Tags: Arcade, Boxing, Fight, fighting, HTML, HTML5, mapi games, Sport

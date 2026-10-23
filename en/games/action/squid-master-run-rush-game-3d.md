@@ -21,4 +21,4 @@ All the tasks are harder than you think. Every task has its period so complete t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Boys, Fight, Fighting, HTML, HTML5
+- Tags: 3D Games, Action, Boys, Fight, fighting, HTML, HTML5

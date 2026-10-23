@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 休闲, 色彩, 超休闲, 复古, 贪吃蛇
+- 标签: 2D, 休闲, 颜色, 超休闲, 复古, snake

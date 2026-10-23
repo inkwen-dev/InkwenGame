@@ -19,6 +19,6 @@ Crazy Jelly Match is a fun Match-3 game with amazing graphics. If you are a fun 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Adventure, Arcade, Best, Block, Boy, Bubble, Color, Girl, HTML, HTML5, Kid, Logic, Match 3, Match3, Matching, New, Puzzle, WebGL
+- Tags: Adult, Adventure, Arcade, Best, block, Boy, Bubble, Color, Girl, HTML, HTML5, Kid, Logic, Match 3, Match3, Matching, New, Puzzle, WebGL

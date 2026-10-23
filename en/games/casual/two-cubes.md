@@ -21,4 +21,4 @@ Control two dice to jump over falling walls. The game is difficult.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Clicker, Game, HTML5, Jumping
+- Tags: Click, Clicker, Game, HTML5, jumping

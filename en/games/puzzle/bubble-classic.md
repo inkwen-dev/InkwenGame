@@ -15,6 +15,6 @@ Dive into Bubble Classic, a captivating bubble shooter where precision and strat
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Bubble Shooter

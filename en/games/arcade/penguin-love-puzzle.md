@@ -21,4 +21,4 @@ Penguin Love Puzzle classic game in which the player has to touch the tiles and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Pixel, Puzzle, Retro
+- Tags: 1 Player, Arcade, pixel, Puzzle, retro

@@ -21,4 +21,4 @@ Blast into a new Angry Birds puzzle adventure game! The birds are trapped inside
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D, Action, Adventure, Arcade, Casual, Fun, Funny, Ninja, running, Unity3D, War
+- Tags: .io Games, 2 Player Games, 3D, Action, Adventure, Arcade, Casual, Fun, Funny, ninja, running, Unity3D, War

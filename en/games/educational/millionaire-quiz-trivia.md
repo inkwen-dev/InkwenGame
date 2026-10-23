@@ -19,6 +19,6 @@ Do you want to get rich and become a Millionaire? Win your first $1,000,000 It's
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, HTML5, Memory, Mind, Puzzle, Quiz
+- Tags: Brain, Casual, HTML5, memory, Mind, Puzzle, Quiz

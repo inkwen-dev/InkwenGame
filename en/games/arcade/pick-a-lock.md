@@ -21,4 +21,4 @@ Get ready for popping locks in this simple, yet exciting game! Challenge your se
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Coloring, Cool, Game, HTML5, Hypercasual
+- Tags: 1 Player, Arcade, Coloring, cool, Game, HTML5, Hypercasual

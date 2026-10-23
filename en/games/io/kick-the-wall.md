@@ -21,4 +21,4 @@ Kick The Wall is a super fun game of agility and precision
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, jump, Jumping, Kid, Kids, Obstacle, Turn
+- Tags: .io, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, jump, jumping, Kid, Kids, Obstacle, Turn

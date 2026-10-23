@@ -19,6 +19,6 @@ Shipnt.io is a mobile-friendly co-op physics based game where you and other peop
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2 Player, 2 Player Games, 2D, Best, Boat, Bounce, Casual, Cool, Crazy, Cute, drift, drifting, Driving, Family, Fun, Funny, Game, Highscore, HTML, HTML5, Hypercasual, Kids, Machine, Maze, Mobile, Multiplayer, New, Online, Play, Race, Racing, Sandbox, Simulation, Simulator, Unity3D, WebGL
+- Tags: .io, .io Games, 2 Player, 2 Player Games, 2D, Best, Boat, Bounce, Casual, cool, crazy, Cute, drift, drifting, Driving, Family, Fun, Funny, Game, Highscore, HTML, HTML5, Hypercasual, Kids, Machine, Maze, Mobile, Multiplayer, New, Online, Play, Race, Racing, Sandbox, Simulation, Simulator, Unity3D, WebGL

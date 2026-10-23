@@ -21,4 +21,4 @@ Take control of powerful monster trucks and conquer rugged mountain trails. Choo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, Driving, Monster, monstertruck, mountain, offroad, Racing, Simulator, Stunts, Truck
+- Tags: 3D, Car, Driving, monster, monstertruck, mountain, offroad, Racing, Simulator, Stunts, truck

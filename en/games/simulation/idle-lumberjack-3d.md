@@ -19,6 +19,6 @@ Different loggers, the same addictive idle game. Conquer the forest and upgrade 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Clicker, endless, H5, Hypercasual, Kids, Management, Online, Sword
+- Tags: Boys, Clicker, endless, H5, Hypercasual, Kids, management, Online, sword

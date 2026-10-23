@@ -19,6 +19,6 @@ Keep your Drift Police Cop Car siren on that civilian get awareness easily about
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Boys, Car, Police
+- Tags: Action, Adventure, Boys, Car, police

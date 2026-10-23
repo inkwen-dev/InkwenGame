@@ -21,4 +21,4 @@ Extreme Bicycle is a synthetic bicycle racing game with two gameplays to meet th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Race, Sports
+- Tags: 3D, Race, sports

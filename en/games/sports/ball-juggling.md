@@ -21,4 +21,4 @@ Ball Juggling is a super fun game with the reflex booster. Here in this game, yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Ball, Ballon, Boy, Boys, Casual, Click, Clicker, endless, Family, Football, Kid, Kids, Pixel, Soccer, Sport, Sports
+- Tags: 2D, Ball, Ballon, Boy, Boys, Casual, Click, Clicker, endless, Family, Football, Kid, Kids, pixel, Soccer, Sport, sports

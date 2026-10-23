@@ -21,4 +21,4 @@ Parking Master School is a fun and realistic driving simulation game that challe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Car, Driving, Parking, WebGL
+- Tags: 3D, Arcade, Car, Driving, parking, WebGL

@@ -21,4 +21,4 @@ Drag to create a path and guide the car to the goal! You can only draw the line 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2D, Car, Card, Cars, Cartoon, Cartoon Network, Supercars
+- Tags: .io, .io Games, 2D, Car, card, Cars, Cartoon, Cartoon Network, Supercars

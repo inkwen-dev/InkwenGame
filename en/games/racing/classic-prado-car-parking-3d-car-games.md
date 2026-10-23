@@ -19,6 +19,6 @@ Get ready to play Classic Prado Car Parking : 3D Car Games in which you will dri
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Adventure, Arcade, Casual, drift, drifting, Driving, Fun, Funny, Hypercasual, Race, Supercars

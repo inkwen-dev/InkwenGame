@@ -21,4 +21,4 @@ Tab - 菜单 方向键或WASD键控制移动 C键切换视角 鼠标控制视角
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D 游戏, 射击, 模拟器, 坦克, 坦克, Unity3D, WebGL
+- 标签: 3D游戏, 射击, 模拟器, 坦克, tanks, Unity3D, WebGL

@@ -21,4 +21,4 @@ A fun puzzle and unlocking game that trains your brain! The grid needs to be fil
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Brain, Kids, Tetris
+- Tags: Arcade, block, Brain, Kids, tetris

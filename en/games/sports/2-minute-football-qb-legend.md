@@ -23,4 +23,4 @@ Select a play by tapping it. When the players start moving, look for the player 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: american-football, Sports
+- Tags: american-football, sports
