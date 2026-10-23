@@ -1,9 +1,9 @@
 # InkwenGame public catalog
 
-Documentation catalog of free browser games. Pick a language:
+Documentation catalog of free browser games.
 
-- [English](en/README.md)
-- [中文](zh/README.md)
+- [English catalog](en/README.md)
+- [中文说明](README.zh-CN.md) · [中文目录](zh/README.md)
 
 - <a href="https://inkwengame.com/" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
 - [About](docs/ABOUT.md)
@@ -41,9 +41,3 @@ Play links point to the live site. Cover images use our CDN (`img.inkwengame.com
 - No playable game packages or embeds
 - No admin tools, API keys, or private config
 - No supplier / source attribution fields
-
-## 中文摘要
-
-InkwenGame 是免费在线小游戏站：按分类浏览，每款有简短介绍和玩法说明，浏览器里打开就能玩，不用下载。
-
-本仓库是官网已上架游戏的**公开 Markdown 目录**（[`en/`](en/README.md) / [`zh/`](zh/README.md)）。方便玩家查找、目录站引用，以及模型和爬虫阅读稳定文案与深链；游玩请点进 <a href="https://inkwengame.com/" target="_blank" rel="noopener noreferrer">inkwengame.com</a>。仓内不含可玩包、后台与密钥。更多说明见 [关于本仓库](docs/ABOUT.zh-CN.md)。
