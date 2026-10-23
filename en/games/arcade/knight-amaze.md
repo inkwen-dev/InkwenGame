@@ -19,6 +19,6 @@ The monsters are coming! Attention! The true knight must face bravely, picks up 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Animal, Game, Games, Kid, Kids, Kill, Knight, Monster, Puzzle, Skill
+- Tags: 3D Games, Animal, Game, Games, Kid, Kids, Kill, knight, monster, Puzzle, Skill

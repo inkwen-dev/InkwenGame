@@ -19,6 +19,6 @@ A drag and drop game where you have to bring a cat to his beloved cushion withou
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, Animal, Avoid, Boys, Cat, Girls, Logic, Obstacle, Pixel, Rescue
+- Tags: 2D, Android, Animal, Avoid, Boys, Cat, Girls, Logic, Obstacle, pixel, Rescue

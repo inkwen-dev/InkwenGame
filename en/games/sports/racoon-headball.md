@@ -21,4 +21,4 @@ Racoon Headball is a sport game. Its a sunny day on beach. Let’s play the beac
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, HTML5, Sports
+- Tags: Animal, HTML5, sports

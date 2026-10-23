@@ -21,4 +21,4 @@ Enter the arena in Hamada Yedrab Stickman Fighter 3D Experience the classic stic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 3D, Action, Arena, Battle, Fight, Fighting, Multiplayer, Physics, PvP, Stickman
+- Tags: 2 Player, 3D, Action, Arena, battle, Fight, fighting, Multiplayer, Physics, PvP, stickman

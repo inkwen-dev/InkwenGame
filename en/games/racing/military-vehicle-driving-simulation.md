@@ -21,4 +21,4 @@ Military Vehicle Driving Simulation immerses you in high-stakes missions behind 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Cars, Driving, Mentolatux, military, Supercars, Truck, unity, WebGL
+- Tags: Action, Cars, Driving, Mentolatux, military, Supercars, truck, unity, WebGL

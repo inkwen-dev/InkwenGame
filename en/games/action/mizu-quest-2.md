@@ -21,4 +21,4 @@ Mizu Quest 2 is a 2D anime themed platformer where you play as a magical anime g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Anime, Cartoon, Collecting, Cute, Girl, jump, Jumping, Love, Monster, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Anime, Cartoon, Collecting, Cute, Girl, jump, jumping, Love, monster, pixel, Platform, retro

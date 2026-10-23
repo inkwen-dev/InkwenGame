@@ -19,6 +19,6 @@ Smart Looter is a hypercasual robbery game. Your goal is to rob the houses of di
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Boy, Cartoon, Casual, Escape, Fun, Hypercasual, Kid, Mobile, Police, Prison, WebGL
+- Tags: 1 Player, Action, Boy, Cartoon, Casual, Escape, Fun, Hypercasual, Kid, Mobile, police, Prison, WebGL

@@ -52,4 +52,4 @@ Obby：打造ASMR键盘大亨是一款趣味十足的Roblox风格模拟游戏，
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 点击器, 闲暇, 障碍, 巨头
+- 标签: 点击器, idle, 障碍, 大亨

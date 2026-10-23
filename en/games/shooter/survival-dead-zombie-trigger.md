@@ -19,6 +19,6 @@ In this zombie game survival, players are thrown into a post-apocalyptic world o
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, HTML5, Mobile, Shoot, Shooter, Shooting, Unity3D, WebGL, Zombie

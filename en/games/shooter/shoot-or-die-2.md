@@ -19,6 +19,6 @@ Are you a fan of Mexican standoffs and spaghetti westerns? This game is for you!
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Classic, Click, Clicker, Fun, Funny, Gun, Kid, Kids, Kill, Killing, Mobile, Shooter, Shooting, Skill, Skills

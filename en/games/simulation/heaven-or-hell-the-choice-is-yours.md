@@ -19,6 +19,6 @@ Distribute souls between heaven and hell! The choice is yours! In the game you h
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Anime, Best Games, Casual, Cool, Cute, Fun, onetouch, Platform, run, Simulator
+- Tags: 3D, 3D Games, Action, Adventure, Anime, Best Games, Casual, cool, Cute, Fun, onetouch, Platform, run, Simulator

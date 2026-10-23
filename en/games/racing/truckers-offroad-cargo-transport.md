@@ -19,6 +19,6 @@ Become a true off-road master in a game where your main goal is to deliver valua
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Best Games, Brainrot Italian, Car, cargo, Crafting, drifting, Driving, Minecraft, monstertruck, roblox, transport, Truck, trucks
+- Tags: Best, Best Games, Brainrot Italian, Car, cargo, Crafting, drifting, Driving, Minecraft, monstertruck, roblox, transport, truck, trucks

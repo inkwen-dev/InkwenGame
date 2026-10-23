@@ -19,6 +19,6 @@ A great Snake IO game is beginning with the Worms Arena IO game! The baits are a
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, Animal, HTML5, Kids, Skill, Slither, Snake, WebGL
+- Tags: .io, .io Games, 1 Player, Animal, HTML5, Kids, Skill, Slither, snake, WebGL

@@ -21,4 +21,4 @@ Zombies are invading, and the world is on the brink of collapse! In this apocaly
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, apocalypse, Gun, Strategy, Zombie
+- Tags: 3D, apocalypse, Gun, strategy, Zombie

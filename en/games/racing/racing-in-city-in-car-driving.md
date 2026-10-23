@@ -21,4 +21,4 @@ Are you ready to download the most fun in car city racing 3D game for free? “R
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: bus, Car, Cars, Racing, Simulation, Simulator, Stunts, Traffic, Truck
+- Tags: bus, Car, Cars, Racing, Simulation, Simulator, Stunts, Traffic, truck

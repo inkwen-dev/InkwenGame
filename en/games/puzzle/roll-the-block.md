@@ -21,4 +21,4 @@ Roll The Block is a classic and popular casual puzzle game. The exciting Folding
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Avoid, Block, Brain, Fun, Girl, HTML5, Kid, Mobile, Obstacle, Puzzle, Relaxation
+- Tags: Android, Avoid, block, Brain, Fun, Girl, HTML5, Kid, Mobile, Obstacle, Puzzle, Relaxation

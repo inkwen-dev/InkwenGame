@@ -21,4 +21,4 @@ Meet Jackie, a determined teenager hailing from the gritty streets of the ghetto
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping, Mentolatux, OnlyUp, run, running, Unity3D, WebGL
+- Tags: jump, jumping, Mentolatux, OnlyUp, run, running, Unity3D, WebGL

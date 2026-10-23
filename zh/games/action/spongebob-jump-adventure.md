@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 冒险, HTML5, 跳跃, 跑, 跑步, 海绵宝宝
+- 标签: 动作, 冒险, HTML5, 跳跃, 跑, 奔跑, 海绵宝宝

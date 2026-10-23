@@ -19,6 +19,6 @@ Get ready to unleash your creativity and sense of humor in Funny JD Vance Face, 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Funny, HTML5, Hypercasual, Kids, Mouse, Point And Click

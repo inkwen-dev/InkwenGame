@@ -19,6 +19,6 @@ Are you a fan of ball games? If so, why not try out the exciting and enriching R
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Avoid, Balance, Ball, Best, Boy, Kids, Mobile, Obstacle, Online, run, running, Skill

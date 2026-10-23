@@ -21,4 +21,4 @@ Play the most EXCITING RUNNER game on the web Be a NINJA for a day and RACE thro
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, Action, Adventure, Boy, Fight, Girl, Interactive, Kid, Ninja, Ninjago, run, running, Shark, Traffic
+- Tags: .io Games, 3D, Action, Adventure, Boy, Fight, Girl, Interactive, Kid, ninja, Ninjago, run, running, Shark, Traffic

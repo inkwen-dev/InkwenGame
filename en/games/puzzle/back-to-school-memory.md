@@ -21,4 +21,4 @@ Back To School Memory is a free online game from genre of memory and kids games.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Kids, Memory, Puzzle, Skill
+- Tags: Fun, Kids, memory, Puzzle, Skill

@@ -19,6 +19,6 @@ Do you like motorbike riding simulation games? Now we need you to ride a motorbi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Driving, HTML5, Mobile, Motorcycle, Platform, Simulation, Stunts

@@ -19,6 +19,6 @@ Who is ready for a fashion adventure? Are you addicted to dress up game up and f
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Elsa, Fashion, Frozen, Game, Games, Girl, Girls, Hair, Nail, Princess, Simulation

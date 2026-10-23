@@ -21,4 +21,4 @@ New Card Themes: Our Spider Solitaire card game has new & fun card themes that y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Card, Solitaire
+- Tags: Brain, card, solitaire

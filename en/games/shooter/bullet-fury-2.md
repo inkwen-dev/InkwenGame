@@ -19,6 +19,6 @@ The second part of the 3D first person shooter Bullet Fury. Your troop has disco
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Android, Army, Blood, Boys, Gun, HTML5, Killing, Mobile, Shooter, weapons

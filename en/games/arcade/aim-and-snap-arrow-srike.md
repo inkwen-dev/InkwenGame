@@ -21,4 +21,4 @@ Aim &amp;Snap is an addictive spear-throwing arcade game that tests your precisi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Arcade, arrow, arrows, attack, html games for your website, Physics, Strategy, unity games
+- Tags: 3D, 3D Games, Adventure, Arcade, arrow, arrows, attack, html games for your website, Physics, strategy, unity games

@@ -19,6 +19,6 @@ Crazy Sea Battle is an exciting ocean-based battle royale where you compete agai
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boat, Casual, survival, water

@@ -19,6 +19,6 @@ Cupcake Maker! Dottie Doc McStuffins Chef. Be a mini Cupcake Maker chef. Hello, 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Cook, Cooking, Doctor, Game, Games

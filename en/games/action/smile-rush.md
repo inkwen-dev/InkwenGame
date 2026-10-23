@@ -21,4 +21,4 @@ Smile Rush is an online Kids game. Smile Rush is a simple and easy-to-play tooth
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Funny, Kids, running
+- Tags: educational, Funny, Kids, running

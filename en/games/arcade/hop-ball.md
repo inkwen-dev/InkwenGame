@@ -21,4 +21,4 @@ Come on! Test your reflexes and hop skills! Hop Ball is a ball game that lets ba
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Avoid, Highscore, jump, Jumping
+- Tags: 1 Player, 3D, 3D Games, Avoid, Highscore, jump, jumping

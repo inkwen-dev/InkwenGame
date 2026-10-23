@@ -21,4 +21,4 @@ Monster Chef is an exciting cooking game that mixes funny robot monsters with fa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Cooking, Management, Robot
+- Tags: 2D, Cooking, management, Robot

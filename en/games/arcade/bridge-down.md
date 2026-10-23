@@ -19,6 +19,6 @@ Bridge Down – is a game in which you need to control the bridge and avoid obst
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 3D, Action, Adventure, Arcade, Bridge

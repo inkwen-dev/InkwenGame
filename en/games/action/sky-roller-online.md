@@ -19,6 +19,6 @@ Sky Roller Online is a cool and exciting 3D skating game. The skater in the game
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Boy, Girl, H5, HTML, HTML5, Kids, Mobile, Obstacle, Platform, Skill

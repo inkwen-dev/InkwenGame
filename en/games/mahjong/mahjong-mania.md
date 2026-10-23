@@ -21,4 +21,4 @@ The ancient Chinese game in your pocket. Clear the boards full of beautiful tile
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mahjong, Math, Puzzle
+- Tags: mahjong, math, Puzzle

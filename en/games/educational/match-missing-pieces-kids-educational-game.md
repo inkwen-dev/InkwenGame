@@ -21,4 +21,4 @@ This game is for a kids to learn. This is educational game. Find and drag and dr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Educational, Fun, Kids, Matching, Puzzle
+- Tags: 1 Player, educational, Fun, Kids, Matching, Puzzle

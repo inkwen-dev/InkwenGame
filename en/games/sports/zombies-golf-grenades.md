@@ -19,6 +19,6 @@ Zombies Golf Grenades is fun mini golf style zombie game set in a dead rising zo
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, Boys, Fun, HTML5, Kids, Mobile, Shoot, Shooting, Unity3D, WebGL, Zombie

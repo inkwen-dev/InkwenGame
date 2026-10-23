@@ -21,4 +21,4 @@ Tap right or Tap left to hit the triangles. Try to break as many triangles as po
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Battle, Boxing, Casual
+- Tags: Arcade, battle, Boxing, Casual

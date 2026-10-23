@@ -19,6 +19,6 @@ Swipe the Ball is a casual game. You need to gain more points and improve balls 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Basketball, Casual, Fun, Hypercasual, Kids, Mobile, Skill
+- Tags: Ball, basketball, Casual, Fun, Hypercasual, Kids, Mobile, Skill

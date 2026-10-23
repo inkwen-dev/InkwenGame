@@ -19,6 +19,6 @@ Puzzle fans will love Ninja Hack Attack! The Teenage Mutant Ninja Turtles need y
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, H5, Hot, HTML5, New, Ninja, Ninjago, Puzzle
+- Tags: Arcade, Best, H5, Hot, HTML5, New, ninja, Ninjago, Puzzle

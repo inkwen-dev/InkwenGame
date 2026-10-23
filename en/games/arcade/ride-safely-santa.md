@@ -19,6 +19,6 @@ Santa Draw Ride - Christmas Adventure Draw a road for Santa, help him collect Ch
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Casual, Game, Hypercasual, Online, Sandbox

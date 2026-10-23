@@ -21,4 +21,4 @@ Today, we present you an interesting 3D game where you’ll be playing as a hunt
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Shoot, Shooting, Sniper
+- Tags: Animal, Shoot, Shooting, sniper

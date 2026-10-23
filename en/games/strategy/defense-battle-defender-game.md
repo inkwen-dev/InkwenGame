@@ -21,4 +21,4 @@ Desktop Mouse Click Mobile Touch buttons on Screen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Battle, Best, Defense, Game, Games, HTML5, Tower Defense
+- Tags: Action, Adventure, battle, Best, Defense, Game, Games, HTML5, Tower Defense

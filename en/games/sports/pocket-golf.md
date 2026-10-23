@@ -21,4 +21,4 @@ Pocket Golf is a hand-drawn minigolf game sketched on notebook paper. Aim, choos
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Golf, HTML5, Hypercasual, Mobile
+- Tags: 1 Player, golf, HTML5, Hypercasual, Mobile

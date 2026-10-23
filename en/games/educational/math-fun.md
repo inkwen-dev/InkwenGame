@@ -21,4 +21,4 @@ A fun and educational app for learning mathematics. Learn to add, subtract, mult
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Educational, Kid, Kids, Math, Puzzle
+- Tags: Brain, educational, Kid, Kids, math, Puzzle

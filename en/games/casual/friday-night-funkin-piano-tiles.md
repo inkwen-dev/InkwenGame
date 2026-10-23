@@ -21,4 +21,4 @@ iano game or piano tiles song is a cool and very addictive game to test your bra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Boys, Girls, Hot, Magic, Music, New, Point And Click, Timing
+- Tags: Best, Boys, Girls, Hot, Magic, music, New, Point And Click, Timing

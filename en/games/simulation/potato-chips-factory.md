@@ -21,4 +21,4 @@ Welcome to play potato chips factory games of delicious food making for game lov
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Burger, Cook, Cooking, Food, Games, Online, Restaurant, Spaceship
+- Tags: Burger, Cook, Cooking, Food, Games, Online, restaurant, Spaceship

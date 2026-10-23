@@ -19,6 +19,6 @@ Have you accumulated a lot of resentment against your boss, but you can't compla
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Clicker, Fight, Fighting, HTML, HTML5, Kid, Kids, Kill, Killing, Shoot, Shooting
+- Tags: Click, Clicker, Fight, fighting, HTML, HTML5, Kid, Kids, Kill, Killing, Shoot, Shooting

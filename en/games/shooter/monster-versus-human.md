@@ -21,4 +21,4 @@ Choose your side in Monster Versus Human. Humans scavenge the dark with flashlig
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Horror, Monster, Shoot 'Em Up, survival
+- Tags: Action, Adventure, Arcade, Horror, monster, Shoot 'Em Up, survival

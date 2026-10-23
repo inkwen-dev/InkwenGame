@@ -21,4 +21,4 @@ Bally 是一款类似高尔夫的游戏。你需要投掷球，使其进入正�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 街机, 球, 台球, HTML5, 逻辑, 逻辑, 迷宫, 思维, 拼图, Unity3D, WebGL
+- 标签: 单人, 2D, 街机, 球, 台球, HTML5, 逻辑, 逻辑性, 迷宫, 思维, 益智, Unity3D, WebGL

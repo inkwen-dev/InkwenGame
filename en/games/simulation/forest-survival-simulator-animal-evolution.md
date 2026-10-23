@@ -21,4 +21,4 @@ Dive into the captivating world of Forest Simulator: Animal Evolution. Begin as 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Action, Adventure, Animal, Fighting, Forest, Simulation, Simulator, survival
+- Tags: 1 Player, 3D Games, Action, Adventure, Animal, fighting, Forest, Simulation, Simulator, survival

@@ -19,6 +19,6 @@ Control the coasters speed of the rides and be careful to slow down while making
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adventure, Game, Games, Hot, HTML, HTML5, Race, Racing

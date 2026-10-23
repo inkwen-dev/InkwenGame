@@ -21,4 +21,4 @@ Hold on to your life against increasingly challenging AI in this incredibly fast
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2D, Arcade, Classic, Defense, Multiplayer, Obstacle, Online, PacMan, Retro, Skill, Snake
+- Tags: .io, .io Games, 2D, Arcade, Classic, Defense, Multiplayer, Obstacle, Online, PacMan, retro, Skill, snake

@@ -21,4 +21,4 @@ Screw Escape is a challenging screw puzzle adventure game. Dive into this twiste
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Escape, Funny, H5, HTML5, Kids, Strategy, Timing
+- Tags: Brain, Escape, Funny, H5, HTML5, Kids, strategy, Timing

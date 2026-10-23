@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 逻辑, 数学, 数字, 益智, 贪吃蛇
+- 标签: 逻辑性, 数学, 数字, 益智, snake

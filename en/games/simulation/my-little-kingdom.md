@@ -21,4 +21,4 @@ You are the king, and the fate of this realm lies in your hands! Your kingdom is
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Management, Simulation, Strategy, tycoon
+- Tags: 3D, management, Simulation, strategy, tycoon

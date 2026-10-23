@@ -19,6 +19,6 @@ Here is a car-crashing simulation game. You are requested to drive a car to cras
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Car, crash, Driving, Mobile, Platform, Simulation, survival, Timing

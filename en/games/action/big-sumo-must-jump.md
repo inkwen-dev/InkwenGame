@@ -21,4 +21,4 @@ In this game Big Sumo Must Jump, you need to control the big Sumo Wrestler and t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, jump, Jumping, Platform, Puzzle
+- Tags: HTML5, jump, jumping, Platform, Puzzle

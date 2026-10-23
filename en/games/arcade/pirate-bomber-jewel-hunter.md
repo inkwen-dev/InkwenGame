@@ -21,4 +21,4 @@ Grab the jewels and divert the bombs, grab the power ups to help the pirate not 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bomb, Casual, Jewel, Pirate, Pixel, Retro
+- Tags: Arcade, Bomb, Casual, Jewel, Pirate, pixel, retro

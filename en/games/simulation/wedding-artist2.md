@@ -21,4 +21,4 @@ Wedding Artist is an online HTML5 game, it's playable in browsers such as safari
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Baby, Baby Hazel, Cake, Color, Cook, Educational, Kids, RPG, Super
+- Tags: Action, Adventure, Baby, Baby Hazel, Cake, Color, Cook, educational, Kids, rpg, Super

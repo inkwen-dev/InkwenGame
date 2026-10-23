@@ -19,6 +19,6 @@ Halloween is coming! Celebrate Halloween with these scary puzzles! 12 different 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boy, Color, Coloring, Family, Girl, Halloween, HTML, HTML5, Jigsaw, Kids, Matching, Mobile, Monster, Zombie
+- Tags: 2D, Boy, Color, Coloring, Family, Girl, Halloween, HTML, HTML5, Jigsaw, Kids, Matching, Mobile, monster, Zombie

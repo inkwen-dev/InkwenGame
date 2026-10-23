@@ -21,4 +21,4 @@ Winter Monster Truck Puzzles is super fun and free to play online jigsaw game su
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, HTML5, Hypercasual, Jigsaw, Kids, Monster, Puzzle, Skill, Truck, Winter
+- Tags: Arcade, Boy, HTML5, Hypercasual, Jigsaw, Kids, monster, Puzzle, Skill, truck, Winter

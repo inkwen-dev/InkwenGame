@@ -19,6 +19,6 @@ Puppy Blast is a sweet puzzle adventure in which you get to tap on any set of ma
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Candy, H5, Hot, HTML, HTML5, Hypercasual, Match-3, Match3, Matching, Puzzle
+- Tags: Adventure, Candy, H5, Hot, HTML, HTML5, Hypercasual, Match 3, Match3, Matching, Puzzle

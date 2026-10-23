@@ -19,6 +19,6 @@ Sweety Mahjong is a HTML5 mahjong game. Enjoy this coloroued mahjong game with s
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Mahjong, Matching
+- Tags: Board, mahjong, Matching

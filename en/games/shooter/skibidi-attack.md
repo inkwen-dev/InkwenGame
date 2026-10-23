@@ -21,4 +21,4 @@ Welcome t Skibidi Attack shooting game! Tap or click to shoot skibidi toilets to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Shooter, Skibidi, Skibidi Toilet
+- Tags: Shooter, Skibidi, skibidi-toilet

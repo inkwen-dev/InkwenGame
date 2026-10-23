@@ -21,4 +21,4 @@ The objective of this game is to get as far as possible without crashing into th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Click, Clicker, Helicopter, Mobile, War
+- Tags: 1 Player, 2D, Android, Click, Clicker, helicopter, Mobile, War

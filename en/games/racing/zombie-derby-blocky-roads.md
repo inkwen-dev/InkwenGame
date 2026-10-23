@@ -21,4 +21,4 @@ Zombie Derby: Blocky Roads is an action-packed game blending driving and zombie 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Best, Block, Car, Driving, Halloween, New, Truck, Zombie
+- Tags: 3D, Action, Best, block, Car, Driving, Halloween, New, truck, Zombie

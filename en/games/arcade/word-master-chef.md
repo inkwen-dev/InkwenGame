@@ -19,6 +19,6 @@ In this game, you are the chef, your duty is to find the right formulas to make 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Hypercasual, Puzzle, Word
+- Tags: Arcade, Hypercasual, Puzzle, word

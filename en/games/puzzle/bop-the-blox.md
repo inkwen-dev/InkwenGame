@@ -21,4 +21,4 @@ If you love matching games, and fun strategy games, this one is for you! Help Pr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Family, Game, Kids, Match3, Matching, Puzzle
+- Tags: block, Family, Game, Kids, Match3, Matching, Puzzle

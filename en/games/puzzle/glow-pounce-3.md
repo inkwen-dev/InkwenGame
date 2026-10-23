@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Adventure, Android, Animal, Anime, Arcade, Ball, Ballon, Baseball, Bomb, Bounce, Boxing, Boy, Boys, Bubble, Bubble Shooter, Cartoon, Cartoon Network, Classic, Collection, Fight, Fighting, Fire, Fun, Funny, Game, Games, Girl, Girls, jump, Jumping, Kid, Kids, Kill, Killing, King, Logic, Mario, Mind, Mobile, Puzzle, run, running, Skill, Super, Superhero
+- Tags: 3D Games, Action, Adventure, Android, Animal, Anime, Arcade, Ball, Ballon, baseball, Bomb, Bounce, Boxing, Boy, Boys, Bubble, Bubble Shooter, Cartoon, Cartoon Network, Classic, Collection, Fight, fighting, Fire, Fun, Funny, Game, Games, Girl, Girls, jump, jumping, Kid, Kids, Kill, Killing, King, Logic, mario, Mind, Mobile, Puzzle, run, running, Skill, Super, Superhero

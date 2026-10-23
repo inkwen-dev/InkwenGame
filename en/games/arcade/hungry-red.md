@@ -21,4 +21,4 @@ Red is hungry! So let's go hunt! Eat the fish you can but not hurt the border of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Fish, HTML, HTML5, Mobile, Monster
+- Tags: Arcade, Boy, Fish, HTML, HTML5, Mobile, monster

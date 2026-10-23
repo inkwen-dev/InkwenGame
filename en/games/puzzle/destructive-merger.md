@@ -21,4 +21,4 @@ Combine missiles to stack your ammo and unleash explosive chaos in vibrant 3D pi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Arcade, Pixel
+- Tags: 3D, Action, Arcade, pixel

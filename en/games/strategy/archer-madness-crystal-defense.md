@@ -42,4 +42,4 @@ Be brave and defend the Crystal Core! If it falls, the entire continent will bec
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Strategy, Tower Defense
+- Tags: strategy, Tower Defense

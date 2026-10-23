@@ -19,6 +19,6 @@ Save The Bear is a casual game with a cartoon game style. In Save The Bear, ther
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Avoid, Boys, Cartoon, cut, Fun, HTML5, Kids, Mobile, Puzzle, Rescue

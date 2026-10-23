@@ -19,6 +19,6 @@ Talking Tom And Angela Halloween Party is an online game that you can play . Hal
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 2 Player, 2 Player Games, 2D, Girl, Girls

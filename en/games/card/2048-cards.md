@@ -21,4 +21,4 @@ Use mouse to play the game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Solitaire, Strategy
+- Tags: card, solitaire, strategy

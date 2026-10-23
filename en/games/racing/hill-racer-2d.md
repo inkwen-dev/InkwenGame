@@ -19,6 +19,6 @@ Hill Racer 2D &ndash; Drive through hills, balance your car, and race to the fin
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Air, Arcade, arrow, Baby, Baby Games, Best, Best Games, Car, Cars, Motorcycle, vehicle

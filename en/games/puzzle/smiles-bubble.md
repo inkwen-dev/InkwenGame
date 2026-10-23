@@ -19,6 +19,6 @@ If you love emoji and like games, this super fun emoji game is for you ! The goa
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, 3D, 3D Games, Adventure, Arcade, Bubble, Bubble Shooter

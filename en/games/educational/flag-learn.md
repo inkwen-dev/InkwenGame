@@ -46,4 +46,4 @@ and serious learning.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, Multiplayer, Quiz
+- Tags: Brain, educational, Multiplayer, Quiz

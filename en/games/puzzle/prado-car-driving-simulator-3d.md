@@ -19,6 +19,6 @@ Enjoy the experience of free car games with addictive challenging Prado parking 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Board, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, Dress Up, drift, drifting, Driving, Game, Games, Simulation, Simulator, Supercars, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Board, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, Dress Up, drift, drifting, Driving, Game, Games, Simulation, Simulator, Supercars, truck

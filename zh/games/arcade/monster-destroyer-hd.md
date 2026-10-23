@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 冒险, 街机, 击杀, 怪物
+- 标签: 动作, 冒险, 街机, 杀戮, monster

@@ -21,4 +21,4 @@ Castle Defender Saga is a strategy-based arcade game. The player must choose the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Battle, Boys, Defense, Family, Fighting, Fun, Horse, HTML5, Magic, Strategy, Tower Defense, War
+- Tags: Army, battle, Boys, Defense, Family, fighting, Fun, horse, HTML5, Magic, strategy, Tower Defense, War

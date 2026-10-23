@@ -19,6 +19,6 @@ Anime Jigsaw Puzzle pro is a premium quality puzzle game, with amazing puzzle im
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Batman, Ben 10, Boy, Cartoon, Dragon Ball Z, Ladybug, Online, Puzzle, Superhero

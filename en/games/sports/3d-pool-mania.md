@@ -24,4 +24,4 @@ Pool Mania is an exciting single-player billiards game with smooth controls, rea
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, Physics, Pool, Skill, Sports
+- Tags: 3D, Arcade, Physics, pool, Skill, sports

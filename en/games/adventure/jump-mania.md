@@ -19,6 +19,6 @@ Funny jump over candy boxes. In this game you can select any character (present 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Casual, Fun, jump, Jumping, survival
+- Tags: 2D, Adventure, Casual, Fun, jump, jumping, survival

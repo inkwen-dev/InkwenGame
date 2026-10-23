@@ -19,6 +19,6 @@ This is a very interesting casual parkour game. The game is very simple and easy
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Boy, Boys, Cartoon, Castle, Casual, Collecting, Collection, Fun, Game, Games, Girl, Girls, Google, H5

@@ -21,4 +21,4 @@ Supernova is a skill game where you fly a ship and have to dodge objects along t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Interactive, Race, Space, Spaceship, Strategy, Super
+- Tags: Interactive, Race, Space, Spaceship, strategy, Super

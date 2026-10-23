@@ -21,4 +21,4 @@ A small puzzle leisure game, which controls the Apple Snake through up, down, le
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Boy, Boys, Casual, Collecting, Collection, Fruit, Fruits, Fun, Funny, Game, Games, Girl, Girls, Google, H5, Highscore, HTML5, Hypercasual, Kid, Kids, Obstacle, Play, Snake
+- Tags: Avoid, Boy, Boys, Casual, Collecting, Collection, Fruit, Fruits, Fun, Funny, Game, Games, Girl, Girls, Google, H5, Highscore, HTML5, Hypercasual, Kid, Kids, Obstacle, Play, snake

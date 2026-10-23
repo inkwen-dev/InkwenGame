@@ -15,6 +15,6 @@ Dive into Hammer Head's frenetic battles, facing a surprise boss each time. Dodg
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Battle
+- Tags: battle

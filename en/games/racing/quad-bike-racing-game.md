@@ -19,6 +19,6 @@ ATV Quad Bike 3D Racing Games plus shooting game ensures to fulfill the ultimate
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Driving, Parking, Race, Racing
+- Tags: bike, Driving, parking, Race, Racing

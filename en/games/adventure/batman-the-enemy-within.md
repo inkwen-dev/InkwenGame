@@ -19,6 +19,6 @@ he Telltale Series, both Bruce Wayne and Batman will be forced into precarious n
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Batman, Cartoon, Cartoon Network, Puzzle

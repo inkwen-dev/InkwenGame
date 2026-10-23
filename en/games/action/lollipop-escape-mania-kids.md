@@ -19,6 +19,6 @@ Lollipop Escape Mania Kids is a kids game where playing has been made very easy.
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bomb, Candy, Casual, Platform

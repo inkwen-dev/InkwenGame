@@ -19,6 +19,6 @@ Hey Girls, Welcome to the Lovely Wedding Date game. Skyler is more excited about
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cute, Dress Up, Girls, HTML5, Kids, Makeover

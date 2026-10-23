@@ -19,6 +19,6 @@ It's not just golf. It's an action-packed mini-golf course, full of adventures a
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Golf, Sport, Sports
+- Tags: golf, Sport, sports

@@ -21,4 +21,4 @@ Velocity Breaker is a high-speed reflex game where survival depends on precision
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Arcade, Casual, Crazy, dash, Fun, Funny, Geometry, Hypercasual
+- Tags: 2D, Action, Arcade, Casual, crazy, dash, Fun, Funny, Geometry, Hypercasual

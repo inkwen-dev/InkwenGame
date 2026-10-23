@@ -15,6 +15,6 @@ Twirl your way to supremacy in Hammer Master io, a chaotic realm where hammer-wi
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

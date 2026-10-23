@@ -19,6 +19,6 @@ Block Escape is a relaxing yet challenging 3D puzzle game where your goal is to 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Brain, Color, Logic, Logical, Puzzle, puzzleblock
+- Tags: block, Brain, Color, Logic, Logical, Puzzle, puzzleblock

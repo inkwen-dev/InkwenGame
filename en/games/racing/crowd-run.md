@@ -19,6 +19,6 @@ You are ready to start this fun and addictive puzzle game called Crowd Run 3D. H
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Arcade, Avoid, Boy, Boys, Collecting, H5, HTML, HTML5, Hypercasual, Kid, Kids, Race, Racing, run, running, Side Scrolling

@@ -19,6 +19,6 @@ Click or touch groups of minimum 2 blocks of the same color to erase them. The m
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, HTML5, Matching, Mobile, Puzzle
+- Tags: block, HTML5, Matching, Mobile, Puzzle

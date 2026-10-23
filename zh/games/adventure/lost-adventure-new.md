@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒險, 飞机, 飞机, Android, 动物, Casual, 水, 狼, 世界, Zombie
+- 标签: 冒险, 飞机, 飞机, 安卓, 动物, 休闲, 水, 狼, 世界, 僵尸

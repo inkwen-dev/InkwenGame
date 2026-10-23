@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, 单人游戏, 2026 年游戏, 2048, Board, 经典, HTML5, html5游戏, 数学, 拼图
+- 标签: .io, 单人, 2026 游戏, 2048, 棋盘, 经典, HTML5, HTML5游戏, 数学, 益智

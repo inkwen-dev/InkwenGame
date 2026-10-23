@@ -21,4 +21,4 @@ WASD Arrow keys to move Hold down the left mouse button to shoot
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: assasin, Classic, Monster, Shooter
+- Tags: assasin, Classic, monster, Shooter

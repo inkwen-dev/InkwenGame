@@ -21,4 +21,4 @@ Do not worry about classical mathematical examples. This game can be as addition
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, HTML5, Kids, Math, Mobile, School
+- Tags: educational, HTML5, Kids, math, Mobile, School

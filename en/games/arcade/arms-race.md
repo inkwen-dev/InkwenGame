@@ -19,6 +19,6 @@ Arms Race is a fast-paced game where you merge duplicate weapons to forge an inc
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Gun, Sword, Unity3D, WebGL
+- Tags: Adventure, Arcade, Gun, sword, Unity3D, WebGL

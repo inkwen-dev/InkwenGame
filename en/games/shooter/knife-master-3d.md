@@ -21,4 +21,4 @@ Knife Master - Knife Hit is New Action Game with Ultimate Knife Challenge , Aim 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Casual, Hypercasual, Knight, Shoot, Shooter, Shooting
+- Tags: 3D, Action, Casual, Hypercasual, knight, Shoot, Shooter, Shooting

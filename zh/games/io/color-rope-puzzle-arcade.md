@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 3D, 3D游戏, 动作, 街机, Board, 休闲, 色彩, 涂色, 休闲, 益智, Unity3D
+- 标签: .io 游戏, 3D, 3D游戏, 动作, 街机, 棋盘, 休闲, 颜色, 着色, 超休闲, 益智, Unity3D

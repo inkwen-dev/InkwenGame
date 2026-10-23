@@ -21,4 +21,4 @@ smash cars 这是一款允许你与最佳赛车手竞争的游戏。你需要避
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 男孩, 男孩们, 汽车, 赛车, HTML5, 竞速, 竞速, WebGL
+- 标签: 3D, 男孩, 男孩们, 汽车, 汽车, HTML5, 比赛, 竞速, WebGL

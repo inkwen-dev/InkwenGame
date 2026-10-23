@@ -19,6 +19,6 @@ This is a single-choice correct Physics quiz where each question is knockout and
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Educational, Physics, Science
+- Tags: Best Games, educational, Physics, Science

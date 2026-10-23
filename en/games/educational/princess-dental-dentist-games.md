@@ -27,4 +27,4 @@ Welcome to the city dental clinic, where princesses come for their smiles! Help 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Doctor, Educational, Girls, Kids, Point And Click, Princess, Surgery
+- Tags: Doctor, educational, Girls, Kids, Point And Click, Princess, surgery

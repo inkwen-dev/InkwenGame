@@ -21,4 +21,4 @@ Skibidi Toi 是一款令人兴奋且极具上瘾性的移动游戏，将玩家�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, Android, 子弹, HTML5, 移动, 射击, 斯基比迪, 斯基比迪马桶
+- 标签: 2D, 安卓, 子弹, HTML5, 移动设备, 射击, Skibidi, skibidi-toilet

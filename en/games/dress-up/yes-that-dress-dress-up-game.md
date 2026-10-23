@@ -21,4 +21,4 @@ Yes, That Dress is a fashionable dress game. You are a stylist. Your customers a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Business, Design, Dress Up, Educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Makeover
+- Tags: 3D, 3D Games, Business, Design, Dress Up, educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Makeover

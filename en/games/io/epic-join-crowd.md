@@ -19,6 +19,6 @@ In Epic Join Crowd, a fun-filled hypercasual game, you have to save the prison w
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, Boy, Boys, Castle, Casual, Clans, Clash, Defense, Escape, Fun, Funny, Hypercasual, Mobile, WebGL

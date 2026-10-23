@@ -19,6 +19,6 @@ Beast Teen Boy-Titans Go game! Find treasures & survive through the jungle! Beas
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Cartoon Network, Classic, Craft, Island, Mario, Minecraft, Monster, Pirate, running, Zombie
+- Tags: Adventure, Cartoon Network, Classic, Craft, Island, mario, Minecraft, monster, Pirate, running, Zombie

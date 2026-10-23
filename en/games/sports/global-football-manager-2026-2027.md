@@ -21,4 +21,4 @@ Take control of your dream team in Global Football Manager 2026! This comprehens
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, HTML5, Management, Simulation, Soccer, Sports, Strategy
+- Tags: Football, HTML5, management, Simulation, Soccer, sports, strategy

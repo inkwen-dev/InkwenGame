@@ -19,6 +19,6 @@ Kids Learn Professions is a very popular educational game. This game contains lo
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Educational, Girls, Puzzle
+- Tags: Boys, educational, Girls, Puzzle

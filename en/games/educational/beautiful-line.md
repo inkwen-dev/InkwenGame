@@ -21,4 +21,4 @@ Encourage fun to learn Maths It is a beautiful app, let you learning how line to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Casual, Classic, Click, Draw, Educational, Family, Fun, Hypercasual, Logical, Math, Turn Based
+- Tags: Best, Casual, Classic, Click, Draw, educational, Family, Fun, Hypercasual, Logical, math, Turn Based

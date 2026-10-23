@@ -21,4 +21,4 @@ You are a skateboarding enthusiast, with Ben 10 and the heroes skate through the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Ben 10, Skateboard, Skating, Sport, Sports
+- Tags: Adventure, Ben 10, skateboard, Skating, Sport, sports

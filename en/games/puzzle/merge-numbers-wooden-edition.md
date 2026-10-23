@@ -21,4 +21,4 @@ Are you ready to take up the challenge of this game that mixes tetris and 2048? 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Logic, Number, Puzzle, Tetris
+- Tags: Brain, Casual, Logic, Number, Puzzle, tetris

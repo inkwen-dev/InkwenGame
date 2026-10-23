@@ -19,6 +19,6 @@ Welcome to our newest Christmas theme game Santa Stars Shooter. The game has 20 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Christmas, Fun, Kids, Shooter, Shooting, Winter

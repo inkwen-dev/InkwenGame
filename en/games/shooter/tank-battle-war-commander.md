@@ -21,4 +21,4 @@ Command your army in epic battles in this new world war. It is a turn based stra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Aircraft, Army, Bomb, Gun, Shoot, Strategy, Tank, War, weapons
+- Tags: Action, Adventure, Aircraft, Army, Bomb, Gun, Shoot, strategy, Tank, War, weapons

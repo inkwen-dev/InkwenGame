@@ -21,4 +21,4 @@ Geometry Vibes Monster is a reaction-based arcade game where you must dodge inco
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Action, Geometry, Monster
+- Tags: 2 Player, 2 Player Games, Action, Geometry, monster

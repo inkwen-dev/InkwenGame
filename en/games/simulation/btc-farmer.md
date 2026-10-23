@@ -21,4 +21,4 @@ BTC Farmer is an instant money idle clicker game that offers a virtual crypto mi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Click, Clicker, Hypercasual, Management, Miner
+- Tags: Arcade, Casual, Click, Clicker, Hypercasual, management, Miner

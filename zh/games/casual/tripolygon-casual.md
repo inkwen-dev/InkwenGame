@@ -21,4 +21,4 @@ Tripolygon 是一款通过旋转彩色三角形来摧毁横条的游戏。共有
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 休闲, 超休闲, 像素, 坦克, 坦克
+- 标签: 休闲, 超休闲, 像素, 坦克, tanks

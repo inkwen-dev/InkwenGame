@@ -97,4 +97,4 @@ A: The first levels of the game will introduce you to all the mechanics and plan
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: pve, Strategy, Tower Defense, Zombie
+- Tags: pve, strategy, Tower Defense, Zombie

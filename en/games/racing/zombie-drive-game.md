@@ -19,6 +19,6 @@ Experience the thrill and challenge of high speed rally racing! Push your drivin
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 3D, 3D Games, Action, Adult, Adventure, Alien, Animal, Anime, Arcade, Army, Avoid, Baby, Batman, Best, Bike, Boat, drift, drifting
+- Tags: 2 Player Games, 3D, 3D Games, Action, Adult, Adventure, Alien, Animal, Anime, Arcade, Army, Avoid, Baby, Batman, Best, bike, Boat, drift, drifting

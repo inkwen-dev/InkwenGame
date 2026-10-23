@@ -21,4 +21,4 @@ Looking for a challenging and exciting online board game? Look no further than N
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Brain, Kids, Strategy
+- Tags: Board, Brain, Kids, strategy

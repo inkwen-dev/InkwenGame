@@ -19,6 +19,6 @@ Dino Rush is a colorful and addictive platform adventure where every level bring
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Dinosaur, Jumping
+- Tags: 2D, Arcade, Dinosaur, jumping

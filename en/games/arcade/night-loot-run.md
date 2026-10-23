@@ -19,6 +19,6 @@ This is a fast-paced coin collecting arcade game set under a starry night sky. C
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, Action, Ai Games, Arcade

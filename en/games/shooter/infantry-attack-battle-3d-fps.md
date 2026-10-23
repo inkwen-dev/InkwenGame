@@ -21,4 +21,4 @@ Soldier! Stop playing the escape game! The third world war is here, and the miss
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Battle, Fighting, Gun, Shooting, War, weapons
+- Tags: 3D, battle, fighting, Gun, Shooting, War, weapons

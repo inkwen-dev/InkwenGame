@@ -21,4 +21,4 @@ Play this incredible exclusive game from kiz10.com called Sift Renegade Brawl to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Fighting, Kiz 10, kiz10
+- Tags: Action, fighting, Kiz 10, kiz10

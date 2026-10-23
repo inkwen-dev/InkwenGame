@@ -19,6 +19,6 @@ Labubu Puzzle Challenge is a fun, exciting, and completely free online jigsaw pu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Baby, Boys, Girls, Hypercasual, Jigsaw, Kids, Labubu, Mobile, Puzzle, puzzleblock

@@ -15,6 +15,6 @@ Dive into Skibidi Match Master, a vibrant match-3 puzzle adventure. Connect tile
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Match 3

@@ -21,4 +21,4 @@ Retro Run is a free to play pc game. Players must use A and D to navigate side t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Retro, runner, running
+- Tags: Arcade, retro, runner, running

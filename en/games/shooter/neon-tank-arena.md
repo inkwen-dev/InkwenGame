@@ -21,4 +21,4 @@ A great struggle awaits you on a platform with two futuristic tanks which are re
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Battle, Shooting, Tank, Tanks
+- Tags: 2 Player, 2 Player Games, battle, Shooting, Tank, tanks

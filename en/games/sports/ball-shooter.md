@@ -19,6 +19,6 @@ Earn points by matching different balls. If your balls touch the line, the game 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Baseball, Basketball, Boy, Boys, Classic, Clicker, Football, Sport, Sports
+- Tags: Ball, baseball, basketball, Boy, Boys, Classic, Clicker, Football, Sport, sports

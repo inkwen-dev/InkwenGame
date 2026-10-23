@@ -21,4 +21,4 @@ Get ready for an exciting adventure in "Noob vs Pro vs Cheater." In this thrilli
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Best, Bomb, Crazy, Minecraft, Mobile, Zombie
+- Tags: 2D, Action, Best, Bomb, crazy, Minecraft, Mobile, Zombie

@@ -21,4 +21,4 @@ The stars are in the boxing ring and it is time to fight! These funny boxing cha
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 3D, Action, Best Games, Boxing, Fight, Fighting, HTML5
+- Tags: 1 Player, 2 Player, 2 Player Games, 3D, Action, Best Games, Boxing, Fight, fighting, HTML5

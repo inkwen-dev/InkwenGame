@@ -29,4 +29,4 @@ Features of the game:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, difficult, Mobile, RPG, story, Strategy, survival
+- Tags: Adventure, difficult, Mobile, rpg, story, strategy, survival

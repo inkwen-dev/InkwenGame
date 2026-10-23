@@ -21,4 +21,4 @@ In the world there are many different, important and necessary professions. One 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cute, Doctor, Educational, Girl, Girls, Kids, Simulation, Surgery
+- Tags: Animal, Cute, Doctor, educational, Girl, Girls, Kids, Simulation, surgery

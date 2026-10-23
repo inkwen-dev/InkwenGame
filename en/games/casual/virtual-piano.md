@@ -21,4 +21,4 @@ Virtual musical instruments have been popular from the moment touchscreen phones
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, HTML5, Mobile, Music
+- Tags: 1 Player, HTML5, Mobile, music

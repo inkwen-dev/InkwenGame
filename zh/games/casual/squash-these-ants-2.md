@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动物, 男孩, 休闲, 点击, 点击器, 无尽, 家庭, HTML, HTML5, kids, 移动, 植物
+- 标签: 动物, 男孩们, 休闲, 点击, 点击器, 无尽, 家庭, HTML, HTML5, 儿童, 移动设备, 植物

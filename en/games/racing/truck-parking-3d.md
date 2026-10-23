@@ -19,6 +19,6 @@ Game Monetize is full of Parking games and Car parking games, but none as realis
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Adventure, Car, Driving, Online, Parking, Race, Simulation, Simulator, Truck
+- Tags: 1 Player, 3D Games, Adventure, Car, Driving, Online, parking, Race, Simulation, Simulator, truck

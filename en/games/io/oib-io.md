@@ -21,4 +21,4 @@ Oib.io is a micro gestion and strategy io game. Spawn, regroup and split your ar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Cute, Jelly, Pixel, PvP, Strategy
+- Tags: .io Games, Cute, Jelly, pixel, PvP, strategy

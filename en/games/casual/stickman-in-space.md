@@ -22,4 +22,4 @@ Join Stickman in Space for a thrilling journey as a lost astronaut on the moon. 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Space, Stickman
+- Tags: Space, stickman

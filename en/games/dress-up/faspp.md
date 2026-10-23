@@ -19,6 +19,6 @@ Ready to wow fashion show with your unique styles. Start designing looks for sup
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Casual, Dress Up, Fashion, Hypercasual, Makeover, Shopping, Unity3D

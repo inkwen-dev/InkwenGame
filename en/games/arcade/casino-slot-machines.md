@@ -19,6 +19,6 @@ This is Casino Slot Machines, a slot machine casino game Tap the spin button and
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casino, Click, Clicker, HTML5, Mobile, Point And Click, Slot Machine

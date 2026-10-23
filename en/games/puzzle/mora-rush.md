@@ -19,6 +19,6 @@ Have you played a guessing game? Rock-paper-scissors game, I think you should ha
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boy, Girl, Kid, Puzzle, run

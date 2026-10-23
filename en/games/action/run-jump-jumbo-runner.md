@@ -21,4 +21,4 @@ Run & Jump: Jumbo Runner is an online runner game that will keep you on your toe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Game, Games, HTML5, Hypercasual, jump, Jumping
+- Tags: Arcade, Game, Games, HTML5, Hypercasual, jump, jumping

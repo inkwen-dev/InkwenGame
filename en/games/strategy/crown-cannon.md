@@ -21,4 +21,4 @@ Crown &amp; Cannon is a fast-paced 2D strategy game where players expand territo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Sandbox, Strategy, Tower Defense
+- Tags: Action, Sandbox, strategy, Tower Defense

@@ -21,4 +21,4 @@ The lovable princess Mia are getting ready to celebrate her Christmas and she ne
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Aircraft, Baby, Baby Hazel, Barbie, Boys, Christmas, Dora, Girls, Halloween, Kids, Mario, School
+- Tags: Aircraft, Baby, Baby Hazel, Barbie, Boys, Christmas, Dora, Girls, Halloween, Kids, mario, School

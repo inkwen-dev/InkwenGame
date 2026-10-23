@@ -21,4 +21,4 @@ Welcome to Newborn Baby Care, a casual baby care simulation game, where you need
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Games, Educational, Kids
+- Tags: Baby Games, educational, Kids

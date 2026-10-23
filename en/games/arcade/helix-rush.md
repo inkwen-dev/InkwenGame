@@ -21,4 +21,4 @@ Helix Rush is a fast-paced 3D helix jump arcade game! Rotate the spiral tower an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Ball, Casual, endless, Helix, Highscore, Hypercasual, jump, Jumping, onetouch, unity, WebGL
+- Tags: 3D, Arcade, Ball, Casual, endless, Helix, Highscore, Hypercasual, jump, jumping, onetouch, unity, WebGL

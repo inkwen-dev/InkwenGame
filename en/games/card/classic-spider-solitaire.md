@@ -19,6 +19,6 @@ Spider Solitaire is a popular classic card game. You need to move cards and drag
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Puzzle, Spiderman

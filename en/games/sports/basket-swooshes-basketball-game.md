@@ -21,4 +21,4 @@ Fun online basketball game for one or two players. Choose your favorite basketba
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Sport, Sports
+- Tags: 2 Player, 2 Player Games, Sport, sports

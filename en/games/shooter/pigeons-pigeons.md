@@ -21,4 +21,4 @@ Everybody knows that pigeons are the greatest menace to the safety of the humank
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Animal, Bird, Blood, Pixel, Shoot, Shooter, Shooting
+- Tags: 1 Player, 2D, Action, Animal, Bird, Blood, pixel, Shoot, Shooter, Shooting

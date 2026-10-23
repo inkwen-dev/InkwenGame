@@ -19,6 +19,6 @@ Play Cartoon Dinosaur Memory Challenge for free online! Turn over two cards and 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boys, Fun, Girls, HTML5, Kids, Memory, School, Skill
+- Tags: Android, Boys, Fun, Girls, HTML5, Kids, memory, School, Skill

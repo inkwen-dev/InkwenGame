@@ -21,4 +21,4 @@ Baby Care Game is a very cute caring game. In this game, you will learn how to t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cute, Fun, Girls, Grooming, HTML5, Kids, Mobile, Music, Plant
+- Tags: Animal, Baby, Cute, Fun, Girls, Grooming, HTML5, Kids, Mobile, music, Plant

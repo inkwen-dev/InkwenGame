@@ -21,4 +21,4 @@ QBlock Puzzle - Addictive block game for fans of puzzles, jigsaw, and classic wo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Bejeweled, Block, Board, Brain, Casual, Classic, free games for your site, HTML5, Logic, Mind, puzzleblock, Tetris, WebGL
+- Tags: 1 Player, Bejeweled, block, Board, Brain, Casual, Classic, free games for your site, HTML5, Logic, Mind, puzzleblock, tetris, WebGL

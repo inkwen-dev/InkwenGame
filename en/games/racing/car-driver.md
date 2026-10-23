@@ -21,4 +21,4 @@ How do you like car parking simulation games? Here we need you to help us park t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, 3D Games, Adventure, Arcade, Car, Cars, Hypercasual, Parking, Race, Racing, Simulation, Simulator, Supercars
+- Tags: .io, 1 Player, 3D Games, Adventure, Arcade, Car, Cars, Hypercasual, parking, Race, Racing, Simulation, Simulator, Supercars

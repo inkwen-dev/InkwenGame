@@ -19,6 +19,6 @@ Princess Dream Bakery is a lovely cooking game. Little princess loves cooking de
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cooking, Cute, Family, Food, Fun, Girls, HTML5, Kids, Mobile, Princess

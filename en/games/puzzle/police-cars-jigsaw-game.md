@@ -19,6 +19,6 @@ Police Cars Jigsaw is jigsaw game where you need to create image wit police car,
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cars, Jigsaw, Police, Puzzle
+- Tags: Cars, Jigsaw, police, Puzzle

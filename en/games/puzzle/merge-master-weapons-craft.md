@@ -19,6 +19,6 @@ Merge Master: Weapons Craft is a fun and addictive game where you become the ult
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Click, Clicker, idle, Point And Click, Relaxation, Shoot, Shooting, Sword, unity, unity games, unity games for your site, unity games for your website
+- Tags: 1 Player, Arcade, Click, Clicker, idle, Point And Click, Relaxation, Shoot, Shooting, sword, unity, unity games, unity games for your site, unity games for your website

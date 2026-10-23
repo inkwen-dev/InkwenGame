@@ -21,4 +21,4 @@ Black And White Pumpkin is an endless jumping game that will both frustrate and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Halloween, HTML, HTML5, Hypercasual, jump, Jumping, Mobile, Racing
+- Tags: Halloween, HTML, HTML5, Hypercasual, jump, jumping, Mobile, Racing

@@ -21,4 +21,4 @@ a cemetery escape story you are a cat and you are escaping from the cemetery you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Arcade, Arena, Retro
+- Tags: 1 Player, 2D, Action, Adventure, Arcade, Arena, retro

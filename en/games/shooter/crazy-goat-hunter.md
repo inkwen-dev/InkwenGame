@@ -19,6 +19,6 @@ You are crazy goat hunter and your mission is to find and shoot all goats in the
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Animal, Gun, Killing, Shoot 'Em Up, Shooter, Shooting, Unity3D, WebGL

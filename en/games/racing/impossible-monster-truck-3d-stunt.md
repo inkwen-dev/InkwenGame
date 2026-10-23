@@ -19,6 +19,6 @@ Welcome to IMPOSSIBLE MONSTER TRUCK 3D STUNT on the extreme ramps. Players offer
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, bus, Car, drifting, Driving, Fun, Monster, Race, Racing, Supercars, Truck
+- Tags: 1 Player, Adventure, bus, Car, drifting, Driving, Fun, monster, Race, Racing, Supercars, truck

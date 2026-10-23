@@ -19,6 +19,6 @@ Do you like the Pacman game? If yes, this game is dedicated to you. Try a new ch
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Casual, HTML, HTML5

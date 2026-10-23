@@ -19,6 +19,6 @@ Fruit Fall Crush is a fun & addictive match3 Puzzle game. Swap & match 3 identic
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Bubble, Bubble Shooter, Candy, Casual, Fruit, Fruits, Match 3, Match3

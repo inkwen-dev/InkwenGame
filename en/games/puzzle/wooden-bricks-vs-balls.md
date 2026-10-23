@@ -21,4 +21,4 @@ Wooden Bricks vs Balls is the ultimate brick-breaking challenge for all ages! Un
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Best Games, Block, Bricks, Casual, html5 games, Hypercasual
+- Tags: Ball, Best Games, block, Bricks, Casual, html5 games, Hypercasual

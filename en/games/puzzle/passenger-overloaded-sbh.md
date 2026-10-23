@@ -21,4 +21,4 @@ Passengers Overload - City Bus Simulator Game is a unique game of its kind. Pres
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Adventure, Arcade, Barbie, Bike, Boy, Boys, Bubble, Bubble Shooter, bus, Cake, Candy, Car, Cars, Dancing, drift, Driving, Fun, Funny, Game, Games, Girl, Girls, jump, Jumping, Mario, Moto, Motorcycle, Race, Sim, Simulation, Simulator, Spaceship, Truck
+- Tags: 8 Ball Pool, Adventure, Arcade, Barbie, bike, Boy, Boys, Bubble, Bubble Shooter, bus, Cake, Candy, Car, Cars, Dancing, drift, Driving, Fun, Funny, Game, Games, Girl, Girls, jump, jumping, mario, Moto, Motorcycle, Race, Sim, Simulation, Simulator, Spaceship, truck

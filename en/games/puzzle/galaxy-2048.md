@@ -19,6 +19,6 @@ Galaxy 2048 is a fun and addictive puzzle game inspired by the classic 2048 game
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Block, Brain, Casual, Classic, HTML5, Logic, Math, Mobile, Number
+- Tags: 1 Player, 2D, block, Brain, Casual, Classic, HTML5, Logic, math, Mobile, Number

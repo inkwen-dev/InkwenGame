@@ -19,6 +19,6 @@ Jake vs Pirate Run is an exciting running game where you have to help a young sa
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping, Pirate, Platform, running
+- Tags: jumping, Pirate, Platform, running

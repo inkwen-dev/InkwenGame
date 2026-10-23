@@ -21,4 +21,4 @@ FIFA Score is an online football penalty game that is perfect for fans of the sp
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Game, Games, HTML5, Online, Sports
+- Tags: Arcade, Game, Games, HTML5, Online, sports

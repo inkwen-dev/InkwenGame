@@ -15,6 +15,6 @@ Sneak, dodge, and strategize as a clever virus in Virology, the inventive 2D pla
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: platformer

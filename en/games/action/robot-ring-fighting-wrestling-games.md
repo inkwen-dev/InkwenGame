@@ -19,6 +19,6 @@ Are you want to take down the opponent in the robot ring revolution wrestling ba
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boxing, Fight, Fighting, Robot, Street Fighting, Unity3D
+- Tags: 3D, 3D Games, Boxing, Fight, fighting, Robot, Street Fighting, Unity3D

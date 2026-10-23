@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 成人, 男孩, 设计, 换装
+- 标签: 成人, 男孩们, 设计, 装扮

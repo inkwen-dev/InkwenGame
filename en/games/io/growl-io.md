@@ -15,6 +15,6 @@ Roam the wild in Growl.io, a thrilling multiplayer game where you evolve from a 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: .io

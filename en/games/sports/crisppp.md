@@ -21,4 +21,4 @@ Crispy potato chips factory game is the best opportunity for foodies who likes t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Arcade, Billiard, Casual, Crazy, Creation, Fun, Funny, Hot, Hypercasual, Machine, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Arcade, Billiard, Casual, crazy, Creation, Fun, Funny, Hot, Hypercasual, Machine, Unity3D

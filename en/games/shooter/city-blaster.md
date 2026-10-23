@@ -21,4 +21,4 @@ Defend your city from incoming enemies by shooting planes, soldiers and tanks! S
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: endless, HTML5, Mobile, Retro, Shooter
+- Tags: endless, HTML5, Mobile, retro, Shooter

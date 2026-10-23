@@ -19,6 +19,6 @@ K Games Challenge is used to replay the games in the famous film called Squid Ga
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Jumping, Mobile, Platform, running, Simulation, Stickman, Timing, WebGL
+- Tags: 3D, jumping, Mobile, Platform, running, Simulation, stickman, Timing, WebGL

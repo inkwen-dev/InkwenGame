@@ -19,6 +19,6 @@ American Fast Police Car Driving Game 3D is an amazing police car driving simula
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Boys, Car, drift, Driving, HTML, HTML5, Police, Racing, Simulation, Simulator
+- Tags: Action, Adventure, Boys, Car, drift, Driving, HTML, HTML5, police, Racing, Simulation, Simulator

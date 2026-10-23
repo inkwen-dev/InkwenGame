@@ -19,6 +19,6 @@ Have you ever heard of Squid Game these days? Now we recommend a skillful runnin
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Boy, Casual, Fun, Game, Kid, Puzzle, Skill

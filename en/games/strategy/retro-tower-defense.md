@@ -19,6 +19,6 @@ Retro Tower Defense is a classic tower defense game with a retro twist. In this 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, amazing, Fight, Fighting, free html5 games for your website, HTML, html games for your website, HTML5, html5 games, html5 games for your site, NapTech Games, Tower Defense, War
+- Tags: Action, Adventure, amazing, Fight, fighting, free html5 games for your website, HTML, html games for your website, HTML5, html5 games, html5 games for your site, NapTech Games, Tower Defense, War

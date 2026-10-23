@@ -19,6 +19,6 @@ Coin Master Run: Rush 3D is designed to provide a straightforward and accessible
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Crazy, Hypercasual, Puzzle
+- Tags: Casual, crazy, Hypercasual, Puzzle

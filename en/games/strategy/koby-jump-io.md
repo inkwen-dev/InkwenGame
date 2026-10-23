@@ -19,6 +19,6 @@ Koby Jump Escape is a great HTML5 platform game. Help Koby to escape from prison
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D, RPG, running, Samurai, Sandbox, Side Scrolling, Silver, Sim, Simpson, Simulation, Sport, Sports, Stack, Stealth, Stickman, Strategy, sumo, Super, Supercars, Superhero, surfers, Surgery, Tetris, Timing, Tower Defense, Traffic, Train, War, weapons, WebGL, Whack, Winter, Word, World, Worm, Worms, Zombie, Zuma
+- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D, rpg, running, Samurai, Sandbox, Side Scrolling, Silver, Sim, Simpson, Simulation, Sport, sports, Stack, Stealth, stickman, strategy, sumo, Super, Supercars, Superhero, surfers, surgery, tetris, Timing, Tower Defense, Traffic, Train, War, weapons, WebGL, Whack, Winter, word, World, worm, Worms, Zombie, Zuma

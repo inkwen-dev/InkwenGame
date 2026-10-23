@@ -19,6 +19,6 @@ Bob the Builder Coloring: Creative Fun for Little Artists. Fun online coloring g
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boys, builder, Coloring, Educational, Fun, Girls, Hypercasual, School
+- Tags: Arcade, Boys, builder, Coloring, educational, Fun, Girls, Hypercasual, School

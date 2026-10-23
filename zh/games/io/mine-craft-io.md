@@ -21,4 +21,4 @@ Mine-craft.io 是一款基于 Minecraft 的游戏。在 Mine Craft 中，你可�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 动物, 最佳, 方块, 炸弹, 弓, 砖块, 蛋糕, 手工, 创作, 可爱, 我的世界, 多人, 僵尸
+- 标签: .io, .io 游戏, 动物, 最佳, 方块, 炸弹, 弓箭, 砖块, 蛋糕, 制作, 创作, 可爱, 我的世界, 多人, 僵尸

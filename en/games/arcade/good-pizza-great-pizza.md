@@ -19,6 +19,6 @@ Ever wanted to know what it feels like to run your own Pizza shop? Now you can w
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player Games, 3D Games, 8 Ball Pool, Adventure, Arcade, Arena, Baby, Baby Hazel, Barbie, Battlegrounds, Clicker, Food, Game, Games, Girl, Girls, Grooming, Hypercasual, Memory, Moto, Motorcycle, Quiz
+- Tags: 1 Player, 2 Player Games, 3D Games, 8 Ball Pool, Adventure, Arcade, Arena, Baby, Baby Hazel, Barbie, Battlegrounds, Clicker, Food, Game, Games, Girl, Girls, Grooming, Hypercasual, memory, Moto, Motorcycle, Quiz

@@ -19,6 +19,6 @@ Offline 3D auto-driving games are the finest approach to getting started in a pa
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Parking, Racing, Supercars
+- Tags: Car, Cars, parking, Racing, Supercars

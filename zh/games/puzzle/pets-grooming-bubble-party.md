@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动物, 婴儿游戏, 可爱, 换装, 食物, HTML, 儿童
+- 标签: 动物, 婴儿游戏, 可爱, 装扮, 食物, HTML, 儿童

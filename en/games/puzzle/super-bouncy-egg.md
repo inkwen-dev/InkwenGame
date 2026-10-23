@@ -21,4 +21,4 @@ Welcome to the Super Bouncy Egg game. In this bouncy physics game, you have to b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping, Physics, Puzzle, Skill
+- Tags: jump, jumping, Physics, Puzzle, Skill

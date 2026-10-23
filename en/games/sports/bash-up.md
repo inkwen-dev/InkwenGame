@@ -19,6 +19,6 @@ Bash Up fun and exciting game to play on. Here is the ball which has to survive 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Baseball, Block, Boys, endless, Family, Girls, Hypercasual, Kids
+- Tags: Ball, baseball, block, Boys, endless, Family, Girls, Hypercasual, Kids

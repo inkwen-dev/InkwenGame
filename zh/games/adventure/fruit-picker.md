@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 冒险, 大脑, 家庭, 食物, 游戏, 游玩, WebGL
+- 标签: 单人, 2D, 冒险, 大脑, 家庭, 食物, 游戏, 玩, WebGL

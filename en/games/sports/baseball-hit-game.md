@@ -21,4 +21,4 @@ A baseball game, that will test your batting skills. Battle against other hitter
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baseball, Casual, Hypercasual, Sport, Sports
+- Tags: baseball, Casual, Hypercasual, Sport, sports

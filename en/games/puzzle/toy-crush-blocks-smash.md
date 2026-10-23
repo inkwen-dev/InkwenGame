@@ -19,6 +19,6 @@ Toy Crush Blocks Smash is a new Match 2 with 3100 levels, NO LIVES and many spec
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, Funny
+- Tags: 1 Player, block, Funny

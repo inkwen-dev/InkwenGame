@@ -21,4 +21,4 @@ Trucks Coloring books is coloring game with trucks. Choose which truck you want 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Puzzle, Truck
+- Tags: Coloring, Puzzle, truck

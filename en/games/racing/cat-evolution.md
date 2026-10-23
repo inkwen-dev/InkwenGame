@@ -19,6 +19,6 @@ Cat Evolution is a fun parkour game. You will play as a cat, as a carnivore, col
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Cat

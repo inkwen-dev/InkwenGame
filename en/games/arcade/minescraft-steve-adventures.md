@@ -19,6 +19,6 @@ Hunt down zombies, skeleton men and exploding monsters with Steve, but don't for
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Android, Arcade, Block, Craft, Minecraft
+- Tags: Action, Adventure, Android, Arcade, block, Craft, Minecraft

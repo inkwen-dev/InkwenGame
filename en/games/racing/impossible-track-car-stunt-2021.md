@@ -21,4 +21,4 @@ Impossible Track Car Stunt 2021 brings the real exciting aspects of a youngsterâ
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Car, Cars, drift, Fun, Parking, Race, Racing, Supercars
+- Tags: Action, Adventure, Car, Cars, drift, Fun, parking, Race, Racing, Supercars

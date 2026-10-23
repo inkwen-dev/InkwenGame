@@ -19,6 +19,6 @@ Embark on a thrilling adventure with Number Quest, an engaging and educational p
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kid, Kids, NapTech Games, Puzzle
+- Tags: educational, Kid, Kids, NapTech Games, Puzzle

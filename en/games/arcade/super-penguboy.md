@@ -19,6 +19,6 @@ Beat all the levels and collect all the stars
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Adventure, Animal, Arcade, Best, Boys, Collecting, Family, Fun, Girls, Highscore, HTML5, Kids, Punch, run

@@ -21,4 +21,4 @@ This is educational game with numbers for your kids. In this game the player can
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kids, Memory, Number, Puzzle
+- Tags: Kids, memory, Number, Puzzle

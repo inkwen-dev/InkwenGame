@@ -19,6 +19,6 @@ Lion simulator games 2019 were never been so electrifying. This angry lion city 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Battle, Boys, Disney, Gun
+- Tags: Animal, battle, Boys, Disney, Gun

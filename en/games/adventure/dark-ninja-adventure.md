@@ -21,4 +21,4 @@ This is not an ordinary ninja, in fact, this is a skillful collector of stars an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, HTML5, Ninja, Puzzle
+- Tags: Action, HTML5, ninja, Puzzle

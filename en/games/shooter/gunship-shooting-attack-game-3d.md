@@ -19,6 +19,6 @@ Gunship Shooting Attack Game 3D is the most immersive and realistic 3D helicopte
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2025 games, 3D Games, Action, Arcade, attack, Bullet, Enemy, Gun, Shooting, War

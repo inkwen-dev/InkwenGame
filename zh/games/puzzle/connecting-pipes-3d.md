@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 轻度休闲, 管道, 益智
+- 标签: 3D, 超休闲, 管道, 益智

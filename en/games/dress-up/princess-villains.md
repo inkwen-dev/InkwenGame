@@ -19,6 +19,6 @@ Let's fantasize a little and imagine our favorite princesses in the form of fabu
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Crazy, Cute, Design, Disney, Dress Up, Elsa, Fantasy, Fashion, Funny, Girl, Hair, HTML5, Makeover, Monster, Pirate, Princess, Witch
+- Tags: Cartoon, crazy, Cute, Design, Disney, Dress Up, Elsa, Fantasy, Fashion, Funny, Girl, Hair, HTML5, Makeover, monster, Pirate, Princess, Witch

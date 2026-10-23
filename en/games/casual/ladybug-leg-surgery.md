@@ -19,6 +19,6 @@ Oh no Dotted Girl got into an accident No she doesn't feel very well and needs a
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, Barbie, Cake, Candy, Doctor, Girls, Mario
+- Tags: Baby, Baby Hazel, Barbie, Cake, Candy, Doctor, Girls, mario

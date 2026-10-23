@@ -21,4 +21,4 @@ Your main goal in this game will be to complete each level, collecting all the p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Click, Clicker, H5, HTML, HTML5, Hypercasual, Puzzle, Snake, Taxi, Train
+- Tags: Arcade, Click, Clicker, H5, HTML, HTML5, Hypercasual, Puzzle, snake, Taxi, Train

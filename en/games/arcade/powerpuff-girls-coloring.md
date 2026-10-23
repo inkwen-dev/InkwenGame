@@ -19,6 +19,6 @@ Powerpuff Girls Coloring Book for Kids And Adults - Relaxing html5 game. Join ha
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Baby, Cartoon, Color, Coloring, Girls, HTML5, Kids, Mobile, School

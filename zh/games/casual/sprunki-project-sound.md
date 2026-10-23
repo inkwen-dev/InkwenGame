@@ -21,4 +21,4 @@ Sprunki Project Sound 是一款创意音乐游戏，玩家可以将音效图标�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, Mentolatux, 音乐, Sprunki, Unity3D
+- 标签: 2D, Mentolatux, 音乐, 斯普朗基, Unity3D

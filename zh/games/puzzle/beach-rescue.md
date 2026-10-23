@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 船, 点击, HTML5, 超休闲, iPad, iPhone, Mentolatux, 益智
+- 标签: 安卓, 船只, 点击, HTML5, 超休闲, iPad, iPhone, Mentolatux, 益智

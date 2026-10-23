@@ -21,4 +21,4 @@ Restaurant Boss is a casual simulation game where you manage a Restaurant and ex
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Food, Simulation, Strategy
+- Tags: Brain, Food, Simulation, strategy

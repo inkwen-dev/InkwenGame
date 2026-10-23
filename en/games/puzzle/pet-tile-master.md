@@ -19,6 +19,6 @@ Enjoy a fun pet-themed tile-matching challenge in Pet Tile Master! Draw up to 9 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Mahjong, Match 3, Matching
+- Tags: 1 Player, Animal, mahjong, Match 3, Matching

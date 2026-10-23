@@ -21,4 +21,4 @@ MineStrike.fun is a fun Minecraft style game. Eat cakes, cookies, cooked fish an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2D, Action, Animal, Arcade, Battle, Block, Minecraft, Sword, Zombie
+- Tags: .io, .io Games, 2D, Action, Animal, Arcade, battle, block, Minecraft, sword, Zombie

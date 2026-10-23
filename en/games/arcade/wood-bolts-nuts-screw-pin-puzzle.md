@@ -21,4 +21,4 @@ Pin master: Screw puzzle quest &amp; brain games challenges your problem-solving
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Cartoon, Casual, Educational, Hypercasual, Logic, Logical, Physics, Puzzle
+- Tags: Arcade, Brain, Cartoon, Casual, educational, Hypercasual, Logic, Logical, Physics, Puzzle

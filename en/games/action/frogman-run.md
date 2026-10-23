@@ -19,6 +19,6 @@ Frogman Run is a html5 arcade game, tab to jump and avoid the enemy, Collect App
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, HTML5, Pixel, run, running
+- Tags: 1 Player, 2D, Arcade, HTML5, pixel, run, running

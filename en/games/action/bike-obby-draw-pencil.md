@@ -19,6 +19,6 @@ Use your creativity and reflexes to complete the missing paths in 3D Side Platfo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 3D, 3D Games, Action, Adventure, Arcade, Mobile, roblox

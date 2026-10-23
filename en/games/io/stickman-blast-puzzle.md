@@ -21,4 +21,4 @@ Fire &amp; collect palm blast ! Fun&amp;crazy stickman clicker ever !! Eliminate
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2025 games, 2026 games, Best Games, free games for your site, free games for your website, free html5 games for your website, Hypercasual, Puzzle, Stickman
+- Tags: .io Games, 1 Player, 2025 games, 2026 games, Best Games, free games for your site, free games for your website, free html5 games for your website, Hypercasual, Puzzle, stickman

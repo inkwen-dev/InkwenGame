@@ -21,4 +21,4 @@ This cartoon tells a story about Teenage elf brothers, Ian and Barley, to embark
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Baby, Boy, Boys, Cartoon, Casual, Disney, Educational, Girl, Girls, H5, HTML5
+- Tags: Anime, Baby, Boy, Boys, Cartoon, Casual, Disney, educational, Girl, Girls, H5, HTML5

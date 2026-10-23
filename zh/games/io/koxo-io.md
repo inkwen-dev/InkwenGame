@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 竞技场, 避开, 球类, 战斗, Boxing, 多人
+- 标签: .io 游戏, 竞技场, 躲避, 球, 战斗, Boxing, 多人

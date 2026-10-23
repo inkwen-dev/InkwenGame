@@ -19,6 +19,6 @@ Lego Superhero Race is mind blowing racing game for Lego lovers. 10 different ra
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Adventure, Batman, Cars, city, Driving, Lego, Race, Racing, Stunts, Superhero, Timing, Traffic, WebGL

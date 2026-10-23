@@ -21,4 +21,4 @@ Now its time to take a look at some pictures with Skibidi Toilet. Behind these p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Difference, Fun, Funny, HTML5, Kids, Skibidi, Skibidi Toilet
+- Tags: Best, Difference, Fun, Funny, HTML5, Kids, Skibidi, skibidi-toilet

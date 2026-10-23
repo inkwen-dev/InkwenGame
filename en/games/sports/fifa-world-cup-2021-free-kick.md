@@ -19,6 +19,6 @@ Fifa World Cup 2021 : Free Kick , win the champions league and be a hero of fifa
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Football, Shoot, Soccer, Sport, Sports
+- Tags: 2 Player, Football, Shoot, Soccer, Sport, sports

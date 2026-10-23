@@ -19,6 +19,6 @@ The most epic war game is now available. Play now to : "Army of Soldiers : World
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Ben 10, Boy, Boys, Fun, Funny, Game, Games, Gun, Kid, Kill, Killing, Skill, Solitaire, Sword, War
+- Tags: Army, Ben 10, Boy, Boys, Fun, Funny, Game, Games, Gun, Kid, Kill, Killing, Skill, solitaire, sword, War

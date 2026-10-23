@@ -21,4 +21,4 @@ Hedgehog Go Home is a charming puzzle game where you help the hedgehog find a sa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Block, Click, Logic
+- Tags: Animal, block, Click, Logic

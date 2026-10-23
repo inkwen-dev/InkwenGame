@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Adventure, 最佳, 点击, 点击游戏, H5, 高分, 热门, HTML, HTML5, 忍者, 忍者神龟
+- 标签: 冒险, 最佳, 点击, 点击器, H5, 高分, 热门, HTML, HTML5, 忍者, 忍者神龟

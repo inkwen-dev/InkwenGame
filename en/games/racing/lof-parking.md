@@ -21,4 +21,4 @@ Drive the car towards asked parking slot. Avoid any collision with other cars or
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Driving, HTML5, Mobile, Parking
+- Tags: Arcade, Driving, HTML5, Mobile, parking

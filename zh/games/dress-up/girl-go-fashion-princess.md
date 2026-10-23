@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 双人游戏, Android, 时尚, 女孩, HTML5, 移动设备
+- 标签: 单人, 双人, 安卓, 时尚, 女孩, HTML5, 移动设备

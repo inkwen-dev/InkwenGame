@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动物, 婴儿, 小哈泽尔, 教育, HTML, HTML5, 孩子, 儿童, 数字
+- 标签: 动物, 婴儿, 小哈泽尔, 教育, HTML, HTML5, 儿童, 儿童, 数字

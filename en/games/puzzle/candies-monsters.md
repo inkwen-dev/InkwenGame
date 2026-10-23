@@ -21,4 +21,4 @@ Help to a little monsters eat a candy with same color, but be careful, candies w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bubble, Candy, Cool, Cute, Matching, Monster, Puzzle
+- Tags: Bubble, Candy, cool, Cute, Matching, monster, Puzzle

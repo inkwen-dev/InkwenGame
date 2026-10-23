@@ -19,6 +19,6 @@ Experience Puzzle Games high-speed, action-packed take on one of the world’s m
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Arcade, Classic

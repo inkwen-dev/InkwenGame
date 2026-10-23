@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 箭头, 休闲, 射击
+- 标签: 2D, 箭矢, 休闲, 射击

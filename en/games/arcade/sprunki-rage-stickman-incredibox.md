@@ -21,4 +21,4 @@ Sprunki Rage Stickman Incredibox is fun and addictive beatemup game with realist
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Sprunki, Stickman
+- Tags: Action, Arcade, Sprunki, stickman

@@ -19,6 +19,6 @@ Mad Warrior is a fun action game where you can evolve by collecting gems and eli
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fantasy, Mobile, weapons
+- Tags: battle, Fantasy, Mobile, weapons

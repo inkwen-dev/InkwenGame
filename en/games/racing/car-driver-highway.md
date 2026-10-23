@@ -19,6 +19,6 @@ Car Driver Highway game a 3d game avoid other car to accident and different leve
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Car, Cars, Game, Games, HTML5, Kids, run, running

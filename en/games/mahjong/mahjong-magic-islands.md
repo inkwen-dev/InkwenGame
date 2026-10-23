@@ -32,4 +32,4 @@ Mahjong Magic Islands features classic mahjong solitaire in a uniquely original 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Magic, Mahjong
+- Tags: Adventure, Magic, mahjong

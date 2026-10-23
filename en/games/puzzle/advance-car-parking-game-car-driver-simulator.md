@@ -21,4 +21,4 @@ You can set camera angle by swiping on screen up, down left and right. zoom in a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2D, 3D Games, Action, Adventure, Arcade, Bubble Shooter, Car, Cars, Parking, Simulation, Simulator, Supercars, Unity3D
+- Tags: .io Games, 2D, 3D Games, Action, Adventure, Arcade, Bubble Shooter, Car, Cars, parking, Simulation, Simulator, Supercars, Unity3D

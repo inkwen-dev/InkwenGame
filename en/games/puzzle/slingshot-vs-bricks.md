@@ -21,4 +21,4 @@ Pull the elastic down to launch the ball against the blocks and destroy them (ac
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Block, Bricks, Bubble Shooter, Casual, Shooter, Shooting
+- Tags: Ball, block, Bricks, Bubble Shooter, Casual, Shooter, Shooting

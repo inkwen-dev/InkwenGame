@@ -19,6 +19,6 @@ Hunt Skibidi Toilet game is a horror game with a character of Skibidi Toilet, an
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Battlegrounds, demolition, Skibidi Toilet, Unity3D
+- Tags: 3D, Battlegrounds, demolition, skibidi-toilet, Unity3D

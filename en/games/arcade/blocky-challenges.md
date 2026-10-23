@@ -21,4 +21,4 @@ A friend is one who will not leave in trouble, will always tell the truth and wi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Best, Block, blocky, Fun, Mobile, Skills
+- Tags: Action, Best, block, blocky, Fun, Mobile, Skills

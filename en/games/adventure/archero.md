@@ -19,6 +19,6 @@ Archero an interesting Archery game with a cute painting style. You will set foo
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Bow, Boys, Dragon, Ghost, H5, HTML, HTML5, Kids, Kill, Magic, Mobile, Online, RPG, Skill, Skills
+- Tags: Adventure, Bow, Boys, Dragon, Ghost, H5, HTML, HTML5, Kids, Kill, Magic, Mobile, Online, rpg, Skill, Skills

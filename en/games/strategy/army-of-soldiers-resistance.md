@@ -21,4 +21,4 @@ Defend your country against monsters and savages creatures in epic battles. A cr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Defense, Monster, Shoot, Simulation, Strategy, Tower Defense
+- Tags: Action, battle, Defense, monster, Shoot, Simulation, strategy, Tower Defense

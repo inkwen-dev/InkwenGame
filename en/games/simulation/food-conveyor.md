@@ -21,4 +21,4 @@ Food Conveyor is an exciting restaurant management simulation game where you bec
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Classic, Cooking, idle, Restaurant
+- Tags: Classic, Cooking, idle, restaurant

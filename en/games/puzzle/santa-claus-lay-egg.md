@@ -19,6 +19,6 @@ Santa Claus Lay Egg is a super fun and free to play winter game where you need t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Christmas, Collecting, Fun, HTML5, Hypercasual, Kids, Mobile, Online, Skill, Snow, Winter

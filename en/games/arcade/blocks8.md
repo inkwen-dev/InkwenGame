@@ -19,6 +19,6 @@ Blocks8 is a typical arcade game with blocks in Tetris styles. You are asked to 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Bricks, Casual, Puzzle, Relaxation, Tetris
+- Tags: Arcade, block, Bricks, Casual, Puzzle, Relaxation, tetris

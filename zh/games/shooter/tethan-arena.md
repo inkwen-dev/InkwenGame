@@ -21,4 +21,4 @@ Tethan Arena 使用两种不同的代币，玩家可以赚取 THC 和 THG 代币
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 3D, 3D游戏, 动作, 冒险, 街机, 枪械, HTML, HTML5, 杀戮, 杀人, 射击, 射击, Unity3D
+- 标签: .io, .io 游戏, 3D, 3D游戏, 动作, 冒险, 街机, 枪械, HTML, HTML5, 杀戮, 击杀, 射击, 射击, Unity3D

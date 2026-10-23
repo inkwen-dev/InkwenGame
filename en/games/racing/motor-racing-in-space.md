@@ -19,6 +19,6 @@ Are you ready for an action-packed journey in space? Collect diamonds and power 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Bike, Funny, Game, HTML5, Motorcycle, Racing, Road, Sports
+- Tags: Action, bike, Funny, Game, HTML5, Motorcycle, Racing, Road, sports

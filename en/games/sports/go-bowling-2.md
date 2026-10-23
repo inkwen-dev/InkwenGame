@@ -19,6 +19,6 @@ In Go Bowling 2, visit the bowling alley once again and prove you're the best bo
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, HTML5, Mobile

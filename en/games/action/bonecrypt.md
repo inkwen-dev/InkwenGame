@@ -21,4 +21,4 @@ Bonecrypt is a dungeon action roguelite with a hand-drawn ink look. Fight throug
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Adventure, Arcade, Fighting, RPG, Skill
+- Tags: 3D, Action, Adventure, Arcade, fighting, rpg, Skill

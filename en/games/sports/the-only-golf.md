@@ -21,4 +21,4 @@ What The Golf is a silly physics based golf parody where every golf course is a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, 3D, 3D Games, Game, Games, Golf
+- Tags: .io, 1 Player, 3D, 3D Games, Game, Games, golf

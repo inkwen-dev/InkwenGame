@@ -19,6 +19,6 @@ welcome to the dentist, time to fix broken teeth, use dental tools and follow th
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Doctor, Game, Simulation

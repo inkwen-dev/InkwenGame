@@ -19,6 +19,6 @@ Play on this 3d rubik games, it could make you feel comfort ! you can swipe left
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, HTML, HTML5, Hypercasual, Puzzle

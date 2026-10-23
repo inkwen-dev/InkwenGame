@@ -21,4 +21,4 @@ Guns drawn, are you ready to battle with your friend? Grab your weapon and fire 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Battle
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, battle

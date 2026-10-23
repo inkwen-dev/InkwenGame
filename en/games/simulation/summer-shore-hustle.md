@@ -48,4 +48,4 @@ Rahul : Artist and designer
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: Management
+- Tags: management

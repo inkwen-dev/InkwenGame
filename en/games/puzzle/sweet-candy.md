@@ -19,6 +19,6 @@ Match 3 or more candies to collect them, plan your moves for bigger and better m
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Candy, Color, Jelly, Match 3, Match3, Timing

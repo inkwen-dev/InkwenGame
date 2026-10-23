@@ -21,4 +21,4 @@ Control in the game "The Story of Solitaire - Three Peaks" on the computer is ca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adult, Android, Arcade, Board, Brain, Card, Casino, Casual, Classic, Game, Games, HTML, HTML5, Logic, Logical, Magic, Mind, Puzzle, Solitaire, Summer, Unity3D
+- Tags: 3D, 3D Games, Adult, Android, Arcade, Board, Brain, card, Casino, Casual, Classic, Game, Games, HTML, HTML5, Logic, Logical, Magic, Mind, Puzzle, solitaire, Summer, Unity3D

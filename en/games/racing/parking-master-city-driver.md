@@ -19,6 +19,6 @@ The Top Hit Parking Game Series returns – featuring an all-new location at the
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Cars, Hypercasual, Parking, Race
+- Tags: 3D, 3D Games, Action, Cars, Hypercasual, parking, Race

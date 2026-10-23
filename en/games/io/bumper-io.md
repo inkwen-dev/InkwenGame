@@ -21,4 +21,4 @@ It is an exciting Io game. You will battle and battle again in an arena. You nee
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Action, Arcade, Arena, Battle, H5, HTML, HTML5, Kids, Multiplayer, Online, Platform, PvP
+- Tags: .io Games, Action, Arcade, Arena, battle, H5, HTML, HTML5, Kids, Multiplayer, Online, Platform, PvP

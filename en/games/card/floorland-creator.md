@@ -19,6 +19,6 @@ The void is a game where you manage the cards of famous players, you can win pri
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2D, Card, Football, Letters, Sport
+- Tags: .io, .io Games, 1 Player, 2D, card, Football, Letters, Sport

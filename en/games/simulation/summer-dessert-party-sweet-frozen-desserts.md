@@ -19,6 +19,6 @@ This is a super fun food cooking game, with plenty of fashionable cold food. Ple
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Cook, Cooking, Educational, Food, Fun, Girl, Girls, H5, HTML5, Summer
+- Tags: 2D, Cook, Cooking, educational, Food, Fun, Girl, Girls, H5, HTML5, Summer

@@ -19,6 +19,6 @@ Play Baldi's basics spoopy MOD in education and learning ,in this survival escap
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Escape, Funny, Unity3D, WebGL

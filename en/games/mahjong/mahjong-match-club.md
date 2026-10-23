@@ -21,4 +21,4 @@ Choose two matching mahjongs and remove them. Following removal, a moveable gree
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Brain, Casual, HTML5, Logical, Mahjong, Matching, Online, Puzzle, Strategy
+- Tags: 1 Player, 2D, Brain, Casual, HTML5, Logical, mahjong, Matching, Online, Puzzle, strategy

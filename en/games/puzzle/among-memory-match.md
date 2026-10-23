@@ -19,6 +19,6 @@ Among Memory Match is a simple classic board game with among theme which can hel
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Matching, Memory, Mobile
+- Tags: HTML5, Matching, memory, Mobile

@@ -19,6 +19,6 @@ A fun and addictive endless jumping game! Jump from platform to platform, improv
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, endless, Fun, Funny, Highscore, html5 games, Hypercasual, jump, Jumping, Mobile, Platform, Skill, Skills
+- Tags: Arcade, Casual, endless, Fun, Funny, Highscore, html5 games, Hypercasual, jump, jumping, Mobile, Platform, Skill, Skills

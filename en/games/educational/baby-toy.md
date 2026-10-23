@@ -21,4 +21,4 @@ Funny sounds for babies will entertain your kid while developing their perceptio
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Educational
+- Tags: Baby, educational

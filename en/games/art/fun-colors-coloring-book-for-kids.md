@@ -21,4 +21,4 @@ In this game you will find various categories of coloring pages and a mode for d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cars, Color, Coloring, Creation, Design, Draw, Drawing, Fun, Game, HTML5, Kids, New
+- Tags: Animal, Cars, Color, Coloring, Creation, Design, Draw, drawing, Fun, Game, HTML5, Kids, New

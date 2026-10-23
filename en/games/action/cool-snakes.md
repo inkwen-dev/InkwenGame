@@ -21,4 +21,4 @@ Cool Snakes is slithering snakes game in 3d snowy world. Become the grand snake 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Avoid, Battle, Slither
+- Tags: Action, Avoid, battle, Slither

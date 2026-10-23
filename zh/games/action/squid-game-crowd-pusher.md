@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 战斗, 逃脱, 超休闲, 岛屿, 在线, 跑, 跑步, Unity3D, WebGL
+- 标签: 3D, 战斗, 逃脱, 超休闲, 岛屿, 在线, 跑, 奔跑, Unity3D, WebGL

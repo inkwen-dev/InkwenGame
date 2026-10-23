@@ -15,6 +15,6 @@ Navigate a vibrant sci-fi landscape as a nimble robot in Fyer Bot 2. Master stra
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Arcade

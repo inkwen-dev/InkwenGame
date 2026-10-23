@@ -19,6 +19,6 @@ Be an Archer Hero (Arc-hero) and join the battle. Fight enemies, shoot 'em up an
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Bow, Fight, Fighting, HTML, HTML5, Hypercasual, Kill, Killing, Puzzle, Strategy, Street Fighting, Superhero
+- Tags: Action, Adventure, Arcade, Bow, Fight, fighting, HTML, HTML5, Hypercasual, Kill, Killing, Puzzle, strategy, Street Fighting, Superhero

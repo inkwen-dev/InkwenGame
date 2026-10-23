@@ -19,6 +19,6 @@ the dungeon game that features low-rez graphics, three characters to choose from
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Dungeon, Shoot, Shoot 'Em Up, Shooter, Shooting

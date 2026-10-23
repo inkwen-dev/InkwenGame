@@ -21,4 +21,4 @@ Stick Ninja Survival is a rogue-like arcade game with 2D stickman characters and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Stickman
+- Tags: stickman

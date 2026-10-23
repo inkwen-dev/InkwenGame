@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 战斗, 小船, 大炮, 战斗
+- 标签: 2D, 战斗, 船只, 大炮, 格斗

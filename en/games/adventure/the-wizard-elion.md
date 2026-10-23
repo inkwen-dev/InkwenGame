@@ -21,4 +21,4 @@ When the old wizard Elion tried to conjure a sphere of light, a mistake transpor
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Best, Best Games, Castle, Escape, Funny, html5 games, Magic, Mobile, Monster, RPG
+- Tags: 1 Player, 2D, Action, Adventure, Best, Best Games, Castle, Escape, Funny, html5 games, Magic, Mobile, monster, rpg

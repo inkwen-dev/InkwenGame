@@ -21,4 +21,4 @@ Quick Maths is an arcade runner where your brain is the controller. Solve math p
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Educational, Math, runner, running, Stickman
+- Tags: Arcade, educational, math, runner, running, stickman

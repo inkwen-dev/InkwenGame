@@ -21,4 +21,4 @@ Using mouse in desktop or touch in mobile device to chose the right answer
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Casual, Educational, Family, Game, HTML, HTML5, Hypercasual, Kids, Math, Mobile, Puzzle, WebGL
+- Tags: Arcade, Boy, Casual, educational, Family, Game, HTML, HTML5, Hypercasual, Kids, math, Mobile, Puzzle, WebGL

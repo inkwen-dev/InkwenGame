@@ -21,4 +21,4 @@ Ultimate dog racing tournament is being started in mighty stadium with huge crow
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Animal, Arcade, Casual, Fun, Hypercasual, Interactive, Multiplayer, Race, Racing, Strategy
+- Tags: 3D, 3D Games, Action, Animal, Arcade, Casual, Fun, Hypercasual, Interactive, Multiplayer, Race, Racing, strategy

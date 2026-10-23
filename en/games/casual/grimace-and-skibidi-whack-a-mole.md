@@ -19,6 +19,6 @@ This is a fun game for You, your friends and your family! Your objective is to h
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Grimace, Grimace Shake, HTML, Mobile, Skibidi, Skibidi Toilet
+- Tags: Boy, Grimace, Grimace Shake, HTML, Mobile, Skibidi, skibidi-toilet

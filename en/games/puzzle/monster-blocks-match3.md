@@ -21,4 +21,4 @@ Match 3 games are puzzle games you need to match 3 or more objects by exchanging
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Collecting, Highscore, Match 3, Matching, Puzzle
+- Tags: Arcade, block, Collecting, Highscore, Match 3, Matching, Puzzle

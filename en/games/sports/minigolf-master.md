@@ -19,6 +19,6 @@ Joyful minigolf game. Enjoy various minigolf courses full of obstacles and anima
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Game, Games, Golf, HTML, HTML5, Obstacle
+- Tags: Ball, Game, Games, golf, HTML, HTML5, Obstacle

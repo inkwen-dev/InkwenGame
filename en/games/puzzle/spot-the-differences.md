@@ -19,6 +19,6 @@ Do you have the eagle eyes? Can you spot the differences between 2 images in a s
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Brain, Difference, Fun, HTML, Mobile, Puzzle

@@ -19,6 +19,6 @@ The fish aquarium game is taking care of your own pet fish and building an aquar
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 3D Games, Arcade, Ball, Best Games, Fish, Fishing, Fun, Relaxation, Tank

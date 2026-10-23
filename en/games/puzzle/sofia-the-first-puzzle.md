@@ -19,6 +19,6 @@ Sofia the First is clearly one of the most magical Disney princesses and so we, 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Princess, Puzzle, Sofia

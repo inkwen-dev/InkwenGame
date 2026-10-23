@@ -19,6 +19,6 @@ Happy Halloween! This Halloween special game will show you a good time. Hallowee
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Adventure, Casual, endless, Funny, Halloween, HTML, HTML5, Hypercasual, Island, run, running, subway, Subway Surfers

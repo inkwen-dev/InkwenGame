@@ -21,4 +21,4 @@ Julio Police Cars features: • 10 awesome police cars including a limousine •
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Car, Cars, Police, WebGL
+- Tags: 3D Games, Car, Cars, police, WebGL

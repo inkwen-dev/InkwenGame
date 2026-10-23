@@ -21,4 +21,4 @@ This is Cooking Madness, an amazing cooking game. Cook delicious food and try to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cook, Cooking, Cool, Girls, HTML5, Mobile, Simulation
+- Tags: Baby, Cook, Cooking, cool, Girls, HTML5, Mobile, Simulation

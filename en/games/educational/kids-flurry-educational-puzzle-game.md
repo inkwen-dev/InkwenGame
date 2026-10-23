@@ -19,6 +19,6 @@ Kids Flurry Puzzle is an educational game that challenges children to use their 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kid, Kids, Matching, Puzzle, Skill, Skills
+- Tags: educational, Kid, Kids, Matching, Puzzle, Skill, Skills

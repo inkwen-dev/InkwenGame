@@ -15,6 +15,6 @@ Race through a vibrant 3D landscape in Coin Chase 3D. Dodge unexpected obstacles
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: runner

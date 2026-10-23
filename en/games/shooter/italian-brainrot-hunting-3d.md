@@ -47,4 +47,4 @@ Start hunting Italian Brainrot meme animals!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Gun, Hunting, Shooting, unblocked
+- Tags: 3D, Gun, hunting, Shooting, unblocked

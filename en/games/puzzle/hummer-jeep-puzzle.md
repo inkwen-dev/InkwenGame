@@ -21,4 +21,4 @@ Hummer Jeep Puzzle is a free online game in the jigsaw puzzle genre. You have 6 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle, Truck
+- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle, truck

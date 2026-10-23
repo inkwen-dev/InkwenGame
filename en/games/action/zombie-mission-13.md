@@ -21,4 +21,4 @@ The Zombie Mission series continues with its 13th episode in a completely differ
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Adventure, Battle, War, Zombie
+- Tags: 2 Player, 2 Player Games, Adventure, battle, War, Zombie

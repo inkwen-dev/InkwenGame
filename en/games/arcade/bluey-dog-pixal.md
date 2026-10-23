@@ -19,6 +19,6 @@ uper bluey Run & Jump Christmas Game is an amazing adventure runner game with 20
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, Adventure

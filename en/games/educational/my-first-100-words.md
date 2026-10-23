@@ -15,6 +15,6 @@ Immerse your child in "My First 100 Words," a vibrant language adventure! They w
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Educational
+- Tags: educational

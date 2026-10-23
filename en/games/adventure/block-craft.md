@@ -21,4 +21,4 @@ Block Craft is the ultimate PC building game that you can play right in your web
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Craft, Crafting, Mine, Minecraft
+- Tags: block, Craft, Crafting, Mine, Minecraft

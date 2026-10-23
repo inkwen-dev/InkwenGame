@@ -21,4 +21,4 @@ Welcome to Color Match!, the ultimate interactive learning experience for childr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Educational, HTML5, Kids, Matching, Mobile, Puzzle
+- Tags: Color, educational, HTML5, Kids, Matching, Mobile, Puzzle

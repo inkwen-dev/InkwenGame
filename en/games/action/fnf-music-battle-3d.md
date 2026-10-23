@@ -21,4 +21,4 @@ Do you have confidence in music games? FNF Music Battle 3D is a skillful music a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Boy, Kid, Music, Puzzle, Skill
+- Tags: 3D, Arcade, Boy, Kid, music, Puzzle, Skill

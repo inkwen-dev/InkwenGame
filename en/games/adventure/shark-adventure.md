@@ -15,6 +15,6 @@ Dive into the ocean as a hungry shark on a thrilling quest for survival. Navigat
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: sharks

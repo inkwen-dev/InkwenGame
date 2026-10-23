@@ -21,4 +21,4 @@ Neon Slither Sim is a fun snake inspired game where you control a neon car that 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Slither, Snake
+- Tags: Slither, snake

@@ -1,0 +1,20 @@
+# Plane - 一款脱离身体的解谜游戏
+
+<a href="https://inkwengame.com/zh/games/planes-an-out-of-body-puzzle-game" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/planes-an-out-of-body-puzzle-game/cover.png)
+
+在这款引人入胜的平台游戏中，体验在物理世界与灵界之间切换的力量。通过操控物体、避开致命陷阱，并掌握脱离身体导航的艺术，解决战略性谜题。简约风格与不断进化的挑战相结合，为玩家带来独特而沉浸式的解谜体验。
+
+## 介绍
+
+在这款引人入胜的平台游戏中，体验在物理世界与灵界之间切换的力量。通过操控物体、避开致命陷阱，并掌握脱离身体导航的艺术，解决战略性谜题。简约风格与不断进化的挑战相结合，为玩家带来独特而沉浸式的解谜体验。
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/puzzle" target="_blank" rel="noopener noreferrer">益智</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GamePix
+- 标签: 益智

@@ -21,4 +21,4 @@ Sevelina 装扮游戏将教你正确的万圣节装扮方法，让你在这个�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 换装, 女孩, 女孩, 万圣节, 假期, Stickman
+- 标签: 装扮, 女孩, 女孩, 万圣节, 节日, 木偶人

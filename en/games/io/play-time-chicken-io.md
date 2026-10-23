@@ -21,4 +21,4 @@ Easy To play And hard to master ! Try To Collect the Higher Number Of the object
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2 Player Games, 3D, 3D Games, Action, Adult, Battle, Chicken, Fight, Fighting
+- Tags: .io Games, 1 Player, 2 Player Games, 3D, 3D Games, Action, Adult, battle, Chicken, Fight, fighting

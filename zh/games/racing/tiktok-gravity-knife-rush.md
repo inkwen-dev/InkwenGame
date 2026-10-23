@@ -21,4 +21,4 @@ TikTok 重力刀冲刺是一款有趣的街机游戏，融合了跑酷和射击�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 战斗
+- 标签: 街机, 格斗

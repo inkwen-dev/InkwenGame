@@ -19,6 +19,6 @@ Halloween Word Search is a casual game that has the function of stimulating peop
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Halloween, Kids, Logic, Mobile, Skill, Word
+- Tags: Fun, Halloween, Kids, Logic, Mobile, Skill, word

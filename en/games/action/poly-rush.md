@@ -19,6 +19,6 @@ PolyRush is a fast-paced flight game set in a stunning low-poly universe. Pilot 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Arcade, Highscore, Platform, running

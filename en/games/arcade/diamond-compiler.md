@@ -19,6 +19,6 @@ Diamond Compiler - in this game all you have to do is collect the diamonds! Coll
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Fun, Funny, Game, Games, Obstacle, Online

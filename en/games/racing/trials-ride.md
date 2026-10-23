@@ -19,6 +19,6 @@ Ride a trials motorbike through the hangar and overcome various challenging obst
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, HTML5, Mobile, Motorcycle, Obstacle
+- Tags: bike, HTML5, Mobile, Motorcycle, Obstacle

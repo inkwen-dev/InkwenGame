@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1人, 2048, 2D, 3D游戏, Android, 球
+- 标签: 单人, 2048, 2D, 3D游戏, 安卓, 球

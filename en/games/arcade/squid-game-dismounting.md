@@ -19,6 +19,6 @@ You've got enough of this depressing weather for one day. All you have to do is 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Best, Crazy, Games, HTML5, Mobile, Stickman, Unity3D, WebGL
+- Tags: 2D, Best, crazy, Games, HTML5, Mobile, stickman, Unity3D, WebGL

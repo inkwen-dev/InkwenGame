@@ -21,4 +21,4 @@ There are various enjoyable superhero moto stunt bikes that the user can choose 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Moto, Motorcycle, Parking, Skill, Stunts
+- Tags: Driving, Moto, Motorcycle, parking, Skill, Stunts

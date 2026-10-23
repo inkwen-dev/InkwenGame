@@ -25,4 +25,4 @@ Play Word Puzzle Connect Words and Letters  anytime, anywhere — perfect for qu
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, Kids, Matching, Mobile, Puzzle, words
+- Tags: Brain, educational, Kids, Matching, Mobile, Puzzle, words

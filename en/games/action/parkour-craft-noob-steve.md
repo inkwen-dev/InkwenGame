@@ -19,6 +19,6 @@ Try to escape from the snowy area! Complete all levels and share your achievemen
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Adventure, jump, Jumping, Minecraft, Santa, Santa Claus, Skill, Skills, Snow
+- Tags: 1 Player, 3D, 3D Games, Adventure, jump, jumping, Minecraft, Santa, Santa Claus, Skill, Skills, Snow

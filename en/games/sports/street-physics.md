@@ -19,6 +19,6 @@ In this awesome basketball game you need to draw the right way to get the ball i
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Bricks, Draw, Drawing, HTML, HTML5, Mobile, Physics, Puzzle, Sport, Sports
+- Tags: basketball, Bricks, Draw, drawing, HTML, HTML5, Mobile, Physics, Puzzle, Sport, sports

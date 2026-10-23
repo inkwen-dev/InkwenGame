@@ -19,6 +19,6 @@ Ladybug Hidden Stars Html5 is an online game that you can play for free. Can you
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Collecting, Fun, Girls, Hidden, HTML5, Kids, Ladybug, Miraculous Ladybug

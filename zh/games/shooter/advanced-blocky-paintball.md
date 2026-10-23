@@ -21,4 +21,4 @@ wasd- 移动 鼠标- 瞄准 四周查看 射击 tab- 菜单 space- 跳跃
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 最佳, 疯狂, 多人, 射手, 射击, Unity3D, WebGL
+- 标签: 最佳, 疯狂, 多人, 射击类, 射击, Unity3D, WebGL

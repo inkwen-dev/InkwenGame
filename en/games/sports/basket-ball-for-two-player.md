@@ -21,4 +21,4 @@ Player 1 to jump press W or tap the screen Player 2 to jump press UP or tap the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Basketball, Unity3D
+- Tags: 3D Games, Action, basketball, Unity3D

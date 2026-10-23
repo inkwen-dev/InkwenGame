@@ -21,4 +21,4 @@ Gin Rummy Stars - Play Free Online Rummy Card Game Best Gin Rummy Game! Play #1 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Card, Casino, Puzzle, Slot Machine
+- Tags: Arcade, card, Casino, Puzzle, Slot Machine

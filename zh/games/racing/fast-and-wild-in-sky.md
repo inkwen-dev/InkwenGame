@@ -27,4 +27,4 @@ WASD键 - 车辆控制
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 赛车
+- 标签: 竞速

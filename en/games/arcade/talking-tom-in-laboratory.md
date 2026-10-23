@@ -19,6 +19,6 @@ Talking Tom In Laboratory is an online game that you can play for free. Do you l
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Android, Arcade, Best, Boys, Cartoon, Cat, Click, Fun, Funny, Game, Girls, HTML5, Kids, Science

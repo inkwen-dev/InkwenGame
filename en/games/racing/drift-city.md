@@ -19,6 +19,6 @@ Get ready for realistic drift simulation! Create chaos in the city with Drift Ci
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Best, Car, city, drift, drifting, Driving, Race, Racing, Simulation, WebGL

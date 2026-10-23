@@ -21,4 +21,4 @@ The classic eight-ball pool for your phone! Play against a computer controlled o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Ball, Billiard, Cute, HTML, HTML5, Pool, Sport, Sports
+- Tags: 8 Ball Pool, Ball, Billiard, Cute, HTML, HTML5, pool, Sport, sports

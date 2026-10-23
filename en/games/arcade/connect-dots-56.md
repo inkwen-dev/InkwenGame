@@ -19,6 +19,6 @@ Connect Dots 56 is an exciting line puzzle game where you must connect the dots 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Click, Clicker, Fun, Funny, Game, Games, HTML5, Mobile

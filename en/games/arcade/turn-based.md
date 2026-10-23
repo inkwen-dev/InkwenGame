@@ -19,6 +19,6 @@ Turn Based is a 3D game aim to test your defence and attack by tanks where this 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Avoid, Clicker, Educational
+- Tags: 3D, Action, Avoid, Clicker, educational

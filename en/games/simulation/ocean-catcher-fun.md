@@ -19,6 +19,6 @@ Ocean Catcher Fun is a fast-paced arcade hyper-casual game set in a vibrant unde
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 2025 games, 2D, amazing, Best Games, Casual, Classic, endless, Fish, Fishing

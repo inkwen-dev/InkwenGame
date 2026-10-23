@@ -21,4 +21,4 @@ Merge your dinosaur army to go into battle and get the biggest dino on the block
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Casual, Dinosaur, Fight, Fighting, Hypercasual
+- Tags: Adventure, Arcade, Casual, Dinosaur, Fight, fighting, Hypercasual

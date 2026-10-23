@@ -19,6 +19,6 @@ Do you know where does flour come from? Do you know what does farmer do to grow 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cars, Cleaning, Driving, Educational, Farm, Food, Fun, HTML5, Kids, Mobile
+- Tags: Boys, Cars, Cleaning, Driving, educational, Farm, Food, Fun, HTML5, Kids, Mobile

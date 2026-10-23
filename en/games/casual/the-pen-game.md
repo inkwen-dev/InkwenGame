@@ -19,6 +19,6 @@ The Pen Game is a fun yet challenging skill based game inspired by the popular p
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Clicker, Games, Highscore, HTML5

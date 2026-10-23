@@ -19,6 +19,6 @@ Welcome to Zoo Boom. In this simple candy matching game, you can swipe and match
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Bird, Casual, Puzzle

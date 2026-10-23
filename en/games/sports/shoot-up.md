@@ -19,6 +19,6 @@ Shoot Up is a sport soccer games. Try to score so many goals. You can miss only 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Football, HTML5, Soccer, Sport

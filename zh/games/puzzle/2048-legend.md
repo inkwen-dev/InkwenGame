@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 经典, 游戏, 游戏, 高分, HTML, HTML5, 数字, 益智
+- 标签: 经典, 游戏, 网页游戏, 高分, HTML, HTML5, 数字, 益智

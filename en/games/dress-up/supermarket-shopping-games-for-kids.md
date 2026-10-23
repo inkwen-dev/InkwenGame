@@ -19,6 +19,6 @@ Kids supermarket is funny games for kids with educational elements. Mommy makes 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Fashion, Fish, Girl, Girls, Kids, Shopping

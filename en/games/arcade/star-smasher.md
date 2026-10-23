@@ -19,6 +19,6 @@ Try to smash the more star you can! enjoy it!
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Casual, Click, Clicker, endless, Family, Girls, HTML, HTML5, Kids, Mobile, Puzzle

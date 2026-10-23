@@ -19,6 +19,6 @@ Play SandCastle Battle - We Bare Bears Game online in your web browser and mobil
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Animal, Ben 10, Best, Boys, Brain, Cartoon, Cartoon Network, Defense, Family, Fun, Girls, Kids, Mobile, Shooting, Summer, Tower Defense, War

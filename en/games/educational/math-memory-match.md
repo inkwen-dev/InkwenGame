@@ -21,4 +21,4 @@ This is a car memory game with math puzzles. You don’t need to predict anythin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Matching, Math, Memory, Puzzle, School
+- Tags: educational, Matching, math, memory, Puzzle, School

@@ -21,4 +21,4 @@ W 或 上箭头 加速 S 或 下箭头 刹车或倒车 A 或 左箭头 左转 D 
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1人玩家, 3D, 汽车, 卡通, 赛车, 卡车, Unity3D, 车辆, WebGL
+- 标签: 单人, 3D, 汽车, 卡通, 竞速, 卡车, Unity3D, 车辆, WebGL

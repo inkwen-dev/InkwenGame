@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车, 汽车, 差异, HTML5, 移动
+- 标签: 汽车, 汽车, 找不同, HTML5, 移动设备

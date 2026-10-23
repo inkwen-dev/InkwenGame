@@ -79,4 +79,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 男孩们, 射击游戏, 坦克
+- 标签: 男孩们, 射击, tanks

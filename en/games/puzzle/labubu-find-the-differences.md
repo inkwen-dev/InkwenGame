@@ -19,6 +19,6 @@ Labubu Find the Differences is an amazing and free to play online game for kids.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Brain, Difference, Fun, Girl, Hypercasual, Kids, Labubu, Logic, Skill

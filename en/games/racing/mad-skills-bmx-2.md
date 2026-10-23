@@ -21,4 +21,4 @@ Mad Skills BMX 2 has finally arrived! See for yourself why Mad Skills games have
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Bike, Race, Racing, Sport
+- Tags: 2D, bike, Race, Racing, Sport

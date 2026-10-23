@@ -21,4 +21,4 @@ EarthGames is proud to announce Infrared Escape, a game that combines frantic ar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Educational
+- Tags: Action, educational

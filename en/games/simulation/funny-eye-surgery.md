@@ -19,6 +19,6 @@ Funny Eye Surgery belongs to Puzzle and it is often associated with Games For Gi
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Doctor, Funny, Girl, Simulation

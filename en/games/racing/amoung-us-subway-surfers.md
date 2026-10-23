@@ -21,4 +21,4 @@ Endless running games have never been this addictive and fun with Imposter Runne
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, Action, Adventure, Arcade, Boys, Candy, Car, Cars, Game, Games, Girl, Girls, Hypercasual, Police, run, running, Stickman, subway, Subway Surfers, Supercars, Traffic, Train, War
+- Tags: .io Games, 2 Player Games, 3D Games, Action, Adventure, Arcade, Boys, Candy, Car, Cars, Game, Games, Girl, Girls, Hypercasual, police, run, running, stickman, subway, Subway Surfers, Supercars, Traffic, Train, War

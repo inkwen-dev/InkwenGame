@@ -21,4 +21,4 @@ Try this nice game of cards, you must find all pairs equally among all the cards
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Baby, Brain, Card, Educational, Family, HTML, HTML5, Kid, Kids, Match 3, Matching, Memory, Mobile, Puzzle
+- Tags: 2D, Animal, Baby, Brain, card, educational, Family, HTML, HTML5, Kid, Kids, Match 3, Matching, memory, Mobile, Puzzle

@@ -17,4 +17,4 @@ Race down snowy mountains in Ski King, navigating sharp turns and dodging obstac
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Sports
+- Tags: sports

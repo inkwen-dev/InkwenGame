@@ -19,6 +19,6 @@ Staris Races For Two Players is a fast-paced 1v1 hyper-casual game where two pla
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Block, Race, unity
+- Tags: 3D Games, block, Race, unity

@@ -21,4 +21,4 @@ Help Mario survive the chase of ferocious Chain Chomp Shark through a series of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mario, Obstacle, Platform, running, Side Scrolling
+- Tags: mario, Obstacle, Platform, running, Side Scrolling

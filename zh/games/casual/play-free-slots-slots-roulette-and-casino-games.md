@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 赌场, 休闲, 幽灵, 骑士, 机器, 老虎机
+- 标签: 赌场, 休闲, 幽灵, knight, 机器, 老虎机

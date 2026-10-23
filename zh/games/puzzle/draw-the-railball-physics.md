@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 球, 大脑, 卡通, 移动, 物理, 益智, unity
+- 标签: 球, 大脑, 卡通, 移动设备, 物理, 益智, unity

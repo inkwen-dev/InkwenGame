@@ -21,4 +21,4 @@ Runner Monkey Adventure is an amazing running and jumping adventure game with mo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, jump, Jumping, Monkey, running
+- Tags: 1 Player, 2D, Adventure, Arcade, jump, jumping, Monkey, running

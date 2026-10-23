@@ -19,6 +19,6 @@ Pop your way through a candy-filled world in Mallow Pop! Aim, shoot, and match m
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Casual, Clicker, HTML, html5 games, Hypercasual, NapTech Games

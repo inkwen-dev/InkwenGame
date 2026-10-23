@@ -26,4 +26,4 @@ Crazy Motorcycle is an exciting racing game that allows players to race motorcyc
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Bike, Boys, dirt-bike, Driving, motorbike, Racing
+- Tags: bike, Boys, dirt-bike, Driving, motorbike, Racing

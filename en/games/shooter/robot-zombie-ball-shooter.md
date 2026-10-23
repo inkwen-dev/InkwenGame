@@ -15,6 +15,6 @@ Battle through waves of vibrant zombie ball enemies in a chaotic, apocalyptic wo
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Action

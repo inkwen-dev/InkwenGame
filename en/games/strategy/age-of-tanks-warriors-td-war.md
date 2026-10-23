@@ -26,4 +26,4 @@ Welcome to Age of Tank Warriors: TD War, the ultimate tank warriors strategy gam
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, Mobile, Strategy, Tanks, Tower Defense, War
+- Tags: Boys, Mobile, strategy, tanks, Tower Defense, War

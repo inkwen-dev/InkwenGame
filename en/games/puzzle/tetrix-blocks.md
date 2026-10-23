@@ -19,6 +19,6 @@ Drag and drop the blocks from left to right or from right to left, in order to f
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, HTML5, Matching, Mobile, Puzzle, Tetris
+- Tags: block, HTML5, Matching, Mobile, Puzzle, tetris

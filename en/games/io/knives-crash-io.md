@@ -21,4 +21,4 @@ Strike with greater force Navigate your way across this knives game to crush you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, Arcade, Cool, Knight
+- Tags: .io, .io Games, 1 Player, Arcade, cool, knight

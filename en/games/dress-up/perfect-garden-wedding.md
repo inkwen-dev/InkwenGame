@@ -19,6 +19,6 @@ Rmantic wedding is the fantasy and wish of every young lady. Obviously, everythi
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Fashion, Girl, Makeover

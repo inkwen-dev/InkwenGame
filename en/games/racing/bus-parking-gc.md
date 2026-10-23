@@ -21,4 +21,4 @@ Bus Parking
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: bus, Parking
+- Tags: bus, parking

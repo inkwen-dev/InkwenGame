@@ -21,4 +21,4 @@ Pingu and friends is a really cute and easy game to play. You just have to tap o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Casual, Cute, jump, Jumping, Monster, Penguin
+- Tags: Adventure, Casual, Cute, jump, jumping, monster, Penguin

@@ -19,6 +19,6 @@ Tennis Dash is a fast and fun game where a cute cat plays tennis like a pro! The
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Fun, HTML, html5 games, Hypercasual, NapTech Games, Sports, Tennis
+- Tags: Casual, Fun, HTML, html5 games, Hypercasual, NapTech Games, sports, Tennis

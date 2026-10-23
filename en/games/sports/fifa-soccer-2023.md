@@ -19,6 +19,6 @@ Prepare yourself for your authentic FIFA World Cup 2022 journey with EA SPORTSFI
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Football, Soccer, Sports
+- Tags: 8 Ball Pool, Football, Soccer, sports

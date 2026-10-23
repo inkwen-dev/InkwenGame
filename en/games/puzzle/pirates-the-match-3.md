@@ -21,4 +21,4 @@ Swap and match gems on your journey with pirates through unknown lands and seas 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, HTML5, Jewel, Math, Pirate, Puzzle
+- Tags: Casual, HTML5, Jewel, math, Pirate, Puzzle

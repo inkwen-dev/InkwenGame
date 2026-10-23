@@ -21,4 +21,4 @@ You have to neutralize the other tanks that come in your way while traveling in 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Tank, Tanks, War
+- Tags: Tank, tanks, War

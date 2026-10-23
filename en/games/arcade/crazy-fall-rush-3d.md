@@ -19,6 +19,6 @@ Crazy Fall Rush 3D is an intense survival arcade game where quick thinking is th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 3D, Action, Arcade, Casual, Color, Crazy, endless, Fall Guys, jump, Multiplayer, Physics, run
+- Tags: 2026 games, 3D, Action, Arcade, Casual, Color, crazy, endless, Fall Guys, jump, Multiplayer, Physics, run

@@ -21,4 +21,4 @@ Drawing For Kids is an amazing animal coloring game, you need to draw an animal 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Draw, Drawing, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: Color, Coloring, Draw, drawing, Fun, Girl, Girls, H5, HTML5, Kid, Kids

@@ -21,4 +21,4 @@ Deer Hunting game is now here for you to have memorable riding on the safari jee
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arena, Battle, Gun, Jumping, Shooting
+- Tags: Arena, battle, Gun, jumping, Shooting

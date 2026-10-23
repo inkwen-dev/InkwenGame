@@ -21,4 +21,4 @@ Poppy Play Time Adventure - 一步回到童年，体验全新的复古跑酷游�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 冒险, Android, 街机
+- 标签: 单人, 2D, 冒险, 安卓, 街机

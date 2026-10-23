@@ -19,6 +19,6 @@ Escape From Snakes is a fast-paced arcade survival game where danger slithers fr
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Mobile, Snake, survival
+- Tags: Casual, Mobile, snake, survival

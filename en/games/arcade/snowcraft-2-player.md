@@ -21,4 +21,4 @@ In the world of Snowcraft, it&rsquo;s snowing and the temperature is dropping ra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, Adventure, Arcade, Block, Minecraft, Pixel
+- Tags: 1 Player, 2 Player, 2 Player Games, Adventure, Arcade, block, Minecraft, pixel

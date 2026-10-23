@@ -21,4 +21,4 @@ Fasten your harness and start the delivery truck. Its time for delivery! Join up
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Kids, Mobile, Stickman
+- Tags: Avoid, Kids, Mobile, stickman

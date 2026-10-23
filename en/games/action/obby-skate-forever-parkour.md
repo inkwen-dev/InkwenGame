@@ -19,6 +19,6 @@ In this adventure, youre skating through a very dangerous course, and you must, 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Adventure, Arcade, Block, Minecraft, Pixel, Platform
+- Tags: 2 Player, 2 Player Games, Adventure, Arcade, block, Minecraft, pixel, Platform

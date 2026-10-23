@@ -21,4 +21,4 @@ Ben 10: Alien Attack Earth rescue alien 10 from evil alien attack
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Alien, Battle, Ben 10, Game, Online
+- Tags: Alien, battle, Ben 10, Game, Online

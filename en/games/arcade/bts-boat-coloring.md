@@ -19,6 +19,6 @@ BTS Boat Coloring Book is an online game that you can play for free. In this col
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Android, Boat, Boys, Brain, Color, Coloring, Fun, Girls, HTML5, Kid, Kids, School

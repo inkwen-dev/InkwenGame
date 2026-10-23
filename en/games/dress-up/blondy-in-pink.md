@@ -19,6 +19,6 @@ Meet everyone's favorite - Blondy! She is a real fashionista and a very sweet gi
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Dress Up, Fashion, Girl, Makeover

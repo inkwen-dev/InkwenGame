@@ -21,4 +21,4 @@ Experience high octane motorcycle action as you master daring wheelies and nail 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Balance, Bike, Boy, Hypercasual, Mario, Motorcycle, Skill
+- Tags: Arcade, Balance, bike, Boy, Hypercasual, mario, Motorcycle, Skill

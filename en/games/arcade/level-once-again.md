@@ -21,4 +21,4 @@ Level Once Again is a story-driven puzzle platformer with 100 rooms, 4 worlds an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 2D, Action, Adventure, Arcade, Brain, Escape, Jumping, Logic, Physics, Puzzle, Skill, Timing, trap
+- Tags: 2026 games, 2D, Action, Adventure, Arcade, Brain, Escape, jumping, Logic, Physics, Puzzle, Skill, Timing, trap

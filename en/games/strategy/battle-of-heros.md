@@ -21,4 +21,4 @@ Dive into a strategic world where your prowess as a commander determines the fat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Battle, Casual, Strategy, Tower Defense, War
+- Tags: 1 Player, Action, battle, Casual, strategy, Tower Defense, War

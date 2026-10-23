@@ -19,6 +19,6 @@ Enter a dangerous Halloween world and survive against endless waves of enemies. 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Battle, Casual
+- Tags: Action, Arcade, battle, Casual

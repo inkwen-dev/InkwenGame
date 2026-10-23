@@ -21,4 +21,4 @@ Jump off the ramp and fly to the farthest! Hit the obstacles on your path and br
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Car, jump, Jumping
+- Tags: Adventure, Car, jump, jumping

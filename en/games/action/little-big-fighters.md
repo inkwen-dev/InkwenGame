@@ -26,4 +26,4 @@ Little Big Fighters is an action survival game where you'll embark on a thrillin
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: .io, Action, battleship, Fighting, survival, wrestling
+- Tags: .io, Action, battleship, fighting, survival, wrestling

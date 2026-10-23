@@ -19,6 +19,6 @@ Would you like to pick lemons and win the race? Collect lemons to defeat your fr
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Battle
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, battle

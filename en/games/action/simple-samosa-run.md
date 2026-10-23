@@ -19,6 +19,6 @@ Pick your character and prepare for an adventure in the Simple Samosa game! Howe
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Avoid, Cartoon, Cartoon Network, Click, Clicker, Disney, HTML5, jump, Jumping, Obstacle, run, running
+- Tags: 2D, Avoid, Cartoon, Cartoon Network, Click, Clicker, Disney, HTML5, jump, jumping, Obstacle, run, running

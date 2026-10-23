@@ -21,4 +21,4 @@ Color Tower Siege - Color Balls Shooting 最终，等待终于结束！现在，
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 投篮, 射击类, 射击
+- 标签: 射击, 射击类, 射击

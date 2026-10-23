@@ -21,4 +21,4 @@ Stack Jump – is a HTML5 skill game. Jump to stack blocks and build the biggest
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Casual, Hypercasual, jump, Jumping
+- Tags: Adventure, Arcade, Casual, Hypercasual, jump, jumping

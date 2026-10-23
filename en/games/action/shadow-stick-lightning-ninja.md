@@ -34,4 +34,4 @@ Experience the thrill of battle in "Shadow Stick - Lightning Ninja," a 2D fighti
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Fighting, Ninja
+- Tags: fighting, ninja

@@ -19,6 +19,6 @@ Carnot Game Description Carnot Game is an interactive game based on the Carnot C
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Educational, Hypercasual, onetouch, Physics, Science, Simulation, Simulator
+- Tags: 3D, educational, Hypercasual, onetouch, Physics, Science, Simulation, Simulator

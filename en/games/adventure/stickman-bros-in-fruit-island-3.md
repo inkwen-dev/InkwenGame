@@ -21,4 +21,4 @@ Stickman Bros In Fruit Island 3 - Stickman Brothers In Fruit Island Adventure! T
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Adventure, Stickman
+- Tags: 2 Player, 2 Player Games, Adventure, stickman

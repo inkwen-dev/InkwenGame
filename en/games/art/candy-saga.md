@@ -19,6 +19,6 @@ Candy Saga Enjoy the adventure in the garden to escape from this magic adventure
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Candy, Color, Coloring, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Puzzle

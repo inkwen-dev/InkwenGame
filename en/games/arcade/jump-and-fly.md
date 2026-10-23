@@ -21,4 +21,4 @@ Join the adventure in Jump and Fly, where youll guide an energetic squirrel and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, jump, Jumping, NapTech Games
+- Tags: Adventure, Arcade, jump, jumping, NapTech Games

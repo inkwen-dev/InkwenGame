@@ -21,4 +21,4 @@ Lets put your creativity and drawing skills to the test to save the little dummy
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Drawing, Escape, Platform
+- Tags: drawing, Escape, Platform

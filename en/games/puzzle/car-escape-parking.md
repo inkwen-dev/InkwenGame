@@ -34,4 +34,4 @@ Start your engine and prove it! 🚀🚘
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Car, Parking, unblock-puzzles
+- Tags: Brain, Car, parking, unblock-puzzles

@@ -19,6 +19,6 @@ Drag a row or column to matching any 3 or more Candy Blast Master with the same 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Boy, Candy, Casual, Click, Color, Fun, Girl, HTML, HTML5, Hypercasual, Kid, Logic, Match 3, Match3, Matching, Mobile, Puzzle, WebGL

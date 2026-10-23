@@ -21,4 +21,4 @@ Archery is the practice or skill of using a bow to shoot arrows.Shoot arrows at 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bow, Skill, Sports
+- Tags: Arcade, Bow, Skill, sports

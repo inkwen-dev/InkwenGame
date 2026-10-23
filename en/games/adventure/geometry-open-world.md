@@ -26,4 +26,4 @@ Dive into the exciting realm of Geometry Open World, a dynamic 2D action game. S
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Platform, pve, Retro
+- Tags: Adventure, Platform, pve, retro

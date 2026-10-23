@@ -21,4 +21,4 @@ Race Pro: Speed Car Racer in Traffic is a racing game with great graphics and re
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Action, Car, Cars, Race, Racing, Sport, Sports
+- Tags: 3D, Action, Car, Cars, Race, Racing, Sport, sports

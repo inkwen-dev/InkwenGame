@@ -21,4 +21,4 @@ You will have to decide whether to be a "hero" and offer others a chance of surv
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, Android, Boat, Driving, HTML5, Mobile, Parking, Simulator, Unity3D, WebGL
+- Tags: .io Games, 1 Player, Android, Boat, Driving, HTML5, Mobile, parking, Simulator, Unity3D, WebGL

@@ -19,6 +19,6 @@ Happy Chef Bubble Shooter – is a simple match game, shoot in 3 or more balls w
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Bubble, Bubble Shooter

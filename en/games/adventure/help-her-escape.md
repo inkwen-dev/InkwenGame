@@ -19,6 +19,6 @@ Each level unveils gripping twists and compelling backstory elements, immersing 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Casual, Puzzle, Skill

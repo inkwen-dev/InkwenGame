@@ -21,4 +21,4 @@ When you look out the window, what do you see? Colors and shapes, green trees, s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, Color, Educational, Game, Kids, Online, Puzzle, Quiz
+- Tags: Baby, Baby Hazel, Color, educational, Game, Kids, Online, Puzzle, Quiz

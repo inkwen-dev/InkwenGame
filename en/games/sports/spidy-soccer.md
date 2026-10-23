@@ -21,4 +21,4 @@ Spidy Soccer is fun addictive sports game.Play soccer with your favorite Spidy .
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Soccer, Spiderman, Sports
+- Tags: Football, Soccer, Spiderman, sports

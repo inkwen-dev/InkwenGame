@@ -19,6 +19,6 @@ Play Gumball Class Spirits Game online in your web browser and mobile at superki
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Adventure, Avoid, Ben 10, Best, Boy, Cartoon, Cartoon Network, Christmas, Family, Fun, Girl, Halloween, HTML, New, Puzzle, Winter

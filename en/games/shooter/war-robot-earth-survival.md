@@ -19,6 +19,6 @@ World Of Robots is a tactical online shooter game regarding strolling battle rob
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Best, Crazy, Robot, Shooting, Unity3D, War, WebGL
+- Tags: 1 Player, 3D Games, Best, crazy, Robot, Shooting, Unity3D, War, WebGL

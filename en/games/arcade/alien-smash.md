@@ -19,6 +19,6 @@ Alien Smash! Online Game is an action packed, thrilling game that involves lots 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Game, HTML, HTML5, Matching, Puzzle

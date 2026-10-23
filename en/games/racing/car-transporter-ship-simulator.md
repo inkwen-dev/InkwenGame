@@ -19,6 +19,6 @@ Have you ever dream to be a captain of a huge ferry transporting cargo? Deliver 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boat, Car, Cars, drifting, Simulation, Simulator

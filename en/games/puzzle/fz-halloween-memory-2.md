@@ -19,6 +19,6 @@ Halloween Memory – is a HTML5 Memory game. Match all the identical cards befor
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Halloween, Kid, Kids, Match3, Memory
+- Tags: Halloween, Kid, Kids, Match3, memory

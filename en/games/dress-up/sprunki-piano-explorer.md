@@ -21,4 +21,4 @@ Discover Music with the Sprunki Crew. Sprunki Piano Explorer is a joyful and fre
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Educational, Girl, Hypercasual, Kids, Makeover, Music, School, Simulation, Sprunki
+- Tags: Boys, educational, Girl, Hypercasual, Kids, Makeover, music, School, Simulation, Sprunki

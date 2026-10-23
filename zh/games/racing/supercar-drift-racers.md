@@ -21,4 +21,4 @@ wasd - 驾驶 w - 刹车 b - 显示后视 f - 超级加速器 空格键 - 手刹
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车, 赛车, 漂移, 漂移, 赛车, 超级跑车, Unity3D, WebGL
+- 标签: 汽车, 汽车, 漂移, 漂移, 竞速, 超跑, Unity3D, WebGL

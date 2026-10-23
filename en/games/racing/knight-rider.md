@@ -19,6 +19,6 @@ Ghost Rider is a fictional bike racing game which is very suitable for players w
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Motorcycle, Stunts
+- Tags: bike, Motorcycle, Stunts

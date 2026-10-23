@@ -22,4 +22,4 @@ TinyTownRacing 是一款 3D 驾驶游戏，你需要在繁忙的交通中避开�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 汽车, 驾驶, 赛车, 技巧
+- 标签: 3D, 汽车, 驾驶, 竞速, 技巧

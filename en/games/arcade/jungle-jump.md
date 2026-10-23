@@ -19,6 +19,6 @@ The games goal is to help the animals cross the river safely. Help them bounce a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Animal, Arcade, Cute, Escape, Forest, Fun, jump, jungle, Kids, Rescue, Timing

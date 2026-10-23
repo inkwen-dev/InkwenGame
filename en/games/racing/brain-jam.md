@@ -19,6 +19,6 @@ Brain Jam is a sliding car puzzle with one twist: it counts the calories your br
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Car, Casual, Logic, Mobile, Parking, Puzzle, sliding
+- Tags: Brain, Car, Casual, Logic, Mobile, parking, Puzzle, sliding

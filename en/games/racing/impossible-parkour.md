@@ -21,4 +21,4 @@ Are you ready for the impossible challenges and levels in this Impossible Parkou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, jump, Minecraft, Obstacle, Parking, Robot
+- Tags: 1 Player, 3D Games, jump, Minecraft, Obstacle, parking, Robot

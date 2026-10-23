@@ -19,6 +19,6 @@ your task to combine at least three of the delicious sweets to make them disappe
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fruit, Fruits, HTML, Mobile, Puzzle

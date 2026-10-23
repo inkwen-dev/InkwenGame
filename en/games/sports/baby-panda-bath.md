@@ -21,4 +21,4 @@ The popular Baby Panda Care has new members! Baby Panda Care 2 offers a new expe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, Adventure, Arena, Army, Baby, Baby Hazel, Barbie, Battle, Bike, Billiard, Boy, Boys, Candy, Doctor, drift, drifting, Driving, Educational, Game, Games, Girl, Girls, Hypercasual, Mobile, Monkey, Monster, Moto, Motorcycle
+- Tags: .io Games, 2 Player Games, 3D Games, Adventure, Arena, Army, Baby, Baby Hazel, Barbie, battle, bike, Billiard, Boy, Boys, Candy, Doctor, drift, drifting, Driving, educational, Game, Games, Girl, Girls, Hypercasual, Mobile, Monkey, monster, Moto, Motorcycle

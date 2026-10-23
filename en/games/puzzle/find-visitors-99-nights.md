@@ -27,4 +27,4 @@ Check for signs and identify hidden monsters – the visitors!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: hidden-object, Mouse, RPG, scary
+- Tags: hidden-object, Mouse, rpg, scary

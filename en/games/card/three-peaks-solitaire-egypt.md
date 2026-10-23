@@ -19,6 +19,6 @@ Pyramid Solitaire is simple and addictive game for one player, which goal is to 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casual, HTML5, Logic, Puzzle, Solitaire
+- Tags: card, Casual, HTML5, Logic, Puzzle, solitaire

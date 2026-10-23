@@ -21,4 +21,4 @@ Numbubbles Popping is a logical math game. To start just point a numbubble, set 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bubble, Educational, HTML5, Math, Mobile, Number, Puzzle, School
+- Tags: Arcade, Bubble, educational, HTML5, math, Mobile, Number, Puzzle, School

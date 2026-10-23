@@ -21,4 +21,4 @@ Get ready for a wild shape-matching adventure in Zoo Zoom Shapes! Match the ador
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Best Games, Educational, Fun
+- Tags: 1 Player, Best Games, educational, Fun

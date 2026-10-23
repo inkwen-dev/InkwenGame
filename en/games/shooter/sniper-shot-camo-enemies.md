@@ -21,4 +21,4 @@ Sniper Shot: Camo Enemies is a wonderful sniper game where precision and patienc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kill, Sniper, weapons
+- Tags: Kill, sniper, weapons

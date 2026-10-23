@@ -19,6 +19,6 @@ It&#x27;s Story Time is a puzzle game developed by Sakkat Studio that will chall
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: H5, New, Puzzle, Quiz

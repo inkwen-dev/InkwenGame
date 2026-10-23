@@ -21,4 +21,4 @@ Froggy Tower, Hyper Casual Game - Tap to increase the block to collect coins and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Block, Casual, Classic, Escape
+- Tags: Adventure, Arcade, block, Casual, Classic, Escape

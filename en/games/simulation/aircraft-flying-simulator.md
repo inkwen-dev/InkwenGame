@@ -21,4 +21,4 @@ Aircraft Flying Simulator is fun addictive adventure game.Take off in a realisti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Aircraft, Arcade, Flight, fly, Simulator
+- Tags: Adventure, Aircraft, Arcade, flight, fly, Simulator

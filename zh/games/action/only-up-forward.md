@@ -21,4 +21,4 @@ WASD 移动-行走 空格键 跳跃
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 跳跃, 弹跳, Mentolatux, 仅向上, 跑, 跑步, Unity3D, WebGL
+- 标签: 跳跃, 跳跃, Mentolatux, OnlyUp, 跑, 奔跑, Unity3D, WebGL

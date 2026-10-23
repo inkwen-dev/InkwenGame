@@ -19,6 +19,6 @@ About the Game: Mouse Raider is a simple infinity shooting game, which is set wh
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D Games, Action, Adventure, Bomb, Cartoon, Cartoon Network, Casual, Classic, Crazy, Cute, Disney, endless, Fantasy, Fighting, Fun, Funny, Google, Gun
+- Tags: .io Games, 1 Player, 3D Games, Action, Adventure, Bomb, Cartoon, Cartoon Network, Casual, Classic, crazy, Cute, Disney, endless, Fantasy, fighting, Fun, Funny, Google, Gun

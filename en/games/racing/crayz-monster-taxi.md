@@ -21,4 +21,4 @@ How about driving a crazy monster truck taxi? collect the coins on the road, rea
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Arcade, Car, Cars, Monster, Taxi
+- Tags: 1 Player, 2D, Action, Adventure, Arcade, Car, Cars, monster, Taxi

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 男孩, 男孩, 飞行, 飞行, HTML, HTML5, 超休闲, 互动, 移动, 怪物, 赛车
+- 标签: 街机, 男孩, 男孩们, 飞行, 飞, HTML, HTML5, 超休闲, 互动, 移动设备, monster, 竞速

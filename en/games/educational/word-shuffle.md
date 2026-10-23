@@ -21,4 +21,4 @@ Pop the letter bubbles and form the correct words before time runs out. Each cor
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Click, Educational, Word
+- Tags: Casual, Click, educational, word

@@ -19,6 +19,6 @@ Introducing an exciting new game based on the acclaimed Korean TV series. You ha
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Girl, Hair, HTML5, Makeover, Puzzle, run, running

@@ -21,4 +21,4 @@ Experience Princess Horse Club for free, an addictive equestrian adventure game!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dress Up, Educational, Fantasy, Farm, Fashion, Forest, Fun, Grooming, Hair, Horse, HTML5, Kids, Mobile, Princess
+- Tags: Dress Up, educational, Fantasy, Farm, Fashion, Forest, Fun, Grooming, Hair, horse, HTML5, Kids, Mobile, Princess

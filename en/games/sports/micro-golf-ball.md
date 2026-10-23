@@ -21,4 +21,4 @@ Micro Golf Ball is a game in which you need to score golf balls in holes and tra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Golf, HTML5, Kids, Mobile, Puzzle, Skill, Sport
+- Tags: Fun, golf, HTML5, Kids, Mobile, Puzzle, Skill, Sport

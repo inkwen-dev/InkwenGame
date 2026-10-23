@@ -21,4 +21,4 @@ Stickman Hero Fight - Super Action Heroes is a free-to-play stickman fighting ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Boys, Fight, Fighting, Jumping, Stickman, Superhero
+- Tags: 1 Player, 2D, Action, Adventure, Boys, Fight, fighting, jumping, stickman, Superhero

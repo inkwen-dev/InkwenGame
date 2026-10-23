@@ -19,6 +19,6 @@ This is a typical puzzle game that helps train your eyes and brain. It is the "H
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Block, Board, Brain, Mobile, Tetris
+- Tags: Best, block, Board, Brain, Mobile, tetris

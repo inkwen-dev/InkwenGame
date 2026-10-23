@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 泡泡, 三消, 三消, 怪物, 谜题
+- 标签: 泡泡, 三消, 三消游戏, monster, 益智

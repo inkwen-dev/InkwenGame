@@ -19,6 +19,6 @@ This text twist of a word game is tremendous brain challenging fun. Enjoy modern
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, Puzzle, Word
+- Tags: 2 Player Games, Puzzle, word

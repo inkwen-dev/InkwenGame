@@ -21,4 +21,4 @@ Line Sprint is a very fun and interesting casual puzzle game, line sprint game p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Crazy, drift, Driving, Funny, H5
+- Tags: 3D Games, Action, crazy, drift, Driving, Funny, H5

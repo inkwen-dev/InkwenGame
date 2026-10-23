@@ -19,6 +19,6 @@ Deploy onto the ring in Halo: Platformer, a Flash-style HTML5 platformer. Save y
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Platform, Shoot, Shoot 'Em Up, Shooter, Shooting

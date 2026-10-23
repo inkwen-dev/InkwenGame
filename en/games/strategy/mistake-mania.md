@@ -19,6 +19,6 @@ Welcome to Mistake Mania! Challenge your attention to detail in this thrilling g
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: New, Play, Point And Click, Puzzle, Strategy
+- Tags: New, Play, Point And Click, Puzzle, strategy

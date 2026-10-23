@@ -27,4 +27,4 @@ HEX Connect is a captivating hexagonal Mahjong Connect puzzle game where players
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Logic, Mahjong, Matching, Puzzle
+- Tags: Brain, Logic, mahjong, Matching, Puzzle

@@ -15,6 +15,6 @@ Navigate through a vibrant cosmic battlefield in Cosmic Shootout, an action-pack
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: hyper-casual

@@ -19,6 +19,6 @@ If you enjoy games that mix learning with entertainment, then this Quiz Mix game
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Car, gta, HTML5, Kids, Logic, Minecraft, Quiz, Skill, Sprunki

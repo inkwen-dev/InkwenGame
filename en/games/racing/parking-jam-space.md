@@ -21,4 +21,4 @@ Welcome to Parking Jam Space 3D &ndash; the ultimate car parking game! Tap on th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, carparking, Cars, Parking
+- Tags: Car, carparking, Cars, parking

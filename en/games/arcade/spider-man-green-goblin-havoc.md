@@ -19,6 +19,6 @@ In the story, Spider-Man fell into the trap of the Green Goblin, from which only
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, H5, Puzzle, Spiderman

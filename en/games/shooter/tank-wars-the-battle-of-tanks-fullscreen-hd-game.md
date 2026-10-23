@@ -19,6 +19,6 @@ Mobile-friendly, Fullscreen Game. It's a war zone. You must save your house, you
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Arena, Army, Battle, Battlegrounds, Best, Games, Mobile, Shooter, Shooting, Tank, Tanks, War
+- Tags: 2 Player, 2 Player Games, Arena, Army, battle, Battlegrounds, Best, Games, Mobile, Shooter, Shooting, Tank, tanks, War

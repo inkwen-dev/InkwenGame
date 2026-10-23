@@ -21,4 +21,4 @@ Gumball Jump Force 是一款在线 HTML5 游戏，可在 Safari 和 Chrome 等�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 冒险, 卡通, 卡通频道, 跳跃, 跳跃, 跑, 跑步
+- 标签: 动作, 冒险, 卡通, 卡通频道, 跳跃, 跳跃, 跑, 奔跑

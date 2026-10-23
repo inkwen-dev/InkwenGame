@@ -21,4 +21,4 @@ Monster Truck Racing Puzzle is a free online game in the jigsaw puzzle genre. Yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Jigsaw, Kids, Mobile, Monster, Puzzle, Truck
+- Tags: HTML5, Jigsaw, Kids, Mobile, monster, Puzzle, truck

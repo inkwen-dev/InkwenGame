@@ -21,4 +21,4 @@ Welcome to my puppy pet care game town where different baby dogs are waiting to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Disney, drifting, Educational
+- Tags: Coloring, Disney, drifting, educational

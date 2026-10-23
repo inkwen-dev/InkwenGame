@@ -25,4 +25,4 @@ Enjoy hundreds of handcrafted soccer puzzle levels filled with traps, moving obj
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing, Logic, Soccer
+- Tags: drawing, Logic, Soccer

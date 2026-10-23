@@ -21,4 +21,4 @@ Saw Pop Master is an intense arcade skill game where precision and timing are ev
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Basketball
+- Tags: 3D, Arcade, basketball

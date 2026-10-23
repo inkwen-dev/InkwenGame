@@ -21,4 +21,4 @@ The puzzle game &ldquo;Mathematics: Master of Arithmetic&rdquo; promotes brain d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Educational, endless, Highscore, HTML5, Logic, Logical, Math, Memory, Science
+- Tags: Brain, educational, endless, Highscore, HTML5, Logic, Logical, math, memory, Science

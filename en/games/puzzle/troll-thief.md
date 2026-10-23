@@ -21,4 +21,4 @@ Troll Thief – Stickman Puzzle is a funny puzzle game template where you stretc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Puzzle, Stickman
+- Tags: Puzzle, stickman

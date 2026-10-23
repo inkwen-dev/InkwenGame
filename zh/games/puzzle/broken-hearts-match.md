@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 女孩, 爱情, 配对, 移动
+- 标签: 安卓, 女孩, 爱情, 匹配, 移动设备

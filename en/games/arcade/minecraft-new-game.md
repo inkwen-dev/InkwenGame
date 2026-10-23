@@ -19,6 +19,6 @@ Minecraft New Game 2021 Minecraft Remake Game 2021 Classic Minecraft game 2021! 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Craft, Crafting, Mine, Minecraft, Online

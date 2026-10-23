@@ -21,4 +21,4 @@ Hetto 2 is a 2D platformer where you have to collect all of the bottles of magic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, jump, Jumping, Pixel, Platform, Retro, Robot
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, jump, jumping, pixel, Platform, retro, Robot

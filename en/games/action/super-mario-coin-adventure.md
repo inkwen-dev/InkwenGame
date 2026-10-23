@@ -21,4 +21,4 @@ Super Mario Coin Adventure is a new kind of Mario game that you can play with on
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Avoid, Cartoon, Click, Collecting, HTML5, Hypercasual, jump, Jumping, Kids, Mario, Mobile, Platform, run, running, Superhero
+- Tags: Android, Avoid, Cartoon, Click, Collecting, HTML5, Hypercasual, jump, jumping, Kids, mario, Mobile, Platform, run, running, Superhero

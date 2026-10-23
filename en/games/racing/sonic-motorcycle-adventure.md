@@ -19,6 +19,6 @@ Sonic is a little blue hedgehog who is practically not afraid of anything and is
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Anime, Arcade, Cartoon, Cartoon Network, Moto, Motorcycle, Race, Racing

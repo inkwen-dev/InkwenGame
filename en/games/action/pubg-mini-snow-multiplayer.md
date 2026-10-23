@@ -21,4 +21,4 @@ Multiplayer game enjoy with your friends
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Fighting, Gun, Multiplayer, War
+- Tags: Action, fighting, Gun, Multiplayer, War

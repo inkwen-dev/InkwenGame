@@ -19,6 +19,6 @@ Bike Rush is a new driving experience game that can let many players drive a ver
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Bike, Boy, Boys, Bricks, Girl, Hypercasual, Race, Racing
+- Tags: 3D, 3D Games, Adventure, bike, Boy, Boys, Bricks, Girl, Hypercasual, Race, Racing

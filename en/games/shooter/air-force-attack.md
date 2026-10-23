@@ -21,4 +21,4 @@ In the game Air Force Attack you will need to take part in large air battles on 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Aircraft, Boys, Flight, Helicopter, HTML5, Mobile, Plane, Shoot 'Em Up, Skill, War
+- Tags: Aircraft, Boys, flight, helicopter, HTML5, Mobile, Plane, Shoot 'Em Up, Skill, War

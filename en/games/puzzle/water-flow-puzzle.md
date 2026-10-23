@@ -21,4 +21,4 @@ Water Flow Puzzle is a very fun casual puzzle-solving game that is a free online
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Block, Boy, Brain, Bricks, Fun, HTML5, Kids, Matching, Online, Puzzle
+- Tags: Android, block, Boy, Brain, Bricks, Fun, HTML5, Kids, Matching, Online, Puzzle

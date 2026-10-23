@@ -21,4 +21,4 @@ Goal.io &ndash; 在这款免费的足球IO游戏中大显身手 在浏览器中�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 运动
+- 标签: .io 游戏, 体育

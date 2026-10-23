@@ -19,6 +19,6 @@ Loop Hexa is a casual puzzle game that offers challenges with gradual difficulty
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Arcade, Bejeweled, Best, Design, Draw, Games, HTML5, Mobile, Relaxation

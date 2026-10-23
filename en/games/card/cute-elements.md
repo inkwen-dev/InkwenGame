@@ -19,6 +19,6 @@ Elemental characters with special powers have been caged, use the water element 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, Arcade, Card, Cartoon, Casual, Clicker, Collecting, Cute, Fire, Funny, HTML5, Hypercasual, Strategy
+- Tags: 2D, Android, Arcade, card, Cartoon, Casual, Clicker, Collecting, Cute, Fire, Funny, HTML5, Hypercasual, strategy

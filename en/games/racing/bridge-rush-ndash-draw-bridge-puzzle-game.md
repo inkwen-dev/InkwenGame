@@ -21,4 +21,4 @@ Draw a stable road, launch the car, and reach the finish! Bridge Rush is a physi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bridge, Car, Drawing, Physics, Puzzle
+- Tags: Bridge, Car, drawing, Physics, Puzzle

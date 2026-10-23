@@ -15,6 +15,6 @@ Test your aim and timing in Fast Hoops, where each level challenges your precisi
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Basketball
+- Tags: basketball

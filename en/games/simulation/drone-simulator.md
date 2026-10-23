@@ -21,4 +21,4 @@ Drone simulator is a great game for every drone lover. Enjoy realistic flight. C
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Air, Arcade, Best, Flight, fly, Fun, Funny, HTML5, Unity3D, WebGL
+- Tags: 1 Player, 3D, 3D Games, Action, Air, Arcade, Best, flight, fly, Fun, Funny, HTML5, Unity3D, WebGL

@@ -31,4 +31,4 @@ Can you clear all the tiles and become a true matching master? Start playing now
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Mahjong, Puzzle
+- Tags: 3D, mahjong, Puzzle

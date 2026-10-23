@@ -19,6 +19,6 @@ The ultimate adventure continues with the super flying cars in a huge city with 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 3D, Action, Adventure, Car, car tuning, fly, Race, Simulation, Simulator, Supercars

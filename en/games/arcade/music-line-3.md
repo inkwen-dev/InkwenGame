@@ -19,6 +19,6 @@ Music Line 3 new version is shocking! Six theme music, day and night two difficu
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Music
+- Tags: 3D, Arcade, music

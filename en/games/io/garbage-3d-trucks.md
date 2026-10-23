@@ -21,4 +21,4 @@ Driving a garbage truck in city environment is the ultimate test of driving skil
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, Adventure, Arcade, Casual, Crazy, Fun, Funny, Hypercasual, Play, Race
+- Tags: .io Games, 3D, Adventure, Arcade, Casual, crazy, Fun, Funny, Hypercasual, Play, Race

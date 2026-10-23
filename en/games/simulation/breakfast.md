@@ -19,6 +19,6 @@ Do you like to eat Pancakes in breakfast? Do you like to cook it by yourself? So
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Cake, Cook, Cooking

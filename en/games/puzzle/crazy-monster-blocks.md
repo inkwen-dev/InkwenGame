@@ -21,4 +21,4 @@ Welcome to our newest merge numbers game called Crazy Monster Blocks. You have t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Fun, Kids, Matching, Monster, Number, Puzzle
+- Tags: Casual, Fun, Kids, Matching, monster, Number, Puzzle

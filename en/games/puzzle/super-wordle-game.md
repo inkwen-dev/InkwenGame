@@ -21,4 +21,4 @@ Super Wordle Game is a great puzzle that can challenge your vocabulary. You need
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Kids, Letters, Logic, Mobile, Skill, Word
+- Tags: Brain, Kids, Letters, Logic, Mobile, Skill, word

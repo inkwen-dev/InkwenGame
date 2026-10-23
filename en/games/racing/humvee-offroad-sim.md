@@ -21,4 +21,4 @@ Play Humvee Offroad Sim, real adventure and challenging driving simulation game.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Truck, Unity3D, WebGL
+- Tags: Driving, truck, Unity3D, WebGL

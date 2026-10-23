@@ -21,4 +21,4 @@ Welcome to Survive Squad, a hot survival game that combines Strategy and Role-Pl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, endless, Strategy, survival, weapons
+- Tags: battle, endless, strategy, survival, weapons

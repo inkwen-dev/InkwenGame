@@ -19,6 +19,6 @@ Become the best chef of burgers cook and serve delicious hamburgers in your own 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Burger, Cook, Cooking, Restaurant
+- Tags: Burger, Cook, Cooking, restaurant

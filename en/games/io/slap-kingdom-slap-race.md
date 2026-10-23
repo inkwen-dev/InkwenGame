@@ -19,6 +19,6 @@ Want to participate in a slap game and become a slap master or slap star? Slap a
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Best, Best Games, Crazy, Hypercasual, run, running
+- Tags: .io, .io Games, Action, Best, Best Games, crazy, Hypercasual, run, running

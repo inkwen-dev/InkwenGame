@@ -19,6 +19,6 @@ Jelly Dye is a simulation coloring online game for Kids for Free. You can choose
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Brain, Color, Coloring, Fun, HTML5, Kids, Mobile, Online, Puzzle

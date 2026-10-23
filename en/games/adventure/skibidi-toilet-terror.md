@@ -21,4 +21,4 @@ Night Skibidi Toilet Simulator plays your role for a man named CameraHead Skibid
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Dungeon, Ghost, Halloween, HTML5, Skibidi, Skibidi Toilet, WebGL, Zombie
+- Tags: 1 Player, 3D, Dungeon, Ghost, Halloween, HTML5, Skibidi, skibidi-toilet, WebGL, Zombie

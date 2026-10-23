@@ -19,6 +19,6 @@ Hyper Cakes is a relaxing cake-making simulation! Cut cakes into perfect shapes,
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Cake, Simulation

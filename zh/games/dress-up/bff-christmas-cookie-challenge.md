@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 圣诞, 可爱, 装饰, 装扮, 女孩, HTML5, 造型改造
+- 标签: 圣诞节, 可爱, 装扮, 装扮, 女孩, HTML5, 改造

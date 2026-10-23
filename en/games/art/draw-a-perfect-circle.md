@@ -19,6 +19,6 @@ Draw a Perfect Circle is a minimalist and challenging game that tests your preci
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Draw, Drawing, Hypercasual
+- Tags: Casual, Draw, drawing, Hypercasual

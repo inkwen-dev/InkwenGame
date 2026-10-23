@@ -19,6 +19,6 @@ Let's play our new puzzle game called Animal Puzzles. In this game you have 12 p
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Arcade, Fun, HTML5, Kids, Mobile, Skill

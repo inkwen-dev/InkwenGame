@@ -19,6 +19,6 @@ Each card has its own unique abilities, and using them strategically can make yo
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Army, Game, HTML5, Mobile

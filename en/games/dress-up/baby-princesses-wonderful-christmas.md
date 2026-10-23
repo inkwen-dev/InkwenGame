@@ -21,4 +21,4 @@ Baby Princesses Wonderful Christmas Little princesses Eliza, Jasmin, Tiara, Rose
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Anime, Baby, Barbie, Cartoon, Dress Up, Elsa, Fashion, RPG
+- Tags: 2D, Anime, Baby, Barbie, Cartoon, Dress Up, Elsa, Fashion, rpg

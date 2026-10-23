@@ -21,4 +21,4 @@ The most popular combat units in the game world are tanks and few will argue wit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, HTML5, Mobile, Shooting, Skill, Strategy, Tank, Tanks, War
+- Tags: Fight, HTML5, Mobile, Shooting, Skill, strategy, Tank, tanks, War

@@ -21,4 +21,4 @@ Skibidi Pop：舞蹈与律动是一款充满活力的节奏类游戏，考验你
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 街机, 射击, 斯基比迪, 斯基比迪马桶, 僵尸
+- 标签: 冒险, 街机, 射击, Skibidi, skibidi-toilet, 僵尸

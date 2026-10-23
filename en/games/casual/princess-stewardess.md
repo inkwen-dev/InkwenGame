@@ -19,6 +19,6 @@ Our beautiful princess Emma is going to join as a stewardess in the reputed airl
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, fly, Girls, Kids, Princess

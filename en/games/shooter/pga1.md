@@ -21,4 +21,4 @@ Pixel Gun Apocalypse 1 is a thrilling first-person shooter that combines blocky 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mentolatux, Multiplayer, Pixel, Shooter, Shooting, unity, WebGL
+- Tags: Mentolatux, Multiplayer, pixel, Shooter, Shooting, unity, WebGL

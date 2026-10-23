@@ -21,4 +21,4 @@ Fashion Coloring Book Glitter is a fashionable coloring game. 12 beautiful color
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Drawing, Fashion, Girls
+- Tags: Coloring, drawing, Fashion, Girls

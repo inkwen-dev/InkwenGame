@@ -21,4 +21,4 @@ Skibidi Toilet IO 是一款滑稽荒诞的游戏，你的角色是一个从马�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 2人, 双人游戏, 3D, 3D 游戏, 动作, 竞技场, 最佳, 冲突, HTML5, Skibidi Toilet, 相扑
+- 标签: .io, .io 游戏, 双人, 双人游戏, 3D, 3D游戏, 动作, 竞技场, 最佳, 冲突, HTML5, skibidi-toilet, 相扑

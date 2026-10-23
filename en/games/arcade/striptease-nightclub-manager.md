@@ -21,4 +21,4 @@ Striptease Nightclub Manager is game of time management and reflexes in which yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Adventure, Arcade, Strategy
+- Tags: Adult, Adventure, Arcade, strategy

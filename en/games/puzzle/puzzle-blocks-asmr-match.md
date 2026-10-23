@@ -21,4 +21,4 @@ Puzzle Blocks ASMR Match is a block puzzle game that combines classics with inno
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Math, puzzleblock
+- Tags: math, puzzleblock

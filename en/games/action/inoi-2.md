@@ -19,6 +19,6 @@ Inoi 2 is a 2D simple platformer where you need to avoid green, yellow and red c
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Casual, Collecting, Cute, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Casual, Collecting, Cute, pixel, Platform, retro

@@ -21,4 +21,4 @@ Christmas is Taylor's favorite holiday, she loves Santa Claus and Santa's reinde
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Christmas, Cute, Decorate, Dress Up, Educational, Girl, Girls, Makeover, Puzzle, Simulation
+- Tags: Animal, Baby, Christmas, Cute, Decorate, Dress Up, educational, Girl, Girls, Makeover, Puzzle, Simulation

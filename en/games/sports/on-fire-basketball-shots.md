@@ -33,4 +33,4 @@ Key Feature: Offers deep player customization through various unlockable ball an
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Basketball, Physics, Skill, Sports
+- Tags: Arcade, basketball, Physics, Skill, sports

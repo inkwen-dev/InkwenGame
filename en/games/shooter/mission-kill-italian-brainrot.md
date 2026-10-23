@@ -21,4 +21,4 @@ Hello warrior, help Tung Tung and defeat all the incoming enemies. There are ene
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, attack, Battle, Brainrot Italian, Italian Brainrot, survival, Tung, Tung Tung, Tung Tung Tung Sahur
+- Tags: 2D, Action, attack, battle, Brainrot Italian, Italian Brainrot, survival, Tung, Tung Tung, Tung Tung Tung Sahur

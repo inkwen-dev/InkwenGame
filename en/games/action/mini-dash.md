@@ -21,4 +21,4 @@ Mini Dash is a retro-style platform game where you command a small blob characte
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Pixel, Platform, Retro
+- Tags: Action, Arcade, pixel, Platform, retro

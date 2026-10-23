@@ -19,6 +19,6 @@ When there were too many Skibidi toilets, contradictions arose between them and 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2 Player, 2 Player Games, Action, Adventure, Best, Fun, Funny, HTML5, Kids, Mobile, Skibidi, Skibidi Toilet
+- Tags: .io, .io Games, 2 Player, 2 Player Games, Action, Adventure, Best, Fun, Funny, HTML5, Kids, Mobile, Skibidi, skibidi-toilet

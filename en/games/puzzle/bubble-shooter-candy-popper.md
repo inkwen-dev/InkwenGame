@@ -19,6 +19,6 @@ It is a classical bubble shooter game; pop the candy hidden among the bubbles. T
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, Candy, Girls, HTML5, Matching, Mobile, Puzzle

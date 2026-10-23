@@ -21,4 +21,4 @@ Indian Cargo Truck Gwadar Port Game is a very crazy truck to drive on in this Ca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, HTML, HTML5, Race, Racing, Simulation, Simulator, Truck
+- Tags: 3D, 3D Games, HTML, HTML5, Race, Racing, Simulation, Simulator, truck

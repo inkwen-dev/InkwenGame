@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, Adventure, Android, 逃脱, HTML5, 移动, Skibidi, 巫师
+- 标签: 动作, 冒险, 安卓, 逃脱, HTML5, 移动设备, Skibidi, 巫师

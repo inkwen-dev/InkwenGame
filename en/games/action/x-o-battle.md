@@ -21,4 +21,4 @@ X-O Battle is the perfect choice for players who enjoy fast-paced puzzle games a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Casual, Strategy
+- Tags: Board, Casual, strategy

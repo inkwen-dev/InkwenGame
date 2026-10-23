@@ -21,4 +21,4 @@ Revamp the batter: Stickman Thief Puzzle 2 offers an entertaining puzzle experie
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Android, HTML5, iPad, iPhone, Kids, Mentolatux, Mobile, Puzzle, Stickman, Thief
+- Tags: 1 Player, Android, HTML5, iPad, iPhone, Kids, Mentolatux, Mobile, Puzzle, stickman, Thief

@@ -21,4 +21,4 @@ In the game HORSE RACING : DERBY QUEST (a horse race game), you play as a young 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Horse, Race, Racing
+- Tags: Animal, horse, Race, Racing

@@ -19,6 +19,6 @@ Welcome to the ultimate sorting puzzle challenge! Test your brain with fun and a
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Adventure, amazing, Casual, Fun, Puzzle, Skill

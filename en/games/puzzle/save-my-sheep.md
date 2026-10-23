@@ -19,6 +19,6 @@ Save My Sheep is the second version of the popular cute game that has made all t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Brain, Click, Clicker, Mind, Puzzle

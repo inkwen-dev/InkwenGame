@@ -35,4 +35,4 @@ Each victory makes you stronger. Find weapons and armor, upgrade your equipment,
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Fighting, Monster, Tower Defense
+- Tags: 3D, Action, fighting, monster, Tower Defense

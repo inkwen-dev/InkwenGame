@@ -19,6 +19,6 @@ Monster Truck Stunts is monster truck game where you need to drive and control m
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Monster, Race, Stunts, Truck
+- Tags: monster, Race, Stunts, truck

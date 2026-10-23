@@ -21,4 +21,4 @@ Create blocks using the resources you collect, expand your ship, and strategical
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Army, Battle, battleship, Fire, Monster
+- Tags: Action, Army, battle, battleship, Fire, monster

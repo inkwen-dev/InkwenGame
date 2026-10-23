@@ -19,6 +19,6 @@ Boom Push is a very fun and free leisure puzzle online game by pushing boom for 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Bomb, Boy, Brain, Defense, Fun, HTML5, Kids, Online, Puzzle, Stickman
+- Tags: 3D, Android, Bomb, Boy, Brain, Defense, Fun, HTML5, Kids, Online, Puzzle, stickman

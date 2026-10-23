@@ -21,4 +21,4 @@ Think strategically and play your moves in your head first, so it's easier to fi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Board, Logic
+- Tags: block, Board, Logic

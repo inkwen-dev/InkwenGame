@@ -19,6 +19,6 @@ Ninja fishing is a game where you need to cut in half coming fish. Select mode 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: cut, Fish, Ninja, Puzzle
+- Tags: cut, Fish, ninja, Puzzle

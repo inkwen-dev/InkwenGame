@@ -19,6 +19,6 @@ Bubble Shooter Golden Chests is a Classical bubble shooter game with many new ch
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bubble, Bubble Shooter, Collecting, HTML5, Mobile, Shoot 'Em Up, Shooter

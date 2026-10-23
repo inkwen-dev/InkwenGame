@@ -19,6 +19,6 @@ Flappy Santa Claus is a fun and festive arcade game that will put you in the hol
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Clicker, fly, HTML5, Santa Claus

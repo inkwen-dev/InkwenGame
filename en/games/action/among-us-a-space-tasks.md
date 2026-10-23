@@ -19,6 +19,6 @@ Game of tasks inside a ghost spaceship. Complete all tasks to fix your ship, and
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Adventure, Alien, Android, Arena, Best, Boy, Casual, Escape, Game, Ghost, HTML5, Kill, Killing, Maze, Play, run, running, sky, Space

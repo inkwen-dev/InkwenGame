@@ -33,4 +33,4 @@ A 3D hidden sniper game where you search detailed environments, spot camouflaged
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Shooting, Sniper
+- Tags: 3D, Shooting, sniper

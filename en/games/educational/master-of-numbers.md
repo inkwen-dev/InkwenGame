@@ -24,4 +24,4 @@ Experience the excitement of mathematics with Master of Numbers, a fast-paced on
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, Logic, Math, Number
+- Tags: Brain, educational, Logic, math, Number

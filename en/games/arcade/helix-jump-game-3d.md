@@ -21,4 +21,4 @@ Now you have control a boy wearing to jump and fall onto the bricks of the whole
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Avoid, Bricks, Jumping
+- Tags: Arcade, Avoid, Bricks, jumping

@@ -21,4 +21,4 @@ Pop It Party 是一款有趣且令人放松的游戏，也是一款独特的游�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 家庭, 免费HTML5游戏供您的网站使用, HTML, 儿童, 移动
+- 标签: 家庭, 免费HTML5游戏供您的网站使用, HTML, 儿童, 移动设备

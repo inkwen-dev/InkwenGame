@@ -19,6 +19,6 @@ HTML5 platform adventure game where Mage Girl must cross the mystic valley where
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Game, Games, Magic, Pixel, Platform, Side Scrolling
+- Tags: Action, Adventure, Game, Games, Magic, pixel, Platform, Side Scrolling

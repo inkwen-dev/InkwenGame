@@ -19,6 +19,6 @@ Baby Panda Animal Farm is a cute farming game where you can learn how to run a f
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cartoon, Cleaning, Cute, Educational, Farm, Fun, Girls, Grooming, HTML5, Kids, Mobile, Panda
+- Tags: Animal, Baby, Cartoon, Cleaning, Cute, educational, Farm, Fun, Girls, Grooming, HTML5, Kids, Mobile, Panda

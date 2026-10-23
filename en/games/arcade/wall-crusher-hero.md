@@ -19,6 +19,6 @@ Wall Crusher Hero is a fun relaxing game in which you have to launch a stickman 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Arcade, Bomb, Bricks, Casual, Cute, Funny, Hypercasual, Lego, Mobile, Pixel, Relaxation, Superhero
+- Tags: 3D, Android, Arcade, Bomb, Bricks, Casual, Cute, Funny, Hypercasual, Lego, Mobile, pixel, Relaxation, Superhero

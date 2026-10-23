@@ -15,6 +15,6 @@ Engage in high-stakes crime in Auto City, where as a blocky dude, you navigate a
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: gangster

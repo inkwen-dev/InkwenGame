@@ -19,6 +19,6 @@ You are invited to join Hole And Fill Collect Master. Here, you will play as a m
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Cook, Food
+- Tags: battle, Cook, Food

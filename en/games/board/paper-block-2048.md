@@ -21,4 +21,4 @@ Paper Block 2048 is Puzzle game with minimalist graphics, simple and addictive. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Android, Board, Boys, HTML5, Kids, Math, Puzzle, Skill
+- Tags: Adult, Android, Board, Boys, HTML5, Kids, math, Puzzle, Skill

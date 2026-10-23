@@ -19,6 +19,6 @@ Get creative and have fun by making healthy, tasty and colorful smoothies. Dress
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Food, Fun, Funny, Girl, Kids, Simulation

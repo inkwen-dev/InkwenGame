@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Grimace, Grimace Shake, HTML5, 移动设备, Skibidi, Skibidi Toilet
+- 标签: 格里马斯, 格里马斯奶昔, HTML5, 移动设备, Skibidi, skibidi-toilet

@@ -19,6 +19,6 @@ Truck Transport is game where you play as a truck driver. Transports trucks with
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Driving, Games, HTML, HTML5, Road, Simulator, Traffic, Truck, WebGL
+- Tags: 3D, Arcade, Driving, Games, HTML, HTML5, Road, Simulator, Traffic, truck, WebGL

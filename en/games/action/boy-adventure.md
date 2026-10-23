@@ -21,4 +21,4 @@ boy adventure is a html5 platformer game, collect fruits to get scores and more 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Animal, Block, Boy, Fruits, Monster, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Animal, block, Boy, Fruits, monster, pixel, Platform, retro

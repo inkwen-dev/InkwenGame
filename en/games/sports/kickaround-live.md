@@ -19,6 +19,6 @@ KickAround Live is a skill-based multiplayer football game. Dribble, pass, head 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Skill, Soccer, WebGL

@@ -21,4 +21,4 @@ Embark on an exciting adventure with your Bikini Bottom friends in Reef Rumble! 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Battle, Battlegrounds, Best, Cartoon, H5, Hot, HTML5, New, Spongebob
+- Tags: Action, Adventure, Arcade, battle, Battlegrounds, Best, Cartoon, H5, Hot, HTML5, New, Spongebob

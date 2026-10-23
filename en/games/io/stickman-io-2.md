@@ -15,6 +15,6 @@ In Stickman.io, navigate a thrilling arena to grow your stickman by consuming fo
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: .io

@@ -19,6 +19,6 @@ Use left, right and down keys to move the blocks. Use up key to rotate the block
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collecting, Farm, HTML5, Match 3, Matching, Mobile, Puzzle

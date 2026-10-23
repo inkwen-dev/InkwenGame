@@ -19,6 +19,6 @@ Power Rangers Blue Samurai have to pass challenging obstacles. You can skip the 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Best, Boy, Boys, Game, Games, HTML5, run, running

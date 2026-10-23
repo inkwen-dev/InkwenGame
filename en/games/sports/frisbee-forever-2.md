@@ -19,6 +19,6 @@ Frisbee Forever 2 is the sequel to the wonderful game Frisbee Forever, in which 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Click, Clicker, HTML, HTML5, Puzzle, Sport, Sports, Unity3D
+- Tags: 3D, 3D Games, Click, Clicker, HTML, HTML5, Puzzle, Sport, sports, Unity3D

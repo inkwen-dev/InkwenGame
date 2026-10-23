@@ -15,6 +15,6 @@ Get lost in a TV's eerie world where ghostly heads lurk. Navigate a maze as you 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Horror

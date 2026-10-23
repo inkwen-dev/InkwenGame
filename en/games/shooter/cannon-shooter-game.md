@@ -19,6 +19,6 @@ Get ready for an exciting and addictive cannon shooting adventure in Cannon Stri
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Best Games, Block, Casual, Hypercasual, Puzzle, Shooter, smash
+- Tags: 2026 games, Best Games, block, Casual, Hypercasual, Puzzle, Shooter, smash

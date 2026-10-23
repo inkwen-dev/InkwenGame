@@ -19,6 +19,6 @@ Have fun with friends by playing the game Ludo Wizard. The game has 3 modes: - V
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Board, Casual, Classic, Fun, HTML5, Mobile, Multiplayer, Online

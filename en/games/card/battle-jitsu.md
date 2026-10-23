@@ -21,4 +21,4 @@ In Battle Jitsu, you enter intense multiplayer online battles where strategy is 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Card, Multiplayer
+- Tags: battle, card, Multiplayer

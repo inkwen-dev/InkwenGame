@@ -21,4 +21,4 @@ Math : Kids Math Learning add, subtract, count best kids Math Game, math apps, a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Cleaning, Educational, Kids, Math, Puzzle, Seduction
+- Tags: Arcade, Cleaning, educational, Kids, math, Puzzle, Seduction

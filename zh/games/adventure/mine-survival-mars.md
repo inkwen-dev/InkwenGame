@@ -21,4 +21,4 @@ Huggy Wuggy 尝试抵达火星核心以取得胜利！深入挖掘，收集有�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 矿井, 我的世界, 矿工
+- 标签: 挖掘, 我的世界, 矿工

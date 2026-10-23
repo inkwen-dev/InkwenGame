@@ -19,6 +19,6 @@ Organization Master is a great stress management game. This exciting game is des
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Cleaning, Decorate, Design, Dress Up, Fashion, Girl, Girls, Hidden, Kids, Puzzle, Simulation

@@ -21,4 +21,4 @@ Logic puzzle game. Unusual and difficult brain test challenge with over 45 level
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Family, HTML5, Logic, Logical, Memory, Puzzle, Rabbit
+- Tags: Brain, Family, HTML5, Logic, Logical, memory, Puzzle, Rabbit

@@ -33,4 +33,4 @@ High detailed graphics
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Driving, Parking
+- Tags: Driving, parking

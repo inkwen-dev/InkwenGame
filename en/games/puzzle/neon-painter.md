@@ -21,4 +21,4 @@ A new revolution in puzzle games. Can you find the thing hidden in the neon? Use
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Block, Boxing, Brain, Casual, Christmas, Cool, Funny, Hypercasual, Matching, Puzzle, Retro
+- Tags: Best, block, Boxing, Brain, Casual, Christmas, cool, Funny, Hypercasual, Matching, Puzzle, retro

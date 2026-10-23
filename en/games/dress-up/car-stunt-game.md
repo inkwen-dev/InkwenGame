@@ -19,6 +19,6 @@ Welcome to the GT Car Stunt Master 3D which are based on Car driving simulator c
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Best, Boy, Boys, Collection, Crazy, Creation, Decoration, drift, Driving, Educational, Fashion, Girl, Girls, Interactive Fiction, Race, Racing, Simulation, Simulator, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Best, Boy, Boys, Collection, crazy, Creation, Decoration, drift, Driving, educational, Fashion, Girl, Girls, Interactive Fiction, Race, Racing, Simulation, Simulator, Unity3D

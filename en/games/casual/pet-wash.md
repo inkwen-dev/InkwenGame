@@ -19,6 +19,6 @@ Tortoises are usually diurnal animals with tendencies to be crepuscular dependin
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Animal, Fun, Girl, Girls, H5, HTML5, Kid, Kids

@@ -21,4 +21,4 @@ Get ready for the most epic and Fun battle with BATTLE FOR KINGDOM. You must def
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Defense, Strategy, Tower Defense, Zombie
+- Tags: Animal, Defense, strategy, Tower Defense, Zombie

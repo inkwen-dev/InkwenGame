@@ -19,6 +19,6 @@ Pet Subway Surfers is an amazing running game. Run along the craziest scenarios 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Animal, Avoid, HTML5, run, running, subway, Subway Surfers, WebGL

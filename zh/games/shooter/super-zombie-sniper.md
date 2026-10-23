@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 战斗, HTML, HTML5, 怪物, 射击, 射击, 狙击, 战争, 武器, 僵尸
+- 标签: 战斗, HTML, HTML5, monster, 射击类, 射击, 狙击手, 战争, 武器, 僵尸

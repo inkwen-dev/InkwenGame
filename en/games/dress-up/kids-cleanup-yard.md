@@ -19,6 +19,6 @@ Kids Cleanup House is a very cute cleaning game. If you are interested in doing 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Games, Cleaning, Dress Up, Educational, Girl, Girls, Kids, Simulation
+- Tags: Baby, Baby Games, Cleaning, Dress Up, educational, Girl, Girls, Kids, Simulation

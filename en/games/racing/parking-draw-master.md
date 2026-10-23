@@ -21,4 +21,4 @@ Park your cars in a safe location! Draw a line with your finger and guide the ca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, Casual, Hypercasual, Parking
+- Tags: 3D, Car, Casual, Hypercasual, parking

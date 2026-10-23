@@ -19,6 +19,6 @@ Guess Words Fast challenges players to swiftly decipher words from clues provide
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Educational, Kid, Kids, Mentolatux, Puzzle, Unity3D, Word
+- Tags: Boy, Boys, educational, Kid, Kids, Mentolatux, Puzzle, Unity3D, word

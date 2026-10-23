@@ -21,4 +21,4 @@ Embark on an intense journey in Grimace vs Police SuperCar. As the player, youll
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Grimace, Levels, Police, Unity3D, WebGL
+- Tags: Driving, Grimace, Levels, police, Unity3D, WebGL

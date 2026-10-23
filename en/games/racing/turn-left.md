@@ -19,6 +19,6 @@ Test your driving skills! You can only turn left so you can travel the track as 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Driving, HTML5, Mobile, Race, Racing

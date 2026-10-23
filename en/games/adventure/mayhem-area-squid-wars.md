@@ -19,6 +19,6 @@ How about Playing Mayhem Area: Squid Wars? In this game you have to survive by k
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, 3D, Adventure, Gun, War

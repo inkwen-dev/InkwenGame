@@ -21,4 +21,4 @@ Welcome to One Line Drawing, a game that brings together a variety of line drawi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Drawing
+- Tags: drawing

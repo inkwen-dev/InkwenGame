@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 飞机, 战斗, 炸弹, 名人, 龙珠Z, GTA, 超休闲
+- 标签: 飞机, 战斗, 炸弹, 名人, 龙珠Z, gta, 超休闲

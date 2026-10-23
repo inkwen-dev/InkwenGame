@@ -21,4 +21,4 @@ wasd驾驶 暂停 按下按钮暂停
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 最佳, 疯狂, 游戏, 游戏们, 竞速, 竞速, 特技, 时机, Unity3D, WebGL
+- 标签: 3D, 3D游戏, 最佳, 疯狂, 游戏, 网页游戏, 比赛, 竞速, 特技, 时机, Unity3D, WebGL

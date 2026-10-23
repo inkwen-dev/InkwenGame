@@ -21,4 +21,4 @@ Red Light Green Light game, one of the most popular Squid Game games of recent t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, Action, Arena, Battle, Best, Casual, Escape, Hypercasual, run, running, WebGL
+- Tags: .io, .io Games, 3D, Action, Arena, battle, Best, Casual, Escape, Hypercasual, run, running, WebGL

@@ -19,6 +19,6 @@ Is being a dentist your dream job? Then you must not miss this game! Come to pla
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Baby, Doctor, Educational, Girl, Girls, Kid, Kids, Surgery
+- Tags: 2D, Animal, Baby, Doctor, educational, Girl, Girls, Kid, Kids, surgery

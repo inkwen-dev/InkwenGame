@@ -21,4 +21,4 @@ Aim, fire, survive — defend your castle from endless bug swarms and giant boss
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, Monster, Shooting, Strategy, Tower Defense
+- Tags: Action, Arcade, monster, Shooting, strategy, Tower Defense

@@ -21,4 +21,4 @@ Desktop Mouse click Mobile Touch Buttons on Screen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Educational, Game, Games, HTML5, Math, School
+- Tags: Casual, educational, Game, Games, HTML5, math, School

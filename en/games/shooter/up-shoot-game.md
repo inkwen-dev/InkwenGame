@@ -21,4 +21,4 @@ Aim high and test your shooting skills in Up Shoot Game! Control your shooter an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting, Hypercasual, Shoot, Shooting
+- Tags: Fight, fighting, Hypercasual, Shoot, Shooting

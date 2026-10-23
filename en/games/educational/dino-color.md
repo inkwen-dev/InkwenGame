@@ -21,4 +21,4 @@ Dino Color Dino Color is an educational game aimed at children with the aim of c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Games, Best Games, Cartoon, Color, dino, Dinosaur, Educational, Family, free games for your site, HTML5, Kids, Puzzle, puzzleblock, School
+- Tags: Baby Games, Best Games, Cartoon, Color, dino, Dinosaur, educational, Family, free games for your site, HTML5, Kids, Puzzle, puzzleblock, School

@@ -19,6 +19,6 @@ Ball Hit Domino is a fast-paced puzzle game where players strategically place do
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, HTML5, iPad, iPhone, Mobile, Puzzle, Unity3D, WebGL

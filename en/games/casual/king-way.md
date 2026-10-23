@@ -19,6 +19,6 @@ Your job is to guide the charismatic King through 28 levels, in search of all ch
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML5, Hypercasual, King

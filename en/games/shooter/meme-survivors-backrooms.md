@@ -21,4 +21,4 @@ How long can YOU survive in the Backrooms? Meme Survivors: Backrooms is a casual
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Arcade, Boys, Casual, Funny, Girls, Pixel, Shooting, unity games, unity games for your site, unity games for your website
+- Tags: 1 Player, 2D, Android, Arcade, Boys, Casual, Funny, Girls, pixel, Shooting, unity games, unity games for your site, unity games for your website

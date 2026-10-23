@@ -21,4 +21,4 @@ What flavor of candy cane do you like to eat? Come and join Fruit Sort Puzzle to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boy, Boys, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Puzzle
+- Tags: 2D, Boy, Boys, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Puzzle

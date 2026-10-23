@@ -21,4 +21,4 @@ Water Color 2D is an educational and challenging puzzle game! This is the best f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Android, Brain, Educational, Fun, Skill
+- Tags: .io, Android, Brain, educational, Fun, Skill

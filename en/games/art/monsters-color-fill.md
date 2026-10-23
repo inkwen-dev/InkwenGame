@@ -19,6 +19,6 @@ An addictive puzzle game to play. Swipe to move the color monster and paint the 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Brain, Color, Coloring, Mobile, Monster, Relaxation
+- Tags: Best, Brain, Color, Coloring, Mobile, monster, Relaxation

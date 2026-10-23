@@ -19,6 +19,6 @@ Do you have what it takes to drive be a big executive car. rent a car then prove
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Adventure, Android, Boy, Boys, Car, city, Driving, Taxi

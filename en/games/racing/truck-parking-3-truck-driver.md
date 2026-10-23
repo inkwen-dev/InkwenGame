@@ -21,4 +21,4 @@ Drive a selection of Awesome Vehicles, from Sedans through Sports Cars, Buses to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Animal, Boy, Boys, Car, Cars, Chicken, Fight, Fighting, Game, Games, Ladybug, Minecraft, Miraculous Ladybug, Parking, Street Fighting, Stunts, Supercars, Unity3D
+- Tags: 3D, 3D Games, Action, Animal, Boy, Boys, Car, Cars, Chicken, Fight, fighting, Game, Games, Ladybug, Minecraft, Miraculous Ladybug, parking, Street Fighting, Stunts, Supercars, Unity3D

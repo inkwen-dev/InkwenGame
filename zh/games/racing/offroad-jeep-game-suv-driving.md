@@ -21,4 +21,4 @@ PC 使用WASD或方向键进行驾驶 移动端 使用屏幕上的按钮控制�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2026年游戏, 3D, HTML5, 吉普, unity游戏, Unity3D
+- 标签: 2026 游戏, 3D, HTML5, 吉普, unity游戏, Unity3D

@@ -21,4 +21,4 @@ The hit of the season, a sensory anti-stress toy POP IT, in an exciting computer
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bubble, Casual, Clicker, Girl, HTML5, Kids, Mahjong, Mobile, Online, Simulator
+- Tags: Bubble, Casual, Clicker, Girl, HTML5, Kids, mahjong, Mobile, Online, Simulator

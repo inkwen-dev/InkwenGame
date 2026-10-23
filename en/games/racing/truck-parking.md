@@ -21,4 +21,4 @@ Sky Stunt Parking Crazy Mega Car Parking wali Games 2021 is developed to train a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Car, Cars, Game, Games, Parking, Race, Racing, Super, Supercars
+- Tags: .io Games, Car, Cars, Game, Games, parking, Race, Racing, Super, Supercars

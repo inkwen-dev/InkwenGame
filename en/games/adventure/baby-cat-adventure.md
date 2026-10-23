@@ -15,6 +15,6 @@ Join an adorable feline hero on a whimsical quest in Baby Cat Adventure. Collect
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: cats

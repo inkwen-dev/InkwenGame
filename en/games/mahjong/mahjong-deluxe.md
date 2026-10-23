@@ -19,6 +19,6 @@ Mahjong Deluxe is a HTML5 mahjong game. Enjoy this stylish mahjong game with woo
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mahjong, Solitaire
+- Tags: mahjong, solitaire

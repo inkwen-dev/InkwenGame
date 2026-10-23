@@ -19,6 +19,6 @@ Jump into your car and discover green hills, snowy mountains and desert dunes in
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Adventure, Clash, jump, Jumping, Launch, Match 3, Point And Click, Race, Unity3D
+- Tags: 1 Player, 3D, Action, Adventure, Clash, jump, jumping, Launch, Match 3, Point And Click, Race, Unity3D

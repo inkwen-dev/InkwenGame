@@ -21,4 +21,4 @@ Click the cards to flip a virus. Memorize their position and match them up in pa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, HTML5, Memory, Mobile
+- Tags: card, HTML5, memory, Mobile

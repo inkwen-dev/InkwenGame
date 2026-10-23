@@ -19,6 +19,6 @@ It's a collection of 15 different Dinosaurs descriptive cards to read! It's just
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, dino, Dinosaur, Educational, Family, HTML, HTML5, Kids, Mobile, School
+- Tags: card, dino, Dinosaur, educational, Family, HTML, HTML5, Kids, Mobile, School

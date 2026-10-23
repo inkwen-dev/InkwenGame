@@ -21,4 +21,4 @@ Enter the world of fast food games with levels, and make the best potato chips e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cook, Cooking, Restaurant
+- Tags: Cook, Cooking, restaurant

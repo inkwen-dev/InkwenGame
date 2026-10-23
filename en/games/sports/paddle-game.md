@@ -21,4 +21,4 @@ Destroy the colored squares with balls and finish the levels!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Shooting, Sports
+- Tags: Adventure, Arcade, Shooting, sports

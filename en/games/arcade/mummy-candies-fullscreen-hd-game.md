@@ -19,6 +19,6 @@ Fullscreen Gameplay! The mummy is trying it's best to pull up the candies using 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Candy, Strategy
+- Tags: Adventure, Arcade, Candy, strategy

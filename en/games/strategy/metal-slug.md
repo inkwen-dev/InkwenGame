@@ -19,6 +19,6 @@ Simple operation that anyone can easily get started! A tower defense type game u
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Arcade, Classic, Fighting, Gun, Tower Defense
+- Tags: .io, Arcade, Classic, fighting, Gun, Tower Defense

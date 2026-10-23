@@ -19,6 +19,6 @@ This is a very decompressive game,the game is mainly used to crush the mainframe
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Click, Clicker, Crazy, Google, H5
+- Tags: 3D, 3D Games, Click, Clicker, crazy, Google, H5

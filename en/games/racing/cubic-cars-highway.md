@@ -21,4 +21,4 @@ Show your skills in the flowing traffic with your cute cubic car! Pay attention 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Block, Boy, Car, Kids, Racing
+- Tags: 3D, block, Boy, Car, Kids, Racing

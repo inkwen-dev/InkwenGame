@@ -21,4 +21,4 @@ In this skill based physics shooter game the object is to destroy all the blobs 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Bomb, Casual, Game, HTML5, Monster, Physics, Platform, Rescue, Shoot, WebGL
+- Tags: 1 Player, 2D, Bomb, Casual, Game, HTML5, monster, Physics, Platform, Rescue, Shoot, WebGL

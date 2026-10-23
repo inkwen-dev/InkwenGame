@@ -19,6 +19,6 @@ Ready to start a 3D puzzle thats both magical and brain-teasing? Welcome to Craz
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Logic, Magic, Matching

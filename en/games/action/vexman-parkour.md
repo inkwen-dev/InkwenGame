@@ -19,6 +19,6 @@ Welcome to VexMan Parkour, a new stickman adventure Game! Run, Jump and Avoid ob
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Best, Casual, Hot, Hypercasual, Jumping, running, Stickman
+- Tags: Adventure, Arcade, Best, Casual, Hot, Hypercasual, jumping, running, stickman

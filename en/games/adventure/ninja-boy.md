@@ -19,6 +19,6 @@ Ninja Boy Has Arrive Yuhuu !
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, jump, Ninja
+- Tags: 1 Player, Action, Adventure, jump, ninja

@@ -19,6 +19,6 @@ Prepare for an epic clash in Stick War: Saga, an exciting blend of fighting, act
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Defense, Enemy, Strategy, War
+- Tags: Defense, Enemy, strategy, War

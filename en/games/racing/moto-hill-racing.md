@@ -21,4 +21,4 @@ Moto Hill Racing X3M brings awesome bike racing with beautifully crafted levels 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Moto, Motorcycle
+- Tags: bike, Moto, Motorcycle

@@ -19,6 +19,6 @@ Are you good at car obstacle avoiding? Recently we provide you both an obstacle 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boy, Car, Driving, HTML5, Kid, Mobile, Race, Simulation

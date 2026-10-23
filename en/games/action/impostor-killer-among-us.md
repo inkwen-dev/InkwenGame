@@ -21,4 +21,4 @@ Your mission will be sabotage the ship, sneak through vents, deceive, and frame 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Alien, Android, Arcade, Battle, Best
+- Tags: 3D, Action, Alien, Android, Arcade, battle, Best

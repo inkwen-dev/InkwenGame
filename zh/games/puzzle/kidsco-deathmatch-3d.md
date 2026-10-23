@@ -21,4 +21,4 @@ KIDSCO：死斗 3D 是一款 3D fps 射击游戏，你可以和朋友们进行�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 3D, 3D 游戏, CSGO, kids
+- 标签: .io, .io 游戏, 3D, 3D游戏, CSGO, 儿童

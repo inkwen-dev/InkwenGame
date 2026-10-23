@@ -19,6 +19,6 @@ Drawing the beautiful Christmas with glitter brushes. Don’t need any experienc
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Christmas, Color, Coloring, Draw, Drawing, Educational, Fun, Girls, Holiday, HTML5, Kids, Mobile
+- Tags: Animal, Christmas, Color, Coloring, Draw, drawing, educational, Fun, Girls, Holiday, HTML5, Kids, Mobile

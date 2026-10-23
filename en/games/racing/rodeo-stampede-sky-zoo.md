@@ -19,6 +19,6 @@ Rodeo Stampede is an interesting animal game. You are managing a zoo. Without an
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Animal, Boy, Boys, Business, Fun, Girl, Girls, Race, Racing, run, running, Skills

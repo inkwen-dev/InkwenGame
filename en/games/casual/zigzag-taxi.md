@@ -19,6 +19,6 @@ Build roads and get the taxi to the ending platform! This simple, addicting, 1 t
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Girls, Taxi

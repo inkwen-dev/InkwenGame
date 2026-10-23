@@ -21,4 +21,4 @@ Wobbly Boxing 3D is a fun and unique boxing game that puts you in the ring again
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D Games, Adventure, Arcade, Boxing, Fight, Fighting, Skill, Sport
+- Tags: 2 Player, 2 Player Games, 3D Games, Adventure, Arcade, Boxing, Fight, fighting, Skill, Sport

@@ -69,4 +69,4 @@ Then Rush Run: Need to Pee is made for you.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing, Funny, runner, running
+- Tags: drawing, Funny, runner, running

@@ -21,4 +21,4 @@ Create imaginative makeup on the eyes! In Eye Art, you are the makeup artist, ju
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Barbie, Cute, Drawing, Dress Up, Girls, HTML5, Makeover
+- Tags: 1 Player, Barbie, Cute, drawing, Dress Up, Girls, HTML5, Makeover

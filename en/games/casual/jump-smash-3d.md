@@ -19,6 +19,6 @@ Jump Smash 3D &ndash; The Ultimate High-Speed Jumping Challenge! Jump Smash 3D i
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Casual, Hypercasual

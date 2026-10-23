@@ -19,6 +19,6 @@ Park Out is a de-congesting, car un-jamming game where the goal is to get all of
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mouse, Parking, Puzzle, Skill
+- Tags: Mouse, parking, Puzzle, Skill

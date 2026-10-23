@@ -19,6 +19,6 @@ strategic prowess with Stickman Cannon Shooter: Mobilize your troops and engage 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, cannon, HTML5, Hypercasual, iPad, iPhone, Mentolatux, Mobile, Shooting, Stickman
+- Tags: Android, cannon, HTML5, Hypercasual, iPad, iPhone, Mentolatux, Mobile, Shooting, stickman

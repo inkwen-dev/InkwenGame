@@ -21,4 +21,4 @@ Blockscape.io 是一款免费的基于浏览器的体素 MMO 游戏。挖掘矿�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 2026 年游戏, 3D, 动作, 方块, 方块风, 跳跃, mineblock, 我的世界, 多人, 在线, onlinegames io
+- 标签: .io, .io 游戏, 2026 游戏, 3D, 动作, 方块, 方块状, 跳跃, mineblock, 我的世界, 多人, 在线, onlinegames io

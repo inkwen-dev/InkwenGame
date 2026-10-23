@@ -19,6 +19,6 @@ Stack Jump online in HTML5! How high can you climb? Jump to stack blocks and bui
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, endless, fly, Fun, Funny, HTML5, Jelly, jump, Jumping
+- Tags: 3D, endless, fly, Fun, Funny, HTML5, Jelly, jump, jumping

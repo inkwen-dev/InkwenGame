@@ -21,4 +21,4 @@ Are you a music lover? Do you want to unlock a new mode of Sprunki Music Beats g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Kids, Music, Rhythm
+- Tags: Fun, Kids, music, Rhythm

@@ -21,4 +21,4 @@ Age Evolution Run is a runner game that takes you on a wild sprint through the a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Avoid, Brain, running, Stickman, Unity3D
+- Tags: 3D, 3D Games, Avoid, Brain, running, stickman, Unity3D

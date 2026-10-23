@@ -21,4 +21,4 @@ Tap to play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Block, Boy, Brain, Casual, Game, Kid, Puzzle, Skill
+- Tags: 3D, block, Boy, Brain, Casual, Game, Kid, Puzzle, Skill

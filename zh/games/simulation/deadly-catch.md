@@ -49,4 +49,4 @@ PC端：
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 船, 钓鱼
+- 标签: 船只, 钓鱼

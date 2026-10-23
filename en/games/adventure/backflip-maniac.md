@@ -21,4 +21,4 @@ Backflip Maniac is a great online game in which you jump with your character. Th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, HTML5, jump, Jumping, Physics
+- Tags: 3D, HTML5, jump, jumping, Physics

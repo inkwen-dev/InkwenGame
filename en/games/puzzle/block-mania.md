@@ -21,4 +21,4 @@ Block Mania is an addictive block puzzle game combines block building, puzzle so
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Collection, Puzzle, puzzleblock
+- Tags: block, Collection, Puzzle, puzzleblock

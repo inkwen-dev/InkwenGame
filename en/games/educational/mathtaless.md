@@ -21,4 +21,4 @@ There will be a addition/subtraction problem in given para. You have to choose C
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Math, Quiz
+- Tags: educational, math, Quiz

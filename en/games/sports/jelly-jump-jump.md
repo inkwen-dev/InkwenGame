@@ -21,4 +21,4 @@ Time to put your skills to test with Jump Jelly Jump! Try to control these super
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jelly, jump, Jumping
+- Tags: Jelly, jump, jumping

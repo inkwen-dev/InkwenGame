@@ -21,4 +21,4 @@ Do you like Robots Do you want to make robots You can assemble the robots parts 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Baby, Baby Hazel, Boys, Fighting, Girls
+- Tags: Adventure, Baby, Baby Hazel, Boys, fighting, Girls

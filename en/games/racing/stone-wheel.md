@@ -19,6 +19,6 @@ Over 1.000.000 downloads all over the world!!! --------------------------- Stone
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boy, Boys, HTML, HTML5, jump, Kid, Kids, Puzzle, Racing

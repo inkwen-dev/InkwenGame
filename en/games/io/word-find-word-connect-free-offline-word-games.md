@@ -19,6 +19,6 @@ Correct swipe the letters horizontally vertically diagonally forwards or backwar
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Best, Cartoon, Educational, Games, Hot, Kids, New, Online, Puzzle, Quiz, Word
+- Tags: .io Games, Best, Cartoon, educational, Games, Hot, Kids, New, Online, Puzzle, Quiz, word

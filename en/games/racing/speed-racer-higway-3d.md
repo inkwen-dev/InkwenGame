@@ -19,6 +19,6 @@ Speed Racer Highway 3D is an exhilarating 3D driving game where players navigate
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Arcade, Car, Driving, Race, Racing, unity

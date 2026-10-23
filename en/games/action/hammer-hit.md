@@ -21,4 +21,4 @@ Now is the time to defeat the enemies using your hammer! Target the enemy with y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Arcade, Arena, Battle, Best, Defense, Fantasy, Hot, Hypercasual, Kid, Kids, Mobile, Punch, Puzzle
+- Tags: 3D, Action, Arcade, Arena, battle, Best, Defense, Fantasy, Hot, Hypercasual, Kid, Kids, Mobile, Punch, Puzzle

@@ -19,6 +19,6 @@ Do you have the eagle eyes? Can you spot the differences between the 2 images in
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Brain, Casual, HTML5, Mobile

@@ -21,4 +21,4 @@ Get ready for a super adventure with Super Jim Adventure, a 2D side-scrolling ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Avoid, Boys, Casual, Collecting, Girls, Kids, Mario, Pixel
+- Tags: Adventure, Avoid, Boys, Casual, Collecting, Girls, Kids, mario, pixel

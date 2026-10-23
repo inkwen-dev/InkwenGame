@@ -21,4 +21,4 @@ Wordle Stack 3D is a great game to test your vocabulary. Just pick up the letter
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kids, Letters, Logic, Mobile, Puzzle, Skill, Stack, Word
+- Tags: Kids, Letters, Logic, Mobile, Puzzle, Skill, Stack, word

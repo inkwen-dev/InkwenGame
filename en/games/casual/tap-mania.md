@@ -19,6 +19,6 @@ Test your reflexes in this fast paced game. Your mission is to tap the loop at t
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Color, Crazy, endless
+- Tags: Click, Color, crazy, endless

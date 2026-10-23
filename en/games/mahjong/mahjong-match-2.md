@@ -21,4 +21,4 @@ Relax, focus, and challenge your mind in Mahjong Match! This elegant tile-matchi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Logic, Mahjong, Matching
+- Tags: Brain, Logic, mahjong, Matching

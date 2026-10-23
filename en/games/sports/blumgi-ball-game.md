@@ -19,6 +19,6 @@ Blumgi Ball is a sports game that combines the platform and puzzle genres into o
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Basketball, Boys, Kids, Physics, Platform, Skills, Sports
+- Tags: Ball, basketball, Boys, Kids, Physics, Platform, Skills, sports

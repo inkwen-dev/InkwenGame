@@ -21,4 +21,4 @@ The excitement of 4x4 hill cars being driven in 4x4 jeep games comes from giving
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Cars, Driving, HTML5, Mobile, Simulator, Supercars, Traffic, Truck, Unity3D, WebGL
+- Tags: Android, Cars, Driving, HTML5, Mobile, Simulator, Supercars, Traffic, truck, Unity3D, WebGL

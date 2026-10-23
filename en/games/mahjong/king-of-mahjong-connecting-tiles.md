@@ -30,4 +30,4 @@
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mahjong, Matching, Puzzle
+- Tags: mahjong, Matching, Puzzle

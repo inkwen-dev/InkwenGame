@@ -19,6 +19,6 @@ Welcome to &ldquo;Obby: IQ Escape from the Laboratory&rdquo; - a unique 3D game 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adult, Ballon, Best, Cartoon, Craft, Escape, Jumping, Logic, Minecraft, roblox, Robot, Sandbox, voxel
+- Tags: Action, Adult, Ballon, Best, Cartoon, Craft, Escape, jumping, Logic, Minecraft, roblox, Robot, Sandbox, voxel

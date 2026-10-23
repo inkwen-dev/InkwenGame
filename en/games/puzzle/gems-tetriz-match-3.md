@@ -19,6 +19,6 @@ Use left, right and down keys to move the gems. Use up key to shuffle the gems. 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Girls, Match 3, Matching, Tetris
+- Tags: Girls, Match 3, Matching, tetris

@@ -19,6 +19,6 @@ In this impossible-going ball game, you have to control your players ball to con
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Ball, Basketball, Best, Best Games, Football, Puzzle, unity games for your website
+- Tags: 3D, 3D Games, Action, Ball, basketball, Best, Best Games, Football, Puzzle, unity games for your website

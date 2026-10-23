@@ -21,4 +21,4 @@ Super run jump Adventure describe the super classic bro game. In the super world
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Classic, Mario, Platform, Super
+- Tags: Action, Classic, mario, Platform, Super

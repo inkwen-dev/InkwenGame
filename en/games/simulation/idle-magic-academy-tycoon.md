@@ -55,4 +55,4 @@ A: The sound design is high-quality, but it is not required to progress in the g
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: idle, Magic, Management, tycoon
+- Tags: idle, Magic, management, tycoon

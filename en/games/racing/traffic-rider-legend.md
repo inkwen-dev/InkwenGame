@@ -21,4 +21,4 @@ A motorbike in a much more detailed gaming experience,Traffic Rider Legend takes
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Bike, HTML, HTML5, Motorcycle, Race
+- Tags: Action, Adventure, bike, HTML, HTML5, Motorcycle, Race

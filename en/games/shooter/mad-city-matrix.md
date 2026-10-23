@@ -21,4 +21,4 @@ Mad City Matrix features intense combat with agents in big open world city, use 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Fighting, Shoot, Shoot 'Em Up, Shooter, Shooting, Unity3D, WebGL
+- Tags: 1 Player, 3D, 3D Games, Action, fighting, Shoot, Shoot 'Em Up, Shooter, Shooting, Unity3D, WebGL

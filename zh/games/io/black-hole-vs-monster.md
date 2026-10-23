@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 战斗, 收集, Skibidi, Skibidi Toilet, 战争
+- 标签: .io 游戏, 战斗, 收集, Skibidi, skibidi-toilet, 战争

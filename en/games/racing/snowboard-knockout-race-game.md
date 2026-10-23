@@ -34,4 +34,4 @@ Ahead of you are three cups and twelve stages, from the bunny bowl through the p
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, Racing, Sports
+- Tags: 3D, Arcade, Racing, sports

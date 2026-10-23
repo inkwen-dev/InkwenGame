@@ -21,4 +21,4 @@ In this game, you play as a country on a mission to conquer all nearby territori
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Arena, Army, Ball, Battle, Battlegrounds, Boy, Boys, Clans, Clash, Crazy, Defense, Fight, Fun, Funny, Game, Games, HTML, HTML5, Island, Kid, Kids, Mobile, Planet, Strategy, Tank, Tanks, Unity3D, War, WebGL, World
+- Tags: 1 Player, 2D, Action, Arena, Army, Ball, battle, Battlegrounds, Boy, Boys, Clans, Clash, crazy, Defense, Fight, Fun, Funny, Game, Games, HTML, HTML5, Island, Kid, Kids, Mobile, Planet, strategy, Tank, tanks, Unity3D, War, WebGL, World

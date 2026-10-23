@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 躲避, 汉堡, H5, HTML, HTML5, 超休闲, 孩子们, 在线, 放松, 横向滚动
+- 标签: 2D, 躲避, 汉堡, H5, HTML, HTML5, 超休闲, 儿童, 在线, 放松, 横向滚动

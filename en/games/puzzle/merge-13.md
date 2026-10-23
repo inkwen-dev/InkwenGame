@@ -22,4 +22,4 @@ Merge 13 is a thrilling online puzzle game where players combine numbered cells 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Logic, Math, merge, Number, Puzzle
+- Tags: Brain, Logic, math, merge, Number, Puzzle

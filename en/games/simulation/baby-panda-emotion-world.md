@@ -21,4 +21,4 @@ This is an educational game for children. The game simulates real-life scenarios
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Games, Educational, Panda, Simulator
+- Tags: Baby Games, educational, Panda, Simulator

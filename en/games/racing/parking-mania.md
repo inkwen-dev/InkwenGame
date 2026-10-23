@@ -19,6 +19,6 @@ The iconic Parking Mania is back with a new challenge for attention, wariness, a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Car, Cars, HTML5, Online, Parking, Race, Racing, Super
+- Tags: Arcade, Car, Cars, HTML5, Online, parking, Race, Racing, Super

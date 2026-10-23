@@ -15,6 +15,6 @@ Get ready to dive into the fast-paced world of Sushi Chef, a 2D puzzle adventure
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Management
+- Tags: management

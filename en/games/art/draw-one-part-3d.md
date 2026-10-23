@@ -21,4 +21,4 @@ Draw Missing Part - Use your Imagination - Draw 1 Part Unique gameplay brings yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Draw, Drawing, Puzzle, Unity3D
+- Tags: 3D, 3D Games, Draw, drawing, Puzzle, Unity3D

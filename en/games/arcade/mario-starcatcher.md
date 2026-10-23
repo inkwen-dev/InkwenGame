@@ -19,6 +19,6 @@ Play Mario Starcatcher game. Mario Starcatcher is a Arcade game to play free onl
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arcade, Fun, Mario
+- Tags: 2D, Adventure, Arcade, Fun, mario

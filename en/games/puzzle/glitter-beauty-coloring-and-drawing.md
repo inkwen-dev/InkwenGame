@@ -21,4 +21,4 @@ Glitter Beauty Coloring And Drawing is a very interesting game. Do you miss colo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Cute, Draw, Drawing, Fun, Girls, HTML5, Jigsaw, Kids, Mobile
+- Tags: Color, Coloring, Cute, Draw, drawing, Fun, Girls, HTML5, Jigsaw, Kids, Mobile

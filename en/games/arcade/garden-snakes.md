@@ -21,4 +21,4 @@ Garden Snakes is a relaxing logic puzzle game set in a colorful garden. Drag cut
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, cozy, Logic, Puzzle, Snake
+- Tags: Arcade, cozy, Logic, Puzzle, snake

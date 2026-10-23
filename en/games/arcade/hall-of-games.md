@@ -19,6 +19,6 @@ Bored? Visit the Hall of Games! This exciting game lets you hang out with your f
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Best, Casual, H5, Hot, HTML5, Hypercasual, New, Ninja, Puzzle, Spongebob
+- Tags: Action, Adventure, Arcade, Best, Casual, H5, Hot, HTML5, Hypercasual, New, ninja, Puzzle, Spongebob

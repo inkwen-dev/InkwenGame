@@ -21,4 +21,4 @@ Fruit Block Tetra Puzzle is a fast and fun block puzzle game where you place fru
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Collecting, Fruit, Puzzle, Skill, Tetris
+- Tags: block, Collecting, Fruit, Puzzle, Skill, tetris

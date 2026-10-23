@@ -19,6 +19,6 @@ Unscramble as many five-letter words as you can without running out of time. Wit
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Brain, Casual, Family, Girl, Guessing, Hidden, HTML, HTML5, Kids, Letters, Puzzle, Word
+- Tags: Boy, Brain, Casual, Family, Girl, Guessing, Hidden, HTML, HTML5, Kids, Letters, Puzzle, word

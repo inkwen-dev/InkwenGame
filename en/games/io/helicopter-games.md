@@ -21,4 +21,4 @@ Looking for a helicopter rescue game with Helicopter Simulator for a Rescue Miss
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 3D, Adventure, Best, Casual, Crazy, Fight, fly, Fun, Hypercasual, Unity3D
+- Tags: .io, 3D, Adventure, Best, Casual, crazy, Fight, fly, Fun, Hypercasual, Unity3D

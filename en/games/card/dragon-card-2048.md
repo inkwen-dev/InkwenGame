@@ -21,4 +21,4 @@ The player's task is to move the cute dinosaurs so that the small dinosaurs can 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Hypercasual, Puzzle
+- Tags: card, Hypercasual, Puzzle

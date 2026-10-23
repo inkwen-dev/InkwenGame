@@ -19,6 +19,6 @@ Experience the classic winter sport in a smooth and satisfying 3D simulation. Ai
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 3D, Ice, Sports
+- Tags: 1 Player, 2 Player, 3D, Ice, sports

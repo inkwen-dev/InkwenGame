@@ -21,4 +21,4 @@ Do you want to win the gold by doing crazy somersaults in Flip Hero game? Collec
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Casual, Funny, Hypercasual, Sports
+- Tags: 1 Player, 3D, Casual, Funny, Hypercasual, sports

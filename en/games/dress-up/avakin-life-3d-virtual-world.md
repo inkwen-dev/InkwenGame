@@ -19,6 +19,6 @@ Discover new dimensions of you in the virtual world of AVAKIN LIFE! Join an amaz
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Drawing, Dress Up, Family
+- Tags: drawing, Dress Up, Family

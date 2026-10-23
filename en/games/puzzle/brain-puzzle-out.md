@@ -21,4 +21,4 @@ You will test your mind through a series of puzzles and challenges designed to i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Memory, Mind, Puzzle
+- Tags: memory, Mind, Puzzle

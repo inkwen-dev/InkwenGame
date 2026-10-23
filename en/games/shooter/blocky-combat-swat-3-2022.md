@@ -21,4 +21,4 @@ The most impactful video games give you access to a variety of tools. You and yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Block, Crazy, Multiplayer, Pixel, Shooter, Unity3D, War, WebGL
+- Tags: Best, block, crazy, Multiplayer, pixel, Shooter, Unity3D, War, WebGL

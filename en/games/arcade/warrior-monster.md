@@ -21,4 +21,4 @@ An addictive typical arcade/hypercasual game, simple to play, nice design, fun a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Candy, Casual, Fruit, HTML5, Hypercasual, Jelly, Mobile, Ninja
+- Tags: Best, Candy, Casual, Fruit, HTML5, Hypercasual, Jelly, Mobile, ninja

@@ -19,6 +19,6 @@ The Lost Forest is a 2D game where you have to survive and find the hidden carro
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, 2D, Arcade, Forest, Hypercasual

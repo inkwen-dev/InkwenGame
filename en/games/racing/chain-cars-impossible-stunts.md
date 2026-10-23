@@ -19,6 +19,6 @@ The task is to control your car with the speed of your chained AI car. Maintain 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D, 3D Games, Action, Adventure, Arcade, Battle, Car, Cars, Casual, Clash, Truck
+- Tags: .io Games, 1 Player, 3D, 3D Games, Action, Adventure, Arcade, battle, Car, Cars, Casual, Clash, truck

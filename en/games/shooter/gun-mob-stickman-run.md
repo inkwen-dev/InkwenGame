@@ -19,6 +19,6 @@ Start with one Commander and build a MASSIVE ARMY! &zwj; Pass through the Blue (
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 3D, Army, Battle, Casual, destroy, Helicopter, Hypercasual, Mobile, Shooting, Stickman, Tanks, vehicle
+- Tags: 1 Player, 2026 games, 3D, Army, battle, Casual, destroy, helicopter, Hypercasual, Mobile, Shooting, stickman, tanks, vehicle

@@ -21,4 +21,4 @@ Get ready for a fun and immersive shape journey. Try to pass the shapes through 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Ball, Best, Block, Clicker, Hot, HTML5, Hypercasual, Kids, Matching, Puzzle, WebGL
+- Tags: 3D, Android, Ball, Best, block, Clicker, Hot, HTML5, Hypercasual, Kids, Matching, Puzzle, WebGL

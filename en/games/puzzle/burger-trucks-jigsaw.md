@@ -21,4 +21,4 @@ This is jigsaw game with burger trucks. There is twelve images with burger food 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jigsaw, Puzzle, Truck
+- Tags: Jigsaw, Puzzle, truck

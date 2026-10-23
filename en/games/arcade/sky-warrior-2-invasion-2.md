@@ -15,6 +15,6 @@ Engage in high-flying, adrenaline-packed battles in Sky Warrior 2 Invasion. Navi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Arcade

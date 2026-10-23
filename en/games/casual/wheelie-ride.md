@@ -21,4 +21,4 @@ Bicycle ride is a simple physics based game make wheels on a BMX bike. The game 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Casual, Hypercasual, Physics, Stickman
+- Tags: 1 Player, 2D, Casual, Hypercasual, Physics, stickman

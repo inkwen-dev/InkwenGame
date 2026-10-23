@@ -21,4 +21,4 @@ TAB 显示菜单 WASD 移动 鼠标左键射击 鼠标右键瞄准 F 键切换�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 汽车, 驾驶, HTML5, iPad, iPhone, Mentolatux, 移动, 机器人, 射击, unity, WebGL
+- 标签: 安卓, 汽车, 驾驶, HTML5, iPad, iPhone, Mentolatux, 移动设备, 机器人, 射击, unity, WebGL

@@ -38,4 +38,4 @@ With immersive visuals, deep character progression, and pulse-pounding action, F
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Boxing, Fighting
+- Tags: Action, Boxing, fighting

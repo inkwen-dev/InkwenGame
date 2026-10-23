@@ -19,6 +19,6 @@ Quick Math is a fast-paced brain training game where players solve math problems
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Educational, Kids, Math, Number
+- Tags: Clicker, educational, Kids, math, Number

@@ -21,4 +21,4 @@ Mixer Trucks Memory is a game where you can test your memory and have fun at the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Kids, Memory, Puzzle, Truck
+- Tags: HTML5, Kids, memory, Puzzle, truck

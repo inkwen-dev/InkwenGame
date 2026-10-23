@@ -21,4 +21,4 @@ Enjoy Winter Tiles with a festive theme! Match and collect pairs of identical wi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, HTML5, Mahjong, Mobile, Skill, Winter
+- Tags: Christmas, HTML5, mahjong, Mobile, Skill, Winter

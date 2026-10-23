@@ -19,6 +19,6 @@ Welcome to the High Fashion Runway Look game. Dee dee, Noah, and Willow are the 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cute, Dress Up, Fashion, Games, Girls, HTML5, Hypercasual, Kids, Makeover, Princess

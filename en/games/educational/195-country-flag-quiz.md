@@ -15,6 +15,6 @@ Challenge your geography skills in the 195 Country Flag Quiz. Test your memory b
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: trivia

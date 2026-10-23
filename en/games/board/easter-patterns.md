@@ -21,4 +21,4 @@ Look at the pattern what is missing. Drag the missing thing on its place. Just c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Easter, Educational, HTML5, Logical, Mobile, Puzzle, Skill
+- Tags: Board, Easter, educational, HTML5, Logical, Mobile, Puzzle, Skill

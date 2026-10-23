@@ -19,6 +19,6 @@ This is a game of leisure and breakthrough. The game style is casual cartoon. In
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Avoid, Boy, Boys, Casual, Funny, Game, Games, Girl, Girls, Google, H5, Hair, HTML5, Kid, Kids, Mobile, Road, run, Sport

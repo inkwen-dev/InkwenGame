@@ -19,6 +19,6 @@ Click or touch the empty spot to place a planet. Line up three of your planets v
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Board, HTML5, Mobile, Planet, Puzzle, Space

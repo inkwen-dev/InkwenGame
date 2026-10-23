@@ -19,6 +19,6 @@ You should hit all colored balls and drop them to the holes. Pool 8 is a relaxin
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 8 Ball Pool, Arcade, Billiard, Hypercasual, Logical, Mind, Puzzle, Relaxation

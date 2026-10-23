@@ -21,4 +21,4 @@ Overcome all the obstacles as fast as you can. Your goal is to go through the po
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Bike, Moto, Motorcycle, Obstacle, Physics, Racing, Skill, Sport, Sports, Stunts
+- Tags: 2D, bike, Moto, Motorcycle, Obstacle, Physics, Racing, Skill, Sport, sports, Stunts

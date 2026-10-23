@@ -73,4 +73,4 @@ The math is simple. Doing it faster than someone else is not. How many can you t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 1v1, Arcade, Math, Multiplayer, Quiz, trivia
+- Tags: 1v1, Arcade, math, Multiplayer, Quiz, trivia

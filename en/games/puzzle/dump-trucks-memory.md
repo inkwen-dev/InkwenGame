@@ -19,6 +19,6 @@ Dump Trucks Memory is puzzle memory game where you need to click on cards to fli
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Memory, Puzzle, Truck
+- Tags: memory, Puzzle, truck

@@ -39,4 +39,4 @@ Get ready to dive into a thrilling world of adrenaline-fueled combat, precise co
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, Fighting, Skill, Stickman
+- Tags: Boys, fighting, Skill, stickman

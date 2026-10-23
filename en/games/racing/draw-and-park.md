@@ -21,4 +21,4 @@ An exciting mix of parking and drawing in one online game invites players to hav
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Car, Drawing, Fun, Game, Girl, HTML5, Hypercasual, Parking, Racing
+- Tags: Boys, Car, drawing, Fun, Game, Girl, HTML5, Hypercasual, parking, Racing

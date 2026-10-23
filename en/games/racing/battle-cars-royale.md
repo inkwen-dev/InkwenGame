@@ -19,6 +19,6 @@ Are you ready for the battle! In this game, you have to fight not to fall into t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, Action, Battle, Car, Cars, Race, Supercars
+- Tags: .io, .io Games, 3D, Action, battle, Car, Cars, Race, Supercars

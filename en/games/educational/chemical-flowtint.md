@@ -21,4 +21,4 @@ Dive into a world where color meets chemistry in FlowTint &mdash; a vibrant puzz
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Math, Puzzle, Skills
+- Tags: educational, math, Puzzle, Skills

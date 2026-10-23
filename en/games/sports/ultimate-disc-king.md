@@ -21,4 +21,4 @@ Ultimate Disc, also and originally known as ultimate Frisbee, is a low-contact t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Games, Sport, Sports, Unity3D
+- Tags: 3D, 3D Games, Games, Sport, sports, Unity3D

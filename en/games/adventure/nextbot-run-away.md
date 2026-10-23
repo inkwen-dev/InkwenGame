@@ -19,6 +19,6 @@ Get ready for the craziest race of your life in NextBots: Run Away! This is some
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Action, Avoid, endless, Horror

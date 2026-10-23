@@ -19,6 +19,6 @@ This is multiplayer game. wait for the other players to join the room, then have
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Mobile, Multiplayer, Online, Shooting

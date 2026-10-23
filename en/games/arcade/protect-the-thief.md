@@ -19,6 +19,6 @@ Protect The Thief is an engaging and strategic puzzle game where you play the ro
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player Games, 2048, 2D, Air, Arcade, Baby Games, Best Games, Collecting

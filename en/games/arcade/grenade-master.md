@@ -19,6 +19,6 @@ Welcome to the Grenade Master. It is a new puzzle arcade game for kids. This is 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Army, Bomb, Boys, Puzzle

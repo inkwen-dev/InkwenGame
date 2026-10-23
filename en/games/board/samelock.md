@@ -19,6 +19,6 @@ SameLock is a tile-matching game based on SameGame. The goal of the game is to c
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Board, Brain, Casual, Color, Matching, Unity3D, WebGL

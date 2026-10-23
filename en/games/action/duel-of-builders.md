@@ -21,4 +21,4 @@ Duel of Builders is a great dueling game. You can fight with your friend or agai
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2D, Action, Pixel, Platform
+- Tags: 1 Player, 2 Player, 2D, Action, pixel, Platform

@@ -21,4 +21,4 @@ Collect as many coins as you can, through the world of the caveman jumper! Jump 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collecting, Fun, Funny, Girl, Girls, Gun, jump, Jumping, Kid, Kids, PacMan, Pixel, run
+- Tags: Collecting, Fun, Funny, Girl, Girls, Gun, jump, jumping, Kid, Kids, PacMan, pixel, run

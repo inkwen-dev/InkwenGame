@@ -19,6 +19,6 @@ So many mice and cats you have never seen in any game. Tom and Jerry in the plur
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML5, Match 3, Mobile

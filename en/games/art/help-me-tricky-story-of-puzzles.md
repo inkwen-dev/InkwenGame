@@ -32,4 +32,4 @@ Game Feature:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Drawing, Funny, intelligence, Logic, Puzzle
+- Tags: Brain, drawing, Funny, intelligence, Logic, Puzzle

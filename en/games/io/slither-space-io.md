@@ -19,6 +19,6 @@ You can play this Slither Space.io game with your friends to make it more intere
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2 Player, 2 Player Games, 2D, Action, Arena, Rocket, Slither, Space, Spaceship, Strategy, Worm, Worms
+- Tags: .io, .io Games, 2 Player, 2 Player Games, 2D, Action, Arena, Rocket, Slither, Space, Spaceship, strategy, worm, Worms

@@ -21,4 +21,4 @@ Play as a ninja and score goals with your head in this exciting head Ball game! 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Casual, Football, HTML, HTML5, Hypercasual, jump, Jumping, Online
+- Tags: Adventure, Casual, Football, HTML, HTML5, Hypercasual, jump, jumping, Online

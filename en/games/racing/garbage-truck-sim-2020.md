@@ -21,4 +21,4 @@ Welcome to awesome game Garbage Truck Sim 2020, in this driving truck your missi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Truck, Unity3D, WebGL
+- Tags: Driving, truck, Unity3D, WebGL

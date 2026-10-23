@@ -25,4 +25,4 @@ Play a realistic online billiards game against virtual opponents of varying diff
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Mobile, Pool, Skill, Sports
+- Tags: 3D, Mobile, pool, Skill, sports

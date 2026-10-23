@@ -21,4 +21,4 @@ WASD - 驾驶 空格键 - 刹车 C - 切换摄像机
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 3D, 3D游戏, 汽车, 汽车, 驾驶, 比赛, 赛车, 模拟, 模拟器, 超级, 超跑, Unity3D, WebGL
+- 标签: 单人, 3D, 3D游戏, 汽车, 汽车, 驾驶, 比赛, 竞速, 模拟, 模拟器, 超级, 超跑, Unity3D, WebGL

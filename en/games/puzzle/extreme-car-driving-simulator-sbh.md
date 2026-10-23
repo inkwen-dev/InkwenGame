@@ -21,4 +21,4 @@ Extreme Car Driving Simulator is the best car simulator of 2014, thanks to its a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adventure, Arcade, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, Cartoon Network, drift, drifting, Driving, Fun, Funny, Game, Games, Girl, Girls, Mario, Parking, Simulation, Simulator, Spiderman, Supercars, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adventure, Arcade, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, Cartoon Network, drift, drifting, Driving, Fun, Funny, Game, Games, Girl, Girls, mario, parking, Simulation, Simulator, Spiderman, Supercars, truck

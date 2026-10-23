@@ -21,4 +21,4 @@ Do you like math or logic games? Thanks to this amusing number connecting you wi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Game, Games, HTML5, Logic, Logical, Math, Number
+- Tags: Color, Coloring, Game, Games, HTML5, Logic, Logical, math, Number

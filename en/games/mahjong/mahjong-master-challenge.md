@@ -21,4 +21,4 @@ Ready to flip tiles, race the clock and sharpen your mind? MahjongMasterChalleng
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Mahjong, Matching
+- Tags: Arcade, mahjong, Matching

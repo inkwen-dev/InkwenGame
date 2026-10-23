@@ -21,4 +21,4 @@ Glow Blocks is a vibrant neon puzzle game inspired by the timeless classic Tetri
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, mapi games, Tetris
+- Tags: Arcade, block, mapi games, tetris

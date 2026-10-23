@@ -21,4 +21,4 @@ W 方向上箭头 rarr 前进 S 方向下箭头 rarr 后退 A 方向左箭头 ra
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 公交车, 驾驶, 竞速, 学校, 模拟
+- 标签: 公交车, 驾驶, 比赛, 学校, 模拟

@@ -21,4 +21,4 @@ Penguin Diner is undoubtedly the most interesting business simulation game this 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Business, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Penguin, Restaurant, RPG
+- Tags: Animal, Business, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Penguin, restaurant, rpg

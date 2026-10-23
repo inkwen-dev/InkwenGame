@@ -21,4 +21,4 @@ Join millions of bowlers worldwide! The only bowling game with ten pin bowling, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, 8 Ball Pool, Action, Adventure, Arcade, Ball, Board, Casual, Fun, Funny, Hot, Hypercasual, Sport, Sports, Unity3D
+- Tags: 3D, 3D Games, 8 Ball Pool, Action, Adventure, Arcade, Ball, Board, Casual, Fun, Funny, Hot, Hypercasual, Sport, sports, Unity3D

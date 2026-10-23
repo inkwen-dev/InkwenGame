@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 男孩, 涂色, 乐趣, 搞笑, HTML5, 超休闲, 儿童, 在线, 学校, Skibidi Toilet
+- 标签: 街机, 男孩们, 着色, 有趣, 搞笑, HTML5, 超休闲, 儿童, 在线, 学校, skibidi-toilet

@@ -21,4 +21,4 @@ Summer Toys Vehicles game is free online game and you have 6 images of toys vehi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle, Truck
+- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle, truck

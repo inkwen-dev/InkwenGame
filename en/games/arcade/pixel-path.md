@@ -19,6 +19,6 @@ Help a brave pixel hero survive mind-bending levels filled with deadly traps, te
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Hypercasual, Pixel, Puzzle, Strategy, trap
+- Tags: Arcade, Casual, Hypercasual, pixel, Puzzle, strategy, trap

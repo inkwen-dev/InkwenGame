@@ -21,4 +21,4 @@ Reversi Multiplayer is a HTML5 Board Game. Enjoy this stylish version of the cla
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Logic, Strategy, Turn, Turn Based
+- Tags: Board, Logic, strategy, Turn, Turn Based

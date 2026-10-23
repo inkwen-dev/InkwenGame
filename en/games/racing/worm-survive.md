@@ -21,4 +21,4 @@ Worm Survive : Embark on an epic journey of dodging feet and collecting the yell
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Worm, Worms
+- Tags: worm, Worms

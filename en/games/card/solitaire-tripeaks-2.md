@@ -19,6 +19,6 @@ Explore the mysteries of the Deep Sea with Solitaire TriPeaks, the classic solit
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Card, Fun, Puzzle, Solitaire
+- Tags: Adventure, card, Fun, Puzzle, solitaire

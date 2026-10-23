@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 球, 气球, 弹跳, kids, 移动设备, 益智, Unity3D
+- 标签: 3D, 球, 气球, 弹跳, 儿童, 移动设备, 益智, Unity3D

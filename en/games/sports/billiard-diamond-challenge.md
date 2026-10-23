@@ -21,4 +21,4 @@ Billiard Diamond Challenge is a fun and free online billiard game for both kids 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Arcade, Billiard, Board, Brain, Hypercasual, Logic, Physics, Pool, Skill
+- Tags: 8 Ball Pool, Arcade, Billiard, Board, Brain, Hypercasual, Logic, Physics, pool, Skill

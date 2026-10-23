@@ -21,4 +21,4 @@ Train your farming skills in different sections of your farm: animal caring, far
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Bird, Brain, Cartoon, Chicken, Educational, Fish, Kid, Kids, Mind, Minion
+- Tags: Animal, Bird, Brain, Cartoon, Chicken, educational, Fish, Kid, Kids, Mind, Minion

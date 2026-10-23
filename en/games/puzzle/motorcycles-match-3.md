@@ -19,6 +19,6 @@ Motorcycles Matching 3 is a game where you have to match 3 or more identical mot
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Match 3, Matching, Motorcycle, Puzzle

@@ -21,4 +21,4 @@ Vulpin 冒险是一款冒险游戏，让你创建并控制你的小恐龙，与�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Adventure, 收集, 收藏, 龙
+- 标签: 冒险, 收集, 收藏, 龙

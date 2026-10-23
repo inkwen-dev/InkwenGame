@@ -21,4 +21,4 @@ Icon image Single Line: Drawing Puzzle About this game Challenge your mind and u
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Drawing, Puzzle
+- Tags: drawing, Puzzle

@@ -19,6 +19,6 @@ Colorful Assort is a fun and vibrant puzzle game where you match and sort colorf
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Matching, Strategy
+- Tags: Brain, Casual, Matching, strategy

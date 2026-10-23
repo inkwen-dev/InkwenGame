@@ -21,4 +21,4 @@ Amazing World of mario: Princess of wonderland is being kidnapped by the evil gh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Craft, Crafting, Mario, Minecraft, run, subway, Subway Surfers, Super, Superhero, temple
+- Tags: Arcade, Craft, Crafting, mario, Minecraft, run, subway, Subway Surfers, Super, Superhero, temple

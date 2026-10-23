@@ -21,4 +21,4 @@ Embark on a delightful and captivating journey of creativity and problem-solving
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Drawing, HTML5, Mobile, Physics, Puzzle
+- Tags: Android, drawing, HTML5, Mobile, Physics, Puzzle

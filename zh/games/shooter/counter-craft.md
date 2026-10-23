@@ -21,4 +21,4 @@ Counter Craft 包含在不同 Minecraft 主题地图上的多人对战，以及�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 动作, 手工, CSGO, 枪械, 杀人, 多人, 投篮, 射击游戏, 射击类, 射击, Unity3D, 战争, WebGL
+- 标签: 3D, 3D游戏, 动作, 建造, CSGO, 枪械, 击杀, 多人, 射击, 射击游戏, 射击类, 射击, Unity3D, 战争, WebGL

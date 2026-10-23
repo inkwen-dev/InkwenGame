@@ -27,4 +27,4 @@ Rocketcar Cup is a fast-paced 2D arcade soccer game where rocket-powered cars ba
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 1v1, Arcade, Car, Soccer, Sports
+- Tags: 1v1, Arcade, Car, Soccer, sports

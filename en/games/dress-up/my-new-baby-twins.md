@@ -21,4 +21,4 @@ Weave precious sets for your twins, take the mommies to get their medical checku
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cleaning, Cooking, Doctor, Dress Up, Fun, Girls, HTML5, Kids, Mobile, Simulation, Surgery
+- Tags: Baby, Cleaning, Cooking, Doctor, Dress Up, Fun, Girls, HTML5, Kids, Mobile, Simulation, surgery

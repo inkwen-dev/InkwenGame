@@ -19,6 +19,6 @@ Braid Hair Design game in which Brad will have a date with Ken at night. Right n
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Design, Fun, Girl, Girls, H5, Hair, HTML5, Kid, Kids, Makeover

@@ -21,4 +21,4 @@ Burst popcorn and complete all the popcorn making levels! Pop the popcorn bursti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Arcade, Ball, Best, Bounce, Casual, Cooking, Crazy, Cute, endless, Fun, Hypercasual
+- Tags: 1 Player, 2D, Android, Arcade, Ball, Best, Bounce, Casual, Cooking, crazy, Cute, endless, Fun, Hypercasual

@@ -39,4 +39,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 冒险, 街机, 怪物, 拼图, 角色扮演, 技巧
+- 标签: 冒险, 街机, monster, 益智, rpg, 技巧

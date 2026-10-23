@@ -19,6 +19,6 @@ Are you an underdog? Wanna be a pro? Break your opponents ankles, got them poste
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Football, Sport, Sports
+- Tags: basketball, Football, Sport, sports

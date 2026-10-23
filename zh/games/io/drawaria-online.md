@@ -21,4 +21,4 @@ Drawaria.online 是一款令人惊叹的多人在线游戏，玩家通过绘画�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io游戏, 2D, 休闲, 绘画, 绘画, 乐趣, 搞笑, 猜测, 高分, HTML, HTML5, 多人, 在线, 单词
+- 标签: .io, .io 游戏, 2D, 休闲, 绘画, 绘画, 有趣, 搞笑, 猜谜, 高分, HTML, HTML5, 多人, 在线, 单词

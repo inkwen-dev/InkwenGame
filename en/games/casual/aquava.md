@@ -19,6 +19,6 @@ Aquava is a game of dangerous fishes. Inside water, you have to click/tap on fis
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, Fish, water

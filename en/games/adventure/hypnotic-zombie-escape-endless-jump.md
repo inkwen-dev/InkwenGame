@@ -19,6 +19,6 @@ Welcome to Hypnotic Zombie Escape - Endless Jump, a fast-paced arcade platformer
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Skill, Skills, Zombie

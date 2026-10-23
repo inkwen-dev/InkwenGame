@@ -21,4 +21,4 @@ Rally Point 3 是由 XForm Games 制作的一款 3D 赛车游戏。冲向第一�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 冒险, 驾驶, H5, 热门, HTML, HTML5, 停车, 点击式, 竞速, 赛车, 特技
+- 标签: 动作, 冒险, 驾驶, H5, 热门, HTML, HTML5, 停车, 点击式, 比赛, 竞速, 特技

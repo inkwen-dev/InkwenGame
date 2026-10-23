@@ -21,4 +21,4 @@ This is an easy version of memory-based games where each tile shows a multiplica
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Educational, Math, Memory
+- Tags: card, educational, math, memory

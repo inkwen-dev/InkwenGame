@@ -19,6 +19,6 @@ Merge numbers to reach 2048 Avoid to fill in the entire board and get stuck
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Math, Puzzle
+- Tags: math, Puzzle

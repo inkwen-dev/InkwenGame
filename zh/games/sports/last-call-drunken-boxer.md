@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 拳击, 混战, 格斗, 格斗游戏, 街头格斗
+- 标签: Boxing, 混战, 格斗, 格斗, 街头格斗

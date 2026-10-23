@@ -21,4 +21,4 @@ Downhill Rush game is an endless arcade game. You have to go down the endless mo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Best, Boys, Cartoon, Casual, Funny, Hypercasual, Jumping, Puzzle, WebGL
+- Tags: 3D, Arcade, Best, Boys, Cartoon, Casual, Funny, Hypercasual, jumping, Puzzle, WebGL

@@ -19,6 +19,6 @@ Noob shooter vs Zombie is a very fun shooting game. To complete the level you ne
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Clash, Crafting, Minecraft, Mobile, Online

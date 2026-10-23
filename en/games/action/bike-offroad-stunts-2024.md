@@ -21,4 +21,4 @@ Drive your bike offroad in an excellent environment; you can choose from 3 bikes
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Bike, iPad, iPhone, Mentolatux, Mobile, Moto, Motocross, Motorcycle, offroad, Unity3D
+- Tags: Android, bike, iPad, iPhone, Mentolatux, Mobile, Moto, Motocross, Motorcycle, offroad, Unity3D

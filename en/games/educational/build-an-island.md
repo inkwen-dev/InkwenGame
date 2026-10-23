@@ -21,4 +21,4 @@ Educational games for kids in kindergarten are the most popular way to study now
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Baby, Boat, Boy, Boys, Casual, Cleaning, Educational, H5, HTML5
+- Tags: Adventure, Baby, Boat, Boy, Boys, Casual, Cleaning, educational, H5, HTML5

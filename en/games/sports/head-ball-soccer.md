@@ -19,6 +19,6 @@ Challenging 1vs1 online matches! Strike, score, and be a soccer champion!
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Football, Game, Online, Puzzle, Quiz, Soccer, Sport

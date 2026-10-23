@@ -19,6 +19,6 @@ Exercise your brain and clear the levels of cute hamsters by moving them onto th
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cute, Mahjong, Puzzle
+- Tags: Animal, Cute, mahjong, Puzzle

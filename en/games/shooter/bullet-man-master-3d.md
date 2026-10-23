@@ -19,6 +19,6 @@ Hey there, Bullet Man. Use your gun to perfect your lethal accuracy and shoot at
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 3D, Action, Arcade, Best Games, free games for your site, free games for your website, free html5 games for your website, Hypercasual, Puzzle

@@ -19,6 +19,6 @@ player to throw balls on the basket loaded on a try so that the truck moves to t
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 2D, Adventure, Arcade

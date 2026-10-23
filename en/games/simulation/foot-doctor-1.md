@@ -19,6 +19,6 @@ Help! Doctor, I hurt my feet, ouch! It is so painful! Could you please help me t
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Decorate, Decoration, Doctor, Family, Fun, Girl, HTML5, Kids, Mobile, Simulation, Surgery
+- Tags: Decorate, Decoration, Doctor, Family, Fun, Girl, HTML5, Kids, Mobile, Simulation, surgery

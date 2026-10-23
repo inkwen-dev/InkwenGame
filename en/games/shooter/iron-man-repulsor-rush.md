@@ -21,4 +21,4 @@ Suit up as IRon Man and take to the skies in this fast, colorful arcade flyer! H
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Flight, fly, Shooter, Superhero
+- Tags: flight, fly, Shooter, Superhero

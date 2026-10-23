@@ -15,6 +15,6 @@ Step into the boots of a fearless warrior in Rambo Hit em up, a gripping battle 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Zombie

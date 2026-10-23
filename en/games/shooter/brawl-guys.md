@@ -21,4 +21,4 @@ Get ready for a brawl! Choose your character then jump into the arena as you try
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arena, Battle, Battlegrounds, Gun, Multiplayer, Shoot, Shoot 'Em Up, Shooter, Shooting, weapons
+- Tags: Action, Arena, battle, Battlegrounds, Gun, Multiplayer, Shoot, Shoot 'Em Up, Shooter, Shooting, weapons

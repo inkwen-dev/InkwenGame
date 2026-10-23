@@ -19,6 +19,6 @@ Infinity Cubes 2048 with funny physics. Merge identical cubes and enjoy their fu
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2048, Arcade, Best, Casual, endless, Highscore, Logic, Logical, Matching, Mind, Puzzle, Unity3D, WebGL

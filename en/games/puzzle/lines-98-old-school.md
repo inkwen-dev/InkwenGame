@@ -21,4 +21,4 @@ Classic puzzle Balls of Lines 98, made in old school style. Move the balls aroun
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2048, amazing, Ball, Bejeweled, Brain, Bubble, Jewel, Pixel, Puzzle
+- Tags: 2048, amazing, Ball, Bejeweled, Brain, Bubble, Jewel, pixel, Puzzle

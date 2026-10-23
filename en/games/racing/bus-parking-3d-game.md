@@ -19,6 +19,6 @@ Bus Parking 3D is a realistic Bus Driving game and Bus Simulator having a 3D gam
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: bus, Car

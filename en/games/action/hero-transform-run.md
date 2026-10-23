@@ -21,4 +21,4 @@ Superheroes accumulate energy by constantly upgrading themselves, and at the end
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Battle, running, Superhero
+- Tags: 3D, 3D Games, battle, running, Superhero

@@ -19,6 +19,6 @@ For childhood classic games. Features: - Customizable game rules, Aeroplane ches
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Board, Casual, Classic, endless, Logic

@@ -21,4 +21,4 @@ Find identical boards and select them one by one with the help of the computer m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Hypercasual, Mahjong
+- Tags: HTML5, Hypercasual, mahjong

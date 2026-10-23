@@ -19,6 +19,6 @@ Fall heroes Guys.io Finish dozens of courses and collect crowns. Be the winner o
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 2D, Action, Adventure, Arcade, Multiplayer

@@ -21,4 +21,4 @@ A 8-bit game comes for the people who love old-school styled graphics, with a di
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Click, dino, Dinosaur, Pixel, run, running
+- Tags: Avoid, Click, dino, Dinosaur, pixel, run, running

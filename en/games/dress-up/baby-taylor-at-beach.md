@@ -21,4 +21,4 @@ Summer is coming! This vacation Baby Taylor is glad to be gifted with a beach tr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cute, Dress Up, Educational, Food, Girl, Girls, Hidden, Kids, Makeover, Simulation
+- Tags: Baby, Cute, Dress Up, educational, Food, Girl, Girls, Hidden, Kids, Makeover, Simulation

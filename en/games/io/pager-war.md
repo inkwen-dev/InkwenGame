@@ -21,4 +21,4 @@ This is a casual strategy war game. Use energy to summon soldiers to resist enem
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Army, Stickman, War
+- Tags: .io Games, Army, stickman, War

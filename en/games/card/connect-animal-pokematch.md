@@ -19,6 +19,6 @@ Welcome to Connect Animal Pokematch puzzle memory game. Tap to Flip Cards and us
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Card, Casual, Clicker, Kids, Memory, Pokemon
+- Tags: Arcade, card, Casual, Clicker, Kids, memory, Pokemon

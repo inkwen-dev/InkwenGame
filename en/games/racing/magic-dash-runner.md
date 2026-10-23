@@ -19,6 +19,6 @@ Magic Dash An isometric cube game which you will like its fantastic theme, is wi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Arcade, Best, Casual, Fun, Hot, HTML5, Hypercasual, Kids, Magic, Mobile, Online, Race, Racing, run, running

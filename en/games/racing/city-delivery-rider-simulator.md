@@ -21,4 +21,4 @@ Ride through a lively city as a delivery courier, transport parcels, follow chec
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Bike, city, Driving, Motorcycle, Simulation, WebGL
+- Tags: 3D, bike, city, Driving, Motorcycle, Simulation, WebGL

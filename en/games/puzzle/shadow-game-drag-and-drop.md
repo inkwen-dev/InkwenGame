@@ -19,6 +19,6 @@ It is an educational as well as fun game for kids. Just look the photo displayed
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Funny, Halloween, HTML5, Kids, Matching, Puzzle

@@ -19,6 +19,6 @@ Tic Tac Toe 2 Player: XOXO is a classic puzzle game, also known as XO or Noughts
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Mario, Puzzle
+- Tags: Clicker, mario, Puzzle

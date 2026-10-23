@@ -21,4 +21,4 @@ Unblock Me is a classic puzzle game where your goal is to free the red block by 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Block, Brain, HTML5, Logic, Puzzle, Skill, sliding, Strategy
+- Tags: 2026 games, block, Brain, HTML5, Logic, Puzzle, Skill, sliding, strategy

@@ -21,4 +21,4 @@ PairScape is a relaxing tile-matching adventure set in a vibrant world of fresh 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Click, Matching, Memory
+- Tags: card, Click, Matching, memory

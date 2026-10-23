@@ -19,6 +19,6 @@ connect flow water and make those flowers bloom and save the plants. Tap or clic
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Casual, Clicker, Puzzle

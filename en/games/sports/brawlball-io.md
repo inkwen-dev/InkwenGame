@@ -19,6 +19,6 @@ BrawlBall.io is a fast-paced multiplayer football (soccer) game where you must b
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Action, Football, Multiplayer, Soccer

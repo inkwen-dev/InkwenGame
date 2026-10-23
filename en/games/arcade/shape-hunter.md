@@ -21,4 +21,4 @@ Your mission in this game; is to take on the shape above the gate that will appe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Clicker, Educational, Math, Mind
+- Tags: Arcade, Clicker, educational, math, Mind

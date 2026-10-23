@@ -15,6 +15,6 @@ Navigate treacherous rooftops and construction blocks in Obby Skate Forever Park
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Skateboard
+- Tags: skateboard

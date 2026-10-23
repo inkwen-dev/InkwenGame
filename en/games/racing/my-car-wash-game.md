@@ -19,6 +19,6 @@ It’s time to show your skills of car wash, selling and buying strategies with 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Action, Arcade, Baby, Car, Cars, Casual, Fun, Funny, Game, Hypercasual, Kid, Kids

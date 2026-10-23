@@ -19,6 +19,6 @@ ASTEROID RAIN IS COMING. YOU HAVE TO DESTROY ALL THE ASTEROIDS BEFORE THEY HIT T
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Action, Adventure, Aircraft, Alien, Arcade, Balance, Highscore, Shoot, Shooter, Space, Spaceship, Unity3D

@@ -33,4 +33,4 @@ Maths Puzzle is a fun and engaging logic-based game that challenges your mathema
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, intelligence, Kids, Logic, Math, Mobile, Number, Puzzle, Quiz
+- Tags: Brain, educational, intelligence, Kids, Logic, math, Mobile, Number, Puzzle, Quiz

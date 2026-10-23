@@ -21,4 +21,4 @@ Among Tito 2 is a 2D Sci-Fi themed platformer where you have to collect adamant 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, jump, Jumping, Pixel, Platform, Retro, Robot, Science
+- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, jump, jumping, pixel, Platform, retro, Robot, Science

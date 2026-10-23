@@ -19,6 +19,6 @@ Pregnant Mommy Caring is a very fun and popular caring game. This time, we will 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Doctor, Educational, Fun, Girl, HTML5, Kids, Mobile, Surgery
+- Tags: Baby, Doctor, educational, Fun, Girl, HTML5, Kids, Mobile, surgery

@@ -21,4 +21,4 @@ Hungry Shark vs. Skibidi Jump Challenge Game is a fun and addictive game that is
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Game, Games, HTML, HTML5, jump, Jumping, Online, Skibidi, Skibidi Toilet
+- Tags: 2D, Game, Games, HTML, HTML5, jump, jumping, Online, Skibidi, skibidi-toilet

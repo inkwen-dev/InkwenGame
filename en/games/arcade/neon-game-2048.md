@@ -19,6 +19,6 @@ Neon 2048 is a puzzle logical game for kids. The goal of the game is to come to 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Kids, Logical, Number, Puzzle

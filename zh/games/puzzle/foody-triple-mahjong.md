@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 棋盘, 食物, HTML5, 麻将, 三消, 移动, 谜题
+- 标签: 棋盘, 食物, HTML5, mahjong, 三消, 移动设备, 益智

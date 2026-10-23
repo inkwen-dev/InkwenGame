@@ -21,4 +21,4 @@ Labubu 井字棋将经典的 3×3 井字棋棋盘加入了一个有趣的 Labubu
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 棋盘, 益智, 乐趣, Labubu, 解谜, 技巧
+- 标签: 街机, 棋盘, 大脑, 有趣, Labubu, 益智, 技巧

@@ -19,6 +19,6 @@ Welcome to 2020 Realistic Tank Battle Simulation where you can simulate a battle
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Shoot, Tank, Tanks, Unity3D, WebGL
+- Tags: Shoot, Tank, tanks, Unity3D, WebGL

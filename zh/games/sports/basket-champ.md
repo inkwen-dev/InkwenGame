@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 篮球, 乐趣, 运动
+- 标签: 街机, 篮球, 有趣, 体育

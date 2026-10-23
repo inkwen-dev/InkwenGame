@@ -15,6 +15,6 @@ Embark on a fast-paced 2D sci-fi adventure in Aisa Bot 2. Navigate treacherous l
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

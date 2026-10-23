@@ -19,6 +19,6 @@ Santa Gifts Rush is a Christmas based puzzle game. In this game you’ll need to
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Board, Christmas, Collecting, HTML5, Mobile, Puzzle

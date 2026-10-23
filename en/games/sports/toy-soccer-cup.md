@@ -21,4 +21,4 @@ Toy Soccer Cup is a fast, pick-up-and-play table football game where you flick t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 1v1, Multiplayer, Soccer, Sports, two-player
+- Tags: 1v1, Multiplayer, Soccer, sports, two-player

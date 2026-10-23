@@ -21,4 +21,4 @@ Flat Jumper is a game in which you need to jump on colored platforms and choose 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, jump, Jumping
+- Tags: Action, Adventure, Arcade, jump, jumping

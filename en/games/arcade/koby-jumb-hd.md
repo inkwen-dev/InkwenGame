@@ -19,6 +19,6 @@ Koby Jump Escape is a great HTML5 platform game. Help Koby to escape from prison
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, jump, Jumping
+- Tags: Arcade, jump, jumping

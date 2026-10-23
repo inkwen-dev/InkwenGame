@@ -21,4 +21,4 @@ Zazgames is a place where you can infinitely play assembling online jigsaw puzzl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Horse, Jigsaw, Pony, Puzzle
+- Tags: Cartoon, horse, Jigsaw, Pony, Puzzle

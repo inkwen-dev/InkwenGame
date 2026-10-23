@@ -19,6 +19,6 @@ Mr Flip is a fun ragdoll based platform game aiming to fall vertically from high
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Adult, Adventure, Arcade, Casual, Click, Clicker, Crazy, Fun, Funny, Game, Games, jump, Jumping, Physics, Platform, WebGL
+- Tags: 1 Player, 3D, Adult, Adventure, Arcade, Casual, Click, Clicker, crazy, Fun, Funny, Game, Games, jump, jumping, Physics, Platform, WebGL

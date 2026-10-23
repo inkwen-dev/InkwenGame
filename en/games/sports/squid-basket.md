@@ -21,4 +21,4 @@ Squid Basket is an exciting sports game to play for all ages. Play this technica
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Baseball, Basketball, Boys, Casual, HTML, HTML5, Mobile, Sport, Sports
+- Tags: Arcade, baseball, basketball, Boys, Casual, HTML, HTML5, Mobile, Sport, sports

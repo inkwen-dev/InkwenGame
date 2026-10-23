@@ -19,6 +19,6 @@ A short pattern of connected dots appears on the screen. Watch it carefully, rem
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Brain, Casual, Hypercasual, Level, Levels, Logic, Logical, Memory, Puzzle, Relaxation, WebGL
+- Tags: 1 Player, 2026 games, 2D, Brain, Casual, Hypercasual, Level, Levels, Logic, Logical, memory, Puzzle, Relaxation, WebGL

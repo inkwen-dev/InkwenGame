@@ -19,6 +19,6 @@ Hey girls! Welcome to Beauty SPA Salon! The best game for girls! Now, you are th
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Casual, Dress Up, Educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Makeover
+- Tags: 1 Player, Casual, Dress Up, educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Makeover

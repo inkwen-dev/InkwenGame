@@ -21,4 +21,4 @@ Word-based puzzle game combining fragment assembly and vocabulary discovery, whe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Casual, Puzzle, Word
+- Tags: 1 Player, 2D, Casual, Puzzle, word

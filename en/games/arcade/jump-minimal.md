@@ -21,4 +21,4 @@ Jump Minimal is a puzzle arcade game for all players. The goal of the game is to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Avoid, Ball, jump, Jumping, Kids, Puzzle
+- Tags: Arcade, Avoid, Ball, jump, jumping, Kids, Puzzle

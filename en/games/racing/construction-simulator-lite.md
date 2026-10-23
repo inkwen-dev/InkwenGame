@@ -21,4 +21,4 @@ Welcome to Construction Simulator Lite, the casual construction simulator game d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Simulator, Truck
+- Tags: Car, Simulator, truck

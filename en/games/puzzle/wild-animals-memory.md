@@ -21,4 +21,4 @@ Wild Animals Memory is a free online game from genre of memory and animals games
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Fun, HTML5, Kids, Memory, Skill
+- Tags: Animal, Fun, HTML5, Kids, memory, Skill

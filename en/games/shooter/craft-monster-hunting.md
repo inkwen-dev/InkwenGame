@@ -21,4 +21,4 @@ Craft Room: Monster Hunting is a 3D action game where you take on the role of a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Minecraft, Shooter, Skibidi Toilet
+- Tags: 3D Games, Minecraft, Shooter, skibidi-toilet

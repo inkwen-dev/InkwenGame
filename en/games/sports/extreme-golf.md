@@ -21,4 +21,4 @@ Extreme Golf is an online golf game, you need to control a guy to shoot golf bal
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Golf, Highscore
+- Tags: Ball, golf, Highscore

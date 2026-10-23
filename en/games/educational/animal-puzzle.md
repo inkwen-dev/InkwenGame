@@ -21,4 +21,4 @@ Animal Puzzle With the game Animal Puzzle, you will find the missing piece to so
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Educational, HTML5, Kids, Puzzle, School
+- Tags: Animal, educational, HTML5, Kids, Puzzle, School

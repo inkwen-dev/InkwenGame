@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 动作, Android, 街机, 休闲, 经典, 疯狂, 无尽, 逃脱, 游戏, 游戏们, HTML, HTML5, 超休闲
+- 标签: 2D, 动作, 安卓, 街机, 休闲, 经典, 疯狂, 无尽, 逃脱, 游戏, 网页游戏, HTML, HTML5, 超休闲

@@ -33,4 +33,4 @@ Collecting diamonds to improve your items and skills.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, animals, Mobile, Strategy, survival
+- Tags: Action, animals, Mobile, strategy, survival

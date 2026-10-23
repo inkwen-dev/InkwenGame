@@ -15,6 +15,6 @@ X-O Battle elevates the classic Tic-Tac-Toe experience with a sleek design, offe
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Board

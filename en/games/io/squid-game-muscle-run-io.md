@@ -19,6 +19,6 @@ Meet Muscle Run.io, one of the new Squid Game games. In Squid Game Muscle Run.io
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, Battle, Escape, Hypercasual, Island, Online, run, running, Stealth, Unity3D, WebGL
+- Tags: .io, .io Games, 3D, battle, Escape, Hypercasual, Island, Online, run, running, Stealth, Unity3D, WebGL

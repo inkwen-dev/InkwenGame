@@ -22,4 +22,4 @@ Play as a music note jumping across platforms. Spread color with each bounce and
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Music, Platform
+- Tags: music, Platform

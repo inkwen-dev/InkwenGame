@@ -19,6 +19,6 @@ The most popular and kids\\ all-time favorite cleaning game Sweet Baby Girl Clea
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cleaning, Funny, Girl, Girls, School, Summer

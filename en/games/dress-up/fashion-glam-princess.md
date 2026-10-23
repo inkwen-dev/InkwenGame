@@ -19,6 +19,6 @@ If you like dress up games, you’ll LOVE this one. Fashion Glam Princess offers
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Frozen, Girl, Girls, HTML, HTML5, Princess

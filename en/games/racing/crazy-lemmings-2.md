@@ -21,4 +21,4 @@ Crazy Lemmings 2 is a fast-paced and addictive arcade game where your mission is
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cartoon, Cute, jump, Jumping, mapi games
+- Tags: Animal, Cartoon, Cute, jump, jumping, mapi games

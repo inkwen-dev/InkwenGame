@@ -19,6 +19,6 @@ Among Us is a multiplayer social deduction game developed by the American compan
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, 3D, 3D Games, Action, Adventure, Aircraft, Alien, Hypercasual, Spaceship, Unity3D

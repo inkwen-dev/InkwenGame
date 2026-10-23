@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 街机, 竞技场, 混战, 卡通, 休闲, 收集, 疯狂, HTML5, 超休闲, Stickman
+- 标签: .io, .io 游戏, 街机, 竞技场, 混战, 卡通, 休闲, 收集, 疯狂, HTML5, 超休闲, 木偶人

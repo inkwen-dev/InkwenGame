@@ -21,4 +21,4 @@ Flat Flap 是一款适合所有年龄段的休闲游戏，操作简单，只需�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 有趣, 游戏, 游戏, HTML, HTML5, 超休闲, 孩子, 儿童
+- 标签: 动作, 有趣, 游戏, 网页游戏, HTML, HTML5, 超休闲, 儿童, 儿童

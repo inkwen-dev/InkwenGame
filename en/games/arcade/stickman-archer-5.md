@@ -21,4 +21,4 @@ Enhance your stickman shooting skills with our newest game featuring three excit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Stickman, Superhero
+- Tags: Action, Arcade, stickman, Superhero

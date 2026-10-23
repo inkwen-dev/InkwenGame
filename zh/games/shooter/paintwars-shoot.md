@@ -21,4 +21,4 @@ Paintwars 射击游戏现已推出，采用出色的 FPS 创新玩法，你将�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 多人游戏, 射击, 射击游戏, 射击, 射击, Unity3D, WebGL
+- 标签: 多人, 射击, 射击游戏, 射击类, 射击, Unity3D, WebGL

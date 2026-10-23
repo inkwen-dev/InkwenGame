@@ -19,6 +19,6 @@ In the seabed are hiding the most terrifying creatures. The darkness is total an
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bubble, Casual, Fish, Memory, Monster, Race, running
+- Tags: Arcade, Bubble, Casual, Fish, memory, monster, Race, running

@@ -21,4 +21,4 @@ SpaceGuard.io is a multiplayer FPS in a sci-fi theme with crazy features like po
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Gun, Multiplayer, Rocket, Sniper, Unity3D, weapons, WebGL
+- Tags: 3D Games, Gun, Multiplayer, Rocket, sniper, Unity3D, weapons, WebGL

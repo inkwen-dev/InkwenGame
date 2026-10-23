@@ -21,4 +21,4 @@ Welcome to the poppy playtime adventure world. Run and Jump to not fall from edg
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Clicker, Jumping, Kids, Mario, running
+- Tags: Adventure, Arcade, Clicker, jumping, Kids, mario, running

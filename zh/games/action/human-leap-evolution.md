@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 战斗, 敌人, 解谜, 战士
+- 标签: 战斗, 敌人, 益智, 战士

@@ -21,4 +21,4 @@ Play the classic game of Tic Tac Toe (XO) in a whole new way with Tic Tac Toe - 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2026 games, Block, Board, Casual, Fun, Game, Match 3, Match3, Matching, Math
+- Tags: 1 Player, 2 Player, 2026 games, block, Board, Casual, Fun, Game, Match 3, Match3, Matching, math

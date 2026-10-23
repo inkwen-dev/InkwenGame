@@ -21,4 +21,4 @@ Kids Vehicles Memory is a game where you have to memorize the positions of the p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cars, Kids, Memory, Puzzle
+- Tags: Cars, Kids, memory, Puzzle

@@ -21,4 +21,4 @@ Halloween is approaching! The memory game we have prepared with Halloween concep
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Collecting, Collection, Crazy, Halloween, Matching
+- Tags: card, Collecting, Collection, crazy, Halloween, Matching

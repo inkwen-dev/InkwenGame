@@ -21,4 +21,4 @@ Welcome to Haunted Heroes! Experience the combination of ghost parkour and evolu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, running
+- Tags: educational, running

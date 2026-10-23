@@ -19,6 +19,6 @@ Arrow Shot Game with 50 Levels, Kill the Orks and Trolls.
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Click, Clicker, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Play, Puzzle, Shoot, Shooter

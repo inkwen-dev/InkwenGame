@@ -19,6 +19,6 @@ Tap Ninja is a fun and addictive game to play on. We all know about the reflexes
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Boys, Clicker, Fight, Fighting, Fruit, Ninja, Ninjago, Samurai, Sword
+- Tags: battle, Boys, Clicker, Fight, fighting, Fruit, ninja, Ninjago, Samurai, sword

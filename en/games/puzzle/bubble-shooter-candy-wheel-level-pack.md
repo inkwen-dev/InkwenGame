@@ -19,6 +19,6 @@ Bubble Shooter Candy Wheel Level Pack is a fun and challenging game where you sh
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, Candy, html5 games, Levels, Mobile, spin-wheel

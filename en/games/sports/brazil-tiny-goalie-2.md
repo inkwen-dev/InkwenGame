@@ -15,6 +15,6 @@ Step into the shoes of a formidable soccer goalkeeper in Brazil Tiny Goalie. Hon
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Sports
+- Tags: sports

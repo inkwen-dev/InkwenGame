@@ -19,6 +19,6 @@ Traffic Arrow is a game where you need to control the blue arrow through the oth
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Ball, Hypercasual, Kids, Puzzle

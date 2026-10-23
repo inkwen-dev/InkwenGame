@@ -21,4 +21,4 @@ Lead a tiny crowd on a colourful sky track and turn it into an unstoppable army!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Arcade, Math, Puzzle, runner, running, Skill
+- Tags: 3D, Action, Arcade, math, Puzzle, runner, running, Skill

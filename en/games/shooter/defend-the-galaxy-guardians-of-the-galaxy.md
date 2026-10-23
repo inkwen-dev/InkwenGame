@@ -19,6 +19,6 @@ It's possible now to play Defend the Galaxy - Guardians Of The Galaxy game in yo
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Avoid, Boys, Cartoon, Defense, Family, Fighting, Fun, Girls, HTML5, Mobile, Shoot, Shooter, Space, Spaceship, Super, Superhero
+- Tags: Action, Adventure, Arcade, Avoid, Boys, Cartoon, Defense, Family, fighting, Fun, Girls, HTML5, Mobile, Shoot, Shooter, Space, Spaceship, Super, Superhero

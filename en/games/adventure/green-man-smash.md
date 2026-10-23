@@ -21,4 +21,4 @@ Green Man Smash is fun addictive action game.To save the world and don’t let b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Monster, Zombie
+- Tags: Action, Adventure, monster, Zombie

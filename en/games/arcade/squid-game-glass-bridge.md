@@ -19,6 +19,6 @@ Your goal in Squid Game Glass Brigde game developed by meyagames.com team is to 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Arcade, Best, Casual, Hypercasual, jump, Jumping, Kids, Road, Skill, WebGL
+- Tags: 3D, Action, Adventure, Arcade, Best, Casual, Hypercasual, jump, jumping, Kids, Road, Skill, WebGL

@@ -19,6 +19,6 @@ Switch lanes, jump and slide to avoid obstacles such as roadblocks and police ca
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, jump, Jumping, run, running
+- Tags: Action, Adventure, jump, jumping, run, running

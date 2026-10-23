@@ -21,4 +21,4 @@ Joker has caught Batman between two buildings, and he drops all sorts of stuff o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Batman, Fighting, Fun, Jumping, running
+- Tags: Action, Adventure, Batman, fighting, Fun, jumping, running

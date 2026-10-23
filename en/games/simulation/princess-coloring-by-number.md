@@ -21,4 +21,4 @@ Princess Coloring By Number, Princess Coloring Book is an awesome coloring book 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Creation, Decorate, Educational, Girl, Girls, Kids, Simulation
+- Tags: Color, Coloring, Creation, Decorate, educational, Girl, Girls, Kids, Simulation

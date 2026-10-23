@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1人游戏, 惊人, 街机, 休闲, 免费HTML5游戏供您的网站使用, 游戏, HTML, 孩子们, 关卡, 解谜, unity, WebGL
+- 标签: 单人, 惊人, 街机, 休闲, 免费HTML5游戏供您的网站使用, 游戏, HTML, 儿童, 关卡, 益智, unity, WebGL

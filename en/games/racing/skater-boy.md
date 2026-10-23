@@ -21,4 +21,4 @@ Try to make the best score with your skateboard, which gets faster and faster by
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Android, Arcade, Boy, Boys, dash, jump, Jumping, Race, Skateboard, Skating
+- Tags: 1 Player, 2D, Action, Adventure, Android, Arcade, Boy, Boys, dash, jump, jumping, Race, skateboard, Skating

@@ -40,4 +40,4 @@ On mobile devices: Tap the screen to run and swipe left or right to control the 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Funny, Racing, ragdoll, runner, running, Stickman
+- Tags: Arcade, Funny, Racing, ragdoll, runner, running, stickman

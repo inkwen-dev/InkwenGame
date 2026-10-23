@@ -21,4 +21,4 @@ Gun Jaser is fast, fun, action packed, most beautiful visually stunning and easy
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Arena, Battle, Battlegrounds, Best, Bomb, Boys, Cartoon, Crazy, CSGO, Games, Gun, HTML5, Jumping, Multiplayer, Rocket, Shooter, Shooting, Submachine, weapons, WebGL
+- Tags: 2D, Action, Arena, battle, Battlegrounds, Best, Bomb, Boys, Cartoon, crazy, CSGO, Games, Gun, HTML5, jumping, Multiplayer, Rocket, Shooter, Shooting, Submachine, weapons, WebGL

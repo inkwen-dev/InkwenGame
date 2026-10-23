@@ -19,6 +19,6 @@ Chop food like a real master. It's so satisfying! - Easy control - Addictive gam
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Knight, Slicing
+- Tags: knight, Slicing

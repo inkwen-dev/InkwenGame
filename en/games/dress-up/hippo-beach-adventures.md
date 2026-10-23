@@ -21,4 +21,4 @@ Hippo Beach Adventures is a cute game. Hippo family came to the seaside for an a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Animal, Cute, Dress Up, Family, Food, Fun, Girls, HTML5, Kids, Mobile, Sports
+- Tags: Adventure, Animal, Cute, Dress Up, Family, Food, Fun, Girls, HTML5, Kids, Mobile, sports

@@ -23,4 +23,4 @@ With diverse gameplay styles, straightforward rules and clean visuals, 2 Player 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, Funny, mini, Multiplayer, Sports, two-player
+- Tags: Boys, Funny, mini, Multiplayer, sports, two-player

@@ -19,6 +19,6 @@ Super Runner 3d is a 3D running game. Take control of your stickman and race aga
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Action, Fun, Stickman, Stunts
+- Tags: .io, Action, Fun, stickman, Stunts

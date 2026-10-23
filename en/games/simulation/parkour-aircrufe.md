@@ -21,4 +21,4 @@ Unlock flight for better crossing, flight experience for the simulation operatio
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Flight, fly, Games, Google, H5, Simulation, Simulator, Skills, sky, Space
+- Tags: flight, fly, Games, Google, H5, Simulation, Simulator, Skills, sky, Space

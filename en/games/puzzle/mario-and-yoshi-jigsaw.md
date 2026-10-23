@@ -19,6 +19,6 @@ Mario and Yoshi Jigsaw is a online game that you can play for free. Mario and Yo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boys, Cartoon, Fun, Girls, HTML5, Jigsaw, Kids, Mario, Mobile, Puzzle, Skill
+- Tags: Android, Boys, Cartoon, Fun, Girls, HTML5, Jigsaw, Kids, mario, Mobile, Puzzle, Skill

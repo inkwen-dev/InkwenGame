@@ -19,6 +19,6 @@ Control tile and try to pass thru obstacles and other tiles. Move around them. P
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Platform, Puzzle

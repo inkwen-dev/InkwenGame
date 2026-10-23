@@ -21,4 +21,4 @@ Try to make Close Call on the high way nearest Close call give you more money an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D, 3D Games, Action, Adventure, Arcade, Best, Boy, Boys, Cars, Casual, endless, Game, Games, gta, Highscore, Holiday, HTML, Kart, Race, Racing, Road, School, Simulation, Simulator, Skill, Supercars, Unity3D, Word, World
+- Tags: .io Games, 1 Player, 3D, 3D Games, Action, Adventure, Arcade, Best, Boy, Boys, Cars, Casual, endless, Game, Games, gta, Highscore, Holiday, HTML, Kart, Race, Racing, Road, School, Simulation, Simulator, Skill, Supercars, Unity3D, word, World

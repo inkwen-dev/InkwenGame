@@ -21,4 +21,4 @@ Foosball Pong: Arcade Soccer &amp; 2-Player Battles! The ultimate mix of foosbal
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Arcade, Cartoon, Football, Fun, Funny, Soccer, Sport, Sports
+- Tags: 2 Player, Arcade, Cartoon, Football, Fun, Funny, Soccer, Sport, sports

@@ -19,6 +19,6 @@ Get ready for a heart-pounding motocross adventure in Stunt Bike Extreme &ndash;
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, Adventure, Best Games, Bike, Driving, hills, jump, Race, Simulation, Stunts
+- Tags: 2025 games, Adventure, Best Games, bike, Driving, hills, jump, Race, Simulation, Stunts

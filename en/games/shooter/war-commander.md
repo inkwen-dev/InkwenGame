@@ -21,4 +21,4 @@ It is a turn based strategy game where you are in command of tanks and other mas
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Air, Army, Ben 10, Boy, Boys, Classic, Fight, Fighting, Gun, Kid, Kids, Kill, Killing, Mobile, Skill, Skills, War
+- Tags: Air, Army, Ben 10, Boy, Boys, Classic, Fight, fighting, Gun, Kid, Kids, Kill, Killing, Mobile, Skill, Skills, War

@@ -21,4 +21,4 @@ Moto X3M is a bike racing game with crazy stunts and a twist on deadly obstacles
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Halloween, Moto, Motorcycle
+- Tags: bike, Halloween, Moto, Motorcycle

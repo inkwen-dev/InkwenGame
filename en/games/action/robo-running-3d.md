@@ -19,6 +19,6 @@ Run with an ink man who does parkour. He holds a magical pen that can turn your 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Collecting, Collection, HTML5, Obstacle, Online, Platform, Robot, run, running, Skills

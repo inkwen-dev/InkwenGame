@@ -19,6 +19,6 @@ Fight for survival in this thrilling game. Place unique plants with different sk
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Battle, Casual, Defense, Fruits, Plant, Tower Defense, Zombie
+- Tags: Army, battle, Casual, Defense, Fruits, Plant, Tower Defense, Zombie

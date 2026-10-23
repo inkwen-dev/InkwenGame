@@ -19,6 +19,6 @@ Extreme Quad Bike Racing is a fast 3D ATV racing game with 12 challenging levels
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Bike, Collecting, Driving, Mobile, Obstacle, offroad, Racing, Stunts, WebGL
+- Tags: 1 Player, 3D, bike, Collecting, Driving, Mobile, Obstacle, offroad, Racing, Stunts, WebGL

@@ -21,4 +21,4 @@ Coloring game for animal lovers, offline game, no internet required! Paint anyti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Color, Coloring, Draw, Drawing
+- Tags: Animal, Color, Coloring, Draw, drawing

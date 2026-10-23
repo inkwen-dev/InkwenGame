@@ -21,4 +21,4 @@ Darth Vader Coloring Book: Coloring Book For Kids And Adults The original bad gu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Color, Coloring, Draw, Drawing, Game, Online, Vampire
+- Tags: 2D, Color, Coloring, Draw, drawing, Game, Online, Vampire

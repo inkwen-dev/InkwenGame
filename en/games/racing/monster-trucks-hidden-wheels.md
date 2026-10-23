@@ -19,6 +19,6 @@ This is another point and click type hidden objects game from Video Igrice. Asse
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boys, Car, Cars, Collecting, Hidden, HTML5, Kids, Monster, Truck
+- Tags: Arcade, Boys, Car, Cars, Collecting, Hidden, HTML5, Kids, monster, truck

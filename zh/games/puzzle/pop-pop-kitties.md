@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 泡泡射击, 糖果, 猫, 可爱, Hello Kitty, 消除3
+- 标签: 街机, 泡泡射击, 糖果, 猫, 可爱, Hello Kitty, 三消

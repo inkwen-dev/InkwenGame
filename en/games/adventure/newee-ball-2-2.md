@@ -15,6 +15,6 @@ Embark on a vibrant 2D platforming adventure in Newee Ball 2, guiding a lively b
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

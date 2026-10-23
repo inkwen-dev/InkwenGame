@@ -21,4 +21,4 @@ Rainbow Frontline is a fast-paced 2D pixel shooter set in a vibrant rainbow gala
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, airplane, Arcade, Pixel, Spaceship
+- Tags: 1 Player, 2D, airplane, Arcade, pixel, Spaceship

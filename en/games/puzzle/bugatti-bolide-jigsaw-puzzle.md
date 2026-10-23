@@ -19,6 +19,6 @@ In Bugatti Bolide Jigsaw Puzzle there are 6 images of the most extreme modern Bu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Car, Cars, Jigsaw, Kids, Supercars

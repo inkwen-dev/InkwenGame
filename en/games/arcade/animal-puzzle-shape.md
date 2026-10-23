@@ -19,6 +19,6 @@ Animal Puzzle Shape is free online puzzle game where you need to match the anima
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Animal, Arcade, Baby, Casual, HTML5, Hypercasual, Kids, Matching, Mobile, Online, Puzzle, Skill

@@ -21,4 +21,4 @@ WASD 或鼠标
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D 游戏, 拳击, 格鬥, 闲置, 技能
+- 标签: 3D游戏, Boxing, 格斗, idle, 技能

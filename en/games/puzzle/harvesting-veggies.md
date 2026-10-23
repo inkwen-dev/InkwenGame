@@ -19,6 +19,6 @@ In a fictional rural setting, players take on the role of a farmer, planting veg
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Fruit, Funny, Girl, Tetris
+- Tags: 1 Player, Fruit, Funny, Girl, tetris

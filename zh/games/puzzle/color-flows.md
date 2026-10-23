@@ -21,4 +21,4 @@ Color Flows 是一款益智游戏，你需要在 22 步或更少的步数内将�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 色彩, 益智
+- 标签: 颜色, 益智

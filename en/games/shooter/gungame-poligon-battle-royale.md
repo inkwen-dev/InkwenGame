@@ -19,6 +19,6 @@ GunGame is here with powerful fire and 24 guns to play, you will fight with bots
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Gun, Multiplayer, Pixel, Shooting, Unity3D, WebGL
+- Tags: Gun, Multiplayer, pixel, Shooting, Unity3D, WebGL

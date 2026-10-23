@@ -21,4 +21,4 @@ Among Yetto Bots is a 2D Sci-fi themed platformer where you have to collect all 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Ball, Collecting, jump, Jumping, Pixel, Platform, Retro, Robot, Science
+- Tags: 1 Player, 2D, Adventure, Arcade, Ball, Collecting, jump, jumping, pixel, Platform, retro, Robot, Science

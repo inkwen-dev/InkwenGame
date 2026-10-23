@@ -19,6 +19,6 @@ Noob Puzzle Challenge is free online puzzle game for kids that you can play on P
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Fun, Hypercasual, Jigsaw, Kids, Minecraft, Mobile, Puzzle, Skill

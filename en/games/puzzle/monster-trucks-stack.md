@@ -19,6 +19,6 @@ Control and stack different monster trucks at this matching truck game. The goal
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kids, Match3, Matching, Puzzle, Stack, Truck
+- Tags: Kids, Match3, Matching, Puzzle, Stack, truck

@@ -19,6 +19,6 @@ Number Order is a fun and brain-boosting puzzle game that challenges your logic 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Games, Brain, Cartoon, Puzzle

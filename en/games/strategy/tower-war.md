@@ -19,6 +19,6 @@ Tower War is a fast and exciting strategy game where you compete to take over en
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Best, Best Games, Enemies, Enemy, Fighting, Fun, Puzzle, Skill, Strategy, Tower Defense, War
+- Tags: 1 Player, 3D, Best, Best Games, Enemies, Enemy, fighting, Fun, Puzzle, Skill, strategy, Tower Defense, War

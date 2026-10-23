@@ -19,6 +19,6 @@ Drive into an action-packed, surprise-filled world of off-road Beach Buggy car r
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Anime, Arcade, Ben 10, Best, Bike, Car, Detective, drift, drifting, Race, Racing, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Anime, Arcade, Ben 10, Best, bike, Car, Detective, drift, drifting, Race, Racing, Unity3D

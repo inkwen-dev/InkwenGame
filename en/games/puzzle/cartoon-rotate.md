@@ -19,6 +19,6 @@ Complete the puzzle by turning the pieces of 6 different cheerful puzzles.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Cartoon, Clicker, New, Puzzle

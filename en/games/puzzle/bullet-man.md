@@ -19,6 +19,6 @@ Hey there, Bullet Man. Use your gun to perfect your lethal accuracy and shoot at
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, Bubble Shooter, Gun, Shoot, Shoot 'Em Up, Shooter, Shooting

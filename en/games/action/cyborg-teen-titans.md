@@ -21,4 +21,4 @@ Cyborg Titans Adventure World 3 Are you ready to play the Cyborg Titans Adventur
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Aircraft, Android, Block, Cartoon Network, Dinosaur, Highscore, Platform
+- Tags: Action, Aircraft, Android, block, Cartoon Network, Dinosaur, Highscore, Platform

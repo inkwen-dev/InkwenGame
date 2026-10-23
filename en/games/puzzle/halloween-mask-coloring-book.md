@@ -19,6 +19,6 @@ Halloween Mask Coloring Book is a free online coloring and kids game! In this ga
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Kids, Match 3, Puzzle

@@ -21,4 +21,4 @@ Snake is a video game genre where the player maneuvers a growing line that becom
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Casual, Color, Hypercasual, Retro, Snake
+- Tags: 2D, Casual, Color, Hypercasual, retro, snake

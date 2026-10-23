@@ -29,4 +29,4 @@ Animal Care Tycoon is the perfect game for players who love animals and manageme
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, Doctor, Girls, hospital, Management, Simulation, tycoon
+- Tags: animals, Doctor, Girls, hospital, management, Simulation, tycoon

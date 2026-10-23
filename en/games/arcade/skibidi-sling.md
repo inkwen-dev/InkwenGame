@@ -21,4 +21,4 @@ Help the little Skibidi toilet and his friends to sling and bounce to the top bu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Pokemon, Skibidi, Skibidi Toilet
+- Tags: Action, Pokemon, Skibidi, skibidi-toilet

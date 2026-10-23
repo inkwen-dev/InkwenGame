@@ -19,6 +19,6 @@ Racing Car Stunts on Crazy impossible tracks! Go High or Go Home! Driving on Mas
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Car, Cars, Hypercasual, jump, Jumping, Racing, Simulation, Simulator, Sport, Sports, Stunts, Supercars, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Car, Cars, Hypercasual, jump, jumping, Racing, Simulation, Simulator, Sport, sports, Stunts, Supercars, Unity3D

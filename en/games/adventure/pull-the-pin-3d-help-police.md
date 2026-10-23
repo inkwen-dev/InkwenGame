@@ -21,4 +21,4 @@ Assist the courageous police officer who is on a mission to capture an escaped c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Casual, Hypercasual, Logic, Logical, Police
+- Tags: 3D, 3D Games, Action, Adventure, Casual, Hypercasual, Logic, Logical, police

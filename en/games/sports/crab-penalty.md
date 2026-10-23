@@ -21,4 +21,4 @@ Step into the sandy arena of Crab Penalty, where you take on the challenge of sc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Sports
+- Tags: Animal, Arcade, sports

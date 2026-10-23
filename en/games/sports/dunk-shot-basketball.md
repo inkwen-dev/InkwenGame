@@ -21,4 +21,4 @@ From the creators of multiple smash-hit online sports games! Dribble, shoot, sco
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Basketball, Boys, Games, Girls
+- Tags: 1 Player, Action, Adventure, basketball, Boys, Games, Girls

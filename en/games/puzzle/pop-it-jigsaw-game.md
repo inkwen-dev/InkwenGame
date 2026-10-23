@@ -19,6 +19,6 @@ Pop It Jigsaw is a popular puzzle game that combines bubble knocking with Jigsaw
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Bubble, Cartoon, Fun, HTML5, Jigsaw, Kid, Matching, Mobile, Relaxation

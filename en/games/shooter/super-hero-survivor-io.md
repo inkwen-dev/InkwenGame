@@ -21,4 +21,4 @@ Step into an explosive battlefield where chaos never stops in Super Hero Survivo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Shoot 'Em Up, Strategy, survival, Zombie
+- Tags: .io, Shoot 'Em Up, strategy, survival, Zombie

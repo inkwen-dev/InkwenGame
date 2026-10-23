@@ -19,6 +19,6 @@ Are you looking for kids games for your toddler? Will you like to help your litt
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Arcade, Baby, Baby Hazel, Balance, Ball, Ballon, Barbie, Baseball, Basketball, Battle, Board, Boat, Boys, Game, Games, Girl, Girls, HTML5
+- Tags: 3D Games, Arcade, Baby, Baby Hazel, Balance, Ball, Ballon, Barbie, baseball, basketball, battle, Board, Boat, Boys, Game, Games, Girl, Girls, HTML5

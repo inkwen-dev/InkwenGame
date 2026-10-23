@@ -19,6 +19,6 @@ Many a times student use numbers in Std. 5-8 and have common confusions over the
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Math, Quiz, Skills
+- Tags: educational, math, Quiz, Skills

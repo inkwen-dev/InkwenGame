@@ -21,4 +21,4 @@ Crazy Chase, a funny driving game where you have a mini super speedy car and you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Car, Cars, Police, Race, Unity3D, WebGL
+- Tags: 3D Games, Car, Cars, police, Race, Unity3D, WebGL

@@ -21,4 +21,4 @@ treasure ninja is puzzle match game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Bejeweled, Casual, Games, HTML5, Hypercasual, Matching, Ninja
+- Tags: 1 Player, 2D, Bejeweled, Casual, Games, HTML5, Hypercasual, Matching, ninja

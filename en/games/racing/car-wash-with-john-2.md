@@ -19,6 +19,6 @@ You and John are invited to the second part of the car wash adventure. Choose, m
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Boys, Car, Driving, Kids, Mobile

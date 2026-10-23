@@ -19,6 +19,6 @@ Control the police car, tap the screen to jump and dodge obstacles! Navigate thr
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 3D, 3D Games, Action, Arcade, Car, Escape, Fun, Funny, jump, Jumping, Police, run, running
+- Tags: 2026 games, 3D, 3D Games, Action, Arcade, Car, Escape, Fun, Funny, jump, jumping, police, run, running

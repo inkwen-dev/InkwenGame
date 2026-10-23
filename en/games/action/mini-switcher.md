@@ -21,4 +21,4 @@ Switch the gravity to guide a small blob character to the goal, traveling around
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Android, Arcade, HTML5, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Action, Android, Arcade, HTML5, pixel, Platform, retro

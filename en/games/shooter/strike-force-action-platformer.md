@@ -46,4 +46,4 @@ Simple controls and addictive gameplay
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Army, Gun, Platform, Retro, Shooting, War
+- Tags: Action, Army, Gun, Platform, retro, Shooting, War

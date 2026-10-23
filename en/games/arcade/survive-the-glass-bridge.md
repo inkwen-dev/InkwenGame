@@ -19,6 +19,6 @@ The glass bridge game, one of the Squid Game games, is now on the web! One of th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Arcade, Best, Casual, Hypercasual, jump, Jumping, Kids, Road, Skill, WebGL
+- Tags: 3D, Action, Adventure, Arcade, Best, Casual, Hypercasual, jump, jumping, Kids, Road, Skill, WebGL

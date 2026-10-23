@@ -19,6 +19,6 @@ Slip into the role of the new town marshall. At the every month payment day all 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Boy, Boys, HTML, HTML5, Shooter, Shooting

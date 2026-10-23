@@ -19,6 +19,6 @@ Lets enjoy playing stars and coin collecting game with this baby mermaid in the 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, HTML5, Skill

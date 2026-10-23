@@ -19,6 +19,6 @@ Kids Guitar Music Time is a delightful and free online game designed especially 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Educational, Fun, Girls, Hypercasual, Music, School, Skill
+- Tags: Boys, educational, Fun, Girls, Hypercasual, music, School, Skill

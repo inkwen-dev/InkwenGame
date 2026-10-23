@@ -19,6 +19,6 @@ UNO Online is a strategy card game. In the game, the first player to clear his h
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Card
+- Tags: Arcade, card

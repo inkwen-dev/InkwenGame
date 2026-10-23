@@ -19,6 +19,6 @@ discover the old culture as well as fantastic tuts and khafre. Enjoy playing Kha
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Solitaire
+- Tags: card, solitaire

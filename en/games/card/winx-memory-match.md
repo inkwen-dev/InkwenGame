@@ -21,4 +21,4 @@ Matching pictures of beautiful fairies bloom, flora, stella and tecna and their 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Fairy, Game, Games, Girl, Girls, HTML5, Magic, Matching, Puzzle
+- Tags: card, Fairy, Game, Games, Girl, Girls, HTML5, Magic, Matching, Puzzle

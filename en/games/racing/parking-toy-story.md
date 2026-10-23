@@ -21,4 +21,4 @@ There is the chaos and mess in the children room, the toys are scattered on the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Driving, Parking
+- Tags: Car, Driving, parking

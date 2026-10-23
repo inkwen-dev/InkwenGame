@@ -22,4 +22,4 @@ Enter the playground where children are recreating the World Cup and imagining s
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Ball, Physics, Soccer, Sports, world-cup
+- Tags: Ball, Physics, Soccer, sports, world-cup

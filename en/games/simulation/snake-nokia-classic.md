@@ -19,6 +19,6 @@ Relive the legendary mobile gaming era with Snake Nokia Classic, a faithful trib
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Classic, Collecting, Simulation, Snake
+- Tags: Classic, Collecting, Simulation, snake

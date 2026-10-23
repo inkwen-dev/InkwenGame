@@ -19,6 +19,6 @@ Squirrel Steps is a fun puzzle game where you calculate the path to control the 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Brain, Classic, Logic

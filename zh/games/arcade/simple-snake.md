@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 经典, 收集, 高分, 移动设备, 蛇
+- 标签: 经典, 收集, 高分, 移动设备, snake

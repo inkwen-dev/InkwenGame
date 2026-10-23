@@ -21,4 +21,4 @@ A fun zombie cowboy game for kids and teens. Try to improve your math skills. Ea
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Math, Puzzle, Zombie
+- Tags: 1 Player, Arcade, math, Puzzle, Zombie

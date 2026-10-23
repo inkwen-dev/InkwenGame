@@ -19,6 +19,6 @@ Solitaire by XT Studios is the new best way to play the classic card game you kn
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Arcade, Boys, Card, Girls, Solitaire
+- Tags: 1 Player, 2D, Android, Arcade, Boys, card, Girls, solitaire

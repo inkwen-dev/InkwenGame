@@ -21,4 +21,4 @@ PC 操作 拖拽左键 WASD 方向键移动 Shift 加速移动 左键 空格键�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 休闲, 摧毁, 平台
+- 标签: 休闲, 破坏, 平台

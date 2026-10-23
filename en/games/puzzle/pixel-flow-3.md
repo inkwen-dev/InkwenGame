@@ -21,4 +21,4 @@ A fast-paced game about reaction and the right order of actions. Cannons fire at
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Logic, Pixel
+- Tags: Color, Logic, pixel

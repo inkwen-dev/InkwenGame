@@ -19,6 +19,6 @@ Take your messy pets, alpaca and cat to the hair salon. Wash and dry your pets b
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cat, Dress Up, Girls, HTML5, Kids

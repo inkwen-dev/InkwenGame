@@ -21,4 +21,4 @@ Popit Fidget 是一款休闲游戏，你可以点击圆点，你的任务是清�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 点击, 点击器, 点击解谜
+- 标签: 点击, 点击器, 点击式

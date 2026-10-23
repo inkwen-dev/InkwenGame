@@ -21,4 +21,4 @@ Alphabet for Child a fun and intuitive game to play. Learning is always fun whil
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Educational, Family, HTML, HTML5, Kids, Music, School, Word
+- Tags: Animal, educational, Family, HTML, HTML5, Kids, music, School, word

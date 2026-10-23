@@ -21,4 +21,4 @@ Pixel Forces is a challenging 3D shooting online game. You can choose from five 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Pixel, Shooter, Unity3D, weapons, WebGL
+- Tags: 3D Games, pixel, Shooter, Unity3D, weapons, WebGL

@@ -21,4 +21,4 @@ Katana fruits is an action game. In this game, the goal is to cut all the fruits
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fruit, Ninja
+- Tags: Fruit, ninja

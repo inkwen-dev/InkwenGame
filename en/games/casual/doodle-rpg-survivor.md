@@ -30,4 +30,4 @@ Scribble your way through waves of classroom doodles in this notebook-themed sur
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: RPG
+- Tags: rpg

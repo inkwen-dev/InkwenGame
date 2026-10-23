@@ -21,4 +21,4 @@ PC操作 鼠标 触控操作在所有浏览器和所有移动设备上均有效
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, Android, 战斗
+- 标签: 冒险, 安卓, 战斗

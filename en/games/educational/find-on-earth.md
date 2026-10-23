@@ -19,6 +19,6 @@ An exciting trivia game awaits you in the Find On Earth game. A multitude of que
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Brain, Educational, Interactive, Puzzle, Quiz, Word, World
+- Tags: 1 Player, 3D, 3D Games, Brain, educational, Interactive, Puzzle, Quiz, word, World

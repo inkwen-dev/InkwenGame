@@ -22,4 +22,4 @@ Color animals, flowers, mandalas. Anti-stress, creativity and relaxation all in 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Color, cozy, Drawing
+- Tags: Color, cozy, drawing

@@ -21,4 +21,4 @@ A Panda has just landed in our forests! This imposing black and white animal is 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Animal, Bomb, Boy, Fight, Fighting, Fun, Funny, Kid, Kids, Kill, Killing, Shoot, Shooter
+- Tags: Action, Adventure, Animal, Bomb, Boy, Fight, fighting, Fun, Funny, Kid, Kids, Kill, Killing, Shoot, Shooter

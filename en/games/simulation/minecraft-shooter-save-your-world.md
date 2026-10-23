@@ -19,6 +19,6 @@ Defend the Minecraft world from the invasion of enemies. At your disposal: assau
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Arena, Army, Battle, Battlegrounds, Best, Block, Bomb, Boys, Casual, Crazy, CSGO, Defense, endless, Fantasy, Fight, Fighting, Game, Games, Hot, jump, Jumping, Kids, Killing, Minecraft, Monster, Physics, Shoot, Shooter, Shooting, Simulation, Unity3D, War, WebGL, Zombie
+- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Arena, Army, battle, Battlegrounds, Best, block, Bomb, Boys, Casual, crazy, CSGO, Defense, endless, Fantasy, Fight, fighting, Game, Games, Hot, jump, jumping, Kids, Killing, Minecraft, monster, Physics, Shoot, Shooter, Shooting, Simulation, Unity3D, War, WebGL, Zombie

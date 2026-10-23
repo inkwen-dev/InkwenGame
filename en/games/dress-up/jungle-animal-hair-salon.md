@@ -21,4 +21,4 @@ Welcome to the mind-boggling, whimsical realm of Jungle Animal Hair Salon! Brace
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cute, Dress Up, Educational, Fashion, Forest, Fun, Girls, Grooming, Hair, Horse, HTML5, Kids, Mobile
+- Tags: Animal, Cute, Dress Up, educational, Fashion, Forest, Fun, Girls, Grooming, Hair, horse, HTML5, Kids, Mobile

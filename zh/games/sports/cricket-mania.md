@@ -35,4 +35,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: cricket, 技巧, 运动
+- 标签: 板球, 技巧, 体育

@@ -21,4 +21,4 @@ Whos up for a dive off the cliff Enter the water the straightest you can to coll
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Sport, Sports
+- Tags: Arcade, Sport, sports

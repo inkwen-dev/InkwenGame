@@ -19,6 +19,6 @@ Do you like marble racing? If so, youll love this game! Get gems, gold coins and
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Best Games, Casual, Fun, Hypercasual, Physics

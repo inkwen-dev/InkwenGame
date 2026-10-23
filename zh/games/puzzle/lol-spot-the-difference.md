@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 差异, 有趣, 女孩, HTML5, 儿童, 移动设备
+- 标签: 安卓, 找不同, 有趣, 女孩, HTML5, 儿童, 移动设备

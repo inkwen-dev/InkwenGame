@@ -21,4 +21,4 @@ Skibidi Toilet Puzzle is a funny jigsaw puzzle game. You can select one of the n
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Best, Fun, Funny, Jigsaw, Kids, Skibidi Toilet, Skill
+- Tags: Adventure, Best, Fun, Funny, Jigsaw, Kids, skibidi-toilet, Skill

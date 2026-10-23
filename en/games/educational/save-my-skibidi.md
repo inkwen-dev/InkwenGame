@@ -21,4 +21,4 @@ Pets Sever is game which you will like for sure its a game of puzzles kind. The 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Brain, Educational, HTML5, iPhone, Mobile, Skibidi, Skibidi Toilet
+- Tags: Android, Brain, educational, HTML5, iPhone, Mobile, Skibidi, skibidi-toilet

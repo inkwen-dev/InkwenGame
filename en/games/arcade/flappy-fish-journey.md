@@ -21,4 +21,4 @@ Flappy Fish Journey is a fun and challenging game where you control a small fish
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Fish, Fun, Funny, Game, Games, Highscore, Hypercasual, jump, Jumping, NapTech Games, Obstacle, Online
+- Tags: Adventure, Arcade, Fish, Fun, Funny, Game, Games, Highscore, Hypercasual, jump, jumping, NapTech Games, Obstacle, Online

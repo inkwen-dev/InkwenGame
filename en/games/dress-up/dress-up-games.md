@@ -21,4 +21,4 @@ Try your luck as an important fashion designer in this dress up game where you a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Celebrity, Crazy, Cute, Decorate, Decoration, Design, Dress Up, Fashion, Funny, Girl, Girls, Hair, HTML5, Makeover, Princess
+- Tags: Baby, Celebrity, crazy, Cute, Decorate, Decoration, Design, Dress Up, Fashion, Funny, Girl, Girls, Hair, HTML5, Makeover, Princess

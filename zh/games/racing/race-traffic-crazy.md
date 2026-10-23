@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2025年游戏, 汽车, 驾驶, Mentolatux, 竞速, 超级跑车, 交通, unity, WebGL
+- 标签: 2025年游戏, 汽车, 驾驶, Mentolatux, 比赛, 超跑, 交通, unity, WebGL

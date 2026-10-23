@@ -19,6 +19,6 @@ Claim the crown and rule the underground as you race for dominance in the first 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, 3D, 3D Games, Arcade, Boy, Boys, bus, Car, Cars, Girl, Girls, Hypercasual, Obstacle, Race, Racing, Simulation, Simulator, Supercars, Truck, Unity3D
+- Tags: 2D, 3D, 3D Games, Arcade, Boy, Boys, bus, Car, Cars, Girl, Girls, Hypercasual, Obstacle, Race, Racing, Simulation, Simulator, Supercars, truck, Unity3D

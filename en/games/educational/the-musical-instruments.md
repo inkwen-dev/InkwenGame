@@ -21,4 +21,4 @@ The Musical Instruments is a game developed for children where they will learn m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Cartoon, Cute, Educational, free games for your site, free games for your website, games for your website, HTML, html games for your website, html5 games, Kid, Kids, Music, School
+- Tags: Best Games, Cartoon, Cute, educational, free games for your site, free games for your website, games for your website, HTML, html games for your website, html5 games, Kid, Kids, music, School

@@ -19,6 +19,6 @@ Fashion! Glamor! Makeup and models! Glam Doll Salon - Chic Fashion is a fun desi
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cleaning, Design, Dress Up, Fun, Girls, HTML5, Kids, Makeover

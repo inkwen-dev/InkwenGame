@@ -21,4 +21,4 @@ Shot Pong——这是一款非常出色的（扁平风格）街机游戏，拥�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 最佳, 游戏, 游戏
+- 标签: 最佳, 游戏, 网页游戏

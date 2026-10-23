@@ -21,4 +21,4 @@ Crush and match the monsters till you make enough points to decorate your Hallow
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ghost, Halloween, Match 3, Monster, Zombie
+- Tags: Ghost, Halloween, Match 3, monster, Zombie

@@ -19,6 +19,6 @@ Brix block blast is the best match 3 blocks game online! Not your average casual
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Balance, Block
+- Tags: Balance, block

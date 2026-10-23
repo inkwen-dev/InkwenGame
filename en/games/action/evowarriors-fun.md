@@ -19,6 +19,6 @@ EvoWarriors.fun is a free fantasy style game. Eat steaks, eggs, milk and everyth
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fantasy, Knight, War
+- Tags: battle, Fantasy, knight, War

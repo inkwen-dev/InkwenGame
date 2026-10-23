@@ -19,6 +19,6 @@ It is a special game in different genres of piano games and wonderful gameplay.
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Arcade, Ball, Casual, Fun, Funny, Hot, Hypercasual, Interactive, jump, Jumping, Race, Racing, run, running, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Arcade, Ball, Casual, Fun, Funny, Hot, Hypercasual, Interactive, jump, jumping, Race, Racing, run, running, Unity3D

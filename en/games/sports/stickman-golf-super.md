@@ -21,4 +21,4 @@ Enjoy this wonderful golf game! Calculate the angle and power of your shots in o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Game, Golf, Stickman
+- Tags: 1 Player, 2D, Game, golf, stickman

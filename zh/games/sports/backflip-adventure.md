@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, Casual, Hypercasual
+- 标签: 冒险, 休闲, 超休闲

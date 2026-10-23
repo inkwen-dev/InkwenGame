@@ -15,6 +15,6 @@ Dive into Fish Evolution 3D, where you'll guide your fish through a vibrant 3D w
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

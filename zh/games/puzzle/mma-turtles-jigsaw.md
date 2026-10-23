@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: HTML5, 拼图, 移动, 忍者, 益智
+- 标签: HTML5, 拼图, 移动设备, 忍者, 益智

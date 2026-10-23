@@ -19,6 +19,6 @@ It’s Halloween time and the pumpkin heads are attacking again! If you want to 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Click, Clicker, Halloween

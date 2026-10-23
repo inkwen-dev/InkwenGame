@@ -19,6 +19,6 @@ You can have fun by riding a motorcycle in Moto Bike Extra. You can drift on the
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Bike, drift, Driving, Motorcycle, Racing, Simulation, Stunts
+- Tags: Action, Arcade, bike, drift, Driving, Motorcycle, Racing, Simulation, Stunts

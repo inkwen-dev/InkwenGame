@@ -19,6 +19,6 @@ Need to unwind after a long day? Step into a world of calm with antistress relax
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 2026 games, 3D Games, Best Games, Fun, Games, html5 games, Kids, Relaxation

@@ -21,4 +21,4 @@ Test your math skills in this fun and fast number comparison game! Look at the n
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Educational, Logic, Math, Puzzle
+- Tags: Brain, Casual, educational, Logic, math, Puzzle

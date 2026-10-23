@@ -19,6 +19,6 @@ Forget Kung Fu or Karate if you can swing samurai swords or hurl bombs, fridges,
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Bird, Game, Ninja, Online, Shooter, Shooting, Slither
+- Tags: 2D, Bird, Game, ninja, Online, Shooter, Shooting, Slither

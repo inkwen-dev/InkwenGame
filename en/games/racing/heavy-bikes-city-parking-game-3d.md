@@ -21,4 +21,4 @@ Heavy Bikes City Parking Game 3D have never been this extreme! Race around unloc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Bike, drift, Driving, Racing, Road
+- Tags: 1 Player, 3D, 3D Games, bike, drift, Driving, Racing, Road

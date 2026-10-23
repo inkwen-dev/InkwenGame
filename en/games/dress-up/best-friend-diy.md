@@ -19,6 +19,6 @@ Galya is a very modest girl. It is difficult for her to meet new people and make
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Crazy, Creation, Dress Up, Escape, Fantasy, Girl, HTML5, Logical, Magic, Monster, Princess, Puzzle, Superhero, Vampire, Zombie
+- Tags: crazy, Creation, Dress Up, Escape, Fantasy, Girl, HTML5, Logical, Magic, monster, Princess, Puzzle, Superhero, Vampire, Zombie

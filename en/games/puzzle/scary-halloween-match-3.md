@@ -21,4 +21,4 @@ Scary Halloween Match 3 is a free online game three in a row, in which you have 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Halloween, HTML5, Match-3, Matching, Skill
+- Tags: Fun, Halloween, HTML5, Match 3, Matching, Skill

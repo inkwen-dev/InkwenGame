@@ -19,6 +19,6 @@ Fantasy Forest &ndash; is a HTML5 Game! Cool match logic game. The game has 100 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Bejeweled, Block, Funny, Logical, Mind, Puzzle
+- Tags: 1 Player, Bejeweled, block, Funny, Logical, Mind, Puzzle

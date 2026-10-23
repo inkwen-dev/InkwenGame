@@ -19,6 +19,6 @@ Welcome to the Half Draw Missing Puzzle Game, Do you like drawing games? Have yo
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, 3D Games, Best Games, Brain, Casual, Draw, Drawing, free games for your site, Logic, Relaxation, Skill
+- Tags: 2025 games, 3D Games, Best Games, Brain, Casual, Draw, drawing, free games for your site, Logic, Relaxation, Skill

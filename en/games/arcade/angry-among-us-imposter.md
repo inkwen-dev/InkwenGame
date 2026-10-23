@@ -21,4 +21,4 @@ Compete against the World in 24 NEW Angry Among Us imposter levels every week! O
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, fly, Fun, Games, HTML5, jump, Jumping, Online, Puzzle, Quiz
+- Tags: Adventure, Arcade, fly, Fun, Games, HTML5, jump, jumping, Online, Puzzle, Quiz

@@ -21,4 +21,4 @@ Relax and enjoy with more then +50 pictures of Barbie Barbie Coloring Book: +8 B
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Barbie, Boys, Cartoon, Cartoon Network, Color, Coloring, Draw, Drawing, Game, Girls, Kids, Princess
+- Tags: Arcade, Barbie, Boys, Cartoon, Cartoon Network, Color, Coloring, Draw, drawing, Game, Girls, Kids, Princess

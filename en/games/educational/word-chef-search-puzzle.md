@@ -21,4 +21,4 @@ Welcome to the Word Chef Search Puzzle, where you embark on a culinary adventure
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Educational, Kids, Mentolatux, Puzzle, Unity3D, Word
+- Tags: Boy, Boys, educational, Kids, Mentolatux, Puzzle, Unity3D, word

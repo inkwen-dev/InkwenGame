@@ -21,4 +21,4 @@ There is a beach near Baby Taylor's home. Everyone likes to go to the beach to s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cute, Design, Doctor, Educational, Girl, Girls, Kids, Surgery
+- Tags: Baby, Cute, Design, Doctor, educational, Girl, Girls, Kids, surgery

@@ -21,4 +21,4 @@ Dodge the obstacles on the way and collect all the stars you find in order to co
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, jump, Platform, Stickman
+- Tags: Action, jump, Platform, stickman

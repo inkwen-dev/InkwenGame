@@ -21,4 +21,4 @@ Johnny has sneaked in the foundation of criminals. These men all have guns! You 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Game, Games, Gun, H5, HTML, HTML5, jump, Jumping, Kid, Kids, Kill, Killing, Physics, Shoot, Shooter, Skill, Skills, Stickman, Stunts
+- Tags: Arcade, Game, Games, Gun, H5, HTML, HTML5, jump, jumping, Kid, Kids, Kill, Killing, Physics, Shoot, Shooter, Skill, Skills, stickman, Stunts

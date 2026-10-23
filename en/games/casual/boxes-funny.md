@@ -19,6 +19,6 @@ In the magical land of Bunnyville, the boxes dreams of becoming the greatest egg
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: egg, eggames, eggs, Family, HTML5, jump, Jumping, mapi games, Mobile
+- Tags: egg, eggames, eggs, Family, HTML5, jump, jumping, mapi games, Mobile

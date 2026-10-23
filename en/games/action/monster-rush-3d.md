@@ -19,6 +19,6 @@ As a funny running arcade game, there is a boss chimpanzee standing on the finis
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Animal, Arcade, Collecting, Mobile, Platform, running, Unity3D

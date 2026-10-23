@@ -21,4 +21,4 @@ Experience City Building Like Never Before Discover Idle City builder Island, an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, 3D Games, Best Games, build, builder, Casual, city, idle, Simulation, Strategy
+- Tags: 2025 games, 3D Games, Best Games, build, builder, Casual, city, idle, Simulation, strategy

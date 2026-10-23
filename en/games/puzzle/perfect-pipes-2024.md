@@ -19,6 +19,6 @@ Perfect Pipes 3D &ndash; free arcade puzzle game is a very addictive, yet simple
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Best, Best Games, Fun, Funny, Hypercasual, New, Pipe, Puzzle, Unity3D

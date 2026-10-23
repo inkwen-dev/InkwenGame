@@ -19,6 +19,6 @@ Granny vs Impostor is an action-shooting game. You Granny hero is got a assignme
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Gun, jump, Jumping, Kill, Killing, Monster, run, running
+- Tags: Gun, jump, jumping, Kill, Killing, monster, run, running

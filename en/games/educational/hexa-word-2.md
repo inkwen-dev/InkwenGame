@@ -21,4 +21,4 @@ Hexa Word is a skill game where you have to create words using letters from the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Casual, Educational, HTML5, Letters, Logic, Logical, Mobile, School, Skill, Word
+- Tags: Best, Casual, educational, HTML5, Letters, Logic, Logical, Mobile, School, Skill, word

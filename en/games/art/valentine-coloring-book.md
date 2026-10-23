@@ -19,6 +19,6 @@ Color 15 antistress, zentangle and simple Valentine's Day coloring pages, use a 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Creation, Design, Draw, Drawing, Girls
+- Tags: Color, Coloring, Creation, Design, Draw, drawing, Girls

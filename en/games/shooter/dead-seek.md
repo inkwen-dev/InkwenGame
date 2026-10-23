@@ -21,4 +21,4 @@ Dive into an explosive action-packed arcade where every shot is a fight for surv
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Defense, demolition, endless, Enemies, Game, Gun, Horror, Hunting, Shooter, Undead, weapons, Zombie
+- Tags: 3D, Action, Defense, demolition, endless, Enemies, Game, Gun, Horror, hunting, Shooter, Undead, weapons, Zombie

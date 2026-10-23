@@ -15,6 +15,6 @@ Hone your sharpshooting skills in One Miss and You Lose, a thrilling arcade shoo
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Skill

@@ -21,4 +21,4 @@ Click or touch the screen to stop the arrow. Set the power by releasing the mous
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boat, HTML5, Mobile, Puzzle, Racing, Sports
+- Tags: Arcade, Boat, HTML5, Mobile, Puzzle, Racing, sports

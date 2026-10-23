@@ -36,4 +36,4 @@ Corners open for seeds earned by solved pictures. The "With mistake checking" mo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Brain, Drawing, Logic, Puzzle, Skill
+- Tags: Arcade, Brain, drawing, Logic, Puzzle, Skill

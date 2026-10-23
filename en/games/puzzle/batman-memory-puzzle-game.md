@@ -21,4 +21,4 @@ If you are a fan of the puzzle genre as well as batman, then you cannot ignore t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Batman, Memory, Puzzle
+- Tags: Batman, memory, Puzzle

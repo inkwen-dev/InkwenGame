@@ -21,4 +21,4 @@ Check out this Physics: Electro-magnetism quiz from Immanitas. This is good for 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Physics, Science
+- Tags: educational, Physics, Science

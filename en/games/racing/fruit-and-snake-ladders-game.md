@@ -21,4 +21,4 @@ Snakes & Apples is a free thinking game for everyone, where the goal is to guide
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Action, Adventure, Boy, Fruit, Girl, HTML5, Kid, Racing, Snake, Timing, WebGL
+- Tags: .io Games, Action, Adventure, Boy, Fruit, Girl, HTML5, Kid, Racing, snake, Timing, WebGL

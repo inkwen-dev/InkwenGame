@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 动作, 街机, 汽车, cars, 超休闲
+- 标签: .io 游戏, 动作, 街机, 汽车, 汽车, 超休闲

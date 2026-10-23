@@ -21,4 +21,4 @@ Hero Inc 2 is a unique casual game of hero creation. The Earth is suffering from
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Avoid, Boys, Fighting, Kids, Killing, Skill
+- Tags: Arcade, Avoid, Boys, fighting, Kids, Killing, Skill

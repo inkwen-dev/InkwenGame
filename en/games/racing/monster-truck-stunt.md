@@ -21,4 +21,4 @@ Monster truck stunts? No problem. Choose your truck, race, collect all the coins
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Stunts, Truck, Unity3D, WebGL
+- Tags: 3D Games, Stunts, truck, Unity3D, WebGL

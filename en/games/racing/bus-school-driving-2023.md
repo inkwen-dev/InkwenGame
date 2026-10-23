@@ -19,6 +19,6 @@ Enjoy yourself while driving in 3D, as even the current difficulty level is far 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, bus, Driving, HTML5, Mobile, Parking, Unity3D, WebGL
+- Tags: Android, bus, Driving, HTML5, Mobile, parking, Unity3D, WebGL

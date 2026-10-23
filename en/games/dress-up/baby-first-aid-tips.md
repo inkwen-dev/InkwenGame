@@ -21,4 +21,4 @@ Baby First Aid Tips teaches kids 5 home aids. Rinse with cold water to relieve s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cute, Doctor, Dress Up, Educational, Girl, Girls, Kids, Makeover, Simulation, Surgery
+- Tags: Baby, Cute, Doctor, Dress Up, educational, Girl, Girls, Kids, Makeover, Simulation, surgery

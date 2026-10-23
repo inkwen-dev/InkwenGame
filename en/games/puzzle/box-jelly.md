@@ -19,6 +19,6 @@ The main goal of the game is to guide all cute little jellyfish to the rescue ar
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Boys, Brain, Physics, Puzzle

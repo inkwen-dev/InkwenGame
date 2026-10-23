@@ -33,4 +33,4 @@ As you play, you will:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, pve, RPG, survival, video
+- Tags: Action, pve, rpg, survival, video

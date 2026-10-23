@@ -19,6 +19,6 @@ Rediscover comfort and joy with Onet Puzzle, your go-to tile match &amp; connect
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Best Games, Brain, Casual, free games for your site, free html5 games for your website, Match 3, Matching, Mind, Puzzle, Relaxation

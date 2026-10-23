@@ -21,4 +21,4 @@ Welcome to Batman Gotham Knight Skating game, one of our casual games about Batm
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Batman, Skateboard, Skating, Sport, Sports
+- Tags: Batman, skateboard, Skating, Sport, sports

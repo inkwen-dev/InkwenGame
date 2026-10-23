@@ -19,6 +19,6 @@ Super Cop Training is a police training shooting game to hit the banditos to pas
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Clicker, Game, Games, Police, Shooter, Shooting
+- Tags: 1 Player, 2D, Action, Clicker, Game, Games, police, Shooter, Shooting

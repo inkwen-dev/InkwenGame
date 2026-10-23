@@ -19,6 +19,6 @@ Try on this new cleaning game that we've just launched. You will have an amazing
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Cleaning, Educational, Girl, HTML5, Kid, Mobile, Room
+- Tags: 1 Player, Arcade, Cleaning, educational, Girl, HTML5, Kid, Mobile, Room

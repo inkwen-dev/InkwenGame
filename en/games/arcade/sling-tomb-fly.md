@@ -21,4 +21,4 @@ Help the little pets to sling and bounce to the top but watch out the obstacles 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Fun, Funny, Game, Games, HTML, HTML5, jump, Jumping, Kid, Kids, tomb
+- Tags: Action, Fun, Funny, Game, Games, HTML, HTML5, jump, jumping, Kid, Kids, tomb

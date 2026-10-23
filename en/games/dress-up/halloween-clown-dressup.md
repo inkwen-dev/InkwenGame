@@ -19,6 +19,6 @@ Halloween Clown Dressup is a shopping and makeover game where you first buy item
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Fashion, Halloween, HTML5, Makeover, Mobile, Puzzle

@@ -19,6 +19,6 @@ Kids get ready to enjoy the madness of real food in the most amazing street food
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Food, Hot, HTML5

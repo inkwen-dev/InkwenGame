@@ -21,4 +21,4 @@ Sniper Elite is a fun shooting game where you have to snipe all your enemies!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mobile, Sniper
+- Tags: Mobile, sniper

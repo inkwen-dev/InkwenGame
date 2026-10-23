@@ -21,4 +21,4 @@ Monster Math (addition multiplication subtraction division) is a competitive mul
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adult, Best, Boy, Boys, Brain, Cool, Crazy, Educational, endless, Fun, Funny, Game, Games, Girl, Girls, Kid, Kids, Math, Puzzle, Skill, Skills
+- Tags: Action, Adult, Best, Boy, Boys, Brain, cool, crazy, educational, endless, Fun, Funny, Game, Games, Girl, Girls, Kid, Kids, math, Puzzle, Skill, Skills

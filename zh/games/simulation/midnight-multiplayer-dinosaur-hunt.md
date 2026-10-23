@@ -21,4 +21,4 @@ WASD - 移动角色 鼠标 - 射击 瞄准 切换武器 Tab - 菜单 空格键 -
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 最佳, 疯狂, 恐龙, 恐龙, 游戏, 多人, 模拟游戏, Unity3D, WebGL
+- 标签: 3D游戏, 最佳, 疯狂, 恐龙, Dino, 网页游戏, 多人, 模拟, Unity3D, WebGL

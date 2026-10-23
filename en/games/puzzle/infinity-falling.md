@@ -21,4 +21,4 @@ Catch all the falling blocks and achieve the highest score. www.durmangames.com
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Block
+- Tags: 1 Player, 2D, block

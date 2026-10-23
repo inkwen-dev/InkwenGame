@@ -21,4 +21,4 @@ Somersault Ninja: Samurai Ninja Jump is a jump ninja battle survival game. In th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Android, Casual, Classic, Crazy, Escape, Fight, Fighting, Hypercasual, Knight, Ninja
+- Tags: Action, Android, Casual, Classic, crazy, Escape, Fight, fighting, Hypercasual, knight, ninja

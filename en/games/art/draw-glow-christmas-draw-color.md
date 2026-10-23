@@ -21,4 +21,4 @@ Drawing the beautiful Christmas with glitter brushes. Don’t need any experienc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Boy, Boys, Christmas, Color, Coloring, Draw, Drawing, Fun, Girl, Girls, Kid, Kids
+- Tags: Baby, Boy, Boys, Christmas, Color, Coloring, Draw, drawing, Fun, Girl, Girls, Kid, Kids

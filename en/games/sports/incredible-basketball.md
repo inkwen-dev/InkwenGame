@@ -15,6 +15,6 @@ Incredible Basketball delivers an innovative twist on scoring baskets with a cre
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Basketball
+- Tags: basketball

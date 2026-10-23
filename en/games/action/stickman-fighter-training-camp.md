@@ -21,4 +21,4 @@ You like fighting games and stickman games? This game is made for you! Train to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Fight, Fighting, Stickman
+- Tags: Arcade, Fight, fighting, stickman

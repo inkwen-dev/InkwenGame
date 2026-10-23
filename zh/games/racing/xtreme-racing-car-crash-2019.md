@@ -21,4 +21,4 @@ WASD - 驾驶你的汽车 C - 切换摄像机 鼠标 - 四周查看 Tab - 显示
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车, 竞速
+- 标签: 汽车, 比赛

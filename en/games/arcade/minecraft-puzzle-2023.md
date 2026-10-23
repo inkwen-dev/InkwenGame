@@ -19,6 +19,6 @@ Minecraft Puzzle Time is fun puzzle game suitable for all ages. The aim of the g
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Family, HTML5, Puzzle

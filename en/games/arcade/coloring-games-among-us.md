@@ -21,4 +21,4 @@ Among Us Cartoon Coloring is a free online coloring and kids game! In this game 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Color, Coloring, Draw, Drawing, Puzzle
+- Tags: Arcade, Color, Coloring, Draw, drawing, Puzzle

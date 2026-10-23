@@ -21,4 +21,4 @@ Join thousands of players from around the world on this great adventure. build y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Fighting
+- Tags: Action, Adventure, fighting

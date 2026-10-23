@@ -21,4 +21,4 @@ Classic Car Parking 3D is full of fun and enjoyment. This car parking games will
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Car, Cars, Driving, Parking, Racing
+- Tags: 3D, 3D Games, Car, Cars, Driving, parking, Racing

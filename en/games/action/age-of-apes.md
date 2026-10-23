@@ -21,4 +21,4 @@ Enter the Age of the Apes, a monkey war of adventure, evolution and passion. Thi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fight, Monkey
+- Tags: battle, Fight, Monkey

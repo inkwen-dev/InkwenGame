@@ -23,4 +23,4 @@ Dice Puzzle is a puzzle game where your task is to strategically place numbered 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: blocks, Brain, intelligence, Logic, Match 3, Math, merge, Mobile, Puzzle
+- Tags: blocks, Brain, intelligence, Logic, Match 3, math, merge, Mobile, Puzzle

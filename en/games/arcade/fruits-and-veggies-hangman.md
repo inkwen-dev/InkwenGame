@@ -21,4 +21,4 @@ Fruits and vegetables are essential parts of a healthy diet, and playing a Fruit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Fun, Guessing, Hypercasual, Word
+- Tags: Arcade, Casual, Fun, Guessing, Hypercasual, word

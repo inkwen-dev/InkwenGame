@@ -21,4 +21,4 @@ Crazy Maze is a simple but a very challenging game. Your only task is to guide t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Android, Arcade, Boys, Crazy, Fun, HTML5, Kids, Maze, Skill
+- Tags: Adult, Android, Arcade, Boys, crazy, Fun, HTML5, Kids, Maze, Skill

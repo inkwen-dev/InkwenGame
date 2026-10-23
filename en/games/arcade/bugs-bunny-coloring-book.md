@@ -21,4 +21,4 @@ Are you a big fan of Warner Bros cartoons and you never want to miss any movies?
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Color, Coloring, Draw, Drawing, Game, Online, Puzzle
+- Tags: 2D, Arcade, Color, Coloring, Draw, drawing, Game, Online, Puzzle

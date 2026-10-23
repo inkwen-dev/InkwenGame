@@ -19,6 +19,6 @@ Welcome to Real Car Parking Master : Multiplayer Car Game! Do you like playing c
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Car, Cars, Parking, Race, Racing, Simulation, Simulator, Sport, Sports, Stunts, Supercars, Unity3D
+- Tags: 3D, 3D Games, Adventure, Car, Cars, parking, Race, Racing, Simulation, Simulator, Sport, sports, Stunts, Supercars, Unity3D

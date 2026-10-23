@@ -32,4 +32,4 @@ One button. One drill. One chance to stop what's coming.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Snake
+- Tags: snake

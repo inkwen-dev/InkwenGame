@@ -41,4 +41,4 @@ Yes. The game supports full screen mode for a more immersive experience.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, idle, RPG
+- Tags: Clicker, idle, rpg

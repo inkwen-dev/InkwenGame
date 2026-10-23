@@ -19,6 +19,6 @@ Army Bus Driving 2024 immerses players in the challenging world of military tran
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Army, bus, Driving, Mentolatux, Unity3D, WebGL

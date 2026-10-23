@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Animal, Baby, Cat, Classic, Dora, jump, Jumping, Kid, Kids, Kill, Killing, Mario, Puzzle, run, running, Skill, Skills, Super, Superhero
+- Tags: Action, Adventure, Animal, Baby, Cat, Classic, Dora, jump, jumping, Kid, Kids, Kill, Killing, mario, Puzzle, run, running, Skill, Skills, Super, Superhero

@@ -17,4 +17,4 @@ Dive into a cheerful journey with Name That Fruit, where vibrant fruit images me
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Educational
+- Tags: educational

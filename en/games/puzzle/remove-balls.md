@@ -21,4 +21,4 @@ Try to remove all bubbles. Touch them and they will burst. Get higher score for 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Bubble, Match-3, Match3, Matching
+- Tags: Ball, Bubble, Match 3, Match3, Matching

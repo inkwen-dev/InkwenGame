@@ -19,6 +19,6 @@ Find the right color of being and help him to find his purpose in life. Little c
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Best Games, Casual, Christmas, Classic, Clicker, Color, Fantasy, Jumping, Magic, Maze, Puzzle, Snow
+- Tags: 1 Player, 2D, Best Games, Casual, Christmas, Classic, Clicker, Color, Fantasy, jumping, Magic, Maze, Puzzle, Snow

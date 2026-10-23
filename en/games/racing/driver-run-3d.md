@@ -19,6 +19,6 @@ Begin a wonderful car arcade running game. In the Driver Run 3D, not only do you
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Fun, Racing, running

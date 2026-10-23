@@ -21,4 +21,4 @@ Welcome to Goal Arena 3D Online Soccer Game! Swipe left and right to control you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Football, Hypercasual, Soccer, Sport, Sports, Unity3D
+- Tags: 3D, 3D Games, Football, Hypercasual, Soccer, Sport, sports, Unity3D

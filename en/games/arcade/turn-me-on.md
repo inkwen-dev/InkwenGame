@@ -19,6 +19,6 @@ It is a weird adventure of a button. Activate the charge of the little red ball 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Adventure, Arcade, Ball, Boys, Click, Girl, Physics, Puzzle, Robot, Turn

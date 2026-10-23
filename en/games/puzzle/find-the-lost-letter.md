@@ -21,4 +21,4 @@ Welcome to our delightful letter matching game! Its simple and fun for everyone.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Family, HTML, HTML5, Kid, Kids, Letters, Word
+- Tags: Family, HTML, HTML5, Kid, Kids, Letters, word

@@ -21,4 +21,4 @@ The long awaited sequel to Killer.io. Now you must take out as many victims as p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Crazy, Killing, Multiplayer, Simulation
+- Tags: 3D, Action, crazy, Killing, Multiplayer, Simulation

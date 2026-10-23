@@ -35,4 +35,4 @@ Then the twist. Beat the Underking, take his crown, and the whole mountain start
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Adventure, Fighting, RPG
+- Tags: 3D, Action, Adventure, fighting, rpg

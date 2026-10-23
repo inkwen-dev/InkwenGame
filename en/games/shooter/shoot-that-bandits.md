@@ -19,6 +19,6 @@ Shoot that bandits and protect the old town of Tomstone. You are a really cowboy
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Arcade, Shoot, Shooter, Shooting

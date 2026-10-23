@@ -19,6 +19,6 @@ Welcome to the world of animal hunting game. Step into the wild and experience t
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Fighting, jungle, Kill, Shooter, Shooting
+- Tags: Action, Adventure, fighting, jungle, Kill, Shooter, Shooting

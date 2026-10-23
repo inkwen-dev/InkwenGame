@@ -21,4 +21,4 @@ Welcome to Island War: The continent in the center of the world was shattered by
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Fight, Strategy, Street Fighting
+- Tags: 3D, Action, Fight, strategy, Street Fighting

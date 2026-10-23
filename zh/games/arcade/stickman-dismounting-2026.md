@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, Dismounting, Mentolatux, 软体娃娃, Stickman, unity, WebGL
+- 标签: 单人, Dismounting, Mentolatux, 布娃娃, 木偶人, unity, WebGL

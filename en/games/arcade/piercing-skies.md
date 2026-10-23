@@ -19,6 +19,6 @@ Dodge, jump, and survive under a sky of danger in Piercing Skies! Arrows rain do
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: arrow, Best Games, blocky, Hypercasual

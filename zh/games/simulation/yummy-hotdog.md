@@ -25,4 +25,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 烹饪, 食物
+- 标签: 厨艺, 食物

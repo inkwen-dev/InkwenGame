@@ -19,6 +19,6 @@ Find the matching tiles, connect the pairs with up to three lines. Connect the i
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Color, Coloring, HTML5, Jewel, Jigsaw, Match 3, Matching

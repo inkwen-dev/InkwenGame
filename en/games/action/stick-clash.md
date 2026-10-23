@@ -19,6 +19,6 @@ Defeat enemies to collect teammates. Attack the monster with a crowd clash. Stic
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Battlegrounds, Stickman, War
+- Tags: battle, Battlegrounds, stickman, War

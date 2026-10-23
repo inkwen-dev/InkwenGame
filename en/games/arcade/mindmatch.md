@@ -21,4 +21,4 @@ MindMatch is an immersive and stylish memory-matching game designed to challenge
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Arcade, Brain, Logical, Memory, Pokemon, Puzzle, Skills, unblocked, unblocked games, unblockedgames66, unblockedgames76
+- Tags: 1 Player, 2026 games, Arcade, Brain, Logical, memory, Pokemon, Puzzle, Skills, unblocked, unblocked games, unblockedgames66, unblockedgames76

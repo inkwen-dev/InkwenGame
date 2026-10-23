@@ -19,6 +19,6 @@ Enchanted Battlements invites players into a vivid 2D world of fantasy tower def
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Fantasy, HTML5, iPad, iPhone, Mentolatux, Mobile, Tower Defense

@@ -21,4 +21,4 @@ Have you ever wanted in rush to go to the toilet but encountered a maze or any t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 2D, Arcade, Boys, Brain, Casual, Drawing, Girl, Unity3D
+- Tags: .io, 2D, Arcade, Boys, Brain, Casual, drawing, Girl, Unity3D

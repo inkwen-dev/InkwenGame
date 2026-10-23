@@ -30,4 +30,4 @@ four on-screen buttons appear on your first touch — throttle and brake top rig
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Bicycle, Bike, dirt-bike, motorbike, Racing, Skill
+- Tags: Arcade, Bicycle, bike, dirt-bike, motorbike, Racing, Skill

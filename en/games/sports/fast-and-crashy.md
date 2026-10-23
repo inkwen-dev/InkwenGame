@@ -19,6 +19,6 @@ Fast And Crashy is a simple yet exciting game suitable for everyone. Swipe left 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D, 3D Games, 8 Ball Pool, Action, Adult, Adventure, Air, Aircraft, Alien, Android, Arcade, Arena, Baby Hazel, Baseball, Ben 10, Block, Board
+- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D, 3D Games, 8 Ball Pool, Action, Adult, Adventure, Air, Aircraft, Alien, Android, Arcade, Arena, Baby Hazel, baseball, Ben 10, block, Board

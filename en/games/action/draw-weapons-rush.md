@@ -21,4 +21,4 @@ Draw Weapons Rush is an exciting arcade game. If you want to arrive at the end, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Avoid, Draw, Drawing, Fun, H5, Hot, HTML5, Hypercasual, Kids, Kill, Obstacle, Platform, Samurai, weapons
+- Tags: 3D, Arcade, Avoid, Draw, drawing, Fun, H5, Hot, HTML5, Hypercasual, Kids, Kill, Obstacle, Platform, Samurai, weapons

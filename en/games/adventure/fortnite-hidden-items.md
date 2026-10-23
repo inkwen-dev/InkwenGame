@@ -19,6 +19,6 @@ Fortnite Hidden Items is a free online skill and hidden object game. Find out th
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Boys, Casual, Fun, Hidden, HTML5, Kids, Mobile, Puzzle, Skill

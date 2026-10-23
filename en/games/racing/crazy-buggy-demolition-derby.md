@@ -19,6 +19,6 @@ Play the traditional Crazy Buggy Demolition Derby events in an arena. All driver
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Best, Car, Cars, Crazy, Driving, Game, Games, Racing, Supercars, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Best, Car, Cars, crazy, Driving, Game, Games, Racing, Supercars, Unity3D

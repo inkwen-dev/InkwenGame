@@ -21,4 +21,4 @@ Salta, esquiva y completa el laberinto de hélices. Evita las hélices de color 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 3D Games, 8 Ball Pool, Arcade, Balance, Ball, Ballon, Baseball, Basketball, Game, Games
+- Tags: 2 Player Games, 3D Games, 8 Ball Pool, Arcade, Balance, Ball, Ballon, baseball, basketball, Game, Games

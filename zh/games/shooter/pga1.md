@@ -21,4 +21,4 @@ Pixel Gun Apocalypse 1 是一款紧张刺激的第一人称射击游戏，将方
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Mentolatux, 多人游戏, 像素, 射击, 射击, unity, WebGL
+- 标签: Mentolatux, 多人, 像素, 射击类, 射击, unity, WebGL

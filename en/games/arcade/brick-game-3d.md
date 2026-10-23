@@ -19,6 +19,6 @@ Throw the ball, destroy the blocks! Will you be able to finish this game consist
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Ball, Best, Block, Bricks, Classic, Retro
+- Tags: 3D, 3D Games, Ball, Best, block, Bricks, Classic, retro

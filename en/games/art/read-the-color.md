@@ -19,6 +19,6 @@ Read the color inside the circle and tap the button with the corresponding color
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Color, Coloring, Kids, Puzzle

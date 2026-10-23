@@ -21,4 +21,4 @@ Power Ranger's enemy Heckly is defying the Red Ranger. They start fighting with 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cartoon, Fight, Fighting, Game, Games, HTML5, Sports
+- Tags: Boys, Cartoon, Fight, fighting, Game, Games, HTML5, sports

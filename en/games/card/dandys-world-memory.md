@@ -21,4 +21,4 @@ Test your recall with the colorful crew from Dandy&rsquo;s World! This memory ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casual, Hypercasual, Memory, Puzzle
+- Tags: card, Casual, Hypercasual, memory, Puzzle

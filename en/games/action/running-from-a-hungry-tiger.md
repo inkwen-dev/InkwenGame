@@ -19,6 +19,6 @@ A dangerous predator is on the prowl, and you are the target! In this thrilling 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Animal, Arcade, Avoid, free html5 games for your website, HTML5, Hypercasual, jungle, Obstacle, running, survival

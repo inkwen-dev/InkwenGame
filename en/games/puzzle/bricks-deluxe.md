@@ -19,6 +19,6 @@ In this interesting puzzle game, your job is to match three or more bricks to el
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Bricks, HTML, HTML5, Match 3, Match3, Matching, Online, Puzzle

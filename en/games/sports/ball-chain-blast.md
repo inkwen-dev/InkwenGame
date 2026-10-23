@@ -19,6 +19,6 @@ Ball Chain Blast is the sweetest sports puzzle game ever! Draw chains connecting
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Ball, Basketball, Casual, Football, Fun, Funny, Hypercasual, Puzzle, puzzleblock, Sport, Sports
+- Tags: 1 Player, 2026 games, 2D, Ball, basketball, Casual, Football, Fun, Funny, Hypercasual, Puzzle, puzzleblock, Sport, sports

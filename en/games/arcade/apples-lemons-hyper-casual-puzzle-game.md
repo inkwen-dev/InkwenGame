@@ -21,4 +21,4 @@ Apples & Lemons is a hyper casual puzzle game that is set in the fictional town 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Casual, Crazy, endless, Hypercasual, Puzzle
+- Tags: Action, Adventure, Arcade, Casual, crazy, endless, Hypercasual, Puzzle

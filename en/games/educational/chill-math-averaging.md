@@ -21,4 +21,4 @@ In this game, a winter image is hidden beneath averaging expression tiles. Playe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kids, Logical, Math, Quiz, School
+- Tags: educational, Kids, Logical, math, Quiz, School

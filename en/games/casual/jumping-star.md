@@ -21,4 +21,4 @@ Jumping Star is an addictive casual jumping game. Its time to stack your own zom
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Game, html5 games, Jumping, Relaxation, Robot
+- Tags: Fun, Game, html5 games, jumping, Relaxation, Robot

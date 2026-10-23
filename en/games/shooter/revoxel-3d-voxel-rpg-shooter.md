@@ -78,4 +78,4 @@ A: You can earn achievements for daily logins."
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Adventure, archery, Boys, Crafting, RPG, Shooting, survival
+- Tags: 3D, Action, Adventure, archery, Boys, Crafting, rpg, Shooting, survival

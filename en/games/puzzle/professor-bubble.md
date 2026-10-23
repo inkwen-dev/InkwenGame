@@ -19,6 +19,6 @@ Professor Bubble is a simple match Shooter game, viewfinder and shoot in 3 or mo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Bubble, Bubble Shooter, Games, HTML5, Shooter

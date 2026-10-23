@@ -19,6 +19,6 @@ Collect all the spooky blocks by clicking or touching them in groups. If you col
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Clicker, Halloween, HTML5, Mobile, Puzzle
+- Tags: block, Clicker, Halloween, HTML5, Mobile, Puzzle

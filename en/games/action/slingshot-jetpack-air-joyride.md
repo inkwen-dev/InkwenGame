@@ -19,6 +19,6 @@ Slingshot Jetpack has proven to be one of the most interesting new arcade games 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Air, Aircraft, Boy, Boys, fly, Fun, H5, HTML5, Kid, Kids

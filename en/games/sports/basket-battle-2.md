@@ -15,6 +15,6 @@ Unleash your competitive spirit in Basket Battle, a thrilling twist on classic b
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Basketball
+- Tags: basketball

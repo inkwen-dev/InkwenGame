@@ -21,4 +21,4 @@ New Sayain Battle and Super Dragon is a 2D action-fighting game and running game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Android, Battle, Best, Cartoon, Dragon, Dragon Ball Z, Fight, Fighting, Street Fighting, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Action, Android, battle, Best, Cartoon, Dragon, Dragon Ball Z, Fight, fighting, Street Fighting, Unity3D

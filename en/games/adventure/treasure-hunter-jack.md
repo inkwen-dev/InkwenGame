@@ -19,6 +19,6 @@ Have you met Jack before? Jack loves collecting treasures! Gold and diamonds are
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Bejeweled, Collecting, Collection, Fun, Funny, HTML, HTML5, New, Skill

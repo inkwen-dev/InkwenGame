@@ -19,6 +19,6 @@ Hold the basketball in the air and hit the ring! Beat the record and win. Be car
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Ball, Basketball, Click, Clicker, Mobile
+- Tags: 1 Player, 2D, Ball, basketball, Click, Clicker, Mobile

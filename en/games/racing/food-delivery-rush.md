@@ -19,6 +19,6 @@ Food Delivery Rush is an exciting food delivery game, you can drive your car and
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Car, Fun, Kid, Kids, Race, Racing

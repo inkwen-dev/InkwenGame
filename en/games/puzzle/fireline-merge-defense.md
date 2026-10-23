@@ -19,6 +19,6 @@ Unlock a variety of guns in your arsenal. Combine to upgrade your cannon and tak
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Bounce, Difference, HTML5, Online

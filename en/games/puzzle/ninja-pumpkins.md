@@ -19,6 +19,6 @@ Ninja Pumpkin is interesting platform game! Use the up arrow key of keyboard or 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Jumping, Kids, Mobile, Puzzle, Skill
+- Tags: Fun, HTML5, jumping, Kids, Mobile, Puzzle, Skill

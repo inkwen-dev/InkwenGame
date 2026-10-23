@@ -21,4 +21,4 @@ Mind Games 是一款大型游戏，您可以在其中找到适合两人、三人
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人, 2D, 动作, 大脑, 休闲, 经典, 思维, 益智, puzzleblock, WebGL
+- 标签: 双人, 2D, 动作, 大脑, 休闲, 经典, 思维, 益智, 拼图块, WebGL

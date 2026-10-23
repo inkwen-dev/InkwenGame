@@ -19,6 +19,6 @@ Play Desert Skeet Shoot and aim for the flying clay in this epic 3D skeet shoote
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Boys, Brain, Fun, Girls, HTML5, Mobile, Shoot, Shooting, Skill, Skills

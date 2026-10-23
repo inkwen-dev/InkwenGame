@@ -21,4 +21,4 @@ Stickman 冒险：监狱越狱任务是传奇 Stickman 游戏系列之一，被�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 男孩, 逃脱, 格斗, HTML5, 监狱, 射击, 忍者, WebGL
+- 标签: 3D, 男孩们, 逃脱, 格斗, HTML5, 监狱, 射击, 木偶人, WebGL

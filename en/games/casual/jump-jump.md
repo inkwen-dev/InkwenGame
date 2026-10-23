@@ -19,6 +19,6 @@ Stay focused and avoid falling as far as you can.
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, jump, Jumping
+- Tags: 1 Player, 3D Games, jump, jumping

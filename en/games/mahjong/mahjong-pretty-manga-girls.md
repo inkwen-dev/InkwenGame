@@ -21,4 +21,4 @@ Play smartly to unlock the most pretty girls in the game MAHJONG PRETTY MANGA GI
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Arcade, Mahjong, Puzzle
+- Tags: Adult, Arcade, mahjong, Puzzle

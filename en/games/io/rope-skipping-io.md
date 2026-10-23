@@ -19,6 +19,6 @@ Do you like skipping rope? Rope skipping is a very good sport. It is novice-frie
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Boy, Fun, Kid, Skill

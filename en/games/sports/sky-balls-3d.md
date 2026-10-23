@@ -37,4 +37,4 @@ If you thought playing the game on your own was exhilarating, have a go at the 2
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Ball, Sports, two-player
+- Tags: 3D, Ball, sports, two-player

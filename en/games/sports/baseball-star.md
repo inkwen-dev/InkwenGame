@@ -21,4 +21,4 @@ Baseball Star is a fun casual sports game that lets you feel the excitement and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Baseball, Skills, Sport
+- Tags: Ball, baseball, Skills, Sport

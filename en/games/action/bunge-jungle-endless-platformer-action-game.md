@@ -19,6 +19,6 @@ Bored of all the games you played? Are you tired of tapping with your fingers? T
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Avoid, Casual, Classic, Crazy, endless, Platform
+- Tags: Action, Adventure, Arcade, Avoid, Casual, Classic, crazy, endless, Platform

@@ -21,4 +21,4 @@ Make your world more colorful with printable coloring pages from Video-Igrice.co
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cartoon, Coloring, Girls, HTML5, Kids, Mario, Mobile, School
+- Tags: Boys, Cartoon, Coloring, Girls, HTML5, Kids, mario, Mobile, School

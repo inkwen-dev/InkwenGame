@@ -21,4 +21,4 @@ This is a popular hand game recently, magic play, this game belongs to a duel ty
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Battle, Battlegrounds, Brain, Car, Design, Physics
+- Tags: Adventure, battle, Battlegrounds, Brain, Car, Design, Physics

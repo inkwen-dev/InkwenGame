@@ -21,4 +21,4 @@ Use mouse or touch pad to play this game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Board, Halloween, Mobile, Monster, Puzzle, Tetris
+- Tags: Arcade, Board, Halloween, Mobile, monster, Puzzle, tetris

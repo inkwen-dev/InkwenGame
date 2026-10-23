@@ -21,4 +21,4 @@ Discover the intriguing realm of Eco Block Puzzle, where strategy and environmen
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, blocks, Educational, Puzzle
+- Tags: animals, blocks, educational, Puzzle

@@ -19,6 +19,6 @@ Subway Super Hero Surfers Stack Friend is a crazy jumping game. Just Tap or clic
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D, 3D Games, 8 Ball Pool, Action, Adult, Adventure, Air, Aircraft, Alien, Android, Animal, Anime, Arcade, Arena, Arkanoid, Army, Avoid, Baby, Baby Hazel, Balance, Ball, Best, Card, Casual, Click, Game, Games, Hypercasual, Shoot, Submachine, subway, Subway Surfers, Sudoku, Summer, sumo, Super, Supercars, Superhero, surfers, Surgery, Unity3D, Zombie
+- Tags: .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D, 3D Games, 8 Ball Pool, Action, Adult, Adventure, Air, Aircraft, Alien, Android, Animal, Anime, Arcade, Arena, Arkanoid, Army, Avoid, Baby, Baby Hazel, Balance, Ball, Best, card, Casual, Click, Game, Games, Hypercasual, Shoot, Submachine, subway, Subway Surfers, Sudoku, Summer, sumo, Super, Supercars, Superhero, surfers, surgery, Unity3D, Zombie

@@ -19,6 +19,6 @@ Wednesday Fall is an arcade fall down game with beautiful graphics and one of th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Android, Arcade, HTML5, jump, Mobile, Skill, WebGL

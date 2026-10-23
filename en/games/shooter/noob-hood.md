@@ -19,6 +19,6 @@ Noob Hood is a free online pixel and shooting game for boys played on PuzzleGame
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Boy, Brain, Fun, HTML5, Kids, Online, Pixel, Puzzle, Shooting
+- Tags: 3D, Android, Boy, Brain, Fun, HTML5, Kids, Online, pixel, Puzzle, Shooting

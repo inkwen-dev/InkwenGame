@@ -19,6 +19,6 @@ Start With One Sugarcane Bush and Make Millions! Buy a factory, open a laborator
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Click, Clicker, Farm, Pixel, Strategy
+- Tags: 2D, Click, Clicker, Farm, pixel, strategy

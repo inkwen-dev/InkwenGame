@@ -21,4 +21,4 @@ Aim Target Shoot the Crazy Tricky Shot in the goal in this crazy hockey challeng
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: hockey, Shoot, Sports
+- Tags: hockey, Shoot, sports

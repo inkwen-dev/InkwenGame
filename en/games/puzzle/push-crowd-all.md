@@ -21,4 +21,4 @@ Enjoy this amazingly fun pushing game where you have to push these obstacles com
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adventure, Boxing, Boy, Boys, Bubble, Bubble Shooter, Candy, Fight, Fighting, Fun, Funny, Game, Games, Girl, Girls, Side Scrolling, Sim, Simulation, Simulator, Street Fighting
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adventure, Boxing, Boy, Boys, Bubble, Bubble Shooter, Candy, Fight, fighting, Fun, Funny, Game, Games, Girl, Girls, Side Scrolling, Sim, Simulation, Simulator, Street Fighting

@@ -21,4 +21,4 @@ Blocky Car Racer is a new racing game where you can drive with traffic in a colo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Android, Best, Block, Brain, Car, Cars, Mobile, Race, Relaxation, Road
+- Tags: Adventure, Android, Best, block, Brain, Car, Cars, Mobile, Race, Relaxation, Road

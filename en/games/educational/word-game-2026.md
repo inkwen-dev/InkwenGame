@@ -21,4 +21,4 @@ Welcome to Words Game 2026 &mdash; a relaxing and addictive crossword adventure!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, 2026 games, 2D, Best, Best Games, Educational, Girl, Letters, Word
+- Tags: 1 Player, 2025 games, 2026 games, 2D, Best, Best Games, educational, Girl, Letters, word

@@ -21,4 +21,4 @@ The kingdom guarded by the player is facing attacks from all directions. As a mi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Defense, Fight, Fighting, Tower Defense
+- Tags: Defense, Fight, fighting, Tower Defense

@@ -19,6 +19,6 @@ Chess with a computer: - Powerful engine - 18 difficulty levels from Beginner to
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 2D, Best Games, Board, Brain, Logic, Logical, PvP, Turn Based, two player games

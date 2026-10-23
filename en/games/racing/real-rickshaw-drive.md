@@ -21,4 +21,4 @@ Are you ready to drive auto rickshaw? rickshaw game came with something differen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, Bike, Crazy, HTML5, Racing
+- Tags: 2 Player Games, bike, crazy, HTML5, Racing

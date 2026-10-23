@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 建造, 建造者, 建筑, 超休闲, Mentolatux, Unity3D, WebGL
+- 标签: 动作, 建造, 建造者, 建造, 超休闲, Mentolatux, Unity3D, WebGL

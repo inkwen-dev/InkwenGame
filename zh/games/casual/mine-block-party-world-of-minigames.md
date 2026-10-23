@@ -79,4 +79,4 @@ W、A、S、D 或 ↑、←、↓、→ - 移动。
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: Minecraft, 小型的
+- 标签: 我的世界, 小型的

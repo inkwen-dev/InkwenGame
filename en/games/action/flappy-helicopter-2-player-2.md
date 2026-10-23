@@ -15,6 +15,6 @@ Outmaneuver your opponent in Flappy Helicopter 2 Player, where every altitude ch
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Action

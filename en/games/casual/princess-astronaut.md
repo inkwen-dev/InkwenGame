@@ -19,6 +19,6 @@ It's time for a space adventure with Princess Blondie. Check your attentiveness 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Hidden, HTML5

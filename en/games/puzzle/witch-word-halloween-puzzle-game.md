@@ -19,6 +19,6 @@ Now play the world’s most popular word game and test your vocabulary for FREE!
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Fun, Girl, Halloween, Puzzle, Spiderman, Witch, Wizard, Word
+- Tags: Boys, Fun, Girl, Halloween, Puzzle, Spiderman, Witch, Wizard, word

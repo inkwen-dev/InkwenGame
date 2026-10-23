@@ -19,6 +19,6 @@ It's time to practice your memory! Try to find twin princesses Ariel, Jasmine, E
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Girl, Girls

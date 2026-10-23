@@ -15,6 +15,6 @@ Dive into the colorful world of Kiko Adventure, a lively platformer where thrill
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: addictive

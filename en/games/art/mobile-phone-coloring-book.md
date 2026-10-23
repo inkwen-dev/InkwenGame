@@ -19,6 +19,6 @@ Mobile Phone Coloring Book is fun learning and coloring game for kids. This game
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Coloring, Fun, Games, Girls, HTML5, Hypercasual, Kids, Mobile, School

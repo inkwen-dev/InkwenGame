@@ -21,4 +21,4 @@ Imposter Among All of Us is a fun yet scary strategy game. You have to find the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Animal, Batman, Battle, Boy, Boys, Crazy, Girl, Girls, Grooming, Kill, Killing, Minecraft, Simpson, Simulator, Skill
+- Tags: 3D, Animal, Batman, battle, Boy, Boys, crazy, Girl, Girls, Grooming, Kill, Killing, Minecraft, Simpson, Simulator, Skill

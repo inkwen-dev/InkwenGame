@@ -21,4 +21,4 @@ WASD控制移动，空格键跳跃，点击攻击。在移动设备上请使用�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 格斗, 忍者, Stickman
+- 标签: 动作, 格斗, 忍者, 木偶人

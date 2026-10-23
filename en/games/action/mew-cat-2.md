@@ -21,4 +21,4 @@ Mew Cat 2 is a 2D platformer where you have to collect cat food bowls while avoi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Arcade, Cartoon, Cat, Collecting, Cute, jump, Jumping, Pixel, Platform, Retro
+- Tags: 1 Player, Adventure, Arcade, Cartoon, Cat, Collecting, Cute, jump, jumping, pixel, Platform, retro

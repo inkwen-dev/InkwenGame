@@ -21,4 +21,4 @@ City Parking is a fun 2D parking game with amazing graphics. There are many chal
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Car, Driving, Parking
+- Tags: Arcade, Car, Driving, parking

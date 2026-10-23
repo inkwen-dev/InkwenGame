@@ -21,4 +21,4 @@ Quickly figure out the right answer. The game will quickly appear a simple calcu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Math, Shoot
+- Tags: Arcade, math, Shoot

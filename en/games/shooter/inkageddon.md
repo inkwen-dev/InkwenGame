@@ -21,4 +21,4 @@ INKAGEDDON: the doodles have had enough. Fight through 5 notebook worlds -- Fres
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Monster, Shooting, survival
+- Tags: monster, Shooting, survival

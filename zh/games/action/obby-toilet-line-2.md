@@ -21,4 +21,4 @@ Obby Toilet Line 从一个可以想象到的最混乱的地方开始：一家加
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 人游戏, 双人, 2人游戏, 有趣, 搞笑
+- 标签: 单人, 双人, 双人游戏, 有趣, 搞笑

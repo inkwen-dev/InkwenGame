@@ -19,6 +19,6 @@ Christmas is coming. Play Jigsaw puzzle and enjoy the holidays. There are many b
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Board, Casual, Christmas, Holiday, HTML, Jigsaw, Mobile, Quiz

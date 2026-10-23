@@ -21,4 +21,4 @@ Baby Hazel fancy dress It's fancy dress competition at Baby Hazel's preschool. M
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2D, Android, Baby, Baby Hazel, Cartoon, Cartoon Network, Casual, Cleaning, Cook, Cooking, Cool, Dancing, Decorate, Decoration, Disney, Dress Up, Educational, Girl, Girls, HTML, HTML5, Kid, Kids, Makeover
+- Tags: .io Games, 1 Player, 2D, Android, Baby, Baby Hazel, Cartoon, Cartoon Network, Casual, Cleaning, Cook, Cooking, cool, Dancing, Decorate, Decoration, Disney, Dress Up, educational, Girl, Girls, HTML, HTML5, Kid, Kids, Makeover

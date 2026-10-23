@@ -19,6 +19,6 @@ Today is the weekend. Is there anything interesting? Baby Elsa wants to use her 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cartoon, Cleaning, Cute, Dress Up, Elsa, Frozen, Girl, Girls, Kids, Makeover, Princess, Simulation

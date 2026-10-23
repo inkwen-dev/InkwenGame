@@ -19,6 +19,6 @@ Our collection of shoe designer games has a new game today, called Shoe Designer
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Casual, Design, Fun, Funny, Girl, HTML5, WebGL

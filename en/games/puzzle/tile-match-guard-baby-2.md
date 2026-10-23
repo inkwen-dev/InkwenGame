@@ -21,4 +21,4 @@ Tile Match Guard Baby is a fun and relaxing puzzle game where you match colorful
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Baby, Cute, Match 3, Match3, Matching, Monster
+- Tags: 1 Player, Baby, Cute, Match 3, Match3, Matching, monster

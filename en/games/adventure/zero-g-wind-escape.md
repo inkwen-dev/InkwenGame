@@ -19,6 +19,6 @@ Along the way, you&rsquo;ll need to collect useful items like keys and briefcase
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Hypercasual, Physics, Puzzle, Space

@@ -19,6 +19,6 @@ Love always appears suddenly. Elsa met Jack in an accident. They have many topic
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Doctor, Dress Up, Elsa, Frozen, Girl, Girls, Kids, Love, Makeover, Simulation, Surgery
+- Tags: Cartoon, Doctor, Dress Up, Elsa, Frozen, Girl, Girls, Kids, Love, Makeover, Simulation, surgery

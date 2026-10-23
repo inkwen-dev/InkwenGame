@@ -21,4 +21,4 @@ Skateboard City is an acrobatic skateboard game for kids. Skate till you collect
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Skateboard, Skating
+- Tags: skateboard, Skating

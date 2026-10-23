@@ -21,4 +21,4 @@ You have to be a parking master to drive a bus among obstacles and reach the par
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, bus, Parking, Unity3D, WebGL
+- Tags: 3D Games, bus, parking, Unity3D, WebGL

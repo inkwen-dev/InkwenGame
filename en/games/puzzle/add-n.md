@@ -21,4 +21,4 @@ Wanna workout your brain? then tryout this challenging game you won't regret
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Math, Puzzle
+- Tags: Brain, math, Puzzle

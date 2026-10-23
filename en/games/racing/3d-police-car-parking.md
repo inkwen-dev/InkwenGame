@@ -21,4 +21,4 @@ Police Car Parking Game is a fun and challenging 3D parking simulator where you 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Car, carparking, Parking, Police
+- Tags: Action, Adventure, Car, carparking, parking, police

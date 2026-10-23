@@ -19,6 +19,6 @@ It's your turn to run the most fabulous handyman’s workshop. Customers want to
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Crazy, Fun, H5, House, HTML5, Kid, Kids
+- Tags: Boy, Boys, crazy, Fun, H5, House, HTML5, Kid, Kids

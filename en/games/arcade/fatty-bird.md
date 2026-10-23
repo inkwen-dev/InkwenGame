@@ -19,6 +19,6 @@ Everyone told him he was too round to fly. Too heavy. Too wobbly. Maybe try walk
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 2026 games, Arcade, Casual, free games for your site, free games for your website, free html5 games for your website, HTML, html games for your website, HTML5, html5 games, html5 games for your site, Hypercasual, Puzzle

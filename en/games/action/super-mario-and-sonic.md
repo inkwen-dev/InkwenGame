@@ -21,4 +21,4 @@ Join your friend Mario and Sonic in this fantastic adventure. Get the party star
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Hypercasual, Mario, Platform, running
+- Tags: Hypercasual, mario, Platform, running

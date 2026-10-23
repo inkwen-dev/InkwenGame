@@ -21,4 +21,4 @@ ShooterZ.io 是一款酷炫的游戏，你可以和朋友一起玩得非常开�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 3D, 3D游戏, 动作, 枪械, 多人游戏, 狙击, Unity3D, 武器, WebGL
+- 标签: .io, .io 游戏, 3D, 3D游戏, 动作, 枪械, 多人, 狙击手, Unity3D, 武器, WebGL

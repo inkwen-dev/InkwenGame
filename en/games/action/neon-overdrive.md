@@ -19,6 +19,6 @@ Neon Overdrive: Doom Chasers is a fast-paced cyberpunk parkour platformer where 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, dash, Jumping, Platform, running
+- Tags: Arcade, dash, jumping, Platform, running

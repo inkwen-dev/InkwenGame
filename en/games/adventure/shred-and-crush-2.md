@@ -21,4 +21,4 @@ Shred and Crush 2 continues the sword fighting against different mythical creatu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Kill, Killing, Knight, Monster, RPG, Sword, Vampire, weapons, WebGL
+- Tags: Adventure, Kill, Killing, knight, monster, rpg, sword, Vampire, weapons, WebGL

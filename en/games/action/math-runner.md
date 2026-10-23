@@ -21,4 +21,4 @@ Youre running on the endless math additions and you have to keep the sums at 0-1
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Educational, Math
+- Tags: 1 Player, educational, math

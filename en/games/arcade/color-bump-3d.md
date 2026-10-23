@@ -21,4 +21,4 @@ Your newest addiction comes in 3D! Very easy to play, too hard to master Do not 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Android, Arcade, Cool, Game, Games, HTML, HTML5, Kid, Kids, Obstacle, Play, Puzzle, Relaxation
+- Tags: 1 Player, 3D, 3D Games, Android, Arcade, cool, Game, Games, HTML, HTML5, Kid, Kids, Obstacle, Play, Puzzle, Relaxation

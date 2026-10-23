@@ -21,4 +21,4 @@ Skibidi Toilet 隐藏的厕纸是一款免费的在线搞笑且寻物游戏。�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 最佳, 休闲, 有趣, 搞笑, 隐藏, HTML5, 儿童, 移动, Skibidi, Skibidi马桶, 技巧
+- 标签: 最佳, 休闲, 有趣, 搞笑, 隐藏, HTML5, 儿童, 移动设备, Skibidi, skibidi-toilet, 技巧

@@ -21,4 +21,4 @@ Truefalse players are presented with a series of statements or scenarios, and th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, amazing, Best, endless, Memory
+- Tags: 1 Player, Adventure, amazing, Best, endless, memory

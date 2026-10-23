@@ -19,6 +19,6 @@ Swap adjacent gifts in order to make a horizontal or vertical row of 3 identical
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Girls, HTML5, Match 3, Match3, Matching, Mobile

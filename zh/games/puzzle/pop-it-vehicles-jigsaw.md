@@ -21,4 +21,4 @@ Pop It Vehicles Jigsaw 是一款免费的在线拼图游戏。你有三种模式
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车, 卡车, 乐趣, 女孩, HTML5, 拼图, 儿童, 移动, 益智
+- 标签: 汽车, 汽车, 有趣, 女孩, HTML5, 拼图, 儿童, 移动设备, 益智

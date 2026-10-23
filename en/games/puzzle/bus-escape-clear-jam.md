@@ -28,4 +28,4 @@ Game features:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: bus, Color, Escape, Parking, unblock-puzzles
+- Tags: bus, Color, Escape, parking, unblock-puzzles

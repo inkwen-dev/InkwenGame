@@ -19,6 +19,6 @@ Gem Legends is an exciting and addictive match-3 puzzle game where you match col
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ai Games, Arcade, Brain, Casual, Color, Fun, Logical, Relaxation

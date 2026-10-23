@@ -43,4 +43,4 @@ W、A、S 和 D 键 — 移动触手。
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, 动作, 怪物, 物理, 益智
+- 标签: 3D, 动作, monster, 物理, 益智

@@ -21,4 +21,4 @@ A classic avoid and collect game, where you are a flying cup of coffee. Collect 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Avoid, Block, Casual, Collecting, Crazy, HTML5, Hypercasual
+- Tags: 1 Player, 2D, Arcade, Avoid, block, Casual, Collecting, crazy, HTML5, Hypercasual

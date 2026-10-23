@@ -21,4 +21,4 @@ This game is really satisfying. The concept of this game is super simple, you mu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Color, Hypercasual, Math, Puzzle
+- Tags: Arcade, Brain, Color, Hypercasual, math, Puzzle

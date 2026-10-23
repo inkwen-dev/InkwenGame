@@ -21,4 +21,4 @@ Keyboard
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Adult, Adventure, Arcade, Ball, Batman, Block, Game, Games, Ladybug, Mario, Memory, Moto, Motorcycle, Prison, Sim, Simulation, Simulator, Space, Spiderman, Undead
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Adult, Adventure, Arcade, Ball, Batman, block, Game, Games, Ladybug, mario, memory, Moto, Motorcycle, Prison, Sim, Simulation, Simulator, Space, Spiderman, Undead

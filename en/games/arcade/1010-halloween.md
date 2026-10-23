@@ -21,4 +21,4 @@ Drop block groups on the board to make a row or column of 10.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Halloween, HTML5, Mobile, Puzzle, Tetris
+- Tags: Arcade, block, Halloween, HTML5, Mobile, Puzzle, tetris

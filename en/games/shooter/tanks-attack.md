@@ -21,4 +21,4 @@ Tank attack is 2D game where you are the one with your fellow tank against an ar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Classic, endless, Shoot, Tank
+- Tags: battle, Classic, endless, Shoot, Tank

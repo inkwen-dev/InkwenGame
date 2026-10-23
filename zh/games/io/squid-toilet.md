@@ -21,4 +21,4 @@ SQID SKIBIDI 是一款结合了鱿鱼游戏和 Skibidi 的混合游戏，非常�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, 3D, Android, HTML5, iPhone, 移动设备, 益智, Skibidi, Skibidi Toilet, 技巧
+- 标签: .io, 3D, 安卓, HTML5, iPhone, 移动设备, 益智, Skibidi, skibidi-toilet, 技巧

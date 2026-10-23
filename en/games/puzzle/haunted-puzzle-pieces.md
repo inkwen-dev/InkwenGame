@@ -19,6 +19,6 @@ Haunted Puzzle Pieces is a spooky jigsaw game with two challenging modes: 16 pie
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Halloween, html5 games, Jigsaw, Kids, Mobile, Puzzle

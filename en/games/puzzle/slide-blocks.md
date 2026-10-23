@@ -21,4 +21,4 @@ Slide Block Puzzle is casual puzzle game Drag the shape to slide and drop them i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, Bricks, Logical, Puzzle
+- Tags: 1 Player, block, Bricks, Logical, Puzzle

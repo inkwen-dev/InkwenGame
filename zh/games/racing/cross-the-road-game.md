@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 工艺, 制作, 竞速, 道路
+- 标签: 建造, 制作, 比赛, 道路

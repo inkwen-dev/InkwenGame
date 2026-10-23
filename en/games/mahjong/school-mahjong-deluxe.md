@@ -21,4 +21,4 @@ Simplified classic Mahjong game with SCHOOL ITEMS theme. You can eliminate pair 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Girls, HTML5, Mahjong, Matching, Mobile, School
+- Tags: educational, Girls, HTML5, mahjong, Matching, Mobile, School

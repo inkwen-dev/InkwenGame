@@ -15,6 +15,6 @@ Dive into the sparkling adventure of Jewel Legend Quest and conquer over 500 thr
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Jewel

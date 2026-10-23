@@ -21,4 +21,4 @@ FNF：红灯，绿灯是目前最热门的组合之一，你将能够玩到来�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 Player, 3D游戏, 动作, Android, 血液, 射击, 模拟器, Unity3D
+- 标签: 单人, 3D游戏, 动作, 安卓, 血液, 射击, 模拟器, Unity3D

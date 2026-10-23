@@ -19,6 +19,6 @@ Experience exciting times in Happy racing areas with the Super Car Challenge. A 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Best, Boy, Cars, drifting, Hot, Racing, Stunts

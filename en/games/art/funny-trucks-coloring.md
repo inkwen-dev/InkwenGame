@@ -21,4 +21,4 @@ Funny Trucks Coloring is coloring kids game with cute trucks. Here you can play 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Funny, HTML5, Kids, Puzzle, Truck
+- Tags: Color, Coloring, Funny, HTML5, Kids, Puzzle, truck

@@ -27,4 +27,4 @@ Unleash your creativity and power in Draw Action Freestyle Fight, a super fun dr
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Drawing, Fighting
+- Tags: Action, drawing, fighting

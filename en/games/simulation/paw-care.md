@@ -21,4 +21,4 @@ A new pet hospital has been opened and the business is booming every day. You ar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Android, Animal, Cat, Cute, Doctor, H5, HTML, HTML5, Hypercasual, Mobile, Simulation, Simulator, Surgery
+- Tags: 3D, 3D Games, Android, Animal, Cat, Cute, Doctor, H5, HTML, HTML5, Hypercasual, Mobile, Simulation, Simulator, surgery

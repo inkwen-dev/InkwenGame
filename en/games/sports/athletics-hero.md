@@ -21,4 +21,4 @@ Choose your hero and compete in the 100m, Javelin and Triple Jump. Tap the promp
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Retro, Sport, Sports
+- Tags: Arcade, retro, Sport, sports

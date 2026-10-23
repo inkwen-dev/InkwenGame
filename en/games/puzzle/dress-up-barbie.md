@@ -19,6 +19,6 @@ This is the most beautiful dress up games in 2018, you have your own fashion sal
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Arena, Arkanoid, Barbie, Boys, Bubble, Bubble Shooter, Cleaning, Collecting, Color, Crazy, Driving, Fun, Funny, Girl, Girls, Ladybug, Monkey, Monster, Motorcycle, Road
+- Tags: Adventure, Arcade, Arena, Arkanoid, Barbie, Boys, Bubble, Bubble Shooter, Cleaning, Collecting, Color, crazy, Driving, Fun, Funny, Girl, Girls, Ladybug, Monkey, monster, Motorcycle, Road

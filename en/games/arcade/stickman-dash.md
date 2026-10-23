@@ -19,6 +19,6 @@ Stickman Dash is an interesting assassin game. You are a brave ninja. This time 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Bounce, Boy, Boys, Game, Games, HTML, HTML5, Kid, Kids, Kill, Killing, Physics, Skill, Skills, Stickman, Sword
+- Tags: 1 Player, Arcade, Bounce, Boy, Boys, Game, Games, HTML, HTML5, Kid, Kids, Kill, Killing, Physics, Skill, Skills, stickman, sword

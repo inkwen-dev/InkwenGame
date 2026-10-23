@@ -19,6 +19,6 @@ Two brothers need to escape from prison help them! The brothers are very bored i
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2026 games, 2D, Arcade, Platform, twist

@@ -21,4 +21,4 @@ The crazy biker is waiting for your help to continue his show on the roof. Jump 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Bike, Motorcycle, Race, Racing, running, Stunts, WebGL
+- Tags: 3D, Action, bike, Motorcycle, Race, Racing, running, Stunts, WebGL

@@ -15,6 +15,6 @@ Navigate epic naval skirmishes where strategy reigns supreme. Outsmart a cunning
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: naval

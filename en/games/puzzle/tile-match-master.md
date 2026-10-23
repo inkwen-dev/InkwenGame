@@ -21,4 +21,4 @@ Introducing Triple Tile, the ultimate triple match puzzle game! Immerse yourself
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Block, Puzzle
+- Tags: 1 Player, 2D, block, Puzzle

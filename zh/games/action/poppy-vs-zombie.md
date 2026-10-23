@@ -21,4 +21,4 @@ Poppy 对僵尸是一款HTML5游戏。让Poppy存活下来，消灭僵尸以获�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 战斗, 格斗游戏, 游戏, HTML5, 击杀, 杀人, 丧尸
+- 标签: 格斗, 格斗, 网页游戏, HTML5, 杀戮, 击杀, 僵尸

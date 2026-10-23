@@ -21,4 +21,4 @@ Ben10 Tappy Plane is an online game that you can play in modern browsers for fre
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Ben 10, Collecting, fly, Hypercasual, jump, Jumping, Mouse, Physics, Point And Click
+- Tags: Avoid, Ben 10, Collecting, fly, Hypercasual, jump, jumping, Mouse, Physics, Point And Click

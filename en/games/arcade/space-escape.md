@@ -19,6 +19,6 @@ Welcome to Space Escape. Help the astronaut to reach the spaceship to escape. Th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Click, Hypercasual, Kids, Puzzle, Space, Spaceship

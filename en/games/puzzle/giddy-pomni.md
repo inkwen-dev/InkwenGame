@@ -21,4 +21,4 @@ It&rsquo;s Giddy Pomni the hottest game on the charts at the moment! Tap To Matc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, digital circus, Family, free html5 games for your website, HTML, html games for your website, HTML5, html5 games, html5 games for your site, Memory, Mobile, Pomni
+- Tags: Brain, digital circus, Family, free html5 games for your website, HTML, html games for your website, HTML5, html5 games, html5 games for your site, memory, Mobile, Pomni

@@ -19,6 +19,6 @@ In Santa Claus Meet Grimace Monster your goal is to help Santa Claus meet his ma
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Grimace, Grimace Shake, Holiday, Santa, Santa Claus

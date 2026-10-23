@@ -21,4 +21,4 @@ Welcome to the cruel world of dinosaurs! This is a gladiatorial arena! You can o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Collecting, Dinosaur, Fruit, IO, Simulation
+- Tags: .io, Animal, Collecting, Dinosaur, Fruit, Simulation

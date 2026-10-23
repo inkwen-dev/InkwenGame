@@ -15,6 +15,6 @@ Experience the dazzling revival of a brick-breaking classic in Neon Bricks! Navi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Retro
+- Tags: retro

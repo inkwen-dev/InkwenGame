@@ -21,4 +21,4 @@ Master the art of Kung Fu, pave your path to greatness and become the ultimate K
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arena, Fight, Fighting, Street Fighting
+- Tags: Animal, Arena, Fight, fighting, Street Fighting

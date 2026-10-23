@@ -21,4 +21,4 @@ Happy Glass: Draw to Fill is a creative and relaxing puzzle game where your goal
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing, Physics, Puzzle
+- Tags: drawing, Physics, Puzzle

@@ -19,6 +19,6 @@ Have you only learned about these mysterious martial arts from ancient Japanese 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kill, Killing, Ninja, Slither
+- Tags: Kill, Killing, ninja, Slither

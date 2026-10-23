@@ -15,6 +15,6 @@ Get ready to unsnarl chaotic city streets in Traffic Jaam. Tackle complex puzzle
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Driving

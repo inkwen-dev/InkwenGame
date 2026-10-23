@@ -19,6 +19,6 @@ Nail Runner is new concept of nail salon and it's addictive fun new nail art gam
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Girl, Girls, Hypercasual, Nail, Nails, run, running, Unity3D

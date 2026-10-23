@@ -21,4 +21,4 @@ Muddy Village Car Stunt is one of the most popular category of driving games. "B
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Arena, Best, Car, Cars, city, Crazy, drift, drifting, Driving, Game, Games, HTML5, Physics, Race, Racing, Stunts
+- Tags: 1 Player, 3D, Action, Arena, Best, Car, Cars, city, crazy, drift, drifting, Driving, Game, Games, HTML5, Physics, Race, Racing, Stunts

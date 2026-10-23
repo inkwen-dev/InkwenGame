@@ -19,6 +19,6 @@ Try to avoid the blocks! So just one click or tap to move them on left and right
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, HTML, HTML5, Hypercasual, Puzzle

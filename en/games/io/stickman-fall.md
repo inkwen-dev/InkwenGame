@@ -21,4 +21,4 @@ Hang between two pillars with plungers on a bar. When you press space, the plung
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 3D, 3D Games, Action, Casual, Fall Guys, Hypercasual, Stickman
+- Tags: .io, 3D, 3D Games, Action, Casual, Fall Guys, Hypercasual, stickman

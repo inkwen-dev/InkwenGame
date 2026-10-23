@@ -19,6 +19,6 @@ Now you are a master thief and you will steal some expensive pictures. First wal
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boy, Boys, Escape, Helicopter, HTML, HTML5, Hypercasual, Kids, Mobile, Police, Room, Stealth
+- Tags: 3D, 3D Games, Boy, Boys, Escape, helicopter, HTML, HTML5, Hypercasual, Kids, Mobile, police, Room, Stealth

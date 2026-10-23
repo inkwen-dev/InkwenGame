@@ -19,6 +19,6 @@ The naughty rat is so greedy who intends to rob our girl panda Miumiu’s lollip
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Color, Coloring, Educational, Fun, H5, HTML5, Kid, Kids
+- Tags: 2D, Color, Coloring, educational, Fun, H5, HTML5, Kid, Kids

@@ -15,6 +15,6 @@ Dive into the nostalgic world of Hide N Seek.io, where cunning and strategy tran
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: .io

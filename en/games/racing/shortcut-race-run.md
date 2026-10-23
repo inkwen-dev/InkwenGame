@@ -21,4 +21,4 @@ Race against opponents, and stack up all the floorboards you can pick up along t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Hypercasual, jump, Jumping, Race, Racing, run, running, Shoot
+- Tags: Casual, Hypercasual, jump, jumping, Race, Racing, run, running, Shoot

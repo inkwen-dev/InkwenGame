@@ -17,4 +17,4 @@ Embark on a vibrant challenge with Find the Colors! Sharpen your reflexes and ke
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Educational
+- Tags: educational

@@ -21,4 +21,4 @@ Machine Crash Fighters is a fast-paced action game where you build your ultimate
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arena, Battle, Battlegrounds, Best, Bomb, Car, Driving, Fighting, Gun, Machine, Robot, Shooting, Skill
+- Tags: Arena, battle, Battlegrounds, Best, Bomb, Car, Driving, fighting, Gun, Machine, Robot, Shooting, Skill

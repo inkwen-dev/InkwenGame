@@ -19,6 +19,6 @@ Ole Bunny plunges you into a crazy arena where a cute bunny finds himself becaus
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, amazing, Animal, Arcade, Arena, Best, Best Games, Cartoon, Cute, Hypercasual, Rabbit, run, touch, unity games

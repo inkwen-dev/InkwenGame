@@ -19,6 +19,6 @@ Baby Taylor broke her foot while playing in the park! She needs to go to the hos
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cute, Decorate, Design, Doctor, Educational, Girl, Girls, Kids, Nail, Simulation, Surgery
+- Tags: Baby, Cute, Decorate, Design, Doctor, educational, Girl, Girls, Kids, Nail, Simulation, surgery

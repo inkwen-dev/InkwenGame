@@ -21,4 +21,4 @@ Imposter Clash is a fun and engaging 2D puzzle game. Your mission is to choose y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Puzzle, Strategy
+- Tags: Puzzle, strategy

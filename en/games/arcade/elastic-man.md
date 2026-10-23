@@ -19,6 +19,6 @@ Elastic Man is a funny game where you get to pinch and drag a man with a very el
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boy, Fun, Girl, Physics

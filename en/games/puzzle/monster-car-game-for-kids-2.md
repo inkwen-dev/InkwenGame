@@ -21,4 +21,4 @@ If your kids love all things monster trucks, Then they will love this game! Mons
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 3D Games, Adventure, Baby, Ball, Ballon, Boy, Boys, Bubble, Bubble Shooter, Candy, drift, drifting, Driving, Fashion, Game, Games, Highscore, Simpson, Simulation, Simulator, Street Fighting, Taxi, Truck
+- Tags: 2 Player Games, 3D Games, Adventure, Baby, Ball, Ballon, Boy, Boys, Bubble, Bubble Shooter, Candy, drift, drifting, Driving, Fashion, Game, Games, Highscore, Simpson, Simulation, Simulator, Street Fighting, Taxi, truck

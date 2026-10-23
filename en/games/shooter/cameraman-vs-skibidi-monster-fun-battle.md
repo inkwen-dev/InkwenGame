@@ -21,4 +21,4 @@ Cameraman vs Skibidi Monster is an action-packed cameraman game where you engage
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Mouse, Physics, Strategy
+- Tags: battle, Mouse, Physics, strategy

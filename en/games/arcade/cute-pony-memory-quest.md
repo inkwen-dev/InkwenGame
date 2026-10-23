@@ -21,4 +21,4 @@ Cute Pony Memory Quest is a fun and colorful memory matching game for players of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Fun, Hypercasual, Kids, Memory, Mobile, Pony, Puzzle
+- Tags: Arcade, Brain, Fun, Hypercasual, Kids, memory, Mobile, Pony, Puzzle

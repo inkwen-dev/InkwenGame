@@ -19,6 +19,6 @@ Candy House Crash - Do you want to play with these awesome candies? This is a ga
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Funny, HTML5, Kids, Matching

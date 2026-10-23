@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 有趣, HTML5, 拼图, 卡丁车, kids, 移动设备, 益智, 竞速
+- 标签: 有趣, HTML5, 拼图, 卡丁车, 儿童, 移动设备, 益智, 比赛

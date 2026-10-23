@@ -19,6 +19,6 @@ Guess the Color is an educational game designed to teach kids all about colors. 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Color, Educational, Fun, Kids, Mobile, Skill
+- Tags: Arcade, Casual, Color, educational, Fun, Kids, Mobile, Skill

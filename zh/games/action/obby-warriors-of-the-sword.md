@@ -49,4 +49,4 @@ WASD - 移动
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 移动设备, 障碍, 受欢迎的, PVE, 角色扮演
+- 标签: 移动设备, 障碍, 受欢迎的, PVE, rpg

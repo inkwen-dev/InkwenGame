@@ -25,4 +25,4 @@ Dive into the world of Sprunki Incredibox Original, where music comes to life ri
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mobile, Music
+- Tags: Mobile, music

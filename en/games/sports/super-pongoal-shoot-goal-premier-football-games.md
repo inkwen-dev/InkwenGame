@@ -21,4 +21,4 @@ Mouse or Touch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, Adult, Adventure, Baseball, Basketball, Boy, Football, Girl, HTML, HTML5, Sport, WebGL
+- Tags: 1 Player, 2 Player, Adult, Adventure, baseball, basketball, Boy, Football, Girl, HTML, HTML5, Sport, WebGL

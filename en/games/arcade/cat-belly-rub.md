@@ -19,6 +19,6 @@ Cat Belly Rub is fun game suitable for all ages. Rub the belly of this cute litt
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Baby, Cat, Food, Fun, Girls, HTML5, Hypercasual, Kids, Mobile

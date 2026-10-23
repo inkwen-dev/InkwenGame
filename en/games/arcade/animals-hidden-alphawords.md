@@ -21,4 +21,4 @@ Animals Hidden AlphaWords is an educational hidden object game in which you need
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Educational, Hidden, HTML5, Kids, Mobile, Puzzle, School, Word
+- Tags: Animal, Arcade, educational, Hidden, HTML5, Kids, Mobile, Puzzle, School, word

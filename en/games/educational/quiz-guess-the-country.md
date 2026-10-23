@@ -21,4 +21,4 @@ The colorful geography quiz game that turns learning maps into a fun and addicti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Best, Casual, Educational, Fun, Guessing, Kids, Mobile, Quiz, School
+- Tags: 1 Player, Best, Casual, educational, Fun, Guessing, Kids, Mobile, Quiz, School

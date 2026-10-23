@@ -19,6 +19,6 @@ In 3 Link, your goal is to remove all the images from the board by connecting 3 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Barbie, Boy, Boys, Candy, Girl, Girls, Kids, Mario
+- Tags: Barbie, Boy, Boys, Candy, Girl, Girls, Kids, mario

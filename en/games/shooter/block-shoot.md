@@ -21,4 +21,4 @@ Block Shoot is a online puzzle shooting game. Puzzles with figures will appear o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Clicker, Kids, Logical, Puzzle, Shooter, Tetris
+- Tags: block, Clicker, Kids, Logical, Puzzle, Shooter, tetris

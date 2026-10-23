@@ -32,4 +32,4 @@ Choose your weapons, strengthen your build between waves, defeat unique bosses, 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Adventure, RPG, survival
+- Tags: Action, Adventure, rpg, survival

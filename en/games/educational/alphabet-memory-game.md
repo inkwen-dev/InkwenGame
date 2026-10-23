@@ -21,4 +21,4 @@ One of the best ways to teach something to children is using some kind of game. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Fun, HTML5, Kids, Letters, Memory, Mobile, Skill
+- Tags: educational, Fun, HTML5, Kids, Letters, memory, Mobile, Skill

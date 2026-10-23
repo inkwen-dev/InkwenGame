@@ -21,4 +21,4 @@ Word it UP challenges players to drag letters and create words to complete each 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Click, Educational, Kid, Kids, Mentolatux, Unity3D, WebGL, Word
+- Tags: Boys, Click, educational, Kid, Kids, Mentolatux, Unity3D, WebGL, word

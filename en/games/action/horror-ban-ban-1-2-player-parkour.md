@@ -21,4 +21,4 @@ The terrifying siblings need to escape the haunted house. They must face their f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Android, Arcade, Block, Horror, Mobile, Pixel, sky
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Android, Arcade, block, Horror, Mobile, pixel, sky

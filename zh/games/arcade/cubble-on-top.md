@@ -21,4 +21,4 @@ Cubble on top 是一款非常独特的跳跃游戏，你需要跳上悬崖壁以
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 街机, 跳跃
+- 标签: 单人, 街机, 跳跃

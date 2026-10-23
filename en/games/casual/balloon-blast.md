@@ -15,6 +15,6 @@ Take aim and fire in Balloon Blast, an exhilarating game where your ultimate tar
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Tanks
+- Tags: tanks

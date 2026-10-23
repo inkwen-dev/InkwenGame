@@ -21,4 +21,4 @@ Little Bunny is jumping constantly. Your child will stack jump endlessly into th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping, Platform
+- Tags: jump, jumping, Platform

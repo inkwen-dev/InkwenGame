@@ -19,6 +19,6 @@ Gangsta Duel is an exciting street duel game that brings you into a world of bat
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fight, Fun
+- Tags: battle, Fight, Fun

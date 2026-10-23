@@ -21,4 +21,4 @@ Fun game in which you must go as far as possible, collecting coins and dodging b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Casual, Race, Skating, Sports
+- Tags: 1 Player, Casual, Race, Skating, sports

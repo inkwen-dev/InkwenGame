@@ -19,6 +19,6 @@ Spider Superhero Runner adventure its Free Game Online with Unlock 30 amazing ch
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Adventure, Anime, Best, Boys, endless, Games, Online, Race, Racing, run, running, Simulator, Subway Surfers

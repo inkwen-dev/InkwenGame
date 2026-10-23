@@ -21,4 +21,4 @@ Mashup Hero is a fast-paced mecha parkour game where you assemble a robot while 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Fighting, Hypercasual, Levels, Robot, running
+- Tags: 3D, Action, fighting, Hypercasual, Levels, Robot, running

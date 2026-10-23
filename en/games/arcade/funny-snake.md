@@ -21,4 +21,4 @@ Funny Snake is an exciting game where the player controls a fun and stretched he
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Best, Collecting, Fun, Kids, Mobile, Obstacle, Skill, Snake
+- Tags: Avoid, Best, Collecting, Fun, Kids, Mobile, Obstacle, Skill, snake

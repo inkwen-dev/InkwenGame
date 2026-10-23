@@ -21,4 +21,4 @@ Welcome to the world of adrenaline, magic and the fight against evil! an excitin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Best, Blood, Crazy, Defense, Wizard
+- Tags: Adventure, Best, Blood, crazy, Defense, Wizard

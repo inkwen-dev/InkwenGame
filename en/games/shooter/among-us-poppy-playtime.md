@@ -19,6 +19,6 @@ Among Us wars Poppy Playtime is an extremely interesting Among Us game and actio
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Action, Adventure, Boys, Escape, HTML5, Jumping, Killing, kiz10, Multiplayer, running, Shooter, Shooting, War
+- Tags: 1 Player, 3D Games, Action, Adventure, Boys, Escape, HTML5, jumping, Killing, kiz10, Multiplayer, running, Shooter, Shooting, War

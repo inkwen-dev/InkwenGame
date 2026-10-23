@@ -19,6 +19,6 @@ Ab Hoga aapke Pocket Mein Rocket Jab download Karoge Rocket pocket. Discover new
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Arcade, Casual, Click, Dancing, Defense, Driving, Game, HTML5, Hypercasual, Kids, Planet, Rocket, Space, Spaceship, Strategy, WebGL
+- Tags: 1 Player, 2D, Action, Adventure, Arcade, Casual, Click, Dancing, Defense, Driving, Game, HTML5, Hypercasual, Kids, Planet, Rocket, Space, Spaceship, strategy, WebGL

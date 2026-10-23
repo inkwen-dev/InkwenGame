@@ -21,4 +21,4 @@ WASD 控制角色 Tab 菜单 Shift 跑步 空格键 跳跃 Ctrl 蹲下
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 方块, 血液, 枪械, 多人游戏, 射击, 射击, Unity3D, WebGL
+- 标签: 方块, 血液, 枪械, 多人, 射击, 射击, Unity3D, WebGL

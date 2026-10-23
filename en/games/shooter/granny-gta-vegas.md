@@ -21,4 +21,4 @@ Granny GTA Vegas drops the infamous horror legend into the heart of sin city! Ar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Detective, endless, Enemies, Granny, gta, Shoot 'Em Up, Shooter, Shooting, survival
+- Tags: Detective, endless, Enemies, granny, gta, Shoot 'Em Up, Shooter, Shooting, survival

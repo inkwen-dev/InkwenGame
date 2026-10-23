@@ -21,4 +21,4 @@ In order to survive in this world, you must avoid dangerous animals. On a cold w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Animal, Arcade, Battle, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Animal, Arcade, battle, pixel

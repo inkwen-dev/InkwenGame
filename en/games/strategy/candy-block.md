@@ -19,6 +19,6 @@ Move the blocks to fill the empty tiles and collect the pieces of blocks to leve
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Strategy
+- Tags: block, strategy

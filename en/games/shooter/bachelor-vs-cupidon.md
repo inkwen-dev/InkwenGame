@@ -19,6 +19,6 @@ This bachelor is very happy with his single life, but he doesn't know what is co
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Funny, Hypercasual, Love, Puzzle, Shoot, War

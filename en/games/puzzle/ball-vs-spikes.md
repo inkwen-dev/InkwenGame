@@ -19,6 +19,6 @@ In this game, you can challenge your friend and compete with them in the leaderb
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Ball, Ballon, Boys, Bubble Shooter, Classic, HTML5, Zombie

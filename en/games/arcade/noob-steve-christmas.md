@@ -21,4 +21,4 @@ Try to escape from the snowy area! Complete all the levels and share your result
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Adventure, Arcade, Christmas, jump, Jumping, Minecraft, Skill, Snow
+- Tags: 1 Player, 3D, Adventure, Arcade, Christmas, jump, jumping, Minecraft, Skill, Snow

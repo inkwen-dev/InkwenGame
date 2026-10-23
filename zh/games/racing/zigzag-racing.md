@@ -21,4 +21,4 @@ Zigzag Racing Bike 是一款免费的在线游戏，挑战玩家在快速、竞�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 游戏, 游戏, HTML5, 超休闲, 障碍, 竞速, 赛车
+- 标签: 街机, 游戏, 网页游戏, HTML5, 超休闲, 障碍, 比赛, 竞速

@@ -19,6 +19,6 @@ It starts off nice and easy where you just need to avoid barriers and cones. As 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boys, Driving, Girls, Kids, Parking, Police, Race
+- Tags: 3D, 3D Games, Boys, Driving, Girls, Kids, parking, police, Race

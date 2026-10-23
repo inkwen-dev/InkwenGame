@@ -19,6 +19,6 @@ Get ready for a colorful popping challenge in Burst It Right! Your task is to gu
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ballon, Best, Casual, Color

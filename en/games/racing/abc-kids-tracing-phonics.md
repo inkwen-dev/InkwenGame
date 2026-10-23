@@ -21,4 +21,4 @@ Looking for a fun, free, and simple educational app to help your toddler learn p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kids
+- Tags: educational, Kids

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 数字马戏团, 教育, Fall Guys, 家庭, 免费网站游戏, Grimace, Grimace Shake, HTML, HTML5, huggy, 机器, 移动设备, 波姆尼, Skibidi
+- 标签: 数字马戏团, 教育, Fall Guys, 家庭, 免费游戏供你的网站使用, 格里马斯, 格里马斯奶昔, HTML, HTML5, huggy, 机器, 移动设备, Pomni, Skibidi

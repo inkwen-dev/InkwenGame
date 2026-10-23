@@ -19,6 +19,6 @@ Brain tricks puzzles for kids is and addictive genius game that allow your geniu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Best, Boys, Brain, Cartoon, Cool, Cute, Educational, Fruits, Funny, Game, Girls, HTML5, Jigsaw, Kid, Kids, Letters, Math, Number, Puzzle, School, Skills, Timing
+- Tags: 1 Player, Animal, Best, Boys, Brain, Cartoon, cool, Cute, educational, Fruits, Funny, Game, Girls, HTML5, Jigsaw, Kid, Kids, Letters, math, Number, Puzzle, School, Skills, Timing

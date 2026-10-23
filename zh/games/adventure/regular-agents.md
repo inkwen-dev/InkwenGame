@@ -21,4 +21,4 @@ WASD R 方向键 O
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人, 双人游戏, 2D, 动作, 冒险, 卡通, Cartoon Network
+- 标签: 双人, 双人游戏, 2D, 动作, 冒险, 卡通, 卡通频道

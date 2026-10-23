@@ -68,4 +68,4 @@ A: 30
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Strategy, Tower Defense
+- Tags: strategy, Tower Defense

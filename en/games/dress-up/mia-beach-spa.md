@@ -19,6 +19,6 @@ Lets help this gorgeous girl Mia to have the wonderful spa day at beach, that mu
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Funny, H5, Makeover

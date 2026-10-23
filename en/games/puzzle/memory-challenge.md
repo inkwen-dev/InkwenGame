@@ -21,4 +21,4 @@ A game about memorizing tiles and improve your abilities. Each new level is a bi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Memory, Skill, Skills
+- Tags: Brain, memory, Skill, Skills

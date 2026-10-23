@@ -19,6 +19,6 @@ Story: Now you can play the long-awaited game with Math Teacher and now he is at
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player Games, 8 Ball Pool, Adult, Adventure, Alien, Boy, Boys, Cartoon

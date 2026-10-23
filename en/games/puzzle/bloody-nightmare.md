@@ -19,6 +19,6 @@ The game is intended for players over the age of 18, as in it, you will need to 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Ball, Ballon, Blood, Casual, Puzzle, unity, unity games, unity games for your site, unity games for your website, WebGL

@@ -21,4 +21,4 @@ Tie up your belts and get ready for the ride, where you will live to the end of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Bike, Car, Cool, Race, Racing, Simulation, Simulator, Unity3D
+- Tags: 1 Player, 3D, Action, bike, Car, cool, Race, Racing, Simulation, Simulator, Unity3D

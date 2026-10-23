@@ -21,4 +21,4 @@ Welcome to the top monster truck Games for kids & extreme car racing games of un
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Monster, Truck
+- Tags: monster, truck

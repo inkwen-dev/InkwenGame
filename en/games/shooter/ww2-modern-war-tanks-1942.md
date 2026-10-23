@@ -21,4 +21,4 @@ Welcome in the past where you will be able to fun with soldier, weapons, tank an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Air, Aircraft, Multiplayer, Shooting, Tank, Tanks, Unity3D, WebGL
+- Tags: Air, Aircraft, Multiplayer, Shooting, Tank, tanks, Unity3D, WebGL

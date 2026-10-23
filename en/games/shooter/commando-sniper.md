@@ -21,4 +21,4 @@ Commando Sniper is a fun shooting game with amazing graphics and 20 unique level
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mobile, Sniper, weapons
+- Tags: Mobile, sniper, weapons

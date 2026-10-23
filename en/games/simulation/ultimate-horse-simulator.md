@@ -51,4 +51,4 @@ Explore, survive, fight predators, and raise your horse family in Ultimate Horse
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Adventure, animals, Horse, Simulation, survival
+- Tags: 3D, Adventure, animals, horse, Simulation, survival

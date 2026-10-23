@@ -39,4 +39,4 @@ A simple goal that turns out to be not so simple — find the needle in the hays
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Clicker, cozy, Management, obby, Simulation
+- Tags: 3D, Clicker, cozy, management, obby, Simulation

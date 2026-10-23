@@ -21,4 +21,4 @@ Dolce是一位真正的时尚达人，她迫不及待地想与她的Instagram粉
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 装扮, 时尚, 女孩, 女孩, HTML5, 儿童, 造型改造, 移动
+- 标签: 装扮, 时尚, 女孩, 女孩, HTML5, 儿童, 改造, 移动设备

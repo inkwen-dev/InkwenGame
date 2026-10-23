@@ -19,6 +19,6 @@ Swipe your screen to cut fruit, but don’t hit bombs – that’s how easy it i
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, 3D Games, Arcade, cut, Fruit, Fruits, Fun, Game, Ninja, Slicing
+- Tags: 1 Player, 2D, 3D Games, Arcade, cut, Fruit, Fruits, Fun, Game, ninja, Slicing

@@ -19,6 +19,6 @@ Cowabunga! Little hooligans are on the way! Choose your hero and arrange an amaz
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Arcade, Best, city, endless, Highscore, Kids, run, running, Skateboard, subway, Subway Surfers, WebGL
+- Tags: 3D, 3D Games, Action, Arcade, Best, city, endless, Highscore, Kids, run, running, skateboard, subway, Subway Surfers, WebGL

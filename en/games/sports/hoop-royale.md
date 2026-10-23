@@ -19,6 +19,6 @@ Hoop Royale is a physics-based sports game played with two hoops and one ball. M
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Ballon, Basketball, Physics, Sport, Sports
+- Tags: Ball, Ballon, basketball, Physics, Sport, sports

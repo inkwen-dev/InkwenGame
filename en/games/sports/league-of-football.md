@@ -21,4 +21,4 @@ Play League of Football, a fast-paced 2D soccer game! Pick your team, master fir
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2025 games, 2026 games, 2D, Ball, Football, Soccer, Sport, Sports
+- Tags: 2 Player, 2 Player Games, 2025 games, 2026 games, 2D, Ball, Football, Soccer, Sport, sports

@@ -19,6 +19,6 @@ Navigating the Suez Canal is a high-stress, complicated feat that requires maste
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Driving, Simulation, Simulator

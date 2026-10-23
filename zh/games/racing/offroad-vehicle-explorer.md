@@ -21,4 +21,4 @@ Tab - 菜单 空格键 - 刹车 WASD - 驾驶 G - 重置车辆
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D游戏, 男孩, 汽车, 怪物, 模拟器, 技能, 卡车, Unity3D, WebGL
+- 标签: 单人, 3D游戏, 男孩, 汽车, monster, 模拟器, 技能, 卡车, Unity3D, WebGL

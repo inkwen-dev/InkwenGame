@@ -21,4 +21,4 @@ The fun Drunk stickman games continue with Slap Wars. The aim of the game is to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Battle, Fight, Fun, Funny, Stickman, War
+- Tags: 2 Player, 2 Player Games, battle, Fight, Fun, Funny, stickman, War

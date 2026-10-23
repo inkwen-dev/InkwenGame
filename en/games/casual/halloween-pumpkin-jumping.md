@@ -21,4 +21,4 @@ Halloween Pumpkin Jumping is a Halloween theme game in which you have to jump be
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Fun, Halloween, jump, Jumping, Kids
+- Tags: Casual, Fun, Halloween, jump, jumping, Kids

@@ -17,4 +17,4 @@ Dive into a spooky brain challenge with this vampire-themed memory game. Flip an
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Memory
+- Tags: memory

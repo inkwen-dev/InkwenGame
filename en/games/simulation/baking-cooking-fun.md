@@ -21,4 +21,4 @@ Desktop Mouse click and drag to play Mobile Tap and slide to play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cake, Candy, Cooking, Decoration, Educational, Girl, Girls, Kids, Simulation
+- Tags: Cake, Candy, Cooking, Decoration, educational, Girl, Girls, Kids, Simulation

@@ -22,4 +22,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 避开, 收集, 逃脱, 恐怖, 怪物
+- 标签: 3D游戏, 躲避, 收集, 逃脱, 恐怖, monster

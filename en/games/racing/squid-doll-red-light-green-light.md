@@ -19,6 +19,6 @@ ou start the battle with a master in the crowd challenge there are no chances fo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Boy, Boys, Car, Cars, Doctor, Fire, Girl, Girls, jump, Jumping, Race, run, running, Stunts, Supercars, Truck
+- Tags: Action, Adventure, Arcade, Boy, Boys, Car, Cars, Doctor, Fire, Girl, Girls, jump, jumping, Race, run, running, Stunts, Supercars, truck

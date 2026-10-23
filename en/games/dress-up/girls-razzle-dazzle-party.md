@@ -19,6 +19,6 @@ The beautiful girls Mia, Emma, Ava and Clara are getting ready for the Razzle Da
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Decoration, Dress Up

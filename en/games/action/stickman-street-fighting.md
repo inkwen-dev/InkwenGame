@@ -21,4 +21,4 @@ Stickman!!! Fight through the street levels and defeat the enemy stick fighters!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Fight, Fighting, Stickman, Street Fighting, Unity3D, Violence
+- Tags: 1 Player, 3D, Fight, fighting, stickman, Street Fighting, Unity3D, Violence

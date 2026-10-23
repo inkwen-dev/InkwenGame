@@ -21,4 +21,4 @@ Racing in Car is the best mobile racing game you have been looking for. You driv
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D Games, Action, Arcade, Car, Cars, Casual, drift, drifting, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing
+- Tags: .io Games, 3D Games, Action, Arcade, Car, Cars, Casual, drift, drifting, Fun, Funny, Hot, Hypercasual, jump, jumping, Race, Racing

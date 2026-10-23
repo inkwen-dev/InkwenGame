@@ -21,4 +21,4 @@ Are you tired of educating your child? This game will release your hand. You cou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Collecting, Educational, Funny, Girl, Kid
+- Tags: 2D, Arcade, Collecting, educational, Funny, Girl, Kid

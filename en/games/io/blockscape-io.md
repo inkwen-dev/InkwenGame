@@ -21,4 +21,4 @@ Blockscape.io is a free browser-based voxel MMO. Mine ores, chop trees, fight mo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2026 games, 3D, Action, Block, blocky, Jumping, mineblock, Minecraft, Multiplayer, Online, onlinegames io
+- Tags: .io, .io Games, 2026 games, 3D, Action, block, blocky, jumping, mineblock, Minecraft, Multiplayer, Online, onlinegames io

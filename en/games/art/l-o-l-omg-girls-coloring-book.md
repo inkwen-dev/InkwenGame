@@ -19,6 +19,6 @@ Unleash your creativity with LOL Girls Coloring Book, a fun and relaxing colorin
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Draw, Drawing, Educational, Girl, Girls, School
+- Tags: Color, Coloring, Draw, drawing, educational, Girl, Girls, School

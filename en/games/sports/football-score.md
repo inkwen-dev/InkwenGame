@@ -21,4 +21,4 @@ Football Score Online is an exciting game where you can compete with other playe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Sport, Sports
+- Tags: Arcade, Sport, sports

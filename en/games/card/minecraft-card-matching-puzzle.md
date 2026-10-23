@@ -19,6 +19,6 @@ Minecraft Card Matching Puzzle is a fun and relaxing card matching game that tes
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Card, Classic, Fun, Funny, Matching, Minecraft, Pixel, Puzzle, puzzleblock
+- Tags: 1 Player, 2D, card, Classic, Fun, Funny, Matching, Minecraft, pixel, Puzzle, puzzleblock

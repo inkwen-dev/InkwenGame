@@ -21,4 +21,4 @@ Protect the planet from falling asteroids! • The planet can only take 2 hits b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Arcade, Battle, Fun, Game, Games, HTML, HTML5, Planet
+- Tags: 1 Player, Action, Arcade, battle, Fun, Game, Games, HTML, HTML5, Planet

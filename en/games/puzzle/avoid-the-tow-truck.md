@@ -21,4 +21,4 @@ Change your moving direction by touching or clicking the screen and try to avoid
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Puzzle, Truck
+- Tags: Puzzle, truck

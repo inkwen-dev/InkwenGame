@@ -19,6 +19,6 @@ Master the skill of shooting hoops! Hit nothing but net to earn extra points, co
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Casual, Skill, Sports
+- Tags: basketball, Casual, Skill, sports

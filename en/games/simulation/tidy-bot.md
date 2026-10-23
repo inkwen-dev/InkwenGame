@@ -19,6 +19,6 @@ Tidy Bot is a relaxing 3D cleaning game. Drive a little robot vacuum around cosy
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Casual, Cleaning, Collecting, Cute, House, Levels, Mobile, Relaxation, Robot, Simulation, Simulator

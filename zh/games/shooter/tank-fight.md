@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 战斗, HTML5, 移动, 射击, 技巧, 策略, 坦克, 坦克, 战争
+- 标签: 格斗, HTML5, 移动设备, 射击, 技巧, 策略, 坦克, tanks, 战争

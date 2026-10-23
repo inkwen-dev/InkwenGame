@@ -19,6 +19,6 @@ Color Page ASMR is a very casual painting game, suitable for all ages to spend t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Draw, Kids, Mobile, Skill

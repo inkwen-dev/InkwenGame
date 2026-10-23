@@ -21,4 +21,4 @@ Tiles Hop Ball Master is a ball jumping skillful arcade game. With 3D platforms 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Ball, Boy, Collecting, jump, Jumping, Kid, Platform, Puzzle
+- Tags: 3D, 3D Games, Ball, Boy, Collecting, jump, jumping, Kid, Platform, Puzzle

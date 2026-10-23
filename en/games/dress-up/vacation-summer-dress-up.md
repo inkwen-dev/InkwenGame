@@ -19,6 +19,6 @@ Hurray! Finally came the fun holidays! Time to go on a summer vacation at the se
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Fashion, Girls, HTML5, Princess, WebGL

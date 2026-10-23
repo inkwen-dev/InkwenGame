@@ -21,4 +21,4 @@ A place, a ball and an idea Objective: Jump, advance, or fall somewhere unknown!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Ball, HTML5, jump, Jumping
+- Tags: 3D Games, Ball, HTML5, jump, jumping

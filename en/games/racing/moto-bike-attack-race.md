@@ -21,4 +21,4 @@ Before you motorcycle racing with fighting. In this game, each race is a battle 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bike, H5, HTML, HTML5, Hypercasual, Moto, Motorcycle, Race, Racing, Sport, Sports
+- Tags: Arcade, bike, H5, HTML, HTML5, Hypercasual, Moto, Motorcycle, Race, Racing, Sport, sports

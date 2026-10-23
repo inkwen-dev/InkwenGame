@@ -15,6 +15,6 @@ Dive into the futuristic chaos of Among Tito 2, a thrilling 2D platformer. Brave
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

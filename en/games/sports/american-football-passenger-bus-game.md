@@ -19,6 +19,6 @@ The American football finals are just around the corner and all the city people 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, bus, Football, HTML, HTML5, Race, Racing, Simulation, Simulator

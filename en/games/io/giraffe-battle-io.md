@@ -21,4 +21,4 @@ Dive into the hilarious and exciting animal evolution brawl of Giraffe Battle.io
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Animal, Battle, Forest
+- Tags: .io, Animal, battle, Forest

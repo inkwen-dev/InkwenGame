@@ -21,4 +21,4 @@ In this adventure, Steve and Alex have to escape from prison. He has to escape j
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Minecraft, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Minecraft, pixel

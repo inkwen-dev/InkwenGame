@@ -19,6 +19,6 @@ Halloween Funny Pumpkins is a very addictive game. Hippo and her brother gained 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Animal, Avoid, Boy, Candy, Cleaning, Family, Fun, Funny, Girl, Halloween, Holiday, HTML5, Kids, Mobile, Zombie

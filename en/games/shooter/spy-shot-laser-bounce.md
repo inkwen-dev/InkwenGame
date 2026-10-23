@@ -21,4 +21,4 @@ Spy Shot Laser Bounce is a fun game where you put your skills to the test. As a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Android, Arcade, HTML5, Mobile, Shoot, Shooter, Shooting, Skill, Skills, Stickman
+- Tags: 1 Player, 3D, 3D Games, Action, Android, Arcade, HTML5, Mobile, Shoot, Shooter, Shooting, Skill, Skills, stickman

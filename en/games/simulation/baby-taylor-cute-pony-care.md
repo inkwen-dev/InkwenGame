@@ -21,4 +21,4 @@ Today, Taylor's teacher Doris will take Taylor and her friends to visit a large 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cute, Girl, Girls, Kids, Simulation, Surgery
+- Tags: Animal, Baby, Cute, Girl, Girls, Kids, Simulation, surgery

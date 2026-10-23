@@ -19,6 +19,6 @@ Get ready to challenge your mind with this fun and addictive puzzle game! Your g
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Number, Puzzle

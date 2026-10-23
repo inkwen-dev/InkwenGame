@@ -19,6 +19,6 @@ Stop and kill the terrorists before they attack you ! A group of terrorists has 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Bomb, Fighting, Kill, Strategy, Tower Defense
+- Tags: Action, Arcade, Bomb, fighting, Kill, strategy, Tower Defense

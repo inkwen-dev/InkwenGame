@@ -19,6 +19,6 @@ Hangman Challenge 2 challenges you and you need to win, and to do this, guess th
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Educational, Fun, HTML5, Letters, Logic, Mobile, Skill, Stickman, Word
+- Tags: Best, educational, Fun, HTML5, Letters, Logic, Mobile, Skill, stickman, word

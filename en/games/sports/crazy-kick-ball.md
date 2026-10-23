@@ -21,4 +21,4 @@ Dribble the ball past defenders, fake the keeper, and shoot! Dodge tackles, find
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Football, Shoot, Soccer, Sports, Timing
+- Tags: 3D, Football, Shoot, Soccer, sports, Timing

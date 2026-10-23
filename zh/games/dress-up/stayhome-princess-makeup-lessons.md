@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 艾尔莎, 冰雪奇缘, 女孩们, HTML5, 换装, 公主
+- 标签: 艾莎, 冰雪奇缘, 女孩, HTML5, 改造, 公主

@@ -19,6 +19,6 @@ Grand Zombie Swarm 2 is a shooting game where your mission is to shoot and drive
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Driving, gta, Gun, Shoot, Shoot 'Em Up, Shooter, Shooting, Unity3D, WebGL, Zombie

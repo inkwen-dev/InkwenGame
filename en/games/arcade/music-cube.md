@@ -19,6 +19,6 @@ Feel like a musician performing popular melodies in a very original way. Instead
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Block, Bounce, Casual, Dancing, HTML, HTML5, Hypercasual, Puzzle, Unity3D
+- Tags: 3D, 3D Games, Arcade, block, Bounce, Casual, Dancing, HTML, HTML5, Hypercasual, Puzzle, Unity3D

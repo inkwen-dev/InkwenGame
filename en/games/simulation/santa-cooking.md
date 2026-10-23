@@ -21,4 +21,4 @@ Santa cooking is one of the newest and most addictive restaurant food cooking ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Cooking, Funny, Puzzle, Skills, Strategy, Timing
+- Tags: Christmas, Cooking, Funny, Puzzle, Skills, strategy, Timing

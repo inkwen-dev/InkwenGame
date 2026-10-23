@@ -15,6 +15,6 @@ Navigate a tense 3x3 grid in Prisoner Bob, where every choice could mean freedom
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Escape

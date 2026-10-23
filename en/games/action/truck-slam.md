@@ -24,4 +24,4 @@ Two monster trucks. Two spinning maces. One survives. Smash enemies in single-pl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, monster-truck, Truck, two-player
+- Tags: Action, monster-truck, truck, two-player

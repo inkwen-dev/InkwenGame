@@ -19,6 +19,6 @@ How to play? On mobile : Tap the cubes to destroy them. Your goal is to form a s
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Arcade, Games, HTML, HTML5, Kid, Kids, Unity3D

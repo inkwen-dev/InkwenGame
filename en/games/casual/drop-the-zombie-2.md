@@ -15,6 +15,6 @@ Unleash your strategic prowess in Drop the Zombie, a physics-driven puzzle adven
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Zombie

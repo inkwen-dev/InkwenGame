@@ -19,6 +19,6 @@ While everyone else heads back to shore, you cast off—a twelve-foot wind gust.
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Android, Boat, HTML5, Mobile, Simulator

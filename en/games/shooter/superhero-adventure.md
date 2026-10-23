@@ -19,6 +19,6 @@ Superhero Adventure Online Shooting Game is an online game that lets you play as
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Game, Games, HTML5, Hypercasual, Shoot, Shooter, Shooting, Super, Superhero

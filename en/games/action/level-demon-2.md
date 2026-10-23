@@ -21,4 +21,4 @@ Level Demon 2 throws you straight into a fast-paced platforming challenge where 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Casual, Crazy, free html5 games for your website, Fun, Geometry, Jumping, Level, Pixel, running
+- Tags: Best, Casual, crazy, free html5 games for your website, Fun, Geometry, jumping, Level, pixel, running

@@ -19,6 +19,6 @@ Road Of Fury 4 is an explosive scroller shooter game set in a world of post-apoc
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: apocalypse, Car, Gun, Physics, Shoot 'Em Up, Shooter, Side Scrolling

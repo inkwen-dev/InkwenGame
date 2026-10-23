@@ -21,4 +21,4 @@ Combine 2 of the same halloween mahjong tiles to remove them from the board. You
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Halloween, Mahjong
+- Tags: Halloween, mahjong

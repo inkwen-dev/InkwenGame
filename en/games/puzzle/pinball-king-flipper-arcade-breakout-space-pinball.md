@@ -19,6 +19,6 @@ Use arrow keys or click on mouse to play in this funny game
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Arcade, Baby, Baby Hazel, Boy, Bubble Shooter, Casual, Family, Girl, HTML5, Hypercasual, Pinball, Puzzle, Shooter, Sport, WebGL

@@ -21,4 +21,4 @@ Swap blocks in order to make a group of 3 or more identical items adjacent horiz
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Clicker, Collecting, Fish, Fun, Girls, Match-3, Matching, Mobile, Puzzle, Summer
+- Tags: Casual, Clicker, Collecting, Fish, Fun, Girls, Match 3, Matching, Mobile, Puzzle, Summer

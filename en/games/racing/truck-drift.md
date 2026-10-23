@@ -21,4 +21,4 @@ Truck Drift is game where you need to do some drifts with your truck. On the sta
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: drift, drifting, Truck
+- Tags: drift, drifting, truck

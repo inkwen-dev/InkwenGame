@@ -19,6 +19,6 @@ Find The Old Man’s House Key is a point and click game developed by 8BGames/Ga
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Point And Click

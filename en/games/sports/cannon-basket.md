@@ -21,4 +21,4 @@ Cannon Basket is a fun and challenging physics-based puzzle game where your goal
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Basketball, Skill, Sports
+- Tags: basketball, Skill, sports

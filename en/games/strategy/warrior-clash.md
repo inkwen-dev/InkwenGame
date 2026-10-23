@@ -21,4 +21,4 @@ Warrior Clash is a thrilling war strategy game where only the strongest prevail.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Defense, Fighting, Mobile, Mouse, Tower Defense, War, Warrior
+- Tags: battle, Defense, fighting, Mobile, Mouse, Tower Defense, War, Warrior

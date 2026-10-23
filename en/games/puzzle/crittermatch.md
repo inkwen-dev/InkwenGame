@@ -19,6 +19,6 @@ CritterMatch is a game which is full in being buggy environment. It is a match-3
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: buggy, Casual, Match 3, Puzzle

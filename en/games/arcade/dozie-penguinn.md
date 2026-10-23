@@ -19,6 +19,6 @@ Help the little penguin to get back to his home in 30 levels, beware of the trap
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids, Penguin

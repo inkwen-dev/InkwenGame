@@ -25,4 +25,4 @@ Match the numbers. The numerical grid awaits your solution. Your task is to reta
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Logic, Math, Number
+- Tags: Brain, Logic, math, Number

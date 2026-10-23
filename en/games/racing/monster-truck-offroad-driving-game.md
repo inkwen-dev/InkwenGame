@@ -19,6 +19,6 @@ Is there any kid who loves to play monster truck off road driving simulator? The
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Driving, HTML, HTML5, Truck
+- Tags: 3D Games, Driving, HTML, HTML5, truck

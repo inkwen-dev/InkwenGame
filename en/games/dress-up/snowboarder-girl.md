@@ -21,4 +21,4 @@ Emma likes snowboarding. She spends every winter vacation in Switzerland. She bu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dress Up, Fashion, Game, Girl, Girls, HTML5, Snow, Sport, Sports, Winter
+- Tags: Dress Up, Fashion, Game, Girl, Girls, HTML5, Snow, Sport, sports, Winter

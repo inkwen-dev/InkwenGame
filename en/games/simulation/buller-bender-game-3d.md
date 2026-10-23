@@ -21,4 +21,4 @@ Take control! Be one with the bullet in this action packed puzzler. In this uniq
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Best, Fire, Flight, Helicopter, Hot, Interactive, IO, Management, Platform, Shooter, Shooting, Winter
+- Tags: .io, 3D, Best, Fire, flight, helicopter, Hot, Interactive, management, Platform, Shooter, Shooting, Winter

@@ -19,6 +19,6 @@ Test your speed and reflexes! In this arcade game, 6 different fast food items r
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Action, Arcade, Casual, Clash, Cook, crash, Crazy, Food, Hypercasual, pizza
+- Tags: 1 Player, 2026 games, 2D, Action, Arcade, Casual, Clash, Cook, crash, crazy, Food, Hypercasual, pizza

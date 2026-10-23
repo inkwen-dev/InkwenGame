@@ -21,4 +21,4 @@ Get ready for realistic drift simulation! Create chaos in the city with Drift Ci
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D, Bike, bus, Car, Cars, drift, drifting, Game, Race, Racing, Supercars
+- Tags: .io Games, 1 Player, 3D, bike, bus, Car, Cars, drift, drifting, Game, Race, Racing, Supercars

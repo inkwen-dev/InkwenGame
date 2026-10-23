@@ -19,6 +19,6 @@ Take on the role of V a veteran smuggler in Nightcity.One night after finishing 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Casual, Hypercasual

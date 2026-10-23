@@ -37,4 +37,4 @@ Let's start your word adventure now!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Educational, words
+- Tags: educational, words

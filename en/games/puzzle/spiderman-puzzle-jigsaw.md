@@ -19,6 +19,6 @@ You can have fun in this jigsaw puzzle game with wonderful spider-man pictures. 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Brain, Game, Games, HTML5, Jigsaw, Puzzle, Spiderman

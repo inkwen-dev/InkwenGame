@@ -19,6 +19,6 @@ Create your own levels or play user created levels in this funny online game. Ch
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Creation, Driving, Funny, Golf, Platform, Skateboard
+- Tags: Car, Creation, Driving, Funny, golf, Platform, skateboard

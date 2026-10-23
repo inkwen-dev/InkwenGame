@@ -21,4 +21,4 @@ Do you want to play Squid Game red light green light online with other players? 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, Action, Arena, Battle, Best, Casual, Escape, Hypercasual, Multiplayer, Online, run, running, WebGL
+- Tags: .io, .io Games, 3D, Action, Arena, battle, Best, Casual, Escape, Hypercasual, Multiplayer, Online, run, running, WebGL

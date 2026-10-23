@@ -19,6 +19,6 @@ Paper snakes is slithering io snake game with a touch of paper theme, there is o
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Slither, Snake
+- Tags: Slither, snake

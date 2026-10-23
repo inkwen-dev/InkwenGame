@@ -19,6 +19,6 @@ Win the play in game and get into the playoffs then go all the way to the champi
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Sport, Sports
+- Tags: basketball, Sport, sports

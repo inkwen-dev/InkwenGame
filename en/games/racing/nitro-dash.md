@@ -21,4 +21,4 @@ In Nitro Dash game, try to go the farthest distances by directing your ball! Avo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Ball, Best, Bricks, Crazy, Puzzle, Racing, Skill, Unity3D
+- Tags: 1 Player, Ball, Best, Bricks, crazy, Puzzle, Racing, Skill, Unity3D

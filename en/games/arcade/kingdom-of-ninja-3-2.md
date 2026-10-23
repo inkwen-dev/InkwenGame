@@ -15,6 +15,6 @@ Embark on a high-stakes adventure in Kingdom of Ninja 3, where sharp intellect a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Arcade

@@ -21,4 +21,4 @@ Music Board is a funny music game, follow the note and finish all the rhythm, yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Music, Skill
+- Tags: music, Skill

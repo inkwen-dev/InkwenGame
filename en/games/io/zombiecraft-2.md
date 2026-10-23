@@ -21,4 +21,4 @@ ZombieCraft is a adventure rpg game. Select your favourite character, gear up ax
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D Games, Block, Craft, Crafting, Minecraft, Pixel, Zombie
+- Tags: .io, .io Games, 3D Games, block, Craft, Crafting, Minecraft, pixel, Zombie

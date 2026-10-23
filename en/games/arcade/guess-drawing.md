@@ -21,4 +21,4 @@ Think you can recognize a drawing in seconds? Guess The Drawing is a fun and fas
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Drawing, Puzzle, trivia
+- Tags: Arcade, drawing, Puzzle, trivia

@@ -21,4 +21,4 @@ Welcome to the best chinese cooking games for girls. Here you may learn how to m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Chicken, Cook, Cooking, Cool, Decorate, Decoration, Educational, Girl, Girls
+- Tags: Boy, Boys, Chicken, Cook, Cooking, cool, Decorate, Decoration, educational, Girl, Girls

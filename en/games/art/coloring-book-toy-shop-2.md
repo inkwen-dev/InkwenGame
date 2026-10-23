@@ -21,4 +21,4 @@ Paint fun toys with colorful paints.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Educational, Kids, Skill
+- Tags: Coloring, educational, Kids, Skill

@@ -19,6 +19,6 @@ Idle Miner Simulator - Gold & Money Clicker is also a strategy game but the play
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, Bomb, Gold, Physics, Simulation

@@ -33,4 +33,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 冒险, 牌, 魔法, PVE, 接龙
+- 标签: 冒险, 牌, 魔法, PVE, 纸牌游戏

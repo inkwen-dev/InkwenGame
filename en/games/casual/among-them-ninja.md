@@ -19,6 +19,6 @@ What happens to people who turned out to be traitors and they were thrown out of
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: cut, Hypercasual, Ninja
+- Tags: cut, Hypercasual, ninja

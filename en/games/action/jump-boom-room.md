@@ -19,6 +19,6 @@ In this game your job is to collect diamonds, but there is a obstacles for you, 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML5, jump, Platform, Puzzle

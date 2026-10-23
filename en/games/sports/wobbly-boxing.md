@@ -19,6 +19,6 @@ Step into the wobbly and unpredictable world of Wobbly Boxing, where you'll expe
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 3D, 3D Games, Action, Arcade, Battle, Best, Boxing, Boys, Fighting, Flight, Street Fighting
+- Tags: 2 Player, 3D, 3D Games, Action, Arcade, battle, Best, Boxing, Boys, fighting, flight, Street Fighting

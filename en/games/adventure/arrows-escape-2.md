@@ -21,4 +21,4 @@ Step into Arrows Puzzle Escape, a minimalist puzzle experience designed to chall
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: catch, Math, Puzzle
+- Tags: catch, math, Puzzle

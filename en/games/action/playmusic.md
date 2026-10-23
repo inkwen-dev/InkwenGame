@@ -95,4 +95,4 @@ A: The number of levels constantly increases.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mobile, Music, Platform, running
+- Tags: Mobile, music, Platform, running

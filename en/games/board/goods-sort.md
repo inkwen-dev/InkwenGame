@@ -19,6 +19,6 @@ Imagine being able to sprint through the aisles of a supermarket, frantically sn
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, Board, Puzzle, sort, sorting

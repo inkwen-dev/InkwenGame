@@ -21,4 +21,4 @@ Weave precious sets for your twins, take the mommies to get their medical checku
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Baby, Educational, Fun, Girl, Girls, H5, HTML5, Hypercasual
+- Tags: 2D, Baby, educational, Fun, Girl, Girls, H5, HTML5, Hypercasual

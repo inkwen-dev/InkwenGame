@@ -21,4 +21,4 @@ Sprunki Backroom Terrors Skibidi Toilet is an action terror game, run and grab t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Horror, Skibidi, Skibidi Toilet, Sprunki
+- Tags: Horror, Skibidi, skibidi-toilet, Sprunki

@@ -19,6 +19,6 @@ Fun numbers game with solitaire flavor to relax and unwind while keeping your mi
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, HTML5, Number, Solitaire
+- Tags: card, HTML5, Number, solitaire

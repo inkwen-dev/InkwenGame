@@ -21,4 +21,4 @@ Jump and avoid the spikes for no death and obtain the best score
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Casual, Fun, Funny, Game, Highscore, HTML5, Hypercasual, jump, Jumping, Skill
+- Tags: Best, Casual, Fun, Funny, Game, Highscore, HTML5, Hypercasual, jump, jumping, Skill

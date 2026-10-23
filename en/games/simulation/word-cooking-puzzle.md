@@ -19,6 +19,6 @@ Welcome to Word Cooking Puzzle! Dive into the ultimate word puzzle game and sati
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Best Games, Brain, Casual, Cook, Cooking, Educational, Letters, Puzzle, Word
+- Tags: 3D Games, Best Games, Brain, Casual, Cook, Cooking, educational, Letters, Puzzle, word

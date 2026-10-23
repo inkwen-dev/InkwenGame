@@ -19,6 +19,6 @@ Explore magic maze with Lara Croft in epic adventure through magic temple - Play
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Boy, Girl, HTML5, Jumping, Shooting
+- Tags: Action, Boy, Girl, HTML5, jumping, Shooting

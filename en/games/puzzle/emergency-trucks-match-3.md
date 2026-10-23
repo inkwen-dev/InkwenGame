@@ -19,6 +19,6 @@ This is Match 3 game with trucks. There is some of emergency trucks and you need
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Match 3, Matching, Puzzle

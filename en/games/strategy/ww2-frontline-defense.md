@@ -19,6 +19,6 @@ WW2 Frontline Defense is an idle war strategy game set during World War II. Comm
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Battle, Battlegrounds, Best Games, Defense, endless, free games for your website, idle, Mobile, Shooter, Strategy, survival, Tower Defense, War
+- Tags: Army, battle, Battlegrounds, Best Games, Defense, endless, free games for your website, idle, Mobile, Shooter, strategy, survival, Tower Defense, War

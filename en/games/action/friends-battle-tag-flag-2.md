@@ -15,6 +15,6 @@ Friends Battle Tag Flag pits you against a friend in a thrilling 2-minute showdo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: two-player

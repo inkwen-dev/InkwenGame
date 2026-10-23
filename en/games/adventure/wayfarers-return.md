@@ -19,6 +19,6 @@ Wayfarers Return is a challenging puzzle adventure where you guide a young trave
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Escape, Funny, House

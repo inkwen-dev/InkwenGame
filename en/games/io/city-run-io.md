@@ -21,4 +21,4 @@ In this fast-paced game, youll find yourself hurtling through bustling cities, d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2 Player, 2 Player Games, 3D, 3D Games, Multiplayer, Stickman, Unity3D
+- Tags: .io, .io Games, 2 Player, 2 Player Games, 3D, 3D Games, Multiplayer, stickman, Unity3D

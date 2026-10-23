@@ -21,4 +21,4 @@ Together with your friend, you must save the Sprunki characters from the rising 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Adventure, Arcade, Pixel
+- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Adventure, Arcade, pixel

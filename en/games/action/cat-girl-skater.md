@@ -21,4 +21,4 @@ Meet this vibrant cat-girl skater, a feline force of energy gliding through a su
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cat, Girl, Mentolatux, Skateboard, Skating, Skill, unity, WebGL
+- Tags: Cat, Girl, Mentolatux, skateboard, Skating, Skill, unity, WebGL

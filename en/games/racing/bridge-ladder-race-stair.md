@@ -21,4 +21,4 @@ Best Racing Game ever with approximately 250 Million downloads! Try to build you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, Batman, Bridge, Car, Game, Hypercasual, Love, Obstacle, Race, Racing, Stickman, Supercars, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, Batman, Bridge, Car, Game, Hypercasual, Love, Obstacle, Race, Racing, stickman, Supercars, truck

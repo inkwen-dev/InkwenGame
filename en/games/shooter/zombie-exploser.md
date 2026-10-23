@@ -21,4 +21,4 @@ It&rsquo;s a very cool game, to destroy zombies, and you have a bazooka with sup
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Android, Battle
+- Tags: Adventure, Android, battle

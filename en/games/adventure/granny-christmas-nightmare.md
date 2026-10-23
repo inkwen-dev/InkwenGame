@@ -15,6 +15,6 @@ Survive a twisted holiday horror in Granny Christmas Nightmare, where an evil Gr
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: scary

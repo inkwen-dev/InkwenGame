@@ -19,6 +19,6 @@ Enter the Car Parking 3D Pro. It&rsquo;s a realistic car driving simulator 3D ex
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Parking, Truck, vehicle
+- Tags: 3D Games, parking, truck, vehicle

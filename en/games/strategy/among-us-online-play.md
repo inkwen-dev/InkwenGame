@@ -19,6 +19,6 @@ Space navigation is always accompanied by many dangers. Due to the interference 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Alien, Boys, Multiplayer, Strategy
+- Tags: Action, Alien, Boys, Multiplayer, strategy

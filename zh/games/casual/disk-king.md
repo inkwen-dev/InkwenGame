@@ -21,4 +21,4 @@ Throw Disc 3D 极限飞盘锦标赛是一款全新的飞盘游戏，包含对手
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩们, 有趣, 女孩们
+- 标签: 男孩们, 有趣, 女孩

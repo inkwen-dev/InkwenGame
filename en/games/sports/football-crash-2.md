@@ -21,4 +21,4 @@ Football Crash 2 is a fast and free American football runner you can play online
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, endless, Football, mapi games, Sports
+- Tags: Arcade, endless, Football, mapi games, sports

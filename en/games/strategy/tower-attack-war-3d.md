@@ -19,6 +19,6 @@ Tower Attack War 3D is a free casual online game for boys played on PuzzleGame. 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boy, Brain, Bricks, Fun, Kids, Multiplayer, Online, Puzzle, Stickman, Strategy
+- Tags: Android, Boy, Brain, Bricks, Fun, Kids, Multiplayer, Online, Puzzle, stickman, strategy

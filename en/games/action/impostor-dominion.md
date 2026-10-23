@@ -19,6 +19,6 @@ Upgrade your towers, outsmart tricky enemies, and claim every stronghold on the 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Castle, Fighting, Impostor, Unity3D, War, WebGL
+- Tags: Adventure, Arcade, Castle, fighting, Impostor, Unity3D, War, WebGL

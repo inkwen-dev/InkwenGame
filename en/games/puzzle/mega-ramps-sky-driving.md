@@ -21,4 +21,4 @@ Be Ready and join the extreme car driving with this vertical mega ramp car stunt
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Batman, Bubble, Car, Cars, drift, Mario, Supercars
+- Tags: 8 Ball Pool, Batman, Bubble, Car, Cars, drift, mario, Supercars

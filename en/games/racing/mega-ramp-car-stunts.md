@@ -19,6 +19,6 @@ Mega Ramp Car Stunts plays like a hard-core stunt car-driving simulation game. W
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car

@@ -19,6 +19,6 @@ Full Ball is an arcade game where you have to fill the truck bed with balls. You
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Brain, Hypercasual, Kid, Mobile, Online, Puzzle, Truck
+- Tags: Ball, Brain, Hypercasual, Kid, Mobile, Online, Puzzle, truck

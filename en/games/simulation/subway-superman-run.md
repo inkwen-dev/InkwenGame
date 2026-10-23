@@ -19,6 +19,6 @@ Superman is a fictional superhero appearing in American comic books published by
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Boys, Games, Girls, New, Online, run, running, Simulation, Simulator, subway, Subway Surfers, Superhero

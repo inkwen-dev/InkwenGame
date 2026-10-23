@@ -19,6 +19,6 @@ Great hypercasual puzzle game. Your goal is to destroy blocks and reach the poin
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Fun, Kids, Puzzle, Skill
+- Tags: block, Fun, Kids, Puzzle, Skill

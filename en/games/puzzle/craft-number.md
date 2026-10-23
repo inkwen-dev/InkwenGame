@@ -21,4 +21,4 @@ Craft Number is an engaging math puzzle game where you combine numbers to reach 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Classic, Logic, Math
+- Tags: block, Classic, Logic, math

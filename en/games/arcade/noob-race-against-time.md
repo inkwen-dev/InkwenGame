@@ -21,4 +21,4 @@ In this adventure, you need to collect all the gold and obtain the key to the ch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Arcade, mineblock, Minecraft, Pixel
+- Tags: 1 Player, Adventure, Arcade, mineblock, Minecraft, pixel

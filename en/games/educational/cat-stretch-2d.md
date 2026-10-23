@@ -21,4 +21,4 @@ Cat Stretch is a really simple game where you suppost to help the cat to get int
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Clicker, Educational, Fun, Hypercasual
+- Tags: Adventure, Clicker, educational, Fun, Hypercasual

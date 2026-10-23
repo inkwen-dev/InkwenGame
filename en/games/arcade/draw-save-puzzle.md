@@ -21,4 +21,4 @@ Draw Save Puzzle - draw one line to save Stickman from the threat! Are you a goo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Best Games, Bird, Brain, Casual, Game, Games, Puzzle, Stickman
+- Tags: 1 Player, 2D, Arcade, Best Games, Bird, Brain, Casual, Game, Games, Puzzle, stickman

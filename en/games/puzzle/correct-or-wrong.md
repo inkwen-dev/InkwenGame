@@ -21,4 +21,4 @@ Correct or Wrong is mathematical logic puzzle game where you need to click on co
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Math, Number, Puzzle
+- Tags: math, Number, Puzzle

@@ -21,4 +21,4 @@ Extreme entertainment with tracks in Beat Shooter. Not a spontaneous game, but y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Boys, Girls, Gun, Kid, Music
+- Tags: Best Games, Boys, Girls, Gun, Kid, music

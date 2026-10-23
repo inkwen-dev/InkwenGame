@@ -21,4 +21,4 @@ Pirate Run a great HTML5 platform game. Control pirate on the lone island and pi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, HTML5, Jumping, Pirate, Platform
+- Tags: Action, HTML5, jumping, Pirate, Platform

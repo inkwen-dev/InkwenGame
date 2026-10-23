@@ -21,4 +21,4 @@ Start building and show the world your best game and constructions. Crafting and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, Cars, Craft, Crafting, Crazy, Driving, Gun, Mine, Minecraft, Miner, Multiplayer, Shooting, Simulator, WebGL
+- Tags: .io, .io Games, 1 Player, Cars, Craft, Crafting, crazy, Driving, Gun, Mine, Minecraft, Miner, Multiplayer, Shooting, Simulator, WebGL

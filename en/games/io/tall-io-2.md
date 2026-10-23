@@ -21,4 +21,4 @@ Help your stickman to become as tall as possible. Collect cubes of your color, r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Arcade, Arena, Brawl, Cartoon, Casual, Collecting, Crazy, HTML5, Hypercasual, Stickman
+- Tags: .io, .io Games, Arcade, Arena, Brawl, Cartoon, Casual, Collecting, crazy, HTML5, Hypercasual, stickman

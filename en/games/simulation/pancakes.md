@@ -19,6 +19,6 @@ Easy To play And hard to master! Try To make the biggest Hamburger! Tap at the r
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Balance, Cook, Cooking, Fun, Hypercasual

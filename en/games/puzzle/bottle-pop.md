@@ -19,6 +19,6 @@ You have to pop bottles in the exciting arcade game Bottle Pop! Make the bottle 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Fun, Girls, Kids, Mobile

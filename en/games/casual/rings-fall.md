@@ -21,4 +21,4 @@ Interesting arcade game, throw off all the rings in the goal, it can be difficul
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Casual, Cool, Funny, HTML5, WebGL
+- Tags: 3D, 3D Games, Casual, cool, Funny, HTML5, WebGL

@@ -21,4 +21,4 @@ Connect: Monsters is a fun online puzzle game that enhances your mental skills t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Logic, Matching, merge, Mobile, Monster, Puzzle
+- Tags: Brain, Logic, Matching, merge, Mobile, monster, Puzzle

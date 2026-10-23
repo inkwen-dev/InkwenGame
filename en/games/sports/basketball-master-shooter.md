@@ -21,4 +21,4 @@ Basketball Master Shooter is shooter sport game where you need to aim and shoot 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Basketball, Shoot
+- Tags: Ball, basketball, Shoot

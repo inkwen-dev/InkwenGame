@@ -19,6 +19,6 @@ The main goal of the puzzle game is to draw a lines as a bridge and to guide a b
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Brain, Draw, Drawing, free games for your website, Logical, unity games for your website
+- Tags: 2D, Brain, Draw, drawing, free games for your website, Logical, unity games for your website

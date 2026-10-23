@@ -19,6 +19,6 @@ Experience a hot and trend hypercasual game Run Giant 3D with a combination of r
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Collecting, Highscore, HTML, Hypercasual, Mobile, Online, Platform, run, running, Skill, Stickman
+- Tags: 3D, Avoid, Collecting, Highscore, HTML, Hypercasual, Mobile, Online, Platform, run, running, Skill, stickman

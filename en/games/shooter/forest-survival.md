@@ -21,4 +21,4 @@ Forest Survival is a shooter game with a pixelated theme where beside shooting a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Block, Shooting, Unity3D, WebGL
+- Tags: Action, block, Shooting, Unity3D, WebGL

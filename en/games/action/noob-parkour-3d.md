@@ -19,6 +19,6 @@ How about becoming a 3d parkour? Become the best parker and complete the tracks 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Action, Adventure, Android, Arcade, Minecraft

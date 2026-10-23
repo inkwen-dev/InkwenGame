@@ -21,4 +21,4 @@ Are you into Ninja Turtle ? Ninja Turtle Coloring Book: A Stunning Coloring Book
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Cartoon, Color, Coloring, Draw, Drawing, Ninja, Puzzle
+- Tags: Arcade, Cartoon, Color, Coloring, Draw, drawing, ninja, Puzzle

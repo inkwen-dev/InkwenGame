@@ -21,4 +21,4 @@ This time, the adventure begins with the biggest and the most powerful vehicles 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, Crazy, Race, Racing, Stunts
+- Tags: 2 Player, 2 Player Games, 3D, crazy, Race, Racing, Stunts

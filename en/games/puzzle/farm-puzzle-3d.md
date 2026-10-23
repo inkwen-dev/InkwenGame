@@ -19,6 +19,6 @@ Farm Puzzle goal is easy... Go through all the areas without leaving any and wit
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Brain, Casual, Crazy, Farm, Mind, Puzzle
+- Tags: 3D Games, Brain, Casual, crazy, Farm, Mind, Puzzle

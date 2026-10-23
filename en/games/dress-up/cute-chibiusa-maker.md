@@ -19,6 +19,6 @@ Everyone loves anime. This is an incredible art style. Feel like a real anime ar
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Anime, Cartoon, Creation, Decorate, Dress Up, Fantasy, Fashion, Girls, HTML5, Kids, Makeover, RPG
+- Tags: 1 Player, Anime, Cartoon, Creation, Decorate, Dress Up, Fantasy, Fashion, Girls, HTML5, Kids, Makeover, rpg

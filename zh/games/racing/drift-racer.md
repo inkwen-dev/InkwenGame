@@ -21,4 +21,4 @@ WASD或方向键控制车辆 空格键手刹 C键切换视角 左Shift键加速 
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 漂移, 漂移驾驶, 警察, 竞速
+- 标签: 漂移, 漂移, 警察, 比赛

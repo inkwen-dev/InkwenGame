@@ -19,6 +19,6 @@ Before you on the screen, cards will be visible on which various Easter eggs wil
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Easter, Memory
+- Tags: Adventure, Arcade, Easter, memory

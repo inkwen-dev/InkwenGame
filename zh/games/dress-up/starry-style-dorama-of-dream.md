@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 名人, 装扮, 发型, 换装
+- 标签: 名人, 装扮, 头发, 改造

@@ -21,4 +21,4 @@ An amazing luxurious limo car driving simulator of 2021 is here for you where yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Car, Cars, HTML, HTML5, Parking, Simulation, Simulator
+- Tags: 3D, 3D Games, Car, Cars, HTML, HTML5, parking, Simulation, Simulator

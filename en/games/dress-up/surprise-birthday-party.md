@@ -19,6 +19,6 @@ What can you recall in terms of the birthday party? Do you want to leave a favor
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Cook, Dress Up, surprise

@@ -21,4 +21,4 @@ Its possible now to play Fortnite Memory Match Up game in your web browser for f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Brain, Cartoon Network, Celebrity, Disney, Family, Fun, Girls, HTML5, Kids, Match 3, Memory, Mobile, Skills
+- Tags: Boys, Brain, Cartoon Network, Celebrity, Disney, Family, Fun, Girls, HTML5, Kids, Match 3, memory, Mobile, Skills

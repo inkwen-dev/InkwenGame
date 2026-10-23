@@ -46,4 +46,4 @@ Smooth controls and satisfying shooting effects.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Mobile, Stickman
+- Tags: Action, Mobile, stickman

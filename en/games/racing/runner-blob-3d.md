@@ -19,6 +19,6 @@ Your task is to run with Blob Giant on the platform and collect all the jelly pe
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Blood, Stickman, Superhero, WebGL
+- Tags: 1 Player, 3D, 3D Games, Blood, stickman, Superhero, WebGL

@@ -19,6 +19,6 @@ Complete all Poppy pop it toys to Escape From The Factory! Try to do that as fas
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, 3D, Boy, Boys, Click, Clicker, Girl, HTML5, Jigsaw, Kids, Mobile, Puzzle

@@ -21,4 +21,4 @@ Doodle Car Race is a fun and creative racing game where your car starts with you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Car, Design, Drawing, Physics, Racing
+- Tags: battle, Car, Design, drawing, Physics, Racing

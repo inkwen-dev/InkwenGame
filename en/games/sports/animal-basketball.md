@@ -42,4 +42,4 @@ Call your friends and have a healing and addictive fingertip hoop party!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, Basketball, Mobile, popular, Skill, Sports
+- Tags: animals, basketball, Mobile, popular, Skill, sports

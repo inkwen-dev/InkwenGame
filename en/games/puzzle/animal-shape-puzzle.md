@@ -21,4 +21,4 @@ Animal Shape Puzzle is one casual free online game for kids to play. According t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Animal, Block, Boys, Fun, HTML5, Kids, Matching, Mobile, Online, Puzzle, Relaxation
+- Tags: Android, Animal, block, Boys, Fun, HTML5, Kids, Matching, Mobile, Online, Puzzle, Relaxation

@@ -19,6 +19,6 @@ Fire Brigade is an interesting 3D game, you can play it both on the computer and
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Boy, Bridge, Car, Fire, Hypercasual, Kids, Physics

@@ -24,4 +24,4 @@ Earn money from your guests and invest it in new bathtubs, useful upgrades, work
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, Arcade, cats, cozy, Kids, Management, Simulation
+- Tags: animals, Arcade, cats, cozy, Kids, management, Simulation

@@ -19,6 +19,6 @@ Dodge the bullet, shoot and kill them all in this epic killing shooter game! For
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Casual, Game, Hypercasual, Online, Shoot, Shooter, Shooting

@@ -21,4 +21,4 @@ CatchThem is a car gameThe player will play the role of a police officer driving
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, Police
+- Tags: 3D, Car, police

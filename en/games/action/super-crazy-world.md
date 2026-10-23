@@ -19,6 +19,6 @@ Arrow button to control character and Space to jump
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, Arcade, jump, Jumping, Platform, Side Scrolling, Skill, World
+- Tags: 1 Player, 2 Player, Arcade, jump, jumping, Platform, Side Scrolling, Skill, World

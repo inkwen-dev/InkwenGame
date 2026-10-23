@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 街机, 休闲, 万圣节, 恐怖, HTML5, mapi游戏, 移动设备, 怪物, 射手, 射击游戏, 生存, 僵尸
+- 标签: 动作, 街机, 休闲, 万圣节, 恐怖, HTML5, mapi games, 移动设备, monster, 射击类, 射击, 生存, 僵尸

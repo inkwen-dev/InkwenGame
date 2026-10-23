@@ -21,4 +21,4 @@ The little penguin can't get out of the rooms, the exit is blocked by ice blocks
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Block, Casual, Game, HTML5, Logic, Online, Play
+- Tags: 1 Player, Arcade, block, Casual, Game, HTML5, Logic, Online, Play

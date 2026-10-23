@@ -21,4 +21,4 @@ Pumper Crazy Defense 是一款俯视视角的防御游戏。你必须摧毁不�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 炸弹, 男孩, 防御, 格斗, 射击, 射击, 技巧
+- 标签: 3D, 炸弹, 男孩们, 防御, 格斗, 射击类, 射击, 技巧

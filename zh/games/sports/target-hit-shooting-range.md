@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2026年游戏, 最佳游戏, 免费 HTML5 游戏，适用于您的网站, 枪械, 射击, 射击, 技巧, 运动, unity游戏, WebGL
+- 标签: 2026 游戏, 最佳游戏, 免费HTML5游戏供您的网站使用, 枪械, 射击, 射击, 技巧, 体育, unity游戏, WebGL

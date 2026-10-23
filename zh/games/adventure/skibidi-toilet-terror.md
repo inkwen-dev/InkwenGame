@@ -21,4 +21,4 @@ WASD - 移动 空格键 - 拾取
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 地下城, 幽灵, 万圣节, HTML5, Skibidi, Skibidi 马桶, WebGL, 僵尸
+- 标签: 单人, 3D, 地牢, 幽灵, 万圣节, HTML5, Skibidi, skibidi-toilet, WebGL, 僵尸

@@ -19,6 +19,6 @@ Real Cars in City is a 3D car simulation with superb graphics and various game m
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Best, Cars, Collecting, drifting, Driving, Hot, Racing, Simulation, Stunts, Supercars

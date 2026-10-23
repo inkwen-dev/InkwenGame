@@ -21,4 +21,4 @@ This game has a lot of success review and player this MONTH that significantly i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Bubble Shooter, Crazy, Kid, Kids, Rocket, Shoot, Shoot 'Em Up, Shooter, Shooting
+- Tags: 1 Player, Bubble Shooter, crazy, Kid, Kids, Rocket, Shoot, Shoot 'Em Up, Shooter, Shooting

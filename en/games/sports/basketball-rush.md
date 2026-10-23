@@ -33,4 +33,4 @@ Ranked games go on the global leaderboard and count toward your league, and you 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Ball, Basketball, Physics, Skill, Sports
+- Tags: Arcade, Ball, basketball, Physics, Skill, sports

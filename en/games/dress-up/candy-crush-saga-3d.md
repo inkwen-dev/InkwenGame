@@ -19,6 +19,6 @@ Master the legendary match 3 puzzle game from King! With over a trillion matchin
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Candy, Car, Cars, Collection, Creation, Decoration, Educational, Fashion, Interactive Fiction, Mario, Minion, Race, Racing, Relaxation, Seduction, Simulation, Violence
+- Tags: .io, .io Games, Action, Candy, Car, Cars, Collection, Creation, Decoration, educational, Fashion, Interactive Fiction, mario, Minion, Race, Racing, Relaxation, Seduction, Simulation, Violence

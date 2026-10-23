@@ -21,4 +21,4 @@ Get as far as you can in the jungle in this infinite 2D sidescroller game. Selec
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Cat, Jumping, run, running
+- Tags: Adventure, Cat, jumping, run, running

@@ -19,6 +19,6 @@ Do you have what it takes to be the Champion? Choose your weapon and take to the
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, 8 Ball Pool, Action, Adult, Baby, Ball, Bejeweled, Blood, Business, Cake, Casino, Click, Collection, Cute, Friv, Sofia, Sudoku, temple, Turn Based, Zombie

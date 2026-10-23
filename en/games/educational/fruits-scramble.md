@@ -19,6 +19,6 @@ This is a photo word scramble game with fruits theme. In this game first try to 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Fruits, HTML5, Kids, Mobile, Puzzle, School, Word
+- Tags: educational, Fruits, HTML5, Kids, Mobile, Puzzle, School, word

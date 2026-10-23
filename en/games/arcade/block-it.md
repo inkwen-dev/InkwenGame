@@ -19,6 +19,6 @@ Block It is a very interesting block puzzle game. In this game you need to pick 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, HTML5, Mobile, Puzzle, Skill
+- Tags: Arcade, block, HTML5, Mobile, Puzzle, Skill

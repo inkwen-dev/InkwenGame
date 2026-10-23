@@ -19,6 +19,6 @@ TRAP FIELD TRAP FIELD is a game with a minimalist design that takes place in a m
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, Arcade, Best, Casual, Click, Game, Games, HTML, HTML5, Hypercasual, Memory, Mine, Miner, Obstacle, Retro
+- Tags: .io, .io Games, 1 Player, Arcade, Best, Casual, Click, Game, Games, HTML, HTML5, Hypercasual, memory, Mine, Miner, Obstacle, retro

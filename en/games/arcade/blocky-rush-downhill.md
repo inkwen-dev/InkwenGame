@@ -21,4 +21,4 @@ In this exhilarating endless level-based game, you move the character down by ta
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Clicker, HTML, HTML5, jump, Jumping, Mobile, Unity3D
+- Tags: Android, Clicker, HTML, HTML5, jump, jumping, Mobile, Unity3D

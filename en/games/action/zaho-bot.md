@@ -21,4 +21,4 @@ Zaho Bot is a Sci-fi themed platformer where you play as a robot who have to col
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Cute, Jumping, Pixel, Platform, Retro, Robot, Science
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Cute, jumping, pixel, Platform, retro, Robot, Science

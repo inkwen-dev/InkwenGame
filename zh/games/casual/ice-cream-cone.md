@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Animal, 卡通, Food, 冰, 儿童
+- 标签: 动物, 卡通, 食物, 冰, 儿童

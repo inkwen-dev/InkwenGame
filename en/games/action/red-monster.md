@@ -21,4 +21,4 @@ The city is under attack. Use your superhero strength to protect the innocent ag
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: city, Monster
+- Tags: city, monster

@@ -21,4 +21,4 @@ Fall Days：欢迎来到 Cyber Guys 游戏世界！完成数十个关卡并收�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 人玩家, 2D, 冒险, 安卓, 街机
+- 标签: 单人, 2D, 冒险, 安卓, 街机

@@ -21,4 +21,4 @@ Hey Guys are you excited to drive a animal transport truck? We are coming up wit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Animal, Driving, HTML, HTML5, Racing, Simulation, Simulator, Truck
+- Tags: 3D Games, Animal, Driving, HTML, HTML5, Racing, Simulation, Simulator, truck

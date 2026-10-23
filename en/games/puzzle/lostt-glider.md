@@ -19,6 +19,6 @@ Player collect coins and clear levels also player need to dodge enemy attacks . 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Play, Puzzle

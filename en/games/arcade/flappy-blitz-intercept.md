@@ -19,6 +19,6 @@ Get ready for an adrenaline-pumping twist on the classic flapping frenzy! In Fla
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, Action, Arcade, flappybird, Flight, unblockedgames76
+- Tags: 1 Player, 2025 games, Action, Arcade, flappybird, flight, unblockedgames76

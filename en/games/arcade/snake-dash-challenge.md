@@ -19,6 +19,6 @@ This game Snake passing is a new mode for a regular snake, in which you do not n
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Snake
+- Tags: 1 Player, 2D, Arcade, snake

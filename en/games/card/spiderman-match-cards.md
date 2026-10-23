@@ -21,4 +21,4 @@ Let's play matching cards with pictures of spiderman and his enemies. Let's stre
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Card, Game, Games, HTML5, Matching, Memory, Spiderman
+- Tags: Boys, card, Game, Games, HTML5, Matching, memory, Spiderman

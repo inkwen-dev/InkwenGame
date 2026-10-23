@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 颜色, 游戏, 在线, 跑, 跑步, Stickman, 剑
+- 标签: 3D, 颜色, 网页游戏, 在线, 跑, 奔跑, 木偶人, 剑

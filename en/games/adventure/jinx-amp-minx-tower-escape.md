@@ -19,6 +19,6 @@ Its Halloween, and the skeleton Jinx and Minx bunnies are trapped high in an aba
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Brain, Escape, Girl, Girls, Halloween, Kid, Kids, Logic, Logical

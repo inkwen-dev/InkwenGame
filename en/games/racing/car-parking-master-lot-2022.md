@@ -21,4 +21,4 @@ Move them so we can clear the way. Stay put! You have to maneuver the automobile
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Android, Car, HTML5, Mobile, Parking, Simulator, Unity3D, WebGL
+- Tags: 3D Games, Android, Car, HTML5, Mobile, parking, Simulator, Unity3D, WebGL

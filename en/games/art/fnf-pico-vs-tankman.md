@@ -21,4 +21,4 @@ It's Pico and Tankman from Week "3" and Week "7" from Friday Night Funkin Pico a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Drawing, Robot, Stickman
+- Tags: Baby, drawing, Robot, stickman

@@ -19,6 +19,6 @@ Match 3 or more identical halloween avatars to make them explode before time run
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML5, Logic, Match 3, Match3, Matching, Mobile

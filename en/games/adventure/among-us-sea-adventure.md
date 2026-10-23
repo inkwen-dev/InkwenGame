@@ -19,6 +19,6 @@ Among Us Sea Adventure - Pill pull game is a fascinating puzzle game with an und
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Hypercasual, Puzzle

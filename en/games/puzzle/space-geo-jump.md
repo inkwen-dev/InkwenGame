@@ -19,6 +19,6 @@ Space Geo Jump is a fast paced dash and jump platfrom game. Touch the left and r
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Fun, HTML5, jump, Jumping, Kids, Skill
+- Tags: Ball, Fun, HTML5, jump, jumping, Kids, Skill

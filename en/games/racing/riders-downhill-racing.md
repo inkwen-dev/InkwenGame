@@ -19,6 +19,6 @@ Riders are ready! Would you like to join them in a great adventure with Riders D
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, atv, Bike, Car, fly, Race, Simulation, Simulator, Stunts
+- Tags: 2 Player, 2 Player Games, atv, bike, Car, fly, Race, Simulation, Simulator, Stunts

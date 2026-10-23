@@ -21,4 +21,4 @@ In Epic Basketball you will find realistic physics, crazy characters, unlimited 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Basketball, Casual, Sport, Sports
+- Tags: Arcade, basketball, Casual, Sport, sports

@@ -21,4 +21,4 @@ If you want to enjoy parking and you are tired of usual vehicles like bus, truck
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adventure, Arcade, Bike, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Fun, Funny, Game, Games, Girl, Moto, Motorcycle, Parking, Simulation, Simulator, sky, Supercars, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adventure, Arcade, bike, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Fun, Funny, Game, Games, Girl, Moto, Motorcycle, parking, Simulation, Simulator, sky, Supercars, truck

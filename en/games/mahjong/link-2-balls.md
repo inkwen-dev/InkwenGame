@@ -21,4 +21,4 @@ Do you like Onet puzzle Games? Well! Link 2 Ball is an amazing onet linking puzz
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Clicker, Mahjong, Matching
+- Tags: Arcade, Casual, Clicker, mahjong, Matching

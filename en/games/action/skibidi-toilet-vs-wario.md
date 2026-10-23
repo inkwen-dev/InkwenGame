@@ -19,6 +19,6 @@ Skibidi Toilet vs Wario is an amazing ans super fun running game that you can pl
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Avoid, Boy, Fun, HTML5, Hypercasual, jump, Jumping, Mario, Obstacle, run, running, Skibidi Toilet
+- Tags: Android, Arcade, Avoid, Boy, Fun, HTML5, Hypercasual, jump, jumping, mario, Obstacle, run, running, skibidi-toilet

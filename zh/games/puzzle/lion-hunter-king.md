@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, Android, 动物, 男孩, 泡泡射击, 经典, 飞行
+- 标签: 3D, 3D游戏, 安卓, 动物, 男孩们, 泡泡射击, 经典, 飞行

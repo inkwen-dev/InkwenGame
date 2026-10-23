@@ -25,4 +25,4 @@ Pocket Chess 3D is an addictive 3D tactical puzzle game that transforms classic 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Brain, chess, Logic, Puzzle, Strategy
+- Tags: 3D, Brain, chess, Logic, Puzzle, strategy

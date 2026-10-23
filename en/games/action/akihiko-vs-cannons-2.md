@@ -21,4 +21,4 @@ Akihiko vs Cannons 2 is a 2D platformer where you have collect gold bars while a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Collecting, Cute, jump, Jumping, Pixel, Platform, Robot, Stealth
+- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Collecting, Cute, jump, jumping, pixel, Platform, Robot, Stealth

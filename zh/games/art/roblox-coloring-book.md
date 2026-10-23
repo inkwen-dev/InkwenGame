@@ -21,4 +21,4 @@ Roblox 涂色书是一款引人入胜且富有创意的游戏，为玩家提供�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 颜色, 涂色
+- 标签: 颜色, 着色

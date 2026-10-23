@@ -19,6 +19,6 @@ Just pull the pin with your mouse and collect the ball with the cup.
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Collecting, HTML5, Skill

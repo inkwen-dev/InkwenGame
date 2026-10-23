@@ -21,4 +21,4 @@ World of Alice - Farm Animals With the help of Alice, learn in a fun way which a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cartoon, Cat, Chicken, Click, Farm, Game, Horse, HTML5, Kids, Letters, Mobile, School, Word
+- Tags: Animal, Cartoon, Cat, Chicken, Click, Farm, Game, horse, HTML5, Kids, Letters, Mobile, School, word

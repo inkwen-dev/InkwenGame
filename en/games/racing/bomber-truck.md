@@ -19,6 +19,6 @@ In this game you need to transport bombs with the truck. But the terrain is hard
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collecting, Skills, Truck
+- Tags: Collecting, Skills, truck

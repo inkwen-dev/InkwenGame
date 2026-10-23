@@ -19,6 +19,6 @@ Slot the fruits and get good points. Fruit Machines has got to be the best fruit
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casino, Click, Clicker, Hypercasual, Puzzle

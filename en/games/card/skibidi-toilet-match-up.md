@@ -19,6 +19,6 @@ time to test your memory in the Skibidi Toilet Match UP game! Join the Skibidi T
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Card, Matching, Mind, Skibidi, Skibidi Toilet
+- Tags: Brain, card, Matching, Mind, Skibidi, skibidi-toilet

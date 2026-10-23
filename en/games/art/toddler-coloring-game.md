@@ -19,6 +19,6 @@ Draw all the colorful animals step by step. Painting for kids will be the best p
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Coloring, Educational, Fun, Game, Girls, HTML5, Kids, Mobile
+- Tags: Animal, Coloring, educational, Fun, Game, Girls, HTML5, Kids, Mobile

@@ -21,4 +21,4 @@ Royal Jelly Jam is a cozy Color Block Jam&ndash;style puzzle: slide each colored
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, puzzleblock
+- Tags: block, puzzleblock

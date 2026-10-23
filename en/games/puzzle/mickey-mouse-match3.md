@@ -21,4 +21,4 @@ Agree that the toys from the series "three in a row" is not enough to surprise y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Match-3, Mobile
+- Tags: HTML5, Match 3, Mobile

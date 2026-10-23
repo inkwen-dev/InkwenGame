@@ -21,4 +21,4 @@ Start an adventure with the fearless and equipped stickman! Defeat the enemies t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Battle, Boy, Collecting, Fight, Fighting, Stickman, War
+- Tags: 1 Player, Action, Adventure, battle, Boy, Collecting, Fight, fighting, stickman, War

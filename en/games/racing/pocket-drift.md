@@ -19,6 +19,6 @@ Pocket Drift is a straightforward racing game that puts players in the driver's 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Best, Car, Cars, drift, drifting, H5, Kart, Race, Racing

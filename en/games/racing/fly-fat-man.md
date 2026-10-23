@@ -21,4 +21,4 @@ Flying Fat Man is a side-scrolling adventure game to play. Here is the fat man w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: endless, Flight, fly, Super, Superhero
+- Tags: endless, flight, fly, Super, Superhero

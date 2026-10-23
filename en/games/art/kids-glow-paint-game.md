@@ -21,4 +21,4 @@ Experience the joy of a captivating coloring and painting adventure now availabl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Boy, Cake, Coloring, Cute, Drawing, Educational, Fun, Girls, HTML5, Kids, Mobile, Panda, Princess
+- Tags: Animal, Boy, Cake, Coloring, Cute, drawing, educational, Fun, Girls, HTML5, Kids, Mobile, Panda, Princess

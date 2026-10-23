@@ -19,6 +19,6 @@ Add some color to your favorite cute Pokemon! Another one coloring game from vid
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Coloring, Fun, HTML5, Kids, Mobile, Pokemon, School

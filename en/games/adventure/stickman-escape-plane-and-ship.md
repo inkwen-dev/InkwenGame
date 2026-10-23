@@ -24,4 +24,4 @@ In this game you need to find all the successful options for escaping from the p
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Escape, Mobile, Stickman
+- Tags: Escape, Mobile, stickman

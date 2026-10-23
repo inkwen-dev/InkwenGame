@@ -19,6 +19,6 @@ Pentablocks is an intense bullet-hell dodging game channeling Slopes infamous re
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 2025 games, 2D, Arcade, Ball

@@ -21,4 +21,4 @@ WASD- 移动 鼠标- 瞄准 观察四周 射击 Tab- 菜单 空格键- 跳跃
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 方块, 多人, 像素, 射手, 射击, Unity3D, WebGL
+- 标签: 方块, 多人, 像素, 射击类, 射击, Unity3D, WebGL

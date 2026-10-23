@@ -19,6 +19,6 @@ Dino Transport Truck is a 3D game where you are a truck driver and your job is t
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: dino, Dinosaur, Truck, Unity3D, WebGL
+- Tags: dino, Dinosaur, truck, Unity3D, WebGL

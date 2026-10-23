@@ -19,6 +19,6 @@ Pill Escape is a puzzle game inspired by the rush-hour style, where your goal is
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Block, Board, Puzzle
+- Tags: 1 Player, 2D, block, Board, Puzzle

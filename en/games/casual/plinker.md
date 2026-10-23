@@ -21,4 +21,4 @@ Plinker is a fast-paced and addictive game where players drop a ball and guide i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Block, Highscore
+- Tags: Ball, block, Highscore

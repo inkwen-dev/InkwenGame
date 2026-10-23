@@ -21,4 +21,4 @@ Drop candy blocks onto the grid and fill rows and columns to make them disappear
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Candy, Casual, Family, Girls, mapi games, Puzzle, puzzleblock, Tetris
+- Tags: Brain, Candy, Casual, Family, Girls, mapi games, Puzzle, puzzleblock, tetris

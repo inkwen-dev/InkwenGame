@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 冒险, 街机, 箭矢, arrows, 突袭, HTML游戏供您的网站使用, 物理, 策略, unity游戏
+- 标签: 3D, 3D游戏, 冒险, 街机, 箭矢, 箭头, 攻击, HTML游戏供您的网站使用, 物理, 策略, unity游戏

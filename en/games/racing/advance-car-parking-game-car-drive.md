@@ -21,4 +21,4 @@ You can set camera angle by swiping on screen up, down left and right. zoom in a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: city, Fun, Funny, Machine, Monster, Parking, Race, Racing, run, running, Simulation, Simulator, Sports, Stunts
+- Tags: city, Fun, Funny, Machine, monster, parking, Race, Racing, run, running, Simulation, Simulator, sports, Stunts

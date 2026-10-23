@@ -21,4 +21,4 @@ Enter a cozy kitchen and start your delicious adventure with Kids Kitchen Cozy C
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cute, Educational, Food, Hypercasual
+- Tags: Cute, educational, Food, Hypercasual

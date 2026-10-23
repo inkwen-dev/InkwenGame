@@ -19,6 +19,6 @@ Bad monsters kidnapped the beautiful princess and our hero Super Martin heard th
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Mario, Platform, Side Scrolling
+- Tags: 1 Player, Adventure, mario, Platform, Side Scrolling

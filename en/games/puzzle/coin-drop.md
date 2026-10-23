@@ -21,4 +21,4 @@ Play at Coin Drop and have fun with this entertaining puzzle game! The goal of t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Brain, HTML, HTML5, Logic, Logical, Mobile, Physics, Puzzle
+- Tags: block, Brain, HTML, HTML5, Logic, Logical, Mobile, Physics, Puzzle

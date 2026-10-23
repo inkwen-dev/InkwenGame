@@ -19,6 +19,6 @@ X-Trail Racing is a top-of-the-line gaming app that is completely free and enter
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, HTML5, Race, Racing

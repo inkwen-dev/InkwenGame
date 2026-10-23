@@ -21,4 +21,4 @@ Desktop A or D Left or Right Arrow Walk W or S Up or Down Arrow Ladders S Down A
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, HTML5, Mario, Platform, Side Scrolling
+- Tags: 1 Player, HTML5, mario, Platform, Side Scrolling

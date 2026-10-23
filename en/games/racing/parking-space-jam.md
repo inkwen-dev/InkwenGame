@@ -19,6 +19,6 @@ You must save the vehicles stuck in the parking lot. You have to guide the helpl
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Android, Arena, Best, Boy, bus, Car, Cars, Casual, Driving, Fun, Hypercasual, Mobile, Parking, Traffic, Truck, Unity3D
+- Tags: 1 Player, Android, Arena, Best, Boy, bus, Car, Cars, Casual, Driving, Fun, Hypercasual, Mobile, parking, Traffic, truck, Unity3D

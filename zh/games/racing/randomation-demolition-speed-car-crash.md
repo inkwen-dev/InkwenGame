@@ -21,4 +21,4 @@ Tab - 菜单 方向键 - 驾驶 C键 - 切换视角相机 F - 加速 R - 重新�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1人, 3D游戏, 汽车, 驾驶, Unity3D, WebGL
+- 标签: 单人, 3D游戏, 汽车, 驾驶, Unity3D, WebGL

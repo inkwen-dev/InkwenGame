@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 进食, 教育, 免费网站游戏, 免费HTML5游戏，适用于您的网站, 游戏, html5游戏, NapTech Games, 拼图, WebGL
+- 标签: 进食, 教育, 免费游戏供你的网站使用, 免费HTML5游戏供您的网站使用, 游戏, HTML5游戏, NapTech 游戏, 益智, WebGL

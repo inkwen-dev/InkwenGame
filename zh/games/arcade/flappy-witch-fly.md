@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 鸟, 大脑, 休闲, flappybird, 性感, 马里奥, 超级
+- 标签: 小鸟, 大脑, 休闲, flappybird, 热门, mario, 超级

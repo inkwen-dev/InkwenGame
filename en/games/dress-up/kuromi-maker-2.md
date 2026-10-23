@@ -21,4 +21,4 @@ The villainous rabbit Kuromi won anime fans over with her cute appearance and mi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Baby, Cartoon, Color, Coloring, Creation, Cute, Decorate, Decoration, Design, Dress Up, Fantasy, Fashion, Fun, Funny, Girl, Hair, Halloween, HTML5, Kid, Kids, Makeover, Monster
+- Tags: Anime, Baby, Cartoon, Color, Coloring, Creation, Cute, Decorate, Decoration, Design, Dress Up, Fantasy, Fashion, Fun, Funny, Girl, Hair, Halloween, HTML5, Kid, Kids, Makeover, monster

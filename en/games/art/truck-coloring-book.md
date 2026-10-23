@@ -21,4 +21,4 @@ Truck Coloring Book is a free online coloring and truck game! In this game you w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Educational, Fun, HTML5, Mobile, Skill, Truck
+- Tags: Color, Coloring, educational, Fun, HTML5, Mobile, Skill, truck

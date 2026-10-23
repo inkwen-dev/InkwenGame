@@ -21,4 +21,4 @@ It’s Giddy Poppy the hottest game on the charts at the moment! Tap To Match Th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Crazy, Girls, HTML, HTML5, Logic, Memory, Mobile, Monster, Puzzle
+- Tags: Boy, crazy, Girls, HTML, HTML5, Logic, memory, Mobile, monster, Puzzle

@@ -21,4 +21,4 @@ Play the legendary tetris game on a classic game machine.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Classic, Matching, Retro, Tetris
+- Tags: Classic, Matching, retro, tetris

@@ -19,6 +19,6 @@ Help Mr. Jack Lantern to collect all missing pumpkins! Use the physic to move an
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Halloween, HTML, HTML5, Mobile, Monster, Puzzle
+- Tags: Boy, Halloween, HTML, HTML5, Mobile, monster, Puzzle

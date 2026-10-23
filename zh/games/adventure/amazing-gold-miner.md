@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 冒险, 免费 HTML5 游戏，适用于您的网站, HTML5, html5游戏, 在线
+- 标签: 单人, 冒险, 免费HTML5游戏供您的网站使用, HTML5, HTML5游戏, 在线

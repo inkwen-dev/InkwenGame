@@ -41,4 +41,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, 麻将, 解谜
+- 标签: 3D, mahjong, 益智

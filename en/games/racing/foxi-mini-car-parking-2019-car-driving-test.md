@@ -21,4 +21,4 @@ Foxi Mini Car Parking 2019 Car Driving Test, with best graphics, is full of adve
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boys, Car, Driving, HTML5, Parking, Simulation, Skill, WebGL
+- Tags: 3D, Boys, Car, Driving, HTML5, parking, Simulation, Skill, WebGL

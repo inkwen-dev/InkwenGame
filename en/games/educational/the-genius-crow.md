@@ -19,6 +19,6 @@ The Genius Crow is a fun and educational puzzle game inspired by the classic fab
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Educational, HTML5, html5 games, Hypercasual, Kids, Levels, Logic, Mobile, NapTech Games, Online, Physics, Puzzle
+- Tags: Brain, Casual, educational, HTML5, html5 games, Hypercasual, Kids, Levels, Logic, Mobile, NapTech Games, Online, Physics, Puzzle

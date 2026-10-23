@@ -19,6 +19,6 @@ The lovely princess Mia and Emma are going to celebrate the independence day. Co
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Barbie, Ben 10, Crazy, Dora, Dress Up, Fashion, Food, Friv, Frozen, Girls, Kids, Subway Surfers
+- Tags: Barbie, Ben 10, crazy, Dora, Dress Up, Fashion, Food, Friv, Frozen, Girls, Kids, Subway Surfers

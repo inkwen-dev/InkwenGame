@@ -19,6 +19,6 @@ Ninja warrior survival hero is an epic fun game in which you will show all your 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, 8 Ball Pool, Action, Adult, Adventure, Android, Mind, Minecraft, Ninja, running
+- Tags: 3D Games, 8 Ball Pool, Action, Adult, Adventure, Android, Mind, Minecraft, ninja, running

@@ -21,4 +21,4 @@ Black Friday shopping is fun! To buy things you need to match tiles with the sam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, Mahjong, Matching, Puzzle
+- Tags: 1 Player, block, mahjong, Matching, Puzzle

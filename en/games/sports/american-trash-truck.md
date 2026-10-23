@@ -19,6 +19,6 @@ Game Features: • 4 Garbage trucks • High HD graphics • Open world • Inte
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 3D, Adult, Adventure, Battle, Billiard, Crazy, Point And Click, running, Truck
+- Tags: .io, .io Games, 1 Player, 3D, Adult, Adventure, battle, Billiard, crazy, Point And Click, running, truck

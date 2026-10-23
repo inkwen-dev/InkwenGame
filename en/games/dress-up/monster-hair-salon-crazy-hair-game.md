@@ -21,4 +21,4 @@ Give your monsters the creepiest hairstyles ever at the Monster Hair Salon! Curl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Girls, Hair, Monster
+- Tags: Girls, Hair, monster

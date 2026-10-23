@@ -21,4 +21,4 @@ Assassin Commando Car Driving is a vertical-version car battle arcade game with 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Car, Fighting
+- Tags: 1 Player, Car, fighting

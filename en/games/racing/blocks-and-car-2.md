@@ -21,4 +21,4 @@ Blocks and Car is a fun and casual puzzle game that combines Tetris-style block 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: bus, Casual, Clash, Cool, Puzzle
+- Tags: bus, Casual, Clash, cool, Puzzle

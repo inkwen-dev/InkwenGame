@@ -21,4 +21,4 @@ Join the exciting world of Hero Tower Wars - Merge Puzzle! Here is filled with t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Defense, grow, Strategy
+- Tags: battle, Defense, grow, strategy

@@ -21,4 +21,4 @@ Ultimate Swish is a basketball game. Click the screen or press the spacebar to s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Sport, Sports
+- Tags: basketball, Sport, sports

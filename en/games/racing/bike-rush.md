@@ -21,4 +21,4 @@ Bike Rush is a cool 3D bike racing game, you will drive your favorite car and jo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Balance, Bike, Boy, Boys, H5, Highscore, HTML, HTML5, Kids, Mobile, Obstacle, Race, Racing, Skill, Skills, Stunts
+- Tags: 3D, 3D Games, Balance, bike, Boy, Boys, H5, Highscore, HTML, HTML5, Kids, Mobile, Obstacle, Race, Racing, Skill, Skills, Stunts

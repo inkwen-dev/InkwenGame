@@ -21,4 +21,4 @@ Snake io war 将全新的流行美学与最经典的贪吃蛇游戏机制相结�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 2D, 冒险, Android, 动物, 蛇
+- 标签: .io, .io 游戏, 2D, 冒险, 安卓, 动物, snake

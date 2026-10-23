@@ -21,4 +21,4 @@ Connect all the delicious food mahjong tiles and clear the board in this html5 m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Food, HTML5, Mahjong, Mobile
+- Tags: Food, HTML5, mahjong, Mobile

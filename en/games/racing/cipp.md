@@ -21,4 +21,4 @@ Some crazy city driver are driving on the city road, as they own all the city st
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Car, Casual, Fun, Funny, Hot, Hypercasual, Parking, Race, Racing, Taxi, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Car, Casual, Fun, Funny, Hot, Hypercasual, parking, Race, Racing, Taxi, Unity3D

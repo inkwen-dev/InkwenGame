@@ -15,6 +15,6 @@ Guide vibrant sheep to their matching barns in Sheep Rush, a fast-paced, color-c
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Casual

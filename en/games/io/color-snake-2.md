@@ -21,4 +21,4 @@ Color Snake Switch Game, Switch the color of your snake, slide through your colo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Boys, Clicker, Color, Snake
+- Tags: .io, Boys, Clicker, Color, snake

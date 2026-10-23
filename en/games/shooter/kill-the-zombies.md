@@ -21,4 +21,4 @@ Between order and total chaos in this world, a very thin line has remained and t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting, HTML5, Kill, Killing, Mobile, Shoot 'Em Up, Shooting, Skill, Zombie
+- Tags: Fight, fighting, HTML5, Kill, Killing, Mobile, Shoot 'Em Up, Shooting, Skill, Zombie

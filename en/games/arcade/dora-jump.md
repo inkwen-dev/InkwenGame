@@ -19,6 +19,6 @@ Oh no! Backpack and Map have been swiped and blown away! Dora and Boots need you
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player Games, 2D, 3D Games, 8 Ball Pool, Action, Adventure, Alien, Baby, Baby Hazel, Ben 10, Cartoon, Cartoon Network, Coloring, Dora

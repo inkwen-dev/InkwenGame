@@ -21,4 +21,4 @@ Dive into the world of delicious desserts and be a master cake baker in the swee
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cake, Cooking, Decoration, Educational, Girls, Makeover, Nail
+- Tags: Cake, Cooking, Decoration, educational, Girls, Makeover, Nail

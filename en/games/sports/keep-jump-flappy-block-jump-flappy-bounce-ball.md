@@ -21,4 +21,4 @@ Remember playing Bounce on your old phone? It is now available on your Android d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Adventure, Baby, Baby Hazel, Balance, Ball, Ballon, Basketball, Bounce, Boy, Football, Girl, HTML, HTML5, Puzzle, Sport, WebGL
+- Tags: Adult, Adventure, Baby, Baby Hazel, Balance, Ball, Ballon, basketball, Bounce, Boy, Football, Girl, HTML, HTML5, Puzzle, Sport, WebGL

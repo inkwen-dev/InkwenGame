@@ -21,4 +21,4 @@ Shadow Forge is a dark-fantasy Tower Defense × Action-RPG hybrid. Build and upg
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: pve, RPG, Shooting, Strategy, Tower Defense
+- Tags: pve, rpg, Shooting, strategy, Tower Defense

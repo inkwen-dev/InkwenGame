@@ -19,6 +19,6 @@ Alphabet Jump is game where you can learn alphabet in interesting way. You need 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping, Letters, Puzzle
+- Tags: jumping, Letters, Puzzle

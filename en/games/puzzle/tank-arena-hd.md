@@ -19,6 +19,6 @@ Become the master of modern warfare in Tank Arena! In this action game, you cont
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Bubble Shooter, Shooter, Shooting, Tank, Tanks
+- Tags: Action, Adventure, Arcade, Bubble Shooter, Shooter, Shooting, Tank, tanks

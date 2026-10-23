@@ -21,4 +21,4 @@ Summon Tribe is a simple merge-and-defense game where you combine identical unit
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: merge, Strategy, Tower Defense
+- Tags: merge, strategy, Tower Defense

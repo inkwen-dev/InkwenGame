@@ -21,4 +21,4 @@ Cube Adventure is a great adventure game! Cross the tracks, avoid enemies and av
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Pixel, Platform
+- Tags: 1 Player, 2D, Action, Adventure, pixel, Platform

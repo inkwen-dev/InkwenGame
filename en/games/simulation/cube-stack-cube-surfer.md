@@ -19,6 +19,6 @@ Stack Cube Surfer 3D is a free 3D arcade game where the player needs to stack cu
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Hypercasual, Simulation

@@ -19,6 +19,6 @@ Little Panda World Recipes is an online Kids game. In Little Panda World Recipes
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cooking, Food, Girls, Panda

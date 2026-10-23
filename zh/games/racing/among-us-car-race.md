@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 汽车, 驾驶, 游戏, HTML, HTML5, 障碍, 竞速, 运动
+- 标签: 2D, 汽车, 驾驶, 游戏, HTML, HTML5, 障碍, 竞速, 体育

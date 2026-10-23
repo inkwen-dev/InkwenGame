@@ -21,4 +21,4 @@ Get ready to dive into the electrifying world of football. Step into the thrilli
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, Action, Ball, Food, Sports
+- Tags: 2025 games, Action, Ball, Food, sports

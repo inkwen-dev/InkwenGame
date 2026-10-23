@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 安卓, 躲避, 逃脱, H5, HTML, HTML5, 孩子们, 移动设备, 跑, 技能, 武器
+- 标签: 3D, 3D游戏, 安卓, 躲避, 逃脱, H5, HTML, HTML5, 儿童, 移动设备, 跑, 技巧, 武器

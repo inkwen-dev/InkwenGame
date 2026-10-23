@@ -21,4 +21,4 @@ Building Empire Tycoon is a flexible city simulator time management game that en
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Hypercasual, Management, Simulation
+- Tags: Casual, Hypercasual, management, Simulation

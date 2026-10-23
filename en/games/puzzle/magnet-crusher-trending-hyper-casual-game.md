@@ -19,6 +19,6 @@ Roll to smash! Just Swipe to Attract the Blocks, Cubes have Fun and Avoid Bombs
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Hypercasual, Puzzle

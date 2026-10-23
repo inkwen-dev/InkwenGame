@@ -21,4 +21,4 @@ Skeletons have taken over the city. We need you as a brave warrior. Now prepare 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Battle, Best, Boys, Cartoon, Casual, endless, Escape, Hot, Hypercasual, Shoot, Shooter, Shooting, Strategy, WebGL
+- Tags: Action, Adventure, Arcade, battle, Best, Boys, Cartoon, Casual, endless, Escape, Hot, Hypercasual, Shoot, Shooter, Shooting, strategy, WebGL

@@ -21,4 +21,4 @@ Stunt Master Racing Game is one of the most challenging crazy stunt game for you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, 8 Ball Pool, Action, Air, Aircraft, Boy, Boys, Collection, Creation, Decoration, drift, drifting, Driving, Educational, Fashion, Girl, Girls, Interactive Fiction, Mario, Minion, Relaxation, Seduction, Sim, Simulation, Simulator, Unity3D, Violence
+- Tags: .io, .io Games, 3D, 3D Games, 8 Ball Pool, Action, Air, Aircraft, Boy, Boys, Collection, Creation, Decoration, drift, drifting, Driving, educational, Fashion, Girl, Girls, Interactive Fiction, mario, Minion, Relaxation, Seduction, Sim, Simulation, Simulator, Unity3D, Violence

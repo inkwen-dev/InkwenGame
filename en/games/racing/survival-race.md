@@ -21,4 +21,4 @@ Survival Race is a high-speed battle for survival in a hexagonal arena. Each til
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Arcade, Battle, Car
+- Tags: 1 Player, Action, Arcade, battle, Car

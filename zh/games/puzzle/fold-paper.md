@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 躲避, 男孩, 乐趣, HTML5, 儿童, 移动, 在线, 谜题
+- 标签: 安卓, 躲避, 男孩, 有趣, HTML5, 儿童, 移动设备, 在线, 益智

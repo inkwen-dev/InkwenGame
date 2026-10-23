@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 大脑, 休闲, 家庭, 孩子们, 地图游戏, 数学, 益智
+- 标签: 大脑, 休闲, 家庭, 儿童, mapi games, 数学, 益智

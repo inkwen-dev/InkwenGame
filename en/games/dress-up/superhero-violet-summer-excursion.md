@@ -19,6 +19,6 @@ Violet feels a very hot summer. So she decided to relax on the beach. Before tha
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Cute, Decoration, Dress Up, Fashion, Girls, HTML5, Kids, Makeover, Online, Superhero
+- Tags: bike, Cute, Decoration, Dress Up, Fashion, Girls, HTML5, Kids, Makeover, Online, Superhero

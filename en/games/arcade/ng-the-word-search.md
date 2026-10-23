@@ -21,4 +21,4 @@ The Word Search is a riveting game that pits your vocabulary knowledge against a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: angry, Arcade, Brain, Casual, Collecting, Collection, Fun, Funny, Hypercasual, Puzzle, Word
+- Tags: angry, Arcade, Brain, Casual, Collecting, Collection, Fun, Funny, Hypercasual, Puzzle, word

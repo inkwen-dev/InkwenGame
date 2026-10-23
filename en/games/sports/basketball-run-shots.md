@@ -21,4 +21,4 @@ Ready to shoot some hoops? Grab a ball and start dunking! Dunk Shot Runner is a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Basketball, Casual, Fun, Hypercasual, Shoot, Skill, Sport
+- Tags: Action, basketball, Casual, Fun, Hypercasual, Shoot, Skill, Sport

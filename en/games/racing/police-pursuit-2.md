@@ -21,4 +21,4 @@ Police Pursuit 2 is a 3D action/driving game in which you get to play as a polic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Driving, H5, Police, Racing
+- Tags: 3D, Action, Adventure, Driving, H5, police, Racing

@@ -19,6 +19,6 @@ The goal is to gain all the cards of your opponent
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casual, Multiplayer, Solitaire
+- Tags: card, Casual, Multiplayer, solitaire

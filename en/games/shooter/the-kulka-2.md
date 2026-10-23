@@ -15,6 +15,6 @@ Unleash chaos with a single touch in The Kulka! Mutate your bullet into mesmeriz
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Shooter

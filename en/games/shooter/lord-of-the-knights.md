@@ -19,6 +19,6 @@ Fight for your subjects and defend your castle in Lord Of The Knights. Incarnate
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Click, Defense, Knight, Shooting
+- Tags: Action, Click, Defense, knight, Shooting

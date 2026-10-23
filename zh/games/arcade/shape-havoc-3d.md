@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 躲避, 休闲
+- 标签: 单人, 3D, 躲避, 超休闲

@@ -19,6 +19,6 @@ Luggage Collect is an exciting and fast-paced arcade game that tests your focus,
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, airplane, amazing, Casual, Puzzle

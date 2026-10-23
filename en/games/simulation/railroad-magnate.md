@@ -21,4 +21,4 @@ Become the owner of a growing railroad network and build it from the ground up. 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, idle, Management, Train, tycoon
+- Tags: 3D, idle, management, Train, tycoon

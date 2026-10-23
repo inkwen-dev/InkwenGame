@@ -19,6 +19,6 @@ Infinite Line Runner Game is a fast-paced and addictive runner game that challen
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: amazing, Brain, Casual, Hypercasual, Puzzle

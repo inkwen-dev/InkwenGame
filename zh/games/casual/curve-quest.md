@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 躲避, 休闲, 收集, 无尽, 高分榜, 关卡, 移动设备, 障碍, 像素, 技巧, unity游戏, unity游戏用于你的网站, unity游戏用于你的网页, WebGL
+- 标签: 躲避, 休闲, 收集, 无尽, 高分, 关卡, 移动设备, 障碍, 像素, 技巧, unity游戏, 适用于您网站的 unity 游戏, 适用于您网站的 Unity 游戏, WebGL

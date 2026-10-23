@@ -21,4 +21,4 @@ Finish The Drawing is your invitation to complete drawings in each level! Showca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Casual, Drawing, Fun, Kids, Logic, Mobile, Skill
+- Tags: Best, Casual, drawing, Fun, Kids, Logic, Mobile, Skill

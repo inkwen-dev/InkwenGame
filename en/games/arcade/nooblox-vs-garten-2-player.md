@@ -21,4 +21,4 @@ You must help Noob and Bacon in their adventure. Garden monsters are everywhere,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Animal, Arcade, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Animal, Arcade, pixel

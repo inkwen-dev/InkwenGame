@@ -21,4 +21,4 @@ Help the chicken using the best of your reactivity and anticipation! But it wonâ
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Bird, Chicken, Cooking, endless, Escape, Logic, Strategy
+- Tags: Animal, Arcade, Bird, Chicken, Cooking, endless, Escape, Logic, strategy

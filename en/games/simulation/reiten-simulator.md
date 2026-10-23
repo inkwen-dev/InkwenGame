@@ -21,4 +21,4 @@ Du möchtest ein echter Cowboy sein und im Kampf gegen Zombies auf einem Pferd r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Horse, Simulation, Simulator, WebGL
+- Tags: 3D, 3D Games, horse, Simulation, Simulator, WebGL

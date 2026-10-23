@@ -19,6 +19,6 @@ Enjoy this Angry Goat Rampage Craze Simulator free full version with amazing fea
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Animal, Cartoon Network, city, Design, Sim, Simulation, Simulator

@@ -19,6 +19,6 @@ Download Candy Crush Soda Saga now! From the makers of the legendary Candy Crush
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 8 Ball Pool, Bubble, Bubble Shooter, Candy, Color, Coloring, Craft, Flight, Game, Girls
+- Tags: .io Games, 2 Player Games, 8 Ball Pool, Bubble, Bubble Shooter, Candy, Color, Coloring, Craft, flight, Game, Girls

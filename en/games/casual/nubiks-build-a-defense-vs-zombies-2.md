@@ -19,6 +19,6 @@ Nubiks build a defense vs zombies - a game with elements of construction and sur
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, Ghost, mineblock, Minecraft, Mobile, Monster, Sandbox, Zombie
+- Tags: 1 Player, 2 Player, 2 Player Games, Ghost, mineblock, Minecraft, Mobile, monster, Sandbox, Zombie

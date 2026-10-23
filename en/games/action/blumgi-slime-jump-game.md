@@ -21,4 +21,4 @@ Blumgi Slime is an arcade game that will put your timing and aiming skills to th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, Jumping, Kids, Physics, Platform, Skills
+- Tags: 2 Player Games, jumping, Kids, Physics, Platform, Skills

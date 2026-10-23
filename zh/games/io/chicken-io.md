@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 2D, 街机, 男孩, 男孩们, 休闲, 酷炫, HTML5, 休闲, WebGL
+- 标签: .io, .io 游戏, 2D, 街机, 男孩, 男孩们, 休闲, 酷, HTML5, 超休闲, WebGL

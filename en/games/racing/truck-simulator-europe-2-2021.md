@@ -19,6 +19,6 @@ Become a real trucker with Truck Simulator : Europe 2! Feel like driving real tr
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D Games, Action, Adult, Adventure, Arcade, Car, Cars, Mobile, Race, Simulation, Simulator, Supercars

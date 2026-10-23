@@ -19,6 +19,6 @@ Learn draw anime for beginners. Learn draw manga for beginners. Famous Anime Dra
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Baby, Baby Hazel, Coloring, Draw, Drawing, Games, Kids, Online, Super
+- Tags: Anime, Baby, Baby Hazel, Coloring, Draw, drawing, Games, Kids, Online, Super

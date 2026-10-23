@@ -21,4 +21,4 @@ Math Train Addition is an educational and fun game. In this game you will see a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collecting, Educational, HTML5, Math, Mobile, Number, Puzzle, School, Skill
+- Tags: Collecting, educational, HTML5, math, Mobile, Number, Puzzle, School, Skill

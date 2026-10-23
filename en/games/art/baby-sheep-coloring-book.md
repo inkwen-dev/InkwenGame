@@ -19,6 +19,6 @@ Now you have to Explore the world of cute baby sheep art images with these free 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Animal, Coloring, Fun, Girls, HTML5, Kids, School

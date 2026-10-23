@@ -19,6 +19,6 @@ Defeat the 3 bosses in their castles and claim the gems! The world of this game 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Best, Boy, Casual, Dragon, Fire, Mario, Platform
+- Tags: 1 Player, 2D, Android, Best, Boy, Casual, Dragon, Fire, mario, Platform

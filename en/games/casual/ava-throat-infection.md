@@ -19,6 +19,6 @@ Lets enjoy the doctor game at 7sgames.com. Ava is the beautiful young and charm 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Fantasy, Surgery
+- Tags: Doctor, Fantasy, surgery

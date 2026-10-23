@@ -21,4 +21,4 @@ Jigsaw Master is an amazing jigsaw game, you can hardly find a better jigsaw gam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Jigsaw, Puzzle, Strategy
+- Tags: Brain, Jigsaw, Puzzle, strategy

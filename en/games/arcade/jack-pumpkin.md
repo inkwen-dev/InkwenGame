@@ -19,6 +19,6 @@ In this game you control Jack the Pumpkin so moving them around a world that rev
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Boys, Halloween, HTML, HTML5, jump, Jumping, Kids, Mobile, Monster, Physics, Puzzle
+- Tags: Adventure, Boys, Halloween, HTML, HTML5, jump, jumping, Kids, Mobile, monster, Physics, Puzzle

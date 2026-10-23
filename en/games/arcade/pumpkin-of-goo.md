@@ -21,4 +21,4 @@ Are you able to collect all the purple Goo? Get on an exciting adventure in this
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, free html5 games for your website, Halloween, mapi games, Monster, Puzzle
+- Tags: Arcade, Casual, free html5 games for your website, Halloween, mapi games, monster, Puzzle

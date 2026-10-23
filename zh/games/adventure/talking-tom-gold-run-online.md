@@ -21,4 +21,4 @@ Talking Tom Gold Run Online 是最佳的猫咪奔跑游戏。享受与您心爱�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 冒险, 动物, 男孩, 男孩, 猫, 收集, 收藏, H5, HTML5, 跑
+- 标签: 动作, 冒险, 动物, 男孩, 男孩们, 猫, 收集, 收藏, H5, HTML5, 跑

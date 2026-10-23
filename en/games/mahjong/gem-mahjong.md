@@ -21,4 +21,4 @@ GEM MAHJONG is a relaxing tile-matching puzzle with a sparkling twist. Tap any t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Brain, Casual, Jewel, Logic, Mahjong, Matching, Puzzle, Relaxation, Solitaire
+- Tags: 1 Player, Brain, Casual, Jewel, Logic, mahjong, Matching, Puzzle, Relaxation, solitaire

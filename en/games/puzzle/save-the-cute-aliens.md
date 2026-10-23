@@ -19,6 +19,6 @@ In Save the cute Aliens, immerse yourself in an intergalactic adventure where yo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Alien, Cartoon, Match-3, Puzzle
+- Tags: 2D, Alien, Cartoon, Match 3, Puzzle

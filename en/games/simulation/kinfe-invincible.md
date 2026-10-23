@@ -19,6 +19,6 @@ It is a style of simple and interesting relaxation of the game, in the game like
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: cut, Food, Fruits, Games, H5, Plant, Simulator, Super

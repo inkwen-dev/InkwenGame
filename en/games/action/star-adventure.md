@@ -19,6 +19,6 @@ Jump over the blades with Star Adventure and collect stars but you have to be ca
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Avoid, Collecting, Collection, Hypercasual, jump, Jumping, Obstacle, Platform
+- Tags: 2D, Avoid, Collecting, Collection, Hypercasual, jump, jumping, Obstacle, Platform

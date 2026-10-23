@@ -21,4 +21,4 @@ Are you ready for drive in forest with a heavy offroad 4×4 car ? Well... here i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Driving, Truck, Unity3D, WebGL
+- Tags: Car, Cars, Driving, truck, Unity3D, WebGL

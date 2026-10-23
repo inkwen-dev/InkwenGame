@@ -21,4 +21,4 @@ Ninja Run Race 3D Gear up for this amazing fun race game that not only has a uni
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Ninja, running
+- Tags: 1 Player, 2D, ninja, running

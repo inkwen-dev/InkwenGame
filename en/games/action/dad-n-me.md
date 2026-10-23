@@ -21,4 +21,4 @@ Dad 'n Me is a cartoonish side-scrolling brawling game.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fighting
+- Tags: fighting

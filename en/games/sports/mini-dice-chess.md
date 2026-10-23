@@ -21,4 +21,4 @@ Mini Dice Chess is a fast and exciting chess variant where strategy meets luck. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, Board, Classic, Strategy
+- Tags: 1 Player, 2 Player, Board, Classic, strategy

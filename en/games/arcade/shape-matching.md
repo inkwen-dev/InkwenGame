@@ -21,4 +21,4 @@ shape matching game need match shapes and this has 20 levels with more than 80 c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Educational, Matching, Puzzle
+- Tags: Arcade, Casual, educational, Matching, Puzzle

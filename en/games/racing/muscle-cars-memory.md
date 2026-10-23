@@ -21,4 +21,4 @@ Muscle Cars Memory is a game where you have some time to remember the place of t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Car, HTML5, Kids, Memory, Puzzle
+- Tags: Brain, Car, HTML5, Kids, memory, Puzzle

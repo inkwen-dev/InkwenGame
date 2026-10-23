@@ -21,4 +21,4 @@ Do you know about trains? You may have built a train, but do you know what it is
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cute, Decorate, Educational, Girl, Girls, Kids, Simulation
+- Tags: Animal, Baby, Cute, Decorate, educational, Girl, Girls, Kids, Simulation

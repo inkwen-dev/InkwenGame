@@ -21,4 +21,4 @@ In Flip and Fight, prepare for an adrenaline-pumping ragdoll adventure combining
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Fighting, HTML5
+- Tags: 1 Player, Action, Adventure, fighting, HTML5

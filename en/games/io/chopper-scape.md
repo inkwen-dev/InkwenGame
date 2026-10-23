@@ -19,6 +19,6 @@ Click touch
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Action, fly, Fun, Funny, Game, Games, Helicopter, HTML, HTML5, Kid, Kids, sky
+- Tags: .io, Action, fly, Fun, Funny, Game, Games, helicopter, HTML, HTML5, Kid, Kids, sky

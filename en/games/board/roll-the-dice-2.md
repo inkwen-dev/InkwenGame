@@ -15,6 +15,6 @@ Embark on an infinite adventure with "Roll The Dice," an arcade clicker that ble
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Board

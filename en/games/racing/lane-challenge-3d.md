@@ -19,6 +19,6 @@ You will start the most exciting and cool driving simulation game; 2. Start this
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Car, Cars, HTML, HTML5, Hypercasual, Race, Racing, Strategy, Street Fighting
+- Tags: Boy, Boys, Car, Cars, HTML, HTML5, Hypercasual, Race, Racing, strategy, Street Fighting

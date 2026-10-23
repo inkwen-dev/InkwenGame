@@ -19,6 +19,6 @@ Lots of people want to be great dentists. Is that your dream? Now you get a chan
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Doctor, Educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids
+- Tags: Baby, Doctor, educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids

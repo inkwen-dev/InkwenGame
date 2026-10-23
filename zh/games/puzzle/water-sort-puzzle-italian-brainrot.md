@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 脑残, 意大利脑残, 脑残萨胡尔, 颜色, HTML5, html5游戏, 移动设备, 分类, 整理, 水
+- 标签: 脑残, 意大利脑残, 脑残sahuuur, 颜色, HTML5, HTML5游戏, 移动设备, 排序, 整理, 水

@@ -21,4 +21,4 @@ On this bouncy game you need to jump and avoid the obstacle on the way while jum
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Adventure, jump, Jumping, run
+- Tags: 1 Player, 3D, Action, Adventure, jump, jumping, run

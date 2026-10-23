@@ -43,4 +43,4 @@ Playgama 官方特性：游戏已完全集成 Playgama SDK，支持 PC 和移动
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 街机, 篮球, 物理, 技巧, 运动
+- 标签: 街机, 篮球, 物理, 技巧, 体育

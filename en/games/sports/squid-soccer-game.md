@@ -19,6 +19,6 @@ Squid Soccer Game a fun great soccer game! Stop an onslaught of incoming soccer 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Boy, Boys, Casual, endless, Football, Game, H5, HTML, HTML5, Soccer, Sport, Sports
+- Tags: Arcade, Ball, Boy, Boys, Casual, endless, Football, Game, H5, HTML, HTML5, Soccer, Sport, sports

@@ -21,4 +21,4 @@ Race your yellow car to solve math equations from addition, subtraction, multipl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Math, Puzzle
+- Tags: Fun, math, Puzzle

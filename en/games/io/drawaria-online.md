@@ -21,4 +21,4 @@ Drawaria.online is amazing multiplayer game in which players draw and guess rand
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2D, Casual, Draw, Drawing, Fun, Funny, Guessing, Highscore, HTML, HTML5, Multiplayer, Online, Word
+- Tags: .io, .io Games, 2D, Casual, Draw, drawing, Fun, Funny, Guessing, Highscore, HTML, HTML5, Multiplayer, Online, word

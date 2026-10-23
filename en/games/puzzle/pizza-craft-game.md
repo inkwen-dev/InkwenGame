@@ -19,6 +19,6 @@ Get ready to become a pizza master in this fun and fast-paced cooking game! Foll
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, pizza, Puzzle, Timing

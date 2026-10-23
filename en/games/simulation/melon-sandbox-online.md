@@ -19,6 +19,6 @@ Unleash your creativity and imagination in Melon Sandbox Online. Enter a wild ex
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Creation, destroy, Simulation

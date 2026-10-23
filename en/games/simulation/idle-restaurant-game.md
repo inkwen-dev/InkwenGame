@@ -19,6 +19,6 @@ Do you want to be a food tycoon? Get into this restaurant management sim game no
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, 2026 games, Best Games, Casual, Food, Fun, idle, Management, Relaxation, Restaurant, Simulation, Strategy
+- Tags: 2025 games, 2026 games, Best Games, Casual, Food, Fun, idle, management, Relaxation, restaurant, Simulation, strategy

@@ -21,4 +21,4 @@ A fun way to practice picture recognition and the alphabet. Make matches of pict
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Clicker, Educational, Fun, HTML5, Kids, Matching, Mobile, Puzzle, School, Word
+- Tags: Board, Clicker, educational, Fun, HTML5, Kids, Matching, Mobile, Puzzle, School, word

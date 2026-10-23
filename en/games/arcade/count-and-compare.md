@@ -19,6 +19,6 @@ Count the number of items in both pictures and tap the correct comparison symbol
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Educational, HTML5, Kids, Math, Mobile, Number, Puzzle, School
+- Tags: Arcade, educational, HTML5, Kids, math, Mobile, Number, Puzzle, School

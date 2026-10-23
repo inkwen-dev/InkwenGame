@@ -19,6 +19,6 @@ In this adventure, a noob and their closest friend, the Pro, are trying to reach
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Android, Animal, Arcade, Minecraft, Mobile, Pixel, Platform
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Android, Animal, Arcade, Minecraft, Mobile, pixel, Platform

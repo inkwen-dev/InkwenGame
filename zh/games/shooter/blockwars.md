@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 飞机, 手工, 射击
+- 标签: 动作, 飞机, 制作, 射击

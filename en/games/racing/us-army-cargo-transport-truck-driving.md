@@ -21,4 +21,4 @@ Get ready for the most thrilling offroad driving adventure sim in OffRoad US Arm
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, drifting, Driving, Simulation, Traffic, Truck
+- Tags: Army, drifting, Driving, Simulation, Traffic, truck

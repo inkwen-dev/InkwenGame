@@ -19,6 +19,6 @@ In *Line Runners*, you must run, leap, and dash across an infinite number of pat
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 2026 games, 2D, 3D, Adventure, free games for your site, free games for your website, free html5 games for your website, Hypercasual, Puzzle

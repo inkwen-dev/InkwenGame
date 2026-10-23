@@ -21,4 +21,4 @@ Players may enjoy a unique gaming experience in Draw to Save my Hero Online, an 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Drawing, kiz10, Levels, Superhero
+- Tags: Ball, drawing, kiz10, Levels, Superhero

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 8球台球, 冒险, 宝石迷阵, Ben 10, 大脑, 驾驶, Minecraft, 奔跑
+- 标签: 8球台球, 冒险, 宝石迷阵, Ben 10, 大脑, 驾驶, 我的世界, 跑

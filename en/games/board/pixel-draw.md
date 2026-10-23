@@ -19,6 +19,6 @@ Unleash your creativity by crafting unique pixel art from scratch. In Pixel Draw
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Block, Board, Color, Coloring, Creation, Draw, Drawing, free html5 games for your website, Number, Pixel, Skills
+- Tags: 1 Player, 2D, block, Board, Color, Coloring, Creation, Draw, drawing, free html5 games for your website, Number, pixel, Skills

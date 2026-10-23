@@ -19,6 +19,6 @@ Save The Dogster is a fun and addictive puzzle game that requires you to use you
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Draw, Hypercasual, Puzzle

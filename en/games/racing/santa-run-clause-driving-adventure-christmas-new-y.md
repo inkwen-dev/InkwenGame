@@ -19,6 +19,6 @@ Another interesting Christmas game with Santa Claus in main role-Christmas is co
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Christmas, Collecting, Collection, Drawing, Funny, Girl, Holiday, HTML5, Kids, New, run, running, WebGL, Winter
+- Tags: Arcade, Boy, Christmas, Collecting, Collection, drawing, Funny, Girl, Holiday, HTML5, Kids, New, run, running, WebGL, Winter

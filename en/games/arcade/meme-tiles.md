@@ -21,4 +21,4 @@ Meme Tiles is a fast-paced rhythm game where every jump must match the beat. Mov
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Casual, Mobile, Music, Race, Rhythm, Skill
+- Tags: 1 Player, Casual, Mobile, music, Race, Rhythm, Skill

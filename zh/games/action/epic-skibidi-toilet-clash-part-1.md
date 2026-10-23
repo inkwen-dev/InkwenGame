@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 荒野乱斗, 休闲, 战斗, 斯基比迪, 斯基比迪马桶, 太空, 宇宙飞船, 街头格斗, 超级英雄
+- 标签: 混战, 休闲, 格斗, Skibidi, skibidi-toilet, 太空, 宇宙飞船, 街头格斗, 超级英雄

@@ -21,4 +21,4 @@ The world tour of our beloved Subway Surfers continues! And next in line is the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Click, Hot, HTML, HTML5, Jigsaw, jump, Jumping, Puzzle, run, running, Strategy, subway, Subway Surfers
+- Tags: Best, Click, Hot, HTML, HTML5, Jigsaw, jump, jumping, Puzzle, run, running, strategy, subway, Subway Surfers

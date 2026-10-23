@@ -25,4 +25,4 @@ Ride through sky-high ramps, compete in stunt challenges, and prove you’re the
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Bike, motorbike, Physics, Racing, Skill
+- Tags: 3D, bike, motorbike, Physics, Racing, Skill

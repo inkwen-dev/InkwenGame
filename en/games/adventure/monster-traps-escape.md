@@ -21,4 +21,4 @@ A laid-back puzzle game where your objective is to descend securely. The gamepla
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, HTML5, iPad, iPhone, Mentolatux, Mobile, Monster, run, trap, unity, unity games, WebGL
+- Tags: Android, HTML5, iPad, iPhone, Mentolatux, Mobile, monster, run, trap, unity, unity games, WebGL

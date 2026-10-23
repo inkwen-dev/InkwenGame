@@ -21,4 +21,4 @@ Meet Bubbu, your new virtual pet cat. He is a cute, emotional, and adorable cat 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Casual, Cat, Educational, Girl, Girls, H5, HTML5, Kids
+- Tags: Animal, Baby, Casual, Cat, educational, Girl, Girls, H5, HTML5, Kids

@@ -19,6 +19,6 @@ Play as a Truck Transporter carrying packages, whose main goal is to drive throu
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Action, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Truck
+- Tags: .io, Action, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, truck

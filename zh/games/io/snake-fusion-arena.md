@@ -21,4 +21,4 @@ Snake Fusion Arena 是一款有趣的街机风格贪吃蛇游戏，带有独特�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, 街机, 竞技场, 恐龙, 滑行, 蛇, 生存
+- 标签: .io, 街机, 竞技场, 恐龙, 滑行, snake, 生存

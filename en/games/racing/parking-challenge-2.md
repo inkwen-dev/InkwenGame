@@ -21,4 +21,4 @@ Get behind the wheel, find a place where to put the car and park it neatly. If c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Best, Driving, Fun, HTML5, Mobile, Parking, Skill
+- Tags: 1 Player, Arcade, Best, Driving, Fun, HTML5, Mobile, parking, Skill

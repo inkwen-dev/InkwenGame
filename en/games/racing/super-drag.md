@@ -19,6 +19,6 @@ Super Drag is a racing game. Use transmissions to change gear and beat your oppo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Driving, Race, Racing

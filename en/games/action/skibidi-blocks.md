@@ -19,6 +19,6 @@ Skibidi Blocks Game is a fast-paced and challenging building block runner game t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Fun, HTML, HTML5, Hypercasual, Online, Platform, Play, Skibidi, Skibidi Toilet
+- Tags: Arcade, Casual, Fun, HTML, HTML5, Hypercasual, Online, Platform, Play, Skibidi, skibidi-toilet

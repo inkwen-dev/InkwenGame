@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 最佳, 弓, 大脑, 热门, HTML, HTML5, 思维, 体育, 运动, 策略
+- 标签: 最佳, 弓箭, 大脑, 热门, HTML, HTML5, 思维, 运动, 体育, 策略

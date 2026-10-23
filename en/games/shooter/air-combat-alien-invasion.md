@@ -21,4 +21,4 @@ Not far future. The aliens invaded on the Earth and our defence was defeated. So
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Aircraft, Alien, Strategy
+- Tags: 1 Player, Aircraft, Alien, strategy

@@ -21,4 +21,4 @@ Bicycle Jigsaw is a fun online puzzle game. Drag the pieces into right position 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Fun, HTML5, Jigsaw, Kids, Logic, Skill
+- Tags: bike, Fun, HTML5, Jigsaw, Kids, Logic, Skill

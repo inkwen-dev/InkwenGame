@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 经典, 点击, 点击器, 游戏, HTML, HTML5, 跳跃, 跳跃, 在线, Skibidi, Skibidi 马桶
+- 标签: 经典, 点击, 点击器, 游戏, HTML, HTML5, 跳跃, 跳跃, 在线, Skibidi, skibidi-toilet

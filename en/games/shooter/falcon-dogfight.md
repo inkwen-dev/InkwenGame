@@ -21,4 +21,4 @@ A balance between realism and exhilaration: Based on the dynamic design of real 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Aircraft, airplane, Battle, Clash, First Person Shooter, Sim, unity games
+- Tags: Action, Aircraft, airplane, battle, Clash, First Person Shooter, Sim, unity games

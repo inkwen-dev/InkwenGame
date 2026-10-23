@@ -19,6 +19,6 @@ Brain games. Free Fire is the ultimate survival shooter game available on mobile
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adult, Adventure, Arcade, Battle, Boy, Family, Fire, Girl, HTML, HTML5, Hypercasual, Match 3, Match3, Matching, Mobile, Superhero
+- Tags: Action, Adult, Adventure, Arcade, battle, Boy, Family, Fire, Girl, HTML, HTML5, Hypercasual, Match 3, Match3, Matching, Mobile, Superhero

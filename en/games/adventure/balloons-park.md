@@ -19,6 +19,6 @@ Get ready for a burst of fun with Balloon Park ! This addictive mobile game chal
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Fun, Funny, Kids

@@ -19,6 +19,6 @@ Escape the barbecue! Help a fish escape a hot grill by jumping on the clotheslin
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Animal, endless, Fish, jump, Mobile, Platform

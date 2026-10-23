@@ -26,4 +26,4 @@ Defender: Tanks Merge is a thrilling online strategy game where you create a pow
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: battleship, merge, Strategy, Tanks, War
+- Tags: battleship, merge, strategy, tanks, War

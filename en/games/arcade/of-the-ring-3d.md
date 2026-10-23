@@ -19,6 +19,6 @@ Of the ring 3D, your goal is spin the metal shape around, and aim it so the colo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Adventure, Android, Anime, Arcade, Barbie, Bomb, Brain, Casual, Hypercasual

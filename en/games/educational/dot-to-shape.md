@@ -15,6 +15,6 @@ Connect the dots, unveil cute animals, and enjoy a delightful surprise with each
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Educational
+- Tags: educational

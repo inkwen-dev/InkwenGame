@@ -21,4 +21,4 @@ Zipline Dodge challenges players to navigate a perilous course while suspended o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, HTML5, iPad, iPhone, Mobile, Racing, Skill, Stickman, Unity3D, WebGL
+- Tags: Android, Arcade, HTML5, iPad, iPhone, Mobile, Racing, Skill, stickman, Unity3D, WebGL

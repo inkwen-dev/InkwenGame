@@ -15,6 +15,6 @@ Challenge your mind with X O Tic Tac Toe, set against the serene backdrop of a s
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: classics

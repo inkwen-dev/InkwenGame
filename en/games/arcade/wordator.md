@@ -21,4 +21,4 @@ Create significant words using specific letters and gain score.Longer words gain
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Puzzle, Word
+- Tags: Adventure, Arcade, Puzzle, word

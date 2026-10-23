@@ -19,6 +19,6 @@ Park your cars in a safe place! Draw a line with your finger and drive the car t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, 3D, Action, Adventure, Best, Car, Cars, drift, drifting, Driving, Parking
+- Tags: 1 Player, 2D, 3D, Action, Adventure, Best, Car, Cars, drift, drifting, Driving, parking

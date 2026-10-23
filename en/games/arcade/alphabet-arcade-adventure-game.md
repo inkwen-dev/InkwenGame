@@ -15,6 +15,6 @@ Dive into Alphabet Arcade Adventure, where learning letters becomes an exhilarat
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Word
+- Tags: word

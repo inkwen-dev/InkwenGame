@@ -21,4 +21,4 @@ WASD移动，JK攻击
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 对战, 炸弹, 汽车, HTML5, 移动设备, 火箭
+- 标签: 3D, 战斗, 炸弹, 汽车, HTML5, 移动设备, 火箭

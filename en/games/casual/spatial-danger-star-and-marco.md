@@ -19,6 +19,6 @@ Join Star and Marco for a magical adventure in the Spatial Danger game! Help the
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Cartoon, Cartoon Network, Disney, Dora, Draw, HTML5, Kids, Mario, Obstacle, Slicing, Space, Spaceship, Sword
+- Tags: Anime, Cartoon, Cartoon Network, Disney, Dora, Draw, HTML5, Kids, mario, Obstacle, Slicing, Space, Spaceship, sword

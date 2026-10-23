@@ -19,6 +19,6 @@ You may have played many Tic-Tac-Toe game until now. But, probably, you haven't 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Boy, Brain, Classic, Educational, Logical, Mind, Retro
+- Tags: 2 Player, 2 Player Games, Boy, Brain, Classic, educational, Logical, Mind, retro

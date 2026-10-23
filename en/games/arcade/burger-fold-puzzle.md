@@ -21,4 +21,4 @@ Burger Fold Puzzle challenges players to become master chefs by solving culinary
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Food, Restaurant, Unity3D, WebGL
+- Tags: Arcade, Food, restaurant, Unity3D, WebGL

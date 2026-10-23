@@ -19,6 +19,6 @@ Ninja Frog is platform game similar as Super Mario. The hero at this game is a n
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Kids, Mario, Ninja, Platform, Super
+- Tags: Arcade, Kids, mario, ninja, Platform, Super

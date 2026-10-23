@@ -19,6 +19,6 @@ Ski Jumping Pro delivers the sheer thrills of hurtling down a snow-packed ski ra
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping, Ski, Sport, Sports
+- Tags: jump, jumping, Ski, Sport, sports

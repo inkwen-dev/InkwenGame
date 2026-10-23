@@ -19,6 +19,6 @@ Have you ever played a game full of adventures like this before? yes, join this 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Android, Arcade, Escape, Police, Stickman
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Android, Arcade, Escape, police, stickman

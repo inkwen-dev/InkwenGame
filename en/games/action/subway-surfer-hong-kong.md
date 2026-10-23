@@ -21,4 +21,4 @@ Subway surfers in Hong Kong! The guys intend to fully break away in this Chinese
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, jump, Jumping, run, running, subway, Subway Surfers, Unity3D
+- Tags: 3D, 3D Games, jump, jumping, run, running, subway, Subway Surfers, Unity3D

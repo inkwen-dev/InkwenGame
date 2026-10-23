@@ -21,4 +21,4 @@ Get your favorite ball and make lots of great dunk shots in different beautiful 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Game, Games, Sport, Sports
+- Tags: basketball, Game, Games, Sport, sports

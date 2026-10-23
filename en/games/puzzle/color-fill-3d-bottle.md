@@ -21,4 +21,4 @@ Once you start, you will never stop playing. Just one objective: Fill the board.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, 3D Games, Adventure, Arcade, Board, Bubble Shooter, Casual, Fun, Funny, Hypercasual, Sport, Sports, Unity3D
+- Tags: .io Games, 3D, 3D Games, Adventure, Arcade, Board, Bubble Shooter, Casual, Fun, Funny, Hypercasual, Sport, sports, Unity3D

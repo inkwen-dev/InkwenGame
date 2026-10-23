@@ -21,4 +21,4 @@ In a small town, two armed groups clashed in a merciless battle. Join one of the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Battle, Battlegrounds, Fight, Fighting, Gun, H5, HTML, HTML5, Kill, Killing, Shoot, Shooting
+- Tags: Action, Adventure, battle, Battlegrounds, Fight, fighting, Gun, H5, HTML, HTML5, Kill, Killing, Shoot, Shooting

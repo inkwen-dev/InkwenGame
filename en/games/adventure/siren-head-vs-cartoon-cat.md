@@ -21,4 +21,4 @@ Siren Head Vs Cartoon Cat Archer an intense physic-based archery game. At first,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Cartoon, Cat, Monster
+- Tags: Adventure, Cartoon, Cat, monster

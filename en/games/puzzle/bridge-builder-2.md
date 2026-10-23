@@ -21,4 +21,4 @@ Stretch the stick in order to reach and walk on the platforms. Watch out! If the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Bridge, Classic, Click, Clicker, Fun, Funny, Kid, Kids, Mobile, Pixel, Point And Click
+- Tags: Boy, Boys, Bridge, Classic, Click, Clicker, Fun, Funny, Kid, Kids, Mobile, pixel, Point And Click

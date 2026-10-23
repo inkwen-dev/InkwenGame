@@ -27,4 +27,4 @@ Every visitor has a different problem. Can you create the right potion and turn 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, cozy, Magic, Management, Simulation
+- Tags: 3D, cozy, Magic, management, Simulation

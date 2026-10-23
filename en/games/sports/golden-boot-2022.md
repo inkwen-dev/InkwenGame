@@ -21,4 +21,4 @@ Win the golden boot as the top scorer and earn other trophies in the process. Ca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Soccer, Sports
+- Tags: Soccer, sports

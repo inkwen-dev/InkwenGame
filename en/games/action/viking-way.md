@@ -19,6 +19,6 @@ Help the warrior to move on without getting hurt by the harmful equipment. Pick 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, jump, Jumping, Platform, War
+- Tags: 2D, jump, jumping, Platform, War

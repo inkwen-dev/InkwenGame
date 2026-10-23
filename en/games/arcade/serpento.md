@@ -19,6 +19,6 @@ Serpento is a Snake game with a twist: eating every apple is only half the job. 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Classic, Fruit, mapi games, Snake
+- Tags: Arcade, Classic, Fruit, mapi games, snake

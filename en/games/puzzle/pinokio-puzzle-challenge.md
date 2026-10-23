@@ -19,6 +19,6 @@ Challenge yourself with a funny Pinokio puzzle game! With a wide range of images
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Cartoon, Fun, Girls, HTML5, Jigsaw, Kids, Mobile, Puzzle

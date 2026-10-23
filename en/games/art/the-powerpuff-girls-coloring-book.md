@@ -21,4 +21,4 @@ The Powerpuff Girls Coloring Book has a lot of unique pictures hand drawn about 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Cartoon Network, Color, Coloring, Draw, Drawing
+- Tags: Cartoon, Cartoon Network, Color, Coloring, Draw, drawing

@@ -21,4 +21,4 @@ Build a sushi empire with Kitty Chef! - Tap on chefs to speed up the making of s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Anime, Business, Cartoon, Casual, Cute, Hypercasual, Management
+- Tags: 2D, Animal, Anime, Business, Cartoon, Casual, Cute, Hypercasual, management

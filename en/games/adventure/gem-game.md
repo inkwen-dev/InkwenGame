@@ -19,6 +19,6 @@ Fantasy Gem is a comfy Match 3 game that you have been looking for. Help Lucy ex
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure

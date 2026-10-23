@@ -21,4 +21,4 @@ Easy Bratz Coloring where you color your favorite Bratz character! This fun educ
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Baby, Cartoon, Color, Coloring, Draw, Drawing, Fun, HTML5, Hypercasual, Kids, School
+- Tags: Android, Arcade, Baby, Cartoon, Color, Coloring, Draw, drawing, Fun, HTML5, Hypercasual, Kids, School

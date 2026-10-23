@@ -21,4 +21,4 @@ Hot countries got tired of the surfer racer and he decided to visit places where
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, jump, Jumping, Race, Racing, subway, Subway Surfers
+- Tags: Adventure, jump, jumping, Race, Racing, subway, Subway Surfers

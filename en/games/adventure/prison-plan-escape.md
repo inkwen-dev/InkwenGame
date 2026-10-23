@@ -21,4 +21,4 @@ Prisoners are sentenced to prison for things they've never done. They try to mak
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Brain, Click, Clicker, Escape, Prison, Strategy, Unity3D
+- Tags: 3D, 3D Games, Adventure, Brain, Click, Clicker, Escape, Prison, strategy, Unity3D

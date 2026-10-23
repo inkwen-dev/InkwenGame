@@ -19,6 +19,6 @@ Your reaction will stand up to the rigors of Colored Jumper. By clicking on the 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Casual, Color, Fun, Hypercasual, jump, Jumping, Kids, Mobile
+- Tags: 1 Player, Casual, Color, Fun, Hypercasual, jump, jumping, Kids, Mobile

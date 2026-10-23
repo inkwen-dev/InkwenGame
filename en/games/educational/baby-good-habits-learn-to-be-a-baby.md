@@ -21,4 +21,4 @@ What good habits for your kids do you know, moms? Let learn these good habits wi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boy, Boys, Casual, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: 2D, Boy, Boys, Casual, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

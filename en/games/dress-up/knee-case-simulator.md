@@ -21,4 +21,4 @@ Oops, Tiara fell and hurt her knee! Dont worry, youre here to save the day! Jump
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Dress Up, Simulation, Surgery
+- Tags: Doctor, Dress Up, Simulation, surgery

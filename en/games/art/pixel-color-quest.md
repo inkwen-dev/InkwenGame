@@ -37,4 +37,4 @@ Start with simple images or test your attention on large, detailed levels. Diffe
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Color, Drawing
+- Tags: Color, drawing

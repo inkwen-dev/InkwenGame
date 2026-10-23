@@ -21,4 +21,4 @@ Step behind the wheel and master the art of driving with Car Driving School Game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, carparking, Cars, Driving, Game, Parking, Race, Racing, School, Stunts, Supercars
+- Tags: Car, carparking, Cars, Driving, Game, parking, Race, Racing, School, Stunts, Supercars

@@ -19,6 +19,6 @@ happy to show you its brand new game: StickMan School Run. Feel like you went ba
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Boy, Boys, Fun, Funny, jump, Jumping, Kid, Kids, run, running, School, Spiderman, Sport, Sports, Stickman, Superhero
+- Tags: .io Games, Boy, Boys, Fun, Funny, jump, jumping, Kid, Kids, run, running, School, Spiderman, Sport, sports, stickman, Superhero

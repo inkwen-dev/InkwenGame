@@ -21,4 +21,4 @@ Once you start it, you won't stop ! Classic tetris game! The classic retro Tetri
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Fun, Puzzle, Tetris
+- Tags: 2D, Fun, Puzzle, tetris

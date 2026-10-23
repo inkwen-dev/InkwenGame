@@ -19,6 +19,6 @@ Play Run Race 3 for free online! Participate in a series of challenging obstacle
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, Fun, Multiplayer, Race, Racing, run, WebGL

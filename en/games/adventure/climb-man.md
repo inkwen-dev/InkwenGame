@@ -21,4 +21,4 @@ The hero is hanging on a stone, and your task is to press at the right moment so
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Click, Clicker, HTML, HTML5, jump, Jumping, Point And Click, Superhero
+- Tags: Adventure, Click, Clicker, HTML, HTML5, jump, jumping, Point And Click, Superhero

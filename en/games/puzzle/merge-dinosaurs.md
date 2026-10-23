@@ -19,6 +19,6 @@ Merge, Fight and Challenge yourself to become the king of Merge Master ,
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Fighting
+- Tags: Action, Arcade, fighting

@@ -19,6 +19,6 @@ Are you ready to enjoy the Extreme City GT Car Stunts 3D ​on high fun land, wh
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D Games, Action, Adventure, Arcade, Car, Cars, Mobile, Parking, Race, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D
+- Tags: .io Games, 3D Games, Action, Adventure, Arcade, Car, Cars, Mobile, parking, Race, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D

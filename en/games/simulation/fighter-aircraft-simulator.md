@@ -19,6 +19,6 @@ Features Multiple weapons Three missions AI enemy airplanes
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Aircraft, Battle, Shoot, Unity3D, War, WebGL
+- Tags: Aircraft, battle, Shoot, Unity3D, War, WebGL

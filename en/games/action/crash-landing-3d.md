@@ -21,4 +21,4 @@ Take control of an airplane, avoid falling down in the ocean and get as many poi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Avoid, Flight, fly, Skill, Skills
+- Tags: 3D, 3D Games, Action, Avoid, flight, fly, Skill, Skills

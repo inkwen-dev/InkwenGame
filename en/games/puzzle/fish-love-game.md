@@ -19,6 +19,6 @@ Save fish from danger, bombs, lava, and crab, and give the fish just love. They 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Boy, Brain, Fish, Fun, HTML5, Kid, Love, Mobile, Obstacle, Puzzle

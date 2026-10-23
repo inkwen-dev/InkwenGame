@@ -33,4 +33,4 @@ Explore a world where coloring combined with music creates the perfect relaxatio
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Color, Decoration, Drawing, Girls
+- Tags: Color, Decoration, drawing, Girls

@@ -19,6 +19,6 @@ Navigate through the intricate Cat Trap Labyrinth Escape! Maneuver through a maz
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Cat, HTML5, iPad, iPhone, Level, Levels, Mobile, Skill, trap

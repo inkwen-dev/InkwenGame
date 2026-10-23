@@ -21,4 +21,4 @@ Flip at the rooftops, park, over speeding cars, on moving elevators and over air
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Best, Click, Clicker, fly, Hot, HTML, HTML5, jump, Jumping, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Best, Click, Clicker, fly, Hot, HTML, HTML5, jump, jumping, Unity3D

@@ -19,6 +19,6 @@ Get ready to dive into Traffic Trap, an addictive HTML5 puzzle game perfect for 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Clicker, HTML5, NapTech Games, Skill, Traffic, Truck, trucks
+- Tags: Brain, Casual, Clicker, HTML5, NapTech Games, Skill, Traffic, truck, trucks

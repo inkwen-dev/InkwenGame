@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, Android, 美容, 最佳游戏, 创造, 设计, 画画, 无尽, 免费HTML5游戏，适用于您的网站, Friv, HTML5, html5游戏, 像素, 放松
+- 标签: 2D, 安卓, 美容, 最佳游戏, 创作, 设计, 绘画, 无尽, 免费HTML5游戏供您的网站使用, Friv, HTML5, HTML5游戏, 像素, 放松

@@ -19,6 +19,6 @@ Bluebo is a 2D Platformer where you need to collect all of the gems while avoidi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Cute, Pixel, Platform, Retro, Science
+- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Cute, pixel, Platform, retro, Science

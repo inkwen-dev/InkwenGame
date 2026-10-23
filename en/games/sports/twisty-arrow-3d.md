@@ -21,4 +21,4 @@ Twisty Arrow is a simple tapping strategy game fun for users of for all ages. Sh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Arcade, Basketball, Board, Casual, Fairy, Fun, Funny, Hot, Hypercasual, Unity3D
+- Tags: 3D, 3D Games, Action, Arcade, basketball, Board, Casual, Fairy, Fun, Funny, Hot, Hypercasual, Unity3D

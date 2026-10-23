@@ -21,4 +21,4 @@ Bhop Expert 是一个令人惊叹的游戏模式，玩家需要在方块上跳�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 1人, 3D, 3D游戏, 冒险, CSGO, 跳跃, 跳跃
+- 标签: .io, .io 游戏, 单人, 3D, 3D游戏, 冒险, CSGO, 跳跃, 跳跃

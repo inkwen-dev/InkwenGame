@@ -21,4 +21,4 @@ It's possible now to play Pokemon Memory Match Up game in your web browser for f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Animal, Anime, Arcade, Best, Boys, Brain, Card, Cartoon, Cartoon Network, Fun, Girls, HTML5, Match 3, Matching, Mobile, Pokemon, Puzzle, Superhero
+- Tags: Adventure, Animal, Anime, Arcade, Best, Boys, Brain, card, Cartoon, Cartoon Network, Fun, Girls, HTML5, Match 3, Matching, Mobile, Pokemon, Puzzle, Superhero

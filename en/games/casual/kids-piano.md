@@ -21,4 +21,4 @@ Forest animals gathered in the forest together to play music together. You have 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Baby Hazel, Music
+- Tags: Animal, Baby, Baby Hazel, music

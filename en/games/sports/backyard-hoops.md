@@ -21,4 +21,4 @@ Test out your throwing skills in this fun new basketball game featuring Tom and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Best, Cartoon, Cartoon Network, H5, Hot, Shooter, Shooting, Sports
+- Tags: basketball, Best, Cartoon, Cartoon Network, H5, Hot, Shooter, Shooting, sports

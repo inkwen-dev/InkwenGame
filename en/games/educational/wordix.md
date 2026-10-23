@@ -21,4 +21,4 @@ Wordix is an engaging logic game where your task is to guess the word within a l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Brain, Casual, Educational, Family, Logic, Logical, Puzzle, unity, WebGL, Word
+- Tags: 1 Player, Brain, Casual, educational, Family, Logic, Logical, Puzzle, unity, WebGL, word

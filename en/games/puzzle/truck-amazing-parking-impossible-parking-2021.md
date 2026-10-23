@@ -21,4 +21,4 @@ Claim the crown and rule the underground as you race for dominance in the first 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Bubble Shooter, bus, Car, Cars, Fight, Fighting, Race, Racing, Shoot, Shoot 'Em Up, Shooter, Shooting, Simulation, Simulator, Street Fighting, Supercars, Truck, Unity3D
+- Tags: 3D, 3D Games, Bubble Shooter, bus, Car, Cars, Fight, fighting, Race, Racing, Shoot, Shoot 'Em Up, Shooter, Shooting, Simulation, Simulator, Street Fighting, Supercars, truck, Unity3D

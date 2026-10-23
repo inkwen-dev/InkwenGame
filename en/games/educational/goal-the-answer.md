@@ -19,6 +19,6 @@ Use your brain and your aim! Solve tricky math problems and kick the ball into t
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Math
+- Tags: educational, math

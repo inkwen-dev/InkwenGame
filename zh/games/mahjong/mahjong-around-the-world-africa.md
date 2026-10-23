@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动物, 卡片, 可爱, 搞笑, 女孩, 麻将, 解谜
+- 标签: 动物, 卡牌, 可爱, 搞笑, 女孩, mahjong, 益智

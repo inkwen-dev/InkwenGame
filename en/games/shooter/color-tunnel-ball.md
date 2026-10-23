@@ -21,4 +21,4 @@ Go through the colored rings and watch out for obstacles and cross obstacles of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Arcade, Ball, Block, Kids, Shoot, Shooter
+- Tags: .io, Arcade, Ball, block, Kids, Shoot, Shooter

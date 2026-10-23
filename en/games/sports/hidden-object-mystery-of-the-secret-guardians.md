@@ -19,6 +19,6 @@ EXPLORE A MYSTERIOUS WORLD BEYOND YOUR IMAGINATION Can you solve the hidden myst
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Aircraft, Android, Arcade, Arena, Arkanoid, Army, Barbie, Billiard, Board, Brawl, Cars, Collecting, Collection, Color, Craft, Crafting, Hidden

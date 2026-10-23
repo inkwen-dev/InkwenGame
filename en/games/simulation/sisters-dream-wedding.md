@@ -19,6 +19,6 @@ The lovable sisters Mia and Bella are going to have the wedding on the same day 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Boys, Coloring, Cooking, Girls, Kids, Princess

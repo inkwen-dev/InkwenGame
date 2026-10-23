@@ -21,4 +21,4 @@ Step into the soothing world of Foot Doctor Simulator, the ultimate relaxation s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, 3D Games, Baby Games, Casual, Doctor, Game, Kids, Makeover, Simulator, Surgery
+- Tags: 2025 games, 3D Games, Baby Games, Casual, Doctor, Game, Kids, Makeover, Simulator, surgery

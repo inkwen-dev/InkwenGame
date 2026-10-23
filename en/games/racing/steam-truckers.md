@@ -21,4 +21,4 @@ Steam Truckers is trucking game with old trucks. Your job is to deliver the ship
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Driving, Truck
+- Tags: Avoid, Driving, truck

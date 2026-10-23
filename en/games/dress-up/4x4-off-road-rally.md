@@ -21,4 +21,4 @@ Keyboard
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Candy, Car, Cars, Chicken, Fashion, Highscore, Mario, Simulation, Supercars, Truck
+- Tags: 8 Ball Pool, Candy, Car, Cars, Chicken, Fashion, Highscore, mario, Simulation, Supercars, truck

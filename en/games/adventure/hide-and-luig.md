@@ -19,6 +19,6 @@ A whimsical point-and-click hide-and-seek adventure where your only goal is to f
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Hidden, Point And Click, Puzzle

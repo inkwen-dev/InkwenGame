@@ -19,6 +19,6 @@ Kids Cars Games is a fun educational game for early preschool age that will help
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cars, Cleaning, Fun, Girls, HTML5, Jigsaw, Kids, Matching, Mobile, Puzzle, Truck
+- Tags: Cars, Cleaning, Fun, Girls, HTML5, Jigsaw, Kids, Matching, Mobile, Puzzle, truck

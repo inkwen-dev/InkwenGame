@@ -21,4 +21,4 @@ Fight the wicked goblin invaders and beat the boss in air combat to be the savio
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Air, Fighting, Shooter, sky
+- Tags: Air, fighting, Shooter, sky

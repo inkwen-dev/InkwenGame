@@ -19,6 +19,6 @@ At the start of each level, players must quickly locate powerful weapons like th
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Horror, Shoot, weapons, Zombie

@@ -19,6 +19,6 @@ Discover the joys of a long road trip with this free online game! You'll have to
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Avoid, Game, Games, HTML5, Hypercasual, Online

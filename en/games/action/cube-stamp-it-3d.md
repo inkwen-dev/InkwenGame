@@ -19,6 +19,6 @@ Here is a cube jumping arcade game for you to play. With 3D cubes and platforms,
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Block, Mobile, Platform, Puzzle, Unity3D
+- Tags: 3D, Arcade, block, Mobile, Platform, Puzzle, Unity3D

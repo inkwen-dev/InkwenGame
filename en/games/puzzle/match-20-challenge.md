@@ -21,4 +21,4 @@ Match 20 Challenge is a free colorful puzzle online game for boys. The game star
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Block, Boy, Brain, Bricks, Fun, HTML5, Kids, Matching, Number, Online, Puzzle
+- Tags: 3D, Android, block, Boy, Brain, Bricks, Fun, HTML5, Kids, Matching, Number, Online, Puzzle

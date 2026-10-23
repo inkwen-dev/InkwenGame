@@ -19,6 +19,6 @@ Sorting is used in many cases, in production and in everyday life. Bulk solids a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Android, Best, Brain, Color, Logic, Logical, Puzzle, Skill

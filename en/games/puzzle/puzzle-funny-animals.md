@@ -19,6 +19,6 @@ Welcome to Puzzle - Funny Animals &ndash; a unique puzzle game that will take yo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cute, Funny, Puzzle, puzzleblock

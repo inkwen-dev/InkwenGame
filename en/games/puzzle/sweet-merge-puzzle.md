@@ -19,6 +19,6 @@ Sweet Merge is the most delicious puzzle game youll ever play! Slide and merge m
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, Arcade, Candy, Castle, Casual, Color, Fun, Funny, Hypercasual, Puzzle, puzzleblock, swipe

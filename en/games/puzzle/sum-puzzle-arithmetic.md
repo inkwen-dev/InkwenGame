@@ -19,6 +19,6 @@ Addicting arithmetic puzzle! Collect the correct amount from the given numbers. 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Casual, HTML, HTML5, Hypercasual, Logic, Logical, Number, Puzzle

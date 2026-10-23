@@ -19,6 +19,6 @@ Office Parking game get you to push your percision skills and test your timing f
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boys, Car, Cars, Fun, Kids, Mobile, Parking, Race, Skill, Sport
+- Tags: Android, Boys, Car, Cars, Fun, Kids, Mobile, parking, Race, Skill, Sport

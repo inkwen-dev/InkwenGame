@@ -21,4 +21,4 @@ Help Shaun the Sheep score by smashing things as much as possible! Shoot the bal
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Game, Games, Sport, Sports
+- Tags: Arcade, Game, Games, Sport, sports

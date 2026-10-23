@@ -21,4 +21,4 @@ Math Class is a game in which you need to solve various problems with addition, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Educational, Fun, Kids, Logic, Math, Mobile, School, Skill
+- Tags: Best, educational, Fun, Kids, Logic, math, Mobile, School, Skill

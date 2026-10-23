@@ -19,6 +19,6 @@ Play super addictive game "Crazy Balls". Just hold, drag and release the bouncin
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Bricks, Bubble, Crazy, Cute
+- Tags: Ball, Bricks, Bubble, crazy, Cute

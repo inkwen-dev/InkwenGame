@@ -21,4 +21,4 @@ Car Escape is a kind of super addictive puzzle game. You should try to open up y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, Parking, Race, Racing
+- Tags: .io, .io Games, 1 Player, parking, Race, Racing

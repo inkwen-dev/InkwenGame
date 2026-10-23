@@ -19,6 +19,6 @@ Save Color Pets is a good match 3 games with 16 levels. In each level, you need 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Match-3, Match3
+- Tags: Animal, Match 3, Match3

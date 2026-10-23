@@ -19,6 +19,6 @@ Immerse yourself in the dark world of ninja action! As Ryu, the last warrior of 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: assasin, Fighting, Jumping, Killing, Ninja, Stealth, Stunts
+- Tags: assasin, fighting, jumping, Killing, ninja, Stealth, Stunts

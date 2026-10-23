@@ -21,4 +21,4 @@ WASD 或 方向键 驾驶 空格键 手刹 F 或 左Shift 加速 C 切换摄像�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 3D游戏, 汽车, 汽车, 休闲, 酷, 疯狂, 漂移, 驾驶, 有趣, HTML5, 卡丁车, 小孩, 竞速, 特技, Unity3D, WebGL
+- 标签: 单人, 3D, 3D游戏, 汽车, 汽车, 休闲, 酷, 疯狂, 漂移, 驾驶, 有趣, HTML5, 卡丁车, 儿童, 竞速, 特技, Unity3D, WebGL

@@ -19,6 +19,6 @@ Take complete control of your vehicle, perfect your driving, and prove your plac
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, bus, Car, Cars, Obstacle, Parking, Racing, Simulation, Simulator, Supercars, Truck
+- Tags: Adventure, bus, Car, Cars, Obstacle, parking, Racing, Simulation, Simulator, Supercars, truck

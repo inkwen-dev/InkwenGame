@@ -21,4 +21,4 @@ Defense Kingdom is a classic style arcade game, lead your soldiers and defend yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Battle, Defense, Fun, Tower Defense, War
+- Tags: 2D, battle, Defense, Fun, Tower Defense, War

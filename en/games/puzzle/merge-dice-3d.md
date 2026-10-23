@@ -21,4 +21,4 @@ Dice Merge is a unique and addictive game. You are presented with a grid and dif
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Classic, HTML5, Kids, Match 3, Matching, Online, Strategy
+- Tags: Brain, Casual, Classic, HTML5, Kids, Match 3, Matching, Online, strategy

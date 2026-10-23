@@ -19,6 +19,6 @@ Create poker hands from the cards in the web of this strategic solitaire game. E
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casino, Poker, Solitaire
+- Tags: card, Casino, Poker, solitaire

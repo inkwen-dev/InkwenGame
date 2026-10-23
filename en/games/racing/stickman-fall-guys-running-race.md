@@ -21,4 +21,4 @@ It is time for some delightfully comical epic run knockout challenge. Enter a ch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Batman, Fun, Games, Multiplayer, PacMan, Race, Racing, run, running, Spiderman, Stickman
+- Tags: Batman, Fun, Games, Multiplayer, PacMan, Race, Racing, run, running, Spiderman, stickman

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 小鸡, 儿童, 益智
+- 标签: .io 游戏, 鸡, 儿童, 益智

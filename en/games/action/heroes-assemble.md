@@ -19,6 +19,6 @@ Enjoy an exciting mix of running and arcade action in Heroes Assemble. You will 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, run, Superhero
+- Tags: battle, run, Superhero

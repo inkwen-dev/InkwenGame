@@ -21,4 +21,4 @@ In Pixel Demolisher Cannon, we destroy various objects consisting of pixel maps.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Funny, Pixel, Point And Click
+- Tags: Fun, Funny, pixel, Point And Click

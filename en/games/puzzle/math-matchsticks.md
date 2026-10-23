@@ -19,6 +19,6 @@ Math Matchsticks is a reasoning puzzle game with simple rules that are fun and c
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Brain, Casual, HTML5, Kid, Matching, Math, Mobile, Number, Online, Puzzle
+- Tags: Boy, Boys, Brain, Casual, HTML5, Kid, Matching, math, Mobile, Number, Online, Puzzle

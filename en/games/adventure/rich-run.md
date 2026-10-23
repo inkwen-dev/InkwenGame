@@ -19,6 +19,6 @@ It is a very interesting game of running through hurdles It has a simple present
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Brain, Crazy
+- Tags: 3D, Adventure, Brain, crazy

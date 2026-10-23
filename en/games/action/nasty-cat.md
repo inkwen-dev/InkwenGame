@@ -19,6 +19,6 @@ Smash all furnitures and make missus crazy! Because you are nasty cat and it's y
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Animal, Cat, Relaxation

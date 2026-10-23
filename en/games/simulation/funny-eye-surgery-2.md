@@ -21,4 +21,4 @@ Luke and Lora have been neglected their eyes by watching tablet all day, watch T
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Fun, Kids, Simulation, Surgery
+- Tags: Doctor, Fun, Kids, Simulation, surgery

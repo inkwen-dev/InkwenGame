@@ -21,4 +21,4 @@ Drive Monster stunts vehicle on complex, challenging tracks - severe driving abi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Best, Crazy, Driving, Sim, Simulator, Truck, Unity3D, WebGL
+- Tags: 3D Games, Best, crazy, Driving, Sim, Simulator, truck, Unity3D, WebGL

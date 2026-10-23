@@ -21,4 +21,4 @@ Welcome to Potion Path &ndash; A Magical Running Adventure! Join a playful young
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Math, Number, puzzleblock, Skill
+- Tags: math, Number, puzzleblock, Skill

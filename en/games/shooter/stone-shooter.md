@@ -21,4 +21,4 @@ Welcome to Stone Shooter, an exciting and addictive arcade shooting adventure th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, amazing, Casual, Fighting, Funny
+- Tags: 2026 games, Adventure, amazing, Casual, fighting, Funny

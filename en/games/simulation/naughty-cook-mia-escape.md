@@ -19,6 +19,6 @@ Naughty Cook Mia Escape is a point and click escape game developed by 8BGames. I
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Point And Click

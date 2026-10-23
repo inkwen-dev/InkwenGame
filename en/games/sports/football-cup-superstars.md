@@ -21,4 +21,4 @@ Play one of the most accessible, exciting and fun arcade sports games in the wor
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Football, Sport, Sports
+- Tags: 2 Player, 2 Player Games, Football, Sport, sports

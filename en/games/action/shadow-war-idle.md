@@ -19,6 +19,6 @@ Unleash dark power in a Endless Runner game. Survive the enemies, and customize 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, endless, Fighting, running, survival
+- Tags: Action, endless, fighting, running, survival

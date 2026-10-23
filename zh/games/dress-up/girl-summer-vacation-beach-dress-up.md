@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 卡通, 收藏, 朵拉, 换装, 麻将, 奇迹少女
+- 标签: 卡通, 收藏, 多拉, 装扮, mahjong, 奇迹少女

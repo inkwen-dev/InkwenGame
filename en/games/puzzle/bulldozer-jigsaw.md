@@ -21,4 +21,4 @@ Bulldozer Jigsaw is a free online game from genre of puzzle and jigsaw games. Yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, HTML5, Jigsaw, Mobile, Skill, Truck
+- Tags: Arcade, HTML5, Jigsaw, Mobile, Skill, truck

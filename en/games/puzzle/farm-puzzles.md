@@ -19,6 +19,6 @@ Farm Puzzles Jigsaw is a free online game from genre of puzzle and jigsaw really
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Casual, Cat, Educational, Family, Farm, Game, Games, HTML, HTML5, Jigsaw, Kid, Kids, Mobile, Puzzle
+- Tags: Animal, Casual, Cat, educational, Family, Farm, Game, Games, HTML, HTML5, Jigsaw, Kid, Kids, Mobile, Puzzle

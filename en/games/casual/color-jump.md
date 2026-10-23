@@ -19,6 +19,6 @@ Color Jump is a simple color matching reflexes game. Tap to rotate the polygon t
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Casual, Color, Hypercasual

@@ -19,6 +19,6 @@ To survive, you must quickly tap on the correct colour. Make as many points as y
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Android, Clicker, Color, HTML5, jump, Jumping, Mobile, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Android, Clicker, Color, HTML5, jump, jumping, Mobile, Unity3D

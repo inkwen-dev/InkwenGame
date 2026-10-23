@@ -21,4 +21,4 @@ Select different military vehicles and test your driving skills across vast dese
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, Cars, Driving, Racing, Simulation, Simulator, Truck, Unity3D, WebGL
+- Tags: 3D, Car, Cars, Driving, Racing, Simulation, Simulator, truck, Unity3D, WebGL

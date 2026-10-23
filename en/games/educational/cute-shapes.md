@@ -27,4 +27,4 @@ The goal of the game is to spot the differences!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, Kids, Mobile, Puzzle
+- Tags: Brain, educational, Kids, Mobile, Puzzle

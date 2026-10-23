@@ -19,6 +19,6 @@ Ninja Brainrot Slice is an endless arcade game that puts your ninja reflexes to 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bomb, Brainrot, Ninja, Slicing, Tung Tung Tung Sahur
+- Tags: Bomb, Brainrot, ninja, Slicing, Tung Tung Tung Sahur

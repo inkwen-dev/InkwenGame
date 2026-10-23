@@ -21,4 +21,4 @@ ONE BLOCK for Minecraft is a craft game where you have to move through the platf
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Block, Collecting, Collection, Games, Minecraft, Online, Puzzle
+- Tags: Avoid, block, Collecting, Collection, Games, Minecraft, Online, Puzzle

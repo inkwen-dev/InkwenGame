@@ -31,4 +31,4 @@ Earn coins for completing levels, which can be used to access hints.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, easy, Educational, intelligence, Logic, Puzzle, words
+- Tags: Brain, easy, educational, intelligence, Logic, Puzzle, words

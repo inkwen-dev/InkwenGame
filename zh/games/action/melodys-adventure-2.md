@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 街机, 收集, 怪兽, 平台
+- 标签: 动作, 街机, 收集, monster, 平台

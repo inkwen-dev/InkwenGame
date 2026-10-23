@@ -21,4 +21,4 @@ Impossible Truck Cargo Driver features: - multiple levels - good graphics
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Truck
+- Tags: Driving, truck

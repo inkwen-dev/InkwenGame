@@ -21,4 +21,4 @@ Connect all the among us impostor mahjong tiles and clear the board in this html
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Mahjong, Mobile, Puzzle
+- Tags: HTML5, mahjong, Mobile, Puzzle

@@ -21,4 +21,4 @@ Clear The Lot is a game that will test your outsourcing skills. There will be a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Car, Driving, Kids, Mobile, Parking, Skill
+- Tags: Avoid, Car, Driving, Kids, Mobile, parking, Skill

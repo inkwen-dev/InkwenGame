@@ -21,4 +21,4 @@ Pool Legends Pro Master is a fast-paced billiards game where precision and speed
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Best Games, Poppy Playtime, Sports
+- Tags: 8 Ball Pool, Best Games, Poppy Playtime, sports

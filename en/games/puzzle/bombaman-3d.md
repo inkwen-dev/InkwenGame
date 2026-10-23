@@ -31,4 +31,4 @@ Dive into an exhilarating 3D journey with BOMBAMAN 3D! Tackle complex mazes, str
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Maze, Monster, Multiplayer
+- Tags: 3D, Maze, monster, Multiplayer

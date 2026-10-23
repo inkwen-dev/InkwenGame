@@ -19,6 +19,6 @@ Ben 10 Halloween Bubble Shooter
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ben 10, Bubble, Bubble Shooter, Casual, Hypercasual, Puzzle

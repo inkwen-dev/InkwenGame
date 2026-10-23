@@ -21,4 +21,4 @@ PC使用WASD，手机使用游戏内的按钮
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, Android, 方块, 大脑, HTML5, 移动, 解谜, 技巧
+- 标签: 单人, 2D, 安卓, 方块, 大脑, HTML5, 移动设备, 益智, 技巧

@@ -21,4 +21,4 @@ Discover Stickman Hook, Tap to hook and make incredible jumps; Avoid every obsta
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Click, jump, Jumping, Simulation, Stickman
+- Tags: 2D, Adventure, Click, jump, jumping, Simulation, stickman

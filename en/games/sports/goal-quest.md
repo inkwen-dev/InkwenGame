@@ -21,4 +21,4 @@ Experience the fusion of sports and puzzle-solving in this captivating 2D soccer
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Brain, Football, Fun, Funny, Puzzle, Soccer, Sport, Sports
+- Tags: 1 Player, Brain, Football, Fun, Funny, Puzzle, Soccer, Sport, sports

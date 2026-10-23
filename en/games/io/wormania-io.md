@@ -19,6 +19,6 @@ Multiplayer worm game with powerups! Eat gems to grow longer, use powerups to ga
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Multiplayer, Slither

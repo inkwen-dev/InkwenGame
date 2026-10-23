@@ -19,6 +19,6 @@ Power 4 is a well-known strategy game that is suitable for everyone. Power 4 is 
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Casual, Logic, Multiplayer, Puzzle, Red, Strategy
+- Tags: Board, Casual, Logic, Multiplayer, Puzzle, Red, strategy

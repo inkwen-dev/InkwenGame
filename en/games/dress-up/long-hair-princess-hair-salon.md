@@ -21,4 +21,4 @@ Once upon a time, there was a kingdom in fairyland ruled by the beloved Prince C
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Cute, Decorate, Decoration, Dress Up, Educational, Fun, Girls, HTML5, Kids, Makeover, Mobile, Princess, Puzzle
+- Tags: Cartoon, Cute, Decorate, Decoration, Dress Up, educational, Fun, Girls, HTML5, Kids, Makeover, Mobile, Princess, Puzzle

@@ -15,6 +15,6 @@ Zoom into the adrenaline-fueled world of BMG! CrashDay 2025, where action meets 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Racing

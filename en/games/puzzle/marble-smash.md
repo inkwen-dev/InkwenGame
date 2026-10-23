@@ -19,6 +19,6 @@ Welcome to marble Smash Just Tap 3 or more similar Marbles to smash them and com
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Bubble, Color, Hot, Match 3, Match3, Matching, Puzzle

@@ -21,4 +21,4 @@ Slimoban is a variation of sokoban with slimes. But besides the boxes that you n
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Girl, Mobile, Pixel, Puzzle, Retro
+- Tags: 2D, Arcade, Girl, Mobile, pixel, Puzzle, retro

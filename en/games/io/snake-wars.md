@@ -19,6 +19,6 @@ Embark on a slithery adventure in Snake Wars, the captivating io game that puts 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, free games for your website, FreezeNova, Snake
+- Tags: .io, free games for your website, FreezeNova, snake

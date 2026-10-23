@@ -21,4 +21,4 @@ In the online game Bouncy Rush you can control gravity. If necessary, you can ru
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boys, Casual, Girls, Hypercasual, jump, Jumping, Kids, Love
+- Tags: Arcade, Boys, Casual, Girls, Hypercasual, jump, jumping, Kids, Love

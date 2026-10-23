@@ -21,4 +21,4 @@ Looking for coloring games for kids? Try our fun coloring for kids &mdash; a per
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Color, Coloring, Hypercasual, Puzzle, Strategy
+- Tags: Casual, Color, Coloring, Hypercasual, Puzzle, strategy

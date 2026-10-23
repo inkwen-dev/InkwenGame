@@ -29,4 +29,4 @@ Fit Master 3D 是一款趣味十足的在线益智游戏，玩家需要将食物
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, 食物, 谜题
+- 标签: 3D, 食物, 益智

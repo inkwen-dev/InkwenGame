@@ -21,4 +21,4 @@ Across many browser car games, you've driving various supercars from around the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Car, Cars, Cool, Crazy, drift, drifting, Driving, Racing, Road, Simulation, Simulator, Stunts, Supercars, Unity3D, WebGL
+- Tags: 1 Player, 3D, 3D Games, Car, Cars, cool, crazy, drift, drifting, Driving, Racing, Road, Simulation, Simulator, Stunts, Supercars, Unity3D, WebGL

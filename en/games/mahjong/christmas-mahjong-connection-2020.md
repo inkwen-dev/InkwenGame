@@ -21,4 +21,4 @@ Connect all the christmas mahjong tiles and clear the board in this html5 mahjon
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, HTML5, Mahjong, Mobile
+- Tags: Christmas, HTML5, mahjong, Mobile

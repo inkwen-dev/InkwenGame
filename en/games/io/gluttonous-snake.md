@@ -21,4 +21,4 @@ Left and Right
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Snake
+- Tags: .io, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, snake

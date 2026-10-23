@@ -19,6 +19,6 @@ The most thrilling motorcycle stunt game is here! In Motor Stunt Simulator 3D, y
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Bike, Collecting, Platform, Simulation, Stunts
+- Tags: 3D, Avoid, bike, Collecting, Platform, Simulation, Stunts

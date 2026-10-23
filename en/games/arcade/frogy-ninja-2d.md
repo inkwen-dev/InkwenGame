@@ -21,4 +21,4 @@ Step into the Year of the Frog, where the tables turn, and the hunter becomes th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Casual, Click, frog, Mentolatux, Ninja, swipe
+- Tags: 2D, Casual, Click, frog, Mentolatux, ninja, swipe

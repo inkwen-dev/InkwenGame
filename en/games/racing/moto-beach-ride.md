@@ -21,4 +21,4 @@ Moto Beach Ride is a great driving HTML5game. Moto Beach Ride is a driving platf
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Driving, HTML5, Racing
+- Tags: bike, Driving, HTML5, Racing

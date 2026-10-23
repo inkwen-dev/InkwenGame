@@ -21,4 +21,4 @@ Cars Coloring Book is cool coloring game for kids and adults. Play Cars Coloring
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Cartoon, Color, Coloring, Draw, Drawing, Puzzle, Racing
+- Tags: Car, Cars, Cartoon, Color, Coloring, Draw, drawing, Puzzle, Racing

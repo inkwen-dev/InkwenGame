@@ -19,6 +19,6 @@ Huggy and Wuggy are playing ball, choose your favorite character and and your te
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Game, Games, Soccer, Sport, Sports
+- Tags: Football, Game, Games, Soccer, Sport, sports

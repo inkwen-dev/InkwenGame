@@ -21,4 +21,4 @@ Drive your pickup and complete challenging parking missions or just roam around 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Driving, Simulation, Simulator, Truck, WebGL
+- Tags: 3D Games, Driving, Simulation, Simulator, truck, WebGL

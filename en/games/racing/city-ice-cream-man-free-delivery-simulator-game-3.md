@@ -19,6 +19,6 @@ It’s a hot day if summers 2019 and this real city ice cream man is set you sel
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Android, Casual, city, Driving, Food, Game, Games, Ice, Motorcycle, Simulation, Simulator, Super

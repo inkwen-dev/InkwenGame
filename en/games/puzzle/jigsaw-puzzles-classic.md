@@ -19,6 +19,6 @@ Jigsaw Puzzle Cats Kitten is a classic jigsaw puzzle game but specifically desig
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Classic, Family, Jigsaw, Puzzle

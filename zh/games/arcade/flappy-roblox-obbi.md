@@ -21,4 +21,4 @@ Flappy Roblox Obbi 是一款令人兴奋的障碍赛道挑战游戏，你将引�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 点击器, 飞行, HTML5, roblox
+- 标签: 点击器, 飞行, HTML5, Roblox

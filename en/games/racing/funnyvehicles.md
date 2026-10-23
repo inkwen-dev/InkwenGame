@@ -19,6 +19,6 @@ Experience thrilling races like never before! Navigate through dynamically gener
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cars, drift, drifting, Driving, Funny, offroad, Online, Road, Stickman
+- Tags: Cars, drift, drifting, Driving, Funny, offroad, Online, Road, stickman

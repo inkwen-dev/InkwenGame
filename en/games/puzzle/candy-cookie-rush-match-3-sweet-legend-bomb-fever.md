@@ -19,6 +19,6 @@ touch and swipe left click and swipe
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Baby, Baby Hazel, Best, Boy, Candy, Cook, Cooking, Girl, HTML, HTML5, Kid, Match 3, Match3, Matching, Math, New, Puzzle
+- Tags: Arcade, Baby, Baby Hazel, Best, Boy, Candy, Cook, Cooking, Girl, HTML, HTML5, Kid, Match 3, Match3, Matching, math, New, Puzzle

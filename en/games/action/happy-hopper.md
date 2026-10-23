@@ -21,4 +21,4 @@ Happy Hopper is a limited levels made easier game for kids which is a platformer
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping, Platform, Rabbit
+- Tags: jumping, Platform, Rabbit

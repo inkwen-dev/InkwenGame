@@ -19,6 +19,6 @@ Welcome to KnightBit: Far Lands, a new chapter of the great confrontation! Disco
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Boys, Castle, Enemies, Fight, Horse, Knight, Levels, RPG, ships, Strategy, Winter
+- Tags: Action, Boys, Castle, Enemies, Fight, horse, knight, Levels, rpg, ships, strategy, Winter

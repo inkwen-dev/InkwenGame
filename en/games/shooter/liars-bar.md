@@ -21,4 +21,4 @@ Welcome to a world of strategy, wit, and mind games in Liar&rsquo;s Bar. Here, y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Guessing, Gun, Strategy
+- Tags: Guessing, Gun, strategy

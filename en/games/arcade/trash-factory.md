@@ -21,4 +21,4 @@ Help the trash pandas take out the garbage! - Sort trash into the correct contai
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Cartoon, Casual, Color, Cute, Hypercasual, Mobile, Pixel, Retro, Timing, Unity3D, WebGL
+- Tags: 2D, Arcade, Cartoon, Casual, Color, Cute, Hypercasual, Mobile, pixel, retro, Timing, Unity3D, WebGL

@@ -21,4 +21,4 @@ Police Officers Puzzle game is a free online game in the jigsaw puzzle genre. Yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Fun, HTML5, Jigsaw, Kids, Mobile, Police, Puzzle
+- Tags: Brain, Fun, HTML5, Jigsaw, Kids, Mobile, police, Puzzle

@@ -21,4 +21,4 @@ The Teenage Mutant Ninja Turtles (often shortened to TMNT or Ninja Turtles) are 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Memory, Puzzle
+- Tags: Brain, memory, Puzzle

@@ -21,4 +21,4 @@ Welcome to Real Car Parking Master : Multiplayer Car Game! Do you like playing c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Adventure, Arcade, Car, Cars, Driving, Hypercasual, Parking, Race, Stunts, Super, Supercars, Unity3D
+- Tags: .io, .io Games, Adventure, Arcade, Car, Cars, Driving, Hypercasual, parking, Race, Stunts, Super, Supercars, Unity3D

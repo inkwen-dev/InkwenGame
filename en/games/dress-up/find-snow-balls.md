@@ -21,4 +21,4 @@ There are chance to find the hidden Snow Ball in this game. You can enjoy each a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Ballon, Barbie, Dora, Girls, Hair, Kids, Makeover, Mario, Puzzle, Skills
+- Tags: Ball, Ballon, Barbie, Dora, Girls, Hair, Kids, Makeover, mario, Puzzle, Skills

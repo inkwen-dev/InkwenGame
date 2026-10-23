@@ -21,4 +21,4 @@ Relax your brain and play the best bricks breaker game this year. Touch and shoo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Arcade, Ball, Block, Bricks, Cartoon, Casual, Classic, endless, Fun, Highscore, Mobile
+- Tags: 1 Player, 2D, Action, Arcade, Ball, block, Bricks, Cartoon, Casual, Classic, endless, Fun, Highscore, Mobile

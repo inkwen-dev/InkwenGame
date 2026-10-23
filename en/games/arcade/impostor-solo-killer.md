@@ -21,4 +21,4 @@ This game is fun and engaging action game. Your mission is simple: Execute all l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 3D Games, Animal, Bike, Brain, Game, Kill, Killing, Knight, Love, Mine, Puzzle, Shark
+- Tags: 2 Player Games, 3D Games, Animal, bike, Brain, Game, Kill, Killing, knight, Love, Mine, Puzzle, Shark

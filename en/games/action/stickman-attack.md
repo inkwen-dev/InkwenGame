@@ -19,6 +19,6 @@ Hordes of stickman, wave by wave trying to wear you down, waiting for your first
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Fighting, Stickman
+- Tags: Action, fighting, stickman

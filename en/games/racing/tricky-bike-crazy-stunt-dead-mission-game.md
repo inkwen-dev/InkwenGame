@@ -21,4 +21,4 @@ Do you love to play bike racing games with your favorite bike racing game, motor
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Bike, Boys, HTML, HTML5, Moto, Motorcycle, Race, Racing, Simulation, Simulator, Stunts
+- Tags: 3D Games, bike, Boys, HTML, HTML5, Moto, Motorcycle, Race, Racing, Simulation, Simulator, Stunts

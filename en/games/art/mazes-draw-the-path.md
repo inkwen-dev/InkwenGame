@@ -21,4 +21,4 @@ Dive into an engaging world of logic puzzles where your goal is to find the exit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Best Games, Brain, Casual, Classic, Draw, Drawing, endless, Escape, Hypercasual, Maze, Puzzle
+- Tags: 1 Player, 2026 games, 2D, Best Games, Brain, Casual, Classic, Draw, drawing, endless, Escape, Hypercasual, Maze, Puzzle

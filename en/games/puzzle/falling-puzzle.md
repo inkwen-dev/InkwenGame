@@ -21,4 +21,4 @@ A new gameplay experience that will give you an unprecedented level of satisfact
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Puzzle, Tetris
+- Tags: block, Puzzle, tetris

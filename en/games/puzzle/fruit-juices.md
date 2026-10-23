@@ -19,6 +19,6 @@ In the new exciting game Fruit Juices, we want to invite you to try to prepare s
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Casual, Fruit, Fruits, Fun, Funny, Hypercasual, Kids, Logic, Mobile, Skill

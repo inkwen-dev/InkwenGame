@@ -21,4 +21,4 @@ Run, explore and destroy the monsters you meet along the way. There are two type
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Mario, run, running, Super
+- Tags: Action, mario, run, running, Super

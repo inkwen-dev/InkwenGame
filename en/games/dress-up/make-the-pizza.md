@@ -21,4 +21,4 @@ Make a delicious pizza, bake it in the oven and have a lot of fun slicing it! Cr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, Action, Air, Best, Boy, Boys, Collection, Creation, Decoration, Educational, Fashion, Girl, Girls, Interactive Fiction, Mario, Minion, Relaxation, Simulation
+- Tags: .io, .io Games, 3D, Action, Air, Best, Boy, Boys, Collection, Creation, Decoration, educational, Fashion, Girl, Girls, Interactive Fiction, mario, Minion, Relaxation, Simulation

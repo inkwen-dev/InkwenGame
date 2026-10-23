@@ -21,4 +21,4 @@ Circle Word is a HTML5 game is a word challenge game that you have to connect al
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Educational, Fun, Funny, Kids, Letters, Skill, Skills, Word
+- Tags: Best, educational, Fun, Funny, Kids, Letters, Skill, Skills, word

@@ -30,4 +30,4 @@ Find the Rule is an addictive minimalist brain-training puzzle game that tests y
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Logic, Math, Number, Puzzle
+- Tags: Brain, Logic, math, Number, Puzzle

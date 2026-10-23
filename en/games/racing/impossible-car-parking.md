@@ -21,4 +21,4 @@ Impossible Car Parking is fun addictive hyper casual Parking game. So get ready 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Casual, Hypercasual, Parking
+- Tags: Adventure, Casual, Hypercasual, parking

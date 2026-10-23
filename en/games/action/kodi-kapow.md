@@ -21,4 +21,4 @@ In a small town there lived a little boy Cody, who, like all children, went to s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Cartoon, Cartoon Network, Disney, Fight, Fighting, H5, HTML, HTML5, Mind, Strategy
+- Tags: Brain, Cartoon, Cartoon Network, Disney, Fight, fighting, H5, HTML, HTML5, Mind, strategy

@@ -21,4 +21,4 @@ Off-Road Hill Climbing Race isn&rsquo;t your typical car-driving game&mdash;it&r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boys, Car, Girls, Helicopter, Kids, Racing, running, Skill
+- Tags: 3D, 3D Games, Boys, Car, Girls, helicopter, Kids, Racing, running, Skill

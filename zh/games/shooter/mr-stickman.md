@@ -21,4 +21,4 @@ Mr Stickman 是一款疯狂的射击游戏。瞄准并射击你的所有敌人�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: HTML, HTML5, 超休闲, 射击, 射击, 射击, 狙击, 忍者, 武器
+- 标签: HTML, HTML5, 超休闲, 射击, 射击类, 射击, 狙击手, 木偶人, 武器

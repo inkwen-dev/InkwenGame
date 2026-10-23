@@ -15,6 +15,6 @@ Navigate deceitful worlds in DuaLight, a 2D pixel platformer where reflections r
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Casual

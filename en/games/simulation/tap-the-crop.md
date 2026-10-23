@@ -22,4 +22,4 @@ Start with wheat and work your way up through corn, carrots, tomatoes, and more,
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Clicker, Farm, idle, Management
+- Tags: Arcade, Clicker, Farm, idle, management

@@ -21,4 +21,4 @@ WASD 方向键 移动触摸控制
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 人, 2D, 动作, Android, 街机, 最佳, 汽车, 汽车, 怪物, 卡车
+- 标签: 单人, 2D, 动作, 安卓, 街机, 最佳, 汽车, 汽车, monster, 卡车

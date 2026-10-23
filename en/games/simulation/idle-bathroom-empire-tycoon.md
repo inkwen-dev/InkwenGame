@@ -19,6 +19,6 @@ Ready to become the ultimate bathroom tycoon? In this exciting mix of simulation
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, idle, Simulation

@@ -21,4 +21,4 @@ ARMA (stylized as ARMA) is a series of first person tactical military shooters, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Memory, Puzzle
+- Tags: Brain, memory, Puzzle

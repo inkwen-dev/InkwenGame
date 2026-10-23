@@ -19,6 +19,6 @@ Angry Zombie is an exciting sports game to play for all ages. Play this technica
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Basketball, HTML, HTML5, Mobile, Sport, Sports, Zombie
+- Tags: Arcade, basketball, HTML, HTML5, Mobile, Sport, sports, Zombie

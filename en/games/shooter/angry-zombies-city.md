@@ -21,4 +21,4 @@ What should you do with a Catapult loaded with stones? Shoot zombies, of course!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, Android, Arcade, Battle, Bomb, city, Defense, Fun, Ghost, Gun, Hypercasual, Shoot, Unity3D
+- Tags: .io Games, 2 Player Games, 3D Games, Android, Arcade, battle, Bomb, city, Defense, Fun, Ghost, Gun, Hypercasual, Shoot, Unity3D

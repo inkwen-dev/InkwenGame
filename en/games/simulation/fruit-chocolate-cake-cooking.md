@@ -21,4 +21,4 @@ Everyone knows that making a chocolate cake it is so difficult but in this game 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Hazel, Cook, Cooking, IO
+- Tags: .io, Baby Hazel, Cook, Cooking

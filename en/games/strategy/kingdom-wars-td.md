@@ -21,4 +21,4 @@ Welcome to Kingdom Wars TD, an exciting tower-defense strategy game set in a cap
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Bow, Boy, Castle, Girl, Kid, Logic, Puzzle, Strategy, Zombie
+- Tags: 2D, Bow, Boy, Castle, Girl, Kid, Logic, Puzzle, strategy, Zombie

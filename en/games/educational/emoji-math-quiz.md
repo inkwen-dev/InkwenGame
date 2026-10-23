@@ -21,4 +21,4 @@ Embark on a brain-teasing adventure with Emoji Math, the game that blends math p
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Educational, Kids, Math, Puzzle, Quiz
+- Tags: educational, Kids, math, Puzzle, Quiz

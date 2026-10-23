@@ -21,4 +21,4 @@ Fly your dog through the skies collecting snacks and dodging missiles, don't for
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Air, Animal, Arcade, Avoid, Best, Bomb, Candy, Casual, Collecting, Cool, Crazy, Cute, endless, Escape, Ever After High, Flight, fly, Food, Fruit, Fruits, Fun, Funny, Highscore, HTML5, Hypercasual, jump, Jumping, Kid, Kids, Mobile, Pixel, Retro, sky, Super
+- Tags: 1 Player, Action, Air, Animal, Arcade, Avoid, Best, Bomb, Candy, Casual, Collecting, cool, crazy, Cute, endless, Escape, Ever After High, flight, fly, Food, Fruit, Fruits, Fun, Funny, Highscore, HTML5, Hypercasual, jump, jumping, Kid, Kids, Mobile, pixel, retro, sky, Super

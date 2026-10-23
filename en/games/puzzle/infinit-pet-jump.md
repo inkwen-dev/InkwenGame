@@ -21,4 +21,4 @@ Classic infinity jump game The objective of this game is to get as high as possi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Animal, Baby, Boy, Cat, fly, Girl, HTML5, jump, Jumping, Kids
+- Tags: 1 Player, 2D, Animal, Baby, Boy, Cat, fly, Girl, HTML5, jump, jumping, Kids

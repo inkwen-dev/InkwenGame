@@ -23,4 +23,4 @@ QuizMasters is a colorful trivia quiz-show game where you answer questions, clim
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Educational, Quiz, trivia
+- Tags: educational, Quiz, trivia

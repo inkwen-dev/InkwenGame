@@ -19,6 +19,6 @@ Stick Fight is really easy to play Just aim and tap to release the arrows to kil
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Gun, HTML, HTML5, Hypercasual, Kill, Killing, Puzzle, Shooting, Stickman, Street Fighting, War
+- Tags: Action, Adventure, Arcade, Gun, HTML, HTML5, Hypercasual, Kill, Killing, Puzzle, Shooting, stickman, Street Fighting, War

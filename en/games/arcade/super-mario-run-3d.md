@@ -21,4 +21,4 @@ Welcome to the world of Super Mario! As evils are invading the jungle, it is tim
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Mario, Superhero
+- Tags: Adventure, Arcade, mario, Superhero

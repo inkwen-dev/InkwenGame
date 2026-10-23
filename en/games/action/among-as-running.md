@@ -21,4 +21,4 @@ Guys, are you ready to stretch your fingers a little and arrange a free race wit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping, run
+- Tags: jumping, run

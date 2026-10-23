@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, 3D, 3D 游戏, 动作, 冒险, 街机, 最佳, H5, 热门, HTML, HTML5, 击杀, 杀人, 跑, 跑步, Unity3D
+- 标签: .io, 3D, 3D游戏, 动作, 冒险, 街机, 最佳, H5, 热门, HTML, HTML5, 杀戮, 击杀, 跑, 奔跑, Unity3D

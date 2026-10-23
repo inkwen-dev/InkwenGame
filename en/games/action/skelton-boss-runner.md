@@ -15,6 +15,6 @@ Embark on a thrilling, fast-paced adventure in Skelton Boss Runner! Navigate eve
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: runner

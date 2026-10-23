@@ -19,6 +19,6 @@ Surge is a horror 3D game where the devil opened gates to hell on planet earth. 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Escape, HTML, HTML5, Monster, run, School, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Action, Escape, HTML, HTML5, monster, run, School, Unity3D

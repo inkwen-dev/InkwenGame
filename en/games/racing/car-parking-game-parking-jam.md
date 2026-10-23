@@ -21,4 +21,4 @@ Car Parking Game: Parking Jam is a fun and challenging parking game where you mu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 3D, 3D Games, Adventure, Best, Best Games, Car, carparking, Cars, Games, Strategy, unity games, Unity3D
+- Tags: 1 Player, 2026 games, 3D, 3D Games, Adventure, Best, Best Games, Car, carparking, Cars, Games, strategy, unity games, Unity3D

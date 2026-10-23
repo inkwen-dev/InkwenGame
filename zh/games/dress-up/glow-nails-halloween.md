@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Bejeweled, 换装, 女孩, 女孩, 万圣节, 美甲, 指甲
+- 标签: 宝石迷阵, 装扮, 女孩, 女孩, 万圣节, 美甲, 美甲

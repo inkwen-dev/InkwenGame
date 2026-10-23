@@ -43,4 +43,4 @@
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Adventure, Anime, cards, RPG, Skill, Strategy
+- Tags: Action, Adventure, Anime, cards, rpg, Skill, strategy

@@ -19,6 +19,6 @@ The doll is dirty! Let’s help! Can you clean the dirt bike? [Happy Clean], mak
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Cleaning, Educational, Fun, Girl, Girls, H5, House, HTML5, Kid, Kids
+- Tags: 2D, Animal, Cleaning, educational, Fun, Girl, Girls, H5, House, HTML5, Kid, Kids

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 恐龙, 恐龙, 教育, 儿童, 学校
+- 标签: 恐龙, Dino, 教育, 儿童, 学校

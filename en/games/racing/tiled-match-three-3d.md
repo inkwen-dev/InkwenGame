@@ -19,6 +19,6 @@ Match Tile Paradise 3D is a match 3 puzzle game where you need to collect 3 iden
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Boy, Car, Fruit, Fun, Girl, Relaxation, vehicle

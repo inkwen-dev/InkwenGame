@@ -19,6 +19,6 @@ PC Controls bull Movement W A S D bull Jump Spacebar bull Camera Rotation Right 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Best Games, Bike, Brainrot, Cartoon, Cute, Fish, Fishing, Jewel, Minecraft, Road, roblox, trial car, water
+- Tags: Best, Best Games, bike, Brainrot, Cartoon, Cute, Fish, Fishing, Jewel, Minecraft, Road, roblox, trial car, water

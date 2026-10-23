@@ -19,6 +19,6 @@ You want to be a real-life cowboy and ride a horse in a battle with zombies? Zom
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Horse, weapons, WebGL, Zombie
+- Tags: 3D, horse, weapons, WebGL, Zombie

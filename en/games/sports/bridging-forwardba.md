@@ -21,4 +21,4 @@ This is a very good adventure game. This game is made in cartoon style. You can 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Avoid, Bricks, Casual, Collecting, Collection, Fun, Funny, Game, Games, Girl, Girls, Google, H5, HTML5, Hypercasual, Kid, Kids, Mobile, Multiplayer, Sport, Sports, Strategy
+- Tags: 3D, 3D Games, Avoid, Bricks, Casual, Collecting, Collection, Fun, Funny, Game, Games, Girl, Girls, Google, H5, HTML5, Hypercasual, Kid, Kids, Mobile, Multiplayer, Sport, sports, strategy

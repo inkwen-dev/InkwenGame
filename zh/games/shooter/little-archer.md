@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 乐趣, HTML5, 儿童, 手机, 射击游戏, 技巧
+- 标签: 单人, 有趣, HTML5, 儿童, 移动设备, 射击, 技巧

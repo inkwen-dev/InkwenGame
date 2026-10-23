@@ -19,6 +19,6 @@ Outshine your friends and assert your dominance by scoring five goals through pr
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, Ball, Football, Mobile, Sport

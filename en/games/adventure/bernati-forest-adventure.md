@@ -21,4 +21,4 @@ Bernati Forest Adventure is photorealistic point and click forest adventure/esca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Escape, Hidden, Memory, Mobile, Point And Click
+- Tags: 1 Player, 2D, Adventure, Escape, Hidden, memory, Mobile, Point And Click

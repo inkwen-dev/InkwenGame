@@ -21,4 +21,4 @@ Tetris Mobile is actually another free Tetris game. In the game you need to make
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Fun, HTML5, Kids, Mobile, Puzzle, Skill, Tetris
+- Tags: Casual, Fun, HTML5, Kids, Mobile, Puzzle, Skill, tetris

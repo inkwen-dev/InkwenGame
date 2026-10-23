@@ -21,4 +21,4 @@ Super Mario Clicker is a fun, clicker, idle game where you help Mario and Friend
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Hypercasual, kiz10, Levels, Mario
+- Tags: Hypercasual, kiz10, Levels, mario

@@ -21,4 +21,4 @@ Catch The Berry is a free hypercasual platform adventure game where you run, mov
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Bounce, Classic, Crazy, free games for your site, free games for your website, free html5 games for your website, HTML5, Hypercasual, Mobile, NapTech Games, Online, Platform
+- Tags: Android, Arcade, Bounce, Classic, crazy, free games for your site, free games for your website, free html5 games for your website, HTML5, Hypercasual, Mobile, NapTech Games, Online, Platform

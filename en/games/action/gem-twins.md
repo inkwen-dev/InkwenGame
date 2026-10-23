@@ -19,6 +19,6 @@ Gem Twins is a puzzle-platformer game where you control two brothers with the ab
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Pixel, Platform, Puzzle, Retro
+- Tags: Arcade, pixel, Platform, Puzzle, retro

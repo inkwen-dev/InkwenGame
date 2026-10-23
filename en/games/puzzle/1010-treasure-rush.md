@@ -21,4 +21,4 @@ Use a mouse or touchpad to Pick and drop the block sets on the board to complete
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, HTML, Mobile, Puzzle, Tetris
+- Tags: block, HTML, Mobile, Puzzle, tetris

@@ -19,6 +19,6 @@ Detective Loupe Puzzle is a thinking point-and-click game where you are a detect
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Detective, Educational, Fun, H5, HTML5, Kid, Kids, Puzzle
+- Tags: Brain, Detective, educational, Fun, H5, HTML5, Kid, Kids, Puzzle

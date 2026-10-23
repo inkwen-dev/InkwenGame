@@ -47,4 +47,4 @@ ERAS, CENTURIES AND THE EVOLUTION OF WAR
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Army, Boys, pve, RPG, Strategy, Tower Defense, War
+- Tags: Army, Boys, pve, rpg, strategy, Tower Defense, War

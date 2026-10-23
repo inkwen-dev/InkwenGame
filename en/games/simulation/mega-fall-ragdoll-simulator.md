@@ -19,6 +19,6 @@ Want to relax? In this stress-relieving game, you need to break as many bones as
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Casual, destroy, Game, Hypercasual, jump, Jumping, Physics, Simulation, Simulator, unity, Unity3D, WebGL
+- Tags: 1 Player, Casual, destroy, Game, Hypercasual, jump, jumping, Physics, Simulation, Simulator, unity, Unity3D, WebGL

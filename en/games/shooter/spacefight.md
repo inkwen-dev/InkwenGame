@@ -21,4 +21,4 @@ Spaceship game. Pilot a spaceship and your goal is to defeat different enemies t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Pixel, Shoot, Space, Spaceship
+- Tags: 1 Player, 2D, pixel, Shoot, Space, Spaceship

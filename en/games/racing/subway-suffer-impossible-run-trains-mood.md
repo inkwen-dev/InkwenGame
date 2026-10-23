@@ -19,6 +19,6 @@ Slide the screen to surf in subway, escape from inspectors. +++++++++ Super craz
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D Games, Adventure, Car, Cars, Game, Games, Race, Racing, Simulation, Simulator, Stunts, Submachine, subway, Subway Surfers, Supercars, Truck
+- Tags: .io Games, 3D Games, Adventure, Car, Cars, Game, Games, Race, Racing, Simulation, Simulator, Stunts, Submachine, subway, Subway Surfers, Supercars, truck

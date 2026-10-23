@@ -15,6 +15,6 @@ Embark on an epic journey in Battle of Heroes RPG, where each chapter unveils th
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: RPG
+- Tags: rpg

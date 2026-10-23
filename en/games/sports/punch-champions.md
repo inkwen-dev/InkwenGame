@@ -21,4 +21,4 @@ In BOXING HERO : PUNCH CHAMPIONS, fight 8 epic boxers in intense combats. Jab, c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Boxing, Boy, Boys, Classic, Fun, Funny, Kid, Kids, Kill, Killing, Mobile, Sandbox, Shoot, Shooter, Skill, Skills, Sport, Sports
+- Tags: block, Boxing, Boy, Boys, Classic, Fun, Funny, Kid, Kids, Kill, Killing, Mobile, Sandbox, Shoot, Shooter, Skill, Skills, Sport, sports

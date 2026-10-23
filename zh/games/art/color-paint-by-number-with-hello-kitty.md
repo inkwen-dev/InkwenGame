@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 颜色, 涂色, 创造, 绘画, 繪畫, 教育, 女孩, 女孩们, H5, Hello Kitty, HTML5
+- 标签: 颜色, 着色, 创作, 绘画, 绘画, 教育, 女孩, 女孩, H5, Hello Kitty, HTML5

@@ -19,6 +19,6 @@ Labubu Coloring Adventure is a splashy journey into a world full of color, fun, 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Educational, Fun, Hypercasual, Kids, Labubu, School
+- Tags: Coloring, educational, Fun, Hypercasual, Kids, Labubu, School

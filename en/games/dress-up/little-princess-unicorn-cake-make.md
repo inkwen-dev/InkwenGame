@@ -21,4 +21,4 @@ Little Elsa and Little Anna like unicorn-themed cakes very much. Recently, Elsa 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cake, Cartoon, Cook, Cooking, Cute, Decoration, Dress Up, Educational, Elsa, Food, Frozen, Girl, Girls, Simulation
+- Tags: Cake, Cartoon, Cook, Cooking, Cute, Decoration, Dress Up, educational, Elsa, Food, Frozen, Girl, Girls, Simulation

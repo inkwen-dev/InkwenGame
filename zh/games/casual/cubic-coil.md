@@ -23,4 +23,4 @@ PC：使用 WASD 键旋转立方体。使用方向键控制蛇的方向。
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, 移动设备, 贪吃蛇
+- 标签: 3D, 移动设备, snake

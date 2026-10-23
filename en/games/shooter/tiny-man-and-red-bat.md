@@ -19,6 +19,6 @@ Tiny Man And Red Bat is a very fun game where the objective and get the key and 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Pixel, Platform, Shoot, Shooter, Shooting
+- Tags: Action, Adventure, Arcade, pixel, Platform, Shoot, Shooter, Shooting

@@ -19,6 +19,6 @@ Welcome to the new addition of car racing games with latest and new formula cars
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Aircraft, Best, Car, Cars, Casual, drift, drifting, Driving, Game, Online, Parking, Racing, Supercars, Truck
+- Tags: 3D, Action, Adventure, Aircraft, Best, Car, Cars, Casual, drift, drifting, Driving, Game, Online, parking, Racing, Supercars, truck

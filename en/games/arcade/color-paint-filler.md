@@ -21,4 +21,4 @@ Color Paint Filler is an engaging mobile puzzle game that will test your strateg
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, HTML5, Jumping, Ninja, Unity3D, WebGL
+- Tags: Arcade, HTML5, jumping, ninja, Unity3D, WebGL

@@ -19,6 +19,6 @@ Modern bus parking simulator Free Games offline is new Bus Simulator 2020 with s
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D, 3D Games, Action, Adventure, Arcade, bus, Car, Cars, Fun, Funny, Hot, Race, Racing, Simulation, Simulator

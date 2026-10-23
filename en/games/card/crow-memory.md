@@ -21,4 +21,4 @@ CROW MEMORY is a crow-themed memory matching game featuring 8 unique characters 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Best Games, Bird, Brain, Card, Classic, Clicker
+- Tags: Best, Best Games, Bird, Brain, card, Classic, Clicker

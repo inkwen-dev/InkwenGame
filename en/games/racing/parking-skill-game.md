@@ -19,6 +19,6 @@ Welcome to My Car Parking Game, a fun and realistic car parking simulator design
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, amazing, Car, carparking, Driving, Fun, Parking
+- Tags: 2026 games, amazing, Car, carparking, Driving, Fun, parking

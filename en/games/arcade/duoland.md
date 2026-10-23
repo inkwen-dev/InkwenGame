@@ -21,4 +21,4 @@ Two siblings are on their way to becoming little pirates, and you should join th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Baby, Best, Mobile, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Baby, Best, Mobile, pixel

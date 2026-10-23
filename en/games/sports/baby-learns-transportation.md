@@ -21,4 +21,4 @@ Baby Learns Transportation is an educational learning game for kids. Kids will l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cute, Educational, transport
+- Tags: Baby, Cute, educational, transport

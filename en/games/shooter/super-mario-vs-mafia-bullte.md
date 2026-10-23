@@ -21,4 +21,4 @@ Are you ready to become a hero, spy, and legend? Solve puzzling challenges, show
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Mario, Puzzle, Shoot, Shooter, Super
+- Tags: Action, mario, Puzzle, Shoot, Shooter, Super

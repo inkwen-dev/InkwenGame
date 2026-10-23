@@ -21,4 +21,4 @@ We invite you and your kids to visit the fascinating world of building games. Yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Coloring, Cute, Decorate, Design, Educational, Fashion, Girl, Girls, Kids, Simulation
+- Tags: Animal, Baby, Coloring, Cute, Decorate, Design, educational, Fashion, Girl, Girls, Kids, Simulation

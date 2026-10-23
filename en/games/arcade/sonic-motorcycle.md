@@ -19,6 +19,6 @@ Sonic is a little blue hedgehog who is practically not afraid of anything and is
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Anime, Arcade, Cartoon, Cartoon Network, Moto, Motorcycle

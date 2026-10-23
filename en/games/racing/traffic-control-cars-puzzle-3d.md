@@ -19,6 +19,6 @@ Try yourself in this beautiful arcade game, one of the best arcade games out the
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Car, Cars, Games, Moto, Race, Racing, Traffic, Unity3D

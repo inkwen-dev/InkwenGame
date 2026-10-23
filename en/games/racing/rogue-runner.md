@@ -21,4 +21,4 @@ Become the most wanted fugitive in a relentless, high-octane Rogue Runner simula
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, attack, Race, Racing, Sniper
+- Tags: 2025 games, attack, Race, Racing, sniper

@@ -21,4 +21,4 @@ Meet the fluffiest puzzle challenge! Slide entire rows and columns to match thre
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Funny, HTML5, Logic, Logical, Match-3, Match3, Puzzle, puzzleblock
+- Tags: 1 Player, Funny, HTML5, Logic, Logical, Match 3, Match3, Puzzle, puzzleblock

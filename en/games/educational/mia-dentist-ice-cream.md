@@ -21,4 +21,4 @@ Oh, god! The boy ate too much ice cream! And now he has got a toothache, please 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: Doctor, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

@@ -19,6 +19,6 @@ Challange other players and reach the goal in all 3 rounds to get the crown firs
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 2D, Multiplayer, Race, Racing, Simulator

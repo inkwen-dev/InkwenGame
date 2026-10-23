@@ -21,4 +21,4 @@ Welcome to Runic Block Collapse! Tap any block to clear connected blocks in a ch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, HTML5, Matching, Mobile, Puzzle, Skill
+- Tags: block, HTML5, Matching, Mobile, Puzzle, Skill

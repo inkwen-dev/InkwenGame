@@ -21,4 +21,4 @@ The cute pony Daisy loves to fanyc dress up. She shines like a star as she flies
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Decorate, Dress Up, Fashion, Game, Girl, Girls, Horse, Magic, Pony
+- Tags: Animal, Decorate, Dress Up, Fashion, Game, Girl, Girls, horse, Magic, Pony

@@ -19,6 +19,6 @@ Introducing a fun Coloring Game for kids! This app comes with 15 cute pictures a
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Best Games, Color, Coloring, Drawing, Fun, Kids, Mobile, Skill
+- Tags: Best, Best Games, Color, Coloring, drawing, Fun, Kids, Mobile, Skill

@@ -21,4 +21,4 @@ Sprunki Clicker Master is an addictive online incremental game where players emb
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, kiz10, Level, Music
+- Tags: Casual, kiz10, Level, music

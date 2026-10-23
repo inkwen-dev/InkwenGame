@@ -19,6 +19,6 @@ Play LAS VEGAS SLOT MACHINES FREE! Try OVER 35+ FREE Slot Machines unlocked NOW 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Boys, Card, Casino, Games, Girl, Girls, Slot Machine
+- Tags: .io Games, Boys, card, Casino, Games, Girl, Girls, Slot Machine

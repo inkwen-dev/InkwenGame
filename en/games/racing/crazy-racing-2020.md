@@ -19,6 +19,6 @@ Crazy Racing 2020 is fun addictive casual car racing game. Cross all the hurdles
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Casual, Hypercasual, Racing

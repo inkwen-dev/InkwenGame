@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, 男孩, 男孩, 有趣, H5, HTML5, 孩子, 儿童
+- 标签: 3D, 3D游戏, 男孩, 男孩们, 有趣, H5, HTML5, 儿童, 儿童

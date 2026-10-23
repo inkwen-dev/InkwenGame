@@ -19,6 +19,6 @@ Little Panda Green Guard is a very fun cleaning game. In this game, little panda
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Boy, Cleaning, Fun, Girl, HTML5, Kids, Mobile, Panda

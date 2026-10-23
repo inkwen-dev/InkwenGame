@@ -21,4 +21,4 @@ The Smurfs (French: Les Schtroumpfs; Dutch: De Smurfen) is a Belgian comic franc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Card, Memory, Puzzle
+- Tags: Brain, card, memory, Puzzle

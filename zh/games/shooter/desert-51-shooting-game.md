@@ -21,4 +21,4 @@ WASD - 控制角色 鼠标 - 看周围 射击 滚轮切换武器 Tab - 菜单 Q 
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 最佳, 疯狂, 火焰, 游戏, 多人游戏, 射击游戏, 射击, Unity3D, 战争, WebGL
+- 标签: 3D游戏, 最佳, 疯狂, 火焰, 网页游戏, 多人, 射击类, 射击, Unity3D, 战争, WebGL

@@ -21,4 +21,4 @@ Super Red Imposter Hero is old classic bouncing ball plat-former game similar to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Fighting, Platform
+- Tags: Action, fighting, Platform

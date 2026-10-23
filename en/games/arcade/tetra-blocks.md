@@ -21,4 +21,4 @@ Drag and drop blocks onto the puzzle board, match horizontal rows of 9, vertical
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Skill
+- Tags: Arcade, block, Skill

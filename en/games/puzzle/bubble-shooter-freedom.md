@@ -19,6 +19,6 @@ Bubble Freedom is a new bubble shooting classic game. Aim & match 3 or more bubb
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, HTML5, Puzzle, Shoot 'Em Up, Shooter

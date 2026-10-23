@@ -21,4 +21,4 @@ Test your Archery Skills. Master the skills, hit all the point and be the king o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Casual, Fun, King, Shooter, Shooting, Sports
+- Tags: 3D, Casual, Fun, King, Shooter, Shooting, sports

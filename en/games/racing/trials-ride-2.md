@@ -19,6 +19,6 @@ Ride a motorbike and pass many complex obstacles on the track. Keep the trials b
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Bike, HTML5, Mobile, Moto, Motorcycle, Obstacle, Racing, Stunts
+- Tags: Android, bike, HTML5, Mobile, Moto, Motorcycle, Obstacle, Racing, Stunts

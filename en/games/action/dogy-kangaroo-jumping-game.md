@@ -19,6 +19,6 @@ Dogy Kangaroo Jumping game 2021 is an exciting FREE endless jumping Dog kangaroo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, 3D, 3D Games, Action, Adventure, jump, Jumping, run, running
+- Tags: 2D, 3D, 3D Games, Action, Adventure, jump, jumping, run, running

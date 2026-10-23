@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io游戏, 3D, 3D游戏, Android, 街机, 休闲, 收集, 女孩, 女孩们, 轻度休闲, 移动, Unity3D
+- 标签: .io, .io 游戏, 3D, 3D游戏, 安卓, 街机, 休闲, 收集, 女孩, 女孩, 超休闲, 移动设备, Unity3D

@@ -21,4 +21,4 @@ Click on a image which is different from others.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Difference, Educational, HTML5, Kids, Mobile, Puzzle, School
+- Tags: Board, Difference, educational, HTML5, Kids, Mobile, Puzzle, School

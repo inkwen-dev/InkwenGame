@@ -19,6 +19,6 @@ this game has a lot of success review and player this MONTH that significantly i
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Fantasy, run, running, Shoot, Shooter, Shooting, Sniper
+- Tags: 1 Player, 2D, Action, Fantasy, run, running, Shoot, Shooter, Shooting, sniper

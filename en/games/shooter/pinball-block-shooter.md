@@ -21,4 +21,4 @@ You know the rules! Use your flippers to launch the ball and smash as many block
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Arcade, Ball, Block, Bricks, Casual, Fun, Game, Physics, Pinball, Shooter, Skill
+- Tags: 2026 games, Arcade, Ball, block, Bricks, Casual, Fun, Game, Physics, Pinball, Shooter, Skill

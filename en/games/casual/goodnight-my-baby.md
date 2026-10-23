@@ -21,4 +21,4 @@ Are you interested in the world of baby monsters? Do you want to know what the h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Monster, Panda
+- Tags: monster, Panda

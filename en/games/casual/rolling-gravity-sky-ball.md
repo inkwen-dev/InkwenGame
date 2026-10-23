@@ -15,6 +15,6 @@ Navigate a swirling sky-high track in Rolling Gravity Sky Ball, a pulse-pounding
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Ball

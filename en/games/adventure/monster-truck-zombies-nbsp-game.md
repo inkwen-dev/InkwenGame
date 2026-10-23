@@ -21,4 +21,4 @@ Monster Truck Games Kids: Ignite your child&rsquo;s passion for high-octane fun 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, Adventure, Monster, Race, Zombie
+- Tags: 2 Player Games, Adventure, monster, Race, Zombie

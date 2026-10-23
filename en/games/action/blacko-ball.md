@@ -21,4 +21,4 @@ Blacko Ball is a 2D weird little platformer where you play as a Black ball and y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Ball, Collecting, Cute, jump, Jumping, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Ball, Collecting, Cute, jump, jumping, pixel, Platform, retro

@@ -21,4 +21,4 @@ Kids, get ready to enjoy this grand journey as you trek high and low on a grand 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Cartoon, Design, dino, Dinosaur, Games, Kids, Online, Sports
+- Tags: Adventure, Arcade, Cartoon, Design, dino, Dinosaur, Games, Kids, Online, sports

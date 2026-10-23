@@ -27,4 +27,4 @@ Bounce the ball, collect coins, and unlock achievements.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Ball, Sports
+- Tags: Arcade, Ball, sports

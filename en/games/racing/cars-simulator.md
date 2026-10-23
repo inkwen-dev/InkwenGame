@@ -19,6 +19,6 @@ Cars Simulator is a fun cars game where you get to drive 3 awesome cars in 3 env
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Cars, Simulator, Stunts, WebGL

@@ -19,6 +19,6 @@ EG Math Kid is HTML5 games - very nice game for kids with mathematics! Ecaps Gam
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Kid, Kids, Math, Puzzle
+- Tags: Arcade, Kid, Kids, math, Puzzle

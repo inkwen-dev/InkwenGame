@@ -19,6 +19,6 @@ Turning Red is a 2022 American computer-animated fantasy comedy film produced by
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Anime, Cartoon, Educational, Memory, Puzzle
+- Tags: Animal, Anime, Cartoon, educational, memory, Puzzle

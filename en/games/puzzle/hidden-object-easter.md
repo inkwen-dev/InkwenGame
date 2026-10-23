@@ -19,6 +19,6 @@ This is a classic hidden object (point and click) game with Easter theme. In thi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, Easter, Hidden, HTML5, Mobile, Puzzle

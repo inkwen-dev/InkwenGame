@@ -19,6 +19,6 @@ Sniper King 2D The Dark City is a puzzle shooter game developed by Bestgamespot.
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Point And Click, Shooter, Shooting

@@ -21,4 +21,4 @@ Here are the pictures of Santa Claus presented as a driver that you can paint. P
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Color, Coloring, Educational, Fun, Kid, Kids, Skill, Winter
+- Tags: Christmas, Color, Coloring, educational, Fun, Kid, Kids, Skill, Winter

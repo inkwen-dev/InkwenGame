@@ -19,6 +19,6 @@ You can design all kinds of creative collages: princess dresses made of flower p
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Collection, Creation, Design, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: Boy, Boys, Collection, Creation, Design, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

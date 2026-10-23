@@ -19,6 +19,6 @@ Color slide is a colorful game, every level and every retry gives you a differen
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Color, Girls, Math, Puzzle
+- Tags: 3D, Color, Girls, math, Puzzle

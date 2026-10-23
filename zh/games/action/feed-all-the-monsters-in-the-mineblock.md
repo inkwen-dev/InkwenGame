@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 经典, 疯狂, 格鬥, 食物, 恐怖, html5 游戏, 我的世界, 怪兽, 玩, 沙盒, unity游戏, 适用于您网站的unity游戏, unity游戏供你的网站使用
+- 标签: 2D, 经典, 疯狂, 格斗, 食物, 恐怖, HTML5游戏, 我的世界, monster, 玩, 沙盒, unity游戏, 适用于您网站的 unity 游戏, 适用于您网站的 Unity 游戏

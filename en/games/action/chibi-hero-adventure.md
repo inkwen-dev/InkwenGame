@@ -21,4 +21,4 @@ Take control and recover with the hero on a journey through the colorful world. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collecting, Fun, HTML5, Mobile, Ninja, Obstacle, Platform, Skill, Superhero
+- Tags: Collecting, Fun, HTML5, Mobile, ninja, Obstacle, Platform, Skill, Superhero

@@ -21,4 +21,4 @@ Are you looking for kids games for your baby? Do you want to help your little gi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cooking, Cute, Decorate, Dress Up, Educational, Fashion, Girl, Girls, Kids, Makeover, Simulation
+- Tags: Baby, Cooking, Cute, Decorate, Dress Up, educational, Fashion, Girl, Girls, Kids, Makeover, Simulation

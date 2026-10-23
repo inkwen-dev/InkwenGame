@@ -19,6 +19,6 @@ Park your sports car without crashing barriers. Complete all levels. Modify your
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Car, Cars, Driving, Parking, Sports
+- Tags: 3D, 3D Games, Car, Cars, Driving, parking, sports

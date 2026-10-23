@@ -21,4 +21,4 @@ Monster Squad Rush is a popular running game that has simple game play. Just sli
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Collecting, Kids, Mobile, Monster, Platform, running, Skill
+- Tags: Avoid, Collecting, Kids, Mobile, monster, Platform, running, Skill

@@ -19,6 +19,6 @@ Jelly Blast Online is a interesting addictive match3 game with a cute girl. You 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Fun, Hypercasual, Jelly, Kids, Match 3, Match3, Matching, Mobile, Skill

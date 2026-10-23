@@ -21,4 +21,4 @@ If you like crime gaming - try to play our best action game: the mafia gangster 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Bomb, Boy, Car, Classic, Fighting, Shooting
+- Tags: battle, Bomb, Boy, Car, Classic, fighting, Shooting

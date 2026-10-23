@@ -19,6 +19,6 @@ In addition to strengthening physical and mental skills in youngsters, tower blo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 3D, 3D Games, Android, Games, HTML5, Mobile, Skill, Unity3D, WebGL

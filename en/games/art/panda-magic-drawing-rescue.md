@@ -21,4 +21,4 @@ The little fairy hopes to have an assistant who can work with her to help forest
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Color, Coloring, Draw, Drawing, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: Animal, Color, Coloring, Draw, drawing, Fun, Girl, Girls, H5, HTML5, Kid, Kids

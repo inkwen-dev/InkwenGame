@@ -19,6 +19,6 @@ ntroduce your kids to shapes in a playful way with Shapes! This educational game
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Games, Educational, Fun, HTML, HTML5, html5 games, Kids, NapTech Games
+- Tags: Baby Games, educational, Fun, HTML, HTML5, html5 games, Kids, NapTech Games

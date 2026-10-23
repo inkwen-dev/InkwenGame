@@ -19,6 +19,6 @@ Enter the StarBox to test your ultimate survival and star-collecting skills. Ins
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Collecting, Game, Games, HTML, HTML5, Maze, Obstacle, Play, Puzzle

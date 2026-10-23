@@ -19,6 +19,6 @@ A very popular and addictive game release the block by taping anywhere and const
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Balance, Block, Boy, Casual, Family, Girls, HTML, HTML5, Kid, Kids, Physics, Puzzle
+- Tags: Balance, block, Boy, Casual, Family, Girls, HTML, HTML5, Kid, Kids, Physics, Puzzle

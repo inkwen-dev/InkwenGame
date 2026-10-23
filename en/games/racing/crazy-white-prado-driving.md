@@ -21,4 +21,4 @@ Luxury Suv Offroad Prado Drive It's time to Show! Jeep driving skill on mountain
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, bus, Car, Cars, Ladybug, Parking, Race, Racing, Simulation, Simulator, Supercars, Truck, Unity3D
+- Tags: 3D, 3D Games, bus, Car, Cars, Ladybug, parking, Race, Racing, Simulation, Simulator, Supercars, truck, Unity3D

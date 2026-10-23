@@ -19,6 +19,6 @@ Park The Taxi 3 is a car driving game. Your task is to drive a taxi and park it 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Car, carparking, Cars, Driving, HTML5, iPhone, Mobile, Parking, Taxi
+- Tags: Android, Car, carparking, Cars, Driving, HTML5, iPhone, Mobile, parking, Taxi

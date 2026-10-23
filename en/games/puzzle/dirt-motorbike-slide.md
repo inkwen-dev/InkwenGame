@@ -19,6 +19,6 @@ Play this slide puzzle games of the dirt motorbike. It's include 3 images and 3 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, HTML5, Jigsaw, Mobile, Motorcycle
+- Tags: bike, HTML5, Jigsaw, Mobile, Motorcycle

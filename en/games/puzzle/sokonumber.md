@@ -19,6 +19,6 @@ Sokonumber is a free online game for boys which is full of leisure and puzzle. T
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Block, Boy, Brain, Bricks, Fun, HTML5, Kids, Matching, Number, Online, Puzzle, Skill
+- Tags: 3D, Android, block, Boy, Brain, Bricks, Fun, HTML5, Kids, Matching, Number, Online, Puzzle, Skill

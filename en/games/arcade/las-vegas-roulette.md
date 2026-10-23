@@ -19,6 +19,6 @@ Get ready for the intense gambling thrills of Las Vegas. This is the right roull
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Casino, Collecting, HTML5

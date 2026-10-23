@@ -15,6 +15,6 @@ Defend your kingdom against monstrous threats in Tower Defense Kingdom 2D's vibr
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Action

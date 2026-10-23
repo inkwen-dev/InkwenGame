@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 婴儿, 婴儿游戏, 小哈泽尔, 最佳游戏, 教育, 孩子, 儿童, NapTech Games
+- 标签: 婴儿, 婴儿游戏, 小哈泽尔, 最佳游戏, 教育, 儿童, 儿童, NapTech 游戏

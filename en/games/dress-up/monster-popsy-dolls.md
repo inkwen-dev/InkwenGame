@@ -21,4 +21,4 @@ Meet incredible monster-popsy. These toys are both beautiful and terrible! Choos
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cute, Dress Up, Fantasy, Fashion, Girl, Girls, HTML5, Makeover, Monster, Princess, Vampire
+- Tags: Cute, Dress Up, Fantasy, Fashion, Girl, Girls, HTML5, Makeover, monster, Princess, Vampire

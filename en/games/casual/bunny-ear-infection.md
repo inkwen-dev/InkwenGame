@@ -21,4 +21,4 @@ Our cute little bunny officer has a heavy infection on her ears and it 's causin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Surgery
+- Tags: Doctor, surgery

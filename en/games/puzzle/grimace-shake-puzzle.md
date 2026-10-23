@@ -19,6 +19,6 @@ Grimace Shake Jigsaw is a brain puzzle assembly Game. Grimace Shake Jigsaw comes
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Clicker, Food, Hot, HTML, HTML5, Hypercasual, Jigsaw, Kids, Mind, Puzzle, Strategy
+- Tags: Brain, Clicker, Food, Hot, HTML, HTML5, Hypercasual, Jigsaw, Kids, Mind, Puzzle, strategy

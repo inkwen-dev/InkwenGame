@@ -21,4 +21,4 @@ Mini Jumps is a game where you control a little orange blob that only has the ab
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Pixel, Platform, Retro
+- Tags: Arcade, pixel, Platform, retro

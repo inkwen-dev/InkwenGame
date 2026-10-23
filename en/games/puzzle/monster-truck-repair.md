@@ -21,4 +21,4 @@ Due to rusty and messy roads the monster truck is facing many accidental damages
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Kids, Truck
+- Tags: Fun, Kids, truck

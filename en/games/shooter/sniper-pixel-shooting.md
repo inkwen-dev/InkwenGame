@@ -21,4 +21,4 @@ Aim through pixelated scopes and eliminate hostile targets across compact urban 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Pixel, Shoot, Shoot 'Em Up, Shooter, Shooting, Sniper
+- Tags: HTML5, pixel, Shoot, Shoot 'Em Up, Shooter, Shooting, sniper

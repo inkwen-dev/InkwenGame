@@ -21,4 +21,4 @@ Take flying letters one by one in order following the clue mentioned. Keep the m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Helicopter, Math, Word
+- Tags: helicopter, math, word

@@ -19,6 +19,6 @@ Tower Of Hanoi is an ancient puzzle game that is now available as a game. Try yo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, 2D, amazing, Casual, Games, games for your website, html5 games, Hypercasual, Interactive, Logic, Logical, Physics, Puzzle

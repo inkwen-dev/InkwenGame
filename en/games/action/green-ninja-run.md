@@ -19,6 +19,6 @@ Hel Green Ninja to get to the finish line. Jump over platforms and avoid enemies
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Collecting, Platform, Puzzle

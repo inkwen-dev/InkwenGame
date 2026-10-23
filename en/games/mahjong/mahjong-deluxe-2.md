@@ -21,4 +21,4 @@ Rediscover a great classic with Mahjong Deluxe 2. Challenge your patience and yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Classic, Games, Mahjong, Puzzle
+- Tags: Casual, Classic, Games, mahjong, Puzzle

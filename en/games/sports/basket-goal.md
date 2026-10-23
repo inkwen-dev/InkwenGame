@@ -21,4 +21,4 @@ Basket Goal is an educational math learning game where you solve algebric math e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Click, Hypercasual, Math
+- Tags: basketball, Click, Hypercasual, math

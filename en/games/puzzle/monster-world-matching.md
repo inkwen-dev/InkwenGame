@@ -19,6 +19,6 @@ Monster World Matching is a matching game with funny little monsters. Connect th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kids, Matching, Monster, Puzzle, World
+- Tags: Kids, Matching, monster, Puzzle, World

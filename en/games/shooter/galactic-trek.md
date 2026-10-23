@@ -21,4 +21,4 @@ In a distant galaxy, an advanced civilization subjugates galaxies and planets. T
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Alien, Classic, Fire, Flight, fly, Game, HTML5, Retro, Robot, Rocket, Shoot, Shooter, Shooting, sky, Space, Spaceship, World
+- Tags: 2D, Action, Adventure, Alien, Classic, Fire, flight, fly, Game, HTML5, retro, Robot, Rocket, Shoot, Shooter, Shooting, sky, Space, Spaceship, World

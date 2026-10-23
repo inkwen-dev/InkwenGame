@@ -21,4 +21,4 @@ Merge Weapon Run is a satisfying merge runner that turns into a tactical tower d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2048, 3D, Casual, Strategy, Tower Defense, weapons
+- Tags: 2048, 3D, Casual, strategy, Tower Defense, weapons

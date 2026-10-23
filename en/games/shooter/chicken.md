@@ -19,6 +19,6 @@ Chickens from CS have learned to shoot and want to participate in tournaments pe
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Battlegrounds, Chicken, Funny, Minecraft, Mobile, Shooter, Skill

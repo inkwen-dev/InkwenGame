@@ -19,6 +19,6 @@ Hunt Or Hide is a very fun online puzzle game for boys for free. In this game, y
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Avoid, Boy, Brain, Escape, Fun, HTML5, Kids, Online, Puzzle

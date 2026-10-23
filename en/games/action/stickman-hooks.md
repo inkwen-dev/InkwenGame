@@ -21,4 +21,4 @@ Get ready to swing into action with Stickman: Hooks! Tap to hook, make incredibl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, hook, Mentolatux, Stickman, unity, WebGL
+- Tags: 2D, hook, Mentolatux, stickman, unity, WebGL

@@ -50,4 +50,4 @@ Collect the entire deck, test your skills, and enjoy one of the most popular car
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Board, Brain, cards, Solitaire
+- Tags: Board, Brain, cards, solitaire

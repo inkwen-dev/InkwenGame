@@ -21,4 +21,4 @@ Minecraft Coloring Book: 8 coloring pages filled with Minecraft characters, weap
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Color, Coloring, Draw, Drawing, Mine, Minecraft, Miner, Puzzle
+- Tags: Arcade, Color, Coloring, Draw, drawing, Mine, Minecraft, Miner, Puzzle

@@ -21,4 +21,4 @@ Paint Runner 3D Color Race Colors of the world are to die for. Who doesn’t app
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Casual, Hypercasual, Stickman
+- Tags: Adventure, Casual, Hypercasual, stickman

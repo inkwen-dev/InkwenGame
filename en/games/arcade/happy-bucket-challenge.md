@@ -19,6 +19,6 @@ The bucket is sad because its empty. Your job is to draw a line to make the glas
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, 2026 games, 3D Games, Brain, Casual, Drawing, Family, Physics, Puzzle, Relaxation, water
+- Tags: 2025 games, 2026 games, 3D Games, Brain, Casual, drawing, Family, Physics, Puzzle, Relaxation, water

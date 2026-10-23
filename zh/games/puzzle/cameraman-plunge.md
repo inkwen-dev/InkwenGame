@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 有趣, 游戏, HTML5, 孩子们, 益智, 斯基比迪, Skibidi Toilet, 技能
+- 标签: 单人, 有趣, 网页游戏, HTML5, 儿童, 益智, Skibidi, skibidi-toilet, 技能

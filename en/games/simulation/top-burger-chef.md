@@ -21,4 +21,4 @@ Top Burger Cooking is a classic arcade game where you have to serve the customer
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cooking, Girls, Restaurant
+- Tags: Cooking, Girls, restaurant

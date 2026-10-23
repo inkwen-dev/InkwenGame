@@ -21,4 +21,4 @@ Play Freecell Classic, the ultimate free online card games experience! This addi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Brain, Card, Classic, Puzzle, Solitaire, Strategy
+- Tags: 1 Player, Brain, card, Classic, Puzzle, solitaire, strategy

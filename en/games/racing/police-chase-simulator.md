@@ -53,4 +53,4 @@ Choose from over 15 vehicles, including sedans, SUVs, trucks, and special cars.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Boys, Car, Driving, Police, Racing, Simulation
+- Tags: 3D, Boys, Car, Driving, police, Racing, Simulation

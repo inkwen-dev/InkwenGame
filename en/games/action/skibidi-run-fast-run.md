@@ -19,6 +19,6 @@ Skibidi Run Fast Run! is a fun adventure game to play on. Here is Skibidi Toilet
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML, Mobile, run, running, Skibidi, Skibidi Toilet
+- Tags: HTML, Mobile, run, running, Skibidi, skibidi-toilet

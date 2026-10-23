@@ -21,4 +21,4 @@ Ocean Blast is a premium block puzzle game set in a stunning underwater world! D
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Block, Casual, Color, Coloring, Fish, Fun, Funny, Hypercasual, Puzzle, puzzleblock, Relaxation, water
+- Tags: 1 Player, 2D, block, Casual, Color, Coloring, Fish, Fun, Funny, Hypercasual, Puzzle, puzzleblock, Relaxation, water

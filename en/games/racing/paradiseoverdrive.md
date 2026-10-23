@@ -19,6 +19,6 @@ Crazy arcade-style car game, the goal is to dodge as many cars as possible
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Car, Cars, endless, HTML5, Mobile, New, Retro, Traffic
+- Tags: 2D, Arcade, Car, Cars, endless, HTML5, Mobile, New, retro, Traffic

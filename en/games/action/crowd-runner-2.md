@@ -19,6 +19,6 @@ You start the battle alone, but trust us: you have no chance to feel alone.
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Casual, Game, HTML5, Stickman
+- Tags: 3D, 3D Games, Arcade, Casual, Game, HTML5, stickman

@@ -19,6 +19,6 @@ WILDLY ADDICTING Oddly Satisfying Choose the right path for the samurai to cut a
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Brain, cut, Hypercasual, Ninja, Puzzle, Samurai, Slicing, Strategy, Sword
+- Tags: Action, Brain, cut, Hypercasual, ninja, Puzzle, Samurai, Slicing, strategy, sword

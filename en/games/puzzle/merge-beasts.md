@@ -21,4 +21,4 @@ Merge Beasts is a colorful merge puzzle game about combining matching creatures 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Logic, merge, Monster, Puzzle
+- Tags: Arcade, Logic, merge, monster, Puzzle

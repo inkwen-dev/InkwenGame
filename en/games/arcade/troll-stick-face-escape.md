@@ -21,4 +21,4 @@ The Troll Stick brothers need to collect all the money and become very rich. Hel
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Android, Arcade, Best, Mobile, Stickman
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Android, Arcade, Best, Mobile, stickman

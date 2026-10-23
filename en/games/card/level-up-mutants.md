@@ -21,4 +21,4 @@ Level Up Mutants: An Awesome Casual Game.Discover the fun of training monsters i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boys, Card, Casual, Collecting, Girls, Kids, Monster, running, Simulation, Strategy
+- Tags: 3D, 3D Games, Boys, card, Casual, Collecting, Girls, Kids, monster, running, Simulation, strategy

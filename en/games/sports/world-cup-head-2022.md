@@ -21,4 +21,4 @@ World Cup is coming. What are you waiting for ? Click play button and strat agin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Ballon, Boy, Boys, Football, Matching, Shoot, Sport, Sports, World
+- Tags: Ball, Ballon, Boy, Boys, Football, Matching, Shoot, Sport, sports, World

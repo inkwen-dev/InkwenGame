@@ -21,4 +21,4 @@ Scooter Bike Jigsaw game is free online game and you have 6 images of scooters i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Fun, HTML5, Jigsaw, Kids, Mobile, Motorcycle, Puzzle
+- Tags: bike, Fun, HTML5, Jigsaw, Kids, Mobile, Motorcycle, Puzzle

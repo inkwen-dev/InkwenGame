@@ -19,6 +19,6 @@ A fun and addicting match-3 game. Match the same tiles to collect the powers for
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Fun, HTML, Match 3, Match3, Matching, Mobile, Shoot, Shooting, Superhero

@@ -21,4 +21,4 @@ In Prison Escape Plan, 3 prisoners decide to escape from prison. A plan is requi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Android, Arcade, Battle, Cartoon, Casual, Escape, Fun, HTML5, Hypercasual, Mobile, Prison, run, WebGL
+- Tags: 3D, Action, Adventure, Android, Arcade, battle, Cartoon, Casual, Escape, Fun, HTML5, Hypercasual, Mobile, Prison, run, WebGL

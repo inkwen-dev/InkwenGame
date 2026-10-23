@@ -19,6 +19,6 @@ Enter the world of Snake Puzzle 3D, a fun and addictive brain-teasing puzzle gam
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, amazing, arrows, Best Games, Casual, Snake
+- Tags: Adventure, amazing, arrows, Best Games, Casual, snake

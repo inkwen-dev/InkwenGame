@@ -19,6 +19,6 @@ Rope Bowing Puzzle is an interesting and addictive puzzle game. It looks easy en
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Ball, Boys, Cool, Puzzle
+- Tags: 1 Player, 2D, Android, Ball, Boys, cool, Puzzle

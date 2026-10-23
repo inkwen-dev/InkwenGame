@@ -63,4 +63,4 @@ Battle it out in this action-packed multiplayer tank arena! Fight against player
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Army, Gun, Multiplayer, pve, Shooting, Strategy, Tanks
+- Tags: Action, Army, Gun, Multiplayer, pve, Shooting, strategy, tanks

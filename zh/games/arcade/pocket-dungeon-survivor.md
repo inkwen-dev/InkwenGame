@@ -21,4 +21,4 @@ PC - gt 使用鼠标或WASD方向键移动；移动设备 - gt 触摸屏幕进�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 奇幻, 角色扮演
+- 标签: 动作, 幻想, rpg

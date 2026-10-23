@@ -19,6 +19,6 @@ Jelly Challenge is a beautiful match 3 game, so many cute jellies seems like del
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, Fun, HTML5, Jelly, Kids, Match 3, Match3, Matching, Mobile, Skill

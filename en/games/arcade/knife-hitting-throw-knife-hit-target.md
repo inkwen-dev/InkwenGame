@@ -19,6 +19,6 @@ Touch throw the knife into the logs, try to slash the apples, earn gold and beat
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Adventure, Animal, Arcade, Arena, Best, Classic, Fruit, Fruits

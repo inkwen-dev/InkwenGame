@@ -19,6 +19,6 @@ Try to smash the more Orange Creatures you can! Use the mega ball to smash the l
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, endless, Family, Fish, HTML, HTML5, Kids, Mobile

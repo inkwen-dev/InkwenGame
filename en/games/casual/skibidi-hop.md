@@ -21,4 +21,4 @@ Its just a really simple endless hyper casual game! Help Skibidi and try to avoi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML, HTML5, jump, Jumping, Mobile, Skibidi, Skibidi Toilet
+- Tags: HTML, HTML5, jump, jumping, Mobile, Skibidi, skibidi-toilet

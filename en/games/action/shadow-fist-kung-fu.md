@@ -19,6 +19,6 @@ Shadow Fist is a fast-paced kung fu stickman beat &rsquo;em up. You play Kai, th
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, 3D Games, attack, Best Games, Fighting, iPad, Mobile, Stickman
+- Tags: 1 Player, 2026 games, 2D, 3D Games, attack, Best Games, fighting, iPad, Mobile, stickman

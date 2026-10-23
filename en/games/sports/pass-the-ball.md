@@ -21,4 +21,4 @@ Pass master is a very fun casual pass game Through the game users can exercise t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Basketball, Best
+- Tags: 3D, Adventure, basketball, Best

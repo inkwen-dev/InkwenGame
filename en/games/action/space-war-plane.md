@@ -21,4 +21,4 @@ Space War Plane is a 2D war game. There is war in the sky in this game. You have
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Air, Arcade, Battle, Bomb, Casual, Hypercasual, Mobile
+- Tags: 2D, Air, Arcade, battle, Bomb, Casual, Hypercasual, Mobile

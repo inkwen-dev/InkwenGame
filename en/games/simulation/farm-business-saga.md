@@ -36,4 +36,4 @@ Whether you're a casual player or a strategic mastermind, Farm Business Saga off
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, Farm, Management, Mobile, Simulation, Strategy, tycoon
+- Tags: animals, Farm, management, Mobile, Simulation, strategy, tycoon

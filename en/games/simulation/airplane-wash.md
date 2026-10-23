@@ -19,6 +19,6 @@ Today we are expanding our collection with a great new game: plane wash. After a
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Cartoon, Cleaning, Cute, Decorate, Design, Educational, Girl, Girls, Kid, Kids, Simulation
+- Tags: Boy, Boys, Cartoon, Cleaning, Cute, Decorate, Design, educational, Girl, Girls, Kid, Kids, Simulation

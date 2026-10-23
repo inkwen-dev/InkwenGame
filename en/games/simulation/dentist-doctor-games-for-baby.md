@@ -19,6 +19,6 @@ This is a dentist simulation game for all ages. In the hospital, animals are que
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Panda, Simulation

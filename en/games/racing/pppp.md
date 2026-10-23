@@ -19,6 +19,6 @@ City Taxi Driving: Fun 3D Car Driver Simulator
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, Action, Adventure, Arcade, Casual, drift, drifting, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing, Unity3D
+- Tags: .io, .io Games, 3D, Action, Adventure, Arcade, Casual, drift, drifting, Fun, Funny, Hot, Hypercasual, jump, jumping, Race, Racing, Unity3D

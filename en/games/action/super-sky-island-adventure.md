@@ -21,4 +21,4 @@ Are you ready to survive on islands in the sky? You must destroy all the mushroo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Island, Pixel, Platform
+- Tags: 1 Player, 2D, Action, Adventure, Island, pixel, Platform

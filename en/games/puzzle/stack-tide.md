@@ -19,6 +19,6 @@ Stack Tide is a physics-based stacking game where every block matters. Drop and 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Block, endless, Skill, Stack
+- Tags: 1 Player, 2D, block, endless, Skill, Stack

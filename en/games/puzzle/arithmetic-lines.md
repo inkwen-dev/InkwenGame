@@ -21,4 +21,4 @@ Arithmetic Lines is a fun math game where you have to find the right math sign t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Kids, Math, Number, Puzzle, Snake
+- Tags: HTML5, Kids, math, Number, Puzzle, snake

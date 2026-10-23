@@ -19,6 +19,6 @@ Welcome to the world of car and truck parking games. Get ready to experience the
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Car, carparking, Parking, Simulation, Truck
+- Tags: Adventure, Car, carparking, parking, Simulation, truck

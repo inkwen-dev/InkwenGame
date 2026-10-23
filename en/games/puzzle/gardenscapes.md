@@ -19,6 +19,6 @@ Enjoy the adventure in the garden to escape from this magic adventure. Immerse y
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, Animal, Arcade, Bejeweled, Block, Fairy, Games, HTML5, Magic, Match 3
+- Tags: .io Games, 1 Player, Animal, Arcade, Bejeweled, block, Fairy, Games, HTML5, Magic, Match 3

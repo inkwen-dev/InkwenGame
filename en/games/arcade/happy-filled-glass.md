@@ -21,4 +21,4 @@ Happy Filled Glass is a free online puzzle and fun game. This is a game in which
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Draw, Drawing, Fun, HTML5, Kids, Logic, Logical, Mobile, Skill
+- Tags: Arcade, Draw, drawing, Fun, HTML5, Kids, Logic, Logical, Mobile, Skill

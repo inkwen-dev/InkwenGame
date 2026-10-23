@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, mapi games, 像素, 平台, 复古, 射击, 太空
+- 标签: 街机, mapi games, 像素, 平台, 复古, 射击类, 太空

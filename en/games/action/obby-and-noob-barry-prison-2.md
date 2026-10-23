@@ -15,6 +15,6 @@ Embark on a pixelated prison escape in Obby and Noob Barry Prison. Team up to ou
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: two-player

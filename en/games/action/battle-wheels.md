@@ -19,6 +19,6 @@ Battle Wheels is an explosive vehicle combat arcade where two armored cars smash
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2025 games, 2026 games, 2D, Action, amazing, Arcade, Battle, Cars, demolition, Fighting, vehicle, wheels
+- Tags: 2 Player, 2 Player Games, 2025 games, 2026 games, 2D, Action, amazing, Arcade, battle, Cars, demolition, fighting, vehicle, wheels

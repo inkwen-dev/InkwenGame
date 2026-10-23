@@ -19,6 +19,6 @@ Flap Hero is a fast-paced arcade game inspired by the classic Flappy Bird. Fly t
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Best, Casual, Classic, Click, endless, fly, onetouch

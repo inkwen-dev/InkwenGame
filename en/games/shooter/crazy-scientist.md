@@ -19,6 +19,6 @@ Play Crazy Scientist. Crazy Scientist is an online free game where you can play 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Shoot, Shooter, Shooting

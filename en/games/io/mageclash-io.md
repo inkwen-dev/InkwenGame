@@ -19,6 +19,6 @@ Are you ready for an epic battle? Mageclash.io is a multiplayer fantasy game whe
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Fantasy, Fighting, Knight, Magic, Multiplayer, RPG
+- Tags: .io, .io Games, Fantasy, fighting, knight, Magic, Multiplayer, rpg

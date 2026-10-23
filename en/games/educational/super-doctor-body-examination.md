@@ -21,4 +21,4 @@ Super Doctor Body Examination is an educational game. Do you hate every physical
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Educational
+- Tags: Doctor, educational

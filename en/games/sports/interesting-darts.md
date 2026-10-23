@@ -21,4 +21,4 @@ Darts is great fun for your free time. But the developers of the game Interestin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Bow, Brain, Hot, HTML, HTML5, Mind, Sport, Sports, Strategy
+- Tags: Best, Bow, Brain, Hot, HTML, HTML5, Mind, Sport, sports, strategy

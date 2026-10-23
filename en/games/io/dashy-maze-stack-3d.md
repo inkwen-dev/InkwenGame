@@ -21,4 +21,4 @@ Stacky Maze Dash is a stacky dash cube collectin game. In stacky dash game, you 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D Games, Block, Unity3D
+- Tags: .io Games, 1 Player, 3D Games, block, Unity3D

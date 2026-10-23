@@ -21,4 +21,4 @@ in this smart hero looter ,you have to grab the precious loots under heavy guard
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Clicker, Police, run, running, Unity3D
+- Tags: 3D, 3D Games, Clicker, police, run, running, Unity3D

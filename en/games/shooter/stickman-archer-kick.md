@@ -33,4 +33,4 @@ Optimized as a Mobile Ready title, this game offers immediate action and seamles
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, archery, Skill, Stickman
+- Tags: Action, Arcade, archery, Skill, stickman

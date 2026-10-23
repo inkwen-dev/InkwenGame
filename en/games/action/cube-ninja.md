@@ -19,6 +19,6 @@ Slice! Slice!! Slice!!! Slice the cubes and try to make higher score and climb t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, cut, Ninja, Sword
+- Tags: 3D, 3D Games, Action, cut, ninja, sword

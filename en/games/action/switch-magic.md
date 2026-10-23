@@ -19,6 +19,6 @@ Switch Magic is a very fun and challenging game. Developed with 20 levels. In a 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Fun, Kid, Platform, Puzzle

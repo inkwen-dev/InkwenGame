@@ -21,4 +21,4 @@ The hulk is very angry. It smashes cars passing through the red light. If you hi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Boys, Cartoon, Click, Fun, Game, HTML5, Monster
+- Tags: Action, Boys, Cartoon, Click, Fun, Game, HTML5, monster

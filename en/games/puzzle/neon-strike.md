@@ -19,6 +19,6 @@ Welcome to our latest game Neon Strike. In this game you have two squares one of
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Color, Fun, HTML5, Logic, Skill

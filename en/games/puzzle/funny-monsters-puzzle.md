@@ -21,4 +21,4 @@ Funny Monsters Puzzle is a free online game in the jigsaw puzzle genre. You have
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, Monster, Puzzle
+- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, monster, Puzzle

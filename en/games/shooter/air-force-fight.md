@@ -21,4 +21,4 @@ Do you want to battle with the retro air fighters in different game modes? Your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Aircraft, Battle, Flight, Gun, Plane, Shooting, War
+- Tags: 2 Player, 2 Player Games, Aircraft, battle, flight, Gun, Plane, Shooting, War

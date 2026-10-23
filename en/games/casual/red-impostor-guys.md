@@ -15,6 +15,6 @@ Race through chaotic courses in Red Impostor Guys, a fast-paced multiplayer show
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Skill

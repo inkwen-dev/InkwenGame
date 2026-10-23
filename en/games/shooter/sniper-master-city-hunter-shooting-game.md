@@ -19,6 +19,6 @@ Pay attention to protecting yourself, the evil forces have also hired a group of
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Adventure, Arena, Army, Battlegrounds, Classic, Gun, Shoot, Sniper
+- Tags: 3D Games, Adventure, Arena, Army, Battlegrounds, Classic, Gun, Shoot, sniper

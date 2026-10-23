@@ -27,4 +27,4 @@ Clash of Armour is real time strategy tank game. Objective is to destroy the opp
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Strategy, Tanks, Tower Defense, War
+- Tags: strategy, tanks, Tower Defense, War

@@ -19,6 +19,6 @@ Bottle Tap is a very interesting physics puzzle game. You need to tap the bottle
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boy, HTML5, Kid, Kids, Logic, Logical, WebGL

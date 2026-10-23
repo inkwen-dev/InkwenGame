@@ -21,4 +21,4 @@ In this game, a bird image is hidden beneath subtraction expression tiles. Playe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, html5 games, Jigsaw, Kids, Math, Mobile, School, Skill
+- Tags: educational, html5 games, Jigsaw, Kids, math, Mobile, School, Skill

@@ -19,6 +19,6 @@ Extreme Car Parking Game 3D: Car Racing Free Games drives you crazy Broken Diamo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Car, Cars, Parking
+- Tags: Action, Adventure, Arcade, Car, Cars, parking

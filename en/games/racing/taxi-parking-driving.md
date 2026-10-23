@@ -19,6 +19,6 @@ Taxi Parking Driving is a realistic driving simulator that challenges your parki
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, city, offroad, Parking, Road, Taxi
+- Tags: Action, Adventure, city, offroad, parking, Road, Taxi

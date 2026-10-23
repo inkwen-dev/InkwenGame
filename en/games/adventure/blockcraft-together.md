@@ -21,4 +21,4 @@ This game can be played both in pairs and alone. You can get resources, defeat m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Block, Mine, mineblock, Minecraft, Monster, PvP, Sandbox, survival, two player games, Unity3D, voxel, Zombie
+- Tags: 2 Player, 2 Player Games, block, Mine, mineblock, Minecraft, monster, PvP, Sandbox, survival, two player games, Unity3D, voxel, Zombie

@@ -19,6 +19,6 @@ Space Room Escape is a fun puzzle game. Fan of cat games? Looking for more addic
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Brain, Cat, Escape, fly, HTML5, Kids, Room, Space

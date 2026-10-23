@@ -21,4 +21,4 @@ Your mission is to defend your tower from relentless waves of enemies by command
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Boys, cool-games, pve, Strategy, Tower Defense, War
+- Tags: Action, Boys, cool-games, pve, strategy, Tower Defense, War

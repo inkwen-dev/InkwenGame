@@ -19,6 +19,6 @@ Kim Cat is a 2D platform game where you have to collect and eat cookies while av
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Animal, Arcade, Cat, Collecting, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Animal, Arcade, Cat, Collecting, pixel, Platform, retro

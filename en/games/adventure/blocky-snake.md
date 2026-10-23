@@ -21,4 +21,4 @@ Blocky Snake is an exciting endless game in which you move the snake right or le
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Casual, Hypercasual, Snake
+- Tags: Adventure, Casual, Hypercasual, snake

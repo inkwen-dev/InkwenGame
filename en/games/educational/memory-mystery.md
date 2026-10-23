@@ -19,6 +19,6 @@ Memory Mystery is an engaging and challenging memory game designed to test and i
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kid, Kids, Memory, NapTech Games
+- Tags: educational, Kid, Kids, memory, NapTech Games

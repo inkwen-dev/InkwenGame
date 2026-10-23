@@ -21,4 +21,4 @@ Tap 2 similar cats with 2 open sides. Eliminate all the tiles to win a level.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Board, Girls, HTML5, Mahjong, Matching, Mobile, Puzzle
+- Tags: Animal, Board, Girls, HTML5, mahjong, Matching, Mobile, Puzzle

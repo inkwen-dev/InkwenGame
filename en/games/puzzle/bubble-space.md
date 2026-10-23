@@ -21,4 +21,4 @@ The bubble shooter game that is very easy to play. Once you start playing you wo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Bejeweled, Bubble, Bubble Shooter, Casual, Color, Match 3, Match3, Puzzle, Space, Spaceship
+- Tags: battle, Bejeweled, Bubble, Bubble Shooter, Casual, Color, Match 3, Match3, Puzzle, Space, Spaceship

@@ -19,6 +19,6 @@ Alfa Romeo Coloring puts you behind the wheel of imagination. Grab your digital 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Car, Coloring, Fun, Girls, HTML5, Hypercasual, Mobile, School

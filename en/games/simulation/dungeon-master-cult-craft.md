@@ -33,4 +33,4 @@ Become a dungeon keeper, control stickmen, mine ore, develop a Cult and hold pow
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Adventure, Crafting, idle, Management, Mobile, Simulation, tycoon, unity
+- Tags: 3D, Adventure, Crafting, idle, management, Mobile, Simulation, tycoon, unity

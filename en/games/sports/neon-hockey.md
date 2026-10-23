@@ -21,4 +21,4 @@ A game full of competition is waiting for you at the hockey table crafted in neo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, Fun, Funny, hockey, HTML5, New, Sport, Sports
+- Tags: 1 Player, 2 Player, Fun, Funny, hockey, HTML5, New, Sport, sports

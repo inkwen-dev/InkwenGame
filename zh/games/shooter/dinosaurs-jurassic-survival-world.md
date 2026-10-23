@@ -21,4 +21,4 @@ WASD 或方向键移动，左键射击，右键瞄准，1234 键切换武器，R
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Dino, 多人游戏, 射击
+- 标签: Dino, 多人, 射击

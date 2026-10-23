@@ -21,4 +21,4 @@ Get ready to ride down the slopes and shred the fresh powder in #1 3D winter spo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Skateboard, Ski, Skills
+- Tags: Action, Adventure, Arcade, skateboard, Ski, Skills

@@ -19,6 +19,6 @@ Now it's time for wonderful game that's called Dino Jigsaw, let's solve puzzles!
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Animal, dino, Dinosaur, Fun, HTML5, Jigsaw, Kids, Mobile, Skill

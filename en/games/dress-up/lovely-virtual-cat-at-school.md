@@ -21,4 +21,4 @@ Do you like school? Don't worry, you have the final say in this school! Come get
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cat, Color, Coloring, Cute, Decorate, Decoration, Draw, Drawing, Dress Up, Educational, Food, Fruit, Fun, Girls, HTML5, Kids, Mobile
+- Tags: Animal, Cat, Color, Coloring, Cute, Decorate, Decoration, Draw, drawing, Dress Up, educational, Food, Fruit, Fun, Girls, HTML5, Kids, Mobile

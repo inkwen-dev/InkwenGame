@@ -19,6 +19,6 @@ Monster smash is a great game that is about smashing the monsters that appear on
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Clicker, Monster
+- Tags: 1 Player, Action, Clicker, monster

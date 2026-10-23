@@ -19,6 +19,6 @@ Oh, what a mess this house is! Can you take care of dad and tidy up the house be
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cleaning, Decorate, Educational, Girl, Girls, Grooming, Kids, Simulation
+- Tags: Animal, Cleaning, Decorate, educational, Girl, Girls, Grooming, Kids, Simulation

@@ -19,6 +19,6 @@ Welcome to the most amazing Word search brain game! This is an educational words
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Educational, Puzzle, Word
+- Tags: Arcade, Brain, educational, Puzzle, word

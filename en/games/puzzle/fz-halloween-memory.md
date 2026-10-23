@@ -19,6 +19,6 @@ FZ Halloween Memory is -HTML5 games. Just use your brain and your skill to play 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Halloween, Kid, Kids, Match 3, Puzzle

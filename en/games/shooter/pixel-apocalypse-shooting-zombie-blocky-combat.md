@@ -21,4 +21,4 @@ Pixel Apocalypse Shooting Zombie Garden free to play against fighting much enemy
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Blood, Shoot, Shooter, Shooting, Unity3D, WebGL
+- Tags: block, Blood, Shoot, Shooter, Shooting, Unity3D, WebGL

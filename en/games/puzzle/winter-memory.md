@@ -19,6 +19,6 @@ Welcome to the new game Winter Memory. The task is to remember and then open ide
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Best, Casual, Christmas, Funny, Holiday, Hypercasual, Kids, Memory, Mobile, Skills, Winter
+- Tags: 1 Player, Best, Casual, Christmas, Funny, Holiday, Hypercasual, Kids, memory, Mobile, Skills, Winter

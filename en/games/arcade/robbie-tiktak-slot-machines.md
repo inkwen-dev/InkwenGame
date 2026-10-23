@@ -37,4 +37,4 @@ Discover the exciting world of Robbie: TikTak Slot Machines, where online arcade
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, popular, Retro, Skill
+- Tags: Arcade, popular, retro, Skill

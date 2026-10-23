@@ -21,4 +21,4 @@ Experience the thrill of the open trail with the Peugeot 2008, designed for offr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Cars, Driving, HTML5, iPad, iPhone, Mentolatux, Mobile, offroad, Parking, Racing, Supercars, Unity3D, WebGL
+- Tags: Android, Cars, Driving, HTML5, iPad, iPhone, Mentolatux, Mobile, offroad, parking, Racing, Supercars, Unity3D, WebGL

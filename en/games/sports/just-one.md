@@ -19,6 +19,6 @@ Get ready to become the biggest scorer with just one shoot! Enjoy this abstract 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Basketball, Shoot, Sport
+- Tags: Ball, basketball, Shoot, Sport

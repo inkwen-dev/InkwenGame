@@ -21,4 +21,4 @@ Jetpack Jump kid , the most famous endless runner is back! fly through the lab, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping, Kid, Kids, Superhero
+- Tags: jump, jumping, Kid, Kids, Superhero

@@ -19,6 +19,6 @@ This is a hypercasual flappy game. You need to fly over the obstacles and collec
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, fly, HTML5, Hypercasual, jump

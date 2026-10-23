@@ -19,6 +19,6 @@ Gumball Runner adventure Unlock 30 amazing characters from The Amazing World of 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Boys, Cartoon, Cartoon Network, Game, Girl, Kids, Online, run, running, Subway Surfers

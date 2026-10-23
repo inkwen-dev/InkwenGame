@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 趣味, HTML5, 逻辑, 逻辑性, 移动, 怪物, 物理, 技巧
+- 标签: 有趣, HTML5, 逻辑, 逻辑性, 移动设备, monster, 物理, 技巧

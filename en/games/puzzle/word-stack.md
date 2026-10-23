@@ -21,4 +21,4 @@ Look for hidden words in the field with letters. Use hints, connect cubes with l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, WebGL, Word
+- Tags: Brain, WebGL, word

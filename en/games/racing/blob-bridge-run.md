@@ -21,4 +21,4 @@ In the Blob Bridge Run game, collect water droplets of your own color, build bri
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Funny, running, Stickman
+- Tags: Fun, Funny, running, stickman

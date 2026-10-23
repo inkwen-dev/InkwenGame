@@ -19,6 +19,6 @@ EG Cartoon Candy is HTML5 games. You should link connect image puzzle. Ecaps Gam
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Kid, Kids, Match 3, Match3, Puzzle

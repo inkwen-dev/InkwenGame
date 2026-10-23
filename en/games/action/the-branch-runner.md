@@ -21,4 +21,4 @@ Are you good at endless running arcade games? Here is a chance for you to play a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Avoid, Block, Collecting, Mobile, Pixel, Platform, running, Unity3D
+- Tags: 3D, Arcade, Avoid, block, Collecting, Mobile, pixel, Platform, running, Unity3D

@@ -19,6 +19,6 @@ Birds memory is kids memory game where the kids can learn birds and they can pla
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Kids, Memory, Puzzle
+- Tags: Brain, Kids, memory, Puzzle

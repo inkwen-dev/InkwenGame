@@ -21,4 +21,4 @@ This is a placement game, the user's house in the game is blown up by meteorites
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arkanoid, Business, Crazy, Food, H5, Miner, Turn
+- Tags: Action, Arkanoid, Business, crazy, Food, H5, Miner, Turn

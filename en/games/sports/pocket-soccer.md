@@ -19,6 +19,6 @@ Kick the soccer ball is an HTML5 game. Don’t let the ball hit the ground and t
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Football, Fun, Game, Games, HTML, HTML5, Kid, Kids, Soccer, Sport, Sports
+- Tags: Ball, Football, Fun, Game, Games, HTML, HTML5, Kid, Kids, Soccer, Sport, sports

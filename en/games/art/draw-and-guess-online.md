@@ -31,4 +31,4 @@ Draw and Guess is a fun and fast-paced online multiplayer game where creativity 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing, easy, Multiplayer, Quiz, words
+- Tags: drawing, easy, Multiplayer, Quiz, words

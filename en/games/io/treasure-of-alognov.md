@@ -19,6 +19,6 @@ In the distant past, the great castle lost its grandeur and became an abandoned 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 3D, 3D Games, Arena, Best, Best Games, Block, Boys, Game, games for your website, Maze, Puzzle
+- Tags: .io, .io Games, 1 Player, 3D, 3D Games, Arena, Best, Best Games, block, Boys, Game, games for your website, Maze, Puzzle

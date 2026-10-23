@@ -19,6 +19,6 @@ Super Billy Boy and his friends decided to explore an unknown planet, but during
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Mario, Platform, Super
+- Tags: Action, Adventure, Arcade, mario, Platform, Super

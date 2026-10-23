@@ -21,4 +21,4 @@ Oil Tanker Truck Drive is a 3D driving simulation. Drive the oil tanker to the p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Truck, Unity3D, WebGL
+- Tags: Driving, truck, Unity3D, WebGL

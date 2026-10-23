@@ -21,4 +21,4 @@ Classic vegetative slasher to test your speed and accuracy. How many fruit can y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Fruit, Fruits, HTML5, Hypercasual, Ninja
+- Tags: 1 Player, Fruit, Fruits, HTML5, Hypercasual, ninja

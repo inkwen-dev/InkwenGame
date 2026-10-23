@@ -21,4 +21,4 @@ The beginning of a new era in the world of automobile parking games Modern Autom
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Boy, Boys, Car, Cars, Collecting, drift, Mario, Race, Racing, Submachine, Super, Supercars, Superhero
+- Tags: 8 Ball Pool, Boy, Boys, Car, Cars, Collecting, drift, mario, Race, Racing, Submachine, Super, Supercars, Superhero

@@ -19,6 +19,6 @@ Prepare for an exhilarating survival shooting game that promises thrilling and e
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Block, blocky, HTML5, iPad, iPhone, Mentolatux, Mobile, Monster, Shooting, Zombie
+- Tags: Android, block, blocky, HTML5, iPad, iPhone, Mentolatux, Mobile, monster, Shooting, Zombie

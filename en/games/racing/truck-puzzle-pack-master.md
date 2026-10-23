@@ -21,4 +21,4 @@ Beep, beep, beep! Welcome to the Truck Puzzle: Pack Master, a puzzle online game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Boy, Car, Educational, Fun, HTML5, Kids, Management, Online, Puzzle, Skill
+- Tags: 3D, Android, Boy, Car, educational, Fun, HTML5, Kids, management, Online, Puzzle, Skill

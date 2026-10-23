@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 冒险, 街机, 格鬥, 火焰, Unity3D, WebGL
+- 标签: 单人, 冒险, 街机, 格斗, 火焰, Unity3D, WebGL

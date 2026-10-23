@@ -19,6 +19,6 @@ It's time for adventure, but Fin will have to deal with the difficulties on his 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Battle, H5, Hypercasual
+- Tags: Action, Adventure, battle, H5, Hypercasual

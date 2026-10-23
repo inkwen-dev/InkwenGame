@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 动物, 最佳, 大脑, 可爱, 搞笑, HTML5, 麻将, 解谜, 技巧
+- 标签: 单人, 动物, 最佳, 大脑, 可爱, 搞笑, HTML5, mahjong, 益智, 技能

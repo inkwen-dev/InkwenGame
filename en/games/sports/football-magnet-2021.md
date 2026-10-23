@@ -21,4 +21,4 @@ Welcome to the world of magnet where you need to collect the magnetic boxes arou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 8 Ball Pool, Adventure, Ball, Ballon, Basketball
+- Tags: 1 Player, 3D, 8 Ball Pool, Adventure, Ball, Ballon, basketball

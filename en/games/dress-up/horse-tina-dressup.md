@@ -21,4 +21,4 @@ Cute Tina is the most beautiful horse in horseland. Tina likes to run freely in 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cartoon, Dress Up, Fashion, Fun, Game, Girl, Horse, HTML5
+- Tags: Animal, Cartoon, Dress Up, Fashion, Fun, Game, Girl, horse, HTML5

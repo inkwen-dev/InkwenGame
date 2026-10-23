@@ -21,4 +21,4 @@ Stacklands is a card game with innovative gameplay. It is a mixture of city mana
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Card, Funny, H5, Kids, Stack
+- Tags: Brain, card, Funny, H5, Kids, Stack

@@ -21,4 +21,4 @@ In this game where we control two hungry cats, we try to catch the fish hovering
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Best Games, Cat, Fish, Pixel, two player games
+- Tags: Animal, Best Games, Cat, Fish, pixel, two player games

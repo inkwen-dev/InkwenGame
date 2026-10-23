@@ -19,6 +19,6 @@ Rewrite: Experience the thrill of football and soccer games as a budding hero in
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Android, Football, HTML5, iPad, iPhone, Mentolatux, Mobile, run, Skill, Soccer

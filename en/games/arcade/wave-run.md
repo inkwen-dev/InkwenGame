@@ -21,4 +21,4 @@ The game has only one move ball and a variety of obstacle at random. Use mouse o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Ball, Block, Mobile, Obstacle, run
+- Tags: Avoid, Ball, block, Mobile, Obstacle, run

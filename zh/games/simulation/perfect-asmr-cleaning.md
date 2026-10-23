@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 清洁, 指甲, 模拟器
+- 标签: 清洁, 美甲, 模拟器

@@ -21,4 +21,4 @@ Do you love physics puzzle brain games? Well, this game is for you! Use your bra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Casual, Clicker, Physics, Strategy
+- Tags: Arcade, Brain, Casual, Clicker, Physics, strategy

@@ -21,4 +21,4 @@ Feel the rush of adrenaline and get into the suit of a space paratrooper who's r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping, Restaurant, sky, Space
+- Tags: jump, jumping, restaurant, sky, Space

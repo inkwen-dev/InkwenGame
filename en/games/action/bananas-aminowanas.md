@@ -21,4 +21,4 @@ Classic Platform retro game. Jumpin monkey. Grab all the baneines XD. Cmon its j
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Animal, Platform, Retro
+- Tags: Action, Animal, Platform, retro

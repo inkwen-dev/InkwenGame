@@ -19,6 +19,6 @@ Hey, do you know Ilnam? He is Player 001, he also designer the games on Squid Ga
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Arcade, Army, Casual, HTML5, Stunts, WebGL

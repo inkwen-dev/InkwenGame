@@ -21,4 +21,4 @@ Clownfish Pin Out is an interesting and cute puzzle game, you need to help one l
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Fish, Kids, Logic, Logical, Strategy
+- Tags: Brain, Fish, Kids, Logic, Logical, strategy

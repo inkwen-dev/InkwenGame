@@ -19,6 +19,6 @@ Jump and go long distance you can. Enjoy!
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, endless, Hello Kitty, jump, Jumping, run, running
+- Tags: 1 Player, 2D, endless, Hello Kitty, jump, jumping, run, running

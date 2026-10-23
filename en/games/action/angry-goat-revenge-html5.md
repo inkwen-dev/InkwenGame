@@ -19,6 +19,6 @@ An open-world game where you embody an irate goat in a bustling city. Utilize wi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Android, Animal, goat, HTML5, iPad, iPhone, Mentolatux, Mobile, run, running, Unity3D, WebGL

@@ -19,6 +19,6 @@ Excellent choice. &ldquo;Abyssal Echoes&rdquo; is a powerful, poetic, and haunti
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player, 2 Player Games, 2025 games, 2048, Action, Adventure, Anime, Arcade, Avoid

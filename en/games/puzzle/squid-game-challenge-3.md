@@ -19,6 +19,6 @@ Welcome to Squid life, Are you ready for squid challenges? Where all the players
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boy, Boys, Bubble Shooter, Car, Cars, Fight, Fighting, Fire, Flight, fly, Girl, Girls, Gun, Race, Shoot, Shoot 'Em Up, Shooter, Shooting, Street Fighting, Supercars, Unity3D
+- Tags: 3D, 3D Games, Boy, Boys, Bubble Shooter, Car, Cars, Fight, fighting, Fire, flight, fly, Girl, Girls, Gun, Race, Shoot, Shoot 'Em Up, Shooter, Shooting, Street Fighting, Supercars, Unity3D

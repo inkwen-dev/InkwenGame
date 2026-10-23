@@ -19,6 +19,6 @@ Jump your ball upward and survive as long as you can in this fast-paced arcade g
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Arcade, Avoid, Ball, Bounce, endless, Hypercasual, Jumping, Obstacle, Skill
+- Tags: 2026 games, Arcade, Avoid, Ball, Bounce, endless, Hypercasual, jumping, Obstacle, Skill

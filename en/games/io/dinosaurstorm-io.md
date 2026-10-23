@@ -21,4 +21,4 @@ This is a new era of the resurrection of dinosaurs! You are no longer a weak hum
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, Animal, Avoid, city, Collecting, Crazy, dino, Dinosaur, HTML5, Online
+- Tags: .io, .io Games, 3D, Animal, Avoid, city, Collecting, crazy, dino, Dinosaur, HTML5, Online

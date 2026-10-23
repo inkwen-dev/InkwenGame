@@ -19,6 +19,6 @@ Step into the whimsical and wacky world of Amazing Digital Circus: Find The Diff
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Difference, digital circus, Educational, Girls, Hidden, Puzzle, School
+- Tags: Boy, Difference, digital circus, educational, Girls, Hidden, Puzzle, School

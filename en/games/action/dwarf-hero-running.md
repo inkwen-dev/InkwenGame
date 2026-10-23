@@ -21,4 +21,4 @@ Dwarf Hero Running is a simple running and jumping game, you help the dwarf hero
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping, running
+- Tags: jumping, running

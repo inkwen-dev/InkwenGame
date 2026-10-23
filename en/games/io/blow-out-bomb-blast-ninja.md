@@ -21,4 +21,4 @@ Its time to cut out the bombs that are set for you! Dont waste time! Theyll blow
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2D, Action, Android, Arcade, Bomb, Casual, Classic, Click, Clicker, Crazy, Highscore, Hypercasual, Point And Click, Timing
+- Tags: .io Games, 1 Player, 2D, Action, Android, Arcade, Bomb, Casual, Classic, Click, Clicker, crazy, Highscore, Hypercasual, Point And Click, Timing

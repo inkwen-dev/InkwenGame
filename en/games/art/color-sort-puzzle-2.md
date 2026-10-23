@@ -21,4 +21,4 @@ Spend your time wisely, relaxing and training your mind all at once! Put the wat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Matching, Math
+- Tags: Color, Coloring, Matching, math

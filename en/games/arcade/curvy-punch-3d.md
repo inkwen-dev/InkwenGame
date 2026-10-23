@@ -21,4 +21,4 @@ From the enemy's provocation with the heaviest fist, the most accurate direction
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Avoid, Kid, Kids, Obstacle, Punch, Puzzle, Stickman
+- Tags: 3D, Arcade, Avoid, Kid, Kids, Obstacle, Punch, Puzzle, stickman

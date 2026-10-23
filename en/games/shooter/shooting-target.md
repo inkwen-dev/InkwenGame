@@ -19,6 +19,6 @@ In the game Shooting Target we have four types of weapons in our arsenal: colt, 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Fun, Gun, Mobile, Shoot, Shooter, Skill, weapons

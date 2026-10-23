@@ -15,6 +15,6 @@ Guide your car to the parking spot in Park My Car, where you'll draw clever path
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Drawing
+- Tags: drawing

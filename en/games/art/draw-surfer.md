@@ -17,4 +17,4 @@ Ride the waves with your drawing skills in Draw Surfer! Sketch paths to guide yo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Drawing
+- Tags: drawing

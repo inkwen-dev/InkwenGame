@@ -19,6 +19,6 @@ Choose your neon car, then skid, slide, spin and drive around the endless track 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Car, Cars, drift, drifting, Driving, Race, Racing, Retro, Simulator, Taxi
+- Tags: Arcade, Car, Cars, drift, drifting, Driving, Race, Racing, retro, Simulator, Taxi

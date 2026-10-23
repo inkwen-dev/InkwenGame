@@ -19,6 +19,6 @@ Healthy Hero is an exciting and educational action game where you play as a brav
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Best Games, Casual, Clicker, Hypercasual, Jumping, NapTech Games
+- Tags: Adventure, Best Games, Casual, Clicker, Hypercasual, jumping, NapTech Games

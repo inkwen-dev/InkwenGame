@@ -19,6 +19,6 @@ Drive your tuk tuk as fast as possible to crush the zombies. You are the best tu
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Car, Strategy, Taxi
+- Tags: Arcade, Car, strategy, Taxi

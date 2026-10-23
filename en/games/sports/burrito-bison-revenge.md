@@ -21,4 +21,4 @@ Burrito Bison Revenge is only playable on your computer for now.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Flight, fly, jump, Jumping
+- Tags: flight, fly, jump, jumping

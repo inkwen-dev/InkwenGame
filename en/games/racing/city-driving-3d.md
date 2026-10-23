@@ -21,4 +21,4 @@ Drive your car through endless highway traffic and realistic environment, earn c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, Hypercasual, Puzzle, Race, Racing, Sport, Sports, Supercars
+- Tags: Car, Cars, Hypercasual, Puzzle, Race, Racing, Sport, sports, Supercars

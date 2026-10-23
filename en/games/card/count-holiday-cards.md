@@ -19,6 +19,6 @@ Count Holiday Cards is one kind of mathematical game where you need to count fas
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Holiday, Math, Puzzle
+- Tags: Holiday, math, Puzzle

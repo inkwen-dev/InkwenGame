@@ -21,4 +21,4 @@ Hunter Underwater Spearfishing is an immersive simulator hunting game that takes
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fishing, Hunting, Simulator, water
+- Tags: Fishing, hunting, Simulator, water

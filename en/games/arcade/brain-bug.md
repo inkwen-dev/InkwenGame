@@ -21,4 +21,4 @@ Use your quick thinking to get the right components for each object before time 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Crazy, Puzzle
+- Tags: 1 Player, 2D, Arcade, crazy, Puzzle

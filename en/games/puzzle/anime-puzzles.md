@@ -19,6 +19,6 @@ Welcome to the world of Anime puzzles - classic anime-themed puzzles! This game 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Anime, Dragon Ball Z, Jigsaw, Puzzle

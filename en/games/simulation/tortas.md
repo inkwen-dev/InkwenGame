@@ -19,6 +19,6 @@ A torta is a popular Mexican sandwich. A Mexican torta is a big, delicious sandw
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Hazel, Cooking, Family, Food

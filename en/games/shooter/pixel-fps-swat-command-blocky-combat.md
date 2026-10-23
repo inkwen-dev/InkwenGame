@@ -21,4 +21,4 @@ Fight in battle fps pixel with real players around the world. 9 guns waiting you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Multiplayer, Pixel, Shooter, Shooting, Unity3D, WebGL
+- Tags: Multiplayer, pixel, Shooter, Shooting, Unity3D, WebGL

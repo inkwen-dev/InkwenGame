@@ -19,6 +19,6 @@ Here is a simple bike riding simulation game with 3D bikes and ramps on the roof
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Bike, Mobile, Skill, Stunts, WebGL
+- Tags: 3D, Arcade, bike, Mobile, Skill, Stunts, WebGL

@@ -19,6 +19,6 @@ Call of Duty Modern Warfare 4: Beat Em Up is a five-chapter modern military arca
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Fight, Fighting
+- Tags: Action, Adventure, Arcade, Fight, fighting

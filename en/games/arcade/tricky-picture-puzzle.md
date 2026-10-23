@@ -21,4 +21,4 @@ Welcome to Tricky Pucture Puzzle - Tricky Test - top fun thinking and brain-up g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Fun, Kid, Math, Puzzle
+- Tags: Arcade, Casual, Fun, Kid, math, Puzzle

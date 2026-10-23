@@ -19,6 +19,6 @@ Girl Animal Save is an online game that you can play on Babygames for free. Stev
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby Games, Doctor, Dress Up, Educational, Girls, Grooming, Kids, Makeover, Surgery
+- Tags: Animal, Baby Games, Doctor, Dress Up, educational, Girls, Grooming, Kids, Makeover, surgery

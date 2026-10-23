@@ -19,6 +19,6 @@ Baby Fashion Dress Up is a very enjoyable design game. Think your design talents
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Cute, Design, Dress Up, Fashion, Fun, Girls, HTML5, Kids, Mobile, Panda

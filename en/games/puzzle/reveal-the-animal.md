@@ -19,6 +19,6 @@ Reveal the Animal is a fun and educational math game where players must select f
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Math
+- Tags: 1 Player, Animal, math

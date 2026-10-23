@@ -21,4 +21,4 @@ Here is a bulldozer driving simulation game that is made from 3D game arts. You 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, Crazy, HTML, Mobile, Racing
+- Tags: 3D, Car, crazy, HTML, Mobile, Racing

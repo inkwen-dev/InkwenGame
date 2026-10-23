@@ -19,6 +19,6 @@ Despicable Me Coloring Book For Kids: Giant Minions Coloring Books Despicable Me
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Cartoon, Cartoon Network, Color, Coloring, Game, Minion, Online

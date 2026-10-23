@@ -19,6 +19,6 @@ Super Boy Adventure Run is a Super smooth control action unlike the other super 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, jump, Jumping, Mario, run, running, Super, Superhero
+- Tags: Adventure, Arcade, jump, jumping, mario, run, running, Super, Superhero

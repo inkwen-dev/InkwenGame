@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 冒险, 街机, Bejeweled, 经典, 好玩, 宝石
+- 标签: 2D, 冒险, 街机, 宝石迷阵, 经典, 有趣, 宝石

@@ -21,4 +21,4 @@ PLAY as Mano who has to overcome obstacles and defeat enemies to find his gold. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Mario
+- Tags: Action, Adventure, Arcade, mario

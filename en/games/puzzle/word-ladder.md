@@ -21,4 +21,4 @@ A satisfying word puzzle game where you transform one word into another by chang
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Casual, Puzzle, Word
+- Tags: 1 Player, 2D, Casual, Puzzle, word

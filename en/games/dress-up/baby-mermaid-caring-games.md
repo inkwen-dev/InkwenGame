@@ -19,6 +19,6 @@ Play with your little mermaid in the depths of the ocean! Grow up with it! Your 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cooking, Cute, Decorate, Dress Up, Educational, Girl, Girls, Kids, Makeover, Mermaid, Simulation
+- Tags: Baby, Cooking, Cute, Decorate, Dress Up, educational, Girl, Girls, Kids, Makeover, Mermaid, Simulation

@@ -21,4 +21,4 @@ Fresh N Fresh Tiles is a fun and simple elimination mahjong-inspired game, your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fruit, Mahjong, Match 3, Match3
+- Tags: Fruit, mahjong, Match 3, Match3

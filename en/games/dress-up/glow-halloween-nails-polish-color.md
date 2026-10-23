@@ -21,4 +21,4 @@ Polish, decorate, trim, shine your nails, and much more in this spine-chilling m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Girl, Girls, H5, Halloween, HTML5, Kid, Kids, Makeover, Monster, Nail, Nails
+- Tags: Fun, Girl, Girls, H5, Halloween, HTML5, Kid, Kids, Makeover, monster, Nail, Nails

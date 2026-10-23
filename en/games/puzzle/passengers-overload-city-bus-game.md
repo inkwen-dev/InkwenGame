@@ -19,6 +19,6 @@ Passengers Overload - City Bus Simulator Game is a unique game of its kind. Pres
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, 8 Ball Pool, Adult, Adventure, Alien, Android, Arcade, Arena, Army, Ball, Ballon, Boy, Boys, Bubble, Bubble Shooter, Burger, Candy, Car, Doctor, Dora, Draw, Elsa, Fun, Funny, Girl, Girls, HTML, HTML5, Memory, MMO, Mobile, Monkey, Monster, Moto, Motorcycle, Retro, Robot, Sandbox, Sudoku, WebGL
+- Tags: 3D Games, 8 Ball Pool, Adult, Adventure, Alien, Android, Arcade, Arena, Army, Ball, Ballon, Boy, Boys, Bubble, Bubble Shooter, Burger, Candy, Car, Doctor, Dora, Draw, Elsa, Fun, Funny, Girl, Girls, HTML, HTML5, memory, MMO, Mobile, Monkey, monster, Moto, Motorcycle, retro, Robot, Sandbox, Sudoku, WebGL

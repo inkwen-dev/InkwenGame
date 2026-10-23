@@ -19,6 +19,6 @@ Hide &amp; Heist is a single-player game where player control two characters &nd
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, Police, run, Thief
+- Tags: Escape, police, run, Thief

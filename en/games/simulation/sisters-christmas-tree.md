@@ -19,6 +19,6 @@ The lovable sisters Mia and Ella are planning to decorate their Christmas tree t
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Boys, Christmas, Cooking, Girls, Kids, Kissing, Love, School

@@ -19,6 +19,6 @@ In Jungle Fight players control an army of animals to overpower the opposing pla
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, amazing, Best Games, Fighting, free games for your site, free games for your website, free html5 games for your website, Game, Games, html games for your website, HTML5, html5 games, Strategy
+- Tags: 1 Player, Adventure, amazing, Best Games, fighting, free games for your site, free games for your website, free html5 games for your website, Game, Games, html games for your website, HTML5, html5 games, strategy

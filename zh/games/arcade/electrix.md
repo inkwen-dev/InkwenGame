@@ -21,4 +21,4 @@ ELECTRIX 是一款看似简单却能让你连续数小时目不转睛的解谜�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: AI 游戏, 街机, 家庭, mapi games, 拼图, 俄罗斯方块
+- 标签: AI游戏, 街机, 家庭, mapi games, 益智, tetris

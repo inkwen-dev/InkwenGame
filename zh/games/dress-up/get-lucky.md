@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 街机, 躲避, 收集, 换装, 移动设备, 平台, 仿真, WebGL
+- 标签: 3D, 街机, 躲避, 收集, 装扮, 移动设备, 平台, 模拟, WebGL

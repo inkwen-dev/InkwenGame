@@ -19,6 +19,6 @@ This Cars Guys - Multiplayer Racing Game, which consists of 3 different Tracks, 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Arcade, Multiplayer, Race

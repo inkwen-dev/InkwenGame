@@ -21,4 +21,4 @@ Welcome to Skibidi Toilet Escape! Run, avoid Skibidi Toilets or use the suction 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Escape, Maze, Rescue, Skibidi Toilet
+- Tags: 3D, Adventure, Escape, Maze, Rescue, skibidi-toilet

@@ -19,6 +19,6 @@ Zombies have taken the roads of the city and are you ready to clean them with yo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Driving, Race, Racing, Zombie

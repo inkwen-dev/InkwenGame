@@ -21,4 +21,4 @@ Power the Grid game play it on iyigames.com. Power the Grid is a real-time-strat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Fun, HTML5, Management, Simulation, Strategy, WebGL
+- Tags: 3D, Fun, HTML5, management, Simulation, strategy, WebGL

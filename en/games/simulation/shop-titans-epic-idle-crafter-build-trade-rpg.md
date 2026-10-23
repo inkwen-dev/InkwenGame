@@ -19,6 +19,6 @@ YOU are the new craftsman in town. Help the heroes in epic battles against fears
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Adventure, Anime, Best, Boys, endless, Games, Jumping, Ninja, Ninjago, Online, run, running, Simulator
+- Tags: .io, .io Games, Adventure, Anime, Best, Boys, endless, Games, jumping, ninja, Ninjago, Online, run, running, Simulator

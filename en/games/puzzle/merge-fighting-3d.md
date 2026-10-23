@@ -21,4 +21,4 @@ Do you enjoy fighting? Do you want to eliminate your enemies using various weapo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fight, Monster, Simulation, Stickman, Sword, weapons
+- Tags: battle, Fight, monster, Simulation, stickman, sword, weapons

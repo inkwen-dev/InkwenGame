@@ -21,4 +21,4 @@ Fight off waves of enemies! Enemies are attacking your house, and every day they
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Shooter, Stickman, Tower Defense
+- Tags: Clicker, Shooter, stickman, Tower Defense

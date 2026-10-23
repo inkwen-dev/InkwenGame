@@ -19,6 +19,6 @@ Enjoy your time by driving the Bmw city car rider 2021 testing your racing skill
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, Adventure, bus, Car, Cars, Game, Games, jump, Jumping, PacMan, Parking, Supercars, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, Adventure, bus, Car, Cars, Game, Games, jump, jumping, PacMan, parking, Supercars, truck

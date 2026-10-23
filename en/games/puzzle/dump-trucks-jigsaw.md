@@ -19,6 +19,6 @@ This is truck jigsaw game with five different images with dump trucks. Select so
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Jigsaw, Kids, Puzzle, Truck
+- Tags: Arcade, Jigsaw, Kids, Puzzle, truck

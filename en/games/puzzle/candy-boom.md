@@ -19,6 +19,6 @@ This is logical puzzle game with candy. If you match two or more identical candy
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, Color, Kids, Machine, Puzzle

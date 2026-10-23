@@ -21,4 +21,4 @@ Challenging highway car racing game endless car driving racing game additive hd 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Car, Cars, drift, drifting, Driving, Parking, Racing, Simulation, Simulator, Sport, Supercars, Traffic
+- Tags: 3D, 3D Games, Adventure, Car, Cars, drift, drifting, Driving, parking, Racing, Simulation, Simulator, Sport, Supercars, Traffic

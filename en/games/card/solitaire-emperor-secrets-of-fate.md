@@ -33,4 +33,4 @@ Each level is a unique combination of cards with a variety of mechanics, which m
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, cards, Solitaire
+- Tags: Adventure, cards, solitaire

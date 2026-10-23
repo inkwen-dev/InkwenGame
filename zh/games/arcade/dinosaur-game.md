@@ -23,4 +23,4 @@
 - 可玩设备: desktop
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 街机, Dinosaur, 跑步
+- 标签: 街机, Dino, 奔跑

@@ -19,6 +19,6 @@ Pull the Hero Axe out of the old stump and become the mightiest lumberjack in th
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Animal, Forest, Fun, Kids, Monster, Multiplayer, Simulator, Superhero, tree
+- Tags: 3D, Action, Adventure, Animal, Forest, Fun, Kids, monster, Multiplayer, Simulator, Superhero, tree

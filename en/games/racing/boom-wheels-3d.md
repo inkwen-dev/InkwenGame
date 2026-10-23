@@ -19,6 +19,6 @@ Get ready to hop into your supercharged go-kart and speed through the coolest tr
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Best, Car, Cars, Driving, HTML5, Mobile, Race, Skill, Supercars
+- Tags: Action, battle, Best, Car, Cars, Driving, HTML5, Mobile, Race, Skill, Supercars

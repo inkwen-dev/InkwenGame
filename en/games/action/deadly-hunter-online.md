@@ -19,6 +19,6 @@ Find all the hunters and form a team to kill Jungle beast.Avoid obstacle and for
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Arcade, Best, Casual, Hot, Hypercasual, jump, Knight, New, run, running, Undead
+- Tags: Adult, Arcade, Best, Casual, Hot, Hypercasual, jump, knight, New, run, running, Undead

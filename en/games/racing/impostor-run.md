@@ -19,6 +19,6 @@ Impostor Run plays in the Among Us universe where the player is chased by the im
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Fun, Platform, Racing, running, temple

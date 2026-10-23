@@ -23,4 +23,4 @@ Dancing Road is a fast-paced rhythm runner where you guide a glowing ball along 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Ball, Music, running, Skill
+- Tags: Arcade, Ball, music, running, Skill

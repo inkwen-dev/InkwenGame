@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 无尽, HTML, HTML5, 跑, 跑步, 横向卷轴
+- 标签: 无尽, HTML, HTML5, 跑, 奔跑, 横向滚动

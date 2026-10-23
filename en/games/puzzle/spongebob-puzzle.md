@@ -19,6 +19,6 @@ Have fun solving jigsaw puzzles of pictures of the cute cartoon hero SpongeBob a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Fun, Funny, Game, Girls, HTML5, Jigsaw, Puzzle, Spongebob

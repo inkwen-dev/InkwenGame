@@ -21,4 +21,4 @@ Slide on the screen, the cube moves with your finger and it fill the place with 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player Games, 2D, 3D Games, 8 Ball Pool, Adventure, Arcade, Ballon, Barbie, Block, Boy, Boys, Bubble, Bubble Shooter, Candy, drifting, Fun, Game, Games, Girl, Girls, Punch, Puzzle, Road, Simulation, Spiderman
+- Tags: 1 Player, 2 Player Games, 2D, 3D Games, 8 Ball Pool, Adventure, Arcade, Ballon, Barbie, block, Boy, Boys, Bubble, Bubble Shooter, Candy, drifting, Fun, Game, Games, Girl, Girls, Punch, Puzzle, Road, Simulation, Spiderman

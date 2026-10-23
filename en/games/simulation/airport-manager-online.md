@@ -19,6 +19,6 @@ Do you have what it takes to be an Airport Manager and run your own airline? Giv
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, airplane, Casual, Cute, Educational, Management, Plane, Simulation
+- Tags: 2D, airplane, Casual, Cute, educational, management, Plane, Simulation

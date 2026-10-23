@@ -29,4 +29,4 @@ IGB 由 Playgama 出品
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: .io, 动作, 战舰, 格斗游戏, 生存, 摔角
+- 标签: .io, 动作, 战舰游戏, 格斗, 生存, 摔跤

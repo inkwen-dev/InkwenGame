@@ -19,6 +19,6 @@ Up Down Ninja Game - the best ninja game ever! You can play this game on two wor
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Arcade, Ninja
+- Tags: 1 Player, Action, Arcade, ninja

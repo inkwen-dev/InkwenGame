@@ -19,6 +19,6 @@ Welcome to Super Wings, join the endless running fun, help Jett deliver the cour
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Aircraft, Arcade, Boy, Cars, Crazy, HTML5, Kids, Racing, Superhero
+- Tags: Adventure, Aircraft, Arcade, Boy, Cars, crazy, HTML5, Kids, Racing, Superhero

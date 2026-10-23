@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 动物, 射击类, 射击, 模拟器, 狙击手, Unity3D, WebGL
+- 标签: 单人, 动物, 射击类, 射击, 模拟器, 狙击手, Unity3D, WebGL

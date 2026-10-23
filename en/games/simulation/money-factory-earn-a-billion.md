@@ -24,4 +24,4 @@ Money Factory - Earn a Billion is an engaging online strategy and puzzle game wh
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: idle, Management, tycoon
+- Tags: idle, management, tycoon

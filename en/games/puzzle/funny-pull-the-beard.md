@@ -21,4 +21,4 @@ In Funny Beard Plucking, you will help a funny character pull his beard in vario
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Funny, Music, Relaxation
+- Tags: Clicker, Funny, music, Relaxation

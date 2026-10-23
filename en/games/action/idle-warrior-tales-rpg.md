@@ -21,4 +21,4 @@ Fight order of orcs! Are you looking for an PVE AFK RPG game with idle leveling,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Battle, Battlegrounds, Casual, Clicker, Halloween, HTML5, Hypercasual, MMO, PvP, RPG, Strategy, Unity3D, WebGL, Wizard, World
+- Tags: 3D, battle, Battlegrounds, Casual, Clicker, Halloween, HTML5, Hypercasual, MMO, PvP, rpg, strategy, Unity3D, WebGL, Wizard, World

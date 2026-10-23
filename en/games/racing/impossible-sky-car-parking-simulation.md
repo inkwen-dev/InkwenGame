@@ -19,6 +19,6 @@ Welcome to the world of car driving and parking games in which you can see ultim
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Car, Cars, Game, Games, Hypercasual, jump, Jumping, Parking, Race, Racing, Room, Simpson, Simulation, Simulator, sky, Stunts, Supercars, Truck, Unity3D
+- Tags: 3D, 3D Games, Adventure, Car, Cars, Game, Games, Hypercasual, jump, jumping, parking, Race, Racing, Room, Simpson, Simulation, Simulator, sky, Stunts, Supercars, truck, Unity3D

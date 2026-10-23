@@ -21,4 +21,4 @@ Welcome to Frisbee 3D Game! Tap or click to launch your frisbee, and swipe left 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Friv, Hypercasual, Physics, Sport, Sports, Unity3D
+- Tags: 3D, 3D Games, Friv, Hypercasual, Physics, Sport, sports, Unity3D

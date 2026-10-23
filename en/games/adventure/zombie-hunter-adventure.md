@@ -15,6 +15,6 @@ Embark on an exhilarating quest in Zombie Hunter Adventure. As a daring ninja, b
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

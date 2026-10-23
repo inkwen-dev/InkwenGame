@@ -19,6 +19,6 @@ Ragdoll Fall - Fun 3d physic game! Collect all food to get more scores. Have fun
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Obstacle, Physics

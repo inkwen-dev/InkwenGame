@@ -32,4 +32,4 @@ Reach the finish line and complete each level.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Fighting, parkour, Platform, running
+- Tags: 3D, Action, fighting, parkour, Platform, running

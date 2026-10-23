@@ -21,4 +21,4 @@ Coco Skibidi is a game of rhythm, hand-eye coordination and hair-pulling action!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, HTML, Mobile, Puzzle, Skibidi, Skibidi Toilet
+- Tags: Click, HTML, Mobile, Puzzle, Skibidi, skibidi-toilet

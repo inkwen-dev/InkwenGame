@@ -19,6 +19,6 @@ This chill puzzle game is all about sorting gems into bags. Its simple, fun, and
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Best, Best Games, Casual, endless, free games for your website, free html5 games for your website, HTML, Jewel, onetouch, Skill, sort, sorting, WebGL

@@ -19,6 +19,6 @@ Flip cards, remember their positions, and clear the board before time runs out, 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Animal, Card, Educational, Memory, Puzzle
+- Tags: 2 Player, 2 Player Games, Animal, card, educational, memory, Puzzle

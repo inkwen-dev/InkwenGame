@@ -21,4 +21,4 @@ Play Hot Vegas Free Slot machines without wifi - online or offline - and try to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Boy, Card, Casino, Girl, Girls, Machine, Slot Machine
+- Tags: .io Games, Boy, card, Casino, Girl, Girls, Machine, Slot Machine

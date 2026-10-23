@@ -19,6 +19,6 @@ Pokemon Find Pairs is a memory puzzle game. Choose your mode from easy medium or
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Card, Casual, Clicker, Pokemon, Puzzle
+- Tags: Brain, card, Casual, Clicker, Pokemon, Puzzle

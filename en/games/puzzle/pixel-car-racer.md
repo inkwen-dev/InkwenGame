@@ -19,6 +19,6 @@ Pixel Car Racer is the ultimate retro arcade racer, featuring a completely custo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adventure, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Game, Games, Interactive Fiction, Monster, Moto, Motorcycle, Parking, Race, Racing, Sim, Simulation, Simulator, sky, Spaceship, Supercars, Truck
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adventure, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Game, Games, Interactive Fiction, monster, Moto, Motorcycle, parking, Race, Racing, Sim, Simulation, Simulator, sky, Spaceship, Supercars, truck

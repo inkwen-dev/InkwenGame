@@ -19,6 +19,6 @@ Ninja Adventure is a jump game, right? Maybe you didn't know it, I thought in er
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Arcade, Avoid, Fun, Funny, Game, Games, HTML5, jump, Jumping, Obstacle
+- Tags: 2D, Action, Arcade, Avoid, Fun, Funny, Game, Games, HTML5, jump, jumping, Obstacle

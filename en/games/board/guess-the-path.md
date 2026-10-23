@@ -21,4 +21,4 @@ Guess the Path is a puzzle game for the smartest of you. So yes, the first level
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Brain, Educational, Hypercasual, Logical, Puzzle, Sudoku
+- Tags: Board, Brain, educational, Hypercasual, Logical, Puzzle, Sudoku

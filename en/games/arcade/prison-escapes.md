@@ -21,4 +21,4 @@ Prison Escape is a fun online escape game with different levels! You have to hel
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Avoid, Brain, Casual, Escape, Fun, HTML5, html5 games, Logic, Logical, Police, Prison, Strategy
+- Tags: Arcade, Avoid, Brain, Casual, Escape, Fun, HTML5, html5 games, Logic, Logical, police, Prison, strategy

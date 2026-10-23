@@ -21,4 +21,4 @@ Animal Tiles Game requires you to match 3 blocks of the same element, you will p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Bejeweled, Block, Bubble, Bubble Shooter, Candy, Casual, Cute, Mahjong, Match 3, Match3, Matching
+- Tags: Animal, Arcade, Bejeweled, block, Bubble, Bubble Shooter, Candy, Casual, Cute, mahjong, Match 3, Match3, Matching

@@ -19,6 +19,6 @@ Choose one of your favorite football teams from around the world to defend your 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ballon, Football, HTML5, Soccer, Sport, Sports
+- Tags: Ballon, Football, HTML5, Soccer, Sport, sports

@@ -19,6 +19,6 @@ You will through kinds of strange levels. It will not work if you use normal con
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Hidden, Math, Puzzle, Strategy
+- Tags: Brain, Hidden, math, Puzzle, strategy

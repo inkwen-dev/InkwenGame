@@ -47,4 +47,4 @@ Switch to first person whenever you like. Play with mouse and keyboard, a gamepa
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 1v1, 3D, Action, Multiplayer, Physics, pve, PvP, Simulation, Skill, Soccer, Sports
+- Tags: 1v1, 3D, Action, Multiplayer, Physics, pve, PvP, Simulation, Skill, Soccer, sports

@@ -28,4 +28,4 @@ Put your creativity and physics skills to the test! ✏️ Two colorful balls ar
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Drawing, Logic, Physics, Puzzle
+- Tags: Brain, drawing, Logic, Physics, Puzzle

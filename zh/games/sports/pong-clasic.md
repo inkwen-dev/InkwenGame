@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 游戏, 游戏, HTML, HTML5, 儿童, 儿童, 体育, 运动, 网球
+- 标签: 游戏, 网页游戏, HTML, HTML5, 儿童, 儿童, 运动, 体育, 网球

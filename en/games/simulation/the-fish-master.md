@@ -19,6 +19,6 @@ The Fish Master is fun addictive hyper casual game. Catch as many fishes as you 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Fish, Fishing, Hypercasual

@@ -19,6 +19,6 @@ Ino Valentines 2 is a 2D romantic platformer where you play as an anime boy who 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Candy, Collecting, Girl, jump, Jumping, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Candy, Collecting, Girl, jump, jumping, pixel, Platform, retro

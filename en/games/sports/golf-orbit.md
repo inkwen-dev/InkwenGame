@@ -71,4 +71,4 @@ A: From the first moments of the game, you'll immediately understand how to play
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Ball, Boys, easy, Golf, Physics, Sports
+- Tags: Ball, Boys, easy, golf, Physics, sports

@@ -21,4 +21,4 @@ This is a memory game in which the player must match the 16 cards according math
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Clicker, Math, Number, Puzzle
+- Tags: 1 Player, Clicker, math, Number, Puzzle

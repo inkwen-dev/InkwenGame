@@ -19,6 +19,6 @@ You are a city ambulance driver, & you have to prove yourself an amazing city am
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Car, Driving, HTML5, Simulator, WebGL

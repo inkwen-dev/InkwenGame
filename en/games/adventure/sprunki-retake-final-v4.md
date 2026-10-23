@@ -21,4 +21,4 @@ Sprunki Retake: Your Soundtrack to Stardom Lights, Camera, Action! Enter Sprunki
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boxing, Music, Sprunki
+- Tags: Boxing, music, Sprunki

@@ -21,4 +21,4 @@ Are you ready to become a punch man? Punch them all and get rid of your frustrat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting
+- Tags: Fight, fighting

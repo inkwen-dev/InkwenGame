@@ -21,4 +21,4 @@ Welcome to the duel tournament of martial arts! 17 martial arts masters from dif
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, Battle, Fight, Fighting, Street Fighting
+- Tags: 2 Player, 2 Player Games, 3D, battle, Fight, fighting, Street Fighting

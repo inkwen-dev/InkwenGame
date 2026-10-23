@@ -21,4 +21,4 @@ Shoot'n'Shout Turbo 是一款动作平台游戏，你需要考验自己的瞄准
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩, 儿童, 平台, 射击, 技巧
+- 标签: 男孩们, 儿童, 平台, 射击, 技巧

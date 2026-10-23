@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, 躲避, 汽车, 收集, HTML, HTML5, 竞速, 赛车, 放松, 技巧, 超级跑车
+- 标签: .io, 躲避, 汽车, 收集, HTML, HTML5, 比赛, 竞速, 放松, 技巧, 超跑

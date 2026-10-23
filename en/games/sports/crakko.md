@@ -21,4 +21,4 @@ Crakko is a game where player run of a circular path and has to jump over a lot 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Clicker, Jumping, Sport
+- Tags: Casual, Clicker, jumping, Sport

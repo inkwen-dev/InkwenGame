@@ -19,6 +19,6 @@ The increased difficulty! Now only the best succeed! Join this amazing new adven
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Best, Casual, Cat, Girls, Helicopter, Hot, HTML5, Hypercasual, Kids, Mobile, Online
+- Tags: Action, Adventure, Arcade, Best, Casual, Cat, Girls, helicopter, Hot, HTML5, Hypercasual, Kids, Mobile, Online

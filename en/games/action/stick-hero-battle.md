@@ -21,4 +21,4 @@ Stick Hero Battle is a fast-paced and explosive action fighting game that throws
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: attack, Battle, Stickman, Superhero
+- Tags: attack, battle, stickman, Superhero

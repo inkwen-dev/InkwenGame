@@ -19,6 +19,6 @@ Enjoy a juicy adventure with Fruit Match, a fun and colorful puzzle game! Match 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fruits, Match 3, Puzzle

@@ -19,6 +19,6 @@ Play as a shadow karate master. Use all the Karate's katas, the KARATE-DO in thi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Classic, Fight, Fighting, Gun, Kart, Kid, Kids, Kill, Killing, Ninja, Ninjago, Punch, Skill, Skills, Street Fighting, Zombie
+- Tags: Classic, Fight, fighting, Gun, Kart, Kid, Kids, Kill, Killing, ninja, Ninjago, Punch, Skill, Skills, Street Fighting, Zombie

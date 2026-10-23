@@ -21,4 +21,4 @@ Beat all the opponents. Become the fighting champion of the rings and streets.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting, Street Fighting
+- Tags: Fight, fighting, Street Fighting

@@ -19,6 +19,6 @@ I am the ninja is an intense platformer, Unleash your ninja powers with new and 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Jumping, kiz10, Ninja
+- Tags: Adventure, jumping, kiz10, ninja

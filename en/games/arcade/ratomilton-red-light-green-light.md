@@ -21,4 +21,4 @@ Step into the world of Ratomilton Red Light Green Light, a thrilling game of act
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Hunting, Hypercasual, Pirate, squidgame
+- Tags: hunting, Hypercasual, Pirate, squidgame

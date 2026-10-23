@@ -21,4 +21,4 @@ Tile Mahjong is a fun tile connect matching game! Casual and Fun! The aim of the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mahjong, Match 3, Mobile, Puzzle
+- Tags: mahjong, Match 3, Mobile, Puzzle

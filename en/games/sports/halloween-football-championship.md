@@ -19,6 +19,6 @@ Halloween Football Championship is a supernatural 3D soccer showdown! Lead zombi
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Halloween, Zombie

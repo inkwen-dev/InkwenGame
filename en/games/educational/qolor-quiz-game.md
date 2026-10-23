@@ -21,4 +21,4 @@ Test your knowledge and challenge yourself with this fun and engaging quiz game!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Brain, Girls, Punch, Quiz, Strategy
+- Tags: Boys, Brain, Girls, Punch, Quiz, strategy

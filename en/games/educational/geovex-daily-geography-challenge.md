@@ -33,4 +33,4 @@ Compete in the 10-round Daily Challenge to build your daily streak and share you
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Educational, trivia
+- Tags: educational, trivia

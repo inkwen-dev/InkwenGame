@@ -19,6 +19,6 @@ Smash barriers, dodge giant traps and reach the finish in a car that can fall ap
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, destruction, Driving, Obstacle, Physics, Stunts

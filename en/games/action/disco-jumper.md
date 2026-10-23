@@ -21,4 +21,4 @@ Jump on the right dancefloors and keep on jumping, otherwise comes the DanceBear
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Android, endless, Jumping, Platform, running
+- Tags: 1 Player, 3D, Action, Android, endless, jumping, Platform, running

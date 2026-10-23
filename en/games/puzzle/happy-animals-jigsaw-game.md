@@ -19,6 +19,6 @@ This is jigsaw game with cute animals. You can play from 4 up to 24 pieces in im
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Jigsaw, Puzzle

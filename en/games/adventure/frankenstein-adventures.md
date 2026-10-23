@@ -21,4 +21,4 @@ Frankenstein adventures This is a game that uses ingenuity and calculation to ov
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Math, Skills
+- Tags: Click, math, Skills

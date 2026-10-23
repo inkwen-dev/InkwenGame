@@ -21,4 +21,4 @@ The Teen Patti Match 3 Puzzle online game is a fun and challenging way to test y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casual, Game, Games, HTML, HTML5, Hypercasual, Match 3, Match3, Matching, Puzzle
+- Tags: card, Casual, Game, Games, HTML, HTML5, Hypercasual, Match 3, Match3, Matching, Puzzle

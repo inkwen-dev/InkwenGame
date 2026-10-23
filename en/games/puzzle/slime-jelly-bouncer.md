@@ -21,4 +21,4 @@ Jelly Bouncer is a fun and addictive arcade game where you control an adorable g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ai Games, Bounce, Click, jump, Jumping, mapi games, Puzzle
+- Tags: Ai Games, Bounce, Click, jump, jumping, mapi games, Puzzle

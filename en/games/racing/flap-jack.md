@@ -21,4 +21,4 @@ Flap Jack is a fun adventure game with lots of obstacles and fun. Our little jac
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: endless, jump, Jumping, Race, Racing
+- Tags: endless, jump, jumping, Race, Racing

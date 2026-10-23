@@ -28,4 +28,4 @@ Deploy brave soldiers, powerful towers, and devastating weapons to stop waves of
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Shooting, Strategy, Tower Defense, War
+- Tags: Action, Shooting, strategy, Tower Defense, War

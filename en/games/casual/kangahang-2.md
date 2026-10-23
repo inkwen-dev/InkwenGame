@@ -15,6 +15,6 @@ Join Kanga on a wild puzzle-solving adventure combining word challenges and witt
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Word
+- Tags: word

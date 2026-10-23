@@ -21,4 +21,4 @@ Connect The Satellite is an engaging puzzle game set in the vastness of space. P
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2048, 2D, 3D Games, Action, Air, Baby Games, Battlegrounds, Best Games, city, Crazy
+- Tags: 1 Player, 2048, 2D, 3D Games, Action, Air, Baby Games, Battlegrounds, Best Games, city, crazy

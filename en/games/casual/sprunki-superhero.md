@@ -19,6 +19,6 @@ Enjoy the Sprunki World with this new SuperHero game. Immerse yourself in the be
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: kiz10, Levels, Music, Superhero
+- Tags: kiz10, Levels, music, Superhero

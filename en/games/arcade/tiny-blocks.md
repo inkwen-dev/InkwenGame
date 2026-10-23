@@ -19,6 +19,6 @@ Collect the same color blocks by touching or clicking on them. Bigger groups wil
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Block, Matching, Puzzle
+- Tags: 1 Player, Arcade, block, Matching, Puzzle

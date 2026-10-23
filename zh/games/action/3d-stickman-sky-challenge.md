@@ -21,4 +21,4 @@ A D 左右 空格键 跳跃
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D 游戏, 跑, 跑步, Stickman, Unity3D, WebGL
+- 标签: 3D游戏, 跑, 奔跑, 木偶人, Unity3D, WebGL

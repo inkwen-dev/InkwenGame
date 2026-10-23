@@ -21,4 +21,4 @@ Correct Math is a mathematical game where you can test your knowledge in additio
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Clicker, Kids, Math, Number, Puzzle
+- Tags: Brain, Clicker, Kids, math, Number, Puzzle

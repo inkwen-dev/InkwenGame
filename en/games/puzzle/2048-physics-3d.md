@@ -21,4 +21,4 @@ A fun and simple casual game that aims to score as many points as possible by fo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Block, Boy, Boys, Fun, Girl, Girls, HTML, HTML5, Kids, Match 3, Math, Number, Relaxation
+- Tags: 1 Player, 3D, block, Boy, Boys, Fun, Girl, Girls, HTML, HTML5, Kids, Match 3, math, Number, Relaxation

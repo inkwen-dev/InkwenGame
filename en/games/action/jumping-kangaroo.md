@@ -19,6 +19,6 @@ Jumping Kangaroo Jump don't fall Jump by clicking on the screen on the phone and
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Funny, Jumping, running
+- Tags: 1 Player, Funny, jumping, running

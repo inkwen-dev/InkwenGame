@@ -21,4 +21,4 @@ Help the Ninja to jump over the platforms and reach home. Fun and addictive game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, endless, jump, Jumping, Ninja, running
+- Tags: Casual, endless, jump, jumping, ninja, running

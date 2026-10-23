@@ -19,6 +19,6 @@ The Unravel Eggs is an HTML5 logic puzzle game with a minimalistic clear design.
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, 2D, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Puzzle

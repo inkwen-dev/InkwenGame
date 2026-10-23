@@ -21,4 +21,4 @@ Greedy Cats Jumper is fun, top free jump game in which you jump from one platfor
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cat, jump, Jumping
+- Tags: Cat, jump, jumping

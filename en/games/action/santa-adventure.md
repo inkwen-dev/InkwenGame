@@ -19,6 +19,6 @@ Santa Claus is on new adventure. He need to collect gifts for next Christmas. He
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Christmas, Collecting, Game, Kids, Obstacle, Platform, Puzzle

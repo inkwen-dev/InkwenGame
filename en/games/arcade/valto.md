@@ -19,6 +19,6 @@ Valto is a html5 jumper game, jump and collect more star
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Boys, Casual, HTML5, jump, Jumping, Obstacle
+- Tags: 1 Player, 2D, Arcade, Boys, Casual, HTML5, jump, jumping, Obstacle

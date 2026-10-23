@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: HTML5游戏, 移动设备, 购物, 技巧, 分类, 整理
+- 标签: HTML5游戏, 移动设备, 购物, 技巧, 排序, 整理

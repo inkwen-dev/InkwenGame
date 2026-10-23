@@ -19,6 +19,6 @@ Get ready for a wild adventure in Animal Traffic Run! In this fast-paced mobile 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Animal, Arcade, Strategy, Traffic
+- Tags: Adventure, Animal, Arcade, strategy, Traffic

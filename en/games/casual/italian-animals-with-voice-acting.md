@@ -19,6 +19,6 @@ All Italian animals and their original sounds are here! In the game, you can ope
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, amazing, Animal, Best, Best Games, Brainrot, Brainrot Italian, Casual, Click, Clicker, Game, Games, Italian Brainrot

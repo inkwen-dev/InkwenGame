@@ -15,6 +15,6 @@ Unleash your inner puzzle master in Jigsaw Surprise, where every carefully hidde
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: jigsaw-puzzles

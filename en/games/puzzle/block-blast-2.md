@@ -21,4 +21,4 @@ Fill the empty tiles by using different blocks. Make sure to use your puzzle ski
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Candy, Skill, Skills
+- Tags: block, Candy, Skill, Skills

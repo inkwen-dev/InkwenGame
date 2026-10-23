@@ -19,6 +19,6 @@ Ninja Rian Adventure is a skill and adventure game. To defeat Dracula, who kidna
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Casual, HTML5, Hypercasual, Ninja, Platform
+- Tags: Action, Adventure, Casual, HTML5, Hypercasual, ninja, Platform

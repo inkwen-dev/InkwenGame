@@ -19,6 +19,6 @@ Welcome to the hospital for children, where medicine meets kindness. You can bec
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Casual, Doctor, Educational, Fun, Girl, Girls, H5, HTML5, Hypercasual
+- Tags: Boy, Boys, Casual, Doctor, educational, Fun, Girl, Girls, H5, HTML5, Hypercasual

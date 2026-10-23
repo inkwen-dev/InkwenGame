@@ -19,6 +19,6 @@ Get ready to make Olli fly in this addictive game. The lovable round elephant kn
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, Adventure, Arcade, Games, Hypercasual, Obstacle, Play, Strategy
+- Tags: .io Games, 1 Player, Adventure, Arcade, Games, Hypercasual, Obstacle, Play, strategy

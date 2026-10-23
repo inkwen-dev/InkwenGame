@@ -21,4 +21,4 @@ Sprunki 找出5处不同是一款有趣且免费的在线游戏，带有可爱�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩, 大脑, 差异, HTML5, 超休闲, 儿童, 益智, Sprunki
+- 标签: 男孩们, 大脑, 找不同, HTML5, 超休闲, 儿童, 益智, 斯普朗基

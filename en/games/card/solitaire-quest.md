@@ -21,4 +21,4 @@ Solitaire Quest is a classic and relaxing card game that challenges you to organ
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Card, Fun, Hypercasual, Kids, Logic, Puzzle, Skill
+- Tags: Brain, card, Fun, Hypercasual, Kids, Logic, Puzzle, Skill

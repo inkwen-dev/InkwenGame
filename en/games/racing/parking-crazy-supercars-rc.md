@@ -21,4 +21,4 @@ Online, open-world, next-generation visuals, and a realistic automobile parking 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Car, Driving, Parking, Unity3D, WebGL
+- Tags: 1 Player, Car, Driving, parking, Unity3D, WebGL

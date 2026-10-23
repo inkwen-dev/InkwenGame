@@ -21,4 +21,4 @@ Monster Match Master is an online puzzle match 3 game that is perfect for player
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Game, Games, HTML5, Match 3, Match3, Matching, Monster, Puzzle
+- Tags: Arcade, Game, Games, HTML5, Match 3, Match3, Matching, monster, Puzzle

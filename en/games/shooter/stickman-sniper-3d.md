@@ -21,4 +21,4 @@ Call the best shooter, the guns are ready to action! Play now Stickman Sniper 3D
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Shoot, Shoot 'Em Up, Shooter, Shooting, Sniper, Stickman
+- Tags: Shoot, Shoot 'Em Up, Shooter, Shooting, sniper, stickman

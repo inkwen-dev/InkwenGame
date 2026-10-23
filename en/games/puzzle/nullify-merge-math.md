@@ -30,4 +30,4 @@ Features:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, Logic, Math, merge, Mobile, Number, Puzzle
+- Tags: Brain, educational, Logic, math, merge, Mobile, Number, Puzzle

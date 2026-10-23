@@ -19,6 +19,6 @@ Airplanes Coloring Book includes 16 different images of airplanes that kids can 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Color, Coloring, Educational, Flight, Fun, HTML5, Kids, Mobile, Plane, Skill
+- Tags: Arcade, Color, Coloring, educational, flight, Fun, HTML5, Kids, Mobile, Plane, Skill

@@ -21,4 +21,4 @@ Number Domination is a turn-based strategy card game where players compete to cl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, blockchain, Board, Card, Mobile, Number
+- Tags: 2 Player Games, blockchain, Board, card, Mobile, Number

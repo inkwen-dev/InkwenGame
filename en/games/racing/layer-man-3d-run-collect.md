@@ -21,4 +21,4 @@ Ready for an exciting running adventure in Layer Man 3D: Run Collect! Here, you 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Stickman
+- Tags: Adventure, stickman

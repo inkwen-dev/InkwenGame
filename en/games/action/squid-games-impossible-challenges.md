@@ -21,4 +21,4 @@ All players are poor and want money for their future and present life. Don't get
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Boy, Boys, Fire, Girl, Girls, jump, Jumping, Police, Race, run, running, Stealth, Unity3D
+- Tags: 3D, 3D Games, Action, Boy, Boys, Fire, Girl, Girls, jump, jumping, police, Race, run, running, Stealth, Unity3D

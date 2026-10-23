@@ -19,6 +19,6 @@ Minecraft World Adventure is fun and addicting online game suitable for all ages
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Avoid, Collecting, fly, HTML5, Hypercasual, Kids, Minecraft, Mobile, Skill

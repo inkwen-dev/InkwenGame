@@ -19,6 +19,6 @@ Hidden Words Challenge is a super fun HTML5 Word Game available to play online f
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Fun, HTML5, Kids, Letters, Mobile, Puzzle, Skill, Word
+- Tags: Android, Arcade, Fun, HTML5, Kids, Letters, Mobile, Puzzle, Skill, word

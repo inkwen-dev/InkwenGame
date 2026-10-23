@@ -19,6 +19,6 @@ URBAN JUMP is a fast-paced, gritty, and unforgiving arcade platformer where only
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Adventure, amazing, Arcade, Best, Crazy, Funny, Highscore, jump, Jumping, painting, Platform
+- Tags: 1 Player, 2026 games, 2D, Adventure, amazing, Arcade, Best, crazy, Funny, Highscore, jump, jumping, painting, Platform

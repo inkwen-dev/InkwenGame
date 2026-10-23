@@ -21,4 +21,4 @@ Once in front of the goal, time your shot to score!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 2 Player, 2 Player Games, Sports
+- Tags: .io, 2 Player, 2 Player Games, sports

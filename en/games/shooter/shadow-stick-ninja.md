@@ -61,4 +61,4 @@ Plan your moves, try bold ideas, and enjoy every physics-based takedown.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: archery, Ninja, Skill
+- Tags: archery, ninja, Skill

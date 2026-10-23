@@ -21,4 +21,4 @@ Guess the word in common for 4 images. Can you find it?
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Brain, Guessing, Puzzle, Quiz, Word
+- Tags: Animal, Brain, Guessing, Puzzle, Quiz, word

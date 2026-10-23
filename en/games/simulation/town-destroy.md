@@ -19,6 +19,6 @@ Town Destroy is a difficult game that can be played by people who have a lot of 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Bomb, Game, HTML5, Hypercasual, Management, Minecraft, Skills
+- Tags: .io Games, Bomb, Game, HTML5, Hypercasual, management, Minecraft, Skills

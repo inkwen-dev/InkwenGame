@@ -21,4 +21,4 @@ Poppy Playtime 拼图是一款有趣的在线拼图游戏。使用鼠标将拼�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 最佳, 乐趣, 搞笑, 拼图, 儿童, 移动设备, 怪物, 技巧
+- 标签: 最佳, 有趣, 搞笑, 拼图, 儿童, 移动设备, monster, 技巧

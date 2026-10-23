@@ -21,4 +21,4 @@ Build a city by placing roads, train tracks and rivers while playing tri peaks s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Best, Card, Casual, city, Management, Road, Solitaire, Traffic, Train
+- Tags: Android, Best, card, Casual, city, management, Road, solitaire, Traffic, Train

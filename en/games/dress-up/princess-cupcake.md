@@ -19,6 +19,6 @@ Ariel, Tiana and Elsa are very fond of baking cakes. They bake cakes to all thei
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Cake, Disney, Dress Up, Elsa, Frozen, Princess

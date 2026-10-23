@@ -19,6 +19,6 @@ Cinderella goes to the ball, where she will meet a handsome Prince. Before such 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Action, Adventure, Anime, Arcade, Best, Boys, Cartoon, Dress Up, Fashion, Fun, Girl, Girls, Hot, HTML5, Mobile, Princess

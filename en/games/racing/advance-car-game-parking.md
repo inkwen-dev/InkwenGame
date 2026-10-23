@@ -19,6 +19,6 @@ Snow Car Parking Game is a fun and challenging 3D driving game where you test yo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Car, carparking, Police
+- Tags: Action, Adventure, Car, carparking, police

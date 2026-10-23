@@ -21,4 +21,4 @@ If you like to pop the bubbles, then this is the right place for all bubble empi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Air, Boy, Boys, Collection, Creation, Decoration, Educational, Fashion, Girl, Girls, Relaxation, Simulation
+- Tags: .io, .io Games, Action, Air, Boy, Boys, Collection, Creation, Decoration, educational, Fashion, Girl, Girls, Relaxation, Simulation

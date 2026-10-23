@@ -21,4 +21,4 @@ Welcome to the adrenaline-pumping world of Skibidi-Pocalypse, where driving skil
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Car, Driving, Skibidi, Skibidi Toilet, Unity3D, WebGL
+- Tags: Adventure, Arcade, Car, Driving, Skibidi, skibidi-toilet, Unity3D, WebGL

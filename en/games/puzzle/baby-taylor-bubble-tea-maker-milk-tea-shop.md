@@ -19,6 +19,6 @@ Did you mention bubble tea? Bubble tea has become one of the most popular drinks
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Best, Bubble, Cooking, Educational, Family, Fun, Girl, Girls
+- Tags: 1 Player, 2D, Best, Bubble, Cooking, educational, Family, Fun, Girl, Girls

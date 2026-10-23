@@ -21,4 +21,4 @@ Racing Motorcycles Memory is puzzle game from genre of memory games. Test your m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Memory, Motorcycle, Puzzle
+- Tags: bike, memory, Motorcycle, Puzzle

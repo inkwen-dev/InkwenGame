@@ -19,6 +19,6 @@ An exciting game of speed and reaction in which you have to kill the impostors a
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, 2D, Action, Arcade, Avoid, Boy, Boys, Brawl, Clicker, cut, Defense, endless, Fight, Fighting, Fun, Funny, Game, Games, Girl, Girls, Gun, Highscore, HTML, HTML5, Hypercasual, Interactive, Kid, Kids, Kill, Killing, Monster, Music, Platform, Play, Punch, Relaxation, Rhythm, run, running, Shoot, Shoot 'Em Up, Shooter, Shooting, Slicing, Spaceship
+- Tags: .io, 1 Player, 2D, Action, Arcade, Avoid, Boy, Boys, Brawl, Clicker, cut, Defense, endless, Fight, fighting, Fun, Funny, Game, Games, Girl, Girls, Gun, Highscore, HTML, HTML5, Hypercasual, Interactive, Kid, Kids, Kill, Killing, monster, music, Platform, Play, Punch, Relaxation, Rhythm, run, running, Shoot, Shoot 'Em Up, Shooter, Shooting, Slicing, Spaceship

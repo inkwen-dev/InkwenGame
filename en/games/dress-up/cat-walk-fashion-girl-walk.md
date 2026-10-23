@@ -21,4 +21,4 @@ Do you want that dress? All you have to do is say yes! Customers are lining up a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adult, Boy, Boys, bus, Business, Car, Cars, Fashion, Girl, Girls, gta, Helicopter, Love, Truck, Unity3D
+- Tags: 3D, 3D Games, Adult, Boy, Boys, bus, Business, Car, Cars, Fashion, Girl, Girls, gta, helicopter, Love, truck, Unity3D

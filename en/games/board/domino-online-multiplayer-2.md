@@ -21,4 +21,4 @@ Do you like strategy, excitement and duel battles? You will find different modes
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Board, Boy, Brain, Classic, Logic, Memory, Multiplayer, Puzzle, PvP
+- Tags: 2 Player, Board, Boy, Brain, Classic, Logic, memory, Multiplayer, Puzzle, PvP

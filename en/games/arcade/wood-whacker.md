@@ -19,6 +19,6 @@ Welcome to Wood Whacker, where your lumberjack skills are put to the test as you
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, HTML, HTML5, mapi games

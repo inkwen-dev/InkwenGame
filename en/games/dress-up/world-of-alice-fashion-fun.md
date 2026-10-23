@@ -21,4 +21,4 @@ World of Alice - Fashion fun is a game developed for children in which they can 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Games, Cute, Dress Up, Educational, Fashion, Fun, Funny, HTML5, Kids, Mobile
+- Tags: Baby Games, Cute, Dress Up, educational, Fashion, Fun, Funny, HTML5, Kids, Mobile

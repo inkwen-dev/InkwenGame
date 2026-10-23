@@ -21,4 +21,4 @@ Taylor is a girl who likes dessert very much. Her favorite is ice cream. Today, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cleaning, Cooking, Doctor, Dress Up, Educational, Food, Girl, Girls, Kids, Simulation, Surgery
+- Tags: Baby, Cleaning, Cooking, Doctor, Dress Up, educational, Food, Girl, Girls, Kids, Simulation, surgery

@@ -19,6 +19,6 @@ Quiz Squid Game is a trivia-style game to see if the player has paid attention t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Blood, Brain, Casual, Family

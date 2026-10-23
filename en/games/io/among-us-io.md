@@ -21,4 +21,4 @@ Prepare for a fun-filled adventure with one of the most well-known characters as
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2 Player, 3D, Battle, Cartoon, HTML5
+- Tags: .io, .io Games, 2 Player, 3D, battle, Cartoon, HTML5

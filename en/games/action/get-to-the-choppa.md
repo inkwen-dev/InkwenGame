@@ -21,4 +21,4 @@ A fun and simple game designed specifically for you to relax and unwind. Enter t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, city, H5, HTML, HTML5, Kill, Killing, Police, run, running, Stickman
+- Tags: Action, Adventure, city, H5, HTML, HTML5, Kill, Killing, police, run, running, stickman

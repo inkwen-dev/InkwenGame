@@ -21,4 +21,4 @@ Test your reflexes and precision in this addictive knife throwing game! Your goa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Mobile, Pixel
+- Tags: 1 Player, Mobile, pixel

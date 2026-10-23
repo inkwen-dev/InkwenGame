@@ -21,4 +21,4 @@ Real Car Parking : Parking Master has realistic driving experience which will ta
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Arcade, Army, Bike, Cake, Candy, Car, Cars, Ever After High, Family, Parking, Spiderman, Stickman, Supercars, Taxi, Truck, Vampire
+- Tags: 8 Ball Pool, Arcade, Army, bike, Cake, Candy, Car, Cars, Ever After High, Family, parking, Spiderman, stickman, Supercars, Taxi, truck, Vampire

@@ -21,4 +21,4 @@ The Metal Army War challenge isn't over yet! While the heroes who have protected
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Battle, War
+- Tags: 2 Player, 2 Player Games, battle, War

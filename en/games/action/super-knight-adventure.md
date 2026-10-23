@@ -19,6 +19,6 @@ You in the game Super Knight Adventure will help your hero in this adventure. Yo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Collecting, Fighting, Knight, Platform, Skill, Superhero
+- Tags: 1 Player, 2D, Collecting, fighting, knight, Platform, Skill, Superhero

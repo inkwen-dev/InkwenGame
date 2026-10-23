@@ -19,6 +19,6 @@ GTA style game is here, driving cars, stealing cars, collect money, kill pedestr
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Car, Cars, drift, drifting, Driving, gta, Parking, Race, Racing, Supercars, Unity3D, WebGL
+- Tags: 3D, 3D Games, Car, Cars, drift, drifting, Driving, gta, parking, Race, Racing, Supercars, Unity3D, WebGL

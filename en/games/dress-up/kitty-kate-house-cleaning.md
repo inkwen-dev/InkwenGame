@@ -21,4 +21,4 @@ This game will make you feel like cleaning is not a chore but a fun activity. Wi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cleaning, Cooking, Cute, Decorate, Dress Up, Educational, Fashion, Girl, Girls, Kids, Makeover, Simulation
+- Tags: Animal, Cleaning, Cooking, Cute, Decorate, Dress Up, educational, Fashion, Girl, Girls, Kids, Makeover, Simulation

@@ -19,6 +19,6 @@ Welcome to Tour Traffic Jam Cars Puzzle Match 3 Gam, You need to help the pedest
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adult, Baby, Baby Hazel, Boy, Car, Cars, Girl, HTML, HTML5, Match 3, Match3, Matching, New, Puzzle, Racing, Traffic, WebGL

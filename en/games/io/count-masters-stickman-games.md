@@ -19,6 +19,6 @@ Choose the best gate, pass through it, and bring stickman warriors together to c
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D Games, Collection, running, Stickman
+- Tags: .io Games, 3D Games, Collection, running, stickman

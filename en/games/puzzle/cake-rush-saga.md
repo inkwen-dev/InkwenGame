@@ -19,6 +19,6 @@ Cake Rush Saga is puzzle Match game with colorful and beautiful graphics, collec
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Cake, Candy, Casual, Hypercasual, Match 3, Matching

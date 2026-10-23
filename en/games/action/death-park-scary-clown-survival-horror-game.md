@@ -19,6 +19,6 @@ You like to defeat ghost by running away from them . do you like horror movies a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adult, Adventure, Alien, Avoid, Best, Bomb, Cool, Escape, Family, Fun, HTML, HTML5, jump, Jumping, Killing, run, running, WebGL, Zombie
+- Tags: Action, Adult, Adventure, Alien, Avoid, Best, Bomb, cool, Escape, Family, Fun, HTML, HTML5, jump, jumping, Killing, run, running, WebGL, Zombie

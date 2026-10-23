@@ -21,4 +21,4 @@ Image Box is an engaging and challenging puzzle game designed to test your spati
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, 2D, Best Games, Brain, Mind, Puzzle, Strategy
+- Tags: 1 Player, 2025 games, 2D, Best Games, Brain, Mind, Puzzle, strategy

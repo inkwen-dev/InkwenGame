@@ -21,4 +21,4 @@ Sprunki Mustard All Phases is an action-packed platformer that takes you on a wi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Hypercasual, kiz10, Level, Music
+- Tags: Hypercasual, kiz10, Level, music

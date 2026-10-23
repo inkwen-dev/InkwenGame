@@ -19,6 +19,6 @@ Welcome to the Squid Prison Games. 10 levels to survive. Earn money by passing l
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Escape, Funny, running, WebGL

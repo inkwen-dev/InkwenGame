@@ -19,6 +19,6 @@ Snake and Ladders is popular paper game, and now you can play online alone, or w
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Puzzle, Snake
+- Tags: 2 Player, Puzzle, snake

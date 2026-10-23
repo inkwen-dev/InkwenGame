@@ -21,4 +21,4 @@ Fidget Spinner.io 是一款您可以免费玩的在线游戏。Fidget Spinner.io
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io游戏, Android, 街机, 避开, 收集, 乐趣, 游戏, HTML5, 儿童
+- 标签: .io, .io 游戏, 安卓, 街机, 躲避, 收集, 有趣, 游戏, HTML5, 儿童

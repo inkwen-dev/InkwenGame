@@ -21,4 +21,4 @@ Goal.io &ndash; Score Big in This Free Football IO Game Online Looking for a fas
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Sports
+- Tags: .io Games, sports

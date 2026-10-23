@@ -19,6 +19,6 @@ The Hugli Wugli brothers are lost in the castle, and in the first game of the se
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 2D, Arcade, Boys, Cute, Girl, huggy, Kids, Platform, Poppy Playtime

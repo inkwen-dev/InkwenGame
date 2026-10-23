@@ -19,6 +19,6 @@ Christmas Trucks Hidden Gifts is a game where you have to find the ten hidden gi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Hidden, Puzzle, Truck
+- Tags: Christmas, Hidden, Puzzle, truck

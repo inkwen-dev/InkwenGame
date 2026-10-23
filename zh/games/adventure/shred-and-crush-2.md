@@ -21,4 +21,4 @@ WASD - 移动 左键 - 攻击 空格键 - 跳跃 P - 暂停 1 左键 2 左键 3 
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 击杀, 杀人, 骑士, 怪物, 角色扮演, 剑, 吸血鬼, 武器, WebGL
+- 标签: 冒险, 杀戮, 击杀, knight, monster, rpg, 剑, 吸血鬼, 武器, WebGL

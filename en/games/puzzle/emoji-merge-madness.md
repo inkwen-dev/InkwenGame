@@ -19,6 +19,6 @@ Merge identical emoji to evolve them into crazy new forms! Discover all 30 emoji
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Brain, Casual, Pixel, Puzzle
+- Tags: 1 Player, Brain, Casual, pixel, Puzzle

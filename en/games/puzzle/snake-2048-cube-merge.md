@@ -21,4 +21,4 @@ This game is an exciting combination of the classic Snake mechanics and the popu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2 Player Games, 2048, Action, attack, battleship, Brainrot Italian, Cartoon, Cartoon Network, destroy, Minecraft, roblox, Snake
+- Tags: .io, .io Games, 2 Player Games, 2048, Action, attack, battleship, Brainrot Italian, Cartoon, Cartoon Network, destroy, Minecraft, roblox, snake

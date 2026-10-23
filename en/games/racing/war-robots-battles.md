@@ -21,4 +21,4 @@ Enter the future battlefield, and lead your powerful robots in exciting battles.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Car, Robot, Sword
+- Tags: battle, Car, Robot, sword

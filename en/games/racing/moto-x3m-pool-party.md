@@ -21,4 +21,4 @@ Moto X3M is an ultimate online bike racing game, which is very suitable for play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Moto, Racing
+- Tags: bike, Moto, Racing

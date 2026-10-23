@@ -19,6 +19,6 @@ Flip Dunk is a fun shooting game with you. In Flip Dunk, you have to shoot baske
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Android, Arena, Baseball, Best, Cartoon, Casual, endless, Fun, Funny, Games, Highscore, HTML5, Hypercasual, Kids, Mobile, Shooter, Shooting
+- Tags: Action, Android, Arena, baseball, Best, Cartoon, Casual, endless, Fun, Funny, Games, Highscore, HTML5, Hypercasual, Kids, Mobile, Shooter, Shooting

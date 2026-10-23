@@ -19,6 +19,6 @@ This is a casual freestyle football game. Bounce the ball as many times as you c
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Football, Soccer, Sport, Sports
+- Tags: Arcade, Football, Soccer, Sport, sports

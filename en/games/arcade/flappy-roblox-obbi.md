@@ -21,4 +21,4 @@ Flappy Roblox Obbi is an exciting obstacle course challenge where you guide a fl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Flight, HTML5, roblox
+- Tags: Clicker, flight, HTML5, roblox

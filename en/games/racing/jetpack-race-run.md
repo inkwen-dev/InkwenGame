@@ -19,6 +19,6 @@ Have you ever flown with a jetpack in the sky? Jetpack Race Run is not merely a 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Avoid, Mobile, Obstacle, Racing, Simulation, Stickman, WebGL
+- Tags: 3D, Arcade, Avoid, Mobile, Obstacle, Racing, Simulation, stickman, WebGL

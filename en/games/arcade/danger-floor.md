@@ -19,6 +19,6 @@ Platform game in which you have to dodge the lava, the brown floors become lava 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Classic, Family, Frozen, Mario, Mind, Miner, New, Obstacle, Planet
+- Tags: 1 Player, 2D, Adventure, Classic, Family, Frozen, mario, Mind, Miner, New, Obstacle, Planet

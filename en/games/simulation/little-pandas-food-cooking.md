@@ -21,4 +21,4 @@ Wonderful Food City is grandly opened. Let's go to taste and make food together 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cake, Candy, Cartoon, Cook, Cooking, Food, Fruit, Fun, Girls, HTML5, Kids, Mobile, Panda, Restaurant, Shopping
+- Tags: Animal, Cake, Candy, Cartoon, Cook, Cooking, Food, Fruit, Fun, Girls, HTML5, Kids, Mobile, Panda, restaurant, Shopping

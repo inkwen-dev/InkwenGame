@@ -19,6 +19,6 @@ Get ready in this epic prison escape Survival mission. You will have to use all 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Escape, Fight, HTML5, Prison, WebGL

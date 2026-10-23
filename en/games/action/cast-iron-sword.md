@@ -21,4 +21,4 @@ This is a leisure game that can fully relieve the pressure of your daily life. I
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Boy, Boys, Casual, Fun, Funny, Game, Games, Girl, Girls, H5, HTML, HTML5, Hypercasual, Kid, Kids, Mobile, Sword
+- Tags: 3D Games, Action, Boy, Boys, Casual, Fun, Funny, Game, Games, Girl, Girls, H5, HTML, HTML5, Hypercasual, Kid, Kids, Mobile, sword

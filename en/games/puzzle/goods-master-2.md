@@ -19,6 +19,6 @@ Goods Master is a relaxing sorting puzzle where your job is to tidy up the shelv
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, 2026 games, 3D, 3D Games, amazing, Brain, Casual, Levels, Logic, Matching, Mobile, Puzzle, sorting

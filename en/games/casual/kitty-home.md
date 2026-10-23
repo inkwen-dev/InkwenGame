@@ -19,6 +19,6 @@ Get ready for the cutest puzzle adventure in Kittys Way Home! Draw the perfect p
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Hello Kitty, Kid, Kids, unblockedgamesatschool

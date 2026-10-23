@@ -21,4 +21,4 @@ Do you like Puzzle games? Do you love Mario? If the answer is yes then you shoul
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bubble, Bubble Shooter, Mario, Super
+- Tags: Bubble, Bubble Shooter, mario, Super

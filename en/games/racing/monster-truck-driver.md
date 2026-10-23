@@ -19,6 +19,6 @@ Tired of cars? Try a monster truck, we can assure you that you will not regret. 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Simulation, Simulator, Truck, Unity3D, WebGL
+- Tags: Simulation, Simulator, truck, Unity3D, WebGL

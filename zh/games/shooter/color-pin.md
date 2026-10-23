@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 颜色, 涂色, 无尽, HTML, HTML5, 投篮, 时机
+- 标签: 颜色, 着色, 无尽, HTML, HTML5, 射击, 时机

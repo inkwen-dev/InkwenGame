@@ -19,6 +19,6 @@ The game is in the style of everyone's favorite tank shooting game and territory
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Best, Tank, Tanks, War
+- Tags: Action, Best, Tank, tanks, War

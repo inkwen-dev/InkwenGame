@@ -21,4 +21,4 @@ Haunted House Idle is a fun 3D idle arcade management game where you build and e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Casual, Halloween, Horror, idle, Management, Simulation
+- Tags: 3D, Casual, Halloween, Horror, idle, management, Simulation

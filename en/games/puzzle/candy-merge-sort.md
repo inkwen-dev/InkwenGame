@@ -19,6 +19,6 @@ Candy Merge Sort is a fun and relaxing puzzle game where you sort colorful candi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Candy, Collecting, Collection, Color, Coloring, Fun, Funny, Hypercasual, Puzzle, sort, sorting

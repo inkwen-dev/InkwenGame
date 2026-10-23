@@ -15,6 +15,6 @@ Battle fierce monsters in a thrilling duel as the Red Stickman. Engage in dynami
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Action

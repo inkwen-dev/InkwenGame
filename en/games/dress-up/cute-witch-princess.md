@@ -19,6 +19,6 @@ Everyone's favorite holiday is approaching - Halloween. What will the funny prin
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Celebrity, Cute, Decorate, Decoration, Design, Disney, Dress Up, Elsa, Fashion, Frozen, Girl, Girls, Hair, Halloween, Holiday, HTML5, Makeover, Princess, Witch

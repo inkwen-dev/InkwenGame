@@ -21,4 +21,4 @@ Its a really hot summer! Want some sweet frozen food? Eating ice cream on a hot 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cook, Cooking, Educational, Hypercasual
+- Tags: Cook, Cooking, educational, Hypercasual

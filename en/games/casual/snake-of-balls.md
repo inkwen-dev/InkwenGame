@@ -23,4 +23,4 @@ Chase a tricky snake in this thrilling online game! It speeds up and moves unpre
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Classic, Mobile, Multiplayer, Skill, Snake
+- Tags: Classic, Mobile, Multiplayer, Skill, snake

@@ -21,4 +21,4 @@ Crazy Chicks! Put your record in this addictive arcade!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Chicken, Clicker, Collecting, Crazy
+- Tags: Chicken, Clicker, Collecting, crazy

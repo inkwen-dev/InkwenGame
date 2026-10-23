@@ -21,4 +21,4 @@ Wild Girls Slot is THE ultimate, authentic, old downtown Vegas experience! With 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casino, Castle, Slot Machine
+- Tags: card, Casino, Castle, Slot Machine

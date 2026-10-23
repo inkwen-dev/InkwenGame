@@ -15,6 +15,6 @@ Embark on a festive adventure in Christmas Lollipop 2, a charming 2D platformer.
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: platformer

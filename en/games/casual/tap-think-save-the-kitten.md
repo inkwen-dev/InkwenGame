@@ -26,4 +26,4 @@ Download now and test your skills in the most addictive puzzle arcade game!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, Mobile, Snake
+- Tags: Clicker, Mobile, snake

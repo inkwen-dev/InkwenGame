@@ -19,6 +19,6 @@ You have already perfectly learned all the heroes of the world of Sonic, who are
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Arcade, Memory, Online, Puzzle
+- Tags: .io Games, Arcade, memory, Online, Puzzle

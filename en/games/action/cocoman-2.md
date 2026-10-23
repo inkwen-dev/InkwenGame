@@ -21,4 +21,4 @@ Cocoman 2 is a 2D cute little platformer where you have to collect bottles of co
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, jump, Jumping, Monster, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, jump, jumping, monster, pixel, Platform, retro

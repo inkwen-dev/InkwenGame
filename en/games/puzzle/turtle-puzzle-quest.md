@@ -19,6 +19,6 @@ Introducing Turtle Puzzle Quest: An Amazing and Fun Online Jigsaw Game for Kids!
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Animal, Arcade, Hypercasual, Jigsaw, Kids, Online, Puzzle, Skill

@@ -21,4 +21,4 @@ It is a very engaging, fun and challenging 2D platform game. With the style of b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Alien, Android, Arcade, Best, Boy, Boys, Chicken, Classic, Game, Ghost, HTML5, jump, Kids, Mario, Pixel, Platform, Skill
+- Tags: 1 Player, 2D, Action, Adventure, Alien, Android, Arcade, Best, Boy, Boys, Chicken, Classic, Game, Ghost, HTML5, jump, Kids, mario, pixel, Platform, Skill

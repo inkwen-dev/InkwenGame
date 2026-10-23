@@ -19,6 +19,6 @@ The Taxi Parking Challenge 2 game will reproduce the extreme conditions for car 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Best, Cars, Driving, HTML5, Mobile, Parking, Skill, Taxi
+- Tags: 1 Player, Best, Cars, Driving, HTML5, Mobile, parking, Skill, Taxi

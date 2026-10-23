@@ -54,4 +54,4 @@ treasure chest that opens every three wins.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Arcade, Math, runner, running, Skill
+- Tags: 3D, Action, Arcade, math, runner, running, Skill

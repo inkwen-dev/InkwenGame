@@ -21,4 +21,4 @@ Police Driving Vehicles Simulator puts you in the driver&rsquo;s seat of powerfu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, carparking, Driving, Mentolatux, Parking, Police, Truck, unity, WebGL
+- Tags: Car, carparking, Driving, Mentolatux, parking, police, truck, unity, WebGL

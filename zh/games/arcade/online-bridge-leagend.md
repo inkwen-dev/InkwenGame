@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 冒险, 街机, 桥梁, HTML, HTML5, 超休闲, 爱情, 在线, 公主, 益智
+- 标签: 动作, 冒险, 街机, 桥, HTML, HTML5, 超休闲, 爱情, 在线, 公主, 益智

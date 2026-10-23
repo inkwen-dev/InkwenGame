@@ -21,4 +21,4 @@ Connect 2 same fruit with a path that no more than two 90 degree angles. Clear t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fruit, Fruits, HTML5, Mahjong, Mobile
+- Tags: Fruit, Fruits, HTML5, mahjong, Mobile

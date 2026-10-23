@@ -21,4 +21,4 @@ ColorDock is a fast and satisfying color-matching puzzle where quick thinking me
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Block, blocky, Puzzle
+- Tags: Best Games, block, blocky, Puzzle

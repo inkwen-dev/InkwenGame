@@ -19,6 +19,6 @@ Friday Night Funkin is a music and rhythm game online . You have a very simple t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Games, Love, Music, Online, Puzzle
+- Tags: Arcade, Games, Love, music, Online, Puzzle

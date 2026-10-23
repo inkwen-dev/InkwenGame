@@ -19,6 +19,6 @@ Play a game of pool to have fun and enjoy and play with a friend, each one plays
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 8 Ball Pool, Ball, Best Games, Billiard, Casual, crash, Fun, Math
+- Tags: 2 Player, 8 Ball Pool, Ball, Best Games, Billiard, Casual, crash, Fun, math

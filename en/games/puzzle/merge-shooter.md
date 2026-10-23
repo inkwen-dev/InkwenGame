@@ -21,4 +21,4 @@ In Merge Shooter, defend the galaxy by merging turrets to fight off alien invade
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Casual, Strategy, Tower Defense
+- Tags: Action, Casual, strategy, Tower Defense

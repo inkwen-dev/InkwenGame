@@ -19,6 +19,6 @@ Find Words is the most addictive and exciting word game to TRAIN your mind. Tota
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Brain, Click, Clicker, Hot, HTML, HTML5, Hypercasual, Mind, Puzzle, Word
+- Tags: Best, Brain, Click, Clicker, Hot, HTML, HTML5, Hypercasual, Mind, Puzzle, word

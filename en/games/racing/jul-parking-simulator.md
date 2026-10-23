@@ -21,4 +21,4 @@ Jul Parking Simulator is a fun car parking simulation with multiple levels and a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Parking
+- Tags: Car, parking

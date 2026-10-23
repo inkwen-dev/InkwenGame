@@ -19,6 +19,6 @@ Skibidi toilet enemy is spawn from the ground and come to play, player have 2 gu
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Forest, Shooting, Skibidi, Skibidi Toilet, survival, Unity3D, WebGL
+- Tags: Forest, Shooting, Skibidi, skibidi-toilet, survival, Unity3D, WebGL

@@ -21,4 +21,4 @@ A super adventure full of action begins with Heads Mayhem! Eleven different funn
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, Arena, Battle, Gun, weapons
+- Tags: 1 Player, 2 Player, 2 Player Games, Arena, battle, Gun, weapons

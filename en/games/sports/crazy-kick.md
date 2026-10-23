@@ -21,4 +21,4 @@ Crazy Kick! is a funny soccer game. You are a soccer ball in this game. Your mis
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Avoid, Ball, Boy, Fruit, Fruits, Game, Games, Kid, Kids, Obstacle, Soccer, Sport, Sports, Stickman
+- Tags: 3D Games, Avoid, Ball, Boy, Fruit, Fruits, Game, Games, Kid, Kids, Obstacle, Soccer, Sport, sports, stickman

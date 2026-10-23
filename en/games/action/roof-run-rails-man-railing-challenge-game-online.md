@@ -21,4 +21,4 @@ Rail Run is a Sliding games with rails collection. It's a really Fun sliding on 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Best, Casual, Collecting, Hypercasual, jump, Jumping, New, run, running
+- Tags: Anime, Best, Casual, Collecting, Hypercasual, jump, jumping, New, run, running

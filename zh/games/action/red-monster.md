@@ -21,4 +21,4 @@ WASD移动 E键投掷车辆 X键使用特殊攻击 左右鼠标点击进行攻�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 城市, 怪兽
+- 标签: 城市, monster

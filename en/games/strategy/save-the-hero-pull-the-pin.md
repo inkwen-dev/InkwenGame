@@ -19,6 +19,6 @@ Get ready to fight with hero to save the treasure and princess. Pull pins and av
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Brain, Fantasy, Kid, Kids, Mind, Monster, Princess, Puzzle, Strategy, War
+- Tags: Action, Brain, Fantasy, Kid, Kids, Mind, monster, Princess, Puzzle, strategy, War

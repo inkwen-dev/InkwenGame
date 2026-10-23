@@ -17,4 +17,4 @@ Race against the clock in Breakfast Dash, where quick reflexes and sharp memory 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Restaurant
+- Tags: restaurant

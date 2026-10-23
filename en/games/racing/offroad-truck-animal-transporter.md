@@ -21,4 +21,4 @@ Experience the thrill of offroad trucking in Offroad Truck Animal Transporter. N
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Driving, Forest, Mentolatux, offroad, Simulator, transport, Truck, Unity3D, WebGL
+- Tags: Animal, Driving, Forest, Mentolatux, offroad, Simulator, transport, truck, Unity3D, WebGL

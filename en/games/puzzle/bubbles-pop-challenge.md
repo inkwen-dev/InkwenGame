@@ -21,4 +21,4 @@ Pop, pop, pop! Welcome to Bubbles Pop! Throw your bubbles and challenge yourself
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Dragon, RPG
+- Tags: Adventure, Dragon, rpg

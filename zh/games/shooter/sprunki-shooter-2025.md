@@ -21,4 +21,4 @@ Sprunki Shooter 2025 是一款免费的在线游戏，在色彩缤纷且充满�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 枪械, HTML5, 儿童, 移动, 射击, 射击, Sprunki
+- 标签: 3D, 枪械, HTML5, 儿童, 移动设备, 射击类, 射击, 斯普朗基

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 安卓, 最佳, 疯狂, 游戏, HTML, HTML5, 移动, 跑, 跑步, 技巧, Unity3D
+- 标签: 3D游戏, 安卓, 最佳, 疯狂, 游戏, HTML, HTML5, 移动设备, 跑, 奔跑, 技能, Unity3D

@@ -33,4 +33,4 @@ Each time the level will become more difficult, and the time to solve the level 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Kids, Monster
+- Tags: Kids, monster

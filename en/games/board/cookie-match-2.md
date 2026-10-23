@@ -19,6 +19,6 @@ Cookie Match is a sliding puzzle game where you must match each cookie to its co
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Block, Board, Hypercasual, Puzzle
+- Tags: 1 Player, block, Board, Hypercasual, Puzzle

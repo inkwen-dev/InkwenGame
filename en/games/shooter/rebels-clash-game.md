@@ -21,4 +21,4 @@ Rebels Clash is an online shooting game that features a 'Death Match' mode and a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Boys, Shooting
+- Tags: Action, battle, Boys, Shooting

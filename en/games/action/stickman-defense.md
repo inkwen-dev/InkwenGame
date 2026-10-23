@@ -21,4 +21,4 @@ Dive into the thrilling world of StickMan Defense, a captivating game where stra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Click, Defense, HTML5, iPad, iPhone, Mentolatux, Mobile, Stickman, WebGL
+- Tags: Android, Click, Defense, HTML5, iPad, iPhone, Mentolatux, Mobile, stickman, WebGL

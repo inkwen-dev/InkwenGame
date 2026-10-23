@@ -24,4 +24,4 @@ Your task is to find three successful ways to escape from prison. On Christmas D
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Christmas, Escape, Stickman
+- Tags: Christmas, Escape, stickman

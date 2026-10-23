@@ -19,6 +19,6 @@ Police Survival Racing is an online game that is full of excitement and adventur
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Game, Games, HTML5, Obstacle, Online, Race, Racing

@@ -21,4 +21,4 @@ A Jungle Math Online Game is a game that lets players explore and learn jungle m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Educational, Puzzle
+- Tags: Adventure, educational, Puzzle

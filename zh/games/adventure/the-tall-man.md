@@ -29,4 +29,4 @@ Shift – 奔跑
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, Adventure, 恐怖, 生存
+- 标签: 3D, 冒险, 恐怖, 生存

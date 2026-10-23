@@ -21,4 +21,4 @@ Chipollino is a running-jumping game. Run over the obastacles and pickup bloud t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Blood, Jumping, running
+- Tags: Action, Blood, jumping, running

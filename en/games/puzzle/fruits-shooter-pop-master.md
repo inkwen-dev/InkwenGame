@@ -19,6 +19,6 @@ Fruits Shooter Pop Master is a free online game. Shoot fruits and pop all the fr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble Shooter, Match 3, Match3, Matching, Puzzle, Shoot, Shooter

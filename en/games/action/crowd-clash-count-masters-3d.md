@@ -19,6 +19,6 @@ Count Masters Clash : Stickman Fighting Game 3D is a fun game and full of advent
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Fight, Fighting, Hypercasual
+- Tags: Action, Fight, fighting, Hypercasual

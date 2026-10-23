@@ -19,6 +19,6 @@ In the game, achieve victory by enhancing your cannon and shattering every pixel
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Bubble Shooter, cannon, HTML5, Mentolatux, Mobile, Rocket, Shoot, Unity3D, WebGL

@@ -15,6 +15,6 @@ Giddy Birds offers a thrilling memory challenge with vibrant visuals and smooth 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: trivia

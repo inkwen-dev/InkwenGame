@@ -19,6 +19,6 @@ Variety Mecha throws you into a futuristic war filled with powerful robots, inte
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Battle, Robot, Shoot 'Em Up
+- Tags: Adventure, battle, Robot, Shoot 'Em Up

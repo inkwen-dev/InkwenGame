@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Arcade, Balance, Ball, Ballon, Basketball, Battle, Casual, Classic, Fight, Fighting, Fun, Funny, Hypercasual, jump, Jumping, Kid, Kids, Mobile, Platform, Red, run, running
+- Tags: 8 Ball Pool, Arcade, Balance, Ball, Ballon, basketball, battle, Casual, Classic, Fight, fighting, Fun, Funny, Hypercasual, jump, jumping, Kid, Kids, Mobile, Platform, Red, run, running

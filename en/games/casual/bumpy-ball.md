@@ -19,6 +19,6 @@ Smash the same color object, Avoid other colors object! How far can you go?
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Ball, Best, Bounce, Casual, Color, Unity3D

@@ -15,6 +15,6 @@ Navigate through whimsical chaos in Cow Cow Run, where you guide a daring cow es
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Animal

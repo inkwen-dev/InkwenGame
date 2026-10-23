@@ -21,4 +21,4 @@ Insane Math Game How good are your math skills? You only have 20 seconds to solv
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Educational, Game, Interactive, Kids, Math
+- Tags: Casual, educational, Game, Interactive, Kids, math

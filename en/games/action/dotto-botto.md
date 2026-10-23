@@ -19,6 +19,6 @@ Dotto Botto is a classic platformer game. Help Dotto to find his way home and tr
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Arcade, Bounce, Casual, Classic, Jumping, Pixel, Platform, Side Scrolling
+- Tags: 2D, Action, Arcade, Bounce, Casual, Classic, jumping, pixel, Platform, Side Scrolling

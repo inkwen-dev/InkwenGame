@@ -19,6 +19,6 @@ Create your very own Barbie Dreamhouse experience! You can design every room. Me
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Baby, Baby Hazel, Barbie, Decorate, Decoration, Design, Family, Games, Girl, Girls, House, Kids, Online, Room

@@ -19,6 +19,6 @@ Sky Corona Evasion is an engaging mobile game developed by jojolife that thrusts
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Avoid, Fun, running, unity

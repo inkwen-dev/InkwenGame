@@ -21,4 +21,4 @@ Color Pump is a very fun color game. Do you know most colors can be produced by 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Educational, Fun, Girls, HTML5, Kids, Mobile
+- Tags: Color, Coloring, educational, Fun, Girls, HTML5, Kids, Mobile

@@ -19,6 +19,6 @@ Best your score or just have a relaxing game of Free cell Solitaire! Jump right 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Game, Games, HTML5, Puzzle, Solitaire
+- Tags: card, Game, Games, HTML5, Puzzle, solitaire

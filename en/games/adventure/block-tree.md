@@ -19,6 +19,6 @@ Block Tree is a classic Tetris-style puzzle game that challenges your logic and 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Block, Puzzle, tree
+- Tags: Adventure, block, Puzzle, tree

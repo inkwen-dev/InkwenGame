@@ -19,6 +19,6 @@ Description: Get ready for a colorful prehistoric adventure! In Click and Color 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Coloring, Dinosaur, Family, Kid, mapi games

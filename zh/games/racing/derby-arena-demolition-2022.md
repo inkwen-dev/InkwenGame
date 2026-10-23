@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车, 疯狂, 漂移, 漂移驾驶, 驾驶, 移动, 多人游戏, 赛车, Unity3D, 战争, WebGL
+- 标签: 汽车, 疯狂, 漂移, 漂移, 驾驶, 移动设备, 多人, 竞速, Unity3D, 战争, WebGL

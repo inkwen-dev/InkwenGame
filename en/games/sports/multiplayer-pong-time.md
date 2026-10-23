@@ -19,6 +19,6 @@ Multiplayer Pong Time is fun sport game suitable for all ages. Type your nick na
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Ball, Boys, Football, Fun, HTML5, Hypercasual, Kids, Multiplayer, Online, Soccer, Sport, Sports
+- Tags: Android, Ball, Boys, Football, Fun, HTML5, Hypercasual, Kids, Multiplayer, Online, Soccer, Sport, sports

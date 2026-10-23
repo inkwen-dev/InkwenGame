@@ -26,4 +26,4 @@ Every run gives you a chance to come back stronger. Earn rewards, upgrade your v
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, Car, Police, Racing, runner
+- Tags: 3D, Arcade, Car, police, Racing, runner

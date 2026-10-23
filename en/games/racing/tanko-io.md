@@ -21,4 +21,4 @@ To the tanks! That’s where the action is in this multiplayer IO game. Choose y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Car, Shoot, Shooting, Tank, Tanks
+- Tags: battle, Car, Shoot, Shooting, Tank, tanks

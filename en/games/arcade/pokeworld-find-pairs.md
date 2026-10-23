@@ -21,4 +21,4 @@ Do you like Memory Cards Games? Well this game is for you and it cames with poke
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Clicker, Matching, Memory, Pokemon, Puzzle
+- Tags: Arcade, Clicker, Matching, memory, Pokemon, Puzzle

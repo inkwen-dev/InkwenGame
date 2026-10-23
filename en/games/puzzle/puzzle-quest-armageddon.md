@@ -19,6 +19,6 @@ Match 3 Meets Real Time Strategy in this Sci Fi Action Puzzler
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Army, Battlegrounds, Match-3, Match3, Strategy
+- Tags: 1 Player, 2D, Army, Battlegrounds, Match 3, Match3, strategy

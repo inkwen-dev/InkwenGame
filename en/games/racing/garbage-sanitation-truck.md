@@ -21,4 +21,4 @@ No one has ever seen the garbage truck on the street in real life. Now you have 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boy, Car, Driving, HTML5, Kid, Mobile, Parking, Simulation, Truck
+- Tags: 3D, Boy, Car, Driving, HTML5, Kid, Mobile, parking, Simulation, truck

@@ -19,6 +19,6 @@ Begin an exciting new adventure with Mario in Grab-Mario Adventure! This is a fu
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, jump, Mario
+- Tags: Fun, jump, mario

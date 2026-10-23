@@ -19,6 +19,6 @@ Test your logic through a hundred of levels that keep getting harder in this puz
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Brain, Casual, Logic, Puzzle

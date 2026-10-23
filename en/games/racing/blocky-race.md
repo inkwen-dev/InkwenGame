@@ -19,6 +19,6 @@ Blocky Race is a new racing game, play it on iyigames.com. Where you can drive w
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Boys, Cars, Girls, HTML5, Mobile, Race, Racing, Supercars
+- Tags: Arcade, block, Boys, Cars, Girls, HTML5, Mobile, Race, Racing, Supercars

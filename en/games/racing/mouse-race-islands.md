@@ -21,4 +21,4 @@ Funny mouse races on race islands.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Fun, Funny, Island, jump, Jumping, Race, Racing
+- Tags: 3D, 3D Games, Fun, Funny, Island, jump, jumping, Race, Racing

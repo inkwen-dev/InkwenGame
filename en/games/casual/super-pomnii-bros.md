@@ -15,6 +15,6 @@ Embark on an epic island adventure with Super Pomnii Bros. Leap past obstacles, 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Mario
+- Tags: mario

@@ -21,4 +21,4 @@ Test your precision and creativity in Draw Master! Look at the shape shown above
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Adventure, amazing, Best Games, Draw, Drawing, Hypercasual, Mind, Puzzle, Super
+- Tags: 1 Player, 2026 games, Adventure, amazing, Best Games, Draw, drawing, Hypercasual, Mind, Puzzle, Super

@@ -21,4 +21,4 @@ Do you like cyberpunk? Do you like skateboarding? Then this game is for you! Wel
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Arcade, Casual, Girl, Kid, running, Simulation, Skateboard
+- Tags: 3D, Action, Arcade, Casual, Girl, Kid, running, Simulation, skateboard

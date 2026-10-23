@@ -19,6 +19,6 @@ Embark on a delightful journey of popping bubbles with Yummi Bubbles &ndash; a f
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, Android, Ball, Bejeweled, Bricks, Bubble, Bubble Shooter, Cake, Color, Coloring, Fantasy, Friv, Kids

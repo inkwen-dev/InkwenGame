@@ -21,4 +21,4 @@ Play this slide puzzle games of the running horses. It's include 3 images and 3 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Horse, HTML5, Mobile
+- Tags: Animal, horse, HTML5, Mobile

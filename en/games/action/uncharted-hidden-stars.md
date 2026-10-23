@@ -19,6 +19,6 @@ Uncharted is a series of action-adventure games created by Amy Hennig. The games
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Air, Aircraft, Arcade, Battle, Boys, Motorcycle, Movie
+- Tags: Action, Adventure, Air, Aircraft, Arcade, battle, Boys, Motorcycle, Movie

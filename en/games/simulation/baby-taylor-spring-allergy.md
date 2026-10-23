@@ -19,6 +19,6 @@ Taylor loves beautiful flowers, so in the spring, she often goes to the park wit
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cooking, Cute, Doctor, Educational, Girl, Girls, Kids, Surgery
+- Tags: Cooking, Cute, Doctor, educational, Girl, Girls, Kids, surgery

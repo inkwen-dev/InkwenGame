@@ -21,4 +21,4 @@ Python Snake Simulator takes you to play a life of a python snake that needs to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Animal, Battle, Collecting, Skibidi, Skibidi Toilet, Skill, Snake, Zuma
+- Tags: Adventure, Animal, battle, Collecting, Skibidi, skibidi-toilet, Skill, snake, Zuma

@@ -21,4 +21,4 @@ Spider Among Us online is offline multiplayer game in which you are imposter and
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Boys, Cartoon, Cartoon Network, Girls, Puzzle, Spiderman, Sports
+- Tags: Action, Adventure, Boys, Cartoon, Cartoon Network, Girls, Puzzle, Spiderman, sports

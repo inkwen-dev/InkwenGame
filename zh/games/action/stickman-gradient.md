@@ -21,4 +21,4 @@ Stickman Gradient 是一款令人惊叹的 stickman 跑酷游戏。在这款游�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 避开, 最佳, 收集, 热门, 儿童, 障碍, 平台, 跑步, 技巧, 切割, Slither, Stickman
+- 标签: 躲避, 最佳, 收集, 热门, 儿童, 障碍, 平台, 奔跑, 技巧, 切割, 滑行, 木偶人

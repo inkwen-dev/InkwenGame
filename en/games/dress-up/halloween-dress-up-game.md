@@ -21,4 +21,4 @@ You are in front of the mirror. Moonlight around your friend asking you what you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dress Up, Girl, Girls, Halloween, Holiday, Stickman
+- Tags: Dress Up, Girl, Girls, Halloween, Holiday, stickman

@@ -19,6 +19,6 @@ Ben 10 Hero Time is a platformer game which is very fun.
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Arcade, Ben 10, Cartoon, Cartoon Network

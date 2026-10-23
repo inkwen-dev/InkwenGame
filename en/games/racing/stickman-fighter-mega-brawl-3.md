@@ -19,6 +19,6 @@ Get ready for epic epic battles in Stickman Fighter: Mega Brawl, the ultimate fi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Fight, Fighting, HTML, HTML5, Hypercasual, Puzzle, Stickman
+- Tags: Action, Adventure, Fight, fighting, HTML, HTML5, Hypercasual, Puzzle, stickman

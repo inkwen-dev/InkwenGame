@@ -21,4 +21,4 @@ FPS 射击 3D 城市战争是最新颖且最具挑战性的第一人称射击（
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 战斗, 男孩们, HTML5, 射击, 射击游戏, 射手, WebGL
+- 标签: 3D, 战斗, 男孩们, HTML5, 射击, 射击游戏, 射击类, WebGL

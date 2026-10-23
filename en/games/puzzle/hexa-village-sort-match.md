@@ -21,4 +21,4 @@ Restore a lost village hidden in the fog! Hexa Village combines two relaxing puz
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, cozy, Management, Match 3, Matching, Number, Puzzle, Skill
+- Tags: Adventure, cozy, management, Match 3, Matching, Number, Puzzle, Skill

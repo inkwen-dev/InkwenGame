@@ -21,4 +21,4 @@ Create your very own monstrous masterpiece with Choose Your Monster Face! Dive i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Dress Up, HTML5, iPad, iPhone, Mentolatux, Mobile, Monster
+- Tags: 1 Player, 2D, Android, Dress Up, HTML5, iPad, iPhone, Mentolatux, Mobile, monster

@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Alien, Android, Army, Battle, Battlegrounds, Ben 10, Boy, Cartoon, Casual, Fight, Fighting, Fun, Funny, Kid, Kids, Kill, Killing, run, running, Shoot, Shooter, Shooting, Skill, Skills
+- Tags: 2D, Action, Adventure, Alien, Android, Army, battle, Battlegrounds, Ben 10, Boy, Cartoon, Casual, Fight, fighting, Fun, Funny, Kid, Kids, Kill, Killing, run, running, Shoot, Shooter, Shooting, Skill, Skills

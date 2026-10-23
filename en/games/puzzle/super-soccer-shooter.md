@@ -19,6 +19,6 @@ Super Soccer Shooter game sport soccer has a lot of success review and player th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bounce, Boy, Boys, Bubble Shooter, Clash, Food, Football, Kid, Kids, Platform, Shoot, Shoot 'Em Up, Shooter, Shooting, Soccer, Spongebob, Sport, Sports
+- Tags: Bounce, Boy, Boys, Bubble Shooter, Clash, Food, Football, Kid, Kids, Platform, Shoot, Shoot 'Em Up, Shooter, Shooting, Soccer, Spongebob, Sport, sports

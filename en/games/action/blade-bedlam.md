@@ -25,4 +25,4 @@ A top-down, physics-based, medieval melee fighter! Block projectiles and melee a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Mobile, pve, RPG, Skill
+- Tags: Action, Mobile, pve, rpg, Skill

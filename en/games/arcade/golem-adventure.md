@@ -19,6 +19,6 @@ Looking for a fun and challenging online game? Check out Golem Adventure Games! 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Game, Games, HTML5, jump, Jumping
+- Tags: Action, Adventure, Arcade, Game, Games, HTML5, jump, jumping

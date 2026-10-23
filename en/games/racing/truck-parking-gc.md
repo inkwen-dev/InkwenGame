@@ -21,4 +21,4 @@ Truck Parking
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Parking, Truck
+- Tags: parking, truck

@@ -21,4 +21,4 @@ The Great Zombie Warzone is a tower-defense arcade game with 3D cartoon zombies 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Boys, Fight, Fighting, Fun, H5, HTML5, Kid, Kids, Tower Defense, Zombie
+- Tags: Arcade, Boy, Boys, Fight, fighting, Fun, H5, HTML5, Kid, Kids, Tower Defense, Zombie

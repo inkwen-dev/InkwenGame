@@ -21,4 +21,4 @@ Defend a living spore core against waves of animated microbes. The core fires au
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Monster, pve, survival
+- Tags: monster, pve, survival

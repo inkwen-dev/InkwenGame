@@ -19,6 +19,6 @@ Traffic Run in HTML5 version! Cross the streets without hitting cars and get to 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, HTML5, Race

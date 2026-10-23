@@ -21,4 +21,4 @@ Control a heavy off-road vehicle and pass many challenging obstacles in Hard Whe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Car, Driving, HTML5, Mobile, Obstacle, Truck
+- Tags: 2D, Car, Driving, HTML5, Mobile, Obstacle, truck

@@ -19,6 +19,6 @@ MemoPlay is a game where you have to match cards containing similar sport-items.
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Matching, Memory, Puzzle, Sport
+- Tags: Matching, memory, Puzzle, Sport

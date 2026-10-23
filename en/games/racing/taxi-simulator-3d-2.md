@@ -15,6 +15,6 @@ Navigate lively cityscapes in Taxi Simulator 3D, where quick reflexes and strate
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Racing

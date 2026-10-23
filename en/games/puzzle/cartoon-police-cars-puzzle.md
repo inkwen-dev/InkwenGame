@@ -21,4 +21,4 @@ Play with 6 images in this perfect jigsaw puzzle game: Cartoon Police Cars Puzzl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cars, HTML5, Jigsaw, Mobile, Police
+- Tags: Car, Cars, HTML5, Jigsaw, Mobile, police

@@ -21,4 +21,4 @@ In this adventure, two fighting friends need to push each other off a cliff. In 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Battle, Battlegrounds, mineblock, Minecraft
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, battle, Battlegrounds, mineblock, Minecraft

@@ -19,6 +19,6 @@ Tick cross 2 players is the classic game that works every device around the worl
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Math, Puzzle
+- Tags: Board, math, Puzzle

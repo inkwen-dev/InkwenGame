@@ -19,6 +19,6 @@ Take the robot through all the experimental puzzle rooms of Professor Rat to rel
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Cartoon, Casual, Educational, Family, Game, HTML5, Hypercasual, Jigsaw, Kids, Logic, Logical, Mobile, New, Physics, Puzzle, Robot, Sandbox, Science
+- Tags: Brain, Cartoon, Casual, educational, Family, Game, HTML5, Hypercasual, Jigsaw, Kids, Logic, Logical, Mobile, New, Physics, Puzzle, Robot, Sandbox, Science

@@ -19,6 +19,6 @@ Trivia - Animals, Flags, History, Food What is the top speed of a cheetah? And w
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Brain, Educational, Logic, WebGL
+- Tags: 1 Player, Brain, educational, Logic, WebGL

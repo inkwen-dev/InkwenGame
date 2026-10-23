@@ -21,4 +21,4 @@ Liliths teeth have gotten seriously sick! Let the little dentist help her! In Cu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Casual, Cute, Doctor, Educational, Kid, Simulation
+- Tags: 2D, Casual, Cute, Doctor, educational, Kid, Simulation

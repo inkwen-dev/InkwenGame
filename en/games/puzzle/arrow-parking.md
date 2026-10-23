@@ -27,4 +27,4 @@ Arrow Parking is a relaxing puzzle game that challenges players to think ahead. 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Parking, Puzzle
+- Tags: parking, Puzzle

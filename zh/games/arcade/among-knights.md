@@ -21,4 +21,4 @@ PC 使用 W Q D 键进行移动和跳跃，鼠标进行攻击和特殊攻击，F
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 最佳游戏, 休闲, 骑士, 剑
+- 标签: 2D, 最佳游戏, 休闲, knight, 剑

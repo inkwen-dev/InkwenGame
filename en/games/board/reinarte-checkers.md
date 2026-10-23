@@ -21,4 +21,4 @@ A Checkers Games to have fun and test your strategies.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Board, HTML5, Strategy
+- Tags: 1 Player, Board, HTML5, strategy

@@ -19,6 +19,6 @@ Get Bomber Friends now and be part of this extremely exciting and fun online mul
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Action, Bomb, HTML5, Multiplayer

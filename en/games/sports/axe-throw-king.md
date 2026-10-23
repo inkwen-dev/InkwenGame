@@ -21,4 +21,4 @@ Axe Throw King is an adrenaline-pumping mobile game that puts your aiming skills
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, HTML5, Mobile, Sports, Unity3D, WebGL
+- Tags: Arcade, HTML5, Mobile, sports, Unity3D, WebGL

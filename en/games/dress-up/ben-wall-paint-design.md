@@ -21,4 +21,4 @@ Ben, Melisa and Rob are meeting in a park. Everyone is free for this Sunday, exc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Coloring, Cooking, Dress Up, Girls, Hair, Kids, Mario
+- Tags: Boys, Coloring, Cooking, Dress Up, Girls, Hair, Kids, mario

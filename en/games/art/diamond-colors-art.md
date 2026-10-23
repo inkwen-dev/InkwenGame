@@ -19,6 +19,6 @@ Are you new to painting? Don't worry! Just fill the diamond into the canvas acco
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Casual, Color, Coloring, Decorate, Decoration, Fun, Funny, Girl, Girls, Hypercasual, Puzzle

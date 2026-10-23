@@ -21,4 +21,4 @@ Minecraft Skibidi Hidden Toilet is a wonderful online game with hidden objects. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Hidden, Memory, Minecraft, Skibidi, Skibidi Toilet
+- Tags: Hidden, memory, Minecraft, Skibidi, skibidi-toilet

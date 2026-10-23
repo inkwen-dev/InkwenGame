@@ -19,6 +19,6 @@ Winter Monster Trucks Race is fun racing game suitable for all ages. Collect as 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Car, Collecting, Driving, HTML5, Kids, Monster, Racing, Shopping, Winter
+- Tags: Android, Car, Collecting, Driving, HTML5, Kids, monster, Racing, Shopping, Winter

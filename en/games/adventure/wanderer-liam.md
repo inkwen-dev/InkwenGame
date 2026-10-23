@@ -19,6 +19,6 @@ Game story begins with Liam&rsquo;s amazing explorer mindsets, he wants to explo
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Casual, Jumping, Side Scrolling, survival
+- Tags: 2D, Adventure, Casual, jumping, Side Scrolling, survival

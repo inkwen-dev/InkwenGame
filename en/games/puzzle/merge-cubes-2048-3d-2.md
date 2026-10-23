@@ -15,6 +15,6 @@ Dive into Merge Cubes 2048 3D, where classic number puzzles meet dynamic physics
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Casual

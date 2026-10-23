@@ -21,4 +21,4 @@ Use your mouse to write play and select
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Educational, HTML5, Kid, Kids, Letters, School
+- Tags: 2D, Animal, educational, HTML5, Kid, Kids, Letters, School

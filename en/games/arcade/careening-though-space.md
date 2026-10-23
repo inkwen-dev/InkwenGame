@@ -19,6 +19,6 @@ You were on a spaceship transporting some gold when it blew up and left you care
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Air, Aircraft, Alien, Arcade, Avoid, Space

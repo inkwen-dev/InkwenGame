@@ -21,4 +21,4 @@ Have fun and take control of the Skibidi toilet guy and go as far as you can, sh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, dash, endless, Geometry, Hypercasual, Jumping, kiz10, running
+- Tags: Arcade, Casual, dash, endless, Geometry, Hypercasual, jumping, kiz10, running

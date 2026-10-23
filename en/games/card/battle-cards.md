@@ -21,4 +21,4 @@ Battle Cards is a card roguelike where you move your hero card around the playin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arena, Board, Card, Dungeon, Pixel
+- Tags: Arena, Board, card, Dungeon, pixel

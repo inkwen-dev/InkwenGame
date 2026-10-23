@@ -19,6 +19,6 @@ Chicken Jump is a casual game. In this gravity game you control chicken. Avoid o
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Chicken, Jumping, running
+- Tags: Chicken, jumping, running

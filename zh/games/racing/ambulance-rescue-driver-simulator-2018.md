@@ -21,4 +21,4 @@ WASD - 驾驶 空格键 - 刹车 - 摄像头
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 男孩, 汽车, 驾驶, HTML5, 救援, 模拟器, WebGL
+- 标签: 3D, 男孩们, 汽车, 驾驶, HTML5, 救援, 模拟器, WebGL

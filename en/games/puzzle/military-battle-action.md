@@ -21,4 +21,4 @@ Military Battle Action game is free online game and you have 6 images in three m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, HTML5, Jigsaw, Mobile, Puzzle, Tank, War
+- Tags: battle, HTML5, Jigsaw, Mobile, Puzzle, Tank, War

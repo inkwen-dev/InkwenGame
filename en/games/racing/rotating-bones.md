@@ -19,6 +19,6 @@ Rotating Bones is a unique platform puzzle game where you rotate the world to gu
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Brain, HTML, HTML5, Physics, Puzzle, Racing

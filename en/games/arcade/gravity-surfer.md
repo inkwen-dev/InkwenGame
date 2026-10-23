@@ -19,6 +19,6 @@ How Far Can You Go!? An Endless Runner 3D Game! You Get 3 Lives To Start With An
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Arcade, Cool, endless, Fun, Jumping, Subway Surfers, Unity3D
+- Tags: 3D Games, Arcade, cool, endless, Fun, jumping, Subway Surfers, Unity3D

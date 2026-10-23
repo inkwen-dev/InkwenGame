@@ -21,4 +21,4 @@ A new kind of Mario game that you can play with one hand, to rescue the princess
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, kiz10, Mario, run
+- Tags: jump, kiz10, mario, run

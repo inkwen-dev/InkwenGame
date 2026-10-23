@@ -19,6 +19,6 @@ Easy Kids Coloring Book is fun game suitable for all ages. Dark thick lines and 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Baby, Coloring, Fun, Girls, HTML5, Kids, Mobile, School

@@ -21,4 +21,4 @@ Play Free Vegas Slot machines with bonus games without wifi - online or offline 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Card, Casino, Girl, Machine, Slot Machine
+- Tags: .io Games, card, Casino, Girl, Machine, Slot Machine

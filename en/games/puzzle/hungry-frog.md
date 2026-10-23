@@ -19,6 +19,6 @@ Tap on that pesky annoying fly to eat it. Features: - Fun comedic theme - Extrem
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: fly, HTML5, Hypercasual

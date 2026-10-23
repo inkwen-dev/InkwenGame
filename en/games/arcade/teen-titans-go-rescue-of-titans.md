@@ -19,6 +19,6 @@ Teen Titans Go! Rescue of Titans is a 2D action game based on the Teen Titans Go
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Cartoon, Cartoon Network, Game, Online, Rescue

@@ -19,6 +19,6 @@ Venom's Adventures is an adventure game story about this cute venom. You need to
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, 3D, 3D Games, Adventure, Avoid, Boy, Collecting, Hidden, Kid, Kids, Obstacle, Platform

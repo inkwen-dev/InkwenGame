@@ -21,4 +21,4 @@ Do you want to be a champion? Try this game Bridge Race that combines collecting
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Block, Boy, Casual, Collecting, Hypercasual, Kid, Puzzle, Race, Relaxation
+- Tags: 3D, block, Boy, Casual, Collecting, Hypercasual, Kid, Puzzle, Race, Relaxation

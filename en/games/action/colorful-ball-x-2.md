@@ -15,6 +15,6 @@ Guide a brightly colored sphere through a dazzling journey in Colorful Ball X. W
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Action

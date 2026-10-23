@@ -21,4 +21,4 @@ Drive fast fury motorbikes in amazing extreme bike riding game 3D. Boost the spe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Bike, Sports, Stunts
+- Tags: Adventure, bike, sports, Stunts

@@ -21,4 +21,4 @@ The character moves back and forth on the platform, controlling the characters u
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Best Games, Sports
+- Tags: 1 Player, Adventure, Best Games, sports

@@ -21,4 +21,4 @@ Drop into a chaotic battlefield where only the most destructive players survive.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Best Games, Block, First Person Shooter, Hot, Mine, mineblock, Minecraft, Multiplayer, Online, roblox, Shooter, weapons
+- Tags: Arcade, Best, Best Games, block, First Person Shooter, Hot, Mine, mineblock, Minecraft, Multiplayer, Online, roblox, Shooter, weapons

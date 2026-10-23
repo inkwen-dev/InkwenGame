@@ -21,4 +21,4 @@ WASD - 移动1号玩家 方向键 - 移动2号玩家
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人, 2人游戏, 2D, 冒险, 街机, 搞笑, HTML5, 孩子们, 平台, WebGL
+- 标签: 双人, 双人游戏, 2D, 冒险, 街机, 搞笑, HTML5, 儿童, 平台, WebGL

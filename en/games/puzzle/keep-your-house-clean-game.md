@@ -21,4 +21,4 @@ Never mess with your dream home & take well care about decoration through fresh 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Adult, Adventure, Air, Arcade, Arena, Arkanoid, Army, Barbie, Board, Boy, Boys, Brain, Bubble, Bubble Shooter, Cake, Candy, Car, Cartoon, Clans, Clash, Classic, Cleaning, Click, Clicker, Game, Games, Girl, Girls, Hypercasual, Magic, Management, Motorcycle, Ninjago, Obstacle, Physics, Rhythm
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Adult, Adventure, Air, Arcade, Arena, Arkanoid, Army, Barbie, Board, Boy, Boys, Brain, Bubble, Bubble Shooter, Cake, Candy, Car, Cartoon, Clans, Clash, Classic, Cleaning, Click, Clicker, Game, Games, Girl, Girls, Hypercasual, Magic, management, Motorcycle, Ninjago, Obstacle, Physics, Rhythm

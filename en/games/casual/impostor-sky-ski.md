@@ -19,6 +19,6 @@ IMPOSTOR SKY SKI is an arcade game where you have to ski down the mountain to co
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collecting, Collection, Ski, sky

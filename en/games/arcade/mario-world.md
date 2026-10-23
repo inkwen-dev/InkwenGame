@@ -19,6 +19,6 @@ Mario World is a free, classic platform game. Collect hearts and avoid obstacles
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Casual, Classic, Hypercasual, Mario, Superhero
+- Tags: Adventure, Arcade, Casual, Classic, Hypercasual, mario, Superhero

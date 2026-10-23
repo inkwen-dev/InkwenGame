@@ -21,4 +21,4 @@ You are the king of the road! For the most lucrative parking, exercise patience,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, drift, drifting, Driving, Girls, Parking
+- Tags: Boys, drift, drifting, Driving, Girls, parking

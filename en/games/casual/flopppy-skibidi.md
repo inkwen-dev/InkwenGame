@@ -19,6 +19,6 @@ Welcome to an amazing game of the famous Skibidi Toilet. The rules are very simp
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: fly, Skibidi, Skibidi Toilet
+- Tags: fly, Skibidi, skibidi-toilet

@@ -19,6 +19,6 @@ jetpackman shooter is a html5 arcade game, collect coin to earn score on stage a
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Alien, Arcade, endless, Flight, HTML5, Shooter
+- Tags: 1 Player, 2D, Adventure, Alien, Arcade, endless, flight, HTML5, Shooter

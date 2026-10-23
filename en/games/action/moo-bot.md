@@ -21,4 +21,4 @@ Moo Bot is a 2D Sci-fi themed platformer where you play as a bot who have to col
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Arcade, Cartoon, Collecting, Girl, jump, Jumping, Pixel, Platform, Retro, Robot, Science
+- Tags: 1 Player, Adventure, Arcade, Cartoon, Collecting, Girl, jump, jumping, pixel, Platform, retro, Robot, Science

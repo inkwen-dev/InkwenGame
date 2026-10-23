@@ -21,4 +21,4 @@ Bear and Masha are cooking good pizza and opening a pizzeria! Make pizza with Ma
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cartoon, Cook, Cooking, Cute, Educational, Fun, Girl, HTML5, Kids, Mobile, Puzzle
+- Tags: Animal, Cartoon, Cook, Cooking, Cute, educational, Fun, Girl, HTML5, Kids, Mobile, Puzzle

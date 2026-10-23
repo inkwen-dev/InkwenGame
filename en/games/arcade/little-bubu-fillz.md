@@ -19,6 +19,6 @@ Little Bubu Fillz is a relaxing yet challenging level puzzle game where every mo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ai Games, Arcade, Casual, free games for your site, free games for your website, free html5 games for your website, HTML, html games for your website, HTML5, html5 games, html5 games for your site, Hypercasual, Online, Puzzle

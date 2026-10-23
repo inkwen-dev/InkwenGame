@@ -21,4 +21,4 @@ Get ready for exciting parking game. Swipe to park cars and avoid car collision.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Draw, Drawing, Parking
+- Tags: Car, Draw, drawing, parking

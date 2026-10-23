@@ -21,4 +21,4 @@ if you love to dance with little boy named Mono Games friday night funkin then y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Girls, Kids, Music
+- Tags: Boys, Girls, Kids, music

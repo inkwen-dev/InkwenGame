@@ -21,4 +21,4 @@ Step into the dangerous world of crime and power in Gangster Kabali Game, an act
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Casual, Fighting, Hypercasual
+- Tags: 2026 games, Casual, fighting, Hypercasual

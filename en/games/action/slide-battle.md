@@ -19,6 +19,6 @@ Slide Battle is a thrilling action arena game where you control warriors in inte
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Arena, Fighting
+- Tags: 3D, Action, Arena, fighting

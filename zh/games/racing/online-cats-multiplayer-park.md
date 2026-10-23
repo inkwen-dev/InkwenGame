@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 猫, 跳跃, 跑酷
+- 标签: 街机, 猫, 跳跃, 奔跑

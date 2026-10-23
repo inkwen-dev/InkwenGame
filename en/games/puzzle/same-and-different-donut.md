@@ -19,6 +19,6 @@ Get ready to have some fun with the game Same &amp; Different Donut! Take a clos
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Cake, Candy, Cartoon, Cute, Food, Puzzle

@@ -21,4 +21,4 @@ Trivia.io's second part is coming. From above we know astronomy, from below we k
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Brain, Educational, Kid, Kids, Puzzle, Quiz
+- Tags: 3D, Brain, educational, Kid, Kids, Puzzle, Quiz

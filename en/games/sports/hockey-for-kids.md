@@ -19,6 +19,6 @@ Avoid the attacking players to approach the goal line. Once in front of the goal
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Family, hockey, Kids, Sport, Sports
+- Tags: Boy, Boys, Family, hockey, Kids, Sport, sports

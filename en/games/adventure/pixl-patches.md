@@ -19,6 +19,6 @@ Pixl Patches is a little wholesome game that leads you through a short journey a
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Pixel
+- Tags: pixel

@@ -19,6 +19,6 @@ Embark on an epic adventure battling hordes of zombies! Experience straightforwa
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Level, Levels, Mentolatux, survival, Unity3D, WebGL, Zombie

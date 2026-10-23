@@ -21,4 +21,4 @@ You mission is to destroy all enemy ship. All ship is free when start game so en
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fighting, Spaceship, War
+- Tags: fighting, Spaceship, War

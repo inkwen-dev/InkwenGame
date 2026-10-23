@@ -21,4 +21,4 @@ A fun and educational flag coloring puzzle game. Test your memory and geography 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Color, Drawing, Puzzle
+- Tags: Color, drawing, Puzzle

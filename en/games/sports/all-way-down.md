@@ -21,4 +21,4 @@ it simple game you play as a golf ball that your mission is just to get away fro
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Ball, Fun, Golf, Hypercasual, Physics, Skill, Sport
+- Tags: 3D Games, Ball, Fun, golf, Hypercasual, Physics, Skill, Sport

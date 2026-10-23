@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 差异, HTML5游戏, 丛林, 儿童, 移动设备, 益智
+- 标签: 找不同, HTML5游戏, 丛林, 儿童, 移动设备, 益智

@@ -19,6 +19,6 @@ Do you like road trips? Let’s Plan a Family Fun Road Trip on this Winter Vacat
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Anime, Cartoon, Cartoon Network

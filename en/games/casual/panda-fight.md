@@ -21,4 +21,4 @@ Desktop Mouse Drag and Drop Mobile Touch Buttons Drag and Drop
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Game, Games, HTML5, Ninja, Panda
+- Tags: Android, Game, Games, HTML5, ninja, Panda

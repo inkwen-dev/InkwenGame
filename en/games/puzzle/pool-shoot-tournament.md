@@ -21,4 +21,4 @@ Explore the exciting realm of the Pool Shoot Tournament, an engaging online game
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Bubble Shooter, Classic, Color, Mobile, Pool, Skill
+- Tags: Bubble Shooter, Classic, Color, Mobile, pool, Skill

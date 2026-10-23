@@ -21,4 +21,4 @@ Blade Merge is a thrilling blend of merging strategy and intense blade battles. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Battle, Casual, Mobile, Mouse
+- Tags: 2D, battle, Casual, Mobile, Mouse

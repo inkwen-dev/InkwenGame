@@ -15,6 +15,6 @@ Escape a flooding tomb by catapulting creatures upward in Sling Tomb 2D. With a 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

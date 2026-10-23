@@ -19,5 +19,5 @@ Afraid of the dentist, you’re gone! A dental hygienist is here to help you lea
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize

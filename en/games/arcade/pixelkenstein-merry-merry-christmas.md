@@ -21,4 +21,4 @@ On a cold winter's day, Santa goes out and starts collecting gifts. Santa Claus 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Best, Block, Candy, Christmas, Game, Games
+- Tags: 1 Player, 2D, Adventure, Arcade, Best, block, Candy, Christmas, Game, Games

@@ -29,4 +29,4 @@ Simple controls make the game easy to start, while growing difficulty keeps ever
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: difficult, Skill, Strategy, Tower Defense
+- Tags: difficult, Skill, strategy, Tower Defense

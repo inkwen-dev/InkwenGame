@@ -19,6 +19,6 @@ Your mission in this game; It is to find the answer to the math question you hav
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kids, Math, running
+- Tags: educational, Kids, math, running

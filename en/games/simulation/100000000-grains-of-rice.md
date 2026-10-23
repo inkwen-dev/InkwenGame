@@ -21,4 +21,4 @@ This is a very fun leisure decompression magic game. The game is very simple. Pl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Funny, Game, Google, H5, HTML5, Math, Number, Play, Simulation, Simulator
+- Tags: Click, Funny, Game, Google, H5, HTML5, math, Number, Play, Simulation, Simulator

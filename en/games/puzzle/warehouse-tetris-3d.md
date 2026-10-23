@@ -21,4 +21,4 @@ Warehouse Tetris 3D is a relaxing 3D packing puzzle where you load boxes, crates
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, cargo, Logic, Physics, Relaxation, Tetris
+- Tags: 3D, cargo, Logic, Physics, Relaxation, tetris

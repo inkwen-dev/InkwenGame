@@ -19,6 +19,6 @@ Play challenges and obstacle levels with masses among other crewmates imposter c
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Arcade, Casual, Game, Hypercasual, Knight, Online, Race, run, running
+- Tags: .io, Arcade, Casual, Game, Hypercasual, knight, Online, Race, run, running

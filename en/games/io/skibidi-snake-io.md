@@ -19,6 +19,6 @@ Skibidi Snake.io is a fast-paced, action-packed snake game that will test your r
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2D, Action, Adventure, Fun, Game, Games, HTML, HTML5, Number, Online, Skibidi, Skibidi Toilet
+- Tags: .io, .io Games, 2D, Action, Adventure, Fun, Game, Games, HTML, HTML5, Number, Online, Skibidi, skibidi-toilet

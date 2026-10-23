@@ -21,4 +21,4 @@ Avoid the obstacles. Collect the balls. Aim for the holes! Good luck!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Arcade, Ball, Hypercasual, Snake
+- Tags: .io Games, Arcade, Ball, Hypercasual, snake

@@ -19,6 +19,6 @@ High to Jump - A Casual Game that only provides comfort for gamers and sharpens 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Casual, Click, Clicker, Game, HTML, HTML5, jump, Jumping, Math, Play, run, running
+- Tags: 1 Player, 2D, Action, Casual, Click, Clicker, Game, HTML, HTML5, jump, jumping, math, Play, run, running

@@ -21,4 +21,4 @@ It's time to paint and draw! So, come paint by finger and draw something nice. M
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Design, Drawing
+- Tags: Color, Design, drawing

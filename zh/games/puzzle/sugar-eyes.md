@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 匹配, 怪物, 益智
+- 标签: 匹配, monster, 益智

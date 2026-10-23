@@ -19,6 +19,6 @@ Cave Crusade takes you on a dangerous journey as a knight in shining armor, vent
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Escape, Fight, Knight, Monster
+- Tags: 1 Player, Escape, Fight, knight, monster

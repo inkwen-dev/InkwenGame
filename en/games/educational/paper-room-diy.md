@@ -19,6 +19,6 @@ Have you ever wanted to create a world of your own? If you want to design a room
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collection, Educational, House
+- Tags: Collection, educational, House

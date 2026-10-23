@@ -21,4 +21,4 @@ The police guard the peace of the citizens and keep order. To perform their func
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Car, Cars, Game, Jigsaw, Online, Police, Puzzle, Slither
+- Tags: Arcade, Car, Cars, Game, Jigsaw, Online, police, Puzzle, Slither

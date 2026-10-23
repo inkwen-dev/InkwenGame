@@ -21,4 +21,4 @@ Slide Them Away is a puzzle game. In each slider puzzle, you will see a grid wit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Block, Brain, HTML, Logic
+- Tags: 2D, block, Brain, HTML, Logic

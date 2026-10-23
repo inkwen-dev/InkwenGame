@@ -19,6 +19,6 @@ Blocks Match 3 is a thrilling match-3 puzzle! Swap colorful red, green, and blue
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Block, Color, free games for your site, Levels, Match 3, Match3, Matching, Puzzle, puzzleblock, sorting
+- Tags: 1 Player, 2026 games, 2D, block, Color, free games for your site, Levels, Match 3, Match3, Matching, Puzzle, puzzleblock, sorting

@@ -21,4 +21,4 @@ Want to be an expert in multi storey parking skills then switch towards the New 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Car, Cars, drift, drifting, Driving, Hot, Parking, Race, Racing
+- Tags: Action, Adventure, Arcade, Car, Cars, drift, drifting, Driving, Hot, parking, Race, Racing

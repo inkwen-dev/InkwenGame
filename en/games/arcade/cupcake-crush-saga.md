@@ -19,6 +19,6 @@ The new and adorable candy and cake match-3 game Sweet Crush Royal is out. Graph
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Arcade, Candy, HTML, HTML5, Mobile

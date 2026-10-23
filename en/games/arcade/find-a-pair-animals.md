@@ -21,4 +21,4 @@ Welcome to the cute animals game! You want your kid to have fun and improve his 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, HTML5, Kids, Matching, Memory, Mobile, Skill
+- Tags: Animal, Arcade, HTML5, Kids, Matching, memory, Mobile, Skill

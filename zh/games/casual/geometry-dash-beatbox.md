@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 人, 2D, 避开, 冲刺, 几何, 休闲, unity
+- 标签: 单人, 2D, 躲避, 冲刺, 几何, 超休闲, unity

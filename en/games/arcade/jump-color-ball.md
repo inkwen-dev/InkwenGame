@@ -21,4 +21,4 @@ Match the ball's color and jump to beyond infinity
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Color, jump, Jumping
+- Tags: Arcade, Casual, Color, jump, jumping

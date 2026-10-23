@@ -21,4 +21,4 @@ Welcome to Paw Patrol Puppy Ninja Slice Fruit . Your objective: become a master 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Battle, Best, Bomb, Brawl, cut, Fruit, Fruits, Ninja, Puzzle, Slicing, Superhero
+- Tags: Arcade, battle, Best, Bomb, Brawl, cut, Fruit, Fruits, ninja, Puzzle, Slicing, Superhero

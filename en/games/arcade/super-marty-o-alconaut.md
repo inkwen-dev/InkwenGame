@@ -21,4 +21,4 @@ Welcome to the amazing world of Super Marty-o Alconaut - an alternative universe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Arcade, Game, Games, games for your website, HTML5, Levels, Pixel, Retro, unity games
+- Tags: 1 Player, 2D, Action, Adventure, Arcade, Game, Games, games for your website, HTML5, Levels, pixel, retro, unity games

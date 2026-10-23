@@ -21,4 +21,4 @@ Bungonoid 是一款简单的单触点街机游戏，有点像打砖块，又有�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩们, 教育, 家庭, HTML, HTML5, 儿童, 拼图, 学校, 词汇
+- 标签: 男孩们, 教育, 家庭, HTML, HTML5, 儿童, 益智, 学校, 单词

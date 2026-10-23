@@ -40,4 +40,4 @@ If you have any comments about the game, please describe the problem in as much 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cats, Music
+- Tags: cats, music

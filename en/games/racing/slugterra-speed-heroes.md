@@ -19,6 +19,6 @@ Put on your pilot helmet and prepare to enter the race in the Slugterra: Speed H
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Anime, Arcade, Brain, Cartoon, Cartoon Network, Disney, HTML5, Kids, Race, Racing, Robot

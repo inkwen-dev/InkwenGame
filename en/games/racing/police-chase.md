@@ -19,6 +19,6 @@ Police Chase is fun driving game suitable for all ages. The aim of the game is t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adult, Arcade, Avoid, Boys, Car, Cars, Driving, Game, Games, HTML5, Kids, Police, Racing
+- Tags: Action, Adult, Arcade, Avoid, Boys, Car, Cars, Driving, Game, Games, HTML5, Kids, police, Racing

@@ -30,4 +30,4 @@ You start with one planet and one goal: expand before someone else does. Your ho
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: Space, Strategy, War
+- Tags: Space, strategy, War

@@ -15,6 +15,6 @@ Navigate treacherous pathways in Tappy Bird 2D by mastering your tap rhythm to g
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Animal

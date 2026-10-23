@@ -19,6 +19,6 @@ I'm Rebecca, a vampire princess. Tired of the endless boring life of the Vampire
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Decorate, Design, Dress Up, Girl, Girls, Kids, Magic, Makeover, Princess, Sport, Vampire

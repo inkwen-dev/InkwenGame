@@ -19,6 +19,6 @@ Roll, match, and merge your way to the highest score in Dice Merge! Combine thre
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, amazing, Best Games, Block, Hypercasual, Interactive, Matching, Math, Number, Puzzle
+- Tags: 2026 games, amazing, Best Games, block, Hypercasual, Interactive, Matching, math, Number, Puzzle

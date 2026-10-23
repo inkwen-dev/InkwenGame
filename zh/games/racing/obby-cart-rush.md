@@ -21,4 +21,4 @@ Obby Cart Rush 是一款快速、色彩缤纷的 3D 矿车过山车游戏！跳�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 冒险, 街机, 汽车, 卡通, 驾驶, 儿童, 竞速, 跑酷, Unity3D
+- 标签: 3D, 冒险, 街机, 汽车, 卡通, 驾驶, 儿童, 竞速, 奔跑, Unity3D

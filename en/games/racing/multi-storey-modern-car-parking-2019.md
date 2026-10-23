@@ -21,4 +21,4 @@ Here you come to test your drive experience! let's start a car parking driving t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Car, Driving, HTML5, Parking, Race, Simulation, Simulator, WebGL
+- Tags: Boys, Car, Driving, HTML5, parking, Race, Simulation, Simulator, WebGL

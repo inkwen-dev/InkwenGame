@@ -19,6 +19,6 @@ Play Now Among Us The Imposter a new game exclusive to kiz10.com !! with many ac
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, jump, Kiz 10, kiz10, running

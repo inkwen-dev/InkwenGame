@@ -19,6 +19,6 @@ Solve the puzzle by lining up the colored donuts. Grab one of the donuts on the 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Brain, Color, Coloring, HTML5, Puzzle

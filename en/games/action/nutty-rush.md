@@ -19,6 +19,6 @@ Nutty Rush is a cozy 3D platformer starring P&ouml;f&uuml;rd&uuml;k, a brave lit
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Animal, Cartoon, Cute, Forest, Jumping, Platform
+- Tags: 3D, Adventure, Animal, Cartoon, Cute, Forest, jumping, Platform

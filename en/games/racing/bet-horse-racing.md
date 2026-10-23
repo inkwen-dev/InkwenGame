@@ -21,4 +21,4 @@ Horse Racing 2 is a free horse racing simulation game for placing bets on the ho
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Horse, Racing
+- Tags: horse, Racing

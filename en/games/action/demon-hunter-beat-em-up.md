@@ -21,4 +21,4 @@ Doom 2016 reimagined as an illustrated arcade beat em up. Rip and tear through f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Brawl, Fight, Fighting
+- Tags: Action, Adventure, Arcade, Brawl, Fight, fighting

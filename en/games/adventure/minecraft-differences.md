@@ -19,6 +19,6 @@ In the game Minecraft Differences you will find a full search for differences on
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Craft, Crafting, Difference, Fun, HTML5, Kids, Minecraft, Mobile, Skill

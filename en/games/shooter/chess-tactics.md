@@ -21,4 +21,4 @@ Chess Tactics is a turn-based tactical roguelike where chess meets a shooter. Co
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, chess, Logic, RPG, Shooting, Strategy
+- Tags: Arcade, chess, Logic, rpg, Shooting, strategy

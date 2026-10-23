@@ -19,6 +19,6 @@ An addictive puzzle and matching game to train your brain. Move the balls proper
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Best, Brain, Candy, HTML, Match 3, Match3, Matching, Mobile, Quiz

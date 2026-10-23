@@ -21,4 +21,4 @@ Rolling Ball is astonishing arcade game . you play as a ball which is rolling ov
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Ballon, Baseball, jump, Jumping, run, running
+- Tags: Ball, Ballon, baseball, jump, jumping, run, running

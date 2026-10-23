@@ -19,6 +19,6 @@ Its a nice sunny day and our little friend the Happy Penguin decided to go on a 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boy, Casual, Fish, Fishing, HTML5, Simulator, WebGL

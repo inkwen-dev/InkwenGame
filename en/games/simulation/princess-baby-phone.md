@@ -21,4 +21,4 @@ This is an educational mobile phone simulator for girls. In this game, kids can 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Simulation
+- Tags: educational, Simulation

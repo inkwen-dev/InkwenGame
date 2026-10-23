@@ -32,4 +32,4 @@ Game Features:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing, Physics, Puzzle
+- Tags: drawing, Physics, Puzzle

@@ -21,4 +21,4 @@ This is a casual jigsaw puzzle. The game is very simple. At the beginning, it wi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Block, Boy, Boys, Casual, Draw, Fun, Funny, Game, Games, Girl, Girls, Google, H5, HTML5, Hypercasual, Kid, Kids, Lego, Mobile, Simulation, Simulator
+- Tags: 3D Games, Action, block, Boy, Boys, Casual, Draw, Fun, Funny, Game, Games, Girl, Girls, Google, H5, HTML5, Hypercasual, Kid, Kids, Lego, Mobile, Simulation, Simulator

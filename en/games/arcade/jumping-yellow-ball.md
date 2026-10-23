@@ -21,4 +21,4 @@ In the new game Jumping Yellow Ball, you will travel to an amazing neon world. Y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Fun, HTML5, jump, Jumping, Kids, Logic, Mobile, Skill
+- Tags: Arcade, Ball, Fun, HTML5, jump, jumping, Kids, Logic, Mobile, Skill

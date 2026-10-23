@@ -21,4 +21,4 @@ Control the crane to load the truck with cargo and then deliver the cargo to the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Car, Cars, Driving, HTML5, Mobile, Obstacle, Simulation, Simulator, Truck
+- Tags: 1 Player, 2D, Android, Car, Cars, Driving, HTML5, Mobile, Obstacle, Simulation, Simulator, truck

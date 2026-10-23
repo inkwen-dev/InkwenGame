@@ -19,6 +19,6 @@ Touch the screen at the right time to throw the ball in the white circle. Repeat
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Android, Arcade, Avoid, Ball, Bounce, Game, Launch, Mobile, Timing

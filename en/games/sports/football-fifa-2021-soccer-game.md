@@ -19,6 +19,6 @@ Show other countries, who has the best team on the planet, win the champions lea
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, Boy, Football, HTML5, Kids, Sports, Unity3D
+- Tags: 1 Player, 2 Player, Boy, Football, HTML5, Kids, sports, Unity3D

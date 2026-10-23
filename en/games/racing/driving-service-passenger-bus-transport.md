@@ -19,6 +19,6 @@ Driving Service Passenger Bus Transport is a simulator game where you can gt pas
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: bus, Driving, Unity3D, WebGL

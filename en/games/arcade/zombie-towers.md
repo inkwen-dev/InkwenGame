@@ -19,6 +19,6 @@ You are the last group of survivors on the planet, and your goal is to defend yo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Defense, Strategy, Zombie
+- Tags: Arcade, Defense, strategy, Zombie

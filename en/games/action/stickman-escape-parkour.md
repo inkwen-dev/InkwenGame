@@ -19,6 +19,6 @@ Scientists produce racers with special abilities to use in running races. Get ou
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, running, Stickman
+- Tags: Action, Adventure, running, stickman

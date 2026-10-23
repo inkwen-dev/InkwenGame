@@ -21,4 +21,4 @@ WASD 或方向键移动，左键点击射击，右键点击瞄准，I 或 E 打�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 方块, 射击游戏, Unity3D, WebGL
+- 标签: 动作, 方块, 射击, Unity3D, WebGL

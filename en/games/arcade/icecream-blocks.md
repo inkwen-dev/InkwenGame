@@ -21,4 +21,4 @@ Collect Ice creams by clicking on horizontal or vertical groups of 3 or more sam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Candy, Collecting, HTML5, Mobile, Puzzle
+- Tags: Arcade, block, Candy, Collecting, HTML5, Mobile, Puzzle

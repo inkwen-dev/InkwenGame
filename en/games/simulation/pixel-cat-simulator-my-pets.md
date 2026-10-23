@@ -19,6 +19,6 @@ Come and experience a pixelated cat world full of cuteness and adventure. If you
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cat, Cute, Pixel
+- Tags: Cat, Cute, pixel

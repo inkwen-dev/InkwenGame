@@ -29,4 +29,4 @@ Key Feature: Offers exceptional player agency through the core build mechanic, a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Drawing, Logic, Physics
+- Tags: Brain, drawing, Logic, Physics

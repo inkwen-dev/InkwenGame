@@ -21,4 +21,4 @@ Clash of Skulls is real time strategy units deployment game. Objective is to des
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Army, Strategy, Tower Defense
+- Tags: Action, Army, strategy, Tower Defense

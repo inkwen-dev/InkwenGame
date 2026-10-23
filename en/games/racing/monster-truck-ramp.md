@@ -19,6 +19,6 @@ You have to cross the giant ramps. You need to know that it won't be easy. Come 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Car, Monster, Truck
+- Tags: 3D, 3D Games, Car, monster, truck

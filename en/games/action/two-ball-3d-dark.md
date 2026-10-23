@@ -19,6 +19,6 @@ Two Ball 3D is online with its new version Dark theme! Many new features have be
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 3D, 3D Games, Ball, Collecting, running, Skill

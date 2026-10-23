@@ -21,4 +21,4 @@ Try to reach the shortest times in more than 40 levels in this mad stunts game, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Bike, Boy, Boys, Car, Cars, Funny, Moto, Motorcycle, Sports
+- Tags: Adventure, bike, Boy, Boys, Car, Cars, Funny, Moto, Motorcycle, sports

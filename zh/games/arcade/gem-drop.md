@@ -21,4 +21,4 @@ A D 或 左右键 或 触控移动宝石 空格键 或 松开触控 投下宝石
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 2026 游戏, 2D, Android, 街机, 休闲, 捕捉, HTML5, 超休闲, 移动设备, 拼图, unity, Unity3D, WebGL
+- 标签: 单人, 2026 游戏, 2D, 安卓, 街机, 休闲, 捕捉, HTML5, 超休闲, 移动设备, 益智, unity, Unity3D, WebGL

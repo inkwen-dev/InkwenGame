@@ -21,4 +21,4 @@ ATV特技是3D汽车竞速模拟游戏的第二部续作。玩家可以切换四
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 乐趣, 搞笑, 竞速, 竞速, 特技, Unity3D
+- 标签: 3D, 3D游戏, 有趣, 搞笑, 比赛, 竞速, 特技, Unity3D

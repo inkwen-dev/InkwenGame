@@ -21,4 +21,4 @@ ABC Halloween is a delightful educational game for kids ages 2-6, combining alph
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Games, Educational, HTML, html5 games, NapTech Games
+- Tags: Baby Games, educational, HTML, html5 games, NapTech Games

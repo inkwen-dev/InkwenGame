@@ -19,6 +19,6 @@ Draw the flight path of the weapon in such a way as to avoid obstacles and destr
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Battle, Best, Bomb, Boy, Boys, Draw, Drawing, Fun, Game, Girl, Girls, Gun, HTML5, Knight, Mobile, Platform
+- Tags: 2D, battle, Best, Bomb, Boy, Boys, Draw, drawing, Fun, Game, Girl, Girls, Gun, HTML5, knight, Mobile, Platform

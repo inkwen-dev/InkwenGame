@@ -19,6 +19,6 @@ Drop the Sushi a fun puzzle game to save the sushi. The Sushi Brothers are compl
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Boys, Physics, Puzzle
+- Tags: Arcade, block, Boys, Physics, Puzzle

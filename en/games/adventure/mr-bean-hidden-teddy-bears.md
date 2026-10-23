@@ -19,6 +19,6 @@ Mr. Bean Hidden Teddy Bears is a free online skill and hidden object game. Find 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Best, Boys, Cartoon, Celebrity, Collecting, Fun, Hidden, Hypercasual, Kids, Mobile, Skill, Skills

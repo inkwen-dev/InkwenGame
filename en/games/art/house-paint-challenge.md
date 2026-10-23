@@ -21,4 +21,4 @@ Paint House Challenge is an exterior wall color changer that is ideal for houses
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Block, Brain, Coloring, House, html5 games, Logic, paint, painting, Puzzle, Relaxation, WebGL
+- Tags: 2026 games, block, Brain, Coloring, House, html5 games, Logic, paint, painting, Puzzle, Relaxation, WebGL

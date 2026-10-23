@@ -19,6 +19,6 @@ Dystopia RPG is an 8 bit style fantasy RPG where You lost a duel to a government
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, apocalypse, blockchain, Fighting, quests, Street Fighting
+- Tags: 2D, Action, apocalypse, blockchain, fighting, quests, Street Fighting

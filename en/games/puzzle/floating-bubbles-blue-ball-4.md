@@ -19,6 +19,6 @@ Challenge your friends with this super cool bubble game, pop as many bubbles to 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Baby, Ball, Ballon

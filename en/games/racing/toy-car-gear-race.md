@@ -19,6 +19,6 @@ Get ready for a fun toy car race. Gear up quickly in the Drag race with toy cars
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Arcade, Boys, Car, Cars, Cartoon, Driving, Kids, Mobile, Race, Racing, Supercars, WebGL

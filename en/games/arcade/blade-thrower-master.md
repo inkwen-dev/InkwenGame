@@ -19,6 +19,6 @@ The Blade Thrower Master is a deadly, agile fighter who excels at ranged combat.
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, throwing, water, weapons

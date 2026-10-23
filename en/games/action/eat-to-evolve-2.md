@@ -21,4 +21,4 @@ Dive into the animal kingdom with Eat to Evolve! In this arcade-style game, you&
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, eating, Fight, survival
+- Tags: battle, eating, Fight, survival

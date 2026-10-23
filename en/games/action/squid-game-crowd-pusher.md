@@ -21,4 +21,4 @@ Collect numbers and characters of the same color on the platform to kill the bos
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Battle, Escape, Hypercasual, Island, Online, run, running, Unity3D, WebGL
+- Tags: 3D, battle, Escape, Hypercasual, Island, Online, run, running, Unity3D, WebGL

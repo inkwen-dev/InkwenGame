@@ -15,6 +15,6 @@ Become the ultimate guardian of the net in Super Goalie! Dive into thrilling foo
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Soccer

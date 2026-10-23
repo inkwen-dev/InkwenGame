@@ -21,4 +21,4 @@ There was an ordinary farmer, but on an unfortunate day, monsters attacked his f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Clicker, Collecting, Collection, Halloween, Monster
+- Tags: 2D, Clicker, Collecting, Collection, Halloween, monster

@@ -21,4 +21,4 @@ Play now our new game Stickman Fights Online !! An epic battle arrives between t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Fighting, Kiz 10, kiz10
+- Tags: battle, fighting, Kiz 10, kiz10

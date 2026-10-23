@@ -15,6 +15,6 @@ Experience a refreshing twist on Tic Tac Toe. Customize your board from a tradit
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Board

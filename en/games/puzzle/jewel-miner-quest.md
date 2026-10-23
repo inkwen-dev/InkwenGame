@@ -21,4 +21,4 @@ The dazzling world of gems awaits! Participate in thrilling events within limite
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bejeweled, Casual, Color, Coloring, Jewel, Match 3, Match3, Math
+- Tags: Bejeweled, Casual, Color, Coloring, Jewel, Match 3, Match3, math

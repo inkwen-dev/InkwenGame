@@ -21,4 +21,4 @@ You will experience a fun and realistic music feast. Tap on your keyboard or scr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Kids, Music, Simulation
+- Tags: educational, Kids, music, Simulation

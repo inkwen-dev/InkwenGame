@@ -21,4 +21,4 @@ Tab - 菜单 WASD - 驾驶 R - 倒车 C - 摄像机 T - 重置自行车 2 - 加�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 自行车, Moto, 摩托车, Unity3D, WebGL
+- 标签: 3D游戏, 自行车, 摩托, 摩托车, Unity3D, WebGL

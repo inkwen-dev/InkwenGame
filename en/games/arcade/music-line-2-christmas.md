@@ -21,4 +21,4 @@ Listen to the christmas songs’ melodies and dance the line through snowy world
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Music
+- Tags: Christmas, music

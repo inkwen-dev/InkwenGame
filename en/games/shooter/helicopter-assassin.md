@@ -21,4 +21,4 @@ You were assigned as a special agent to shoot traitors.Fly by helicopter to neut
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Gun, Helicopter, Physics, Shooting, Sniper
+- Tags: Action, Gun, helicopter, Physics, Shooting, sniper

@@ -19,6 +19,6 @@ Coach Bus Simulator is the first coach driving game that will teach you to drive
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, 8 Ball Pool, Action, Air, Android, Boy, Boys, Collection, Creation, Decoration, drift, drifting, Driving, Educational, Fashion, Girl, Girls, Interactive Fiction, Mario, Minion, Relaxation, Seduction, Simulation, Unity3D, Violence
+- Tags: .io, .io Games, 3D, 3D Games, 8 Ball Pool, Action, Air, Android, Boy, Boys, Collection, Creation, Decoration, drift, drifting, Driving, educational, Fashion, Girl, Girls, Interactive Fiction, mario, Minion, Relaxation, Seduction, Simulation, Unity3D, Violence

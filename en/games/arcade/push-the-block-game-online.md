@@ -19,6 +19,6 @@ Push the block is a fun puzzle game where the player has to push blocks in order
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Best, Block, Boys, Casual, Game, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Puzzle
+- Tags: 3D, Arcade, Best, block, Boys, Casual, Game, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Puzzle

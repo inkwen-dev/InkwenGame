@@ -19,6 +19,6 @@ This game has been succeeded by Metal Slug Attack. Enjoy new characters, updated
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Battlegrounds, Shoot, Shoot 'Em Up, Shooter

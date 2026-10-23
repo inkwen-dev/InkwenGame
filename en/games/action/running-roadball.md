@@ -21,4 +21,4 @@ Tap Tap Music is a fast rhythm arcade game where players guide a glowing ball th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Ball, Casual, Music, Rhythm, Skill
+- Tags: 3D, Arcade, Ball, Casual, music, Rhythm, Skill

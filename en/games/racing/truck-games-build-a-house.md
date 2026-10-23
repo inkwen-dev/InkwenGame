@@ -19,6 +19,6 @@ Trucks for kids - build a house - building game where toddlers learn different t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Boy, Boys, Car, Cars, Cleaning, Collecting, Design, Educational, Girl, Girls, Truck
+- Tags: Adventure, Boy, Boys, Car, Cars, Cleaning, Collecting, Design, educational, Girl, Girls, truck

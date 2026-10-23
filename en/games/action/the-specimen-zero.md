@@ -21,4 +21,4 @@ The moment has arrived to persevere in a hostile and mysterious environment. In 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, Horror, kiz10, Monster, running
+- Tags: Escape, Horror, kiz10, monster, running

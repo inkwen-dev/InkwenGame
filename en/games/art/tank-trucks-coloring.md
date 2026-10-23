@@ -21,4 +21,4 @@ Tank Trucks Coloring is coloring game with tanker trucks. You can play with eigh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Puzzle, Truck
+- Tags: Coloring, Puzzle, truck

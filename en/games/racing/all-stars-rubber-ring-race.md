@@ -19,6 +19,6 @@ It's possible now to play All Stars: Rubber Ring Race game in your web browser f
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, Animal, Avoid, Balance, Ben 10, Best, Boys, Brain, Cartoon, Cartoon Network, Family, Fun, Girls, Highscore, HTML5, Kids, Mobile, Race, Racing

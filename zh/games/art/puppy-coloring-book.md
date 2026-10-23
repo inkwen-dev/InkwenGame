@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 婴儿, 颜色, 涂色, 绘画, 繪畫, 教育, 家庭, HTML, HTML5, 儿童, 孩子们, Mobile
+- 标签: 2D, 婴儿, 颜色, 着色, 绘画, 绘画, 教育, 家庭, HTML, HTML5, 儿童, 儿童, 移动设备

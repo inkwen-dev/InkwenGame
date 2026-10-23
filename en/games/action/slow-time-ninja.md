@@ -25,4 +25,4 @@ Master time and precision in this stealth ninja game! Swipe to throw your weapon
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, crazy-games, Fighting, Mouse, Ninja, Skill
+- Tags: Action, crazy-games, fighting, Mouse, ninja, Skill

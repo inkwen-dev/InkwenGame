@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2048, Android, 收集, HTML5, 超休闲, iPad, iPhone, 儿童, 管理, 移动设备, 跑, 跑步, Unity3D, WebGL
+- 标签: 2048, 安卓, 收集, HTML5, 超休闲, iPad, iPhone, 儿童, 管理, 移动设备, 跑, 奔跑, Unity3D, WebGL

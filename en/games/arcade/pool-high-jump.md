@@ -21,4 +21,4 @@ In this game, your job is to control the diver and jump in the pool with water f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, jump, Kids, Pool, Puzzle
+- Tags: Arcade, jump, Kids, pool, Puzzle

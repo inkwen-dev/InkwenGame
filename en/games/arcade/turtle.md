@@ -19,6 +19,6 @@ You are no ordinary turtle! Dodge enemies and challenges, stay alive, reach the 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Android, Animal, Casual, Cool, endless, Games, Highscore, HTML5, jump, Kids, Mobile, Obstacle, Physics
+- Tags: Adventure, Android, Animal, Casual, cool, endless, Games, Highscore, HTML5, jump, Kids, Mobile, Obstacle, Physics

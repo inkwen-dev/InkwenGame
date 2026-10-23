@@ -19,6 +19,6 @@ Santas reindeer has lost its way in the forest. Help the reindeer and make sure 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Animal, Arcade, Christmas, Pixel, Santa, Santa Claus
+- Tags: 2D, Adventure, Animal, Arcade, Christmas, pixel, Santa, Santa Claus

@@ -21,4 +21,4 @@ Popular solitaire is simple and addictive game for one player, which goal is to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casino, Casual, HTML5, Logic, Puzzle, Solitaire
+- Tags: card, Casino, Casual, HTML5, Logic, Puzzle, solitaire

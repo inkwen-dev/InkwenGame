@@ -15,6 +15,6 @@ Dive into Deep Sea Run, where racing shifts into an underwater odyssey filled wi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Action

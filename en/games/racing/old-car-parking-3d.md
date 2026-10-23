@@ -21,4 +21,4 @@ Parking for Antique Automobiles, Lots and lots of 3D barriers, cones, hurdles, a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Car, Cars, Parking, Skills, Unity3D, WebGL
+- Tags: 3D, 3D Games, Car, Cars, parking, Skills, Unity3D, WebGL

@@ -19,6 +19,6 @@ Scribble World Platform Puzzle is a free online platform jumping game. It provid
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Avoid, Boy, Brain, Casual, Fun, HTML5, Jumping, Kids, Obstacle, Platform
+- Tags: Arcade, Avoid, Boy, Brain, Casual, Fun, HTML5, jumping, Kids, Obstacle, Platform

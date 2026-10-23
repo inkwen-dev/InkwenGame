@@ -19,6 +19,6 @@ Japanese fashion coming to you with anime games for girls! 6 cute dolls of diffe
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Cute, Dress Up, Girls

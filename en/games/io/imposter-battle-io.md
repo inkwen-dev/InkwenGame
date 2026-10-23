@@ -21,4 +21,4 @@ Become the last person and survive until the spaceship is launched. The aliens i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 3D, Action, Battle
+- Tags: .io, .io Games, 1 Player, 3D, Action, battle

@@ -21,4 +21,4 @@ Playing rugby by flicking the animals to score goals. PLAY NOW!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Best, Bird, Casual, Chicken, Fun, Funny, Hypercasual, Kid, Kids, Shooting, Sport, Sports
+- Tags: Animal, Arcade, Best, Bird, Casual, Chicken, Fun, Funny, Hypercasual, Kid, Kids, Shooting, Sport, sports

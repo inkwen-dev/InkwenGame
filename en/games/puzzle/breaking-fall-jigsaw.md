@@ -19,6 +19,6 @@ Drop the elevator down and try to reach the Finish line. Easy to play Hard to ma
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, 3D Games, Adventure, Alien, Casual, Play

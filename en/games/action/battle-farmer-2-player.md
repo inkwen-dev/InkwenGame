@@ -19,6 +19,6 @@ Have you ever caught runaway chickens before? You must catch all the chickens. T
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Animal, Arcade, Battle, Minecraft, Mobile
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Animal, Arcade, battle, Minecraft, Mobile

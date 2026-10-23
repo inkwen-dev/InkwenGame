@@ -19,6 +19,6 @@ If you like to laugh heartily, fool around and once again review the stories abo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Arcade, Click, Clicker, Game, Point And Click, Puzzle

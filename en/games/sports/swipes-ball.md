@@ -21,4 +21,4 @@ The goal at this game is to swipe the ball into basket. Give a basket every time
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Basketball, Kids, Puzzle, Shoot
+- Tags: Ball, basketball, Kids, Puzzle, Shoot

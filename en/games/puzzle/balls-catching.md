@@ -19,6 +19,6 @@ Balls catching is fast paced realistic ball catching game with gorgeous look and
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2D, Android, Avoid, Balance, Ball, Bubble, Candy, Unity3D

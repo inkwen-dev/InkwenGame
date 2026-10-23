@@ -48,4 +48,4 @@ Balance your family life with your police career and keep the city safe in Polic
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Arcade, Car, Driving, Police, Simulation
+- Tags: 3D, Action, Arcade, Car, Driving, police, Simulation

@@ -69,4 +69,4 @@ H = 提示
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, 猫, 搞笑
+- 标签: 3D, 猫咪, 搞笑

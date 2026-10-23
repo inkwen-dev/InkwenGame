@@ -19,6 +19,6 @@ Pendulum Goal is an interactive game that allows players to explore the physical
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Arcade, Ball, Casual, Educational, Mobile, onetouch, Physics, Science, Skill, Soccer, touch
+- Tags: 1 Player, 3D, Arcade, Ball, Casual, educational, Mobile, onetouch, Physics, Science, Skill, Soccer, touch

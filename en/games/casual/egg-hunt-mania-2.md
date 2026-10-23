@@ -15,6 +15,6 @@ Dash into a vibrant world in Egg Hunt Mania, where you must quickly gather and d
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Animal

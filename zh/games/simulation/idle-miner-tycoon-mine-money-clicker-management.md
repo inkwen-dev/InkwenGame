@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 成人, 冒险, 男孩, 女孩, 黄金, HTML, HTML5, 儿童, 逻辑, 矿井, 矿工, 移动, 拼图, 技巧, 技能, WebGL
+- 标签: .io, .io 游戏, 成人, 冒险, 男孩, 女孩, 金币, HTML, HTML5, 儿童, 逻辑, 挖掘, 矿工, 移动设备, 益智, 技巧, 技能, WebGL

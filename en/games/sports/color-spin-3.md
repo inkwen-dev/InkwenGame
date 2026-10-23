@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2D, Action, Android, Animal, Arcade, Balance, Ball, Ballon, Baseball, Bounce, Brain, Bricks, Casual, Collection, Color, Coloring, Hypercasual, Kid, Kids, Mobile, Puzzle
+- Tags: .io Games, 2D, Action, Android, Animal, Arcade, Balance, Ball, Ballon, baseball, Bounce, Brain, Bricks, Casual, Collection, Color, Coloring, Hypercasual, Kid, Kids, Mobile, Puzzle

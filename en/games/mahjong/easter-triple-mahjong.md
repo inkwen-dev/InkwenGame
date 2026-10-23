@@ -21,4 +21,4 @@ A triple mahjong game with Easter theme. You can eliminate only three of same ti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Board, Easter, HTML5, Mahjong, Mobile, Puzzle
+- Tags: Arcade, block, Board, Easter, HTML5, mahjong, Mobile, Puzzle

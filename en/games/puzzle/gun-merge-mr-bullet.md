@@ -19,6 +19,6 @@ Gun Merge Mr Bullet throws you straight into a world where every shot matters! E
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Gun, Relaxation, Strategy
+- Tags: battle, Gun, Relaxation, strategy

@@ -19,6 +19,6 @@ Match 2 or more cubes of the same color to solve puzzles and clear levels. With 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arcade, Block, Board, Brain, Casual, Click, Match 3, Match3, Matching, Puzzle
+- Tags: 2D, Adventure, Arcade, block, Board, Brain, Casual, Click, Match 3, Match3, Matching, Puzzle

@@ -19,6 +19,6 @@ Free stunts games and free crazy car driving games with mega ramps stunts will d
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 8 Ball Pool, Adventure, Boys, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Moto, Motorcycle, Stunts, Supercars

@@ -19,6 +19,6 @@ Before you on the screen will be seen a three-dimensional image of cubes on the 
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Best, Brain, Fruit, Fun, Logic, Mahjong, Mobile, Skill
+- Tags: 3D, 3D Games, Best, Brain, Fruit, Fun, Logic, mahjong, Mobile, Skill

@@ -21,4 +21,4 @@ Already in Christmas mood? The classic turn based triplet matching arcade with C
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bomb, Christmas, Cute, Game, Games, HTML, HTML5, Jewel, Logic, Logical, Math, Turn
+- Tags: Arcade, Bomb, Christmas, Cute, Game, Games, HTML, HTML5, Jewel, Logic, Logical, math, Turn

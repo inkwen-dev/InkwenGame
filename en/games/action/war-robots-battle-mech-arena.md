@@ -19,6 +19,6 @@ Want an epic robot battle? In War Robots Battle: Mech Arena, you&rsquo;ll pilot 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Robot, War
+- Tags: battle, Robot, War

@@ -19,6 +19,6 @@ Flip knives to become a master while building your own collection of knives! enj
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Arcade, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids

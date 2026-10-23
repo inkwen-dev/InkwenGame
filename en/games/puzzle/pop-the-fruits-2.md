@@ -15,6 +15,6 @@ Immerse yourself in a colorful fruit-filled adventure where bursting vibrant bub
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Bubble Shooter

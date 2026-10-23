@@ -19,6 +19,6 @@ Stair Run 3D! dash forward and collect stair slices. Hold to make stair rise. Av
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Fun, Girls, run, running

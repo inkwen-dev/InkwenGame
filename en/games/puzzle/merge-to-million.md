@@ -19,6 +19,6 @@ Merge to Million is a multiplying puzzle. Drag & drop blocks with numbers on the
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Block, Board, Click, Educational, Logic, Math, Number, Physics, Puzzle, Tetris
+- Tags: 1 Player, Arcade, block, Board, Click, educational, Logic, math, Number, Physics, Puzzle, tetris

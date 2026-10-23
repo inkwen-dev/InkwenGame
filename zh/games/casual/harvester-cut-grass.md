@@ -21,4 +21,4 @@ bull 使用方向键左右上下移动 bull 支持移动设备和PC游玩 bull �
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 农场, 游戏, HTML5, 拖拉机
+- 标签: 单人, 2D, 农场, 网页游戏, HTML5, 拖拉机

@@ -21,4 +21,4 @@ Race, mod, and tune dozens of real licensed cars! Start a team, invite your frie
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Adult, Adventure, Arcade, Batman, Bike, Boy, Boys, bus, Business, Candy, Car, Cars, drift, drifting, Driving, Ever After High, Girl, Girls, Highscore, Moto, Motorcycle, Sim, Simpson, Simulation, Simulator, Spiderman, Supercars
+- Tags: 8 Ball Pool, Adult, Adventure, Arcade, Batman, bike, Boy, Boys, bus, Business, Candy, Car, Cars, drift, drifting, Driving, Ever After High, Girl, Girls, Highscore, Moto, Motorcycle, Sim, Simpson, Simulation, Simulator, Spiderman, Supercars

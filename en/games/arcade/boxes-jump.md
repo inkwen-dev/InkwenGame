@@ -21,4 +21,4 @@ Boxes Jump Game, a single-touch jumping reaction game, has everything you need t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Clicker, Hypercasual, jump, Jumping, mapi games
+- Tags: Arcade, Clicker, Hypercasual, jump, jumping, mapi games

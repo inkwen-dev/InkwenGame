@@ -19,6 +19,6 @@ This billiard game is based on speed and your goal is to pocket all balls as soo
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Billiard, Fun, Funny, Game, HTML5

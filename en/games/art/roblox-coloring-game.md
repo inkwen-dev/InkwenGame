@@ -19,6 +19,6 @@ The Roblox Coloring Game has been very popular recently. If you like both Roblox
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Cute, Drawing, Educational, Fun, HTML5, Kids, Mobile
+- Tags: Coloring, Cute, drawing, educational, Fun, HTML5, Kids, Mobile

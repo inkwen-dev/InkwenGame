@@ -19,6 +19,6 @@ Hello young chefs! Are you craving for delicious fast food meal? Make your own b
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Cook, Cooking, Decorate, Design, Food, Girl, Girls, Kids, Simulation

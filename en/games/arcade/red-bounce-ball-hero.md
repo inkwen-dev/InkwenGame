@@ -21,4 +21,4 @@ Are you a crazy fan of Bounce Ball 5 adventure series? Big Ball 3, Bounce Ball 4
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, jump, Jumping
+- Tags: Ball, jump, jumping

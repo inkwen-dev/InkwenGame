@@ -19,6 +19,6 @@ Crazy Collapse is fantastic block removal game. In this game you can remove hori
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Fun, Girls, HTML5, Matching, Mobile, Puzzle
+- Tags: Arcade, block, Fun, Girls, HTML5, Matching, Mobile, Puzzle

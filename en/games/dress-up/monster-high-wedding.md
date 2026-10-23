@@ -21,4 +21,4 @@ Monster high cartoon hero Clawdeen Wolf is getting married. Which is the most el
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Dress Up, Fashion, Fun, Game, Girl, Girls, HTML5, Monster
+- Tags: Cartoon, Dress Up, Fashion, Fun, Game, Girl, Girls, HTML5, monster

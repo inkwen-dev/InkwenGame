@@ -19,6 +19,6 @@ Pixel Cat Can’t Fly is a game of reflexes in which you have to keep your littl
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Cat, Clicker, Pixel, Retro
+- Tags: Arcade, Cat, Clicker, pixel, retro

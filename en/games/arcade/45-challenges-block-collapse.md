@@ -21,4 +21,4 @@ It is a challenging block collapse game. At each level, you will get a unique ch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, HTML5, Matching, Mobile, Puzzle
+- Tags: Arcade, block, HTML5, Matching, Mobile, Puzzle

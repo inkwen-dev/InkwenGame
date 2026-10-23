@@ -19,6 +19,6 @@ Welcome to the chilling world of Scary Baby Pink, where babysitting takes on a t
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Baby Games, Ghost, Horror, survival

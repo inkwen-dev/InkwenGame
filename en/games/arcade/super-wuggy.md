@@ -19,6 +19,6 @@ Welcome to Super Wuggy Adventure! Embark on an exciting journey through the jung
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, huggy, Mario, Poppy Playtime
+- Tags: Adventure, huggy, mario, Poppy Playtime

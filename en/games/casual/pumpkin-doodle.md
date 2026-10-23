@@ -19,6 +19,6 @@ Help pumpkin Jack to collect all coins and rings to save the Spirit of Halloween
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, 3D, Castle, Casual, Halloween, HTML, HTML5, jump, Jumping
+- Tags: 2D, 3D, Castle, Casual, Halloween, HTML, HTML5, jump, jumping

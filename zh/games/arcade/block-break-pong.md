@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 街机, 球体, 经典, 高分, HTML5, 解谜
+- 标签: 2D, 街机, 球, 经典, 高分, HTML5, 益智

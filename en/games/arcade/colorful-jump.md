@@ -21,4 +21,4 @@ You are an entity of color, jump from platform to platform while a pool of color
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bounce, Color, Hypercasual, jump, Jumping, Mobile
+- Tags: Arcade, Bounce, Color, Hypercasual, jump, jumping, Mobile

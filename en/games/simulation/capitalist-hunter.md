@@ -36,4 +36,4 @@ Start hunting, grow your business, and become the richest hunter in town.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Hunting, idle, Management, Simulation, tycoon
+- Tags: hunting, idle, management, Simulation, tycoon

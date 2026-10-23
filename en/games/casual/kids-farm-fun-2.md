@@ -15,6 +15,6 @@ Welcome to Kids: Farm Fun, where vibrant puzzles and charming farm animals capti
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Animal

@@ -21,4 +21,4 @@ Are you ready for the adventure full of punches and tricks? Rocket Punch! Yes, t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Fight, Hypercasual, Punch, Stickman
+- Tags: Casual, Fight, Hypercasual, Punch, stickman

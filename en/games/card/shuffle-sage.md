@@ -21,4 +21,4 @@ Shuffle Sage &ndash; A Solitaire Challenge of Wisdom and Strategy Step into the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casual, Solitaire
+- Tags: card, Casual, solitaire

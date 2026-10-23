@@ -19,6 +19,6 @@ Happy Filled Glass 2 – This is a game in which you need to draw with a pencil 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Casual, Drawing, Fun, Funny, Hypercasual, Kids, Logic, Logical, Mobile, Skill
+- Tags: Best, Casual, drawing, Fun, Funny, Hypercasual, Kids, Logic, Logical, Mobile, Skill

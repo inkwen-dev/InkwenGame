@@ -21,4 +21,4 @@ Sure Shot is the online multiplayer in which you are a soldier dropped into the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: CSGO, Gun, Multiplayer, Shooter, Sniper
+- Tags: CSGO, Gun, Multiplayer, Shooter, sniper

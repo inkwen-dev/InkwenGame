@@ -19,6 +19,6 @@ Endless 2048 game with a twist, blocks with physics. Blocks will colliide and bo
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2048, Educational, endless, Mobile, Physics
+- Tags: 1 Player, 2048, educational, endless, Mobile, Physics

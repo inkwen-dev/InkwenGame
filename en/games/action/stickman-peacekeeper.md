@@ -19,6 +19,6 @@ The main goal of the hero is to kill numerous enemies that attack him, for this,
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Fight, Fighting, Gun, H5, HTML, HTML5, Kill, Killing, Stickman
+- Tags: Action, Adventure, Fight, fighting, Gun, H5, HTML, HTML5, Kill, Killing, stickman

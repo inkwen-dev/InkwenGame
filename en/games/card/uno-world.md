@@ -21,4 +21,4 @@ Uno world is a fast and frenzied card game that has been a family favorite for o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Card, Puzzle
+- Tags: Adventure, card, Puzzle

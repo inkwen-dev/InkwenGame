@@ -15,6 +15,6 @@ Immerse yourself in Truck Simulator Skibidi Toilet, where mastering logistics be
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Skibidi Toilet
+- Tags: skibidi-toilet

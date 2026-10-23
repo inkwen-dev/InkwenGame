@@ -21,4 +21,4 @@ Hole 24 is the best Simulator free to play game. This game offer 24 challenging 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Golf, Shoot, Skill, Sport
+- Tags: golf, Shoot, Skill, Sport

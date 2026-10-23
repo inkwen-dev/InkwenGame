@@ -19,6 +19,6 @@ Avoid the spikes and obtain points for reach the best score and gems for purchas
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Avoid, Casual, Crazy, Funny, Game, Highscore, HTML5, Hypercasual, Skill, Skills
+- Tags: 1 Player, Avoid, Casual, crazy, Funny, Game, Highscore, HTML5, Hypercasual, Skill, Skills

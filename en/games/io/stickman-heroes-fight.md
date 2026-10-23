@@ -21,4 +21,4 @@ MORE HEROES, MORE SKILLS, MORE FIGHTS! This game is an extremely good fighting g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Classic, Fight, Stickman
+- Tags: .io, Classic, Fight, stickman

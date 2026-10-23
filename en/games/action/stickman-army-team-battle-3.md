@@ -21,4 +21,4 @@ The most strategic stickman war game is now available. Play now to : " Stickman 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ben 10, Classic, Fight, Fighting, Gun, Kill, Killing, Mobile, Skill, Skills, Spiderman, Stickman, Street Fighting, Superhero, War
+- Tags: Ben 10, Classic, Fight, fighting, Gun, Kill, Killing, Mobile, Skill, Skills, Spiderman, stickman, Street Fighting, Superhero, War

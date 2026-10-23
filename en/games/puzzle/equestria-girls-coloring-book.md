@@ -21,4 +21,4 @@ Equestria Girls Coloring Book is cool coloring game for kids and adults. Play Eq
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Draw, Drawing, Jigsaw
+- Tags: Color, Coloring, Draw, drawing, Jigsaw

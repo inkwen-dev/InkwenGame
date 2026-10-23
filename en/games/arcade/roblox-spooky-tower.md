@@ -19,6 +19,6 @@ This game offers an addictive obstacle course experience that takes you on an ad
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Arcade, Best, Best Games, Boys, Casual, Fun, Girls, Halloween, jump, Obstacle, Unity3D

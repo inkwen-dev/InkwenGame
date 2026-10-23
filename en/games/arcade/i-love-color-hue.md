@@ -19,6 +19,6 @@ This is a logical hypercasual puzzle game. The goal of this game is to arrange t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Color, Hypercasual, Kids, Puzzle

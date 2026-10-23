@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 卡通, 有趣, 女孩, HTML, HTML5, 拼图, 儿童, 手机, 电影, 益智, 太空
+- 标签: 卡通, 有趣, 女孩, HTML, HTML5, 拼图, 儿童, 移动设备, 电影, 益智, 太空

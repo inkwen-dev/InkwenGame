@@ -19,6 +19,6 @@ After the last nuclear war on earth, people mutated and became zombies, some of 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Defense, Monster, Shooter, survival, Zombie
+- Tags: Defense, monster, Shooter, survival, Zombie

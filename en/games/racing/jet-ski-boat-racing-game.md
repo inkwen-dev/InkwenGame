@@ -21,4 +21,4 @@ Are you looking for jet ski games or boat racing games for the best jet ski raci
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Android, Boat, Race, Skateboard, Skating, Ski
+- Tags: 3D Games, Action, Android, Boat, Race, skateboard, Skating, Ski

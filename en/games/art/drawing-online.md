@@ -24,4 +24,4 @@ Simple controls, hand-drawn style visuals, quick matchmaking, smooth touch drawi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing, Multiplayer, two-player
+- Tags: drawing, Multiplayer, two-player

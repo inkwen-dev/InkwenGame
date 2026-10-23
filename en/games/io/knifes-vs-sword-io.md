@@ -21,4 +21,4 @@ Click on the screen move left or right
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Adventure, Arcade, Boy, Boys, Fight, Fighting, HTML, HTML5, Hypercasual, Kill, Killing, Sword
+- Tags: .io, .io Games, Action, Adventure, Arcade, Boy, Boys, Fight, fighting, HTML, HTML5, Hypercasual, Kill, Killing, sword

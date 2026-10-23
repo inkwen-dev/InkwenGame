@@ -21,4 +21,4 @@ Batty Jump - is the hottest new game in which you have to avoid the pillars!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bird, Escape, Flight, fly, jump, Puzzle
+- Tags: Bird, Escape, flight, fly, jump, Puzzle

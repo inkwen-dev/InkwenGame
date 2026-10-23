@@ -23,4 +23,4 @@ Leah went to play stakeboard on the street. But she was distracted and hit a car
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Funny, hospital, Surgery
+- Tags: Funny, hospital, surgery

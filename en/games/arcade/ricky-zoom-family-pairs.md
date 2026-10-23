@@ -21,4 +21,4 @@ Improve your memory and complete the puzzle in the Ricky Zoom: Family Pairs game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Anime, Arcade, Brain, Cartoon, Cartoon Network, Difference, Disney, HTML5, Kids, Memory
+- Tags: 3D, Anime, Arcade, Brain, Cartoon, Cartoon Network, Difference, Disney, HTML5, Kids, memory

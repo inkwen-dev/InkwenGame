@@ -24,4 +24,4 @@ Do you love playing Solitaire? Get ready for Solitaire: Yukon Play Cards, a fun 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cards, Solitaire
+- Tags: cards, solitaire

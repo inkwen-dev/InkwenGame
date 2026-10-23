@@ -19,6 +19,6 @@ Doodle Jump v4 - Ultra Edition is a highly optimized and feature-rich arcade pla
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 2025 games, Platform

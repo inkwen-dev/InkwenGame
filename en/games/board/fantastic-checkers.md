@@ -15,6 +15,6 @@ Dive into Fantastic Checkers' enthralling realm where orcs clash with humans. Ex
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: checkers

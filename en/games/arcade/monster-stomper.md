@@ -21,4 +21,4 @@ Dive into an action packed arcade platformer fueled by intense music. Test your 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, amazing, Best, Block, Bounce, Casual, Click, Crazy, Fun, jetpack, Jumping, Music, touch
+- Tags: 2D, Action, amazing, Best, block, Bounce, Casual, Click, crazy, Fun, jetpack, jumping, music, touch

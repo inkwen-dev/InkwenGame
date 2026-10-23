@@ -19,6 +19,6 @@ Candy Blocks - Very interesting 2D puzzle game with candy blocks. You need to co
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Bricks, Candy, Casual, Classic, Clicker, Collecting, Girls, HTML5, Logical, Matching, Mind, Mobile, Online, Physics, Puzzle, Relaxation, Tetris, Timing
+- Tags: block, Bricks, Candy, Casual, Classic, Clicker, Collecting, Girls, HTML5, Logical, Matching, Mind, Mobile, Online, Physics, Puzzle, Relaxation, tetris, Timing

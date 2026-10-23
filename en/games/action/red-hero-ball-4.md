@@ -21,4 +21,4 @@ Red Hero 4 is old classic bouncing ball plat-former game similar to Rolling Ball
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Mario, Platform, Red, Super, Superhero
+- Tags: Ball, mario, Platform, Red, Super, Superhero

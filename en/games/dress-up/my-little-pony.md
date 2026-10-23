@@ -21,4 +21,4 @@ Four different cute ponies are waiting for your help to be more beautiful and fl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Color, Cute, Fun, Funny, Girls, Horse, Kid, Kids, Makeover, Pony
+- Tags: Animal, Color, Cute, Fun, Funny, Girls, horse, Kid, Kids, Makeover, Pony

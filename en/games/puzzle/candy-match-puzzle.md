@@ -19,6 +19,6 @@ Dive into a delightful puzzle experience with Candy Puzzle Match, where matching
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Candy, Hypercasual, Kids, Match 3, Match3, Matching, Puzzle
+- Tags: block, Candy, Hypercasual, Kids, Match 3, Match3, Matching, Puzzle

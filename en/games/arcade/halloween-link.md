@@ -21,4 +21,4 @@ Halloween Link is a classic block elimination game. In this game you can elimina
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Board, Halloween, HTML5, Mobile, Puzzle
+- Tags: Arcade, block, Board, Halloween, HTML5, Mobile, Puzzle

@@ -21,4 +21,4 @@ Enter the green battlefield in this amazing version of the beautiful football ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Battle, Football, Soccer
+- Tags: 2 Player, 2 Player Games, battle, Football, Soccer

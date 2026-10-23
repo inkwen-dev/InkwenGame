@@ -19,6 +19,6 @@ Fruit Cutting Game is a new Arcade game with RPG game play, in which you slice f
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, cut, Interactive, Slicing

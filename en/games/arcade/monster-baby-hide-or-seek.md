@@ -19,6 +19,6 @@ Monster Baby Hide or Seek is an engaging mobile game where players embark on a w
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Baby, Horror, Unity3D, WebGL

@@ -19,6 +19,6 @@ Welcome to Rainbow Friends Coloring Book, free online coloring game for kids. Ra
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Boy, Cartoon, Coloring, Draw, Drawing, Girls, HTML5, Hypercasual, Kids, Mobile, School
+- Tags: Android, Arcade, Boy, Cartoon, Coloring, Draw, drawing, Girls, HTML5, Hypercasual, Kids, Mobile, School

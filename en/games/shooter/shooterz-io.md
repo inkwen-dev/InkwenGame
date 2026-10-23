@@ -21,4 +21,4 @@ ShooterZ.io is a cool game where you can have a lot of fun with your friends. En
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Gun, Multiplayer, Sniper, Unity3D, weapons, WebGL
+- Tags: .io, .io Games, 3D, 3D Games, Action, Gun, Multiplayer, sniper, Unity3D, weapons, WebGL

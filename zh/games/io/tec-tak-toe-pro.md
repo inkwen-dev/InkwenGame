@@ -21,4 +21,4 @@ Tec Tak Toe Pro &ndash; 最终极的井字棋挑战！进入 Tec Tak Toe Pro 的
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 单人, 2048, 奇妙
+- 标签: .io, .io 游戏, 单人, 2048, 惊人

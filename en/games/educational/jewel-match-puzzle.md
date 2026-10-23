@@ -21,4 +21,4 @@ Explore a World of Jewels and Adventure Step into a sparkling journey through de
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 3D Games, Best Games, Brain, Educational, Jewel, Logic, Matching, Math, Puzzle, Quiz
+- Tags: 2026 games, 3D Games, Best Games, Brain, educational, Jewel, Logic, Matching, math, Puzzle, Quiz

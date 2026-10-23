@@ -21,4 +21,4 @@ Money Heist (Spanish: La casa de Papel, "The House of Paper") is a Spanish heist
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Air, Aircraft, Arcade, Crazy, weapons
+- Tags: 1 Player, 2D, Action, Adventure, Air, Aircraft, Arcade, crazy, weapons

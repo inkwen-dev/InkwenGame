@@ -21,4 +21,4 @@ Embrace your warrior spirit in Stickboy Epic Swordsman, an exciting online game 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Boys, popular, Skill, Stickman
+- Tags: Action, Boys, popular, Skill, stickman

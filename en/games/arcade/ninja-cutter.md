@@ -19,6 +19,6 @@ It's a very addictive, fun and challenging ninja game. Cut the bamboo and don't 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Arcade, Boy, Boys, Casual, Click, Clicker, cut, HTML5, Hypercasual, Kids, Ninja, Ninjago, Skill, Skills, Sword
+- Tags: 1 Player, 2D, Action, Adventure, Arcade, Boy, Boys, Casual, Click, Clicker, cut, HTML5, Hypercasual, Kids, ninja, Ninjago, Skill, Skills, sword

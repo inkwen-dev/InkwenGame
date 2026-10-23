@@ -21,4 +21,4 @@ Get behind the wheel and explore the world of cycles, where you'll find a pletho
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Android, Bike, Driving, HTML5, Mobile
+- Tags: 3D Games, Android, bike, Driving, HTML5, Mobile

@@ -21,4 +21,4 @@ Spatial puzzle is a type of game or challenge that tests a player&rsquo;s abilit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Matching, Math, Puzzle
+- Tags: Matching, math, Puzzle

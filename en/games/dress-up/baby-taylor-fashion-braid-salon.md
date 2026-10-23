@@ -19,6 +19,6 @@ Oh no! Taylors hair has grown long and messy, but dont worry, because youre here
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Games, Dress Up, Fashion, Girl, Girls, Hair, Kid, Kids, Makeover, Simulation

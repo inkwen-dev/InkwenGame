@@ -19,6 +19,6 @@ Jump on Jupiter and go through platforms to increase your score. Hitting an aste
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, jump, Jumping
+- Tags: HTML5, jump, jumping

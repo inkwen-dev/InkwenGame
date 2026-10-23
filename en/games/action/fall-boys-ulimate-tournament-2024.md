@@ -19,6 +19,6 @@ Welcome to the Fall Boys Ultimate Tournament 2024! Step into a vibrant world fil
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Fall Boys, Fall Guys, Mentolatux, Multiplayer, run, running, unity games, WebGL

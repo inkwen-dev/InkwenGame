@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 赛车, 体育, 运动
+- 标签: 竞速, 运动, 体育

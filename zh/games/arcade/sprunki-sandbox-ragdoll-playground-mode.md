@@ -39,4 +39,4 @@ Sprunki Sandbox：布娃娃游乐场模式是一款包含破坏、战斗、建�
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 搞笑, 软体娃娃
+- 标签: 搞笑, 布娃娃

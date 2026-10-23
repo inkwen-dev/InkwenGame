@@ -19,6 +19,6 @@ Get ready to unleash your slicing skills in the ultimate fruity frenzy! Fruit Sl
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Best Games, cut, Fruit, Fruits, H5, HTML5, Ninja
+- Tags: 1 Player, 2D, Adventure, Best Games, cut, Fruit, Fruits, H5, HTML5, ninja

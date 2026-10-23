@@ -21,4 +21,4 @@ Are you Ready to play againt time and connect monter tiles in this amazing puzzl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Clicker, Hot, Mahjong, Match3, Matching, Monster, Puzzle
+- Tags: Best, Clicker, Hot, mahjong, Match3, Matching, monster, Puzzle

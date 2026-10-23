@@ -21,4 +21,4 @@ Who are these adorable Santa's helpers? The holiday season is here and Sweet Bab
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Cleaning, Decorate, Decoration, Dress Up, Educational, Fun, Girl, Girls, H5, House, HTML5, Hypercasual, Kid, Kids, Makeover
+- Tags: Christmas, Cleaning, Decorate, Decoration, Dress Up, educational, Fun, Girl, Girls, H5, House, HTML5, Hypercasual, Kid, Kids, Makeover

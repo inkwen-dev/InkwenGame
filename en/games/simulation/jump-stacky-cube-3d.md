@@ -21,4 +21,4 @@ Here is a cube jumping arcade game for you to play. With 3D cubes and platforms,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Block, Collecting, Mobile, Platform, Simulation, Stickman, Unity3D
+- Tags: 3D, Arcade, block, Collecting, Mobile, Platform, Simulation, stickman, Unity3D

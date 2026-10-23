@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 摧毁, 机器人, 超级
+- 标签: 破坏, 机器人, 超级

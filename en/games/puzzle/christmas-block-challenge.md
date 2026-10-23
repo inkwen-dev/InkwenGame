@@ -19,6 +19,6 @@ Christmas Block Challenge: Strategically place festive blocks on a 10x10 grid, c
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Christmas, HTML, Mobile, Tetris, Winter
+- Tags: block, Christmas, HTML, Mobile, tetris, Winter

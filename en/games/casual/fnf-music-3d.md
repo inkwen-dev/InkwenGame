@@ -21,4 +21,4 @@ FNF Music 3D game is a music and beat rhythm video game in which you'll have to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Music, Rhythm
+- Tags: music, Rhythm

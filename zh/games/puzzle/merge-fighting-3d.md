@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 战斗, 战斗, 怪物, 模拟, 木偶人, 剑, 武器
+- 标签: 战斗, 格斗, monster, 模拟, 木偶人, 剑, 武器

@@ -19,6 +19,6 @@ Play 5 classic game modes (Muggins, Draw, Block, Sewastpol and Bergen) Beautiful
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Brain, Puzzle

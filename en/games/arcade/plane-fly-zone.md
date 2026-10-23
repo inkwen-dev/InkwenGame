@@ -19,6 +19,6 @@ Experience the ultimate airport adventure in Plane Fly Zone! Manage your own air
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Adventure, airplane, Arcade, Avoid, Best Games, fly, Levels, Skill, sky

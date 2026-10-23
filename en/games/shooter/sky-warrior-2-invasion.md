@@ -19,6 +19,6 @@ Sky Warrior 2, is a arcade game, fascinating and beautiful game in which you hav
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Air, Aircraft, Arcade, Battle, Fight, Games, HTML5, Plane, Shoot 'Em Up, Shooter, Shooting, sky, Tank, War
+- Tags: 1 Player, 2D, Adventure, Air, Aircraft, Arcade, battle, Fight, Games, HTML5, Plane, Shoot 'Em Up, Shooter, Shooting, sky, Tank, War

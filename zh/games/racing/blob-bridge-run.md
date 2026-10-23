@@ -21,4 +21,4 @@ WASD 或 方向键
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 乐趣, 搞笑, 跑步, Stickman
+- 标签: 有趣, 搞笑, 奔跑, 木偶人

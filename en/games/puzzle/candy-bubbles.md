@@ -19,6 +19,6 @@ Amazing candy bubble buster game comes, it's the best Bubble Shooter with amazin
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ballon, Bubble, Bubble Shooter, Candy, Click, Clicker, Girl, HTML, HTML5, Puzzle, Shooter

@@ -19,6 +19,6 @@ Shoter Bubble is a fresh new version of the well-known game bubble shooter. Help
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Animal, Arcade, Boy, Boys, Bubble, Bubble Shooter, Cartoon Network, Fun, Funny, Girl, Girls, HTML5, Puzzle

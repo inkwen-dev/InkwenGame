@@ -21,4 +21,4 @@ Blast off for the stratosphere with Rocket Adventure, the addictive physics rock
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Arcade, Clicker, Flight, html games for your website, kiz10, Rocket, sky
+- Tags: 1 Player, Adventure, Arcade, Clicker, flight, html games for your website, kiz10, Rocket, sky

@@ -21,4 +21,4 @@ Prado Car Parking driving games 2022 We know that you are here with a hope to fi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, Action, Adventure, Arcade, Balance, Fun, Funny, Jumping, Racing, Stunts
+- Tags: .io Games, 2 Player Games, 3D Games, Action, Adventure, Arcade, Balance, Fun, Funny, jumping, Racing, Stunts

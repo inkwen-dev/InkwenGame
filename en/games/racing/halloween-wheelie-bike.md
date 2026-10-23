@@ -19,6 +19,6 @@ How Long Can You Hold The Wheelie? Halloween Wheelie Bike is a fun addictive cas
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Casual, Fun, Halloween, Hypercasual, Racing
+- Tags: bike, Casual, Fun, Halloween, Hypercasual, Racing

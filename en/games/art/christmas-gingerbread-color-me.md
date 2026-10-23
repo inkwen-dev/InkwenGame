@@ -19,6 +19,6 @@ Soon our favorite holiday is Christmas! Let's cook treats, delicious and beautif
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Color, Coloring

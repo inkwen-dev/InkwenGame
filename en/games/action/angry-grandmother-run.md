@@ -19,6 +19,6 @@ Up Arrow - Jump Down Arrow - Slide Left Right Arrow Keys - Turn A D Keys - Left 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, HTML, HTML5, jump, Jumping, run, running, subway, Subway Surfers
+- Tags: 3D, Action, Adventure, HTML, HTML5, jump, jumping, run, running, subway, Subway Surfers

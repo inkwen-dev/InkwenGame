@@ -19,6 +19,6 @@ Super soccer star Cristiano Ronaldo is going to start an exciting adventure. He 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boy, Boys, Football, Fun, H5, HTML5, Kid, Kids, Soccer, Sport, Sports
+- Tags: 3D, 3D Games, Boy, Boys, Football, Fun, H5, HTML5, Kid, Kids, Soccer, Sport, sports

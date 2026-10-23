@@ -19,6 +19,6 @@ Chained Cars 3D is a real-time vehicle racing simulator that has a new rapid bea
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Driving, Racing, Supercars, Unity3D, WebGL

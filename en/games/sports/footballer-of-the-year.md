@@ -21,4 +21,4 @@ Footballer of the Year is a casual football game that tests your reflexes and ha
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Hypercasual, Obstacle, Soccer, Sports
+- Tags: Football, Hypercasual, Obstacle, Soccer, sports

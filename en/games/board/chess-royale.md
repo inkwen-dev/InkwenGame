@@ -26,4 +26,4 @@ A non-standard chess game in which kings have magical powers. The player needs t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 1v1, Board, chess, Magic, Mobile, Strategy
+- Tags: 1v1, Board, chess, Magic, Mobile, strategy

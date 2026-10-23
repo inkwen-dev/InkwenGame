@@ -19,6 +19,6 @@ Girls Bag Coloring Book is super fun and free to play online coloring game for k
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Baby, Boys, Coloring, Drawing, Fun, Girls, Hypercasual, Kids, Mobile, School
+- Tags: Android, Baby, Boys, Coloring, drawing, Fun, Girls, Hypercasual, Kids, Mobile, School

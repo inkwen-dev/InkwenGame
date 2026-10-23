@@ -21,4 +21,4 @@ Foot Starts game Play it on iyigames.com. Soccer has never been this fun. Simply
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Fun, Girls, HTML5, Shoot, Soccer, Sports
+- Tags: Boys, Fun, Girls, HTML5, Shoot, Soccer, sports

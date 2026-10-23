@@ -1,0 +1,24 @@
+# 守护战士
+
+<a href="https://inkwengame.com/zh/games/guard-warrior" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/guard-warrior/cover.jpg)
+
+帮助勇敢的战士击败入侵的怪物，成为英雄
+
+## 怎么玩
+
+鼠标
+
+## 介绍
+
+帮助勇敢的战士击败入侵的怪物，成为英雄
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/puzzle" target="_blank" rel="noopener noreferrer">益智</a>
+- 画面方向: portrait
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: H5, 杀戮

@@ -19,6 +19,6 @@ This is a trending idle game, a new Sims experience is about to begin. You go fr
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boys, Fighting, Hypercasual, Kids, War
+- Tags: 3D, Boys, fighting, Hypercasual, Kids, War

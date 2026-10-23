@@ -21,4 +21,4 @@ The castle looks very skilled! Each piece is so perfect to support the entire st
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Avoid, Boy, Game, Kid, Kids, Puzzle, Skill, Tetris
+- Tags: 3D, 3D Games, Avoid, Boy, Game, Kid, Kids, Puzzle, Skill, tetris

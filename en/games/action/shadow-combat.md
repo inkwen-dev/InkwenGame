@@ -19,6 +19,6 @@ BECOME THE SHADOW FIGHT HERO IN A NEW MULTIPLAYER FIGHTING GAME! Fight against o
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 3D Games, Action, Adventure, Fight, Fighting, Level, Multiplayer, Ninja, Skill, Stealth
+- Tags: 2026 games, 3D Games, Action, Adventure, Fight, fighting, Level, Multiplayer, ninja, Skill, Stealth

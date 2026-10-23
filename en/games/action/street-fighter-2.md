@@ -21,4 +21,4 @@ Street Fighter 2 is a classic fighting game featuring the epic Ryu vs Sagat figh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting, Street Fighting
+- Tags: Fight, fighting, Street Fighting

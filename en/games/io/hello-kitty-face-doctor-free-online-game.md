@@ -19,6 +19,6 @@ Welcome back here on games-kids.com, where dear friends, we have for you more ne
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Baby, Best, Boys, Cat, Doctor, Games, Girls, Hello Kitty, Kids, New

@@ -21,4 +21,4 @@ Kicky House Escape 是由 8B Games/Games2Mad 开发的一款点击式逃脱游�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 逃脱, 点击解谜
+- 标签: 逃脱, 点击式

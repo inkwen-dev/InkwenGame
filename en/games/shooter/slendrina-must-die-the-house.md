@@ -19,6 +19,6 @@ You need to figure out is Slendrina bulletproof. Can she really die... Find 8 pi
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Shooter, Undead, weapons, WebGL, Zombie

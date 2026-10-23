@@ -19,6 +19,6 @@ Unfair Mario 2 is a brand new hidden obstacles type of game featuring the most b
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Hidden, HTML5, Jumping, Mario, Obstacle, Platform
+- Tags: Hidden, HTML5, jumping, mario, Obstacle, Platform

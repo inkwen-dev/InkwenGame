@@ -15,6 +15,6 @@ Blast away at the descending centipede as it weaves unpredictably through a maze
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Snake
+- Tags: snake

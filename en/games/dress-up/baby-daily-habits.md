@@ -19,6 +19,6 @@ Baby Daily Habits is a very popular educational game. In this game, you will lea
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cleaning, Cute, Dress Up, Educational, Food, Fruit, Fun, Girls, HTML5, Kids, Mobile
+- Tags: Baby, Cleaning, Cute, Dress Up, educational, Food, Fruit, Fun, Girls, HTML5, Kids, Mobile

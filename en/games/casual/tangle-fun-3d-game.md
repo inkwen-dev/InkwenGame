@@ -19,6 +19,6 @@ Tangle Fun 3D is a free online leisure and puzzle game for boys played on Puzzle
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Boy, Brain, Fun, HTML5, Kids, Online, Punch, Skill

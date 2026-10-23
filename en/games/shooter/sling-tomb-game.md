@@ -19,6 +19,6 @@ Help the little pets to sling and bounce to the top but watch out the obstacles 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boys, Hypercasual, Kid, Kids, Shooter

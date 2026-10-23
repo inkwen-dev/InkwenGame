@@ -21,4 +21,4 @@ Click on the screen
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Brawl, Card, Click, Clicker, Hot, HTML, HTML5, Hypercasual, Memory, Mind
+- Tags: Brain, Brawl, card, Click, Clicker, Hot, HTML, HTML5, Hypercasual, memory, Mind

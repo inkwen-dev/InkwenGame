@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 汽车, 汽车们, 城市, 漂移, 漂移, 驾驶, 模拟器, 超级跑车, Unity3D, WebGL
+- 标签: 3D, 汽车, 汽车, 城市, 漂移, 漂移, 驾驶, 模拟器, 超跑, Unity3D, WebGL

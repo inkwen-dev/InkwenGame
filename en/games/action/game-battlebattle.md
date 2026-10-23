@@ -19,6 +19,6 @@ The most exciting battle of all time is about to start again! For thousands of y
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Battle, Battlegrounds, Best, Casual, Fighting, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Puzzle, Street Fighting
+- Tags: Arcade, battle, Battlegrounds, Best, Casual, fighting, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Puzzle, Street Fighting

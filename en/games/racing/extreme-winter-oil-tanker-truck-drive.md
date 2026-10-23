@@ -19,6 +19,6 @@ Winter survival is hard and oil plays an important part in helping with that. Pe
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Driving, Truck, Winter
+- Tags: 3D, 3D Games, Driving, truck, Winter

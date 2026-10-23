@@ -21,4 +21,4 @@ Dive into the underwater fun with Sponge Find The Differences, a thrilling puzzl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Educational, Girls, Hidden, Puzzle, School, Spongebob
+- Tags: Boys, educational, Girls, Hidden, Puzzle, School, Spongebob

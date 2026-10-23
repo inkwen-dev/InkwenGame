@@ -19,6 +19,6 @@ Want a magical and exciting running adventure? Step into Princess Run 3D, a fun 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Princess, running

@@ -19,6 +19,6 @@ Real Cargo Truck Driver 2025 is an immersive truck simulation game where players
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: cargo, Driving, Mentolatux, Truck, unity, WebGL
+- Tags: cargo, Driving, Mentolatux, truck, unity, WebGL

@@ -21,4 +21,4 @@ SQID SKIBIDI is mixed game between each of squid game and squibidi its a really 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 3D, Android, HTML5, iPhone, Mobile, Puzzle, Skibidi, Skibidi Toilet, Skill
+- Tags: .io, 3D, Android, HTML5, iPhone, Mobile, Puzzle, Skibidi, skibidi-toilet, Skill

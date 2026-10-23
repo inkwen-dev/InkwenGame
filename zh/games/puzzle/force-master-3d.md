@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, Android, 男孩, 大脑, 乐趣, HTML5, kids, 数学, 数字, 在线, 谜题
+- 标签: 3D, 安卓, 男孩, 大脑, 有趣, HTML5, 儿童, 数学, 数字, 在线, 益智

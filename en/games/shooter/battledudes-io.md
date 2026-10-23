@@ -19,6 +19,6 @@ Battledudes.io is a real multiplayer 2d shooter game with a fully destructible m
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2D, Action, Battle, Battlegrounds, HTML, HTML5, Multiplayer, Shooter, Shooting, weapons
+- Tags: .io, .io Games, 2D, Action, battle, Battlegrounds, HTML, HTML5, Multiplayer, Shooter, Shooting, weapons

@@ -21,4 +21,4 @@ Play this Latest Retro KickBoxing game and make it your favorite kickboxing game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boxing, Boy, Boys, Fight, Fighting, HTML, HTML5, Sport, Sports, Street Fighting
+- Tags: Arcade, Boxing, Boy, Boys, Fight, fighting, HTML, HTML5, Sport, sports, Street Fighting

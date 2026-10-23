@@ -21,4 +21,4 @@ Word Picture Guesser is a brain-teasing word game that pushes your vocabulary an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Guessing, Unity3D, WebGL, Word
+- Tags: Arcade, Guessing, Unity3D, WebGL, word

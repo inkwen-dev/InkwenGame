@@ -21,4 +21,4 @@ Sponge Bob Endless Run is an online game that you can play for free. Collect as 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Avoid, Boys, Collecting, Fun, HTML5, jump, Jumping, Kids, Mobile, Platform, run, Skill, Spongebob
+- Tags: Android, Avoid, Boys, Collecting, Fun, HTML5, jump, jumping, Kids, Mobile, Platform, run, Skill, Spongebob

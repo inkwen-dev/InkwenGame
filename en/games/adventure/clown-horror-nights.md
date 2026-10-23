@@ -19,6 +19,6 @@ Welcome to Clown Horror Nights scary survival game, which will as a lot of patie
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adult, Adventure, Boys, Escape, HTML5, Puzzle

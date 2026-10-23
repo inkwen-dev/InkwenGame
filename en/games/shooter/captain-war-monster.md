@@ -21,4 +21,4 @@ Simple and easy operation: control the captain to move forward or backward to sh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Fight, Fighting, Fire, HTML5, Shoot
+- Tags: Action, Fight, fighting, Fire, HTML5, Shoot

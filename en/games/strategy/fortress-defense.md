@@ -19,6 +19,6 @@ Get ready for a fun and action-packed tower defense game! Defend your castle fro
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Castle, Casual, Defense, HTML5, Hypercasual, King, Shooting, Strategy, Tower Defense
+- Tags: Action, Arcade, Castle, Casual, Defense, HTML5, Hypercasual, King, Shooting, strategy, Tower Defense

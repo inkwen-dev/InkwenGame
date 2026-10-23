@@ -21,4 +21,4 @@ This is an alternative dress changing game, which adopts the new 3D high-quality
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Coloring, Girls, Kids, Management, Matching, Puzzle
+- Tags: 3D, 3D Games, Coloring, Girls, Kids, management, Matching, Puzzle

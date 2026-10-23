@@ -19,6 +19,6 @@ Timber Squirrel is a cozy 3D physics-puzzle game starring a hungry squirrel who 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Brain, Casual, Logic, Puzzle

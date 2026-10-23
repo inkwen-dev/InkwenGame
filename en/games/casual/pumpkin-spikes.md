@@ -21,4 +21,4 @@ Pumpkin Spikes is a fun adventure game thats exciting to play. Here is our littl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Family, Halloween, HTML, HTML5, mapi games, Monster, run
+- Tags: Casual, Family, Halloween, HTML, HTML5, mapi games, monster, run

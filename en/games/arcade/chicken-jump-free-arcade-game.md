@@ -19,6 +19,6 @@ Jump and tap to dive! Help your chicken collect coins! Unlock skins! Easy to lea
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Chicken, jump, Jumping, run
+- Tags: Chicken, jump, jumping, run

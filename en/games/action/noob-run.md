@@ -21,4 +21,4 @@ Noob Run is an exciting endless runner game tailored-made for mobile devices. Ta
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Ball, Cute, endless, Minecraft, Miner, Monster, Pixel, run, running, temple, Unity3D
+- Tags: 3D, 3D Games, Arcade, Ball, Cute, endless, Minecraft, Miner, monster, pixel, run, running, temple, Unity3D

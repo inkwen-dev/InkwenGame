@@ -21,4 +21,4 @@ The invincible boxer game is a combat game with action breakthrough. The picture
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Boy, Boys, Casual, Collecting, Collection, Fight, Fighting, Fun, Funny, Game, Games, Girl, Girls, Google, H5, HTML5, Hypercasual, Kid, Kids, Mobile, PvP, Skill, Skills, Sport, Sports, Stickman, Stunts, Superhero
+- Tags: 3D Games, Action, Boy, Boys, Casual, Collecting, Collection, Fight, fighting, Fun, Funny, Game, Games, Girl, Girls, Google, H5, HTML5, Hypercasual, Kid, Kids, Mobile, PvP, Skill, Skills, Sport, sports, stickman, Stunts, Superhero

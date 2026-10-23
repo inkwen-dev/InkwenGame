@@ -21,4 +21,4 @@ Many different creatures are coming to attack the castle. The crazy engineer has
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Defense, Strategy, Tower Defense
+- Tags: Action, Adventure, Defense, strategy, Tower Defense

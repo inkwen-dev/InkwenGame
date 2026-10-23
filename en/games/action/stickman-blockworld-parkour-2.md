@@ -21,4 +21,4 @@ stickman guys need to survive in the world of blocks two brothers stikmans have 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Minecraft, Stickman
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Minecraft, stickman

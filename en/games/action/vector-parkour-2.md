@@ -21,4 +21,4 @@ RUN FOR YOUR LIFE Descend through a huge and complex research facility and try t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Aircraft, Arcade, Crazy, Defense, Fight, Fighting, Road, Robot, running
+- Tags: Adventure, Aircraft, Arcade, crazy, Defense, Fight, fighting, Road, Robot, running

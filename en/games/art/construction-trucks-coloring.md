@@ -21,4 +21,4 @@ Construction Trucks Coloring is a free online coloring and kids game! In this ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Coloring, Fun, HTML5, Kids, Mobile, Truck
+- Tags: Coloring, Fun, HTML5, Kids, Mobile, truck

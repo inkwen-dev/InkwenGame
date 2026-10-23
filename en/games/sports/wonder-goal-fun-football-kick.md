@@ -34,4 +34,4 @@ Get your soccer star Ready & dribble to hit the perfect kick & goal. Get ready t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, Funny, penalty, Soccer, Sports
+- Tags: Boys, Funny, penalty, Soccer, sports

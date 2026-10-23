@@ -21,4 +21,4 @@ Click the cards to flip a cold drink. Memorize their position and match them up 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, HTML5, Memory, Mobile, Summer
+- Tags: card, HTML5, memory, Mobile, Summer

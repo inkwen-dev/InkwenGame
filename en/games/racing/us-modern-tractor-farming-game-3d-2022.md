@@ -21,4 +21,4 @@ To start a new US Modern Tractor Farming Game 3D 2022: Modern Farm Game has a ne
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Adventure, Boys, Car, Casual, Drawing, Farm, Games
+- Tags: 1 Player, 3D, Adventure, Boys, Car, Casual, drawing, Farm, Games

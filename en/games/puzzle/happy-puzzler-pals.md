@@ -19,6 +19,6 @@ Welcome to Happy Puzzler Pals! Join a playful cast of wild animals in this excit
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Kids, Puzzle, puzzleblock

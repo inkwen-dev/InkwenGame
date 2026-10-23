@@ -19,6 +19,6 @@ Lego spiderman is fighting against the Green goblin. Throws a web at the goblin 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Boys, Car, Game, Games, HTML5, Lego, Shooting, Spiderman

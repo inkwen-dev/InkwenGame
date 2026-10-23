@@ -21,4 +21,4 @@ Combine similar zombies or plants on the same level to create a stronger army. Z
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, HTML5, Strategy, Zombie
+- Tags: 3D, Arcade, HTML5, strategy, Zombie

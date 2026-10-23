@@ -23,4 +23,4 @@ When the monster alien come to attack the earth, there's no body can save us exc
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Monster, Police, Robot
+- Tags: monster, police, Robot

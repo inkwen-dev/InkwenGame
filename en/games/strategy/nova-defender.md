@@ -19,6 +19,6 @@ A small online game in which you have to build a barrage tower and hold back squ
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Battle, Battlegrounds, Defense, Fight, Fighting, Gun, H5, HTML, HTML5, Kill, Killing, Stickman, Street Fighting, Tower Defense
+- Tags: Action, Adventure, Arcade, battle, Battlegrounds, Defense, Fight, fighting, Gun, H5, HTML, HTML5, Kill, Killing, stickman, Street Fighting, Tower Defense

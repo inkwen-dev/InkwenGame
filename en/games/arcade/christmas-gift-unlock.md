@@ -21,4 +21,4 @@ Dive into the festive spirit with the delightful Christmas Gift Unlock Game! Sli
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arcade, Best Games, Block, Christmas, NapTech Games, Puzzle, puzzleblock
+- Tags: 2D, Adventure, Arcade, Best Games, block, Christmas, NapTech Games, Puzzle, puzzleblock

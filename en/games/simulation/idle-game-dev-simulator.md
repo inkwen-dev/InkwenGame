@@ -35,4 +35,4 @@ From a dusty laptop in your garage to a sleek high-tech office buzzing with tale
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, idle, Management, Simulation, tycoon
+- Tags: Clicker, idle, management, Simulation, tycoon

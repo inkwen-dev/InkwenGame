@@ -15,6 +15,6 @@ Embark on a bouncy journey with Jelly Phil 2! Navigate intricate 2D labyrinths, 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Monster
+- Tags: monster

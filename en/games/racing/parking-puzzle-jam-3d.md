@@ -21,4 +21,4 @@ Parking Parking Jam 3D-Puzzle is a game that challenges you to display your logi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Car, Cars, HTML5, Hypercasual, Parking, Puzzle, Unity3D
+- Tags: 3D, 3D Games, Car, Cars, HTML5, Hypercasual, parking, Puzzle, Unity3D

@@ -21,4 +21,4 @@ Set out in search of ancient fossils and experience the work of a paleontologist
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Best, Best Games, Casual, dino, Dinosaur, Educational, Hypercasual, Kid, Kids, Mobile, Puzzle, touch, touchscreen
+- Tags: 2026 games, Best, Best Games, Casual, dino, Dinosaur, educational, Hypercasual, Kid, Kids, Mobile, Puzzle, touch, touchscreen

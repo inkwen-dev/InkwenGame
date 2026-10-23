@@ -21,4 +21,4 @@ Defend the galaxy in epic air battles! Blast enemies, upgrade ships, and conquer
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Aircraft, airplane, Flight, NapTech Games, Online, Shooter
+- Tags: 1 Player, Action, Aircraft, airplane, flight, NapTech Games, Online, Shooter

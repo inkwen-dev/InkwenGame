@@ -21,4 +21,4 @@ Get ready to experience the thrilling stunts with chained bike racing game adven
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, drift, Driving, Race, Sim, Simulation, Stunts
+- Tags: bike, drift, Driving, Race, Sim, Simulation, Stunts

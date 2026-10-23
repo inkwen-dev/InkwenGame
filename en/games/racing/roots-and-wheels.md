@@ -36,4 +36,4 @@ Translated with DeepL.com (free version)
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Car, Driving, Truck
+- Tags: Car, Driving, truck

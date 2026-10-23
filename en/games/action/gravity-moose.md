@@ -21,4 +21,4 @@ Gravity Moose is an old-school gravity runner. Why is this game crazy? You are a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Animal, Christmas, Jumping, Platform, run, running
+- Tags: 1 Player, 2D, Animal, Christmas, jumping, Platform, run, running

@@ -21,4 +21,4 @@ Let's dress Catrine DeMew very stylishly. She is a French werecat and a student 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dress Up, Fashion, Fun, Game, Girl, Girls, HTML5, Magic, Monster
+- Tags: Dress Up, Fashion, Fun, Game, Girl, Girls, HTML5, Magic, monster

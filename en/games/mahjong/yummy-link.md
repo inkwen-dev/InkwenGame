@@ -19,6 +19,6 @@ Welcome Yummy Link Puzzle Game. Tap to link two identical cake tiles to eleminat
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cake, Clicker, Mahjong, Puzzle
+- Tags: Cake, Clicker, mahjong, Puzzle

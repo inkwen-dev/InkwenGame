@@ -19,6 +19,6 @@ Rotate to Escape is a captivating puzzle adventure where you must navigate 60 tr
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Brain, Escape, free html5 games for your website, iPad, iPhone, Ladybug, Logic, Maze, Mobile, New, Puzzle, Rescue

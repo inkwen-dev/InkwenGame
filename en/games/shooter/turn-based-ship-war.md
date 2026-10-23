@@ -19,6 +19,6 @@ Press mouse or touch to start setting the perfect angle, Release to shoot on the
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, Action, Shoot, Shoot 'Em Up, Shooting, Turn Based, War

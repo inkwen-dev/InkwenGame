@@ -21,4 +21,4 @@ This is a casual game in which there are four operations that are calculations f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Fun, HTML5, Kids, Logic, Logical, Math, Mobile, School, Skill
+- Tags: educational, Fun, HTML5, Kids, Logic, Logical, math, Mobile, School, Skill

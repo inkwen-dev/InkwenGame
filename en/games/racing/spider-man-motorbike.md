@@ -19,6 +19,6 @@ Do you want to race on challenging tracks with Spider-Man? If you want, race wit
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Bike, Cartoon, Cartoon Network, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Moto, Motorcycle, Race, Racing, Spiderman
+- Tags: Action, Arcade, bike, Cartoon, Cartoon Network, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Moto, Motorcycle, Race, Racing, Spiderman

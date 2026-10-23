@@ -21,4 +21,4 @@ Ride safely on the skateboard without hitting obstacles. Overcome all obstacles 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Arcade, Casual, Driving, Kids, Skateboard, Skating, Sports
+- Tags: 3D, Action, Arcade, Casual, Driving, Kids, skateboard, Skating, sports

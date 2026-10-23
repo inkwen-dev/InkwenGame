@@ -19,6 +19,6 @@ Be fashion nail designer for your favorite Indian Gopi doll! Help your Gopi fash
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Cartoon, Color, Coloring, Decorate, Fashion, Kids, Makeover, Nail, Nails, Princess

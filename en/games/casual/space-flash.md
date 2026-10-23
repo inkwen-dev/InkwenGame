@@ -15,6 +15,6 @@ Race through cosmic tracks on a bike with gravity-defying stunts in Space Flash.
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Bike
+- Tags: bike

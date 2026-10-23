@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, 3D, 冒险, 最佳, 休闲, 疯狂, 战斗, 飞行, 乐趣, 轻度休闲, Unity3D
+- 标签: .io, 3D, 冒险, 最佳, 休闲, 疯狂, 格斗, 飞, 有趣, 超休闲, Unity3D

@@ -19,6 +19,6 @@ Engage in exhilarating car stunts and adrenaline-pumping action as you take the 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Android, Cars, Driving, HTML5, Mentolatux, Mobile, Racing, Stunts, Supercars, WebGL

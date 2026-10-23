@@ -19,6 +19,6 @@ The addictive Chota Singhaam Lonely Jungle Run is now here ! beat everyone and e
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: run, Subway Surfers

@@ -56,4 +56,4 @@ Don't let me down =)!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Management, tycoon
+- Tags: management, tycoon

@@ -19,6 +19,6 @@ Bus Stunts Game is a simulation of bus driving. Join the demolition arena. Crash
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, bus, Crazy, Fun, Funny, Obstacle, Race, Racing, Stunts, Unity3D
+- Tags: 3D, 3D Games, bus, crazy, Fun, Funny, Obstacle, Race, Racing, Stunts, Unity3D

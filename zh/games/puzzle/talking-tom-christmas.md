@@ -21,4 +21,4 @@ Talking Tom 圣诞节是一款可以免费玩的在线拼图游戏。使用鼠�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 卡通, HTML5, 拼图, 孩子们, 拼图, 技巧
+- 标签: 安卓, 卡通, HTML5, 拼图, 儿童, 益智, 技巧

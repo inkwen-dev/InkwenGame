@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 2D, Android, HTML, HTML5, 移动设备, 技巧
+- 标签: .io 游戏, 2D, 安卓, HTML, HTML5, 移动设备, 技巧

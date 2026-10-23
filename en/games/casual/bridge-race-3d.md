@@ -19,6 +19,6 @@ Bridge Race 3D is a fun and competitive casual game where you race to the finish
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Bridge, Collecting, Color, Race, Stack

@@ -21,4 +21,4 @@ Get ready for a spooktacular adventure with Halloween Coloring Book! Unleash you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Boys, Coloring, Cute, Drawing, Fun, Girls, Halloween, Holiday, HTML5, Kids, Mobile
+- Tags: Animal, Boys, Coloring, Cute, drawing, Fun, Girls, Halloween, Holiday, HTML5, Kids, Mobile

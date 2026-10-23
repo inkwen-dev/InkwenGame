@@ -17,4 +17,4 @@ Leap into action with Matthew and Bonfie as they confront Angry Al, an outrageou
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Crazy
+- Tags: crazy

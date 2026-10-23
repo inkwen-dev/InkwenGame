@@ -19,6 +19,6 @@ A typical and addictive tower defense game. Build your towers and upgrade them t
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Casual, Defense, Mobile, Monster, Puzzle, Relaxation, Tower Defense
+- Tags: Best, Casual, Defense, Mobile, monster, Puzzle, Relaxation, Tower Defense

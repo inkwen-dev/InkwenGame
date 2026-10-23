@@ -67,4 +67,4 @@ Esc：解锁鼠标
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, 动作, 冒险, 多人游戏, PvP
+- 标签: 3D, 动作, 冒险, 多人, PvP

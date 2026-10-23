@@ -19,6 +19,6 @@ Thats Not My Neighbor is a detective puzzle game. You are going to be the new ja
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Horror, Puzzle

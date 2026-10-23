@@ -19,6 +19,6 @@ Skibidi Toilet video call is a simple app for you to make a fake call video with
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Casual, Mario, Online, Simulation, Simulator, Skibidi Toilet, WebGL, World
+- Tags: Android, Arcade, Casual, mario, Online, Simulation, Simulator, skibidi-toilet, WebGL, World

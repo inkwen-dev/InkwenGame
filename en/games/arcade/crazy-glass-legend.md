@@ -21,4 +21,4 @@ Welcome to This Brand new Puzzle Game “Crazy Glass Legend” and start a journ
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2D, Anime, Arcade, Ballon, Boat, Casual, Drawing, Hypercasual, Unity3D
+- Tags: 2 Player, 2D, Anime, Arcade, Ballon, Boat, Casual, drawing, Hypercasual, Unity3D

@@ -21,4 +21,4 @@ Welcome to TetraBlocks Mosaic! You have a grid object to fill. Find Tetris-style
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Mobile, puzzleblock, Tetris
+- Tags: HTML5, Mobile, puzzleblock, tetris

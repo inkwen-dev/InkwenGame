@@ -21,4 +21,4 @@ SkyTap Dash is a fast-paced tap-to-fly arcade game with smooth controls, medals,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bird, Bounce, endless, flappybird, fly, Hypercasual, Jumping, Mobile
+- Tags: Arcade, Bird, Bounce, endless, flappybird, fly, Hypercasual, jumping, Mobile

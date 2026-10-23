@@ -21,4 +21,4 @@ Squid Color Game is a free coloring kids book game! In this game you have over 4
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Color, Coloring, Decorate, Draw, Drawing, Educational, Game, Games, HTML, HTML5, Simulation, Simulator
+- Tags: Boy, Boys, Color, Coloring, Decorate, Draw, drawing, educational, Game, Games, HTML, HTML5, Simulation, Simulator

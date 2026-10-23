@@ -19,6 +19,6 @@ Are you looking for horror game? Choo choo charlies is horror game with amazing 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Escape, Fight, Ghost, House, run, running, War

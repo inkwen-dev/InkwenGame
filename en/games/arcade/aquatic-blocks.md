@@ -21,4 +21,4 @@ Aquatic Blocks is a classic block collapse game where you need to eliminate all 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Fish, HTML5, Matching, Mobile, Puzzle
+- Tags: Arcade, block, Fish, HTML5, Matching, Mobile, Puzzle

@@ -25,4 +25,4 @@ Your objective is to survive every enemy wave and keep the goldfish cracker aliv
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, cats, Strategy, Tower Defense
+- Tags: animals, cats, strategy, Tower Defense

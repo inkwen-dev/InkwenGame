@@ -19,6 +19,6 @@ Welcome to Idle Lumber Run! Here you will ax down trees & convert them into wood
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Clicker, Craft, Crafting, cut, Sword
+- Tags: Adventure, Clicker, Craft, Crafting, cut, sword

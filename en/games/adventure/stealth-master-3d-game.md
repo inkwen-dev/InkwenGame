@@ -19,6 +19,6 @@ Stealth Master 3D is a free online action and leisure game for boys played on Pu
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Avoid, Boy, Brain, Escape, Fun, HTML5, Kids, Obstacle, Online, Puzzle, Stealth

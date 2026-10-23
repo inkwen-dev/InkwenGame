@@ -21,4 +21,4 @@ Discover the mystery of picture cross number puzzles! Solve the nonogram puzzles
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Brain, Casual, Hypercasual, Memory, Mobile, Puzzle, Strategy, Sudoku, Unity3D
+- Tags: 1 Player, Action, Adventure, Brain, Casual, Hypercasual, memory, Mobile, Puzzle, strategy, Sudoku, Unity3D

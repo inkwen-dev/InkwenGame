@@ -21,4 +21,4 @@ HexTank.io 是一款基于 Nimiq 区块链构建的 Web3 即时游戏，支持�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io游戏, 3D, 3D游戏, 多人, PvP, 坦克, 坦克, WebGL
+- 标签: .io, .io 游戏, 3D, 3D游戏, 多人, PvP, 坦克, tanks, WebGL

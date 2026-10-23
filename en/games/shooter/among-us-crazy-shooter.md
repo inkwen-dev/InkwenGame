@@ -19,6 +19,6 @@ There are imposters among us! Quickly move around on the building, avoiding all 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Best, Boys, Casual, Crazy, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Shoot, Shooter, Shooting, Strategy
+- Tags: Action, Adventure, Arcade, Best, Boys, Casual, crazy, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Shoot, Shooter, Shooting, strategy

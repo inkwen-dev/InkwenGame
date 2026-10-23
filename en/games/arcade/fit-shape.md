@@ -19,6 +19,6 @@ Fit Shape is a puzzle game that requires a sense of space. You need to figure ou
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Boy, Casual, Game, Kid, Puzzle, Skill

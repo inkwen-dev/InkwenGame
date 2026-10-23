@@ -21,4 +21,4 @@ PC 操作 使用鼠标跳跃 触控操作 触摸屏幕以跳跃
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: kiz10, 马里奥, 平台, 跑
+- 标签: kiz10, mario, 平台, 跑

@@ -21,4 +21,4 @@ Batman will be forced into precarious new roles. The Riddler has returned to ter
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Batman, Battle, Knight, Ninja, Ninjago, run, running, Samurai, Stickman
+- Tags: Adventure, Batman, battle, knight, ninja, Ninjago, run, running, Samurai, stickman

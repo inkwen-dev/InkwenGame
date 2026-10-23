@@ -21,4 +21,4 @@ Click the cards to reveal an animal. Memorize it so that you can match to simila
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Christmas, HTML5, Kids, Memory, Mobile, Puzzle
+- Tags: Board, Christmas, HTML5, Kids, memory, Mobile, Puzzle

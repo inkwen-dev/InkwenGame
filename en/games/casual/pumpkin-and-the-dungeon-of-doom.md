@@ -15,6 +15,6 @@ Survive 100 unsettling levels in Pumpkin And The Dungeon Of Doom. Outwit monster
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Monster
+- Tags: monster

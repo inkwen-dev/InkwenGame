@@ -19,6 +19,6 @@ Get smiley ball to the end of each of 20 levels. Avoid obstacles all the way lon
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Ball

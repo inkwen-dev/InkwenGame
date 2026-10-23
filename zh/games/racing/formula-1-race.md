@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1人玩家, 3D, 冒险, 平衡, 汽车, 汽车, 经典, 赛车, 交通, Unity3D, WebGL
+- 标签: 单人, 3D, 冒险, 平衡, 汽车, 汽车, 经典, 竞速, 交通, Unity3D, WebGL

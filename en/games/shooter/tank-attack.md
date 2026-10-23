@@ -19,6 +19,6 @@ In this game you need to destroy all other tanks opponent. Watch on tank health 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Shooting, Tanks
+- Tags: Action, Shooting, tanks

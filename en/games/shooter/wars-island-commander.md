@@ -21,4 +21,4 @@ A global zombie infestation has converted many into zombies. As a survivor, your
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Army, Battle, Battlegrounds, Collecting, Island, military, Shoot, Strategy, survival, War
+- Tags: 2026 games, Army, battle, Battlegrounds, Collecting, Island, military, Shoot, strategy, survival, War

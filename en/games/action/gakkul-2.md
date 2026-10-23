@@ -21,4 +21,4 @@ Gakkul 2 is a 2D platformer where you play as a boy who have to collect mangoes 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Bird, Boy, Cartoon, Collecting, Fruit, jump, Jumping, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Bird, Boy, Cartoon, Collecting, Fruit, jump, jumping, pixel, Platform, retro

@@ -21,4 +21,4 @@ Are you ready? Its time to smack some fish with Skibidi! This fun and crazy game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Draw, Drawing, Fight, Fighting, Fish
+- Tags: 1 Player, Animal, Draw, drawing, Fight, fighting, Fish

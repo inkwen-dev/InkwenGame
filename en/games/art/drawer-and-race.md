@@ -19,6 +19,6 @@ In Drawer And Race, participants compete to accurately depict a given word or ph
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Draw, Drawing, Kids, Race, Unity3D, WebGL
+- Tags: Animal, Draw, drawing, Kids, Race, Unity3D, WebGL

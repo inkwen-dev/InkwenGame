@@ -29,4 +29,4 @@ Feel like a true DJ: control the volume of each musician, trigger solos, tweak e
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Music
+- Tags: music

@@ -21,4 +21,4 @@ Save The Monkey is a puzzle game that tests your intelligence. A boulder has cru
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Boy, Brain, Kids, Strategy
+- Tags: Animal, Boy, Brain, Kids, strategy

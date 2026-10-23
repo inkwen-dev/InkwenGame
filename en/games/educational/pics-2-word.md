@@ -35,4 +35,4 @@ Can you guess the word? Four pictures, one answer! Test your brain with this add
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, intelligence, Logic, Mobile, Puzzle, Quiz, trivia, words
+- Tags: Brain, educational, intelligence, Logic, Mobile, Puzzle, Quiz, trivia, words

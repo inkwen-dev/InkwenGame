@@ -21,4 +21,4 @@ Ragdoll Warriors: Crazy Fighting Game - is an imposing stickman game, stickman w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Boy, Boys, Girl, Girls, HTML, HTML5, Hypercasual, Mobile, Stickman, War
+- Tags: Action, Boy, Boys, Girl, Girls, HTML, HTML5, Hypercasual, Mobile, stickman, War

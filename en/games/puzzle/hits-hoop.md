@@ -21,4 +21,4 @@ Hits Hoop game has a lot of success review and player this MONTH that significan
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Bubble Shooter, Music, Shoot, Shoot 'Em Up, Shooter, Shooting
+- Tags: 1 Player, 2D, Bubble Shooter, music, Shoot, Shoot 'Em Up, Shooter, Shooting

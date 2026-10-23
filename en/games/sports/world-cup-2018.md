@@ -21,4 +21,4 @@ Here is a small game that will allow anyone who wants to take part in an excitin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Ballon, Football, HTML, HTML5, Shoot, Skill, Skills, Soccer, Sport, Sports
+- Tags: Ball, Ballon, Football, HTML, HTML5, Shoot, Skill, Skills, Soccer, Sport, sports

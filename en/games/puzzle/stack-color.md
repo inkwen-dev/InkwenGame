@@ -21,4 +21,4 @@ Stack Color! is a casual tower stacking game! Blocks are drop from above and you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Color, Highscore, Stack
+- Tags: block, Color, Highscore, Stack

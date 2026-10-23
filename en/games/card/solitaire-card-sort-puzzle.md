@@ -21,4 +21,4 @@ Solitaire Card Sort Puzzle is a clever color matching and sorting game designed 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Brain, Card, Casual, Puzzle
+- Tags: Best, Brain, card, Casual, Puzzle

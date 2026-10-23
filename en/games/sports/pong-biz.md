@@ -21,4 +21,4 @@ A casual game of table tennis, fun and challenging.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Casual, HTML5, Mobile, Pinball, Sports, Tennis
+- Tags: Ball, Casual, HTML5, Mobile, Pinball, sports, Tennis

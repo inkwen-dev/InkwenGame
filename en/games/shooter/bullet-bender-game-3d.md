@@ -21,4 +21,4 @@ Understanding that racism is not inherent in human beings, we corroborate peacef
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Alien, Batman, Battle, Battlegrounds, Ben 10, Fight, Fighting, Shoot, Shoot 'Em Up, Shooter, Shooting, Street Fighting
+- Tags: Alien, Batman, battle, Battlegrounds, Ben 10, Fight, fighting, Shoot, Shoot 'Em Up, Shooter, Shooting, Street Fighting

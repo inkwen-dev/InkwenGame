@@ -21,4 +21,4 @@ PC Web W A S D – 移动 箭头键 – 移动 鼠标 – 导航UI 移动端 触
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 2D, 逃脱, 逻辑, 迷宫
+- 标签: 单人, 2D, 逃脱, 逻辑, 迷宫

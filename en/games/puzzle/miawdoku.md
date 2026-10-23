@@ -21,4 +21,4 @@ MiawDoku! &ndash; the purrfect Sudoku-inspired puzzle game for cat lovers! Swap 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cat, Math, Puzzle, Sudoku
+- Tags: Cat, math, Puzzle, Sudoku

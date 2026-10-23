@@ -19,6 +19,6 @@ My Virtual Pet Shop is a pet simulator game. In this pet shop game suitable for 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Baby, Business, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: 2D, Animal, Baby, Business, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

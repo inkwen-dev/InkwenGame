@@ -25,4 +25,4 @@ Arkanoid For Painters is a thrilling online game where players create barriers t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: blocks, Drawing, Retro
+- Tags: blocks, drawing, retro

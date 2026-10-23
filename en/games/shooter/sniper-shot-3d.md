@@ -21,4 +21,4 @@ Take down your targets as quickly as possible in this action packed 3D stickman 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Gun, Shooter, Sniper, Stickman, weapons
+- Tags: Action, Gun, Shooter, sniper, stickman, weapons

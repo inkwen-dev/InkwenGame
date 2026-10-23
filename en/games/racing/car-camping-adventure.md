@@ -19,6 +19,6 @@ Enjoy winter vacations by family camping on sea beach & among uphill mountains w
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Boy, Car, Family, Girls

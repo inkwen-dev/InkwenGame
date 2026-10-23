@@ -21,4 +21,4 @@ Christmas Cards Jigsaw is a game where you have to assemble the parts of the New
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Christmas, Jigsaw, Kids, Puzzle
+- Tags: card, Christmas, Jigsaw, Kids, Puzzle

@@ -19,6 +19,6 @@ Ramp Car Game is an action-packed 3D driving adventure where your skills are put
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Best Games, Car, Race, Racing

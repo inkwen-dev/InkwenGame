@@ -34,4 +34,4 @@ Color by number, create beautiful images, and enjoy calm creativity anytime.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Color, cozy, Drawing, easy
+- Tags: Color, cozy, drawing, easy

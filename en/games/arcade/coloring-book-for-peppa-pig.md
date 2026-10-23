@@ -21,4 +21,4 @@ Are you into Peppa Pig ? Peppa Pig Coloring Book: A Stunning Coloring Book Inclu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Cartoon, Color, Coloring, Draw, Drawing, Game, Online, Puzzle
+- Tags: Arcade, Cartoon, Color, Coloring, Draw, drawing, Game, Online, Puzzle

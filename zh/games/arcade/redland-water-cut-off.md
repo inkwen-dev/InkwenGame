@@ -21,4 +21,4 @@ WASD 移动 或 方向键移动 手机触控操作 游戏中双跳功能已激�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 冒险, Android, 街机
+- 标签: 单人, 冒险, 安卓, 街机

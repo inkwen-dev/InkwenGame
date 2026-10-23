@@ -19,6 +19,6 @@ Gogo Adventure 20022 - Interesting skill - arcade game. Сalculate the correct l
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Jumping
+- Tags: 1 Player, jumping

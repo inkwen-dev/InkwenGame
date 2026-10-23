@@ -21,4 +21,4 @@ You know the Squid game - the game, right? Well… This game third-person shooti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Best, Crazy, Games, Shooting, Unity3D, WebGL
+- Tags: 3D, 3D Games, Best, crazy, Games, Shooting, Unity3D, WebGL

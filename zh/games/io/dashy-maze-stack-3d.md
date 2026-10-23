@@ -21,4 +21,4 @@ Stacky Maze Dash 是一款堆叠式冲刺方块收集游戏。在 Stacky Dash �
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io游戏, 1人游戏, 3D游戏, 方块, Unity3D
+- 标签: .io 游戏, 单人, 3D游戏, 方块, Unity3D

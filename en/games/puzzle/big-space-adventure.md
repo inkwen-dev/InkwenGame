@@ -19,6 +19,6 @@ Big Space Adventure is the same classic game of other match 3 games. You will ne
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Match 3, Puzzle, Space

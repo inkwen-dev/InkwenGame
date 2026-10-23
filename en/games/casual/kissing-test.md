@@ -19,6 +19,6 @@ This game is intended for entertainment purposes only and does not provide true 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Cartoon, Fun, Funny, Girls, HTML5, Kiss, Kissing, Mobile

@@ -21,4 +21,4 @@ Challenge yourself and hunt beautiful animals in stunningly luscious woods. The 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Hunting
+- Tags: hunting

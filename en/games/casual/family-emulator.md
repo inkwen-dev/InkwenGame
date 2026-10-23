@@ -15,6 +15,6 @@ Relive the magic of the '80s with Family Emulator, transforming your device into
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Retro
+- Tags: retro

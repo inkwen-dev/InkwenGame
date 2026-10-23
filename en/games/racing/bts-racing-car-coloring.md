@@ -19,6 +19,6 @@ BTS Racing Car Coloring is super fun and free to play online coloring game for k
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Cars, Coloring, Girls, HTML5, Hypercasual, Kids, Online, Racing, School

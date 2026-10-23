@@ -19,6 +19,6 @@ Test your precision in this addictive 3D block stacking game! Build the tallest 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Arcade, Avoid, Best, Best Games, Block, Click, Clicker, Platform, Point And Click, Shopping
+- Tags: 1 Player, 3D, Arcade, Avoid, Best, Best Games, block, Click, Clicker, Platform, Point And Click, Shopping

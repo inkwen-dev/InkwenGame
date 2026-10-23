@@ -25,4 +25,4 @@ Lines to Fill is a thinking game where you draw lines to complete the given puzz
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: blocks, Brain, Drawing, Puzzle
+- Tags: blocks, Brain, drawing, Puzzle

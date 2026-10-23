@@ -21,4 +21,4 @@ Let's go shopping to the mall. But as usual, it's very crowdy, and there are ver
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Arcade, Boy, Cars, Driving, Parking
+- Tags: .io Games, Arcade, Boy, Cars, Driving, parking

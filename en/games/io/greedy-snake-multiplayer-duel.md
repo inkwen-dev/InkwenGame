@@ -21,4 +21,4 @@ This is a very classic and fun Snake game. With Q Mengs lovely cartoon style, pl
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Battle, Best Games
+- Tags: .io, battle, Best Games

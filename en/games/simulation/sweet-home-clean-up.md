@@ -21,4 +21,4 @@ Welcome to your sweet home and cleaning world to keep your house clean. Bedrooms
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cleaning, Cute, Decorate, Educational, Girl, Girls, Kids, Simulation
+- Tags: Cleaning, Cute, Decorate, educational, Girl, Girls, Kids, Simulation

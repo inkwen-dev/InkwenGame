@@ -21,4 +21,4 @@ With 100 levels of increasingly challenging puzzles, this game will put your obs
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Family, Girl, Kids, New, Skill
+- Tags: educational, Family, Girl, Kids, New, Skill

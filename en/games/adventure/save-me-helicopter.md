@@ -19,6 +19,6 @@ Are you ready to pilot your very own rescue army helicopter and save hundreds of
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Defense, Helicopter
+- Tags: 2D, Defense, helicopter

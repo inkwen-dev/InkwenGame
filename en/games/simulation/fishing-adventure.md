@@ -19,6 +19,6 @@ Don't wait for the fish to find you, drop a line and chase them down in Fishing 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Android, Arcade, Avoid, Bomb, Boys, Collecting, Fish, Fishing, Highscore, HTML5, Kids

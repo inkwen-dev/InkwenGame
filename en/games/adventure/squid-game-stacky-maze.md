@@ -19,6 +19,6 @@ A brand new game from Squid Game web browser games meets you with the difference
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Best, Casual, Hypercasual, Jumping, Kids, Maze, Road, Skills, Stack, Stickman
+- Tags: 3D, Adventure, Best, Casual, Hypercasual, jumping, Kids, Maze, Road, Skills, Stack, stickman

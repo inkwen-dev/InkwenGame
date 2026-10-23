@@ -19,6 +19,6 @@ Challenge your friends and take the Duck with as many Cannons as you can, see ho
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, fly, Multiplayer

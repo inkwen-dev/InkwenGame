@@ -19,6 +19,6 @@ Welcome to Dress me Up too This a dress up game for boys and girls. Make the gir
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Dress Up, Fashion, Girl, Girls, Hot, Makeover

@@ -21,4 +21,4 @@ Get enough basketball and free throw basketball drills, shooting through backboa
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Shooting, Soccer
+- Tags: basketball, Shooting, Soccer

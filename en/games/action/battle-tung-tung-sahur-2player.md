@@ -19,6 +19,6 @@ Are you ready for the battle of the Tung Tung Sahurs? Two teams are fighting eac
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Battle, Mobile, Tung Tung, Tung Tung Tung, Tung Tung Tung Sahur
+- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, battle, Mobile, Tung Tung, Tung Tung Tung, Tung Tung Tung Sahur

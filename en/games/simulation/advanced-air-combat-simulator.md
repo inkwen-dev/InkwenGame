@@ -19,6 +19,6 @@ Advanced Air Combat Simulator, where players must obliterate enemy jet fighters 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Air, airplane, Fight, Mentolatux, Shooting, Simulator, Skill, unity games, Unity3D, WebGL

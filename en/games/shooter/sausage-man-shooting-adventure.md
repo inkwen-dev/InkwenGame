@@ -21,4 +21,4 @@ Sausage Man Shooting Adventure is a fast-paced side-scrolling shooting game wher
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Crazy, Enemies, Shoot, survival
+- Tags: crazy, Enemies, Shoot, survival

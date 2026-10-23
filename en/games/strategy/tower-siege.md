@@ -21,4 +21,4 @@ Build a tower out of the blocks you are dealt, then defend it. Between waves you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Management, RPG, Simulation, Strategy, Tower Defense, War
+- Tags: block, management, rpg, Simulation, strategy, Tower Defense, War

@@ -19,6 +19,6 @@ Red Hair Knight Tale is a cool and epic 2D medieval swordman adventure game. You
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Avoid, Boys, Collecting, Girls, jump, Kids, Monster, Platform
+- Tags: 2D, Avoid, Boys, Collecting, Girls, jump, Kids, monster, Platform

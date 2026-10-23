@@ -21,4 +21,4 @@ Experience the Thrill with Snake Puzzle Game! Get it now for an entertaining rid
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, HTML5, Mentolatux, Mobile, Puzzle, Snake
+- Tags: 2D, Android, HTML5, Mentolatux, Mobile, Puzzle, snake

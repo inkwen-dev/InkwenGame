@@ -19,6 +19,6 @@ Brick Block Puzzle is not just a classic block game, but a challenging game. Rel
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Puzzle
+- Tags: Arcade, block, Puzzle

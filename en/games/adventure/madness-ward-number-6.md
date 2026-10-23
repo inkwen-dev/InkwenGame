@@ -35,4 +35,4 @@ In this game you are a patient of a psychiatric hospital.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Horror, Mobile, RPG, Strategy
+- Tags: Adventure, Horror, Mobile, rpg, strategy

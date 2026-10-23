@@ -21,4 +21,4 @@ Memory With Masha and Bear is a version of a famous game of Memory. Train your m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Boys, Fun, Girls, Hypercasual, Kids, Memory, Puzzle, School, Skill
+- Tags: Baby, Boys, Fun, Girls, Hypercasual, Kids, memory, Puzzle, School, Skill

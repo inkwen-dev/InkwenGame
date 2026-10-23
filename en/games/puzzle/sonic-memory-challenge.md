@@ -21,4 +21,4 @@ The purpose of this memory game is to memorize the locations of the cards in the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boys, Fun, HTML5, Kids, Memory, Mobile, Puzzle, Skills
+- Tags: Android, Boys, Fun, HTML5, Kids, memory, Mobile, Puzzle, Skills

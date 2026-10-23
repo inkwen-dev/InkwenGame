@@ -19,6 +19,6 @@ Unicorn Kitty save the kingdom: This game has you taking control of UniKitty and
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Fun, Girl, Girls, HTML5, Mobile

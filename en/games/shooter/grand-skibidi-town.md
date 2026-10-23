@@ -21,4 +21,4 @@ Grand Skibidi Town features gta style sandbox, drivable vehicles and big arsenal
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Adventure, gta, Shoot, Shoot 'Em Up, Shooter, Shooting, Skibidi, Skibidi Toilet, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Action, Adventure, gta, Shoot, Shoot 'Em Up, Shooter, Shooting, Skibidi, skibidi-toilet, Unity3D

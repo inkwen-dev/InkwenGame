@@ -21,4 +21,4 @@ Gorbo the Orc is a bold, funny platform adventure. The Minotaur Warlord stole th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Cartoon, Fantasy, Jumping, Monster, Platform, Side Scrolling
+- Tags: Action, Adventure, Cartoon, Fantasy, jumping, monster, Platform, Side Scrolling

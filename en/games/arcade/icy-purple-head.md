@@ -19,6 +19,6 @@ Take control of the purple head and navigate the ice slope bypassing all obstacl
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boxing, Game, Games, HTML5

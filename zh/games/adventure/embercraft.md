@@ -21,4 +21,4 @@ EmberCraft 是一款色彩缤纷的 3D 沙盒冒险游戏，背景设定在方�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 手工, 制作, Minecraft, 沙盒
+- 标签: 3D, 建造, 制作, 我的世界, 沙盒

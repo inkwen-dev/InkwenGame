@@ -19,6 +19,6 @@ In the year 3049, humanity has conquered the stars but not without consequence. 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 2025 games, Action, Adventure, Aircraft, attack, catch, free games for your site, jump, running, Space, Spaceship

@@ -19,6 +19,6 @@ It is with classical game. The rules are very simple: you can only destroy 3 or 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Arcade, Bubble, Bubble Shooter, Candy

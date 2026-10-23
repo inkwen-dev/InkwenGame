@@ -19,6 +19,6 @@ Truck Loader Online is a classic puzzle game where you have to load cargo onto a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Boys, Cars, HTML5, Race, Racing, Truck
+- Tags: Action, Adventure, Boys, Cars, HTML5, Race, Racing, truck

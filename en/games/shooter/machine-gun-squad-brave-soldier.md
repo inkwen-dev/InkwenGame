@@ -21,4 +21,4 @@ Machine Gun Squad is an exciting shooting game. You are a brave soldier. This da
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Army, Battle, Battlegrounds, Bullet, Gun, Shoot, Shoot 'Em Up, Shooter, Shooting, War
+- Tags: Action, Army, battle, Battlegrounds, Bullet, Gun, Shoot, Shoot 'Em Up, Shooter, Shooting, War

@@ -19,6 +19,6 @@ You move the toad to push the stones into the previously specified position. You
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Crazy, Fun, Funny, Puzzle
+- Tags: crazy, Fun, Funny, Puzzle

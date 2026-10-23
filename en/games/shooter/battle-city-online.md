@@ -19,6 +19,6 @@ Battle City Online contains 35 different levels Each map contains different type
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, Arena, Battle
+- Tags: 1 Player, 2 Player, Arena, battle

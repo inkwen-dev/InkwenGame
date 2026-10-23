@@ -19,6 +19,6 @@ In this exciting race, you will have a unique opportunity to become a master of 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Best Games, Cars, Driving, Game, HTML5, html5 games, Mobile, Race, Skill, unity games, Unity3D, WebGL

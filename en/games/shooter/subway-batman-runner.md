@@ -19,6 +19,6 @@ subway Batman Runner for FREE and play the most addictive mobile game ever creat
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Batman, Boys, Game, Girls, run, running, Shoot, subway, Subway Surfers

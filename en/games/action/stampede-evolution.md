@@ -21,4 +21,4 @@ A 3D nature platformer where you lead a growing herd of animals. Walk your camp 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, animals, Arcade, Math, Platform, runner, running, Skill
+- Tags: 3D, animals, Arcade, math, Platform, runner, running, Skill

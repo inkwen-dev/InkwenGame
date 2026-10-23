@@ -19,6 +19,6 @@ Mini Survival Challenge is a free escape online game for boys on a desert island
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Android, Animal, Avoid, Boy, Brain, Car, Escape, Fun, HTML5, Kids, Multiplayer, Obstacle, Online, Puzzle

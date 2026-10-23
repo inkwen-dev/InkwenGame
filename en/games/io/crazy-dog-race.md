@@ -21,4 +21,4 @@ Welcome to the dog chasing race best among dog games. A new addition to pet raci
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Action, Adventure, Android, Animal, Arcade, Casual, Crazy, Fun, Hypercasual, Race, Unity3D
+- Tags: .io Games, Action, Adventure, Android, Animal, Arcade, Casual, crazy, Fun, Hypercasual, Race, Unity3D

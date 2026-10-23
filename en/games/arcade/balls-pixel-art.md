@@ -32,4 +32,4 @@ victories!Balls: Pixel Art
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Ball, Mobile, Retro
+- Tags: Arcade, Ball, Mobile, retro

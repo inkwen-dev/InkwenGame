@@ -19,6 +19,6 @@ Collect bricks under your feet constantly, and then pave a road to the finish li
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Casual, Hypercasual, Sport

@@ -19,6 +19,6 @@ Immerse yourself in the best open-world action-adventure sandbox game, Craft The
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Bubble Shooter, Multiplayer, Shooting, War
+- Tags: Action, battle, Bubble Shooter, Multiplayer, Shooting, War

@@ -19,6 +19,6 @@ Baby Touch Sounds is an interactive educational game for kids age 3 to 6 that he
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Click, Clicker, Point And Click

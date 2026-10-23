@@ -21,4 +21,4 @@ Sprunki is in danger! A swarm of hostile bees is on the attack, and it&rsquo;s u
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Draw, Fun, Logic, Puzzle, Strategy
+- Tags: Brain, Draw, Fun, Logic, Puzzle, strategy

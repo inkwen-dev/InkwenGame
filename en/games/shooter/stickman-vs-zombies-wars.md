@@ -19,6 +19,6 @@ Ninja vs Zombies is an action-packed platformer. Fight your way through challeng
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Action, Adventure, Boys, Crazy, Shooting, Stickman, Zombie
+- Tags: .io Games, Action, Adventure, Boys, crazy, Shooting, stickman, Zombie

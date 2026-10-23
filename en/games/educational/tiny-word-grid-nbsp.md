@@ -19,6 +19,6 @@ Tiny Word Grid is a fun and engaging crossword game designed to challenge your v
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Casual, Educational, Skills
+- Tags: Best Games, Casual, educational, Skills

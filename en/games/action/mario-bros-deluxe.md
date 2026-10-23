@@ -19,6 +19,6 @@ Mario Bros Deluxe a new kind of Mario game that you can play with one hand. You 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Mario, run, running, Super, World
+- Tags: Adventure, Arcade, mario, run, running, Super, World

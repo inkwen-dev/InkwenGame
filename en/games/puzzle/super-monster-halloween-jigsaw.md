@@ -21,4 +21,4 @@ Super Monster Halloween Jigsaw is a free jigsaw puzzle game, it is simple, easy 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Brain, Candy, Casual, Ghost, Girl, Girls, H5, Halloween, HTML5, Jigsaw, Monster, Puzzle
+- Tags: Boy, Boys, Brain, Candy, Casual, Ghost, Girl, Girls, H5, Halloween, HTML5, Jigsaw, monster, Puzzle

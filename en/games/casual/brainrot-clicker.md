@@ -21,4 +21,4 @@ Play the best brainrot clicker! Your favorite characters and a variety of cool w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Best Games, Brainrot, Cartoon, Casual, Crazy, Game, HTML5, Italian Brainrot, Stunts, Tralalero Tralala, Tung Tung Tung Sahur, WebGL, World
+- Tags: Best, Best Games, Brainrot, Cartoon, Casual, crazy, Game, HTML5, Italian Brainrot, Stunts, Tralalero Tralala, Tung Tung Tung Sahur, WebGL, World

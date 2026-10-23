@@ -21,4 +21,4 @@ Chip and Potato Coloring Book is cool coloring game for kids and adults. Play Ch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Draw, Drawing, Jigsaw, Puzzle
+- Tags: Color, Coloring, Draw, drawing, Jigsaw, Puzzle

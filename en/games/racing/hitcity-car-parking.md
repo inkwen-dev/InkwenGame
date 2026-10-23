@@ -21,4 +21,4 @@ A realistic parking game with you. You must park in the parking lot without cont
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Car, city, Crazy, Parking, Race, Racing, Traffic
+- Tags: 1 Player, 3D, 3D Games, Car, city, crazy, parking, Race, Racing, Traffic

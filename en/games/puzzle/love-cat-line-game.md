@@ -19,6 +19,6 @@ Welcome to the Love Cat Line! Love Cat Line is a super fun puzzle game for kids 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cat, Cute, Fun, Puzzle

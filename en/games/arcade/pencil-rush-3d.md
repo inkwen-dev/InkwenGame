@@ -19,6 +19,6 @@ Get ready to finish your masterpiece! But the pen doesn't seem to be enough! To 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Avoid, Boy, Casual, Coloring, Game, Kid, Obstacle, Puzzle, Side Scrolling

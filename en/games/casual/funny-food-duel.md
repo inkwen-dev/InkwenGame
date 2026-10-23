@@ -15,6 +15,6 @@ Jump into a whimsical pet showdown in Funny Food Duel, where quick reflexes dete
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Fun

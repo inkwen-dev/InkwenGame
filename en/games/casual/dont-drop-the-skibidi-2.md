@@ -15,6 +15,6 @@ Dive into the frantic world of "Don't Drop The Skibidi," where every tap and swi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Skibidi Toilet
+- Tags: skibidi-toilet

@@ -19,6 +19,6 @@ Run to the end of the field for the touch down. Push your opponents to clear you
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Casual, Clicker, Fun, Highscore, Hypercasual, Sport

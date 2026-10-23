@@ -21,4 +21,4 @@ The finest games for the soul allow you to equip a broad array of weapons. You a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, Best, Block, Multiplayer, Pixel, Shooter, Shooting, Unity3D
+- Tags: .io Games, 2 Player Games, 3D Games, Best, block, Multiplayer, pixel, Shooter, Shooting, Unity3D

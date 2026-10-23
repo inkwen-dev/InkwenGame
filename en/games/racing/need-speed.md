@@ -19,6 +19,6 @@ good game：This game is a drag racing game, synthetic racing, buy cars with gol
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Adventure, Avoid, Cars, drift, Driving, H5, Truck
+- Tags: 3D Games, Adventure, Avoid, Cars, drift, Driving, H5, truck

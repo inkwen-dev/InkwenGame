@@ -21,4 +21,4 @@ Rescue Helicopter is a fun casual game where the player can rescue people.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Helicopter, Mobile, Rescue
+- Tags: helicopter, Mobile, Rescue

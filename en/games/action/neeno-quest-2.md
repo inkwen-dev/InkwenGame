@@ -15,6 +15,6 @@ Embark on a thrilling journey with Neeno Quest 2, a captivating 2D platformer st
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: platformer

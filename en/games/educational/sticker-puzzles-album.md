@@ -21,4 +21,4 @@ In Sticker Puzzles Album, children can strengthen their problem-solving skills, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Brain, Cute, Educational, Family, Fun, Girls, HTML5, Kids, Mobile, Puzzle, Skill
+- Tags: Animal, Brain, Cute, educational, Family, Fun, Girls, HTML5, Kids, Mobile, Puzzle, Skill

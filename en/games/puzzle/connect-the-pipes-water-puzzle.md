@@ -19,6 +19,6 @@ Dozens of unique levels await you in this exciting puzzle game, where you need t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: amazing, Brain, Casual, free games for your site, Game, Hypercasual, Logic, Pipe, Puzzle, Unity3D

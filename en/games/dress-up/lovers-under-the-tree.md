@@ -19,6 +19,6 @@ A young lover loves each other deeply and they have been to many beautiful place
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Dress Up, Girl, Girls, Love

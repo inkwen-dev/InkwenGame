@@ -19,6 +19,6 @@ Elsa's cake shop is very popular among girls; she often makes beautiful and deli
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cooking, Decoration, Dress Up, Elsa, Frozen, Girl, Girls, Kids, Makeover, Princess, Simulation

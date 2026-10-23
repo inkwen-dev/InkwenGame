@@ -15,6 +15,6 @@ Dive into the addictive fusion of drag-and-drop puzzles and match-3 fun in Match
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Tetris
+- Tags: tetris

@@ -21,4 +21,4 @@ Let's put your creativity and drawing skill to a test! “Draw puzzle: sketch it
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Chicken, Draw, Drawing, Food, Puzzle
+- Tags: Action, Chicken, Draw, drawing, Food, Puzzle

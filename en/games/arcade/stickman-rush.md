@@ -21,4 +21,4 @@ StickMan Rush is an amazing fun platform surviving game. Run and jump in this aw
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, kiz10, Stickman
+- Tags: jump, kiz10, stickman

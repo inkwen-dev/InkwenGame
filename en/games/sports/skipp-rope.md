@@ -19,6 +19,6 @@ A very casual 3D game, players control the role in different situations jump, si
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Arcade, Games, Racing, Stickman, Strategy
+- Tags: 3D, Adventure, Arcade, Games, Racing, stickman, strategy

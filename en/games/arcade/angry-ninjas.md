@@ -21,4 +21,4 @@ Help the Angry Ninjas to defeat all Pirates! Enjoy!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bird, Casual, Family, Girls, HTML, HTML5, Hypercasual, Kid, Kids, Mobile, Ninja, Ninjago, Physics
+- Tags: Arcade, Bird, Casual, Family, Girls, HTML, HTML5, Hypercasual, Kid, Kids, Mobile, ninja, Ninjago, Physics

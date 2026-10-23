@@ -19,6 +19,6 @@ NullPulse Runner is a hypercasual arcade game that is fast-paced in nature where
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Avoid, endless, Hypercasual, Obstacle, onetouch, running, Skill, Skills, Space, touch, touchscreen

@@ -21,4 +21,4 @@ Halloween Mahjong Tiles is the classic tile-matching game with halloween theme. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Halloween, HTML5, Mahjong, Mobile
+- Tags: Halloween, HTML5, mahjong, Mobile

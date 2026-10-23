@@ -21,4 +21,4 @@ Your task in the game is to set the direction of the ball The ball destroys bloc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, 8 Ball Pool, Ball, Basketball
+- Tags: .io, 1 Player, 8 Ball Pool, Ball, basketball

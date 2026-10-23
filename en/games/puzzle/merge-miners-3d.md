@@ -19,6 +19,6 @@ Merge Miners 3D is a classic fusion game that is very popular with the public. E
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Android, Casual, Hypercasual, Kids, Mine, Miner, Mobile

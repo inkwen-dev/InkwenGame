@@ -19,6 +19,6 @@ You will start stunt car racing from an awesome city parking stand and enjoy the
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adventure, Arcade, Car, Interactive, Race, Stunts

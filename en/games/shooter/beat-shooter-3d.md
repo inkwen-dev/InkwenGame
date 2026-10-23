@@ -21,4 +21,4 @@ Try great time killer game now! Beat Shooter 3D game combines one-finger control
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, 2026 games, Action, Arcade, Best Games, Music, Rhythm, Shoot, Shooter, Shooting
+- Tags: 2025 games, 2026 games, Action, Arcade, Best Games, music, Rhythm, Shoot, Shooter, Shooting

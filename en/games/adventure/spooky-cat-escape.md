@@ -19,6 +19,6 @@ A cute cat kidnapped you seven days ago. She left for lunch and will be back at 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Cat, Escape, free games for your website, free html5 games for your website, Logic, Logical, Puzzle

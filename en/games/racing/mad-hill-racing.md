@@ -21,4 +21,4 @@ Mad Hill Racing is fun addictive adventure racing game.In this game you can buy 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Bike, Car, Racing
+- Tags: Adventure, Arcade, bike, Car, Racing

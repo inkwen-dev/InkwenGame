@@ -19,6 +19,6 @@ Match Fighter is a vibrant match-3 fighting game where classic martial arts meet
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 2D, Battle, Fight, Fighting, Match 3, Match3
+- Tags: 2 Player Games, 2D, battle, Fight, fighting, Match 3, Match3

@@ -21,4 +21,4 @@ Lilliput War is a fun 3D stickman tower defense game! The tiny kingdom of Lillip
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Best Games, Casual, Stickman, Tower Defense, unity games, Unity3D
+- Tags: 3D Games, Best Games, Casual, stickman, Tower Defense, unity games, Unity3D

@@ -19,6 +19,6 @@ Shoots Skibidi Dop Dop Yes Yes Tap Down is the most addictive shooting game. Wit
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Best, Best Games, Games, HTML, HTML5, NapTech Games, Shoot, Shooting, Skibidi, Skibidi Toilet
+- Tags: Action, Adventure, Best, Best Games, Games, HTML, HTML5, NapTech Games, Shoot, Shooting, Skibidi, skibidi-toilet

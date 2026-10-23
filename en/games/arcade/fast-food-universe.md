@@ -21,4 +21,4 @@ Do you like fast food? Then lets start a business where we can make money by pro
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Food, Funny, Kids, Restaurant
+- Tags: Arcade, Food, Funny, Kids, restaurant

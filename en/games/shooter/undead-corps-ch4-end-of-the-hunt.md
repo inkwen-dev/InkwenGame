@@ -21,4 +21,4 @@ You are an agent of an intertemporal organization "Undead Corps" sent to yet ano
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Adventure, Fantasy, Maze, Monster, Puzzle, Shoot, Shoot 'Em Up, Shooter, Undead, WebGL, Zombie
+- Tags: 1 Player, 3D, 3D Games, Adventure, Fantasy, Maze, monster, Puzzle, Shoot, Shoot 'Em Up, Shooter, Undead, WebGL, Zombie

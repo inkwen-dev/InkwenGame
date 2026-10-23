@@ -94,4 +94,4 @@ A: Everything will become clear right away. You will be taught how to play, and 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Strategy, Tower Defense, Zombie
+- Tags: strategy, Tower Defense, Zombie

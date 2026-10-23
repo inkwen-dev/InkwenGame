@@ -19,6 +19,6 @@ Wickey Adventure is a skill game where you control a cute boy called Wickey and 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Arcade, Best Games, Boys, Girls, New, Pixel, Platform, Retro, Skills, survival
+- Tags: 1 Player, Action, Arcade, Best Games, Boys, Girls, New, pixel, Platform, retro, Skills, survival

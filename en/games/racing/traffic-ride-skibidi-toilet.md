@@ -19,6 +19,6 @@ In the bustling metropolis of Trafficville, a thrilling and high-octane rivalry 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Bike, Moto, Motorcycle, Racing, Skibidi, Skibidi Toilet, Traffic, Unity3D, WebGL
+- Tags: Action, bike, Moto, Motorcycle, Racing, Skibidi, skibidi-toilet, Traffic, Unity3D, WebGL

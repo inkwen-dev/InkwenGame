@@ -21,4 +21,4 @@ Jail Drop is a physics puzzle where youve got to get the little prisoner down to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Casual, free html5 games for your website, Kids, mapi games, Physics
+- Tags: block, Casual, free html5 games for your website, Kids, mapi games, Physics

@@ -21,4 +21,4 @@ Pixel Smash Duel is a chaotic 2 player retro-pixel battle game. Control your cha
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Arcade, Battle, Fight, Gun, Pixel, Shooting, War
+- Tags: 2 Player, 2 Player Games, Arcade, battle, Fight, Gun, pixel, Shooting, War

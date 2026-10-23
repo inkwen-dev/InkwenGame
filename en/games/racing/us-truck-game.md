@@ -21,4 +21,4 @@ Hit the open road and experience long-haul logistics like never before in US Tru
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Best Games, city, Fun, Simulation, Truck
+- Tags: Adventure, Best Games, city, Fun, Simulation, truck

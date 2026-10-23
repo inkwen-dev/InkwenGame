@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 突袭, 战斗, 机器人
+- 标签: 攻击, 格斗, 机器人

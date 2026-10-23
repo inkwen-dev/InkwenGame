@@ -19,6 +19,6 @@ Aim, throw and survive! Watch out &mdash; avoid hitting other blades. The spinni
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Interactive, Knight, Skill, Skills, throwing
+- Tags: Action, Arcade, Interactive, knight, Skill, Skills, throwing

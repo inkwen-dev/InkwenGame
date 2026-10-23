@@ -15,6 +15,6 @@ Race through heart-pounding 3D landscapes in Racing Ball 3D. Navigate thrilling 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: two-player

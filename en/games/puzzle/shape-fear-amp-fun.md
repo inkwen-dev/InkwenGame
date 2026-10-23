@@ -21,4 +21,4 @@ Shape Fear &amp; Fun - is a match 3 game where children have to match shapes of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Match-3, Puzzle
+- Tags: Casual, Match 3, Puzzle

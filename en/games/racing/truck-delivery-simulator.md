@@ -21,4 +21,4 @@ Overall its a truck simulation, but you have to be careful not to get the cargo 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Car, Driving, Truck
+- Tags: 3D Games, Car, Driving, truck

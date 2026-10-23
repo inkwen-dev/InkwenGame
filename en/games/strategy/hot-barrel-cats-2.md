@@ -19,6 +19,6 @@ Hot Barrel Cats is a cat defense game with a heat twist. A fungus horde called t
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Casual, Cat, Cute, Defense, HTML5, Strategy, Tower Defense
+- Tags: Animal, Casual, Cat, Cute, Defense, HTML5, strategy, Tower Defense

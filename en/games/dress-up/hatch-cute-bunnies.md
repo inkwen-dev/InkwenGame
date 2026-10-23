@@ -21,4 +21,4 @@ Hatch Cute Bunnies is a very cute caring game. There are 9 eggs in this game. In
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cute, Decorate, Decoration, Dress Up, Educational, Fun, Girls, Grooming, HTML5, Kids, Mobile
+- Tags: Animal, Baby, Cute, Decorate, Decoration, Dress Up, educational, Fun, Girls, Grooming, HTML5, Kids, Mobile

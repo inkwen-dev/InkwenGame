@@ -21,4 +21,4 @@ You like construction games and stickman games? This game is made for you ! Play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bridge, Stickman
+- Tags: Arcade, Bridge, stickman

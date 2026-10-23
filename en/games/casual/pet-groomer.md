@@ -19,6 +19,6 @@ You own a pet store and the most important business is pet grooming. One day a g
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boy, Girl, Grooming, Hypercasual, Kid

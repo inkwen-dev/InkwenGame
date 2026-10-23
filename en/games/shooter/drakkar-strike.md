@@ -24,4 +24,4 @@ Sail the seas on your drakkar, launch spears like a furious slingshot, and crush
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Boat, pirates, popular, Shooting, Strategy
+- Tags: Action, Boat, pirates, popular, Shooting, strategy

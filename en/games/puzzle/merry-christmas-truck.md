@@ -21,4 +21,4 @@ Another great jigsaw game with Christmas Trucks. Start to play and try to pass a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Jigsaw, Truck
+- Tags: Christmas, Jigsaw, truck

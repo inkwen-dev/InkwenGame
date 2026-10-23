@@ -21,4 +21,4 @@ wasd - 驾驶你的坦克 - 使用鼠标观察四周并射击 - shift左键 - �
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 3D游戏, 最佳, 疯狂, 射击, 坦克, 坦克, Unity3D, WebGL
+- 标签: 单人, 3D游戏, 最佳, 疯狂, 射击, 坦克, tanks, Unity3D, WebGL

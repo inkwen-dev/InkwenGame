@@ -19,6 +19,6 @@ Can you hit all the numbered balls? Some are harder to hit than others. Aim and 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Bubble Shooter, Casual, Hypercasual, Number, Puzzle, Shooting, Skill

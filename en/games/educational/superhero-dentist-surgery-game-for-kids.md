@@ -21,4 +21,4 @@ Be the best dentist at this Superhero clinic! All our patient is Superhero, who 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Boy, Boys, Casual, Cute, Doctor, Educational, Girl, Girls, H5, HTML5, Surgery
+- Tags: Baby, Boy, Boys, Casual, Cute, Doctor, educational, Girl, Girls, H5, HTML5, surgery

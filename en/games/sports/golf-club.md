@@ -21,4 +21,4 @@ Golf Club it is a very fun and accurate game. Your goal is to get the ball to th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Ball, Golf, HTML5, Mobile
+- Tags: 2D, Ball, golf, HTML5, Mobile

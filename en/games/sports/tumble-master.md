@@ -21,4 +21,4 @@ Tumble Master is the most popular in sports game. The main test of the player\&#
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Click, jump, Jumping, Timing
+- Tags: Action, Adventure, Click, jump, jumping, Timing

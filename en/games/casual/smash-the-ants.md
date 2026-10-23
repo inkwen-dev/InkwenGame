@@ -19,6 +19,6 @@ These ants are everywhere! Hurry up stop them before they go out of the screen! 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boy, Boys, Family, Kid, Kids

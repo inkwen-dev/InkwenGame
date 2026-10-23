@@ -21,4 +21,4 @@ Hello agent master, there is a new mission for you: Go ahead! Find the secret un
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D Games, Police
+- Tags: .io Games, 1 Player, 3D Games, police

@@ -21,4 +21,4 @@ Gorilla Monster Fight is a fun and exciting endless runner game where you contro
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Fighting, running
+- Tags: Casual, fighting, running

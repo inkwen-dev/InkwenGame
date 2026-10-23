@@ -21,4 +21,4 @@ Proceed through level by destroying neon by using different powerups. Enjoy the 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Math, Puzzle
+- Tags: math, Puzzle

@@ -21,4 +21,4 @@ Beach Ball is a 3D physics and balancing game where you drag a big beach ball ar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Balance, Jumping, Skills
+- Tags: Balance, jumping, Skills

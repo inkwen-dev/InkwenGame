@@ -42,4 +42,4 @@ Each level is designed to get a little harder, so you’ll need to aim carefully
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Ball, Golf, mini-golf, Mobile
+- Tags: Ball, golf, mini-golf, Mobile

@@ -21,4 +21,4 @@ Play the legendary Tetris game! The classic Tetris game that we all love! Simply
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Classic, HTML5, Tetris
+- Tags: Arcade, block, Classic, HTML5, tetris

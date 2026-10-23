@@ -21,4 +21,4 @@ Welcome to the ultimate Cyberpunk evolution of the classic Snake! Hack the syste
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Snake
+- Tags: Arcade, snake

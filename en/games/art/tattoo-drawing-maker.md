@@ -19,6 +19,6 @@ Are you ready to experience your inner rebel? Ever wonder what it is like to get
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Boys, Craft, Draw, Drawing, Girls
+- Tags: Adult, Boys, Craft, Draw, drawing, Girls

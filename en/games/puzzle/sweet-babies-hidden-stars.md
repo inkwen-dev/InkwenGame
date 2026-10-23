@@ -19,6 +19,6 @@ Sweet Babies Hidden Stars is a wonderful online game with babies and hidden obje
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Fun, Hidden, HTML5, Kids, Skill, Skills

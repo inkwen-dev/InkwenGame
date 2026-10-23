@@ -19,6 +19,6 @@ Are you ready to make your mark on Cooking Fever: Happy Chef? This interesting s
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Food, Restaurant, Simulation
+- Tags: Food, restaurant, Simulation

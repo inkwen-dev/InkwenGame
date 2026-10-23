@@ -21,4 +21,4 @@ If you like playing skillful arcade games, Gun Sprint is possibly a benefit rela
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Gun, Mobile, Platform, Shoot, Stickman, WebGL
+- Tags: 3D, Arcade, Gun, Mobile, Platform, Shoot, stickman, WebGL

@@ -19,6 +19,6 @@ Car parking is back in the sequel to the biggest mobile parking simulation game 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D, 3D Games, Action, Best, bus, Car, Crazy, drift, drifting, Driving, Race, Racing, Simulation, Simulator, Truck, Unity3D
+- Tags: .io Games, 1 Player, 3D, 3D Games, Action, Best, bus, Car, crazy, drift, drifting, Driving, Race, Racing, Simulation, Simulator, truck, Unity3D

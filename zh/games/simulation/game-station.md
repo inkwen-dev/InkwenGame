@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1 Player, 3D, 3D游戏, Android, 最佳, 疯狂, 有趣, 搞笑, 游戏, HTML5, 逻辑, 管理, Mobile, 机器人
+- 标签: 单人, 3D, 3D游戏, 安卓, 最佳, 疯狂, 有趣, 搞笑, 网页游戏, HTML5, 逻辑性, 管理, 移动设备, 机器人

@@ -21,4 +21,4 @@ Taylor's kindergarten teacher Doris arranged a task: every child should plant a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cute, Decorate, Educational, Girl, Girls, Kids, Simulation
+- Tags: Baby, Cute, Decorate, educational, Girl, Girls, Kids, Simulation

@@ -19,6 +19,6 @@ Here is a car parking training simulation game with 3D vehicles and parking grou
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Avoid, Car, Driving, HTML5, Mobile, Parking, Simulation, Timing
+- Tags: 3D, Avoid, Car, Driving, HTML5, Mobile, parking, Simulation, Timing

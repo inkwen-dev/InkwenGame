@@ -21,4 +21,4 @@ Do you like high speed, drifting and cool stunts while driving a car? Then you d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Adult, Car, Cars, Click, Clicker, HTML, HTML5, Strategy, Supercars, Worm, Worms
+- Tags: .io, .io Games, Adult, Car, Cars, Click, Clicker, HTML, HTML5, strategy, Supercars, worm, Worms

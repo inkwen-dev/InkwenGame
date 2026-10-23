@@ -21,4 +21,4 @@ Fall Guys 2024 是一款充满活力的离线大逃杀游戏，玩家需穿越�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Fall Boys, Fall Guys, 趣味, 搞笑, 儿童, Mentolatux, 技巧, Unity3D, WebGL
+- 标签: 跌倒男孩, Fall Guys, 有趣, 搞笑, 儿童, Mentolatux, 技巧, Unity3D, WebGL

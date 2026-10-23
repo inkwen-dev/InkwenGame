@@ -21,4 +21,4 @@ Get ready to bust a move and show off your dance skills in this high-energy hype
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dancing, Music
+- Tags: Dancing, music

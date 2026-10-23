@@ -21,4 +21,4 @@ Bring the bird to its nest without getting hit by the obstacles A simple one tou
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Avoid, Bird, Collecting, fly, Mobile, Pixel
+- Tags: 2D, Action, Avoid, Bird, Collecting, fly, Mobile, pixel

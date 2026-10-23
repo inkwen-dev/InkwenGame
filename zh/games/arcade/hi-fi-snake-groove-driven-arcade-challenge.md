@@ -51,4 +51,4 @@ B. 移动用户（触摸屏）：
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 街机, 技巧, 蛇
+- 标签: 街机, 技巧, snake

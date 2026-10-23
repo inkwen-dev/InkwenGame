@@ -19,6 +19,6 @@ It is easy to control but hard to get a high score! Just tap the screen to contr
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bird, Casual, Flight, fly, Racing
+- Tags: Arcade, Bird, Casual, flight, fly, Racing

@@ -21,4 +21,4 @@ Its time for an adventure! Gather resources, build bridges, explore the island a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Island, Princess, Stickman, Unity3D
+- Tags: 3D, 3D Games, Adventure, Island, Princess, stickman, Unity3D

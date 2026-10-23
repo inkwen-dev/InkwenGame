@@ -21,4 +21,4 @@ Choose your faction: elves or dwarves. Start playing epic's battles in 20 amazin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Battle, Brain, Defense, Strategy
+- Tags: Army, battle, Brain, Defense, strategy

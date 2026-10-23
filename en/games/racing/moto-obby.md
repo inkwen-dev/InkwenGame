@@ -23,4 +23,4 @@ Join the exciting world of Moto Obby, where your motorbike skills face intense c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Bike, car-racing, dirt-bike, Driving, motorbike, obby
+- Tags: bike, car-racing, dirt-bike, Driving, motorbike, obby

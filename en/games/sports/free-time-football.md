@@ -21,4 +21,4 @@ Are you good at playing football ? Want to have a try ? In this game you can pla
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Football, Sport, Sports
+- Tags: 2D, Football, Sport, sports

@@ -19,6 +19,6 @@ Crypto Coin Clash Mania is an exciting match-3 puzzle game set in the world of d
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Hypercasual, Match 3

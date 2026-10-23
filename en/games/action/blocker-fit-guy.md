@@ -19,6 +19,6 @@ Blocker Fit Guy is a fun and challenging puzzle-action game where you guide a fl
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Platform, running

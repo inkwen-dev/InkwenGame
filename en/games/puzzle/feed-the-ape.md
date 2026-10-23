@@ -19,6 +19,6 @@ Get the Num Num to the ape by cutting the rope! You think it's that easy? Well w
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Brain, cut, Cute, Family, Girl, Girls, Kid, Kids, Logic, Puzzle

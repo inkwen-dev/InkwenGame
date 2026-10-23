@@ -21,4 +21,4 @@ In the Super Goalkeeper game, choose your favorite team and win the matches by c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Football, Soccer, Sport, Sports
+- Tags: Football, Soccer, Sport, sports

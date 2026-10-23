@@ -19,6 +19,6 @@ Welcome to Tri Puzzle. Hey kids! welcome to the new challenges of the puzzle gam
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Educational, Fun, HTML5, Kids, Puzzle
+- Tags: Boys, educational, Fun, HTML5, Kids, Puzzle

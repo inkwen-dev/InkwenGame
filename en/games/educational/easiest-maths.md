@@ -21,4 +21,4 @@ Learn. Play. Win! Easiest Maths is a bright and playful math quiz game made espe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Math, Puzzle, Skills
+- Tags: educational, math, Puzzle, Skills

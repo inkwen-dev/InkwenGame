@@ -21,4 +21,4 @@ Have you played a guessing game? Rock-paper-scissors game, I think you should ha
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boy, Boys, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Race, run
+- Tags: 3D, 3D Games, Boy, Boys, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Race, run

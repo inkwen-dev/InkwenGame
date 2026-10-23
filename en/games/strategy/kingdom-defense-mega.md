@@ -32,4 +32,4 @@ If you're a fan of the strategy genre, then Kingdom Defense is definitely for yo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boys, Strategy, Tower Defense
+- Tags: Boys, strategy, Tower Defense

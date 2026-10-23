@@ -19,6 +19,6 @@ Challenge yourself with the Foot Clan Clash game! The Teenage Mutant Ninja Turtl
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Best, H5, Hot, HTML5, New, Ninja, Ninjago
+- Tags: Action, Adventure, Arcade, Best, H5, Hot, HTML5, New, ninja, Ninjago

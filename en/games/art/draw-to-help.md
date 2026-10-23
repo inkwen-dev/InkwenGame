@@ -21,4 +21,4 @@ What would you draw to help a hungry dog or a cat caught in the rain? Draw to He
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Draw, Drawing, Fun, Puzzle
+- Tags: Draw, drawing, Fun, Puzzle

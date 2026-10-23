@@ -19,6 +19,6 @@ Jump and survive in Island Battle 3D, a 3D IO game that will keep you on your to
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Battle, Boys, Girls, Jumping, Kids
+- Tags: 3D, Arcade, battle, Boys, Girls, jumping, Kids

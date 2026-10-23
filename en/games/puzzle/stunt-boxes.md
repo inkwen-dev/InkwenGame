@@ -19,6 +19,6 @@ Are You the Next Great Stunt Boxes Pilot? Get ready to test your skills in this 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Family, Flight, fly, HTML5, mapi games, Mobile, Obstacle, Puzzle
+- Tags: Casual, Family, flight, fly, HTML5, mapi games, Mobile, Obstacle, Puzzle

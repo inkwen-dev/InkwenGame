@@ -21,4 +21,4 @@ Paper Ball is a fun and addictive line-drawing puzzle game! Use your finger to d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Drawing, Physics, Relaxation
+- Tags: Brain, drawing, Physics, Relaxation

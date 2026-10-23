@@ -19,6 +19,6 @@ Use Mouse To Play and Keyboard
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Boy, Girl, HTML, Pool, Sport, Sports, WebGL
+- Tags: 8 Ball Pool, Boy, Girl, HTML, pool, Sport, sports, WebGL

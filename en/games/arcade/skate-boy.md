@@ -19,6 +19,6 @@ Are you ready to skateboard in the city? It may look very dangerous, but its tim
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Arcade, Pixel, Skateboard
+- Tags: 1 Player, Adventure, Arcade, pixel, skateboard

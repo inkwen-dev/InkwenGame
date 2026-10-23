@@ -21,4 +21,4 @@ Green Ball Po is a 2D platformer where you need to collect Golden keys in order 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Arcade, Collecting, pixel, Platform, retro

@@ -21,4 +21,4 @@ Throw planets into the hoop of the planet that is the target. Get stars and diam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Basketball, Casual, Game, Hypercasual, Planet, Shooter, Shooting, Space, Sport, Unity3D, WebGL
+- Tags: 3D, 3D Games, Arcade, basketball, Casual, Game, Hypercasual, Planet, Shooter, Shooting, Space, Sport, Unity3D, WebGL

@@ -21,4 +21,4 @@ Dive into the colorful world of Puzzle Legends, the ultimate match-3 puzzle game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Match-3, Match3
+- Tags: Match 3, Match3

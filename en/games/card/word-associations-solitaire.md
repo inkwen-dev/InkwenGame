@@ -29,4 +29,4 @@ Use boosters and special cards to overcome tricky situations, unlock new themes,
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cards, Educational, Puzzle, Solitaire, words
+- Tags: cards, educational, Puzzle, solitaire, words

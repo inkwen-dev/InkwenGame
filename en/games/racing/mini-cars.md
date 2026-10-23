@@ -19,6 +19,6 @@ Select your favorite vehicle (the shop includes a tank and a helicopter) and sta
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Cars, Cartoon, Unity3D, WebGL

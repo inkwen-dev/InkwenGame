@@ -21,4 +21,4 @@ WASD 移动 鼠标瞄准 射击 左Shift 跑步 右键 重新装填武器 T 检�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 3D 游戏, 动作, fps, 恐怖, 射手, 射击游戏, 生存, unity, Unity3D
+- 标签: 单人, 3D, 3D游戏, 动作, fps, 恐怖, 射击类, 射击, 生存, unity, Unity3D

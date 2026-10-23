@@ -19,6 +19,6 @@ Go back to the '70s with crazy parties and the sound of disco in Saturday Night 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Dancing, Puzzle, Retro
+- Tags: Adventure, Dancing, Puzzle, retro

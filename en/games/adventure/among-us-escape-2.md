@@ -19,6 +19,6 @@ This is the Sequel to the Hit Game Among Us Escape.Among us Escape 2 brings 5 ta
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML5, Hypercasual, Mobile, Puzzle

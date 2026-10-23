@@ -19,6 +19,6 @@ This game is very similar to tic tac toe, but the difference is that at this gam
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Hypercasual, Kids, Logical, Matching, Puzzle

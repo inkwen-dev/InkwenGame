@@ -21,4 +21,4 @@ Push Timing is an exciting puzzle game that challenges your reflexes and strateg
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Fighting, free games for your website, Unity3D, WebGL
+- Tags: Arcade, fighting, free games for your website, Unity3D, WebGL

@@ -21,4 +21,4 @@ How To Play Poke Monster Ball - Just connect the poke monster and take a Poke ba
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, 8 Ball Pool, Anime, Baby Hazel, Ballon, Baseball, gta, jump, Jumping, Kid, Kids, Pokemon
+- Tags: 2D, 8 Ball Pool, Anime, Baby Hazel, Ballon, baseball, gta, jump, jumping, Kid, Kids, Pokemon

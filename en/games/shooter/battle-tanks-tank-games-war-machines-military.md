@@ -19,6 +19,6 @@ Your mission is control a rookie tank destroy the enemy pacman tank in each leve
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adult, Adventure, Battle, Boy, Boys, Classic, Family, Fight, Girl, Girls, HTML, HTML5, Tank, Tanks, War, WebGL
+- Tags: Action, Adult, Adventure, battle, Boy, Boys, Classic, Family, Fight, Girl, Girls, HTML, HTML5, Tank, tanks, War, WebGL

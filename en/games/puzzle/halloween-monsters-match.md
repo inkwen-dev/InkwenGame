@@ -19,6 +19,6 @@ Halloween Monster Match is a simple cool game that requires finding match card p
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Card, Family, Girl, Girls, Halloween, Kid, Kids, Match 3, Matching, Memory
+- Tags: Brain, card, Family, Girl, Girls, Halloween, Kid, Kids, Match 3, Matching, memory

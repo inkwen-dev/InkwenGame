@@ -19,6 +19,6 @@ Kids puzzles game for girls, boys, teens, and adults, a free puzzle app for all 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Anime, Arcade, Batman, Bejeweled, Ben 10, Best, Boy, Boys, Cleaning, Coloring, Fun, Funny, Girl, Girls, Grooming, HTML, HTML5, Jelly, jump, Kid, Kids, Online, Punch, Puzzle, Spiderman, Super, Supercars, Superhero, WebGL, World

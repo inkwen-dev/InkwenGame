@@ -19,6 +19,6 @@ World Of Gumball Coloring Game is a free online coloring and cartoon game! In th
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon Network, Coloring, Educational, Fun, HTML5, Kids, Mobile, Puzzle
+- Tags: Cartoon Network, Coloring, educational, Fun, HTML5, Kids, Mobile, Puzzle

@@ -35,4 +35,4 @@ Lucky Wheel & Trophies: Spin daily for free rewards and unlock achievements as y
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Ball, Basketball, flappy-bird, runner, Skill, Sports
+- Tags: Arcade, Ball, basketball, flappy-bird, runner, Skill, sports

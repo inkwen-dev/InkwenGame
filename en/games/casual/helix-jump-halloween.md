@@ -19,6 +19,6 @@ Are you loking for a jump halloween ball game through the helix halloween tower?
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, endless, Fun, Funny, jump, Jumping
+- Tags: Casual, endless, Fun, Funny, jump, jumping

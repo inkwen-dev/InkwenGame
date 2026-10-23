@@ -21,4 +21,4 @@ Welcome to the world of truck cargo transport games. Real cargo truck driving,up
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: cargo, city, Driving, mountain, offroad, Truck, trucks, water
+- Tags: cargo, city, Driving, mountain, offroad, truck, trucks, water

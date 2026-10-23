@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 动作, 冒险, Android, 休闲, 无尽, 乐趣, 搞笑, HTML, HTML5, 矿井, 矿工, 移动, Unity3D
+- 标签: 单人, 2D, 动作, 冒险, 安卓, 休闲, 无尽, 有趣, 搞笑, HTML, HTML5, 挖掘, 矿工, 移动设备, Unity3D

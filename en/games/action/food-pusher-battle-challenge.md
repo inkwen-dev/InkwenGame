@@ -21,4 +21,4 @@ Welcome to Food Pusher Challenge! Food Pusher Challenge is a fun food match. Col
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Animal, Boy, Boys, Collecting, Crazy, Food, Fun, Kid, Kids, run, running
+- Tags: 3D, 3D Games, Animal, Boy, Boys, Collecting, crazy, Food, Fun, Kid, Kids, run, running

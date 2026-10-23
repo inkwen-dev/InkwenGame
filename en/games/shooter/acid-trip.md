@@ -21,4 +21,4 @@ THIS GAME is a 2d top-down shooter you can play it with raw brutality, hard-boil
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Crazy, endless, Friv, Games, Gun, Highscore, HTML5, Pixel, Play, Shooter, Shooting, weapons, WebGL, Zombie
+- Tags: 1 Player, 2D, Action, crazy, endless, Friv, Games, Gun, Highscore, HTML5, pixel, Play, Shooter, Shooting, weapons, WebGL, Zombie

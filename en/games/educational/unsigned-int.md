@@ -21,4 +21,4 @@ This is a math puzzle game with 2 modes. Easy mode starts with addition and subt
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, HTML5, Math, Mobile, Number, Puzzle, School
+- Tags: educational, HTML5, math, Mobile, Number, Puzzle, School

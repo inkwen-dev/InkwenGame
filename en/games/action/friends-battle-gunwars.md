@@ -19,6 +19,6 @@ In the new game of the Friends Battle series, weapons are drawn and magazines ar
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Gun, Minecraft, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Gun, Minecraft, pixel

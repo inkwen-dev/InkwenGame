@@ -19,6 +19,6 @@ The agent assigned for a secret mission has entered the building through the roo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Arcade, Casual, Hot, Hypercasual, Jumping, Mobile, Prison, Puzzle, WebGL
+- Tags: 3D, Adventure, Arcade, Casual, Hot, Hypercasual, jumping, Mobile, Prison, Puzzle, WebGL

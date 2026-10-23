@@ -19,6 +19,6 @@ Ariel lost his chickens from the farm where he lives and now our hero has decide
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Animal, Chicken, Classic, Jumping, Kids, Mario, Mobile, Pixel, Platform, Retro
+- Tags: Adventure, Animal, Chicken, Classic, jumping, Kids, mario, Mobile, pixel, Platform, retro

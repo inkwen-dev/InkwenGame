@@ -19,6 +19,6 @@ Oink Run! The runaway pig, manages to guide him on this insane escape by destroy
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ninja, Platform, run, running
+- Tags: ninja, Platform, run, running

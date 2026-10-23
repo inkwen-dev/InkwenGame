@@ -19,6 +19,6 @@ ragon Shadow Battle : Super Hero Legend officially debuted as a major event on t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dragon Ball Z

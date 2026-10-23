@@ -21,4 +21,4 @@ Here is a parking lesson game for the fish drivers to train. You know as a profe
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boy, Car, Driving, HTML5, Kid, Mobile, Obstacle, Parking, Racing
+- Tags: 3D, Boy, Car, Driving, HTML5, Kid, Mobile, Obstacle, parking, Racing

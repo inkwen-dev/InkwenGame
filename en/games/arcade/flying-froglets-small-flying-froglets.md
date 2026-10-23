@@ -19,6 +19,6 @@ One of the most interesting ability games with little animals is debuting today 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Avoid, Boys, Collecting, Fun, Girls, HTML5, jump, Mobile, Puzzle

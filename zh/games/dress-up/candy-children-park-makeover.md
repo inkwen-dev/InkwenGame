@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 清洁, 收集, 装饰, 游戏, HTML5
+- 标签: 清洁, 收集, 装扮, 网页游戏, HTML5

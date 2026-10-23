@@ -21,4 +21,4 @@ Want a wild evolution adventure from caveman to futuristic super warrior? Human 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Enemies, Puzzle, Warrior
+- Tags: battle, Enemies, Puzzle, Warrior

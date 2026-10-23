@@ -19,6 +19,6 @@ Captain Gold is a hyper-casual game that comes with an adventure theme. In this 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Collecting, Gold, Hypercasual, Island, Jigsaw, Mine, Miner, run, running, Shoot, Shooter, Shooting, Silver

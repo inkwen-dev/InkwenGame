@@ -19,6 +19,6 @@ Howling Havoc is the newest game that our administrative team is very happy to h
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Anime, Arcade, Brain, Cartoon, Cartoon Network, Disney, Educational, Fantasy, Kids, Superhero
+- Tags: Adventure, Anime, Arcade, Brain, Cartoon, Cartoon Network, Disney, educational, Fantasy, Kids, Superhero

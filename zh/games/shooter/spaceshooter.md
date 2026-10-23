@@ -21,4 +21,4 @@ Space Shooter 是一款经典射击游戏，延续了这一经典类型的最佳
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 空中, 外星人
+- 标签: 空气, 外星人

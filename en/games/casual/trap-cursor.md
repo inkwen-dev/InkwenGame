@@ -19,6 +19,6 @@ Trap Cursor: Ultimate Reflex Challenge! Test your speed and precision in this hi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: arrow, arrows, Best, Boys, Brain, Classic, Clicker, HTML5

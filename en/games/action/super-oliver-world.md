@@ -19,6 +19,6 @@ Super Oliver World is an arcade game where you help little Oliver escape the dan
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Highscore, Jumping, Kids, Mario, Mobile, Pixel, Platform
+- Tags: Highscore, jumping, Kids, mario, Mobile, pixel, Platform

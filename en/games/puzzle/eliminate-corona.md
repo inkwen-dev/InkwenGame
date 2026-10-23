@@ -19,6 +19,6 @@ Virus Covid 19 attack world. Your mission is to protect peoples and destroy viru
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Puzzle

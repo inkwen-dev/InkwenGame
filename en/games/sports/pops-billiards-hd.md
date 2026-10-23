@@ -21,4 +21,4 @@ This billiard game is based on speed and your goal is to pocket all balls as soo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Billiard, Sport, Sports
+- Tags: Adventure, Arcade, Billiard, Sport, sports

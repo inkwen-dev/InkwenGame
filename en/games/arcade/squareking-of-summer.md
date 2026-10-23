@@ -21,4 +21,4 @@ We&rsquo;ve reached the hottest time of summer in the Squareking series. Yes, su
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Cool, Geometry, Summer
+- Tags: 1 Player, 2D, Arcade, cool, Geometry, Summer

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 大脑, 乐趣, HTML5, 逻辑, 逻辑性, 技巧, 技巧
+- 标签: 大脑, 有趣, HTML5, 逻辑, 逻辑性, 技巧, 技能

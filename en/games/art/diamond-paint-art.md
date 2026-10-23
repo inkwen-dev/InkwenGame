@@ -21,4 +21,4 @@ Relax and find peace as you complete joyful artworks by pushing diamonds onto a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Best Games, Casual, Color, Drawing, Fun, html games for your website, Kids, Number, paint, Pixel, Puzzle, Relaxation
+- Tags: 2026 games, Best Games, Casual, Color, drawing, Fun, html games for your website, Kids, Number, paint, pixel, Puzzle, Relaxation

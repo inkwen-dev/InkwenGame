@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 猫, 逃脱, 跑步, 模拟
+- 标签: 3D, 猫, 逃脱, 奔跑, 模拟

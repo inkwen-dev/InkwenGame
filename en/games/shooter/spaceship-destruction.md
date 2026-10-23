@@ -21,4 +21,4 @@ Play the newest action shooter game Spaceship Destruction. The game has 7 differ
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Flight, Shooting, Space, Spaceship
+- Tags: Action, flight, Shooting, Space, Spaceship

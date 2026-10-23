@@ -21,4 +21,4 @@ Jump around the space with a cute space monster through the galaxy! Collect coin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Alien, Arcade, Hypercasual, jump, Jumping, Space
+- Tags: Alien, Arcade, Hypercasual, jump, jumping, Space

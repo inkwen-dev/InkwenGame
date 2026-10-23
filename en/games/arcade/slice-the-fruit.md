@@ -19,6 +19,6 @@ Slice fruits in 3 explosive modes: Arcade: 60 seconds to cut all freeze. Power t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Bomb, Fruit, Fruits, Slicing

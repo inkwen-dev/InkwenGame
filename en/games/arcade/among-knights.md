@@ -21,4 +21,4 @@ Among Knights is an Adventure Arcade 2D Game that tells a wonderful story of an 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Best Games, Casual, Knight, Sword
+- Tags: 2D, Best Games, Casual, knight, sword

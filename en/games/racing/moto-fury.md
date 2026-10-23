@@ -19,6 +19,6 @@ Thrilling racing game. Enjoy driving a motorcycle on an endless highway in traff
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, HTML5, Moto, Motorcycle, Racing, Road, Traffic, Truck
+- Tags: Car, HTML5, Moto, Motorcycle, Racing, Road, Traffic, truck

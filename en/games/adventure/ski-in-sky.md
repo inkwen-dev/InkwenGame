@@ -19,6 +19,6 @@ MPOSTOR SKY SKI is an arcade game where you have to ski down the mountain to com
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Funny, Puzzle, Ski, sky

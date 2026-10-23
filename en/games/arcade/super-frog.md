@@ -19,6 +19,6 @@ Super Frog is an excellent platform game. Play in the classic Super Mario style!
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Android, Arcade, Boy, Crazy, Dungeon, Fruit, Fruits, Game, HTML5, jump, Jumping, Kid, Kids, Mario, Mobile, New, Retro, Super
+- Tags: 1 Player, 2D, Action, Adventure, Android, Arcade, Boy, crazy, Dungeon, Fruit, Fruits, Game, HTML5, jump, jumping, Kid, Kids, mario, Mobile, New, retro, Super

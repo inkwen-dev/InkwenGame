@@ -21,4 +21,4 @@ Every kid loves sweet cotton candies. A big candy shop is newly opened in the ci
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Business, Candy, Cleaning, Cook, Cooking, Cool, Dress Up, Fun, Girl, Girls, Makeover
+- Tags: Business, Candy, Cleaning, Cook, Cooking, cool, Dress Up, Fun, Girl, Girls, Makeover

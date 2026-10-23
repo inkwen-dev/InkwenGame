@@ -15,6 +15,6 @@ Unravel the charm of school days in Back To School Jigsaw Picture Puzzle. Test y
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: jigsaw-puzzles

@@ -21,4 +21,4 @@ Dive into Jelly Cube Adventure, a thrilling candy-filled journey where you are t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, Arcade, Brain, Casual, Cute, Fun, Jelly, Kids, Matching, Relaxation, Strategy
+- Tags: 2026 games, Adventure, Arcade, Brain, Casual, Cute, Fun, Jelly, Kids, Matching, Relaxation, strategy

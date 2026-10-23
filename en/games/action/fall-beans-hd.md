@@ -21,4 +21,4 @@ Fun and colorful races on different race areas await you in the Fall Beans game.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, jump, Jumping, run, running
+- Tags: Action, Adventure, Arcade, jump, jumping, run, running

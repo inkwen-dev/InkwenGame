@@ -19,6 +19,6 @@ Fly through the skies and collect coins in this thrilling Jet Jumper game. Take 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Collecting, jump, Jumping, Platform
+- Tags: Adventure, Collecting, jump, jumping, Platform

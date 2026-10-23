@@ -21,4 +21,4 @@ It’s a simple yet challenging free block puzzle you won’t be able to put dow
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Block
+- Tags: 2D, block

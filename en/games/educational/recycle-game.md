@@ -38,4 +38,4 @@ Key Features:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Educational, Matching, Puzzle
+- Tags: educational, Matching, Puzzle

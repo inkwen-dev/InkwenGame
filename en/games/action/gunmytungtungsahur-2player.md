@@ -21,4 +21,4 @@ The Tung Tung Sahur brothers are very angry. Both of them are furious with each 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Arcade, Battle, Tung Tung, Tung Tung Tung, Tung Tung Tung Sahur
+- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Arcade, battle, Tung Tung, Tung Tung Tung, Tung Tung Tung Sahur

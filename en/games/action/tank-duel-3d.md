@@ -21,4 +21,4 @@ Are you ready for the fight of the tanks? Fight and win against your friend or c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, Action, Arena, Battle, Tank, War
+- Tags: 2 Player, 2 Player Games, 3D, Action, Arena, battle, Tank, War

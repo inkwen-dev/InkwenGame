@@ -19,6 +19,6 @@ Welcome to the Part II of the Om Nom adventures Keep cutting the rope and feed m
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, cut, Puzzle, Skills, Strategy
+- Tags: Brain, cut, Puzzle, Skills, strategy

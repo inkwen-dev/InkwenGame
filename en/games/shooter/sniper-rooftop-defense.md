@@ -21,4 +21,4 @@ Sniper: Rooftop Defense is a first person sniper game. Hold the rooftop, scope i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: First Person Shooter, Shoot, Shoot 'Em Up, Shooter, Shooting, Sniper
+- Tags: First Person Shooter, Shoot, Shoot 'Em Up, Shooter, Shooting, sniper

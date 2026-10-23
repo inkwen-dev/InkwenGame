@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 婴儿, 可爱, 女孩们, HTML5, 孩子们, WebGL
+- 标签: 单人, 婴儿, 可爱, 女孩, HTML5, 儿童, WebGL

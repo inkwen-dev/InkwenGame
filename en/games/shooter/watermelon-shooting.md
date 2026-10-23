@@ -19,6 +19,6 @@ Watermelon Shooting is one of the most fun shooting games in which you will get 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boy, HTML5, Shoot, Shooter, WebGL

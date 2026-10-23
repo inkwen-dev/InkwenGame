@@ -21,4 +21,4 @@ Golf Tour is a game in which you need to drive the golf ball into the hole by mo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Best, Fun, Golf, Mobile, Skill
+- Tags: Ball, Best, Fun, golf, Mobile, Skill

@@ -21,4 +21,4 @@ Fashion Battle Queen is a stylish swipe runner where your choices decide who bec
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, beauty, Casual, Dress Up, Fashion, Girl, running
+- Tags: battle, beauty, Casual, Dress Up, Fashion, Girl, running

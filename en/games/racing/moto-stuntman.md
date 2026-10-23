@@ -19,6 +19,6 @@ Test your motorcycle racer skills on tracks with different terrain, environments
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bike, Crazy, Levels, Mobile, Moto, Motocross, Motorcycle, offroad, Race, Racing, Stunts
+- Tags: Arcade, bike, crazy, Levels, Mobile, Moto, Motocross, Motorcycle, offroad, Race, Racing, Stunts

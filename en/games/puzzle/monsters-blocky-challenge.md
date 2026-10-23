@@ -21,4 +21,4 @@ It is a challenging block collapse game. In each level you will get a unique cha
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Collecting, Halloween, HTML5, Matching, Mobile, Monster, Puzzle
+- Tags: block, Collecting, Halloween, HTML5, Matching, Mobile, monster, Puzzle

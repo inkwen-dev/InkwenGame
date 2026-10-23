@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 婴儿, Baby Hazel, 男孩, 卡通, 卡通网络, 猫, 设计, 迪士尼, 女孩, Hello Kitty, 宝石
+- 标签: 婴儿, 小哈泽尔, 男孩们, 卡通, 卡通频道, 猫, 设计, 迪士尼, 女孩, Hello Kitty, 宝石

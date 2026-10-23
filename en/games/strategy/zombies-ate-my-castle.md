@@ -23,4 +23,4 @@ Zombies Ate My Castle is a tower defense game where you command an army of zombi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Monster, Strategy, Tower Defense, Zombie
+- Tags: monster, strategy, Tower Defense, Zombie

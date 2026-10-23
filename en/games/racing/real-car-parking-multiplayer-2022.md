@@ -19,6 +19,6 @@ Do you love car games? Experience real car driving and improve your driving skil
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, bus, Car, Cars, Love, Parking, Race, Racing, Simulation, Simulator, Stunts, Supercars, Truck, Unity3D
+- Tags: 3D, 3D Games, bus, Car, Cars, Love, parking, Race, Racing, Simulation, Simulator, Stunts, Supercars, truck, Unity3D

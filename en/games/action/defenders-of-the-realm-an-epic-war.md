@@ -21,4 +21,4 @@ In DEFENDER OF THE REALM : AN EPIC WAR you must command and order your army of k
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Defense, Fight, Pixel, Strategy, War
+- Tags: battle, Defense, Fight, pixel, strategy, War

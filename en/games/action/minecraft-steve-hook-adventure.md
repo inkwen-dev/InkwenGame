@@ -19,6 +19,6 @@ Minecraft Steve Hook Adventure is a fun physics ball game where your goal is to 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Avoid, Ball, Block, Fun, Hypercasual, jump, Minecraft, Mobile, Platform, Skills
+- Tags: Android, Arcade, Avoid, Ball, block, Fun, Hypercasual, jump, Minecraft, Mobile, Platform, Skills

@@ -21,4 +21,4 @@ Test your memory with the photos and protect your self,friends and your family.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Card, Collection, Doctor, Educational, Memory, Puzzle
+- Tags: Brain, card, Collection, Doctor, educational, memory, Puzzle

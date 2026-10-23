@@ -19,6 +19,6 @@ Fast Ninja need you more than ever before! Try to avoid all the rock, or try to 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Boys, Casual, Clicker, endless, HTML, HTML5, jump, Jumping, Kids, Ninja, Ninjago
+- Tags: 2D, Arcade, Boys, Casual, Clicker, endless, HTML, HTML5, jump, jumping, Kids, ninja, Ninjago

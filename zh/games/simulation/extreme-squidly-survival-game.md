@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 街机, 逃脱, 移动设备, 跑步, 模拟, 技巧, 时机, WebGL
+- 标签: 3D, 街机, 逃脱, 移动设备, 奔跑, 模拟, 技巧, 时机, WebGL

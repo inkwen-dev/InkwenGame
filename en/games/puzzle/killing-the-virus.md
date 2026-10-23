@@ -21,4 +21,4 @@ Collapse the virus by connecting 2 or more similar virus. Collapse 6 or more vir
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Collecting, Collection, HTML5, Mobile
+- Tags: block, Collecting, Collection, HTML5, Mobile

@@ -19,6 +19,6 @@ Cute Animals Memory is a fun and relaxing matching puzzle game designed for kids
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Memory, Puzzle, puzzleblock
+- Tags: Animal, memory, Puzzle, puzzleblock

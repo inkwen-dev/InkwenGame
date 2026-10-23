@@ -21,4 +21,4 @@ Here is a bicycle stunt avoding arcade game under the third-person 3D view. It i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Bike, Jumping, Obstacle, Stunts
+- Tags: 3D, bike, jumping, Obstacle, Stunts

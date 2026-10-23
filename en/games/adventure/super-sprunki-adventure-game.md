@@ -21,4 +21,4 @@ super sprunki adventure game - Jungle Adventure - Classic Run Game gives you the
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mario, Sprunki
+- Tags: mario, Sprunki

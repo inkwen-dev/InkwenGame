@@ -21,4 +21,4 @@ The wonderful world of the Magic Islands is in desparate need of magic to help r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Mahjong, Solitaire
+- Tags: 1 Player, mahjong, solitaire

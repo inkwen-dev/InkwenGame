@@ -21,4 +21,4 @@ Math games will teach you how to multiply, divide, subtract and add at lightning
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Letters, Logic, Math
+- Tags: Letters, Logic, math

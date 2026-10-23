@@ -27,4 +27,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 球, 繪畫, Mobile, 物理
+- 标签: 球, 绘画, 移动设备, 物理

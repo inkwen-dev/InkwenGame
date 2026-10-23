@@ -19,6 +19,6 @@ Blocky Champions is a fast-paced HTML5 arcade platform runner game designed prim
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 2D, Arcade, Ball, Best Games, blocky, free html5 games for your website

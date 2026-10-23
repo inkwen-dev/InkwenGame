@@ -19,6 +19,6 @@ Take Flight with Flags in Flying Flags! Calling all globetrotters and memory mae
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, Matching, Point And Click, World

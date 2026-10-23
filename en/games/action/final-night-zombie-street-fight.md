@@ -19,6 +19,6 @@ It's been one year since the world went down, one year since the outbreak. We've
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fighting, Street Fighting, WebGL, Zombie
+- Tags: fighting, Street Fighting, WebGL, Zombie

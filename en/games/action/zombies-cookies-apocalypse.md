@@ -21,4 +21,4 @@ Zombies Cookies Apocalypse is an online survival game that has taken the gaming 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fighting, kiz10, survival, Zombie
+- Tags: fighting, kiz10, survival, Zombie

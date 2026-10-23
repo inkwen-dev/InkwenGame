@@ -19,6 +19,6 @@ pace Shuttle War is an immersive and exciting space shuttle game. While playing 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Game, Shoot, Shooting, Space, Spaceship, War, weapons

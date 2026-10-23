@@ -19,6 +19,6 @@ A fantastic running game that not only captivates the player but also brings the
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, HTML5, Mobile, run, running, Unity3D, WebGL

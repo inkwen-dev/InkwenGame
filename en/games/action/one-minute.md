@@ -19,6 +19,6 @@ Try to win the game by defeating the tough soldiers in 1 minute. Fight tough sol
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Army, Battle, Escape, HTML5, Knight, Pixel
+- Tags: Action, Adventure, Army, battle, Escape, HTML5, knight, pixel

@@ -19,6 +19,6 @@ Pizza run is a fun game where you keep multiply pizzas and save them from gettin
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, HTML, HTML5

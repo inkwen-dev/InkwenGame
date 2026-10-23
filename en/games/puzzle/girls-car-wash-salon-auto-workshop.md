@@ -19,6 +19,6 @@ Are you a girl who has always dreamed of having her own car wash auto workshop s
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Adventure, Arcade, Bubble Shooter, Car, Cars, Fun, Funny, Race, Racing, Simulation, Simulator, Supercars, Unity3D

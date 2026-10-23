@@ -21,4 +21,4 @@ Click the ball and let it jump to destination.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Jumping, Skill
+- Tags: Ball, jumping, Skill

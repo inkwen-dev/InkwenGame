@@ -19,6 +19,6 @@ Fly like a pro in this airplane simulator; you can smoothly navigate from one ai
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Aircraft, airplane, Driving, fly, Mentolatux, Unity3D, vehicle, WebGL

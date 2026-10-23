@@ -21,4 +21,4 @@ Enter the koxo arena and attack your opponents with your ball and chain. Make bi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Arena, Avoid, Ball, Battle, Boxing, Multiplayer
+- Tags: .io Games, Arena, Avoid, Ball, battle, Boxing, Multiplayer

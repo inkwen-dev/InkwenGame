@@ -19,6 +19,6 @@ The sequel to stickdoll God Of Archery, this game is about the Fire Kingdom's de
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Hypercasual, Platform, Stickman
+- Tags: Action, Adventure, Hypercasual, Platform, stickman

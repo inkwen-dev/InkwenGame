@@ -21,4 +21,4 @@ Don' Drop The Pig is a cool action game very easy and intuitive to play, but it 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cat, Click, Clicker, Flight, fly, Girl, Girls, HTML, HTML5, jump, Jumping, Kid, Kids
+- Tags: Cat, Click, Clicker, flight, fly, Girl, Girls, HTML, HTML5, jump, jumping, Kid, Kids

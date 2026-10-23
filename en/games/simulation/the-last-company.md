@@ -28,4 +28,4 @@ The Last Company is a 3D fantasy strategy RPG where you recruit heroes, build yo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Adventure, Arcade, Management, RPG, Strategy
+- Tags: 3D, Action, Adventure, Arcade, management, rpg, strategy

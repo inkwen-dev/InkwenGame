@@ -19,6 +19,6 @@ Tower Breaker is a physics-based destruction game where you throw different type
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: crash, destroy, Mouse, Simulation

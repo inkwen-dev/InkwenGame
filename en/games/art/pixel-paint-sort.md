@@ -25,4 +25,4 @@ Pixel Paint Sort is a captivating puzzle game that blends pixel coloring and til
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Color, Drawing, Logic, Matching, Puzzle
+- Tags: Brain, Color, drawing, Logic, Matching, Puzzle

@@ -19,6 +19,6 @@ Now it's time for popular game named Poppy Playtime Differences, let's have fun!
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Best, Casual, Difference, Fun, Funny, Hypercasual, Mobile, Monster, Skill
+- Tags: 1 Player, Adventure, Best, Casual, Difference, Fun, Funny, Hypercasual, Mobile, monster, Skill

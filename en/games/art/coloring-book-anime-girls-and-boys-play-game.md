@@ -21,4 +21,4 @@ Nothing brings anime artists more satisfaction than creating original characters
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Boys, Coloring, Draw, Drawing, Educational, Game, Girls, Kids, Play
+- Tags: Anime, Boys, Coloring, Draw, drawing, educational, Game, Girls, Kids, Play

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 敌人, 食物, 技巧, 塔防
+- 标签: 敌人, 食物, 技能, 塔防

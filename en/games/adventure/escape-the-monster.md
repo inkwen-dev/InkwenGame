@@ -40,4 +40,4 @@ Gems buy new cloaks, lanterns and masks. Nine of them can't be bought at all, an
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Escape, Maze, Monster
+- Tags: Escape, Maze, monster

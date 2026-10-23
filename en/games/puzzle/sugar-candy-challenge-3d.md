@@ -19,6 +19,6 @@ Just click on "START" to start the game. If you think that the game is too diffi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Candy, Cooking, Jigsaw, Memory, Mind, Number, Puzzle
+- Tags: Candy, Cooking, Jigsaw, memory, Mind, Number, Puzzle

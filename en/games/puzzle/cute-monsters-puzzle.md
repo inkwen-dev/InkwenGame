@@ -21,4 +21,4 @@ Monsters are scary but not in this game! The monsters in this game are very cute
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Funny, Game, HTML, HTML5, Hypercasual, Monster, Puzzle
+- Tags: Fun, Funny, Game, HTML, HTML5, Hypercasual, monster, Puzzle

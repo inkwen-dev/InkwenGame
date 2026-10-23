@@ -21,4 +21,4 @@ Meet mark stim, the young offroad aspiring asphalt racer. He is about to embark 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arena, Crazy, Driving
+- Tags: Arena, crazy, Driving

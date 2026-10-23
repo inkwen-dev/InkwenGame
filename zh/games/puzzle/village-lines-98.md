@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 经典, 点击, 匹配, 解谜
+- 标签: 2D, 经典, 点击, 匹配, 益智

@@ -21,4 +21,4 @@ Become the chef with the most ingredients.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Cook, Fruits
+- Tags: battle, Cook, Fruits

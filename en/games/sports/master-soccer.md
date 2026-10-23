@@ -19,6 +19,6 @@ In order for the game to start, you need to select the flag of the country for w
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Ballon, Football, H5, HTML, HTML5, Shoot, Shooting, Sport, Sports
+- Tags: Ball, Ballon, Football, H5, HTML, HTML5, Shoot, Shooting, Sport, sports

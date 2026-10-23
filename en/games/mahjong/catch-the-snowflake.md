@@ -21,4 +21,4 @@ In Catch The Snowflake, be prepared to test your attention! Snowflakes and Chris
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Christmas, Collecting, Funny, Girls, Holiday, Mahjong, Matching, Puzzle, Winter
+- Tags: 1 Player, Christmas, Collecting, Funny, Girls, Holiday, mahjong, Matching, Puzzle, Winter

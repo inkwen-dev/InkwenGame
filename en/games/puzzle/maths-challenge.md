@@ -21,4 +21,4 @@ Maths Challenge is an online game that you can playfor free. It is math time! Ar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Fun, Game, HTML5, Kids, Math, Number, School, Skill, Skills
+- Tags: Android, Fun, Game, HTML5, Kids, math, Number, School, Skill, Skills

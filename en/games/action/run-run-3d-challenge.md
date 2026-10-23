@@ -19,6 +19,6 @@ In this amazing 3D running game Run Run 3D Challenge, you need to act as a littl
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Avoid, Collecting, Jumping, Mobile, running, Side Scrolling, Skill
+- Tags: 3D, Adventure, Avoid, Collecting, jumping, Mobile, running, Side Scrolling, Skill

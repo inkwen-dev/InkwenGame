@@ -21,4 +21,4 @@ Move the Gems to the blank spaces in order to create a horizontal or vertical ro
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Board, Collecting, HTML5, Jewel, Matching, Mobile
+- Tags: Arcade, block, Board, Collecting, HTML5, Jewel, Matching, Mobile

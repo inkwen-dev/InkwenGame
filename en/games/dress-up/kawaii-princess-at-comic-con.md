@@ -21,4 +21,4 @@ Our favorite princesses - Harley, Eliza and Jasmina - are going to the biggest c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Anime, Barbie, Cartoon, Cute, Dress Up, Elsa, Fashion, RPG
+- Tags: 2D, Anime, Barbie, Cartoon, Cute, Dress Up, Elsa, Fashion, rpg

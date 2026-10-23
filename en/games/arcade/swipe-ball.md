@@ -21,4 +21,4 @@ In the Swipe Ball game, you must avoid the bombs and collect the diamonds around
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Best, Casual, Cool, endless, Fun, Hypercasual, Kids, Puzzle, Skills, Unity3D, WebGL
+- Tags: Arcade, Ball, Best, Casual, cool, endless, Fun, Hypercasual, Kids, Puzzle, Skills, Unity3D, WebGL

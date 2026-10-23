@@ -19,6 +19,6 @@ Build a Keycap Pyramid is a satisfying 3D building game where every keycap count
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, building, Casual, Clicker, Cute, idle, Kids, Multiplayer, Relaxation, Simulator, Stack, Typing

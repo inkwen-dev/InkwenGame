@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, 躲避, 大脑, 跑步, Stickman, Unity3D
+- 标签: 3D, 3D游戏, 躲避, 大脑, 奔跑, 木偶人, Unity3D

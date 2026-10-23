@@ -19,6 +19,6 @@ Ever dreamed of becoming a top Car Dealer? In Car Dealer Idle, you&rsquo;ll mana
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Business, Car, idle, vehicle

@@ -19,6 +19,6 @@ Space Destroyer is an top down shot em&rsquo;up html5 game, alien ship attack, y
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Alien, Arcade, Shooter, Space

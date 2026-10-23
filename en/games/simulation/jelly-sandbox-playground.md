@@ -35,4 +35,4 @@ Features:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, Fighting, Gun, Physics, ragdoll, Shooting, Simulation, Tanks
+- Tags: Action, Arcade, fighting, Gun, Physics, ragdoll, Shooting, Simulation, tanks

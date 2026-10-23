@@ -21,4 +21,4 @@ WASD - 移动 空格键 - 跳跃 刹车 打开降落伞 左鼠标按钮 - 射击
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 动作, 男孩, HTML5, 射击, 射击游戏, 射手, WebGL
+- 标签: 3D, 动作, 男孩, HTML5, 射击, 射击游戏, 射击类, WebGL

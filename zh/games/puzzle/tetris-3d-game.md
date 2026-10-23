@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 趣味, 搞笑, 游戏, 游戏合集, HTML, HTML5, 儿童, 儿童, 益智, 解谜, 俄罗斯方块
+- 标签: 有趣, 搞笑, 游戏, 网页游戏, HTML, HTML5, 儿童, 儿童, 思维, 益智, tetris

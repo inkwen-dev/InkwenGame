@@ -21,4 +21,4 @@ Animal Sounds Learn the sound of each animal in a fun way using your cell phone,
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Best, Cat, Educational, Family, Kid, Kids, School
+- Tags: Animal, Baby, Best, Cat, educational, Family, Kid, Kids, School

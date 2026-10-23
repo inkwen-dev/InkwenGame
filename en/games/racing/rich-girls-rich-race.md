@@ -19,6 +19,6 @@ Are you looking for a fun run race 3D game to relieve stress? What do you think 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, 3D Games, Arcade, Boy, Boys, bus, Business, Car, Cars, Casual, Girl, Girls, Hypercasual, Simulation, Simulator, Supercars, Truck, Unity3D
+- Tags: .io Games, 3D, 3D Games, Arcade, Boy, Boys, bus, Business, Car, Cars, Casual, Girl, Girls, Hypercasual, Simulation, Simulator, Supercars, truck, Unity3D

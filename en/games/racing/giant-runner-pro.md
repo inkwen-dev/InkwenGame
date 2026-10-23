@@ -21,4 +21,4 @@ Giant Run Survival Rush best free Overall Game offline. Run through the obstacle
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting, Racing, running
+- Tags: Fight, fighting, Racing, running

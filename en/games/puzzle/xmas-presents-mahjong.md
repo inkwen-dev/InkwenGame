@@ -21,4 +21,4 @@ Match three of the same tiles. Click on a tile to move it to the collection spot
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Card, Christmas, Logic, Mahjong, Match3, Matching, Puzzle
+- Tags: Brain, card, Christmas, Logic, mahjong, Match3, Matching, Puzzle

@@ -21,4 +21,4 @@ It is simple and interesting mahjong game. In this game, you can remove those id
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Girls, Mahjong, Matching, Mobile, Puzzle
+- Tags: Fun, Girls, mahjong, Matching, Mobile, Puzzle

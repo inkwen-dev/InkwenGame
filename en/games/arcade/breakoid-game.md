@@ -21,4 +21,4 @@ Breakoid is a new take on the classic block-breaker / Arkanoid game genre with a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, Block, Physics, Skill
+- Tags: Arcade, Ball, block, Physics, Skill

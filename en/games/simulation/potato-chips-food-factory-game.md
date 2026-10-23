@@ -19,6 +19,6 @@ Potato Chips Game is your choice, If you want a relaxing game. It is a simple an
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Casual, Cook, Cooking, Hypercasual, Shopping, Unity3D

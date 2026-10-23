@@ -21,4 +21,4 @@ Click to Control Chaos is a fast-paced casual game where disorder is your greate
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Action, Arcade, Casual, Crazy, Fun, Funny, Geometry, Hypercasual, Physics
+- Tags: 1 Player, 2026 games, 2D, Action, Arcade, Casual, crazy, Fun, Funny, Geometry, Hypercasual, Physics

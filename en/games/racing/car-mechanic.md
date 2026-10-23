@@ -19,6 +19,6 @@ Play this Auto Repair Car Garage Mechanic Simulator 2019 in a realistic workshop
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Cartoon, Classic, Cleaning

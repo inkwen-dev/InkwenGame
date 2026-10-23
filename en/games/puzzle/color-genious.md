@@ -19,6 +19,6 @@ welcome to Color Genious Draw colorful lines and match them with the target. Cli
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Color, Draw, Hypercasual, Physics, Puzzle

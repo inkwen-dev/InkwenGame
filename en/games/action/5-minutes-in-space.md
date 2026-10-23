@@ -19,6 +19,6 @@ The controls are easy the ship follows the mouse and you have to avoid hitting t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Space
+- Tags: battle, Space

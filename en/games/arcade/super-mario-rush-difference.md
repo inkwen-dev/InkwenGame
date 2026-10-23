@@ -21,4 +21,4 @@ Super Mario Rush Difference is a fun and challenging online game that is free to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, Difference, Fun, Hypercasual, Kids, Mario, Mobile, Puzzle, Relaxation, School, Skill
+- Tags: Android, Arcade, Difference, Fun, Hypercasual, Kids, mario, Mobile, Puzzle, Relaxation, School, Skill

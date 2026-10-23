@@ -19,6 +19,6 @@ Drawing&nbsp;Carnival is a very unique coloring game. Are you someone who loves 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Color, Coloring, Cute, Decorate, Draw, Drawing, Fashion, Fun, Girls, HTML5, Kids, Mobile, Relaxation
+- Tags: Boys, Color, Coloring, Cute, Decorate, Draw, drawing, Fashion, Fun, Girls, HTML5, Kids, Mobile, Relaxation

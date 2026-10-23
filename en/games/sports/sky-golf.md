@@ -26,4 +26,4 @@ Sky Golf is a physics-based puzzle game where your objective is to guide a golf 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Ball, Golf, Mobile, Physics, Platform, Skill, Sports
+- Tags: Ball, golf, Mobile, Physics, Platform, Skill, sports

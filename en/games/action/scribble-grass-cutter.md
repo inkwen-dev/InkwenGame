@@ -19,6 +19,6 @@ Draw Grass Cut is a free and simple easy to use mowing stress reliever, draw sim
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, cut, Draw, Drawing, H5, HTML, HTML5, Mobile, Online, Platform, Race
+- Tags: 3D, 3D Games, Arcade, cut, Draw, drawing, H5, HTML, HTML5, Mobile, Online, Platform, Race

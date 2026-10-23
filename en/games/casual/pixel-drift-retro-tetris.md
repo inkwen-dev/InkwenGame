@@ -21,4 +21,4 @@ Pixel Drift is a retro-styled Tetris game with a CRT phosphor aesthetic, chiptun
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Casual, Tetris
+- Tags: block, Casual, tetris

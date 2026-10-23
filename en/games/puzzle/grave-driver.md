@@ -19,6 +19,6 @@ grave drive driver game has a lost of success this month is you will learn hunde
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, Bubble Shooter, Interactive, Interactive Fiction, Puzzle, Road, Shoot, Shoot 'Em Up, Shooter, Shooting, Wizard, Zombie

@@ -21,4 +21,4 @@ Stickman The Flash 是一款带有 2D 棍子战士的格斗 RPG 街机游戏。�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 动作, Stickman
+- 标签: 单人, 动作, 木偶人

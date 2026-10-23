@@ -21,4 +21,4 @@ The game is made in the style of Minecraft. The caves have safe elevations and a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping
+- Tags: jump, jumping

@@ -19,6 +19,6 @@ Checkpoint is a 3D first person shooter. Play in real time with real people. Jus
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, H5, Hot, HTML, HTML5, Mobile, Pixel
+- Tags: 3D, 3D Games, Action, Adventure, H5, Hot, HTML, HTML5, Mobile, pixel

@@ -15,6 +15,6 @@ Leap into Astro Jump Galaxy, where you navigate a cosmic landscape with a charmi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: platformer

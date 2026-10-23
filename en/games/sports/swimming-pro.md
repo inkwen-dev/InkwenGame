@@ -21,4 +21,4 @@ Swimming pro is a HTML5 swimming game. Challenge the best swimmers in the world 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Sport, Sports
+- Tags: Sport, sports

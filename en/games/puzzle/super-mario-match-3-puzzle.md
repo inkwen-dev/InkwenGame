@@ -19,6 +19,6 @@ You love Mario, you like match 3? This is the game for you: Mario match 3 puzzle
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Bubble, Mario, Match 3, Match3, Matching, Super
+- Tags: Ball, Bubble, mario, Match 3, Match3, Matching, Super

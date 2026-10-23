@@ -21,4 +21,4 @@ Welcome To Play Block Legend Puzzle. "Block Legend Puzzle " is a fun and classic
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, HTML5, Hypercasual, Match 3, Mobile, Puzzle
+- Tags: block, HTML5, Hypercasual, Match 3, Mobile, Puzzle

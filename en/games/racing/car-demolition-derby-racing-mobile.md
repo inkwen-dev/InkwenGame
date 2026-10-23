@@ -21,4 +21,4 @@ Car crashing is all about doing crazy racing maneuvers and destroying cars. Whil
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, bus, Car, Crazy, Fun, HTML, HTML5, Kids, Mobile, Racing, Supercars, Unity3D, WebGL
+- Tags: Android, bus, Car, crazy, Fun, HTML, HTML5, Kids, Mobile, Racing, Supercars, Unity3D, WebGL

@@ -21,4 +21,4 @@ Welcome to the game Sprunki Coloring Book where you will find 12 different pictu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Color, Coloring, Fun, Funny, Kids, Mobile, Music, Skill
+- Tags: Best, Color, Coloring, Fun, Funny, Kids, Mobile, music, Skill

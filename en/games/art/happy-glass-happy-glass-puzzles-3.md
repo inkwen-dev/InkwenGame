@@ -19,6 +19,6 @@ The glass is sad because it is empty. Your mission is to draw a line to fill the
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Draw, Drawing, HTML5, Puzzle
+- Tags: Brain, Draw, drawing, HTML5, Puzzle

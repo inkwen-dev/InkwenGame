@@ -19,6 +19,6 @@ Swipe to move the tiles. When two tiles with the same number touch, they merge i
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2048, Battle, Casual
+- Tags: 2048, battle, Casual

@@ -21,4 +21,4 @@ It’s bedtime! Moon has appeared and stars are shining in the sky. Our lovable 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cleaning, Cute, Dress Up, Educational, Girl, Girls, Kids, Puzzle, Simulation
+- Tags: Baby, Cleaning, Cute, Dress Up, educational, Girl, Girls, Kids, Puzzle, Simulation

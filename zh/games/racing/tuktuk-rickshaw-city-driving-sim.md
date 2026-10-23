@@ -21,4 +21,4 @@ WASD 驾驶
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 城市, 驾驶, 人力车, 模拟, TukTuk, 车辆
+- 标签: 城市, 驾驶, 人力车, 模拟, 突突, 车辆

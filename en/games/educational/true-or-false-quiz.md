@@ -19,6 +19,6 @@ True or False is a game where you have to show your knowledge and guess if the w
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boys, Brain, Educational, Logic, Mobile, Puzzle, Quiz
+- Tags: Android, Boys, Brain, educational, Logic, Mobile, Puzzle, Quiz

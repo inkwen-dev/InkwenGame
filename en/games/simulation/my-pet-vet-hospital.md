@@ -21,4 +21,4 @@ Every pet requires fair treatment. Can you help them heal their wounds? All type
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cartoon, Cute, Doctor, Educational, Girls, HTML5, Kids, Mobile, Simulation, Surgery
+- Tags: Animal, Cartoon, Cute, Doctor, educational, Girls, HTML5, Kids, Mobile, Simulation, surgery

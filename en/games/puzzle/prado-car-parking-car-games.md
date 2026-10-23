@@ -21,4 +21,4 @@ Extreme & amazing feature of this offline parking games is its manual camera sel
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Game, Games, Mario, Simulation, Supercars, Truck
+- Tags: 8 Ball Pool, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Game, Games, mario, Simulation, Supercars, truck

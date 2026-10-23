@@ -19,6 +19,6 @@ Basketball Flicker: Aim and Flick the Mouse to Shoot the Ball! . Start by pressi
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, html games for your website, html5 games for your site, Kid, Kids, Sport, Sports
+- Tags: basketball, html games for your website, html5 games for your site, Kid, Kids, Sport, sports

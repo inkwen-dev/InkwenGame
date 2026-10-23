@@ -21,4 +21,4 @@ Tap or click
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Boy, Boys, Brain, Casual, Classic, Color, Coloring, Creation, Design, Educational, Girl, Girls, H5, HTML5
+- Tags: Baby, Boy, Boys, Brain, Casual, Classic, Color, Coloring, Creation, Design, educational, Girl, Girls, H5, HTML5

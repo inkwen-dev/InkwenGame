@@ -21,4 +21,4 @@ Start from small car dealership by purchasing affordable vehicles, carefully ins
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Car, Management, Simulation
+- Tags: Car, management, Simulation

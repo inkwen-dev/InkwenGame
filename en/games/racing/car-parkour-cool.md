@@ -19,6 +19,6 @@ This is a game to beat the level. In this case, you need to control a small car,
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Balance, Car, Cars, Driving, H5

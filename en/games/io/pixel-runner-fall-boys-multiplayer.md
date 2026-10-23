@@ -21,4 +21,4 @@ Autumn kids on the internet 3D allow you to complete each multiplayer obstacle w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2 Player Games, 3D, 3D Games, Action, Best, Crazy, Game, Games, Multiplayer, Pixel, run, running, Super, Unity3D, WebGL
+- Tags: .io, .io Games, 2 Player Games, 3D, 3D Games, Action, Best, crazy, Game, Games, Multiplayer, pixel, run, running, Super, Unity3D, WebGL

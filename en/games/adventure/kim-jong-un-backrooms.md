@@ -21,4 +21,4 @@ Kim Jong Un Backrooms is a suspense-filled horror adventure where you must escap
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Granny, Horror, Prison
+- Tags: 1 Player, granny, Horror, Prison

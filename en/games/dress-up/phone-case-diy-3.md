@@ -21,4 +21,4 @@ Phone Case DIY is an incredibly creative game that allows you to fully unleash y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cleaning, Coloring, Design, Drawing, Fashion, Fun, Girls, HTML5, Kids, Mobile
+- Tags: Cleaning, Coloring, Design, drawing, Fashion, Fun, Girls, HTML5, Kids, Mobile

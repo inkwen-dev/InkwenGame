@@ -21,4 +21,4 @@ Listen to the magic beat, follow the rhythm and use your musical reflexes to gui
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Boys, Girl, Girls, HTML5, jump, Jumping, Kids, Mobile, Music, Skill, Skills
+- Tags: Ball, Boys, Girl, Girls, HTML5, jump, jumping, Kids, Mobile, music, Skill, Skills

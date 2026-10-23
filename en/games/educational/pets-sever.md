@@ -21,4 +21,4 @@ Pets Sever is game which you will like for sure its a game of puzzles kind. The 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Brain, Educational, Fun
+- Tags: Adventure, Brain, educational, Fun

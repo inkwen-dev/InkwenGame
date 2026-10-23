@@ -21,4 +21,4 @@ Tanks.io 是一款有趣且令人上瘾的动作 IO 游戏。这是一款多人�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 动作, 射击, 射击, 坦克, 坦克
+- 标签: .io, .io 游戏, 动作, 射击类, 射击, 坦克, tanks

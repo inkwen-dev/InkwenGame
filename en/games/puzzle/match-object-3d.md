@@ -19,6 +19,6 @@ Matching Puzzle 3D is easy to play for everyone ! You need to match 3D objects o
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Fruit, Match 3, Matching, Side Scrolling, Sport, Strategy
+- Tags: Action, Adventure, Arcade, Fruit, Match 3, Matching, Side Scrolling, Sport, strategy

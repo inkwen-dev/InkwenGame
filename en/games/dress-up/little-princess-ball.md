@@ -21,4 +21,4 @@ The cute little sisters Mia and Bella are very much excited about the ball tonig
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Barbie, Doctor, Dora, Dress Up, Fashion, Mario
+- Tags: Barbie, Doctor, Dora, Dress Up, Fashion, mario

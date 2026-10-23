@@ -21,4 +21,4 @@ PC 操作使用键盘方向键或 WASD 键移动和跳跃。平板和手机操�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, kiz10, 平台, 跑步
+- 标签: 冒险, kiz10, 平台, 奔跑

@@ -19,6 +19,6 @@ You have a falling down ball and you have to stop and control it by tapping on t
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 8 Ball Pool, Adult, Adventure, Ball, Classic, Color, Subway Surfers

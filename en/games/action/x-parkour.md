@@ -21,4 +21,4 @@ Control the role to avoid danger, use your skills reasonably to keep moving forw
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Casual, Fun, Funny, Hypercasual, Stickman
+- Tags: Action, Casual, Fun, Funny, Hypercasual, stickman

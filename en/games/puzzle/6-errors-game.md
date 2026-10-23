@@ -19,6 +19,6 @@ Test your vocabulary and deduction skills in 6-Errors, a word-guessing game! You
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Classic, Word
+- Tags: Best Games, Classic, word

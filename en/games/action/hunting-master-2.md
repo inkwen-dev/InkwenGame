@@ -21,4 +21,4 @@ A strategic hunting game where power decides victory! Choose your wolf targets a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Brain, Jumping, Logic, Physics
+- Tags: battle, Brain, jumping, Logic, Physics

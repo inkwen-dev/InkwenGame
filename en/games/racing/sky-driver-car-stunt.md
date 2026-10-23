@@ -21,4 +21,4 @@ In this GT Sky Racer game you will experience the real thrill of car driving in 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Bike, Car, Cars, drift, drifting, Race, Racing, Simulation, Simulator, Stunts, Supercars, Superhero, Truck
+- Tags: Action, Adventure, bike, Car, Cars, drift, drifting, Race, Racing, Simulation, Simulator, Stunts, Supercars, Superhero, truck

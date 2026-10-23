@@ -21,4 +21,4 @@ Sweet Baby Girl Daycare is a very cute caring game. Today your mission is to tak
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cook, Cooking, Cute, Decorate, Decoration, Dress Up, Educational, Fun, Girls, HTML5, Kids, Mobile
+- Tags: Baby, Cook, Cooking, Cute, Decorate, Decoration, Dress Up, educational, Fun, Girls, HTML5, Kids, Mobile

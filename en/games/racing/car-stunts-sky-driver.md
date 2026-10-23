@@ -21,4 +21,4 @@ Superhero Car Games GT Racing Stunts - Game 2021! Car racing game for kids! Welc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Car, Cars, drift, drifting, Driving, Games, jump, Jumping, Supercars
+- Tags: 3D Games, Car, Cars, drift, drifting, Driving, Games, jump, jumping, Supercars

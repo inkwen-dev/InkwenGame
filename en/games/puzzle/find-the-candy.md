@@ -21,4 +21,4 @@ It's time for a snack, but where's that sneaky candy?! Move Objects around you t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Brain, Bubble, Candy, Cartoon, Classic, Click, Educational, Hidden, Point And Click, Puzzle, Summer, Truck
+- Tags: 1 Player, 2D, Arcade, Brain, Bubble, Candy, Cartoon, Classic, Click, educational, Hidden, Point And Click, Puzzle, Summer, truck

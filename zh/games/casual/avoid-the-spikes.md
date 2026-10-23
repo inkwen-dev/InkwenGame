@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 家庭, 免费的HTML5游戏供您的网站使用, 超休闲, mapi games, 跑酷, 超级英雄
+- 标签: 家庭, 免费HTML5游戏供您的网站使用, 超休闲, mapi games, 跑, 超级英雄

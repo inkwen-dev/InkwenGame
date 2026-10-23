@@ -19,6 +19,6 @@ Ninja Runner The Game, is a super fun game with retro graphics that will make yo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Arcade, Ninja, run, running
+- Tags: 1 Player, Action, Adventure, Arcade, ninja, run, running

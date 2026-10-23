@@ -21,4 +21,4 @@ Have fun with this entertaining platform and puzzle game Huggy Love and Rescue i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Jumping, kiz10, Platform, Rescue
+- Tags: jumping, kiz10, Platform, Rescue

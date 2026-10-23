@@ -21,4 +21,4 @@ Skibidi马桶袭击游戏是一款以Skibidi马桶角色为主题的恐怖游戏
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 动作, 搞笑, 射击, 斯基比迪马桶
+- 标签: 3D, 动作, 搞笑, 射击类, skibidi-toilet

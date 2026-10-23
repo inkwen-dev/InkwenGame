@@ -19,6 +19,6 @@ This game is an endless flappy game. player can escape from the bomb and collect
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Fish, Fishing, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids

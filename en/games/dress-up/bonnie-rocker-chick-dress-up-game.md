@@ -19,6 +19,6 @@ Bonnie Rocker Chick Dress Up is an exciting online game that lets players unleas
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Celebrity, Christmas, Design, Disney, Dress Up, Fashion, Frozen, Girl, Girls, Hair, HTML

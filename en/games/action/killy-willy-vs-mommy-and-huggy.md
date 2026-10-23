@@ -21,4 +21,4 @@ Welcome to Killy Willy vs Mommy and Huggy! Choose one of the characters Huggy Wu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Highscore, Hot, Hypercasual, Mario, run, running
+- Tags: Adventure, Highscore, Hot, Hypercasual, mario, run, running

@@ -19,6 +19,6 @@ Blade &amp; Bedlam is a thrilling top-down melee game focused on physics-based s
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Fantasy, Fighting, Knight, Physics, Sword
+- Tags: Action, Fantasy, fighting, knight, Physics, sword

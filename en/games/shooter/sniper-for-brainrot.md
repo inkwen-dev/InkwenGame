@@ -21,4 +21,4 @@ Use your sniper rifle to hit the balloon above a Brainrot, instantly transform i
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Brainrot, roblox, Shooting, Sniper
+- Tags: 2 Player, 2 Player Games, Brainrot, roblox, Shooting, sniper

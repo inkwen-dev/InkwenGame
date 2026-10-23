@@ -21,4 +21,4 @@ Airport Manager Simulator game is easy and interesting simple games for everyone
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boy, Girl, HTML5, Management, Simulator, WebGL
+- Tags: 2D, Boy, Girl, HTML5, management, Simulator, WebGL

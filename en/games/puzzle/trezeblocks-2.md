@@ -21,4 +21,4 @@ trezeBlocks 2 is a tetris-style fun matching game. You need need to make perfect
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bejeweled, Block, Puzzle, Tetris
+- Tags: Bejeweled, block, Puzzle, tetris

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: AI 游戏, 大脑, 免费HTML5游戏供您的网站使用, 数学
+- 标签: AI游戏, 大脑, 免费HTML5游戏供您的网站使用, 数学

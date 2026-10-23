@@ -21,4 +21,4 @@ Fire Truck Driving Simulator is a fire truck driving simulation game with 4 diff
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fire, Simulator, Truck
+- Tags: Fire, Simulator, truck

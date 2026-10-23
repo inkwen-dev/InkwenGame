@@ -19,6 +19,6 @@ In this exciting game, Santa Claus runs and jumps to recover the lost gifts from
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, HTML5, mapi games, Mobile, Pixel, Retro, Santa, Santa Claus
+- Tags: Arcade, HTML5, mapi games, Mobile, pixel, retro, Santa, Santa Claus

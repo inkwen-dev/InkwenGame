@@ -19,6 +19,6 @@ Squid Triple Jump Game, a single-touch jumping reaction game, has everything you
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Ball, Bounce, Boy, Boys, Casual, endless, Game, Games, HTML, HTML5, Hypercasual, jump, Jumping
+- Tags: Action, Adventure, Ball, Bounce, Boy, Boys, Casual, endless, Game, Games, HTML, HTML5, Hypercasual, jump, jumping

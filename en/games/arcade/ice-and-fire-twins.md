@@ -19,6 +19,6 @@ Use your special ice and fire skills to defeat opponents. The brand-new interfac
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Fire, HTML5, Ice, Mobile, Online, Skill

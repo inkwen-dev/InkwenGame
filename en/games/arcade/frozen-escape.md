@@ -19,6 +19,6 @@ Frozen Escape is a thrilling 2D platformer set in a dangerous arctic world. You 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Ai Games, Arcade, Enemies, Escape, Frozen, Ice, Levels, Penguin, Snow

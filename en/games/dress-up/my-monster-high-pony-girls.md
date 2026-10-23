@@ -21,4 +21,4 @@ Love Dress Up Game? Then This Pony Monsters Dress Up : Monster Girls Dress up Hi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Anime, Baby, Barbie, Candy, Celebrity, Dress Up, Ever After High, Monster
+- Tags: Animal, Anime, Baby, Barbie, Candy, Celebrity, Dress Up, Ever After High, monster

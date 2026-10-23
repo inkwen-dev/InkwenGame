@@ -21,4 +21,4 @@ Our intelligence learned about the enemys counter offensive. The general ordered
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Battle, Battlegrounds, Classic, Levels, Shoot, Shooting, Tank, Tanks, War
+- Tags: Arcade, battle, Battlegrounds, Classic, Levels, Shoot, Shooting, Tank, tanks, War

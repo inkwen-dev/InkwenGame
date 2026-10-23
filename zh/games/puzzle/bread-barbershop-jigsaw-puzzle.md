@@ -21,4 +21,4 @@ Zazgames 是一个你可以无限畅玩在线拼图游戏的地方。我们希�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 双人游戏, Android, 卡通, 点击器, 游戏, HTML, HTML5, 拼图, 益智
+- 标签: 单人, 双人游戏, 安卓, 卡通, 点击器, 网页游戏, HTML, HTML5, 拼图, 益智

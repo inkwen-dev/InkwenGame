@@ -19,6 +19,6 @@ Blue Ball is a puzzle controlled game. You need to control the blue ball over th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Avoid, Ball, Color, Kids, Obstacle, Puzzle

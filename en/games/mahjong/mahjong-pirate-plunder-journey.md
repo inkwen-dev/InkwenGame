@@ -21,4 +21,4 @@ Play this fun Mahjong in the caribbean, where pirates quest for the pearl treasu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Card, Casual, Hypercasual, Logic, Mahjong, Pirate, Puzzle
+- Tags: Arcade, card, Casual, Hypercasual, Logic, mahjong, Pirate, Puzzle

@@ -21,4 +21,4 @@ Crazy bikers get ready for the show on top of the skyscrapers this time! You mus
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, 3D Games, Bike, Race, Stunts
+- Tags: 2 Player, 2 Player Games, 3D, 3D Games, bike, Race, Stunts

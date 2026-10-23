@@ -19,6 +19,6 @@ Do you know how to make kimchi? Do you know how to make bibimbap? Let's play tog
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cooking, Food, Girl, Restaurant
+- Tags: Cooking, Food, Girl, restaurant

@@ -19,6 +19,6 @@ Juicy Crush Saga is a fun and refreshing match-3 puzzle game packed with delicio
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Ai Games, Block, blocky, Color, Fruits, Fun, Puzzle
+- Tags: Action, Ai Games, block, blocky, Color, Fruits, Fun, Puzzle

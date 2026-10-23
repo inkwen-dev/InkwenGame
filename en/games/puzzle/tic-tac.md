@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Action, Arcade, Baby, Boy, Boys, Brain, Classic, Family, Fun, Funny, Girl, Girls, Kid, Kids, Match 3, Matching, Math, Mind, Puzzle, Quiz, Super
+- Tags: .io Games, Action, Arcade, Baby, Boy, Boys, Brain, Classic, Family, Fun, Funny, Girl, Girls, Kid, Kids, Match 3, Matching, math, Mind, Puzzle, Quiz, Super

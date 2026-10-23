@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Android, Arcade, Battle, Battlegrounds, Classic, Defense, Fun, Funny, Kill, Killing, Mobile, Skill, Skills, Super, Superhero, Sword, Tower Defense, War
+- Tags: Action, Adventure, Android, Arcade, battle, Battlegrounds, Classic, Defense, Fun, Funny, Kill, Killing, Mobile, Skill, Skills, Super, Superhero, sword, Tower Defense, War

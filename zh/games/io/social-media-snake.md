@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, 幻想, 移动设备, 蛇
+- 标签: .io, 幻想, 移动设备, snake

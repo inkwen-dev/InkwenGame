@@ -19,6 +19,6 @@ Labubu Platform Challenge is an incredibly entertaining online game designed for
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Collecting, Jumping, Kids, Labubu, Platform
+- Tags: Collecting, jumping, Kids, Labubu, Platform

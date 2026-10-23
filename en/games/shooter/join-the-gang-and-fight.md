@@ -21,4 +21,4 @@ Join the Gang and Fight is a hilarious online multiplayer physics-based PVP game
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Action, attack, Best Games, Fighting, free games for your site, free html5 games for your website, Multiplayer, Shooting, Violence, War
+- Tags: 2026 games, Action, attack, Best Games, fighting, free games for your site, free html5 games for your website, Multiplayer, Shooting, Violence, War

@@ -21,4 +21,4 @@ Parking Mania is an exciting online game that challenges your skills in navigati
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Car, Parking, Puzzle, Truck
+- Tags: Arcade, Car, parking, Puzzle, truck

@@ -19,6 +19,6 @@ As the blue hedgehog Sonic, you must run, jump, dash, and spin your way through 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Avoid, jump, Obstacle, run

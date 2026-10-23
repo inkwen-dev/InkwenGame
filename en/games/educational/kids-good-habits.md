@@ -21,4 +21,4 @@ Kids Good Habits is a lovely educational game. This game has beautiful graphics 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational
+- Tags: educational

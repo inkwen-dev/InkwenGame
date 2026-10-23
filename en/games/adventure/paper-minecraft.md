@@ -21,4 +21,4 @@ Paper Minecraft is a 2D sandbox adventure inspired by the famous block world of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 2D, Block, Classic, Craft, html5 games, Minecraft, Pixel, Sandbox, World
+- Tags: 2026 games, 2D, block, Classic, Craft, html5 games, Minecraft, pixel, Sandbox, World

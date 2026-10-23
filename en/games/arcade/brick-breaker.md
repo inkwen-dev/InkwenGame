@@ -19,6 +19,6 @@ Introducing the best Brick Breaker game that everyone can enjoy. Enjoy various m
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Arkanoid, Block, Bricks, Casual, HTML, HTML5, Hypercasual, Mobile, Puzzle
+- Tags: Arcade, Arkanoid, block, Bricks, Casual, HTML, HTML5, Hypercasual, Mobile, Puzzle

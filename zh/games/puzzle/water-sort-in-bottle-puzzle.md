@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 瓶子, 小孩, Mentolatux, 解谜, 分类, 整理, Unity3D, 水, WebGL
+- 标签: 瓶子, 儿童, Mentolatux, 益智, 排序, 整理, Unity3D, 水, WebGL

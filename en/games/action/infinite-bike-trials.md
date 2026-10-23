@@ -21,4 +21,4 @@ Infinite Bike Trials come with awesome environment and 200 hard levels, your mis
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Moto, Motorcycle, Unity3D, WebGL
+- Tags: bike, Moto, Motorcycle, Unity3D, WebGL

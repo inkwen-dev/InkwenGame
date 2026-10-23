@@ -21,4 +21,4 @@ Basket Shots is a Basketball game, where you have to use your skills to score as
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Basketball, Casual, Hypercasual, Sport, Sports
+- Tags: Arcade, basketball, Casual, Hypercasual, Sport, sports

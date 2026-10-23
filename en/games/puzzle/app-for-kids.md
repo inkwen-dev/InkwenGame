@@ -21,4 +21,4 @@ These games are designed for your kids to use at home or early grade school clas
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, endless, Family, Hypercasual, Kid, Kids, Letters, School, Word
+- Tags: Casual, endless, Family, Hypercasual, Kid, Kids, Letters, School, word

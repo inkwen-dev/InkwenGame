@@ -19,6 +19,6 @@ Running in circles, collect as many coins as you can, but be careful as you are 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Collecting, Driving, Fun, Funny, Mobile, Skill, Supercars, Traffic

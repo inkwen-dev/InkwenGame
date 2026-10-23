@@ -19,6 +19,6 @@ Game has 80 levels Use your brain in this unique shooting game. You will need pr
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Gun, Puzzle, Shoot, Shooter, Shooting

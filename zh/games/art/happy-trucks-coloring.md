@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 涂色, 有趣, HTML5, 孩子们, Mobile, 解谜, 卡车
+- 标签: 着色, 有趣, HTML5, 儿童, 移动设备, 益智, 卡车

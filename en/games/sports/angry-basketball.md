@@ -21,4 +21,4 @@ Angry Basketball is an exciting sports game to play for all ages. Play this tech
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Basketball, Billiard, Bird, Boy, Casual, endless, Family, Game, Games, Girl, Girls, HTML, HTML5, Kid, Kids, Spiderman, Sport, Sports
+- Tags: basketball, Billiard, Bird, Boy, Casual, endless, Family, Game, Games, Girl, Girls, HTML, HTML5, Kid, Kids, Spiderman, Sport, sports

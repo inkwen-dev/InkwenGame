@@ -21,4 +21,4 @@ Solitaire 2048 is a free online card and merge game for boys played on PuzzleGam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boy, Brain, Card, Educational, Fun, HTML5, Kids, Matching, Math, Number, Online, Puzzle
+- Tags: Android, Boy, Brain, card, educational, Fun, HTML5, Kids, Matching, math, Number, Online, Puzzle

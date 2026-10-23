@@ -19,6 +19,6 @@ Lampada Street is a skill game where you are the light bulb! You must run and ju
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Race, Racing, run, running

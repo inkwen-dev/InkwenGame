@@ -21,4 +21,4 @@ Race against other players in the room and be the first to get to the finish lin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, Adventure, Jumping, Mouse, Platform
+- Tags: .io Games, 2 Player Games, Adventure, jumping, Mouse, Platform

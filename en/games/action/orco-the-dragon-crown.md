@@ -19,6 +19,6 @@ The Dragon Crown has had its 7 jewels stolen by the wizard and his army of undea
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Battle, Wizard
+- Tags: Action, battle, Wizard

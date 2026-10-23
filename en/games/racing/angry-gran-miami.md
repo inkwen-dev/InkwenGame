@@ -21,4 +21,4 @@ Try to get as far as possible. Jump around, run around and dodge all the incomin
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Adventure, HTML5, jump, Jumping, Race, Racing, run, running, subway, Subway Surfers
+- Tags: 3D Games, Action, Adventure, HTML5, jump, jumping, Race, Racing, run, running, subway, Subway Surfers

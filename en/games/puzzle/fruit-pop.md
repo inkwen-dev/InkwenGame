@@ -19,6 +19,6 @@ Welcome to Fruit Pop, an amazing bubble fruit pop game Swipe and match similar f
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, Match 3, Match3, Matching, Puzzle

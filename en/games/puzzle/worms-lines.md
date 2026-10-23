@@ -19,6 +19,6 @@ In Worms Lines, youll embark on a fun and challenging puzzle adventure across 80
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Casual, free html5 games for your website, Fun, iPhone, Logical, Maze, Mobile, New, Puzzle, Slither, Snake, touchscreen, Worms
+- Tags: Android, Casual, free html5 games for your website, Fun, iPhone, Logical, Maze, Mobile, New, Puzzle, Slither, snake, touchscreen, Worms

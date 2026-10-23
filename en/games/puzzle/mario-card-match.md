@@ -19,6 +19,6 @@ Mario is a fictional character in the Mario video game franchise, owned by Ninte
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Card, Match 3, Memory, Puzzle
+- Tags: Brain, card, Match 3, memory, Puzzle

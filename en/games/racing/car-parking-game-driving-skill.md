@@ -21,4 +21,4 @@ Car Parking Game Driving Skill is a perfect parking simulator for driving master
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Car, Cars, Crazy, Driving, HTML, HTML5, Mobile, Parking, Simulation, Simulator, Skill
+- Tags: 3D Games, Car, Cars, crazy, Driving, HTML, HTML5, Mobile, parking, Simulation, Simulator, Skill

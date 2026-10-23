@@ -91,4 +91,4 @@ Playgama 官方：游戏完全集成 Playgama SDK，支持 PC 和移动设备之
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 球, 男孩们, 简单的, 高尔夫, 物理, 运动
+- 标签: 球, 男孩们, 简单的, 高尔夫, 物理, 体育

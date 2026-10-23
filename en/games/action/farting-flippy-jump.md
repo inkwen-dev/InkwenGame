@@ -21,4 +21,4 @@ Farting Flippy jump is very interesting and unique game , there is an alien o th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2D, Adventure, Alien, Battle
+- Tags: 1 Player, 2 Player, 2D, Adventure, Alien, battle

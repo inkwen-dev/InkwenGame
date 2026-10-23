@@ -19,6 +19,6 @@ A classic avoid and collect game where you are a fly that has to eat as many app
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Avoid, Collecting, fly, Pixel, Shoot
+- Tags: 1 Player, 2D, Avoid, Collecting, fly, pixel, Shoot

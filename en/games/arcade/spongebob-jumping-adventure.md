@@ -19,6 +19,6 @@ SpongeBob Jumping Adventure is fun online game for kids and adults. The aim of t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Avoid, Cartoon, Collecting, Fun, HTML5, jump, Jumping, Kids, Skill, Spongebob
+- Tags: Android, Avoid, Cartoon, Collecting, Fun, HTML5, jump, jumping, Kids, Skill, Spongebob

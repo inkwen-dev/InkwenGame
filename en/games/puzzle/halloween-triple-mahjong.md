@@ -21,4 +21,4 @@ A triple mahjong game with Halloween theme. You can eliminate only three of same
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Halloween, HTML5, Mahjong, Match 3, Matching, Mobile, Puzzle
+- Tags: Arcade, Halloween, HTML5, mahjong, Match 3, Matching, Mobile, Puzzle

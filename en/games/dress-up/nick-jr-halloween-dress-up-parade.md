@@ -19,6 +19,6 @@ Nick Jr. Halloween Dress Up Parade is a scene creator game that features a lot o
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Anime, Arcade, Cartoon, Cartoon Network, Celebrity, Disney, Dress Up, Fashion, Girls, Hair, Halloween, HTML5, Kids, Magic, Mobile

@@ -19,6 +19,6 @@ Speedy Math Race is a skill game for desktop and mobile. Choose addition, subtra
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Cars, Click, Educational, HTML, Math, Mobile, Number, Race, School, Side Scrolling, Skill
+- Tags: 2D, Cars, Click, educational, HTML, math, Mobile, Number, Race, School, Side Scrolling, Skill

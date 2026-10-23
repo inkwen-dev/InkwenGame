@@ -21,4 +21,4 @@ Ready to have fun? Brand new high heels girl runner game with easy gameplay wher
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 3D, Action, Adventure, Baby Hazel, Classic, Fun, Funny, jump, Jumping, Race, run, Unity3D
+- Tags: 2 Player Games, 3D, Action, Adventure, Baby Hazel, Classic, Fun, Funny, jump, jumping, Race, run, Unity3D

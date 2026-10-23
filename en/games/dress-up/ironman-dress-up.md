@@ -19,6 +19,6 @@ Do you want to create your own Iron Man hero? Let's dress up in different outfit
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Cartoon, Decorate, Dress Up, Fashion, Fun, Game, Girls, HTML5, Superhero

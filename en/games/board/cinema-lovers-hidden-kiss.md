@@ -19,6 +19,6 @@ Being alone with their boyfriend or girlfriend at the cinema... the dream of eve
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Brain, Girls, Love

@@ -19,6 +19,6 @@ Free All your comrades from the Matrix. Run, jump, crouch, collect coins, unlock
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 3D Games, Best Games, Casual, Classic, dash, endless, Escape, Games, HTML5, Jumping, Mobile, running
+- Tags: 1 Player, 2026 games, 3D Games, Best Games, Casual, Classic, dash, endless, Escape, Games, HTML5, jumping, Mobile, running

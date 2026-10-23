@@ -21,4 +21,4 @@ Fight to survive in a city overrun by zombies. Move fast, collect coins, upgrade
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Battle
+- Tags: .io, battle

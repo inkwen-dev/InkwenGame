@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 装扮, 女孩, HTML5, iPad, iPhone, 造型改造, 移动
+- 标签: 装扮, 女孩, HTML5, iPad, iPhone, 改造, 移动设备

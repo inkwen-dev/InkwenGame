@@ -19,6 +19,6 @@ The game has a simple gameplay of touching the gems so that there are more than 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Candy, Fun, Games, HTML5, Hypercasual, Kids, Puzzle, Tetris
+- Tags: Candy, Fun, Games, HTML5, Hypercasual, Kids, Puzzle, tetris

@@ -19,6 +19,6 @@ Prepare for war with different barrels in Barrel Wars. Take a small hit so that 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Action, Arcade, Battle, Clash, Flight, Mobile, Multiplayer, War
+- Tags: .io, Action, Arcade, battle, Clash, flight, Mobile, Multiplayer, War

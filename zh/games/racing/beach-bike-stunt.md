@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, Android, 竞技场, 对战, 摩托车, 飞行, HTML5, 竞速, 特技
+- 标签: 3D游戏, 安卓, 竞技场, 战斗, 自行车, 飞行, HTML5, 比赛, 特技

@@ -19,6 +19,6 @@ Now things have become more difficult to FlapCat. In this special Christmas vers
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Battle, Bird, Boys, Casual, Cat, Christmas, endless, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Puzzle
+- Tags: Action, Adventure, battle, Bird, Boys, Casual, Cat, Christmas, endless, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Puzzle

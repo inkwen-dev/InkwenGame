@@ -19,6 +19,6 @@ Slope Extra is a great ball rolling game and you have to avoid obstacles on slop
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Adventure, Avoid, Ball, Best, Bounce, Boys, Casual, Collecting, Crazy, Girls, Hypercasual, Kids, Skills
+- Tags: 3D Games, Adventure, Avoid, Ball, Best, Bounce, Boys, Casual, Collecting, crazy, Girls, Hypercasual, Kids, Skills

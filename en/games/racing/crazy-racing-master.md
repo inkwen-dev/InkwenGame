@@ -19,6 +19,6 @@ Crazy Racing Master is a car racing game. You will race with other cars. Keep su
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Boy, Boys, Car, drift, drifting, Driving, Fun, Kid, Kids, Race, Racing

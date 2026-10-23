@@ -35,4 +35,4 @@ Fantasy Fish World Mahjong is a delightful Mahjong Solitaire puzzle game immerse
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Mahjong, Matching
+- Tags: Brain, mahjong, Matching

@@ -21,4 +21,4 @@ Have you ever participated in the adventure of Stickman Fire and Water before? Y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Fire, Mobile, Stickman
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Fire, Mobile, stickman

@@ -21,4 +21,4 @@ Zoo Run is awesome endless isometric runner game, with 8 animal characters to ch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Block, Bounce, Boy
+- Tags: Adventure, block, Bounce, Boy

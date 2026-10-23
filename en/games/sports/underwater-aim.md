@@ -21,4 +21,4 @@ Underwater Aim dives deep into the classic 8-ball pool experience&mdash;now with
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 8 Ball Pool, Pool
+- Tags: 1 Player, 2 Player, 8 Ball Pool, pool

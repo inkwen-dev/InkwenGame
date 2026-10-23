@@ -21,4 +21,4 @@ Backrooms Survival Shooter features intense zombie shooting in the backrooms wor
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Block, Gun, Minecraft, Shoot, Shooter, War, Zombie
+- Tags: 3D, block, Gun, Minecraft, Shoot, Shooter, War, Zombie

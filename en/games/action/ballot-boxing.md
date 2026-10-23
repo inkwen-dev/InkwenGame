@@ -15,6 +15,6 @@ Enter the vibrant arena of Ballot Boxing, a pixel-art brawler where political fo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Action

@@ -19,6 +19,6 @@ Hey Mr. Pumpkin you need to escape from the Skibidi Toilet! Try to resit the mor
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Halloween, HTML, jump, Jumping, Mobile, Skibidi Toilet
+- Tags: Arcade, Boy, Halloween, HTML, jump, jumping, Mobile, skibidi-toilet

@@ -19,6 +19,6 @@ Use Mouse To Play and Follow introduction
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Disney, Girls, Match 3, Match3, Matching, Princess, Puzzle

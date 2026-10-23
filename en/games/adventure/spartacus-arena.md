@@ -19,6 +19,6 @@ Welcome to the Arena! Take part to the ancient gladiator battles in this 3D simu
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Adventure, Unity3D, weapons, WebGL

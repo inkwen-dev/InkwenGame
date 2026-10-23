@@ -21,4 +21,4 @@ This is a balance driving game. Keep your balance when you are driving the motor
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Balance, Bike, Boys, Driving, H5, HTML, HTML5, Kids, Moto, Motorcycle, Obstacle, Skills, Sports, Stunts, Timing
+- Tags: Balance, bike, Boys, Driving, H5, HTML, HTML5, Kids, Moto, Motorcycle, Obstacle, Skills, sports, Stunts, Timing

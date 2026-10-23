@@ -21,4 +21,4 @@ Take part in the race of your life, with this driving duet boat simulator. The p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Race, Racing, Strategy
+- Tags: Arcade, Race, Racing, strategy

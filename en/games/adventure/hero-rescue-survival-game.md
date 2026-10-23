@@ -19,6 +19,6 @@ You want to have your own pets and protect them? You want to travel around the w
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, onetouch, Pinball, Rescue, Spiderman

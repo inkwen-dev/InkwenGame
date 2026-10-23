@@ -21,4 +21,4 @@ Help the chicken to explore the. Jump, Jump and jump. Try to get more points
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Chicken, jump, Jumping, Platform
+- Tags: Adventure, Chicken, jump, jumping, Platform

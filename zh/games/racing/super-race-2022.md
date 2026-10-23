@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 街机, 漂移, Friv, Kiz 10, 竞速, 赛车, 模拟器, 超级跑车
+- 标签: 单人, 2D, 街机, 漂移, Friv, Kiz 10, 比赛, 竞速, 模拟器, 超跑

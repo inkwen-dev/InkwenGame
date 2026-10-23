@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 宝宝, 芭比, 女孩, 女孩
+- 标签: 2D, 婴儿, 芭比, 女孩, 女孩

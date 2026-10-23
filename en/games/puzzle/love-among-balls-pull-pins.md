@@ -19,6 +19,6 @@ Fascinating puzzle about balls that are in love. It is necessary to achieve the 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Balance, Ball, Ballon, Best, Bounce, Bubble, Coloring, Friv, Fun, H5, Love, Puzzle, Rescue

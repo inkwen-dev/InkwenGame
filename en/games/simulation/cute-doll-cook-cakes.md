@@ -19,6 +19,6 @@ Cute Doll Cooking Cakes is a cake making game. Girl has opened a new Cakes baker
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Cook, Cooking, Funny, Girl, Girls, Kids

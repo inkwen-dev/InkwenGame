@@ -21,4 +21,4 @@ Funny Bone Surgery is an entertaining bone surgery simulator game from Go Panda 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Doctor, Dress Up, HTML5, Kids, Surgery
+- Tags: Doctor, Dress Up, HTML5, Kids, surgery

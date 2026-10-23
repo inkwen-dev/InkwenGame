@@ -19,6 +19,6 @@ Desert Racer Motorbike is a fast paced racing game. You never dare drive so fast
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML, HTML5, Moto, Motorcycle, Race, Racing, run, running

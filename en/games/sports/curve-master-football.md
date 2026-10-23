@@ -21,4 +21,4 @@ Become the ultimate football legend in Curve Master Football! This isnt just abo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Ball, Boys, Draw, Drawing, Football, HTML5, Hypercasual, Mobile, Physics, Skills, Soccer, Sports, touch
+- Tags: 3D, Ball, Boys, Draw, drawing, Football, HTML5, Hypercasual, Mobile, Physics, Skills, Soccer, sports, touch

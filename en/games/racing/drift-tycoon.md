@@ -35,4 +35,4 @@ Collect funny cars and climb the leaderboard!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Car, drifting, idle, Management, Racing, tycoon
+- Tags: Arcade, Car, drifting, idle, management, Racing, tycoon

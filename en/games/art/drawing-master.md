@@ -21,4 +21,4 @@ Drawing Master is fun online game that you can play for free. Drawing Master is 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boys, Draw, Drawing, Fun, Girls, HTML5, Kids, Mobile, School, Skill
+- Tags: Android, Boys, Draw, drawing, Fun, Girls, HTML5, Kids, Mobile, School, Skill

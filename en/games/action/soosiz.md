@@ -19,6 +19,6 @@ In this game you control your character moving them around a world that revolves
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Family, Game, Games, HTML, HTML5, jump, Jumping, Physics, Platform, Puzzle
+- Tags: Arcade, Family, Game, Games, HTML, HTML5, jump, jumping, Physics, Platform, Puzzle

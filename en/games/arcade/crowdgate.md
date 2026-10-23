@@ -34,4 +34,4 @@ Features
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, Mobile, running, Strategy
+- Tags: Action, Arcade, Mobile, running, strategy

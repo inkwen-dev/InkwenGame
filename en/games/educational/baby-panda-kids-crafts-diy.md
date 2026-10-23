@@ -19,6 +19,6 @@ Baby Panda Kids Crafts DIY is a very popular game. Come and make crafts with Bab
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Craft, Crafting, Educational, Fun, HTML5, Kid, Kids, Mobile
+- Tags: Baby, Craft, Crafting, educational, Fun, HTML5, Kid, Kids, Mobile

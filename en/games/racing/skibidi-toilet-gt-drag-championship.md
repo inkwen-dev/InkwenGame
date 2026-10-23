@@ -21,4 +21,4 @@ Skibidi Toilet GT Drag Championship is an adrenaline-pumping drag racing game wh
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Skibidi, Skibidi Toilet, Skill, Skills, Sports, Sprunki, Traffic
+- Tags: Skibidi, skibidi-toilet, Skill, Skills, sports, Sprunki, Traffic

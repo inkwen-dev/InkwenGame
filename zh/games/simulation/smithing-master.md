@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 战斗, 搞笑, 怪物, 模拟
+- 标签: 战斗, 搞笑, monster, 模拟

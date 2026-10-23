@@ -19,6 +19,6 @@ PGA3 Zombie Mode: hold the line or join the horde. Survive endless voxel hordes 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Mentolatux, Multiplayer, Pixel, Shooting, unity, WebGL, Zombie
+- Tags: Mentolatux, Multiplayer, pixel, Shooting, unity, WebGL, Zombie

@@ -19,6 +19,6 @@ Welcome to the very addicting SpongeBob Falling game! we all know that our favor
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, Android, Arcade, Avoid, Ben 10, Board, Boy, Boys, Fantasy, Spongebob

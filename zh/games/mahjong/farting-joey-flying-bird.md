@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 小鸟, 飞行, 乐趣, 搞笑, 麻将
+- 标签: 冒险, 小鸟, 飞, 有趣, 搞笑, mahjong

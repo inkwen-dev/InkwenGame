@@ -19,6 +19,6 @@ Sweety Mania is a super addictive Match-3-Game. Collect all the ingredients list
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Hypercasual

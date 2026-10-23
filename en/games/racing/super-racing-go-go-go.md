@@ -21,4 +21,4 @@ An authentic next-gen driving experience. Do you like to race, drift or just rip
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Driving, Racing, Sports
+- Tags: .io, Driving, Racing, sports

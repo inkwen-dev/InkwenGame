@@ -19,6 +19,6 @@ Shoot with your weapon all Mini Zombies that you see on the screen! Grab your we
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Army, Battle, Defense, Fight, Fire, Game, Gun, HTML, HTML5, Kill, Killing, Monster, Shoot, Shooter, Shooting, weapons, Zombie
+- Tags: Adventure, Arcade, Army, battle, Defense, Fight, Fire, Game, Gun, HTML, HTML5, Kill, Killing, monster, Shoot, Shooter, Shooting, weapons, Zombie

@@ -21,4 +21,4 @@ Kids Coloring book is a super fun game for children all ages. Every children lik
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Coloring, Draw, Drawing, Kid, Kids
+- Tags: 1 Player, Coloring, Draw, drawing, Kid, Kids

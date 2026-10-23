@@ -19,6 +19,6 @@ Square Bird is our new adventure game about a square bird. Players need to break
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Avoid, Bird, Block, Collection, H5, Highscore, HTML, HTML5, Obstacle, Platform, Shoot, Skill
+- Tags: Adventure, Arcade, Avoid, Bird, block, Collection, H5, Highscore, HTML, HTML5, Obstacle, Platform, Shoot, Skill

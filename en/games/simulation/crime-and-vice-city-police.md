@@ -41,4 +41,4 @@ Arrange a crash test of cars and watch their destruction in slow motion. All the
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Boys, Car, Driving, gta, Multiplayer, Police, Simulation
+- Tags: 3D, Boys, Car, Driving, gta, Multiplayer, police, Simulation

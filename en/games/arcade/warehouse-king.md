@@ -19,6 +19,6 @@ Put your neurons to the test with Warehouse King. Totally surrounded by a shipâ€
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Escape, Game, Games, Puzzle

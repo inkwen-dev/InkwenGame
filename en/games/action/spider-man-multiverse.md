@@ -19,6 +19,6 @@ Spider-Man has spider-like abilities including superhuman strength and the abili
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, Action, Adventure, Battle, Boy, Boys, Cartoon, War
+- Tags: 1 Player, 2 Player, 2 Player Games, Action, Adventure, battle, Boy, Boys, Cartoon, War

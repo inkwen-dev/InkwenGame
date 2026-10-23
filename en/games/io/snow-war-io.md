@@ -21,4 +21,4 @@ Snow War .io features: - fun io gameplay - good graphics
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D Games, Battle, Snow, Unity3D, WebGL
+- Tags: .io, .io Games, 3D Games, battle, Snow, Unity3D, WebGL

@@ -21,4 +21,4 @@ Goalpost Shuffle is a game where each football has to be sent to the right goalp
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Football, Puzzle, Sports
+- Tags: Casual, Football, Puzzle, sports

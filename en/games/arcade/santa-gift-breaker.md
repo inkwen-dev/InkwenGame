@@ -21,4 +21,4 @@ Santa Gift Breaker is a free online game that challenges players to break Santa'
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Crazy, Fun, HTML, HTML5, Love, Online, Puzzle
+- Tags: Adventure, Arcade, crazy, Fun, HTML, HTML5, Love, Online, Puzzle

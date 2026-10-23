@@ -19,6 +19,6 @@ Candy Blast Mania is a brand new puzzle game which is designed for players who j
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Boy, Candy, Casual, Click, Color, Girl, HTML5, Hypercasual, Kid, Logic, Match 3, Match3, Matching, Puzzle, WebGL

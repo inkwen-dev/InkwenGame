@@ -19,6 +19,6 @@ Welcome to the fun game Talking Tom Memory. The task is to remember and then ope
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Best, Cartoon, Casual, Cat, Fun, Funny, Hypercasual, Kids, Matching, Memory, Mobile, Skill
+- Tags: 1 Player, Animal, Best, Cartoon, Casual, Cat, Fun, Funny, Hypercasual, Kids, Matching, memory, Mobile, Skill

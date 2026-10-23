@@ -19,6 +19,6 @@ Welcome to the Magical Fairy Fashion Look. Skyler and Sunny love things about fa
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Elsa, Fairy, Fashion, Girl, HTML5, Makeover, Princess

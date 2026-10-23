@@ -19,6 +19,6 @@ Formula Rush is a online racing game. Are you ready to face the best racing cars
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Best, Boys, Car, Cars, Driving, HTML5, Mobile, Race, Supercars

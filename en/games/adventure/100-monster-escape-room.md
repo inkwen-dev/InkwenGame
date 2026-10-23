@@ -19,6 +19,6 @@ use WASD to control the character mouse to look around and button inside game to
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Horror, Monster
+- Tags: Action, Horror, monster

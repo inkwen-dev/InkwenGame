@@ -19,6 +19,6 @@ Crash Plane is an addictive arcade flying game inspired by classic one-tap games
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 2D, Aircraft, airplane

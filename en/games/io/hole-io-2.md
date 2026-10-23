@@ -21,4 +21,4 @@ Hole.io is a super addictive free arcade game. If you were to ask what game is t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Battle
+- Tags: .io, battle

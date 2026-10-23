@@ -28,4 +28,4 @@ Clicker Knights vs Dragons is a pixel-art idle clicker RPG where players tap for
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Clicker, Dragon, Monster, Mouse, pve
+- Tags: Action, Clicker, Dragon, monster, Mouse, pve

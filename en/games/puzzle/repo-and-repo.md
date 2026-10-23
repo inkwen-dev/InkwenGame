@@ -19,6 +19,6 @@ repo and repo, is a puzzle platform game where you need to switch characters in 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, Brain, Funny, Pixel
+- Tags: 2 Player Games, Brain, Funny, pixel

@@ -21,4 +21,4 @@ Among Us Coloring Fun is a free online coloring activity for kids. No download n
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Boys, Cartoon, Coloring, Drawing, Fun, Girls, Kids, School
+- Tags: Baby, Boys, Cartoon, Coloring, drawing, Fun, Girls, Kids, School

@@ -21,4 +21,4 @@ Corona virus is changing people's lives all over the world. Let's have a break a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Barbie, Batman, Battle, Cook, Cooking, Doctor, Dora, Dress Up, Girls, Hair, Mario
+- Tags: Barbie, Batman, battle, Cook, Cooking, Doctor, Dora, Dress Up, Girls, Hair, mario

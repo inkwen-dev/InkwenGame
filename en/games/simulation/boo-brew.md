@@ -19,6 +19,6 @@ Run a magical Halloween potion caf&eacute; in manga style! Match ingredients, st
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Cooking, Halloween, Magic, mapi games, Mobile, Monster, touch, Witch
+- Tags: 2D, Cooking, Halloween, Magic, mapi games, Mobile, monster, touch, Witch

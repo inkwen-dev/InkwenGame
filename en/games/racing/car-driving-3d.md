@@ -21,4 +21,4 @@ Stunt Car Driving Pro is an awesome stunt car game development by CoolMathGamesK
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D, Car, Driving, Games, Parking, Racing, Stunts
+- Tags: .io Games, 1 Player, 3D, Car, Driving, Games, parking, Racing, Stunts

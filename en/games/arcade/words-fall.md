@@ -21,4 +21,4 @@ Words Fall is an exhilarating word puzzle game that challenges your vocabulary s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Typing, Unity3D, WebGL, Word
+- Tags: Arcade, Typing, Unity3D, WebGL, word

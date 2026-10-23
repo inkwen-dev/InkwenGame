@@ -19,6 +19,6 @@ As a collecting drawing puzzle arcade game, Castle Raid 3D requires you to group
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Casual, Collecting, Draw, Puzzle

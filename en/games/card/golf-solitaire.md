@@ -21,4 +21,4 @@ Simple to play but joyously addictive card game Try to clear the course before t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Golf, Solitaire
+- Tags: card, golf, solitaire

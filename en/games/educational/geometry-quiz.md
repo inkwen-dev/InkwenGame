@@ -21,4 +21,4 @@ Check your geometric skills by answering interesting questions. You will get 4 o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, HTML5, Math, Mobile, Puzzle, Quiz, School
+- Tags: educational, HTML5, math, Mobile, Puzzle, Quiz, School

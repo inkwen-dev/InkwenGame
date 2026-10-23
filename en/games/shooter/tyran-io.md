@@ -21,4 +21,4 @@ Tyran.io is a battle royale game with dinosaurs. Be the last tyran alive! TIPS P
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Animal, Battle, Dinosaur, Multiplayer, Shooter, weapons
+- Tags: .io Games, Animal, battle, Dinosaur, Multiplayer, Shooter, weapons

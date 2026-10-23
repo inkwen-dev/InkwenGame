@@ -19,6 +19,6 @@ Welcome to Smoky Wheels: 2D Nitro Race &mdash; a fast-paced 2D side-scrolling ra
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2D, Action, Adventure, attack, Best, Best Games, Car, Crazy, Driving, Ever After High, Games, Supercars
+- Tags: 1 Player, 2 Player, 2D, Action, Adventure, attack, Best, Best Games, Car, crazy, Driving, Ever After High, Games, Supercars

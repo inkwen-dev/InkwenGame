@@ -21,4 +21,4 @@ Play this slide puzzle games of the horse. It's include 3 images and 3 modes to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Horse, Puzzle
+- Tags: Animal, horse, Puzzle

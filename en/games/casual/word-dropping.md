@@ -21,4 +21,4 @@ Word Dropping is a game where you need to type letters and push enter to drop th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Casual, Girls, Kids, Letters, Mentolatux, Skill, Typing, WebGL, Word
+- Tags: Boys, Casual, Girls, Kids, Letters, Mentolatux, Skill, Typing, WebGL, word

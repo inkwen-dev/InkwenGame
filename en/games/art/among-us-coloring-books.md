@@ -21,4 +21,4 @@ Get ready for a colorful twist on the mystery and excitement of the Imposter Col
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Draw, Drawing, Impostor, Skill
+- Tags: Color, Coloring, Draw, drawing, Impostor, Skill

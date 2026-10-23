@@ -19,6 +19,6 @@ Crazy Driver Men
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 2D, Action, Adventure, Aircraft, Android, Animal, Anime, Army, Baby, Barbie, Battle, Ben 10, Best, Bike, Bounce, Boy, Boys, Brain, Bubble, Cake, Candy, Car, Card, Cars, Cartoon, Casual, Cat, Classic, Color
+- Tags: .io, 2D, Action, Adventure, Aircraft, Android, Animal, Anime, Army, Baby, Barbie, battle, Ben 10, Best, bike, Bounce, Boy, Boys, Brain, Bubble, Cake, Candy, Car, card, Cars, Cartoon, Casual, Cat, Classic, Color

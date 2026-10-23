@@ -21,4 +21,4 @@ Introducing the most fun, intuitive, & exciting game of 3D Ping Pong you'll ever
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Baseball, Basketball
+- Tags: 1 Player, Action, baseball, basketball

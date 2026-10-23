@@ -21,4 +21,4 @@ Reversi Free 是 Android 上最好的免费 Reversi 游戏！在这经典游戏�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人, 双人游戏, 多人游戏
+- 标签: 双人, 双人游戏, 多人

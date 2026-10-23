@@ -21,4 +21,4 @@ the game consists of removing all the blocks from the level, each block moves to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Block, Puzzle
+- Tags: 3D, 3D Games, block, Puzzle

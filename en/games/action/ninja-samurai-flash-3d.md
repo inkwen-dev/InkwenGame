@@ -21,4 +21,4 @@ Bienvenue dans Cut 'em All: Blade Master, un jeu d'arcade très ludique tout en 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Fight, Fun, Ninja, Samurai
+- Tags: Action, Fight, Fun, ninja, Samurai

@@ -19,6 +19,6 @@ Summer Mazes is a delightful game where you solve sunny puzzles to escape the ma
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, html5 games, Maze, Mobile, Puzzle, Summer

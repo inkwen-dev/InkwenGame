@@ -15,6 +15,6 @@ Navigate a captivating sci-fi world in Waano Bot 2, a thrilling 2D platformer. M
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Arcade

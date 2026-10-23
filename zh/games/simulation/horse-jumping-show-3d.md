@@ -21,4 +21,4 @@ WASD - 控制 空格键 - 跳跃 1-3 - 更换速度 F - 上马
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 女生, 马, HTML5, 模拟器, WebGL
+- 标签: 3D, 女孩, horse, HTML5, 模拟器, WebGL

@@ -21,4 +21,4 @@ Children love to engage in all sorts of pretend play and imitating parents is on
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Boy, Boys, Casual, Educational, Girl, Girls, H5, HTML5, Interactive, Kid, Kids, Panda
+- Tags: Baby, Boy, Boys, Casual, educational, Girl, Girls, H5, HTML5, Interactive, Kid, Kids, Panda

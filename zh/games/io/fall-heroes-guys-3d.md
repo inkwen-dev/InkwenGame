@@ -21,4 +21,4 @@ Fall Heroes Guys 3D！这款令人兴奋的游戏将刺激与挑战完美融合�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io游戏, 3D, 3D游戏, 冒险, 街机, 竞技场, 战场, 多人, 竞速, Unity3D
+- 标签: .io, .io 游戏, 3D, 3D游戏, 冒险, 街机, 竞技场, 战场, 多人, 比赛, Unity3D

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 2D, 动作, 街机, 跑, 跑步, Stickman
+- 标签: 单人, 2D, 动作, 街机, 跑, 奔跑, 木偶人

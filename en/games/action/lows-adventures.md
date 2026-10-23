@@ -19,6 +19,6 @@ This is a platform game with 32 levels. You’ll guide Low in yours adventures i
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Collecting, fly, Jumping, Monster, Platform
+- Tags: 1 Player, Adventure, Collecting, fly, jumping, monster, Platform

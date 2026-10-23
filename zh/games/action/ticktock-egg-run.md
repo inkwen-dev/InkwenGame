@@ -21,4 +21,4 @@ TickTock 蛋蛋跑是一款令人兴奋的冒险游戏，你将帮助一只勇�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 蛋, 障碍, 跑步
+- 标签: 蛋, 障碍, 奔跑

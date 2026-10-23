@@ -67,4 +67,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 男孩们, 怪物, PVE, 策略, 塔防
+- 标签: 男孩们, monster, PVE, 策略, 塔防

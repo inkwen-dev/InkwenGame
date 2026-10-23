@@ -21,4 +21,4 @@ Shoot with your weapons the Tiny Zombies that you see on the screen! Grab your w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Boys, Defense, endless, Monster, Shooter, Shooting, weapons, Zombie
+- Tags: Arcade, Boy, Boys, Defense, endless, monster, Shooter, Shooting, weapons, Zombie

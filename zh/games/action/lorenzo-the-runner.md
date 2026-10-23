@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 2D, 休闲, 马里奥, 像素, 平台
+- 标签: 单人, 2D, 休闲, mario, 像素, 平台

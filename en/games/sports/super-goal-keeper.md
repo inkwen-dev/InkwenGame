@@ -21,4 +21,4 @@ Step onto the football field and become the ultimate goalkeeper in Super Goal Ke
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: amazing, Casual, Football, Fun, Hypercasual, Sports
+- Tags: amazing, Casual, Football, Fun, Hypercasual, sports

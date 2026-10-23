@@ -21,4 +21,4 @@ Hello, are you ready for this adventure? Help Obby and Noob escape from the pris
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Minecraft, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Minecraft, pixel

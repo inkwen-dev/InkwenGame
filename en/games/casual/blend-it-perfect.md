@@ -19,6 +19,6 @@ Blend It Perfect is A 3D casual game, let you feel the fun of juicing here, rich
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Android, Casual, H5, HTML, HTML5, Hypercasual, Kids, Mobile, Online

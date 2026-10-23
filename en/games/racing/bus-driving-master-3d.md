@@ -21,4 +21,4 @@ Bus Driving Simulator is an exciting 3D driving game where you become a professi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Action, Adventure, bus, Parking
+- Tags: 2026 games, Action, Adventure, bus, parking

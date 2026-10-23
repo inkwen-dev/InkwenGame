@@ -21,4 +21,4 @@ This is the world most famous Japanese traditional Rikishi fighting game 2021, S
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Casual, Fight, Fighting, Hypercasual, sumo
+- Tags: .io, .io Games, Casual, Fight, fighting, Hypercasual, sumo

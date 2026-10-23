@@ -21,4 +21,4 @@ You are a wizard. You will beat your enemies by linking elements in your brain. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, Battle
+- Tags: 1 Player, 2025 games, battle

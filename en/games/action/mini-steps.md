@@ -21,4 +21,4 @@ Mini Steps is a retro-style platform-puzzle game where you command a small blob 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Pixel, Platform, Puzzle, Retro
+- Tags: Arcade, pixel, Platform, Puzzle, retro

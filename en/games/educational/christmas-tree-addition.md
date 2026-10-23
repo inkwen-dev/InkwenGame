@@ -21,4 +21,4 @@ Decorate the Christmas tree by creating ornaments with numbers that match the nu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Educational
+- Tags: Christmas, educational

@@ -19,6 +19,6 @@ Drive Formula the best you can. 4 different formula bolids in this skill game. U
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Cool, Crazy, drifting, Driving, Game, Games, HTML5, Kiz 10, kiz10, Race, Racing, Retro, Road, Rocket, Skill, Skills, Slicing, Sport, Sports, Super, Supercars, Traffic, Truck
+- Tags: .io, cool, crazy, drifting, Driving, Game, Games, HTML5, Kiz 10, kiz10, Race, Racing, retro, Road, Rocket, Skill, Skills, Slicing, Sport, sports, Super, Supercars, Traffic, truck

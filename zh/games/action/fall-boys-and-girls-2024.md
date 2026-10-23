@@ -21,4 +21,4 @@ wasd - 移动按钮 空格键 - 跳跃
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Fall Boys, Fall Guys, 跳跃, Mentolatux, 多人, 跑, 跑步, unity游戏, WebGL
+- 标签: 跌倒男孩, Fall Guys, 跳跃, Mentolatux, 多人, 跑, 奔跑, unity游戏, WebGL

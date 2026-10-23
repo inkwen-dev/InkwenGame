@@ -21,4 +21,4 @@ Ski Rush 3D is an interesting and very entertaining lite game.Drag right and lef
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, running, Skating, Sports
+- Tags: 3D, Arcade, running, Skating, sports

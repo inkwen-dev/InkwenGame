@@ -15,6 +15,6 @@ Craft pizzas with flair in a vibrant kitchen! Become a top virtual chef as you s
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Cooking

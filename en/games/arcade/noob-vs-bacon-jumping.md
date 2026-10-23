@@ -19,6 +19,6 @@ Hello! An exciting adventure awaits you where you need to escape sharp spikes ri
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Interactive, Mobile, Pixel
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Interactive, Mobile, pixel

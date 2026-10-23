@@ -21,4 +21,4 @@ Player 1 use A Player 2 use L
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Arcade, Family, Flight, Retro
+- Tags: 2 Player, 2 Player Games, 2D, Arcade, Family, flight, retro

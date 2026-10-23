@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 逃脱, kiz10, 房间, 射击游戏, 生存
+- 标签: 逃脱, kiz10, 房间, 射击, 生存

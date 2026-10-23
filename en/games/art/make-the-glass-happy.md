@@ -23,4 +23,4 @@ Draw lines to guide the water and fill the glass! Use logic and creativity to so
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Drawing, Mobile, Physics, Puzzle
+- Tags: drawing, Mobile, Physics, Puzzle

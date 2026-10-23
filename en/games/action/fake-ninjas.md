@@ -25,4 +25,4 @@ There are fake ninjas in town who have caused dishonour to your master. You have
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Ninja, Skill
+- Tags: ninja, Skill

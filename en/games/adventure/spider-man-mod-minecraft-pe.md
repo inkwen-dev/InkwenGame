@@ -19,6 +19,6 @@ SpiderMan No Way Home MCPE is a free utility launcher for MC PE where you will f
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Batman, Mine, Minecraft, Spiderman, Super, Superhero

@@ -21,4 +21,4 @@ Car Sort is a colorful parking puzzle game. Tap a garage to send its front cars 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Car, Logic, Parking
+- Tags: 1 Player, Car, Logic, parking

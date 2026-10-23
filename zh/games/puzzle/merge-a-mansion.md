@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, AI 游戏, 街机, 建设, HTML5, 鼠标
+- 标签: 单人, 2D, AI游戏, 街机, 建造, HTML5, 鼠标

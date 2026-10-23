@@ -19,6 +19,6 @@ In this game you can choose one of nine pictures with children and vehicles on t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, HTML5, Jigsaw, Kids, Puzzle

@@ -21,4 +21,4 @@ Zombie Invasion is an html5 arcade game, survive and kill the zombies to get sco
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Fight, Fighting, Fun, Funny, Game, Games, Highscore, HTML, HTML5, Hypercasual, Kid, Kids, Kill, Killing, Zombie
+- Tags: 2D, Fight, fighting, Fun, Funny, Game, Games, Highscore, HTML, HTML5, Hypercasual, Kid, Kids, Kill, Killing, Zombie

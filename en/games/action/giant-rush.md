@@ -21,4 +21,4 @@ Make yourself stronger and defeat the boss! You need to absorb match people of t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Avoid, Boy, Boys, Collecting, Fight, Fighting, Kid, Kids, Obstacle, Puzzle, run, Stickman
+- Tags: Action, Avoid, Boy, Boys, Collecting, Fight, fighting, Kid, Kids, Obstacle, Puzzle, run, stickman

@@ -21,4 +21,4 @@ Hello Snake games lovers this is the classic version of snake game. Control your
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Slither, Snake
+- Tags: Slither, snake

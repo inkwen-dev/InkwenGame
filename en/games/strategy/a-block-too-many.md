@@ -23,4 +23,4 @@ Build a tower, reach the stars! In this challenging and addictive block-stacking
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: blocks, Mobile, Platform, Strategy
+- Tags: blocks, Mobile, Platform, strategy

@@ -21,4 +21,4 @@ A fun and addicting game to train your brain. If you love the Tetris game, and y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Block, Brain, Casual, Mobile, Puzzle, Quiz, Relaxation, Tetris
+- Tags: Best, block, Brain, Casual, Mobile, Puzzle, Quiz, Relaxation, tetris

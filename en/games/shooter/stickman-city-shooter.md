@@ -19,6 +19,6 @@ Time for some stickman city shooting and killing! Kill kill kill!! The enemy sti
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, city, gta, Shoot, Shoot 'Em Up, Shooter, Shooting, Stickman, Violence, War, weapons
+- Tags: 3D, city, gta, Shoot, Shoot 'Em Up, Shooter, Shooting, stickman, Violence, War, weapons

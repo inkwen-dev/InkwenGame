@@ -21,4 +21,4 @@ Undead Mahjong is a thrilling Halloween-themed puzzle game where players match s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Halloween, html5 games, Mahjong, Matching, Mobile, Undead
+- Tags: Halloween, html5 games, mahjong, Matching, Mobile, Undead

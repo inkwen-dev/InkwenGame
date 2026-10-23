@@ -21,4 +21,4 @@ Bean Party Obby is a colorful 3D party game where you race, jump and survive aga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: hexagon, Jumping, Kids, Obstacle, Platform, running, survival
+- Tags: hexagon, jumping, Kids, Obstacle, Platform, running, survival

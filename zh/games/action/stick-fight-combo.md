@@ -21,4 +21,4 @@ Stick Fight Combo：让你重温经典的街机格斗游戏！这是一款充满
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人玩家, 2D, 动作, 冒险, 战斗, 男孩们, 冲突, 收集, 障碍, Stickman
+- 标签: 单人, 2D, 动作, 冒险, 战斗, 男孩们, 冲突, 收集, 障碍, 木偶人

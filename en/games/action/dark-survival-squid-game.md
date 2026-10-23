@@ -21,4 +21,4 @@ Based on the popular Netflix show, play ‘’ ’’ and see if you can survive
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Fighting, Unity3D
+- Tags: Action, Adventure, Arcade, fighting, Unity3D

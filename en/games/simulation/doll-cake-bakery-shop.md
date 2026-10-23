@@ -19,6 +19,6 @@ Doll Cake Bakery Shop is an online game that you can play on Babygames for free.
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Games, Cake, Cooking, Decorate, Design, Educational, Girl, Girls, Kids, Simulation
+- Tags: Baby Games, Cake, Cooking, Decorate, Design, educational, Girl, Girls, Kids, Simulation

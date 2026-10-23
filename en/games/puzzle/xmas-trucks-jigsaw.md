@@ -19,6 +19,6 @@ This is a Christmas truck game. We offer you five different pictures with Christ
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Jigsaw, Puzzle, Truck
+- Tags: Christmas, Jigsaw, Puzzle, truck

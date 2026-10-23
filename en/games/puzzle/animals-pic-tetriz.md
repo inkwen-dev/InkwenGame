@@ -21,4 +21,4 @@ This is a simple yet interesting picture tetriz game. In this game you need to d
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, HTML5, Jigsaw, Mobile, Puzzle, Tetris
+- Tags: Arcade, block, HTML5, Jigsaw, Mobile, Puzzle, tetris

@@ -21,4 +21,4 @@ Stickman Mass Multiplier invites you to lead vast armies of stick figures into e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Arcade, HTML5, iPad, iPhone, Mobile, Stickman, Unity3D, WebGL
+- Tags: Android, Arcade, HTML5, iPad, iPhone, Mobile, stickman, Unity3D, WebGL

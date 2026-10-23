@@ -19,6 +19,6 @@ A cute Pop Manga style Anime Girls Coloring Book for both adults and kids! This 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, Color, Coloring, Draw, Drawing, Games, Girls, HTML5, Kids
+- Tags: Baby, Baby Hazel, Color, Coloring, Draw, drawing, Games, Girls, HTML5, Kids

@@ -21,4 +21,4 @@ Welcome to Baby Panda: My Kindergarten, an enchanting game that offers a delight
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cars, Cartoon, Cat, Cute, Educational, Food, Fun, Girls, HTML5, Kids, Mobile, Panda
+- Tags: Animal, Baby, Cars, Cartoon, Cat, Cute, educational, Food, Fun, Girls, HTML5, Kids, Mobile, Panda

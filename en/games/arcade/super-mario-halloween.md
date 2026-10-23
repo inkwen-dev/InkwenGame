@@ -21,4 +21,4 @@ Play the best angry super mario world in the halloween mission game the similar 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Halloween, Mario, Super, World
+- Tags: Arcade, Halloween, mario, Super, World

@@ -21,4 +21,4 @@ Jump around and shoot your way through enemies as you collect the crates in orde
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fire, jump, Jumping, Platform, Shoot 'Em Up, Shooter, Shooting
+- Tags: Fire, jump, jumping, Platform, Shoot 'Em Up, Shooter, Shooting

@@ -19,6 +19,6 @@ Endless Siege is an exciting endless tower defense game with new maps daily and 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Castle, Casual, Classic, Defense, Fun, Hypercasual, Shooting, Strategy, Tower Defense
+- Tags: Adventure, Arcade, Castle, Casual, Classic, Defense, Fun, Hypercasual, Shooting, strategy, Tower Defense

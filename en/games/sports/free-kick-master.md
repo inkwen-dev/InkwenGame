@@ -21,4 +21,4 @@ A free kick master game where you can feel like a professional football player w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Ball, Boy, Boys, Football, Funny, Mobile, Soccer, Sport, Sports, Unity3D, WebGL
+- Tags: 3D, Android, Ball, Boy, Boys, Football, Funny, Mobile, Soccer, Sport, sports, Unity3D, WebGL

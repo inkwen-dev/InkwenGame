@@ -21,4 +21,4 @@ Different monsters in one have to survive in the retro planet world. monsters su
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Arcade, Block, Boys
+- Tags: 1 Player, 2D, Action, Adventure, Arcade, block, Boys

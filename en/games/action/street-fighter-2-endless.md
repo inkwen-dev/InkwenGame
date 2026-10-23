@@ -21,4 +21,4 @@ Street Fighter 2 Classic Endless survival Edition. Most famous retro and arcade 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Arcade, Boxing, Fight, Fighting, Retro, Street Fighting, Stunts
+- Tags: 2 Player, 2 Player Games, Arcade, Boxing, Fight, fighting, retro, Street Fighting, Stunts

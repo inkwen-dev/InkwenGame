@@ -21,4 +21,4 @@ Welcome to the underwater connect puzzle game. be quick and tap on two identical
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Casual, Clicker, Fish, Hot, Mahjong, Matching, Memory, Puzzle, Timing
+- Tags: Arcade, Best, Casual, Clicker, Fish, Hot, mahjong, Matching, memory, Puzzle, Timing

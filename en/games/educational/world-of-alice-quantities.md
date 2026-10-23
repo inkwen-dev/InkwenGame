@@ -19,6 +19,6 @@ World of Alice - Quantities is an educational game developed for children where 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Cartoon, Cute, Educational, free games for your site, free games for your website, free html5 games for your website, HTML5, Kids, Math, Number, Quiz, School, World of Alice
+- Tags: Best Games, Cartoon, Cute, educational, free games for your site, free games for your website, free html5 games for your website, HTML5, Kids, math, Number, Quiz, School, World of Alice

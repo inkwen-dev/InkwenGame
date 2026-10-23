@@ -15,6 +15,6 @@ Embark on a global quest in Find The Flag World Cup 2022, blending brain-teasing
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: world-cup

@@ -21,4 +21,4 @@ Combine 2 of the same christmas mahjong tiles to remove them from the board. You
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Logic, Mahjong, Mobile
+- Tags: HTML5, Logic, mahjong, Mobile

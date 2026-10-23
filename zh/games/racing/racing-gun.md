@@ -21,4 +21,4 @@ Gun Sprint Online 是一款快节奏的多人射击游戏，玩家在激烈的�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人, 枪械, 多人, 赛车
+- 标签: 双人, 枪械, 多人, 竞速

@@ -21,4 +21,4 @@ Word Search with a school theme, designed with children in mind, helps them lear
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kids, Puzzle, Word
+- Tags: Kids, Puzzle, word

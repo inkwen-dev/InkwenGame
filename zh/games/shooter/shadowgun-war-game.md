@@ -21,4 +21,4 @@ Shadowgun War Shooting Game 是一款高强度的动作射击游戏，背景设�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2026年游戏, 动作, 冒险, 最佳游戏, 枪械, 射击, 战争
+- 标签: 2026 游戏, 动作, 冒险, 最佳游戏, 枪械, 射击, 战争

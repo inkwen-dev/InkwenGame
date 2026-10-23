@@ -21,4 +21,4 @@ Crazy Bird is a HTML5 arcade Game. Collect more fruit to earn score, avoid the e
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Bird, Casual, Click, fly, Kids, Pixel
+- Tags: 1 Player, 2D, Arcade, Bird, Casual, Click, fly, Kids, pixel

@@ -19,6 +19,6 @@ Subway Pups Patrol Superheros Run is a New free 3D Endless Run game 2021. Our pu
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cat, run, running, subway

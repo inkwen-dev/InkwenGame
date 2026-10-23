@@ -21,4 +21,4 @@ Clean Ocean With the game, Clean Ocean helps to clean the ocean in a fun way on 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Educational, HTML5, Kids, School, World
+- Tags: Animal, educational, HTML5, Kids, School, World

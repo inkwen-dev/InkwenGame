@@ -21,4 +21,4 @@ Do you want to have an exciting island survival adventure in Survival RPG: Islan
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Island, RPG, survival
+- Tags: Island, rpg, survival

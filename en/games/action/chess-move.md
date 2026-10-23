@@ -19,6 +19,6 @@ Capture the Red King on each level in this fun chess-like puzzle game. The piece
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Platform, Puzzle

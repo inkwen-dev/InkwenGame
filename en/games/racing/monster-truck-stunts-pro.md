@@ -19,6 +19,6 @@ Take control of incredible trucks and showcase breathtaking stunts in Monster Tr
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: free games for your website, monstertruck, onlinegames io, Truck
+- Tags: free games for your website, monstertruck, onlinegames io, truck

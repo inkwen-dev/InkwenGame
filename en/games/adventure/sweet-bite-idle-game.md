@@ -19,6 +19,6 @@ Welcome to Sweet Bite Idle Game, a fun and relaxing tycoon adventure! Build your
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Business, Fruit, Shopping

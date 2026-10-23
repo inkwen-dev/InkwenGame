@@ -19,6 +19,6 @@ In the 3D multiplayer game Party.io, all players will fight on the same platform
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Arena, Battle, Fight, Fighting, H5, HTML, HTML5, Multiplayer, Online, PvP
+- Tags: .io, .io Games, 3D, 3D Games, Arena, battle, Fight, fighting, H5, HTML, HTML5, Multiplayer, Online, PvP

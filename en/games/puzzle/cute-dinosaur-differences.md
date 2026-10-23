@@ -19,6 +19,6 @@ Cute Dinosaur Differences is fun online game for kids. Do your kids love dinosau
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Animal, Collecting, Difference, Dinosaur, Fun, HTML5, Kids, Mobile, School, Skill

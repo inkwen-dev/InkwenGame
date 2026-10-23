@@ -21,4 +21,4 @@ This is the best and most realistic 3D bowling game on the Android phones. It is
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, 8 Ball Pool, Action, Adventure, Arcade, Board, Bubble Shooter, Casual, Fun, Funny, Hypercasual, Sport, Sports, Unity3D
+- Tags: 3D, 3D Games, 8 Ball Pool, Action, Adventure, Arcade, Board, Bubble Shooter, Casual, Fun, Funny, Hypercasual, Sport, sports, Unity3D

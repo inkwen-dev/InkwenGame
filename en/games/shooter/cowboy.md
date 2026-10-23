@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Casual, Classic, Fight, Fighting, Gun, Hypercasual, Kid, Kids, Kill, Killing, Mobile, Robot, Shoot, Shooter, Shooting, Skill, Skills, War
+- Tags: Android, Casual, Classic, Fight, fighting, Gun, Hypercasual, Kid, Kids, Kill, Killing, Mobile, Robot, Shoot, Shooter, Shooting, Skill, Skills, War

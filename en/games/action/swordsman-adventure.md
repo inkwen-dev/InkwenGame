@@ -21,4 +21,4 @@ Swordsman Adventure is a thrilling adventure game where you wield your sword fre
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: attack, Battle, Enemies, Sword
+- Tags: attack, battle, Enemies, sword

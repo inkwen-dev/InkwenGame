@@ -19,6 +19,6 @@ Stickman Sky 3D is a fast-paced action game where you control a stickman running
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Adventure, Fun, Jumping, unity games for your site, WebGL
+- Tags: 1 Player, 3D, Adventure, Fun, jumping, unity games for your site, WebGL

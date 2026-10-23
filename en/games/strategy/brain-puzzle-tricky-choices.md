@@ -21,4 +21,4 @@ This is a brain puzzle game. In this Brain Puzzle: Tricky Choices game, use your
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Strategy
+- Tags: strategy

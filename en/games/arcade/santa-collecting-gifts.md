@@ -19,6 +19,6 @@ Get ready for the ultimate Christmas adventure in Santa Collecting gifts, a fast
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Holiday, New, Santa, Santa Claus, Skill, Snow

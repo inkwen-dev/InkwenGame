@@ -21,4 +21,4 @@ A relaxing 3D triple-match puzzle with real physics. Tap three of a kind out of 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Match 3, Matching, Math, Physics, Puzzle
+- Tags: 3D, Match 3, Matching, math, Physics, Puzzle

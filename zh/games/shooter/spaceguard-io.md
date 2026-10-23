@@ -21,4 +21,4 @@ SpaceGuard.io 是一款科幻主题的多人第一人称射击游戏，拥有诸
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 枪械, 多人游戏, 火箭, 狙击, Unity3D, 武器, WebGL
+- 标签: 3D游戏, 枪械, 多人, 火箭, 狙击手, Unity3D, 武器, WebGL

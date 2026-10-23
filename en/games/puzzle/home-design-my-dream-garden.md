@@ -21,4 +21,4 @@ Your dream garden is only a few taps away! Revive barren backyards, replace gari
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D Games, 8 Ball Pool, Adventure, Arcade, Arena, Arkanoid, Army, Barbie, Battlegrounds, Billiard, Board, Boy, Boys, Brawl, Bubble, Bubble Shooter, Cake, Candy, Car, Cars, Clans, Clash, Classic, Cleaning, Click, Clicker, Farm, Game, Games, Girl, Girls, Grooming, Memory, Mobile, Monkey, Monster, Moto, Motorcycle, Quiz
+- Tags: .io Games, 3D Games, 8 Ball Pool, Adventure, Arcade, Arena, Arkanoid, Army, Barbie, Battlegrounds, Billiard, Board, Boy, Boys, Brawl, Bubble, Bubble Shooter, Cake, Candy, Car, Cars, Clans, Clash, Classic, Cleaning, Click, Clicker, Farm, Game, Games, Girl, Girls, Grooming, memory, Mobile, Monkey, monster, Moto, Motorcycle, Quiz

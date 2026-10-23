@@ -21,4 +21,4 @@ Stickman涂鸦史诗怒火是一款有趣且令人上瘾的 beatemup 游戏，�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Stickman, 街头格斗
+- 标签: 木偶人, 街头格斗

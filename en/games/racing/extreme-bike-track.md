@@ -21,4 +21,4 @@ Choose your favorite motorbike, including from a police motorcycle and a dirt bi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Moto
+- Tags: bike, Moto

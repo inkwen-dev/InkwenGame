@@ -21,4 +21,4 @@ A tower defense game in which giant mutant spiders are headed for your town and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Strategy, Tower Defense
+- Tags: strategy, Tower Defense

@@ -19,6 +19,6 @@ Discover the world of a new clicker game where you can trace the birth and matur
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Anime, Click, Clicker, Dragon, Fantasy

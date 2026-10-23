@@ -21,4 +21,4 @@ Crazy Baby: Toddler Games is a fun and educational 2D cartoon baby-sitting simul
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boys, Casual, Dress Up, Educational, Food, Girls, Kids
+- Tags: 2D, Boys, Casual, Dress Up, educational, Food, Girls, Kids

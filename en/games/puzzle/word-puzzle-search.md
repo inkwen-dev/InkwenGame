@@ -21,4 +21,4 @@ Do you like brain games or puzzle games? Word Search Puzzle is a classic word se
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kids, Puzzle, Word
+- Tags: Kids, Puzzle, word

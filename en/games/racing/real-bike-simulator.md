@@ -21,4 +21,4 @@ Are you ready to enjoy Real Bike Simulator Game? Experience the thrill of beach 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Bike, Casual, Hypercasual, Racing, Stunts
+- Tags: Adventure, bike, Casual, Hypercasual, Racing, Stunts

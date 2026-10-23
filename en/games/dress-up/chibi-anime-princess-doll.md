@@ -19,6 +19,6 @@ Anime Princess Doll has become one of the most popular toys in the world. Make y
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Creation, Design, Dress Up, Girl, Girls, H5, HTML5, Makeover, Nail, Nails

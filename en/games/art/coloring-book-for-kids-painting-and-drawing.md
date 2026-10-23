@@ -21,4 +21,4 @@ colouring Book For Kids- Painting and Drawing Games is a collection of colouring
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cartoon, Collecting, Color, Coloring, Draw, Educational, Fun, HTML5, Kid, Mobile
+- Tags: Animal, Cartoon, Collecting, Color, Coloring, Draw, educational, Fun, HTML5, Kid, Mobile

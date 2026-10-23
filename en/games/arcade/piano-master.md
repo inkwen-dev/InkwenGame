@@ -21,4 +21,4 @@ Welcome to Piano Tiles Master music game. if you love piano tiles games then you
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Clicker, Music
+- Tags: Arcade, Casual, Clicker, music

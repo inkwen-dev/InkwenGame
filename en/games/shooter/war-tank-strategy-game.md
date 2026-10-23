@@ -21,4 +21,4 @@ This is interesting fun tank strategy game. On beginning of every level you need
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Fun, HTML5, Kids, Mobile, Shooting, Strategy, Tank, War
+- Tags: Action, Fun, HTML5, Kids, Mobile, Shooting, strategy, Tank, War

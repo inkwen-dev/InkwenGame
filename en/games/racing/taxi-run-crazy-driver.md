@@ -19,6 +19,6 @@ Breakneck speed to get your adrenaline pumping! Hop in the driver's seat and flo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 3D, 3D Games, Driving, Taxi

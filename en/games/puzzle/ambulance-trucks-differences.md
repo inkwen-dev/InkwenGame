@@ -21,4 +21,4 @@ Find seven differences between two pictures with Ambulance trucks. Your time is 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Difference, Puzzle, Truck
+- Tags: Difference, Puzzle, truck

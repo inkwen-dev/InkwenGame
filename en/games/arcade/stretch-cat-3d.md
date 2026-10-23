@@ -21,4 +21,4 @@ Stretch CAT is the best game for Relaxing and Puzzle lovers! It can be played an
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Best, Boys, Casual, Cat, Educational, Girls, Hot, Hypercasual, Kids, Mobile, Online, Puzzle, Strategy
+- Tags: 3D, Arcade, Best, Boys, Casual, Cat, educational, Girls, Hot, Hypercasual, Kids, Mobile, Online, Puzzle, strategy

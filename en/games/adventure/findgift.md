@@ -19,6 +19,6 @@ It is a puzzle solving game. In the game, a man's gift is lost in the ice and sn
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Hypercasual, Puzzle

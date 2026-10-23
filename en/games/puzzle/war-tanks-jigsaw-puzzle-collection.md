@@ -21,4 +21,4 @@ Especially for fans of battle tanks 4Gameground.com has prepared an excellent po
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Jigsaw, Tank, Tanks, War
+- Tags: 1 Player, Jigsaw, Tank, tanks, War

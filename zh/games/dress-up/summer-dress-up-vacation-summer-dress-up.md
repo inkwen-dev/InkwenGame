@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 装扮, 家庭, 时尚, 女孩, 女生, 益智, 夏日, Unity3D
+- 标签: 2D, 装扮, 家庭, 时尚, 女孩, 女孩, 益智, 夏天, Unity3D

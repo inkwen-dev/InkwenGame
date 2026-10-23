@@ -21,4 +21,4 @@ Like in a great tennis game, Help Grimace to stopping the tennis balls fired by 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Grimace, HTML, HTML5, Skibidi, Skibidi Toilet
+- Tags: Grimace, HTML, HTML5, Skibidi, skibidi-toilet

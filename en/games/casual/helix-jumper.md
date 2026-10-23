@@ -21,4 +21,4 @@ The template is made to be used with mouse and touch to screen. It features a ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, jump, Jumping
+- Tags: Ball, jump, jumping

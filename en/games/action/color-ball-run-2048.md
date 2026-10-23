@@ -19,6 +19,6 @@ Color Ball Run 2048 is a new popular game with 2018 ball. Just swipe left and ri
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Ball, Color, Kids, Matching, Mobile, Platform, running, Skill

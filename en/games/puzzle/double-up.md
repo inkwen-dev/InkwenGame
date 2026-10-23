@@ -19,6 +19,6 @@ Double Up is a relaxing 2048 merge game. Take a rest, get yourself a coffee, and
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Brain, Casual, Hypercasual, Puzzle, Relaxation

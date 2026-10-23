@@ -21,4 +21,4 @@ Merge Dragon Master Battle 3D is a cool real-time strategy game for everyone. Yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Dinosaur, Dragon, Fighting, Hypercasual
+- Tags: Arcade, Casual, Dinosaur, Dragon, fighting, Hypercasual

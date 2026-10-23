@@ -19,6 +19,6 @@ Monster truck stunts? No problem. Choose your truck, race, collect all the coins
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Physics, Truck, WebGL
+- Tags: 3D Games, Physics, truck, WebGL

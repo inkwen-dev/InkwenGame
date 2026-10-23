@@ -21,4 +21,4 @@ Merge identical Halloween blocks by moving them in any direction with the help o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Board, Halloween, HTML5, Mobile, Puzzle
+- Tags: Arcade, block, Board, Halloween, HTML5, Mobile, Puzzle

@@ -19,6 +19,6 @@ You are trapped in a nextbot world. Survive for a certain amount of time and esc
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Ghost, Rescue, WebGL, Zombie

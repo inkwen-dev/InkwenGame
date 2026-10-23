@@ -21,4 +21,4 @@ A very casual 3D game, players control the role in different situations jump, si
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Jumping, Racing, Sport
+- Tags: 1 Player, jumping, Racing, Sport

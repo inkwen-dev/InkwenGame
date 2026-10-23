@@ -21,4 +21,4 @@ PLAYTOUCH is happy to show you its brand-new game: Stickman School Run. Feel lik
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Race, Racing, run, running, Stickman
+- Tags: Arcade, Race, Racing, run, running, stickman

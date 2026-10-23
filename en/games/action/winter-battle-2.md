@@ -19,6 +19,6 @@ The perfect winter season has arrived. Join the battle between Santa Claus and t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 2025 games, 2D, Adventure, Arcade, Christmas, Santa Claus, Winter

@@ -21,4 +21,4 @@ RACE REAL PEOPLE IN REAL-TIME. Ninja Race is a live, multiplayer racing game fea
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping, Multiplayer, Ninja, Ninjago, Race, Racing, run, running
+- Tags: jump, jumping, Multiplayer, ninja, Ninjago, Race, Racing, run, running

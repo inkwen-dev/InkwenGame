@@ -19,6 +19,6 @@ New popular - synthetic super watermelon! Pass by, don't miss it! The perfect co
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fruits, Hypercasual

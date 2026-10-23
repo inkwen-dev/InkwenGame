@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Android, Arcade, Baby, Balance, Ball, Ballon, Baseball, Basketball, Candy, Casual, Classic, Fun, Funny, Game, Games, Hypercasual, jump, Jumping, Kid, Kids, Mobile, run, running, Shoot, Shooter, Sword
+- Tags: Action, Android, Arcade, Baby, Balance, Ball, Ballon, baseball, basketball, Candy, Casual, Classic, Fun, Funny, Game, Games, Hypercasual, jump, jumping, Kid, Kids, Mobile, run, running, Shoot, Shooter, sword

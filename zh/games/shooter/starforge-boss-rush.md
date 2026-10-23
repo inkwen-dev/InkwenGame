@@ -21,4 +21,4 @@ STARFORGE BOSS RUSH 是一款史诗级的科幻Boss突袭射击游戏，你将�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人游戏, 2026年游戏, 2D, AI游戏, 惊人, 街机, 射击, 太空飞船
+- 标签: 单人, 2026 游戏, 2D, AI游戏, 惊人, 街机, 射击, 宇宙飞船

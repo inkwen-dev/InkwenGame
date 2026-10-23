@@ -21,4 +21,4 @@ Adventure Time: How to Draw Jake is a turn-based drawing game. Follow the instru
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Cartoon, Cartoon Network, Color, Coloring, Draw, Drawing, Girls
+- Tags: Arcade, Cartoon, Cartoon Network, Color, Coloring, Draw, drawing, Girls

@@ -21,4 +21,4 @@ Welcome to a new era of water slide games.Water park slide adventure is the most
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Sport, Sports
+- Tags: Adventure, Sport, sports

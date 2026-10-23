@@ -19,6 +19,6 @@ Hello farmers! In the world of farm simulation games, its an amazing day for an 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D Games, Arcade, Baby Hazel, Best Games, Business, Farm, Simulation

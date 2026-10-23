@@ -21,4 +21,4 @@ Sudoku Deluxe is for all players : from beginners to advanced players. If you li
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Educational, Logic, Number, Puzzle, Sudoku
+- Tags: Brain, Casual, educational, Logic, Number, Puzzle, Sudoku

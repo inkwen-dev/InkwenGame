@@ -21,4 +21,4 @@ My Virtual House is a very cute game. Have you ever played doll house? In this g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Car, Cute, Family, Food, Fun, Girls, HTML5, Kids, Mobile, Pool
+- Tags: Animal, Car, Cute, Family, Food, Fun, Girls, HTML5, Kids, Mobile, pool

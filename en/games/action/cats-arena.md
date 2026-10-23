@@ -19,6 +19,6 @@ Take part in the merciless battle of space seals. To win you need to score 30 po
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Arena, Battle, Battlegrounds, Boys, Cat, Fighting, Girl, Girls
+- Tags: 2D, Animal, Arena, battle, Battlegrounds, Boys, Cat, fighting, Girl, Girls

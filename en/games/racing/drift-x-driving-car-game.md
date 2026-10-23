@@ -21,4 +21,4 @@ Welcome to the world of car drift and driving games. Get ready to ignite your en
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Car, drift, Driving, Parking, Race, Racing
+- Tags: Action, Car, drift, Driving, parking, Race, Racing

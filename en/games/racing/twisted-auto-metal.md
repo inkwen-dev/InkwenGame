@@ -19,6 +19,6 @@ Twisted Auto Metal is an explosive vehicular combat game set in a post-apocalypt
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Battle, Driving
+- Tags: 1 Player, 3D, battle, Driving

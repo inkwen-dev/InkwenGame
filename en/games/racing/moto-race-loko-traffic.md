@@ -21,4 +21,4 @@ Ride your super moto and race through through the crazy traffic! The city is goi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Moto, Motorcycle, Race, Racing, Sports
+- Tags: 1 Player, 3D, Action, Moto, Motorcycle, Race, Racing, sports

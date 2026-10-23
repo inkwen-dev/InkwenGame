@@ -19,6 +19,6 @@ The character of the game is completely mentally healthy. But despite this, he w
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D, 3D Games, Action, Adult, Adventure, Alien, Android, Arcade, Boy, Boys, Candy, Girl, Girls, Pokemon, Poker, Unity3D

@@ -21,4 +21,4 @@ In our adventure, we have a block man who can throw hooks everywhere. The only g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, Arcade, mineblock, Minecraft, Mobile, Pixel, Spiderman, Stickman
+- Tags: 2D, Android, Arcade, mineblock, Minecraft, Mobile, pixel, Spiderman, stickman

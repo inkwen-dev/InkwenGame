@@ -21,4 +21,4 @@ You just need to escape from the Chaser! Enjoy it!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Clicker, Escape, HTML, HTML5, jump, Jumping, Mobile, run, running
+- Tags: Boy, Boys, Clicker, Escape, HTML, HTML5, jump, jumping, Mobile, run, running

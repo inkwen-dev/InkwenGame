@@ -21,4 +21,4 @@ Counter terrorist ( swat ) stickmen launch a strike on terror stick forces The t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arena, Multiplayer, Online, Shoot, Shooter, Shooting, Stickman, War
+- Tags: 3D, 3D Games, Arena, Multiplayer, Online, Shoot, Shooter, Shooting, stickman, War

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 街机, unity, 适用于您网站的unity游戏, Unity3D
+- 标签: 3D, 街机, unity, 适用于您网站的 unity 游戏, Unity3D

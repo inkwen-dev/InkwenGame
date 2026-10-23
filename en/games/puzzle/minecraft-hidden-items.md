@@ -19,6 +19,6 @@ Minecraft Hidden Items is a free online hidden object game. A certain area will 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Casual, Craft, Hidden, HTML5, Hypercasual, Minecraft, Mobile, Skill
+- Tags: block, Casual, Craft, Hidden, HTML5, Hypercasual, Minecraft, Mobile, Skill

@@ -19,6 +19,6 @@ Race with opponents in and collect as much boards as you can along the track! As
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 3D, 3D Games, Arcade, Battle, Collecting, Crazy, Hypercasual, Race, Racing, Road, run, running
+- Tags: .io, .io Games, 1 Player, 3D, 3D Games, Arcade, battle, Collecting, crazy, Hypercasual, Race, Racing, Road, run, running

@@ -19,6 +19,6 @@ Step into the shoes of a ninja master in Ninja Veggie Slice! Swipe swiftly to sl
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Best Games, Fun, HTML, html5 games, Interactive, NapTech Games, Skill, Skills, Slicing

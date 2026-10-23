@@ -21,4 +21,4 @@ Are you ready to become an ear doctor ? You must heal the ears of your patients.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Doctor, Family, Surgery
+- Tags: Casual, Doctor, Family, surgery

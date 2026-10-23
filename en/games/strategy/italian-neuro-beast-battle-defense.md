@@ -19,6 +19,6 @@ Italian Neuro Beast Battle: Create Defense &mdash; is a game about Italian meme 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Brainrot, Brainrot Italian, Casual, Defense, endless, Italian Brainrot, Mobile, Monster, Sahur, Strategy, Tower Defense, Tung Tung Tung Sahur
+- Tags: 1 Player, 2D, Brainrot, Brainrot Italian, Casual, Defense, endless, Italian Brainrot, Mobile, monster, Sahur, strategy, Tower Defense, Tung Tung Tung Sahur

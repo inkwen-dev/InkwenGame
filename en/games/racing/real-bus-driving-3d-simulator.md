@@ -19,6 +19,6 @@ Coach Bus Simulator is the first coach driving game that will teach you to drive
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 3D, 3D Games, Best, Boy, Boys, bus, Car, Cars, drift, Driving, Girl, Girls, Race, Racing, Simulation, Simulator, Supercars, Unity3D

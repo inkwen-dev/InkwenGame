@@ -19,6 +19,6 @@ Try this sweet Valentine's Day hidden objects game. Find all objects on the scre
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Hidden, Holiday, HTML5, Kiss, Kissing, Love, Mobile, Seduction

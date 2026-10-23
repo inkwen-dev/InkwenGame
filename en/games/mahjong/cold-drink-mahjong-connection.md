@@ -21,4 +21,4 @@ Connect all the cold drink mahjong tiles and clear the board in this html5 mahjo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Mahjong, Mobile, Summer
+- Tags: HTML5, mahjong, Mobile, Summer

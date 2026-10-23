@@ -19,6 +19,6 @@ Inspired by the charming world of Sprunki, this game takes your observation skil
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Difference, Educational, Girls, Hidden, Hypercasual, Puzzle, School, Sprunki
+- Tags: Boys, Difference, educational, Girls, Hidden, Hypercasual, Puzzle, School, Sprunki

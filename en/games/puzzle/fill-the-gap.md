@@ -21,4 +21,4 @@ Fill the Gap is a puzzle game where you try to fill the gaps in the shape using 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Hypercasual, Puzzle, Snake
+- Tags: 1 Player, 3D, Hypercasual, Puzzle, snake

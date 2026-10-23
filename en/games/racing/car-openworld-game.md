@@ -19,6 +19,6 @@ Are you ready to drive amazing cars in the open world map? Would you like to rac
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Adventure, Arcade, Car, Cars, Interactive, jump, Jumping, Parking, Race, Racing, Stunts, Super, Supercars, Superhero
+- Tags: .io, Adventure, Arcade, Car, Cars, Interactive, jump, jumping, parking, Race, Racing, Stunts, Super, Supercars, Superhero

@@ -19,6 +19,6 @@ Strawberry Shortcake likes to play and spend time with her pony. Let's dress bot
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Decorate, Dress Up, Game, Games, Girl, Girls, Horse, HTML5, Pony
+- Tags: Animal, Decorate, Dress Up, Game, Games, Girl, Girls, horse, HTML5, Pony

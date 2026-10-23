@@ -21,4 +21,4 @@ Blast all the colorful balloons, and test your strategy and logic skills solving
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Match-3, Matching
+- Tags: Match 3, Matching

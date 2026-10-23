@@ -21,4 +21,4 @@ Get assigned 10 random images of super random places in Gielinor and try to pinp
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Guessing, Match-3, Puzzle
+- Tags: 1 Player, Arcade, Guessing, Match 3, Puzzle

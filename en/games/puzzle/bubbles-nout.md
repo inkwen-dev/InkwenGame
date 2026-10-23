@@ -19,6 +19,6 @@ Bubbles Nout is exciting world of bubbles by GamesNout.com. Tap and make score.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 2D, Ball, Ballon, Bejeweled, Bubble, Bubble Shooter, Skill, Skills

@@ -21,4 +21,4 @@ In this Heavy Crane Simulator game, you’ll experience operating crane to do di
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Simulation, Simulator, Truck
+- Tags: Driving, Simulation, Simulator, truck

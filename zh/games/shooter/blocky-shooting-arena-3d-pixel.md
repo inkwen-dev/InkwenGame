@@ -21,4 +21,4 @@ wasd- 移动 鼠标- 瞄准 四周查看 射击 tab- 菜单 space- 跳跃
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, HTML5, 移动, 射击, 射手, 射击, 僵尸
+- 标签: 安卓, HTML5, 移动设备, 射击, 射击类, 射击, 僵尸

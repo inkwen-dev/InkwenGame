@@ -21,4 +21,4 @@ Platform adventure and action game, where the archer must cross the monster vall
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Collecting, Fight, Fighting, HTML5, Mobile, Platform, Skill, Superhero
+- Tags: Arcade, Collecting, Fight, fighting, HTML5, Mobile, Platform, Skill, Superhero

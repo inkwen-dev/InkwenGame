@@ -21,4 +21,4 @@ Tray to match all identical cards, and be fast before time runs out. See how goo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Casino, Fun, HTML5, Kids, Memory, Mobile, Puzzle, Skill
+- Tags: card, Casino, Fun, HTML5, Kids, memory, Mobile, Puzzle, Skill

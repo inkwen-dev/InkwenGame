@@ -19,6 +19,6 @@ Break your personal record in Circle Zombie, an online game where you control a 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Crazy, Fun, Funny, Game, Games, HTML, HTML5, Online
+- Tags: 1 Player, 2D, crazy, Fun, Funny, Game, Games, HTML, HTML5, Online

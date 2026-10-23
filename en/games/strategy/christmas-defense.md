@@ -19,6 +19,6 @@ In this game you have been hired to protect Christmas gifts from a band of maura
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Christmas, Defense, Shooting, Strategy, Tower Defense, Winter
+- Tags: Christmas, Defense, Shooting, strategy, Tower Defense, Winter

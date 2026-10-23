@@ -21,4 +21,4 @@ Control the character to avoid being chased by giant spheres and avoid various t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, Pixel, running
+- Tags: Escape, pixel, running

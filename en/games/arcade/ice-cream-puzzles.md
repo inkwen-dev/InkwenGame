@@ -21,4 +21,4 @@ Slide the ice cream blocks towards another identical block to eliminate both. Us
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Candy, Casual, Clicker, HTML5, Matching, Mobile
+- Tags: Arcade, block, Candy, Casual, Clicker, HTML5, Matching, Mobile

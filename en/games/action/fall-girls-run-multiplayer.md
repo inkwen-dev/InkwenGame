@@ -21,4 +21,4 @@ Fall Girls Run is an online multiplayer game where you will play with players fr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping, Race, run, running
+- Tags: jump, jumping, Race, run, running

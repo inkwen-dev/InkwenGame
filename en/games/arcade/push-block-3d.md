@@ -21,4 +21,4 @@ The goal is to push the blocks into their designated craters using the different
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Arcade, Barbie, Ben 10, Block, Game, Games, Puzzle, Spiderman, Spongebob
+- Tags: 3D, 3D Games, Adventure, Arcade, Barbie, Ben 10, block, Game, Games, Puzzle, Spiderman, Spongebob

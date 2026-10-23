@@ -19,6 +19,6 @@ Jelly Run 2048 is a challenging casual puzzle game that combines the classic 204
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2048, Battle, running
+- Tags: 2048, battle, running

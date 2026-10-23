@@ -21,4 +21,4 @@ Embark on a journey of survival in Horseback Survival, where you, as Zohan, shar
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, amazing, apocalypse, Horse
+- Tags: 2D, Adventure, amazing, apocalypse, horse

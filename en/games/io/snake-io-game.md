@@ -21,4 +21,4 @@ Train your technology to survive and become the biggest worm possible. Everyone 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Animal, Arcade, Classic, Snake
+- Tags: .io, Animal, Arcade, Classic, snake

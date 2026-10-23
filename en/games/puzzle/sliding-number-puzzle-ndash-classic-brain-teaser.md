@@ -21,4 +21,4 @@ Challenge your mind with Sliding Number Puzzle, a timeless brain teaser built wi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Memory, Puzzle
+- Tags: 1 Player, memory, Puzzle

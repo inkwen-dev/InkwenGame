@@ -21,4 +21,4 @@ what jordan? what lebron? that nothing, be you the greatest basketball player of
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Basketball, Sport, Sports
+- Tags: 2D, basketball, Sport, sports

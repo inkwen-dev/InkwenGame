@@ -19,6 +19,6 @@ Batty Math is a simple but fun to play puzzle math game. It's called Batty Math 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, HTML5, Logic, Math, Mobile, Puzzle, School, Skill
+- Tags: educational, HTML5, Logic, math, Mobile, Puzzle, School, Skill

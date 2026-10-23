@@ -19,6 +19,6 @@ Temple Run 2: Holi Festival is an endless runner game developed by Imangi. Celeb
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: temple

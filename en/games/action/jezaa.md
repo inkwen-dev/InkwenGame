@@ -21,4 +21,4 @@ Jezaa is a 2D anime themed platformer where you play as an anime girl who have t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Cartoon, Collecting, Cute, Girl, jump, Jumping, Pixel, Platform, Retro
+- Tags: 1 Player, 2D, Adventure, Anime, Arcade, Cartoon, Collecting, Cute, Girl, jump, jumping, pixel, Platform, retro

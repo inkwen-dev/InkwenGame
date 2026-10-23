@@ -19,6 +19,6 @@ Color Sequence is a memorization game in which you have to observe the sequence 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Color, Fun, Memory, Mind, Puzzle
+- Tags: 2D, Arcade, Color, Fun, memory, Mind, Puzzle

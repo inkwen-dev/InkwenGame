@@ -21,4 +21,4 @@ Try a fun new spin of the classic memory game with Memory Emoji!! Find all the c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Memory
+- Tags: memory

@@ -19,6 +19,6 @@ SnakeRush is a fast-paced arcade snake game where your goal is to grow as big as
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Arcade, Arena, Casual, Fight, Snake, survival, unity, WebGL
+- Tags: .io, Arcade, Arena, Casual, Fight, snake, survival, unity, WebGL

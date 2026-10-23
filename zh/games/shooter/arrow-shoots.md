@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, 单人玩家, 2D, 有趣, 搞笑, 游戏, 游戏, HTML, HTML5, 儿童, 孩子们, 游玩, 益智
+- 标签: .io, 单人, 2D, 有趣, 搞笑, 游戏, 网页游戏, HTML, HTML5, 儿童, 儿童, 玩, 益智

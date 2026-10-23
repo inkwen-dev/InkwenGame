@@ -19,6 +19,6 @@ Get ready to dive in the crazy adventure of stunt car racing mega ramp stunt gam
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, Action, Adventure, Car, Cars, Casual, Race, Stunts, Unity3D

@@ -21,4 +21,4 @@ Skibidi Online 是一款多人射击游戏！在 PvP 或 CO-OP 模式中射击�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 3D, 3D游戏, 动作, 多人游戏, 射击, 斯基比迪, 斯基比迪马桶
+- 标签: .io, .io 游戏, 3D, 3D游戏, 动作, 多人, 射击类, Skibidi, skibidi-toilet

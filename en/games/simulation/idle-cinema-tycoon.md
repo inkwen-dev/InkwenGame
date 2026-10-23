@@ -21,4 +21,4 @@ Idle Cinema Tycoon is a casual business simulation game where you are in charge 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: idle, Management, Mobile, popular, Simulation, tycoon
+- Tags: idle, management, Mobile, popular, Simulation, tycoon

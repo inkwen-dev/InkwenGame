@@ -19,6 +19,6 @@ Suitable Outfit Dressup is a fashionable and exciting dress up game. If you are 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Dress Up, Fashion, H5, Hair, HTML5, Kid, Kids, Mobile

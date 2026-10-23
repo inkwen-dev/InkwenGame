@@ -21,4 +21,4 @@ Dive into the exciting world of "Stickman: Jailbreak Story," where cleverness an
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Stickman, story
+- Tags: stickman, story

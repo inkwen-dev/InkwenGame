@@ -19,6 +19,6 @@ Fun clicker game about Among Us. Click on all the characters that appear as quic
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Click, Girl, Point And Click, Skill, Slicing

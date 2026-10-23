@@ -19,6 +19,6 @@ Guard twelve haunted doors in Haunted Panic. Tap monsters before they strike, sp
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Halloween, HTML5, mapi games, Monster, Shoot, Vampire, Witch, Wolf
+- Tags: Click, Halloween, HTML5, mapi games, monster, Shoot, Vampire, Witch, Wolf

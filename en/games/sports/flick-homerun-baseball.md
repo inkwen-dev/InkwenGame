@@ -19,6 +19,6 @@ Flick your finger and make a homerun. You can experience a real baseball batting
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Baseball, Casual, Hypercasual, Sport, Sports
+- Tags: Action, Arcade, baseball, Casual, Hypercasual, Sport, sports

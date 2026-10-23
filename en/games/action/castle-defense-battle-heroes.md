@@ -19,6 +19,6 @@ The war between many races is over. But… After all, the continent was ravaged,
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Battle, Castle, Fight, HTML, HTML5, Ninja, Superhero, WebGL, Zombie
+- Tags: 2D, Arcade, battle, Castle, Fight, HTML, HTML5, ninja, Superhero, WebGL, Zombie

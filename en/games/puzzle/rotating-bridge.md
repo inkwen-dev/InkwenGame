@@ -19,6 +19,6 @@ Rotating Bridge is a puzzle game. During the game, you need to build a bridge to
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Casual, Difference, New, Online, Puzzle

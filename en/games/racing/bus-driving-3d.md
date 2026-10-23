@@ -21,4 +21,4 @@ Real School Bus Driving game would take you in the imagination of your school li
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Bike, bus, Car, Cars, drift, Driving, Race, Racing
+- Tags: 3D Games, bike, bus, Car, Cars, drift, Driving, Race, Racing

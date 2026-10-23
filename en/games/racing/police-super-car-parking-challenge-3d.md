@@ -21,4 +21,4 @@ Hello police officers are you ready to join Police Super Car Parking Challenge 3
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cars, Driving, HTML, HTML5, Parking, Racing, Simulation, Simulator
+- Tags: Boys, Cars, Driving, HTML, HTML5, parking, Racing, Simulation, Simulator

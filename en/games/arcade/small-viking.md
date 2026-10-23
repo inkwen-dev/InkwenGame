@@ -21,4 +21,4 @@ SMALL VIKING IS AN EPIC ADV WITH 100 LEVELS OF MONSTERS, TRAPS AND DANGER! Small
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Block, Boys, Dungeon, Ghost, Gold, Knight, Monster, Physics, Puzzle, Sword
+- Tags: Adventure, block, Boys, Dungeon, Ghost, Gold, knight, monster, Physics, Puzzle, sword

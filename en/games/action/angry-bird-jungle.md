@@ -21,4 +21,4 @@ Enter Bird Island in Angry Birds Evolution – a visually stunning RPG with hund
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, 3D Games, Animal, Battle, Battlegrounds, Bird, Fight, Fighting
+- Tags: 2D, 3D Games, Animal, battle, Battlegrounds, Bird, Fight, fighting

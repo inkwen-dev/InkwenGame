@@ -21,4 +21,4 @@ Football kicking with a twist. See how well you can do against the elements and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Football, Sport, Sports
+- Tags: Action, Football, Sport, sports

@@ -21,4 +21,4 @@ Join battle royale squad with Brawl Royale Stars! Fast-paced battles with brawl 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arena, Battle, Clans, Clash, Shooter, Shooting
+- Tags: Arena, battle, Clans, Clash, Shooter, Shooting

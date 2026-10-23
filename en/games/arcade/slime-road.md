@@ -19,6 +19,6 @@ Slime Road is a fast action sticky jumping addictive adventure! Bounce the slime
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Fun, HTML5, Hypercasual, WebGL

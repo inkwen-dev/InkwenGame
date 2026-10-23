@@ -21,4 +21,4 @@ Here is a Jeep truck driving racing simulation game with 3D models. We need you 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, Driving, Mobile, Racing, Simulation, Timing, Truck
+- Tags: 3D, Car, Driving, Mobile, Racing, Simulation, Timing, truck

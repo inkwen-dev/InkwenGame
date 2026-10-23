@@ -21,4 +21,4 @@ Face the funniest card puzzle ever in Sprunki Whooo. Together with the adorable 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Funny, Guessing, Sprunki
+- Tags: card, Funny, Guessing, Sprunki

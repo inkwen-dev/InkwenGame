@@ -21,4 +21,4 @@ WASD - 移动 左键 - 攻击 右键 - 切换手电筒 空格键 - 跳跃
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 3D 游戏, 动作, 冒险, 不死生物, Unity3D, 僵尸
+- 标签: 单人, 3D, 3D游戏, 动作, 冒险, 僵尸, Unity3D, 僵尸

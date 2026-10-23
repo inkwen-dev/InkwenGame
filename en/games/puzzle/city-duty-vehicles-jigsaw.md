@@ -21,4 +21,4 @@ City Duty Vehicles Jigsaw Jigsaw is a free online game from genre of puzzle and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle, Truck
+- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle, truck

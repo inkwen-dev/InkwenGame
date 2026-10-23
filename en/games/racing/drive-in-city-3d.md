@@ -19,6 +19,6 @@ Car Driving Simulator is the best car simulator of 2014, thanks to its advanced 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Best, Boy, Boys, Collection, Crazy, Creation, Decoration, drift, drifting, Driving, Girl, Girls, Sim, Simulation, Simulator, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Best, Boy, Boys, Collection, crazy, Creation, Decoration, drift, drifting, Driving, Girl, Girls, Sim, Simulation, Simulator, Unity3D

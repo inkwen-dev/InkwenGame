@@ -19,6 +19,6 @@ Use mouse to play this game
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Animal, Baby, Boy, Educational, Girl, HTML, HTML5, Kid, Mobile, WebGL
+- Tags: Adult, Animal, Baby, Boy, educational, Girl, HTML, HTML5, Kid, Mobile, WebGL

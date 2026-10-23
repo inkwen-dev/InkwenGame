@@ -23,4 +23,4 @@ Chain successful deliveries to build combos, handle urgent requests, and grab co
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, Funny, Retro, Skill
+- Tags: Action, Arcade, Funny, retro, Skill

@@ -21,4 +21,4 @@ A relaxing game about destroying the world! Hit the button when the green notes 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping
+- Tags: jump, jumping

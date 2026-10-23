@@ -19,6 +19,6 @@ Fashion competiton : Dress Up Models Game begins! Are you a fashion stylist and 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2D, Baby, Barbie, Battle, Bejeweled, Classic, Design, Dress Up, Elsa, Fashion, Frozen, Game, Games, Girl, Girls, Hello Kitty, Hot, Jewel, Nails, Princess, Simulation
+- Tags: .io Games, 2D, Baby, Barbie, battle, Bejeweled, Classic, Design, Dress Up, Elsa, Fashion, Frozen, Game, Games, Girl, Girls, Hello Kitty, Hot, Jewel, Nails, Princess, Simulation

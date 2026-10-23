@@ -21,4 +21,4 @@ Water Color Sort is a perfectly simple yet addictive, and challenging puzzle gam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boy, Brain, Educational, Fun, HTML5, Online, Puzzle, Relaxation
+- Tags: Android, Boy, Brain, educational, Fun, HTML5, Online, Puzzle, Relaxation

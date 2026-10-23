@@ -21,4 +21,4 @@ Bienvenue à Ski Safari! Ski Safari est l’endroit où les animaux, les avalanc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, sky, Sport, Sports
+- Tags: Adventure, sky, Sport, sports

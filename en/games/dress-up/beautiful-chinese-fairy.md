@@ -19,6 +19,6 @@ We are going to attend a big party soon. Our beautiful fairy needs your help. Co
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fairy, Fantasy, Fashion, Girl, Girls

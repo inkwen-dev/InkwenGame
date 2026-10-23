@@ -21,4 +21,4 @@ WASD 移动 TAB 菜单 空格键 跳跃
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 跳跃, 跳跃, 仅向上, 跑, 跑步, 斯基比迪, 斯基比迪马桶
+- 标签: 跳跃, 跳跃, OnlyUp, 跑, 奔跑, Skibidi, skibidi-toilet

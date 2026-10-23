@@ -19,6 +19,6 @@ Free Baby Balloon Pop Games! Equally enjoyed by boys and girls! 5 Different baby
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Ball, Ballon, Boy, Girl, Kid, Kids, Unity3D

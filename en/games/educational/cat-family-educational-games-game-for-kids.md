@@ -21,4 +21,4 @@ Cat Family Educational Games is a very interesting casual game. Your task is to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Cat, Educational, Family, Fun, Girl, Girls, Kid, Kids
+- Tags: Boy, Boys, Cat, educational, Family, Fun, Girl, Girls, Kid, Kids

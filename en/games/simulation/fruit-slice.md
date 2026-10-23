@@ -19,6 +19,6 @@ Throw your weapons at the fruit as you try to juice them all to complete each le
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Boys, Cook, Cooking, Girls, Hypercasual, Kids, Ninja, Shoot, Shooter, Shooting
+- Tags: Action, Adventure, Boys, Cook, Cooking, Girls, Hypercasual, Kids, ninja, Shoot, Shooter, Shooting

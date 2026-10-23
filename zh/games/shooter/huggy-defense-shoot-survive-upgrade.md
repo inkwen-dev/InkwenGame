@@ -21,4 +21,4 @@ Huggy Wuggy、Kissy Missy 和其他角色非常想拥抱你！向他们射击各
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 3D 游戏, 动作, 疯狂, 无尽, 高分, 怪物, 射击, 射手, 射击游戏
+- 标签: 单人, 3D, 3D游戏, 动作, 疯狂, 无尽, 高分, monster, 射击, 射击类, 射击

@@ -21,4 +21,4 @@ For your benefit, we have included in this game all of the thrills, laughs, and 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Bike, Moto, Motorcycle, Race, Racing, Unity3D, WebGL
+- Tags: 1 Player, bike, Moto, Motorcycle, Race, Racing, Unity3D, WebGL

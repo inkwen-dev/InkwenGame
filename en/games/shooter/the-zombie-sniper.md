@@ -19,6 +19,6 @@ The Apocalypse is coming and everyone who has not yet turned into zombies is fle
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Battle, Battlegrounds, Fight, Fighting, Gun, HTML, HTML5, Shoot, Shoot 'Em Up, Shooting, Sniper, War, Zombie
+- Tags: Action, Adventure, battle, Battlegrounds, Fight, fighting, Gun, HTML, HTML5, Shoot, Shoot 'Em Up, Shooting, sniper, War, Zombie

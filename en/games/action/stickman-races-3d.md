@@ -19,6 +19,6 @@ Stickman Race 3D is New Race 3D Game with Opponent Stickman Players , Run , Jump
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boy, Boys, Casual, Funny, Game, Games, Girl, Girls, Hypercasual, jump, Jumping, Kid, Kids, run, running, Stickman, Unity3D
+- Tags: 3D, 3D Games, Boy, Boys, Casual, Funny, Game, Games, Girl, Girls, Hypercasual, jump, jumping, Kid, Kids, run, running, stickman, Unity3D

@@ -19,6 +19,6 @@ Disney Frozen Princess Elsa Dress Up Games For Girls To Play Online Free! Best D
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Barbie, Cartoon, Cartoon Network, Elsa, Fashion, Girl, Girls, Makeover, Mobile, Princess, Simulation

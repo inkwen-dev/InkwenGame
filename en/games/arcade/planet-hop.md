@@ -19,6 +19,6 @@ It's just a really simple endless hyper casual game! Try to avoid the Red triang
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boy, Boys, Casual, Clicker, endless, Family, Games, HTML, HTML5, Hypercasual, Kids, WebGL

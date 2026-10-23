@@ -19,6 +19,6 @@ The Italian Brainrot crew has been kidnapped by jealous zombies! Launch Tung Tun
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brainrot, Brainrot Italian, Brainrot sahuuur, Italian Brainrot, Tung, Tung Tung, Tung Tung Tung, Tung Tung Tung Sahur

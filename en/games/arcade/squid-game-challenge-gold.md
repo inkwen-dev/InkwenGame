@@ -19,6 +19,6 @@ Squid Game Challenge Gold, where you have to use a needle to cut various geometr
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, Arcade, Brain, Click, Clicker, Highscore, HTML, HTML5, Hypercasual

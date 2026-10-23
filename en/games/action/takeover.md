@@ -21,4 +21,4 @@ For centuries the Rivadis Empire ruled the continent in its shine and glory. But
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Castle, Defense, Fantasy, King, Knight, Magic, Strategy
+- Tags: battle, Castle, Defense, Fantasy, King, knight, Magic, strategy

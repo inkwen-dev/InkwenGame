@@ -19,6 +19,6 @@ Touch the sky with Glory! The ultimate jet action game that will take you sky hi
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 3D Games, Adventure, Air, Aircraft, Arcade, Battle, Bomb, Brain, Clash, Fight
+- Tags: .io Games, 1 Player, 3D Games, Adventure, Air, Aircraft, Arcade, battle, Bomb, Brain, Clash, Fight

@@ -28,4 +28,4 @@ Can you clean everything and become the ultimate cleaning master? Complete level
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, Funny, Management, Simulation
+- Tags: 3D, Arcade, Funny, management, Simulation

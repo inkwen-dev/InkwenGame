@@ -21,4 +21,4 @@ Even monsters need a trip to the dentist! Welcome to a Halloween clinic packed w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Halloween, mapi games, Monster, Simulation, Zombie
+- Tags: Halloween, mapi games, monster, Simulation, Zombie

@@ -21,4 +21,4 @@ This is actually not a car driving simulation game but a car avoiding arcade gam
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Avoid, Boy, Car, Collecting, Highscore, Kid, Mobile, Truck, Unity3D
+- Tags: 3D, Arcade, Avoid, Boy, Car, Collecting, Highscore, Kid, Mobile, truck, Unity3D

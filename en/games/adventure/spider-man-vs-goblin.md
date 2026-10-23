@@ -21,4 +21,4 @@ Protect the city from the bad green goblin. Fight for peace. Destroy Goblin's bo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Pixel, Retro, Spiderman
+- Tags: Action, Adventure, pixel, retro, Spiderman

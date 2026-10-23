@@ -19,6 +19,6 @@ Army Trucks Memory is memory game with army trucks. In this game you need to mem
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Memory, Puzzle, Truck
+- Tags: Army, memory, Puzzle, truck

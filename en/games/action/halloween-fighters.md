@@ -21,4 +21,4 @@ Enter a wild Halloween arcade showdown! Choose from 11 monsters and battle throu
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting, Halloween, mapi games, Monster, Street Fighting, Wolf, Zombie
+- Tags: Fight, fighting, Halloween, mapi games, monster, Street Fighting, Wolf, Zombie

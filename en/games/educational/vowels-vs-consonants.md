@@ -21,4 +21,4 @@ Challenge your brain with Vowel Vs Consonant! This fun educational game helps ch
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, HTML5, html5 games, Kid, Kids, NapTech Games, Online, Skills
+- Tags: educational, HTML5, html5 games, Kid, Kids, NapTech Games, Online, Skills

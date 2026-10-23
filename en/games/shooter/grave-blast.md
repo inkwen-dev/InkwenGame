@@ -21,4 +21,4 @@ Grave Blast is a fast-paced 3D twin-stick survival shooter set in a spooky Hallo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Casual, Halloween, Horror, HTML5, mapi games, Mobile, Monster, Shooter, Shooting, survival, Zombie
+- Tags: Action, Arcade, Casual, Halloween, Horror, HTML5, mapi games, Mobile, monster, Shooter, Shooting, survival, Zombie

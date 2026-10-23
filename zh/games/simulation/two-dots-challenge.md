@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 动漫, 球, 最佳, 男孩, 搞笑, 女孩, HTML, HTML5, 拼图, 模拟, 时机, WebGL
+- 标签: 2D, 动漫, 球, 最佳, 男孩, 搞笑, 女孩, HTML, HTML5, 益智, 模拟, 时机, WebGL

@@ -19,6 +19,6 @@ Match Colors Game is a fresh twist on classic match-3 gameplay with a unique dra
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Match 3, Puzzle, puzzleblock

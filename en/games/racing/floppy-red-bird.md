@@ -21,4 +21,4 @@ Flying Red Bird is the most simple game to play. Help little Red Bird to flying 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Bird, Boys, Clicker, endless, Flight, fly, Girls, HTML5, Hypercasual, Kids, Racing
+- Tags: Animal, Arcade, Bird, Boys, Clicker, endless, flight, fly, Girls, HTML5, Hypercasual, Kids, Racing

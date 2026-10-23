@@ -19,6 +19,6 @@ BTS Chibi Claw Machine is an addictive game for girls dedicated to the seven mem
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Anime, Arcade, Boys, Cartoon, Casual, Celebrity, Cute, Fantasy, Fashion, free html5 games for your website, games for your website

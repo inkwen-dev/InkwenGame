@@ -21,4 +21,4 @@ Archery is an archery game that can take you into the world of this amazing mode
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Sports
+- Tags: sports

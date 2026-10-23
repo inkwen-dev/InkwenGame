@@ -19,6 +19,6 @@ Welcome to My Cat Restaurant, a casual kids cooking simulator game that you can 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Animal, Collecting, Restaurant
+- Tags: Adventure, Animal, Collecting, restaurant

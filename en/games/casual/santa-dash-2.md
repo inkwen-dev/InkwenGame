@@ -15,6 +15,6 @@ Dive into the festive chaos with Santa Dash 2! Race against time, dodging laser 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Christmas

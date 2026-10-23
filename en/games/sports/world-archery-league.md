@@ -21,4 +21,4 @@ Become a legendary marksman in World Archery League. This high-stakes archery sp
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: arrow, realistic, Sport, Strategy
+- Tags: arrow, realistic, Sport, strategy

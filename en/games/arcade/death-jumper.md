@@ -21,4 +21,4 @@ h53ocyog7fvmw64k4zgxw74p9avr2gl5 "Death Jumper" is an online adventure horror ga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: jump, Jumping
+- Tags: jump, jumping

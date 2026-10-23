@@ -21,4 +21,4 @@ WASD - 移动
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 男孩们, 恐龙, 恐龙, 驾驶, HTML5, 模拟器, 卡车, WebGL
+- 标签: 3D, 男孩们, 恐龙, Dino, 驾驶, HTML5, 模拟器, 卡车, WebGL

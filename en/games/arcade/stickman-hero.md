@@ -21,4 +21,4 @@ Swing your way to the finish line! Avoid all the obstacle. There are twenty chal
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Hypercasual, Puzzle, Spiderman, Stickman, Super, Superhero
+- Tags: Adventure, Arcade, Hypercasual, Puzzle, Spiderman, stickman, Super, Superhero

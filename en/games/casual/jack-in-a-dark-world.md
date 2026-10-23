@@ -21,4 +21,4 @@ Enter the eerie world of Pumpkin in a Dark World, a hypercasual game where you g
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Halloween, HTML, HTML5, Hypercasual, jump, Jumping, mapi games, Monster
+- Tags: Boys, Halloween, HTML, HTML5, Hypercasual, jump, jumping, mapi games, monster

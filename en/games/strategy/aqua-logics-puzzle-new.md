@@ -19,6 +19,6 @@ Water Sorting Puzzle is a relaxing and addictive brain-training game. Your goal 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Puzzle, Relaxation, Strategy
+- Tags: Brain, Puzzle, Relaxation, strategy

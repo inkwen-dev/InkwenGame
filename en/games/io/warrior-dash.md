@@ -21,4 +21,4 @@ A new adventure is here ! True parkour experience ! Race with others, achieve le
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Action, Adventure, jump, Jumping
+- Tags: .io, Action, Adventure, jump, jumping

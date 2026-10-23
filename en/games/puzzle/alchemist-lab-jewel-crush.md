@@ -19,6 +19,6 @@ Welcome to the world of Alchemy Match3 Lab Make a simple match for 3 Jewel eleme
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Candy, Color, Hot, Match 3, Match3, Puzzle

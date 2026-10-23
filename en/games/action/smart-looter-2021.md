@@ -19,6 +19,6 @@ Smart Looter is the best App so Be quick and sneaky and grab tons of loots! Watc
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Police
+- Tags: 3D, Action, police

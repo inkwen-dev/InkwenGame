@@ -21,4 +21,4 @@ This military tycoon game combines base management, soldier training, and territ
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, Battle, Strategy, War
+- Tags: Army, battle, strategy, War

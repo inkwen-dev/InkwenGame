@@ -19,6 +19,6 @@ Drive your way through a zombie apocalypse. Fire your guns and kill all zombies 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adult, Adventure, Arcade, Baseball, Battle
+- Tags: Action, Adult, Adventure, Arcade, baseball, battle

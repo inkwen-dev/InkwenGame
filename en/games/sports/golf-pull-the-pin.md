@@ -19,6 +19,6 @@ The task is like in golf - to throw the ball into the hole, but not one, but all
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Best, Fun, Funny, Golf, Kids, Logic, Mobile, Skill, Sport
+- Tags: 1 Player, Best, Fun, Funny, golf, Kids, Logic, Mobile, Skill, Sport

@@ -21,4 +21,4 @@ Click on one of the boxes on the board and all the adjacent similar boxes will m
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Color, Logic, Math, Puzzle
+- Tags: Arcade, Brain, Color, Logic, math, Puzzle

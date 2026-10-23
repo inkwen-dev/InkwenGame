@@ -21,4 +21,4 @@ PC WASD 或方向键 —— 移动 鼠标 —— 观察周围 空格键 —— �
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动物, 男孩, 猫, 点击, 搞笑, 仅向上, roblox, 天空
+- 标签: 动物, 男孩, 猫, 点击, 搞笑, OnlyUp, Roblox, 天空

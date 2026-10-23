@@ -21,4 +21,4 @@ Lines to Fill is a thinking game where you draw lines to complete the given puzz
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Color, New, Puzzle
+- Tags: block, Color, New, Puzzle

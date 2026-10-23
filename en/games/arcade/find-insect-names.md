@@ -19,6 +19,6 @@ This is an educational word puzzle game where you need to identify the name of i
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Educational, Kids, Mobile, Puzzle, School, Word
+- Tags: Animal, Arcade, educational, Kids, Mobile, Puzzle, School, word

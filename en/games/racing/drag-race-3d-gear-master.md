@@ -19,6 +19,6 @@ Icon image Drag Race 3D - Gear Master About this game Shift the gear at right ti
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Cars, Kids, Race, Racing, Sport

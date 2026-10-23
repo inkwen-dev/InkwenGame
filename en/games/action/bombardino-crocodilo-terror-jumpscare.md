@@ -19,6 +19,6 @@ Welcome to Bombardino Crocodilo: Terror Jumpscare, a spine-chilling horror game 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Horror, Minecraft
+- Tags: battle, Horror, Minecraft

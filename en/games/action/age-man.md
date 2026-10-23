@@ -21,4 +21,4 @@ Well,this is a very simple game where you have to run from left to right and jum
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Battle, Classic, Fight
+- Tags: 1 Player, 2D, Action, battle, Classic, Fight

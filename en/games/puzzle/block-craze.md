@@ -21,4 +21,4 @@ Get ready for a thrilling puzzle adventure with Craze Block! Step into a world o
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Brain, Casual, Color, Matching, puzzleblock, Tetris
+- Tags: block, Brain, Casual, Color, Matching, puzzleblock, tetris

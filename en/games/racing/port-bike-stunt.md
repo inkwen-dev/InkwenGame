@@ -21,4 +21,4 @@ Bike Stunt series continues with the Port Map. It's time to show off your stunt 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 3D, 3D Games, Action, Bike, Motorcycle, Skill, Stunts
+- Tags: 2 Player Games, 3D, 3D Games, Action, bike, Motorcycle, Skill, Stunts

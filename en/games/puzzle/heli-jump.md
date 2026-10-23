@@ -19,6 +19,6 @@ Heli Jump is a game where you have to control the helicopter that needs to take 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Helicopter, HTML5, Jumping, Kids, Online, Puzzle
+- Tags: helicopter, HTML5, jumping, Kids, Online, Puzzle

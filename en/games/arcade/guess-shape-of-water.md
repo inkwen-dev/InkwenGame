@@ -21,4 +21,4 @@ How smart do you think you are? This is not your normal water puzzle game. This 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Educational, Guessing, HTML5, Puzzle
+- Tags: 1 Player, Arcade, educational, Guessing, HTML5, Puzzle

@@ -19,6 +19,6 @@ Look the both pictures and spot any 5 difference between both. There are 6 excit
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Difference, HTML5, Kids, Mobile, Puzzle

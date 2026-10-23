@@ -19,6 +19,6 @@ Cookie Clicker is an addictive idle clicker game where you bake delicious cookie
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, 2025 games, 2026 games, Android, Click, Clicker, Cool, HTML, html5 games, Hypercasual, iPad, Relaxation, Timing
+- Tags: .io, 1 Player, 2025 games, 2026 games, Android, Click, Clicker, cool, HTML, html5 games, Hypercasual, iPad, Relaxation, Timing

@@ -21,4 +21,4 @@ lib
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 可爱, 装扮, 有趣, 女孩们, HTML5, 孩子们, 移动设备
+- 标签: 可爱, 装扮, 有趣, 女孩, HTML5, 儿童, 移动设备

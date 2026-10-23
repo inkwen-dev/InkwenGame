@@ -19,6 +19,6 @@ Great racing game with 5 levels and 10 differents supercars. Drive the best vehi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cars, HTML5, Racing, Sports
+- Tags: Cars, HTML5, Racing, sports

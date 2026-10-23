@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 卡通, 经典, 游戏, 幽灵, 万圣节, HTML5, 魔法, 三消, WebGL
+- 标签: 动作, 卡通, 经典, 游戏, 幽灵, 万圣节, HTML5, 魔法, 三消游戏, WebGL

@@ -19,6 +19,6 @@ Candy Burst, an iconic Match 3 puzzle game offering you great gaming experience 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Bubble, Cake, Candy, Casual, HTML5, Hypercasual, Jewel, Match 3, Match3

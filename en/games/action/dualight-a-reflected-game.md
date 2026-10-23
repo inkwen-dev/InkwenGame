@@ -21,4 +21,4 @@ DuaLight is a challenging 2D pixel art hyper-casual platformer. The true path li
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Casual, Logic, Pixel, Platform, Puzzle
+- Tags: 2D, Casual, Logic, pixel, Platform, Puzzle

@@ -21,4 +21,4 @@ Soccer Skills Runner is a fun and fast running game with a soccer theme! As you 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Adventure, Football, HTML5, Jumping, running, Skills, Soccer, subway, Subway Surfers
+- Tags: 3D Games, Action, Adventure, Football, HTML5, jumping, running, Skills, Soccer, subway, Subway Surfers

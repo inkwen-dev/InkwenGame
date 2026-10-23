@@ -21,4 +21,4 @@ Amazing Crime Strange Stickman est un simulateur de ville en vue à la troisièm
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, gta, H5, Racing, Stickman
+- Tags: 3D, Action, gta, H5, Racing, stickman

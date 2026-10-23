@@ -21,4 +21,4 @@ Easter Memory is HTML5 games - Puzzle game and memory games. Match all identical
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kid, Kids, Match3, Memory, Puzzle
+- Tags: Kid, Kids, Match3, memory, Puzzle

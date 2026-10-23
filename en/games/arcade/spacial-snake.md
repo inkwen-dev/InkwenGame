@@ -19,6 +19,6 @@ Eat as many apples as you can. But you must prevent the snake from starving... a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Snake, Space
+- Tags: Arcade, Casual, snake, Space

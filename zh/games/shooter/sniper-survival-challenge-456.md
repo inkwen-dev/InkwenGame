@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D游戏, 新, 射击, 射击, 狙击, Unity3D
+- 标签: 3D游戏, 新游戏, 射击类, 射击, 狙击手, Unity3D

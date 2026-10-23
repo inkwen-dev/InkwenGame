@@ -21,4 +21,4 @@ Before you on the screen you will see the playing field on which the cards will 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Kids, Memory, Mobile, Skill
+- Tags: Fun, HTML5, Kids, memory, Mobile, Skill

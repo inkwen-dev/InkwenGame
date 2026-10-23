@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 最佳, H5, 热门, HTML, HTML5, 超休闲, 消除3, 三消, 匹配, 拼图
+- 标签: 最佳, H5, 热门, HTML, HTML5, 超休闲, 三消, 三消游戏, 匹配, 益智

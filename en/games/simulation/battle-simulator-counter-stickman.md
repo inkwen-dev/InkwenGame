@@ -19,6 +19,6 @@ The stickmen terror forces must be stopped with a tactical strike! You are the b
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Army, Battle, Battlegrounds, CSGO, Killing, Police, Shoot, Shooter, Shooting, Sim, Simulation, Stickman, Unity3D
+- Tags: 3D, Army, battle, Battlegrounds, CSGO, Killing, police, Shoot, Shooter, Shooting, Sim, Simulation, stickman, Unity3D

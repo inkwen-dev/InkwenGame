@@ -21,4 +21,4 @@ Counter Craft Sniper is a first-person shooter where you step into the boots of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, First Person Shooter, Minecraft, Shoot, Shoot 'Em Up, Shooter, Shooting, Sniper, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Action, First Person Shooter, Minecraft, Shoot, Shoot 'Em Up, Shooter, Shooting, sniper, Unity3D

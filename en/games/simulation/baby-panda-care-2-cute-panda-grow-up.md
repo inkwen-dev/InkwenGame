@@ -21,4 +21,4 @@ Baby Panda Care 2 offers a new experience with more interactions and lets you ca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Baby, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: 2D, Baby, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

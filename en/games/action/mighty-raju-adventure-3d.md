@@ -19,6 +19,6 @@ Do you love endless flying & endless runner games? Do you happen to adore Mighty
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, jump, Jumping, run, running, subway, Subway Surfers, Superhero, surfers
+- Tags: 3D, 3D Games, Adventure, jump, jumping, run, running, subway, Subway Surfers, Superhero, surfers

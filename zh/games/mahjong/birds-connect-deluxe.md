@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 小鸟, 有趣, HTML5, 麻将, 匹配, 手机, 解谜
+- 标签: 街机, 小鸟, 有趣, HTML5, mahjong, 匹配, 移动设备, 益智

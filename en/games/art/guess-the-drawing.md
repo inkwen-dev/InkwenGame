@@ -19,6 +19,6 @@ This is a casual puzzle game where you draw and I guess. Maybe youve played a ga
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Drawing
+- Tags: drawing

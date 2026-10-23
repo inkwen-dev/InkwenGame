@@ -21,4 +21,4 @@ Talking Tom Math Test Challenge is an online game that you can play for free. Th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boys, Cat, Celebrity, Educational, Fun, Girls, HTML5, Kids, Math, School, Skill
+- Tags: Android, Boys, Cat, Celebrity, educational, Fun, Girls, HTML5, Kids, math, School, Skill

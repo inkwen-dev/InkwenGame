@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动物, 休闲, 教育, 家庭, 免费HTML5游戏，适用于您的网站, HTML, iPhone, 儿童, 孩子们, mapi games
+- 标签: 动物, 休闲, 教育, 家庭, 免费HTML5游戏供您的网站使用, HTML, iPhone, 儿童, 儿童, mapi games

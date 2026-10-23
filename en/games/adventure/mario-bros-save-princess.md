@@ -21,4 +21,4 @@ The princess was caught by the monster. The evil monster tied the princess. Come
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Adventure, Mario
+- Tags: 2 Player, 2 Player Games, Adventure, mario

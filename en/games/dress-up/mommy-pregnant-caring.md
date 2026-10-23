@@ -21,4 +21,4 @@ Sofia is pregnant. Today she is the only one at home, but she makes an appointme
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cook, Cooking, Doctor, Dress Up, Girl, Girls, Kids, Makeover, Simulation, Surgery
+- Tags: Cook, Cooking, Doctor, Dress Up, Girl, Girls, Kids, Makeover, Simulation, surgery

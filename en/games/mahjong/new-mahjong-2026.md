@@ -21,4 +21,4 @@ A modern and captivating interpretation of the classic Eastern puzzle. Immerse y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Board, Brain, Casual, free html5 games for your website, HTML5, Logic, Mahjong, Matching, Skill
+- Tags: 1 Player, Board, Brain, Casual, free html5 games for your website, HTML5, Logic, mahjong, Matching, Skill

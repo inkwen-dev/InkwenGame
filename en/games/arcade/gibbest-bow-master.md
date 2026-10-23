@@ -19,6 +19,6 @@ Are you ready to save people from scaffolds as a master archer? Aim for the rope
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bow, Castle, Mind, War

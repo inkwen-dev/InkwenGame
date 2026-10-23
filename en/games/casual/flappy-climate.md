@@ -19,6 +19,6 @@ The game is Flappy weather, you can play the flappy bird liked games , so this g
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Casual, Clicker

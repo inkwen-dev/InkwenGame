@@ -15,6 +15,6 @@ Guide a cheeky bird through a whimsical aerial adventure. Tap to flap and naviga
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Helicopter
+- Tags: helicopter

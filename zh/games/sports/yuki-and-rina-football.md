@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 大脑, 竞速, 足球, 体育
+- 标签: 大脑, 比赛, 足球, 运动

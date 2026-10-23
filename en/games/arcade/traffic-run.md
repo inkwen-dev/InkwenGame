@@ -19,6 +19,6 @@ Control the traffic and help the cars pass without crashing. Score when a car go
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Cars, run, Skills, Traffic

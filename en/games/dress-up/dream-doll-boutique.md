@@ -19,6 +19,6 @@ There is a new doll shop opened in the town, it is a big house, full of dreamy a
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Cute, Decorate, Design, Dress Up, Fashion, Girl, Girls, Kids, Simulation

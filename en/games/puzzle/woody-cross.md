@@ -19,6 +19,6 @@ Woody Cross is an excellent way to loosen up and relax your mind. Find as many h
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Best, Brain, Word
+- Tags: 1 Player, Best, Brain, word

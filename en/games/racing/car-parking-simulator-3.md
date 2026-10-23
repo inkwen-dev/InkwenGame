@@ -21,4 +21,4 @@ Car Parking Simulator is a driving challenge game you wont be able to put down! 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Driving, Parking, realistic
+- Tags: Car, Driving, parking, realistic

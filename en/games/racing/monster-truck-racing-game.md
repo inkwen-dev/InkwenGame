@@ -19,6 +19,6 @@ Get ready for the most thrilling adventure in the world of monster truck games! 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, city, Driving, Monster, monstertruck, Race, Racing
+- Tags: Car, city, Driving, monster, monstertruck, Race, Racing

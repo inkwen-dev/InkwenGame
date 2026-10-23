@@ -21,4 +21,4 @@ This is a very interesting and fun battle game, in the game, players need to car
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Battle, Battlegrounds, Blood, Bomb, Boys, Clash, H5
+- Tags: 1 Player, Action, Adventure, battle, Battlegrounds, Blood, Bomb, Boys, Clash, H5

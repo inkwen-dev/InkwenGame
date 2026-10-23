@@ -19,6 +19,6 @@ Help Wagoo Collect all of the Fruits of a certain kind. Simple yet addictive, co
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Block, Brain, Color, Family, Fruit, Fruits, Girls, Matching, Pokemon, Puzzle
+- Tags: Action, block, Brain, Color, Family, Fruit, Fruits, Girls, Matching, Pokemon, Puzzle

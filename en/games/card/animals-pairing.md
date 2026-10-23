@@ -19,6 +19,6 @@ tap the card if two of same are in front of each other. If they are same then wi
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Animal, Card, Clicker, HTML5, Matching, Mobile, Puzzle
+- Tags: Action, Animal, card, Clicker, HTML5, Matching, Mobile, Puzzle

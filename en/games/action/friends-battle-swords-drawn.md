@@ -21,4 +21,4 @@ In the third episode of the Friends Battle series, swords have been drawn, and t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Minecraft, Pixel
+- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Action, Adventure, Arcade, Minecraft, pixel

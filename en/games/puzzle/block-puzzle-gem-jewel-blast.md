@@ -21,4 +21,4 @@ Gem Puzzle - Very good and easy to play puzzle game on DOP5. To play the game , 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bejeweled, Block, Brain, Bricks, Jewel, Logic, Logical, Match 3, Matching, Puzzle, Tetris
+- Tags: Arcade, Bejeweled, block, Brain, Bricks, Jewel, Logic, Logical, Match 3, Matching, Puzzle, tetris

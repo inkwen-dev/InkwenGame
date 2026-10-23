@@ -19,6 +19,6 @@ Complete missions in snowy and fun levels and build your gift train as long as p
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Android, Arcade, Car, Cars, Christmas, New, Racing, Snow, Train

@@ -19,6 +19,6 @@ Are you ready for a pond story? In this story you must save your friend and win 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Monster, Pixel, Platform
+- Tags: 1 Player, 2D, Adventure, Arcade, monster, pixel, Platform

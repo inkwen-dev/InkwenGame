@@ -19,6 +19,6 @@ Pets such as cats and cats love to drink milk. In game The Cat Drink Milk you wi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Best, Casual, Cat, Fun, Funny, Logic, Logical, Mobile, Skill

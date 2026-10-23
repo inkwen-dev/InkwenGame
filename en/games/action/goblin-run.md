@@ -19,6 +19,6 @@ Run with cute green goblin as far as you can in endless runner. Pick bonus gold 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: endless, Game, Gold, HTML5, Platform, run, running

@@ -21,4 +21,4 @@ Parking is an online game that you can play for free. In this fun parking game, 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Boys, Car, Cars, Driving, HTML5, Kids, Parking, Puzzle, Racing, Skill
+- Tags: 1 Player, Action, Boys, Car, Cars, Driving, HTML5, Kids, parking, Puzzle, Racing, Skill

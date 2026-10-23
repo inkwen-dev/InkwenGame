@@ -19,6 +19,6 @@ Dizzy Sushi a fun reflex game to match as many items as you can. this game is a 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Brain, Casual, Cool, Fruit, Fruits, Girl, Girls, Kids, Memory, Puzzle
+- Tags: Boys, Brain, Casual, cool, Fruit, Fruits, Girl, Girls, Kids, memory, Puzzle

@@ -93,4 +93,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 动作, 街机, PVE, 角色扮演, 射击, 生存
+- 标签: 动作, 街机, PVE, rpg, 射击, 生存

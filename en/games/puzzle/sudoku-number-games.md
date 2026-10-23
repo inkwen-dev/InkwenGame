@@ -24,4 +24,4 @@ Inside the playing field there are 9 squares consisting of 3 x 3 cells. Each hor
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Logic, Math, Number, Puzzle, Sudoku
+- Tags: Brain, Logic, math, Number, Puzzle, Sudoku

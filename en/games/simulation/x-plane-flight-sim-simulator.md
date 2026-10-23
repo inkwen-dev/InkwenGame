@@ -21,4 +21,4 @@ Flight Sim is a game where you have to guide aircraft to their landing zones, ke
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Flight, Plane, Sim, Simulation, Simulator
+- Tags: flight, Plane, Sim, Simulation, Simulator

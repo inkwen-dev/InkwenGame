@@ -21,4 +21,4 @@ Tab - 菜单 WASD - 移动和驾驶 F - 获取武器 Enter - 进出车辆 SCROLL
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车, 汽车, 驾驶, 赛车, 射击, 技巧, 武器
+- 标签: 汽车, 汽车, 驾驶, 竞速, 射击, 技巧, 武器

@@ -19,6 +19,6 @@ Strongest Towers Huggy pits players against a relentless onslaught of quirky mon
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Strategy, Unity3D, War, WebGL
+- Tags: 3D, strategy, Unity3D, War, WebGL

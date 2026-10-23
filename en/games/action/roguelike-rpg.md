@@ -21,4 +21,4 @@ Roguelike RPG is an immersive adventure game where players explore ever-changing
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Mentolatux, RPG, Unity3D, WebGL
+- Tags: Action, Mentolatux, rpg, Unity3D, WebGL

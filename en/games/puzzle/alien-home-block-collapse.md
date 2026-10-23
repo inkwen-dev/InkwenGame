@@ -21,4 +21,4 @@ This is a twisted block collapse game with interesting puzzles. In each level yo
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, HTML5, Match 3, Matching, Mobile, Puzzle, Skill
+- Tags: block, HTML5, Match 3, Matching, Mobile, Puzzle, Skill

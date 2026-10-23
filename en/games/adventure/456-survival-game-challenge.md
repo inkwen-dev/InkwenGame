@@ -19,6 +19,6 @@ As a survival game, aviable at zazgames.com. you will play the role of 456 playe
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Halloween, New, Number

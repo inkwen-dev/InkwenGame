@@ -21,4 +21,4 @@ This is a Coloring Book Easter, where he exercise her imagination and motor skil
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Best, Color, Coloring, Easter, Educational, Fun, Funny, Holiday, HTML5, Kids, Mobile, Skill
+- Tags: 1 Player, Best, Color, Coloring, Easter, educational, Fun, Funny, Holiday, HTML5, Kids, Mobile, Skill

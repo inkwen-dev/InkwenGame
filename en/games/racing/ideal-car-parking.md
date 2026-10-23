@@ -19,6 +19,6 @@ We know you are here with a hope to find a game that suits you perfectly. Are yo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Car, Cars, Parking, Racing
+- Tags: Adventure, Car, Cars, parking, Racing

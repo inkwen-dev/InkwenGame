@@ -21,4 +21,4 @@ Welcome to Kids Pet Hotel &ndash; the addictive and delightful mobile game that 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cat, Cute, Educational, Family, Fun, Girls, Grooming, House, HTML5, Kids, Mobile, RPG
+- Tags: Animal, Baby, Cat, Cute, educational, Family, Fun, Girls, Grooming, House, HTML5, Kids, Mobile, rpg

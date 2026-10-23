@@ -21,4 +21,4 @@ Here is a motorcycle racing which is actually a violent motorcycle game with 3D 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Bike, HTML5, Mobile, Racing
+- Tags: 3D, Arcade, bike, HTML5, Mobile, Racing

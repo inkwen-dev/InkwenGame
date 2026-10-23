@@ -19,6 +19,6 @@ In this fun and easy to play the game you are about to be the first fisherman ev
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Fish, Fishing, Girl, Girls, Shoot, Shoot 'Em Up, Shooter, Shooting, Sport, Sports
+- Tags: Boy, Boys, Fish, Fishing, Girl, Girls, Shoot, Shoot 'Em Up, Shooter, Shooting, Sport, sports

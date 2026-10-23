@@ -21,4 +21,4 @@ Tap on green, spike over the block, win the cup! Netherton Volleyball is a quick
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Ball, HTML5, Management, Mobile, NoViolence, Pixel, Retro, Skill, Sport, Sports, Timing
+- Tags: 1 Player, Ball, HTML5, management, Mobile, NoViolence, pixel, retro, Skill, Sport, sports, Timing

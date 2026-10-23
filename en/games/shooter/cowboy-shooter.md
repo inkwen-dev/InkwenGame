@@ -19,6 +19,6 @@ Step into the Wild West and test your aim in this fast-paced cowboy shooting gam
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 3D, 3D Games, Action, Best, Bullet, Decoration, First Person Shooter, free games for your website, Shoot, Shoot 'Em Up, Shooter

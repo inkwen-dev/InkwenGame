@@ -21,4 +21,4 @@ Bullet 3d Overload 是 Laser Overload 和 Laser Overload 2 制作团队推出的
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D 游戏, 动作, 军队, 最佳, 警察
+- 标签: 3D游戏, 动作, 军队, 最佳, 警察

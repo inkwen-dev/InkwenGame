@@ -19,6 +19,6 @@ Pipe Match is a rotating card game where the goal is to connect all pipes to the
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Block, Hypercasual, Pipe, Puzzle
+- Tags: 1 Player, 2D, block, Hypercasual, Pipe, Puzzle

@@ -21,4 +21,4 @@ Hey players, you need to be fast. Collect all the shapes nonstop and help your f
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Pixel, squid, squidgame
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, pixel, squid, squidgame

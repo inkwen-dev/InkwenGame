@@ -21,4 +21,4 @@ It's never too early to start your child's education. Preschoolers, kindergarten
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Brain, Educational, Kid, Kids, Math
+- Tags: 1 Player, Brain, educational, Kid, Kids, math

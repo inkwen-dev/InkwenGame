@@ -19,6 +19,6 @@ Welcome to Super Mario Jump and Run Amazing Arcade adventure game. Run as fast a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Mario, running
+- Tags: Adventure, Arcade, mario, running

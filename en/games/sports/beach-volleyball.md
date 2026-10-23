@@ -21,4 +21,4 @@ When it's too hot, we all go to the beach. We can sunbathe on the beach and have
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Ball, Mobile, Multiplayer, New, Sport, Sports
+- Tags: 2 Player, Ball, Mobile, Multiplayer, New, Sport, sports

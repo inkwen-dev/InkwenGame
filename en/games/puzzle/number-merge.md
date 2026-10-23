@@ -21,4 +21,4 @@ Connect the numbers and don’t run out of moves! Make lines connecting as many 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Block, Casual, Collecting, Highscore, HTML5, Logic, Match 3, Relaxation, Strategy
+- Tags: 1 Player, 2D, block, Casual, Collecting, Highscore, HTML5, Logic, Match 3, Relaxation, strategy

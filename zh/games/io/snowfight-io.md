@@ -21,4 +21,4 @@ SnowFight.io 是一场大规模的雪球大战。加入这场大规模的多人�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 球, 战斗, 雪
+- 标签: .io, .io 游戏, 球, 格斗, 雪花

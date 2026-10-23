@@ -19,6 +19,6 @@ Hippo Car Service Station is a very cute game. Little Hippo opened a car service
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Car, Cleaning, Fun, Girls, HTML5, Kids, Mobile

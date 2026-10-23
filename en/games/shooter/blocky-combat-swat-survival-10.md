@@ -19,6 +19,6 @@ The breathtaking Arena Map is the location for the awesome multiplayer Block Fig
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, HTML5, Mobile, Multiplayer, Shooting, Unity3D, WebGL, Zombie

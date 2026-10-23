@@ -19,6 +19,6 @@ In our game Taxi Parking Challenge, you can practice quickly installing the mach
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Cars, Driving, Fun, HTML5, Mobile, Parking, Skill, Taxi
+- Tags: Best, Cars, Driving, Fun, HTML5, Mobile, parking, Skill, Taxi

@@ -21,4 +21,4 @@ Collect the same cards by simply selecting them on the screen! Train your memory
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Brain, Card, Casual, Collecting, Collection, Cute, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Interactive, Kid, Logic, Logical, Mahjong, Mobile, Puzzle
+- Tags: 1 Player, 2D, Brain, card, Casual, Collecting, Collection, Cute, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Interactive, Kid, Logic, Logical, mahjong, Mobile, Puzzle

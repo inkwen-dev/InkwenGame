@@ -19,6 +19,6 @@ Ready for new race fall boys and guys? Join in our multiplayer Fall Boys Ultimat
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Fun, Funny, jump, Jumping, Multiplayer, Race, run, running, Unity3D, WebGL
+- Tags: Action, Arcade, Fun, Funny, jump, jumping, Multiplayer, Race, run, running, Unity3D, WebGL

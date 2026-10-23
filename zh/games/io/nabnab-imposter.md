@@ -21,4 +21,4 @@ NabNab 伪装者 - 一款超级酷炫、简单又放松的趣味 io 游戏。要
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 单人游戏, 3D, 动作
+- 标签: .io 游戏, 单人, 3D, 动作

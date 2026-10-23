@@ -21,4 +21,4 @@ Heroes vs Monsters: Idle RPG is a clicker where you assemble a team of heroes an
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: idle, Monster, RPG
+- Tags: idle, monster, rpg

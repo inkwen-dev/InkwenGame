@@ -21,4 +21,4 @@ Nightwalkers.io or in short, Nightwalkers, is a free Co-Op browser zombie surviv
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Battle, Battlegrounds, Best, Blood, Bow, Brain, Casual, Clans, Cool, Craft, Crafting, Crazy, Creation, Defense, Design, endless, Fight, Fighting, Fun, Funny, Gun, HTML, HTML5, Kill, Killing, Management, MMO, Multiplayer, Music, Online, RPG, Sandbox, Shoot, Shoot 'Em Up, Shooter, Shooting, Skill, Skills, Slacking, Sniper, Tower Defense, Undead, weapons, WebGL, Zombie
+- Tags: .io, .io Games, Action, battle, Battlegrounds, Best, Blood, Bow, Brain, Casual, Clans, cool, Craft, Crafting, crazy, Creation, Defense, Design, endless, Fight, fighting, Fun, Funny, Gun, HTML, HTML5, Kill, Killing, management, MMO, Multiplayer, music, Online, rpg, Sandbox, Shoot, Shoot 'Em Up, Shooter, Shooting, Skill, Skills, Slacking, sniper, Tower Defense, Undead, weapons, WebGL, Zombie

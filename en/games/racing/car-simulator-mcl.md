@@ -21,4 +21,4 @@ This driving popular super car simulator 3D ensures realistic car damage and acc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Arcade, Car, Cars, drift, drifting, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing
+- Tags: .io, .io Games, Action, Arcade, Car, Cars, drift, drifting, Fun, Funny, Hot, Hypercasual, jump, jumping, Race, Racing

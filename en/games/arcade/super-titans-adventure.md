@@ -19,6 +19,6 @@ Welcome to Teen Ben Titan Jungle Go Adventure Game, the world’s most creative 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Cartoon, Cartoon Network, Games, Movie

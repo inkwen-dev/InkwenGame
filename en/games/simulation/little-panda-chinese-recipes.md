@@ -19,6 +19,6 @@ Little Panda's Chinese Recipes is a very popular cooking game. In this game, you
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cooking, Cute, Food, Fun, Girls, HTML5, Kids, Mobile, Panda

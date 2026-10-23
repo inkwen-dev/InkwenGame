@@ -21,4 +21,4 @@ Are You Ready to create the next Creepy Spooky Monster? Start here!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Boy, Casual, Family, Game, Games, HTML, HTML5, Kid, Kids, Makeover, Monster
+- Tags: 1 Player, 2D, Boy, Casual, Family, Game, Games, HTML, HTML5, Kid, Kids, Makeover, monster

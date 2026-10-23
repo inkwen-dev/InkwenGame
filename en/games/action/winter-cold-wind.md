@@ -21,4 +21,4 @@ More than a thousand years have passed since the last incident; that mysterious 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Battle, Enemies, Enemy, Winter, Wolf
+- Tags: 1 Player, 3D, 3D Games, Action, Adventure, battle, Enemies, Enemy, Winter, Wolf

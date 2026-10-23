@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 桥梁, 休闲, 跑
+- 标签: 桥, 休闲, 跑

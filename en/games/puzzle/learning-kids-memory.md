@@ -21,4 +21,4 @@ This is memory game for learning kids. There is images with learning kids, they 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Kids, Memory, Puzzle
+- Tags: Kids, memory, Puzzle

@@ -15,6 +15,6 @@ Embark on a heartwarming journey to rescue a lost puppy in the rain. Gently nurt
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Animal

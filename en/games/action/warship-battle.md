@@ -19,6 +19,6 @@ Command your own pirate ship, set sail, and embark on a bold voyage! Have you ev
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fighting, Spaceship
+- Tags: fighting, Spaceship

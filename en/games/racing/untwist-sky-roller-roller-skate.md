@@ -19,6 +19,6 @@ Want to have fun by exploring in to sky with rolling in sky roller games? If you
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Casino, Casual, Fun, Funny, Hot, Hypercasual, Interactive, jump, Jumping, Race, Racing, run, running, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Casino, Casual, Fun, Funny, Hot, Hypercasual, Interactive, jump, jumping, Race, Racing, run, running, Unity3D

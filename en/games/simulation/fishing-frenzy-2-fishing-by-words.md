@@ -21,4 +21,4 @@ Fishing the fish by word. this is a learning game for a kids.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fishing, Fun, Funny, Kids, Word
+- Tags: Fishing, Fun, Funny, Kids, word

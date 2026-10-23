@@ -21,4 +21,4 @@ Samurai run is a running game in which you have to get as far as possible with y
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Boys, Ninja, running, Samurai
+- Tags: 1 Player, Arcade, Boys, ninja, running, Samurai

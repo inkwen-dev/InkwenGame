@@ -21,4 +21,4 @@ ChromaPath 是一款儿童游戏，应被视为一个谜题和挑战。你需要
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 涂色, 益智
+- 标签: 颜色, 益智

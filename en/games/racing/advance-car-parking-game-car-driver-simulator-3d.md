@@ -19,6 +19,6 @@ Car Parking 2020 let you choose control's for Driving Modern Police parking. Mas
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Adventure, Arcade, Car, Cars, Educational, Mobile, Parking, Race, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D
+- Tags: 3D Games, Action, Adventure, Arcade, Car, Cars, educational, Mobile, parking, Race, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D

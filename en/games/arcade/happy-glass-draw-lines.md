@@ -19,6 +19,6 @@ Draw something with lines so that the glass fills with water. Your task is to dr
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, build, Casual, Crazy, free games for your website, free html5 games for your website, Puzzle, Unity3D, WebGL
+- Tags: 1 Player, 2D, Arcade, build, Casual, crazy, free games for your website, free html5 games for your website, Puzzle, Unity3D, WebGL

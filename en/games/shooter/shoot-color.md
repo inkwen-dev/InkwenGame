@@ -19,6 +19,6 @@ Shooting Color Game on Lagged Shoot the colors to complete each level in this fu
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Color, Coloring, Online, Shoot, Skill, WebGL

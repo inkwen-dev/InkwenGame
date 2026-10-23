@@ -21,4 +21,4 @@ Cloudline Connect is a relaxing yet challenging puzzle game set among floating p
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Adventure, Best Games, Block, Crazy, Hypercasual, Puzzle
+- Tags: 1 Player, 2026 games, Adventure, Best Games, block, crazy, Hypercasual, Puzzle

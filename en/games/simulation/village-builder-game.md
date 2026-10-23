@@ -19,6 +19,6 @@ Village Builder is a strategy game where your objective is to build a settlement
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Friv, Management, Simulation, Strategy
+- Tags: 3D, Friv, management, Simulation, strategy

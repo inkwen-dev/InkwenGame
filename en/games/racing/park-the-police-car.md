@@ -19,6 +19,6 @@ Drive a police car and park it into marked parking spot. Park the car quickly to
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Car, Driving, HTML5, Mobile, Parking, Police
+- Tags: 1 Player, 2D, Android, Car, Driving, HTML5, Mobile, parking, police

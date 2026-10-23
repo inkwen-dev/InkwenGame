@@ -19,6 +19,6 @@ n car games, 3d Car Parking Free Games Simulator is the highest. If you're tired
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Arcade, Best, Car, Cars, drift, drifting, Driving, Game, Games, Hypercasual, jump, Jumping, Supercars
+- Tags: 3D Games, Arcade, Best, Car, Cars, drift, drifting, Driving, Game, Games, Hypercasual, jump, jumping, Supercars

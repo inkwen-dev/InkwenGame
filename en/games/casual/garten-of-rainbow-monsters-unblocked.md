@@ -21,4 +21,4 @@ Welcome to the enchanting world of Garten of Rainbow Monsters Unblocked! This ca
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, HTML5, Hypercasual, iPad, iPhone, Mentolatux, Mobile, Monster, Unity3D, WebGL
+- Tags: Android, HTML5, Hypercasual, iPad, iPhone, Mentolatux, Mobile, monster, Unity3D, WebGL

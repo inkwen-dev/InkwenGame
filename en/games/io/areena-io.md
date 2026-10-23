@@ -21,4 +21,4 @@ An action-packed arena fighter! Complete quests, buy awesome upgrades, and defea
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2D, Action, Adventure, HTML5, Pixel, World
+- Tags: .io, .io Games, 1 Player, 2D, Action, Adventure, HTML5, pixel, World

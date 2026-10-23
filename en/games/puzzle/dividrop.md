@@ -15,6 +15,6 @@ Dive into DiviDrop's strategic thrill! Toss numbers onto a dynamic 3x3 grid wher
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Puzzle

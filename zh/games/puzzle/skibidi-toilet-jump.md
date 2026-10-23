@@ -21,4 +21,4 @@ Skibidi马桶正在享受在泳池中游泳。你的任务是左右移动马桶�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 最佳, Skibidi马桶
+- 标签: 最佳, skibidi-toilet

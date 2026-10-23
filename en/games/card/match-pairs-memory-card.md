@@ -21,4 +21,4 @@ Match Pair: Memory Card Game takes the classic concentration game to the next le
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, 2D, Adventure, Arcade, Brain, Card, Matching, Memory, Puzzle, Strategy
+- Tags: 1 Player, 2025 games, 2D, Adventure, Arcade, Brain, card, Matching, memory, Puzzle, strategy

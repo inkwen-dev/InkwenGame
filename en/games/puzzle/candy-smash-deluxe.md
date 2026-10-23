@@ -21,4 +21,4 @@ Slide the blocks towards another identical block to eliminate both. Use as least
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Candy, Clicker, HTML5, Matching, Mobile, Puzzle
+- Tags: block, Candy, Clicker, HTML5, Matching, Mobile, Puzzle

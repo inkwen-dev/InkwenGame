@@ -19,6 +19,6 @@ Advance Car Parking Game and Car Driving Simulator is the latest car drive parki
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Best, Car, Cars, Collection, Creation, Decoration, drift, drifting, Driving, Educational, Hypercasual, Supercars, Unity3D
+- Tags: .io, .io Games, 3D, 3D Games, Action, Best, Car, Cars, Collection, Creation, Decoration, drift, drifting, Driving, educational, Hypercasual, Supercars, Unity3D

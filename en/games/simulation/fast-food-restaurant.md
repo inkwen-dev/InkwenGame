@@ -21,4 +21,4 @@ Fast Food Restaurant is Cooking Tycoon and an easy to use and learn time managem
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cooking, Food, Kid, Kids, Restaurant
+- Tags: Cooking, Food, Kid, Kids, restaurant

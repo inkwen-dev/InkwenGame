@@ -21,4 +21,4 @@ SCARS 是一款快节奏的 2D 雅达利风格赛车游戏，注重即时行动�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: AI游戏, 赛车, mapi games, 竞速, 竞速, 体育, 超级跑车
+- 标签: AI游戏, 汽车, mapi games, 比赛, 竞速, 体育, 超跑

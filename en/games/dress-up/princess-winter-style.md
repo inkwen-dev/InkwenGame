@@ -19,6 +19,6 @@ The princess want to get out in the winter, but are in dilemma in choosing the b
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cartoon, Disney, Elsa, Fashion, Games, Girls, Ice, Princess, Winter

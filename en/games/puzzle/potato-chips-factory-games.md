@@ -19,6 +19,6 @@ Potato chips food factory game will let you learn the whole process of potato ch
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Girls, Hypercasual, Puzzle

@@ -21,4 +21,4 @@ Race or run rich it's new life simulation game, the run rich game teaching you h
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D Games, Adventure, Arcade, Baby, Baby Hazel, Batman, Best, Bubble Shooter, Casual, Game, Games, Girl, Girls, Hypercasual, Online, PacMan, Shooting, Spiderman, Stickman, Subway Surfers, Unity3D
+- Tags: .io Games, 3D Games, Adventure, Arcade, Baby, Baby Hazel, Batman, Best, Bubble Shooter, Casual, Game, Games, Girl, Girls, Hypercasual, Online, PacMan, Shooting, Spiderman, stickman, Subway Surfers, Unity3D

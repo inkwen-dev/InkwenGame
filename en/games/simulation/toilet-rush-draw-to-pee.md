@@ -21,4 +21,4 @@ Monsters climbed into the toilet: what to do? Help and save Wednesday from monst
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Draw, Funny, Monster, Simulator
+- Tags: 1 Player, 2D, Arcade, Draw, Funny, monster, Simulator

@@ -21,4 +21,4 @@ Angry Birds Classic take your chances in the Star Cup as you go head-to-head aga
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, jump, Jumping
+- Tags: Adventure, Arcade, jump, jumping

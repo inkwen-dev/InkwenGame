@@ -21,4 +21,4 @@ Step into the world of law enforcement with the Police Game. The Ultimate Cop Si
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, drifting, Driving, Parking, Police, Simulation
+- Tags: Car, drifting, Driving, parking, police, Simulation

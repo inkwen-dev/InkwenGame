@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2人游戏, 动物, 鱼, 乐趣, HTML5, 儿童, 技巧
+- 标签: 双人游戏, 动物, 鱼, 有趣, HTML5, 儿童, 技巧

@@ -21,4 +21,4 @@ Step into a charming miniature world where parking is more than a task&mdash;its
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, Car, carparking, Casual, Parking, Puzzle
+- Tags: 1 Player, 2025 games, Car, carparking, Casual, parking, Puzzle

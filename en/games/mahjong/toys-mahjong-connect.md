@@ -21,4 +21,4 @@ Toys Mahjong Connect is a classic puzzle game, inspired by popular Chinese tile 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Casual, Clicker, Fun, HTML5, Kids, Mahjong, Matching, Mobile, Puzzle
+- Tags: Board, Casual, Clicker, Fun, HTML5, Kids, mahjong, Matching, Mobile, Puzzle

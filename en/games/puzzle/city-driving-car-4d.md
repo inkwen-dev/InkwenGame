@@ -19,6 +19,6 @@ Brand New Game from Producers of Bus Simulator and Truck Simulator 2017. City Dr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Adult, Adventure, Army, Ball, Ballon, Barbie, Board, Bubble, Bubble Shooter, bus, Candy, Car, Cars, Christmas, drift, drifting, Driving, Moto, Motorcycle, Simulation, Simulator, Spiderman, Supercars, Truck
+- Tags: 8 Ball Pool, Adult, Adventure, Army, Ball, Ballon, Barbie, Board, Bubble, Bubble Shooter, bus, Candy, Car, Cars, Christmas, drift, drifting, Driving, Moto, Motorcycle, Simulation, Simulator, Spiderman, Supercars, truck

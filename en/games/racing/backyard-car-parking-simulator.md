@@ -19,6 +19,6 @@ Keyboard Controls
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Arcade, Car, Cars, Games, Hypercasual, jump, Jumping, Parking, Simulation, Simulator, Stunts, Supercars, Unity3D
+- Tags: 3D, 3D Games, Adventure, Arcade, Car, Cars, Games, Hypercasual, jump, jumping, parking, Simulation, Simulator, Stunts, Supercars, Unity3D

@@ -21,4 +21,4 @@ Just Draw is an interesting educational painting game. It is very useful to open
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Anime, Boy, Boys, Brain, Draw, Educational, Girls, H5, HTML5, Kids, Logic, Logical, Puzzle
+- Tags: 2D, Animal, Anime, Boy, Boys, Brain, Draw, educational, Girls, H5, HTML5, Kids, Logic, Logical, Puzzle

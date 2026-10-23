@@ -21,4 +21,4 @@ as python snake, kill all skibidi toilet at backroom. Fight all skibidi toilet a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Physics, Simulation, Skibidi, Skibidi Toilet
+- Tags: Physics, Simulation, Skibidi, skibidi-toilet

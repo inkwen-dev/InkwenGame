@@ -15,6 +15,6 @@ Embark on a legendary quest to prove your worthiness by pulling Excalibur from t
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Sword
+- Tags: sword

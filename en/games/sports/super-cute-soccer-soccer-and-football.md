@@ -19,6 +19,6 @@ Best soccer game. More than 20 enemies with different abilities and fun game mod
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Cute, Football, Fun, Funny, Soccer, Sport, Sports
+- Tags: Action, Cute, Football, Fun, Funny, Soccer, Sport, sports

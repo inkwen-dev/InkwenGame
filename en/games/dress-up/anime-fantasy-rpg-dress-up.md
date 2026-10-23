@@ -21,4 +21,4 @@ Do you like manga or anime girl dress up games? Sure you do! And what's you've r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Dress Up, Fantasy, Girl, Girls, HTML5, Kids, Mobile, RPG
+- Tags: Anime, Dress Up, Fantasy, Girl, Girls, HTML5, Kids, Mobile, rpg

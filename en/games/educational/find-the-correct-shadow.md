@@ -19,6 +19,6 @@ Find The Correct Shadow is a fun and educational puzzle game designed to challen
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Difference, Educational
+- Tags: Difference, educational

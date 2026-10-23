@@ -21,4 +21,4 @@ Color & Paint By Number With Hello Kitty is filled with fun, colorful, and creat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Color, Coloring, Creation, Draw, Drawing, Educational, Girl, Girls, H5, Hello Kitty, HTML5
+- Tags: Color, Coloring, Creation, Draw, drawing, educational, Girl, Girls, H5, Hello Kitty, HTML5

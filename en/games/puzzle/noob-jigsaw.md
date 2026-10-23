@@ -19,6 +19,6 @@ Noob Jigsaw is a minecraft jigsaw puzzle game. You can select one of the nine im
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Best, Craft, Fun, Funny, HTML5, Kids, Minecraft, Mobile, Pixel, Skill
+- Tags: Adventure, Best, Craft, Fun, Funny, HTML5, Kids, Minecraft, Mobile, pixel, Skill

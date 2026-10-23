@@ -21,4 +21,4 @@ Collapse the blocks by clicking groups of horizontally or vertically connected s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, HTML5, Matching, Mobile, Puzzle
+- Tags: block, HTML5, Matching, Mobile, Puzzle

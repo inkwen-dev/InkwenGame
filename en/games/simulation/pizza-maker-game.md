@@ -19,6 +19,6 @@ Masha Pizza Maker Game is the ideal fast food cooking game in which you can make
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Air, Android, Anime, Baby, Baby Hazel, Barbie, Best, Boys, Cook, Cooking, Family, Girls, Hello Kitty, Hot

@@ -21,4 +21,4 @@ The game Pandorium Blocks is a variation of the good old Tetris with its own rul
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Block, Game, Games, Logic, Logical, Tetris
+- Tags: Android, block, Game, Games, Logic, Logical, tetris

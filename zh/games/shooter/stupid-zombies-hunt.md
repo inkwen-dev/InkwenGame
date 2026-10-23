@@ -21,4 +21,4 @@ WASD - 移动 滚轮 - 更换武器 F - 使用 Shift - 跑步 G - 下一把武�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 动作, 枪械, HTML5, 射击, WebGL, 僵尸
+- 标签: 3D, 动作, 枪械, HTML5, 射击类, WebGL, 僵尸

@@ -19,6 +19,6 @@ Plow Jeep Simulator is a 3D simulation game where you need to remove ice and sno
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Driving, Snow, Unity3D, WebGL

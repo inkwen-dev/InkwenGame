@@ -21,4 +21,4 @@ Aqua Link is a fun to play block connect game. You need to connect two identical
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Fish, HTML5, Mahjong, Matching, Mobile, Puzzle
+- Tags: Arcade, block, Fish, HTML5, mahjong, Matching, Mobile, Puzzle

@@ -19,6 +19,6 @@ In the Pizza Time game, Michelangelo needs your help in making delicious pizzas 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Cook, Cooking, H5, Hot, HTML5, New, Ninja, Ninjago
+- Tags: Arcade, Best, Cook, Cooking, H5, Hot, HTML5, New, ninja, Ninjago

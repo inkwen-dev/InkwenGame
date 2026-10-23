@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 单人游戏, 3D, 动作, 冒险, 冲突, 跳跃, 比赛, 放松, 特技, Unity3D
+- 标签: .io, .io 游戏, 单人, 3D, 动作, 冒险, 冲突, 跳跃, 比赛, 放松, 特技, Unity3D

@@ -21,4 +21,4 @@ Hey! Hey! Look what`s coming in my town. A fast food shop is here with loads of 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, 8 Ball Pool, Bubble, Bubble Shooter, Burger, Candy, Casual, Fish, Fishing, Food, Game, Games, Girl, Girls, Hypercasual, Memory, Motorcycle, subway
+- Tags: 3D Games, 8 Ball Pool, Bubble, Bubble Shooter, Burger, Candy, Casual, Fish, Fishing, Food, Game, Games, Girl, Girls, Hypercasual, memory, Motorcycle, subway

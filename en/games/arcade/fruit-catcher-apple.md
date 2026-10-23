@@ -19,6 +19,6 @@ Fruit Catcher is a fast-paced, colorful arcade game where your goal is simple &n
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Cartoon, Casual, catcher, Fruit, Fruits, Relaxation

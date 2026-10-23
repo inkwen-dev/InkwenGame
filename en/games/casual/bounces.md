@@ -15,6 +15,6 @@ Bounces delivers vibrant, addictive fun as you master the art of timed jumps to 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Multiplayer

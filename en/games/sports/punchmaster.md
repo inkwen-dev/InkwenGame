@@ -21,4 +21,4 @@ Punch Master is a thrilling action boxing game where you play as a fighter unlea
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Battle, Boxing, Fighting
+- Tags: Avoid, battle, Boxing, fighting

@@ -21,4 +21,4 @@ Jump and Goal is a puzzle game. The ball is released from the organ and you are 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Ball, jump, Jumping, Obstacle, Skill
+- Tags: Avoid, Ball, jump, jumping, Obstacle, Skill

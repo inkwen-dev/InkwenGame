@@ -19,6 +19,6 @@ Head Sport Basketball is a fun basketball game with amazing graphics and challen
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Ball, Basketball, Mobile, Sport, Sports, WebGL
+- Tags: 2D, Arcade, Ball, basketball, Mobile, Sport, sports, WebGL

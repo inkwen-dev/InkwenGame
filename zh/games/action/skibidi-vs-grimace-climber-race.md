@@ -21,4 +21,4 @@ Skibidi 与 Grimace 攀爬赛承诺带来一场惊心动魄的对决，两位勇
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 安卓, Grimace, Grimace Shake, HTML5, iPad, iPhone, Mentolatux, 移动, 竞速, 斯基比迪, 斯基比迪马桶, Unity3D
+- 标签: 动作, 安卓, 格里马斯, 格里马斯奶昔, HTML5, iPad, iPhone, Mentolatux, 移动设备, 比赛, Skibidi, skibidi-toilet, Unity3D

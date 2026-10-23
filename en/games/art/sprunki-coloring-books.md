@@ -19,6 +19,6 @@ Dive into a colorful adventure with Sprunki Coloring Book, a delightful game des
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Color, Coloring, Drawing, Educational, Girls, School, Sprunki
+- Tags: Boys, Color, Coloring, drawing, educational, Girls, School, Sprunki

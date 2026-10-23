@@ -19,6 +19,6 @@ Pac Ring Adventure Pro is a thrilling twist on the classic Pacman experience! Na
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Casual, PacMan, Warrior

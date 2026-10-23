@@ -19,6 +19,6 @@ Mustang gt driving game played by collecting money on 3 different roads is one o
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Arcade, Best, Car, Cars, Supercars

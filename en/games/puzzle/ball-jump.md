@@ -21,4 +21,4 @@ Ball Jump is ball game where you need to control ball by clicking on the screen 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Jumping, Puzzle
+- Tags: Ball, jumping, Puzzle

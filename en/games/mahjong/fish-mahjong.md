@@ -19,6 +19,6 @@ Simplified classic Mahjong game with Ocean and Fish theme. You can eliminate pai
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Clicker, Fish, HTML5, Mahjong, Matching, Mobile, Puzzle
+- Tags: block, Clicker, Fish, HTML5, mahjong, Matching, Mobile, Puzzle

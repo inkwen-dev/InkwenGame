@@ -21,4 +21,4 @@ Draw a road is an addictive physics puzzle where you draw the road for a car to 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, Brain, Bridge, Car, Casual, Draw, Drawing, Kids, Levels, Physics, Puzzle, Racing, Road
+- Tags: 1 Player, 2025 games, Brain, Bridge, Car, Casual, Draw, drawing, Kids, Levels, Physics, Puzzle, Racing, Road

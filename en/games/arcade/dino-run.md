@@ -19,6 +19,6 @@ Run away from birds and jump away from cactus! Take control of a Dino fighting f
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, HTML5, Jumping, Kids, Mobile, Puzzle, run
+- Tags: Adventure, Arcade, HTML5, jumping, Kids, Mobile, Puzzle, run

@@ -19,6 +19,6 @@ Tray to count the number of carts before your time is run out! How accurate you 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Fun, HTML5, Kids, Mobile, Puzzle
+- Tags: card, Fun, HTML5, Kids, Mobile, Puzzle

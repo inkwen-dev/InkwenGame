@@ -15,6 +15,6 @@ Leap upwards in Cave Escape, guiding Rudy to freedom. Dodge unpredictable fallin
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Adventure

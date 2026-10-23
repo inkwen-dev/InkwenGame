@@ -19,6 +19,6 @@ Dash Hero is a casual game where you become a courageous hero on a quest to resc
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Mouse, Physics, Platform, Princess, Superhero, Unity3D

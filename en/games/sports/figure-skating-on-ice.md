@@ -35,4 +35,4 @@ Your dance is the most beautiful, and you are the best figure skater in the worl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: easy, Fashion, Sports
+- Tags: easy, Fashion, sports

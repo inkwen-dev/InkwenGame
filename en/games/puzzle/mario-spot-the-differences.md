@@ -19,6 +19,6 @@ Look at these pictures from the New Super Mario Bros. You need to find everythin
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Boys, Difference, Girls, HTML5, Kids, Mario
+- Tags: Android, Boys, Difference, Girls, HTML5, Kids, mario

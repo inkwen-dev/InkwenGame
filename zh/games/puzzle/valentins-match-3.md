@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 机械, 三消, 消除3
+- 标签: 机器, 三消, 三消游戏

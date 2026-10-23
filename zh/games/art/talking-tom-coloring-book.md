@@ -21,4 +21,4 @@ Talking Tom 涂色是一款适合所有年龄段的有趣在线游戏，我们�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Android, 男孩, 涂色, 女孩们, HTML5, 孩子们, 学校
+- 标签: 安卓, 男孩们, 着色, 女孩, HTML5, 儿童, 学校

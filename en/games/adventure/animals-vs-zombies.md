@@ -35,4 +35,4 @@ A vast game world! Explore diverse locations full of secrets and new animals to 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, Boys, cats, Monster, pve, story, Zombie
+- Tags: animals, Boys, cats, monster, pve, story, Zombie

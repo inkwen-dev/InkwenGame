@@ -21,4 +21,4 @@ Step into a prehistoric wilderness where giant beasts rule the land! Master surv
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Fighting, Mario, Unity3D, WebGL
+- Tags: Adventure, Arcade, fighting, mario, Unity3D, WebGL

@@ -21,4 +21,4 @@ Make precise jumps while avoiding certain death. Guide a brave ninja to his goal
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Arcade, jump, Jumping, Ninja, Pixel, running
+- Tags: 1 Player, Adventure, Arcade, jump, jumping, ninja, pixel, running

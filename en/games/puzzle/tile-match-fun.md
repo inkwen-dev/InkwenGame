@@ -19,6 +19,6 @@ Tile Match Fun is a very fun and classic game for free. This online game is spec
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boy, Brain, Fun, HTML5, Kid, Match 3, Matching, Mobile, Online, Puzzle

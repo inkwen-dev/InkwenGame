@@ -21,4 +21,4 @@ In this Construction Vehicles Jigsaw game you have 6 images of construction vehi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, HTML5, Jigsaw, Mobile, Puzzle, Truck
+- Tags: Brain, HTML5, Jigsaw, Mobile, Puzzle, truck

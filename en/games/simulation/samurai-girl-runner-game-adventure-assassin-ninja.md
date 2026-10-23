@@ -19,6 +19,6 @@ Samurai Girl Runner Game Adventure- Assassin Ninja. Now choose your woman Runner
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D Games, Adventure, Arcade, Best, Boy, Boys, Cartoon, Cartoon Network, Games, Girl, Girls, Hot, Ninja, Ninjago, run, running, Samurai, Simulation, Simulator
+- Tags: .io Games, 3D Games, Adventure, Arcade, Best, Boy, Boys, Cartoon, Cartoon Network, Games, Girl, Girls, Hot, ninja, Ninjago, run, running, Samurai, Simulation, Simulator

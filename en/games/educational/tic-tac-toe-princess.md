@@ -21,4 +21,4 @@ You may have played many Tic-Tac-Toe games by now. But you haven't played this c
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Educational, Girl, Princess
+- Tags: Brain, educational, Girl, Princess

@@ -21,4 +21,4 @@ Moji Emoji is a fun and clever word/emoji puzzle game where each level challenge
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Puzzle, Word
+- Tags: Puzzle, word

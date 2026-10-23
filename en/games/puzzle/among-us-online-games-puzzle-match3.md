@@ -19,6 +19,6 @@ Among Us Online Games Puzzle Match3 is a match-3 type game. Play best game onlin
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Frozen, Jigsaw, Match 3, Match3, Puzzle

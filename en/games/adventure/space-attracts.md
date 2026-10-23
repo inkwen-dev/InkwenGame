@@ -19,6 +19,6 @@ Space Attracts is an online jump adventure game that challenges your skills and 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Alien, Game, Games, HTML5, jump, Jumping, Obstacle, Space, Spaceship
+- Tags: Action, Adventure, Alien, Game, Games, HTML5, jump, jumping, Obstacle, Space, Spaceship

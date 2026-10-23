@@ -19,6 +19,6 @@ Do you love Supermarket Cleaning Games, House Cleanup, and Grocery Store Games? 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cleaning, Cute, Decorate, Design, Educational, Girl, Girls, Kids, Simulation
+- Tags: Cleaning, Cute, Decorate, Design, educational, Girl, Girls, Kids, Simulation

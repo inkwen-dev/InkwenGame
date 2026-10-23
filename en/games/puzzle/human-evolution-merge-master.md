@@ -19,6 +19,6 @@ Human Evolution Merge Master is not only a merger puzzle game but also a cool st
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fighting, Kids, Mobile, weapons
+- Tags: fighting, Kids, Mobile, weapons

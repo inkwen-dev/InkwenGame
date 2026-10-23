@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 避开, 休闲, Food, 搞笑, 女孩, Girls, HTML5, Kids, WebGL
+- 标签: 躲避, 休闲, 食物, 搞笑, 女孩, 女孩, HTML5, 儿童, WebGL

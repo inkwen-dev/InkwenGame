@@ -19,6 +19,6 @@ Play the hurricane-pounding Brainrot Shooter! Its tons of fun, tons of guns, and
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Army, attack, Brainrot, Brainrot Italian, Brainrot sahuuur, First Person Shooter, fps, Italian Brainrot, Shooter, Shooting, Tralalero Tralala, Tung Tung Tung Sahur

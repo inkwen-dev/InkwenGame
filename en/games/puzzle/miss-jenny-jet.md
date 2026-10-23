@@ -21,4 +21,4 @@ This time Miss Jenny has jet wit her and she need to pass all obstacles without 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Flight, Puzzle
+- Tags: Avoid, flight, Puzzle

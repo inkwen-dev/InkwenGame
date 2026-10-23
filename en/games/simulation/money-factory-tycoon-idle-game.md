@@ -26,4 +26,4 @@ Is a fast-paced clicker game with strategic elements where you build and expand 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, idle, Management, tycoon
+- Tags: Clicker, idle, management, tycoon

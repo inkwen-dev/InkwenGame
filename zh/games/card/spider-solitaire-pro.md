@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 卡片, 游戏, 游戏, HTML, HTML5, 手机, 在线, 接龙
+- 标签: 单人, 卡牌, 游戏, 网页游戏, HTML, HTML5, 移动设备, 在线, 纸牌游戏

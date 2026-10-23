@@ -21,4 +21,4 @@ In the game Ragdoll Fall Down you will find yourself in a world where the painte
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Best, Crazy, Funny, Gun, Obstacle, Physics, Shoot, Shooting, Skill
+- Tags: 1 Player, Best, crazy, Funny, Gun, Obstacle, Physics, Shoot, Shooting, Skill

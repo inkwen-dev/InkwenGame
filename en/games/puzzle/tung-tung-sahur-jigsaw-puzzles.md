@@ -15,6 +15,6 @@ Join Tung Tung Sahur and friends on a vibrant puzzle journey! Perfect for kids, 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: jigsaw-puzzles

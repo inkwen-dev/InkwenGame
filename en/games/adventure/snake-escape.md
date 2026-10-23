@@ -21,4 +21,4 @@ Classic snake game with furious puzzle
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Puzzle, Snake
+- Tags: Puzzle, snake

@@ -15,6 +15,6 @@ Dive into Smile Crazy Pong's vibrant world where smiling balls test your reflexe
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
 - Tags: Fun

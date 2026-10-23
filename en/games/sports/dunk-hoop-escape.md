@@ -21,4 +21,4 @@ Basketball fan? exciting ball game for hypercasual games lovers spent times play
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Ball, Basketball, Escape, HTML
+- Tags: 1 Player, 2D, Ball, basketball, Escape, HTML

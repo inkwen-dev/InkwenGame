@@ -19,6 +19,6 @@ Barbie drives home at night. Suddenly, she has a car accident. She’s dangerous
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Barbie, Cartoon, Doctor, Dress Up, Educational, Girl, Girls, H5, Kids, Simulation, Surgery
+- Tags: Barbie, Cartoon, Doctor, Dress Up, educational, Girl, Girls, H5, Kids, Simulation, surgery

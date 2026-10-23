@@ -19,6 +19,6 @@ Ben 10 Gold Digger.Enjoy the wonderful world of ben10, ben 10 games, ben 10 omni
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Ben 10, Funny, Skill

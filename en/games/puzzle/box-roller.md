@@ -21,4 +21,4 @@ Box Roller is an exciting puzzle game where you control a wooden box rolling thr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, Brain, Casual, Logic, Puzzle
+- Tags: block, Brain, Casual, Logic, Puzzle

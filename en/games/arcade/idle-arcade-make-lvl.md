@@ -21,4 +21,4 @@ IDLE ARCADE - MAKE LVL a game in which you create levels and earn on it. Just do
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Block, Creation, endless, Fun, Game, Sandbox
+- Tags: 1 Player, 2D, block, Creation, endless, Fun, Game, Sandbox

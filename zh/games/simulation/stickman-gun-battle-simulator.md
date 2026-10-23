@@ -21,4 +21,4 @@ Stickman枪战模拟器是一款有趣的Stickman塔防游戏。Stickman世界�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 外星人, 战斗, 休闲, 幻想, 格斗, 射击, 模拟, 模拟, 棍子人, 策略, Unity3D, 暴力
+- 标签: 外星人, 战斗, 休闲, 幻想, 格斗, 射击, 模拟, 模拟, 木偶人, 策略, Unity3D, 暴力

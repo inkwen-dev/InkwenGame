@@ -21,4 +21,4 @@ Your girl was taken away by robbers and locked in a cage. You need to use your w
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Family, Match-3, Puzzle, Superhero
+- Tags: Family, Match 3, Puzzle, Superhero

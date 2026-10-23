@@ -21,4 +21,4 @@ Box Smasher is the ultimate fun game where your aim is to launch a ball and dest
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Casual, HTML, smash
+- Tags: Arcade, block, Casual, HTML, smash

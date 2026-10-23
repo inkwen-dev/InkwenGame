@@ -21,4 +21,4 @@ Youve entered the Strictest School in the World! Evil Teacher Mr. MeanieHead hat
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Android, Escape, Fun, Funny, Granny, jump, Jumping, roblox, run, running, School
+- Tags: 1 Player, 3D, 3D Games, Android, Escape, Fun, Funny, granny, jump, jumping, roblox, run, running, School

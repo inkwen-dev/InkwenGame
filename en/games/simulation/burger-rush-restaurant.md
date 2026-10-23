@@ -21,4 +21,4 @@ Welcome to your burger paradise! Dive into the sizzling world of restaurant mana
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Cook, Cooking, Restaurant
+- Tags: Arcade, Cook, Cooking, restaurant

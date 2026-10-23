@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 大脑, 卡牌, 家庭, 万圣节, HTML, HTML5, 儿童, 儿童, 消除三连, 消除3, 配对, 记忆, 怪物
+- 标签: 2D, 大脑, 卡牌, 家庭, 万圣节, HTML, HTML5, 儿童, 儿童, 三消, 三消游戏, 匹配, 记忆, monster

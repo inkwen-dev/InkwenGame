@@ -21,4 +21,4 @@ In Ball Merge 2048, you start the game with ball number 2 and enlarge your ball 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Ball, Collecting, Educational, Highscore, Hypercasual, run, running
+- Tags: 1 Player, 3D, Ball, Collecting, educational, Highscore, Hypercasual, run, running

@@ -15,6 +15,6 @@ Navigate a charming pixel world in Valentine's Day Adventures, where you'll coll
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GamePix
-- Tags: Pixel
+- Tags: pixel

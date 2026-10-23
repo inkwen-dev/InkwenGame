@@ -21,4 +21,4 @@ among us parkour game 1 finish the parkour!
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Arcade, Parking, Shooter
+- Tags: 1 Player, Action, Arcade, parking, Shooter

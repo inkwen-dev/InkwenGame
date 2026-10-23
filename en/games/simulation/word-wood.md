@@ -21,4 +21,4 @@ Swipe the letters horizontally, vertically, diagonally, forwards or backwards to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Puzzle, Simulator, Word
+- Tags: Brain, Puzzle, Simulator, word

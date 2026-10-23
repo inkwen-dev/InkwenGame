@@ -19,6 +19,6 @@ Its a simple puzzle game. You need to sort the mixed balls in the container acco
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boys, Color, Funny, Girls, H5, Pinball, Play, Puzzle

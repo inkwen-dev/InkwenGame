@@ -21,4 +21,4 @@ Zombie Apocalypse Zombie Z is a thrilling survival game that plunges you into th
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Android, Crazy, HTML, HTML5, Mobile, Shoot, Shooting, Unity3D, WebGL, Zombie
+- Tags: 1 Player, 3D Games, Android, crazy, HTML, HTML5, Mobile, Shoot, Shooting, Unity3D, WebGL, Zombie

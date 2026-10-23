@@ -19,6 +19,6 @@ Tomb Of The Dash is a classic puzzle game with infinite procedurally-generated v
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Boy, Classic, Collecting, Fun, Highscore, HTML5, Kid, Mobile, Obstacle, tomb

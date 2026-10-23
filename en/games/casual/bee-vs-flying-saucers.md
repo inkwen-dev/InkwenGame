@@ -21,4 +21,4 @@ It&rsquo;s harvest season, and the bees need your help! In this thrilling arcade
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Casual, Click, Hypercasual, jump, Jumping
+- Tags: Animal, Casual, Click, Hypercasual, jump, jumping

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 3D, 家庭, 女孩, 女孩们, HTML, HTML5, 儿童, 儿童, 配对, 数学
+- 标签: 2D, 3D, 家庭, 女孩, 女孩, HTML, HTML5, 儿童, 儿童, 匹配, 数学

@@ -21,4 +21,4 @@ Deep Digger Tycoon is a satisfying digging and upgrade tycoon where every scoop 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, idle, Management, Simulation
+- Tags: Casual, idle, management, Simulation

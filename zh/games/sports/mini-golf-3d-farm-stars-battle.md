@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 游戏, 高尔夫, 运动
+- 标签: 3D, 3D游戏, 网页游戏, 高尔夫, 体育

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 街机, 休闲, 差异, HTML5, 益智
+- 标签: 2D, 街机, 休闲, 找不同, HTML5, 益智

@@ -21,4 +21,4 @@ Mahjong Tralalero Tralala &ndash; Match, Relax &amp; Enjoy the Fun! Dive into a 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Brain, Hypercasual, jump, Mahjong, Mario, Obstacle, Platform, run, Sprunki, Strategy, trap
+- Tags: Action, Brain, Hypercasual, jump, mahjong, mario, Obstacle, Platform, run, Sprunki, strategy, trap

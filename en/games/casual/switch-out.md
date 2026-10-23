@@ -19,6 +19,6 @@ Switch from wall to wall to avoid oncoming objects. Collect stars to increase yo
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, Ball, Block, Casual, Click, endless, Game, Highscore, Hypercasual, iPhone, Mobile, Obstacle, unity
+- Tags: 2D, Android, Ball, block, Casual, Click, endless, Game, Highscore, Hypercasual, iPhone, Mobile, Obstacle, unity

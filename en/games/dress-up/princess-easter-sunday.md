@@ -19,6 +19,6 @@ Hey girls!, Easter is the most awaited celebration in spring. These princess are
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Decoration, Dress Up, Easter, Fashion, Girl, HTML5, Kids, Princess

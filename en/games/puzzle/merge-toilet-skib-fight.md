@@ -21,4 +21,4 @@ Merge Toilet Skib Fight is an outlandish and action-packed game where players co
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Skibidi, Skibidi Toilet
+- Tags: Skibidi, skibidi-toilet

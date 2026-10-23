@@ -21,4 +21,4 @@ Big Snake.io is one of the most popular .io online multiplayer games that offers
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, H5, Hot, HTML, HTML5, Multiplayer, Snake
+- Tags: .io, .io Games, Action, H5, Hot, HTML, HTML5, Multiplayer, snake

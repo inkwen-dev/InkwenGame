@@ -21,4 +21,4 @@ Do you like kittens? Do you know how to take care of kittens? Come take a look a
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cleaning, Cute, Doctor, Dress Up, Girl, Girls, Grooming, Kids, Simulation, Surgery
+- Tags: Animal, Cleaning, Cute, Doctor, Dress Up, Girl, Girls, Grooming, Kids, Simulation, surgery

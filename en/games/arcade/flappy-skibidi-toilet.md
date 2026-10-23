@@ -21,4 +21,4 @@ Help Skibidi Toilet to avoid the pipes obstacles in this flappy bird game and tr
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Flight, HTML, HTML5, Mobile, Skibidi, Skibidi Toilet
+- Tags: Arcade, Boy, flight, HTML, HTML5, Mobile, Skibidi, skibidi-toilet

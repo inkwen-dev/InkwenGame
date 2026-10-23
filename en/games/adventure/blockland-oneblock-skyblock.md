@@ -19,6 +19,6 @@ Are you ready for an adventure that starts with a small island and a single bloc
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, blocky, Mine, mineblock, Minecraft, sky, survival
+- Tags: block, blocky, Mine, mineblock, Minecraft, sky, survival

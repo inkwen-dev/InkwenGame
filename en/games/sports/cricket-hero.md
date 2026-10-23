@@ -19,6 +19,6 @@ Do you have what it takes to be the next Cricket Hero? Grab your bat and hit awa
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Cool, Sport
+- Tags: Ball, cool, Sport

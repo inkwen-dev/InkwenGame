@@ -21,4 +21,4 @@ Disk Rush 是一款快节奏的 3D 雅典娜游戏，你需要反应迅速才能
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 3D, 3D 游戏, 街机, 侧向滚动
+- 标签: 2D, 3D, 3D游戏, 街机, 横向滚动

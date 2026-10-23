@@ -19,6 +19,6 @@ Find-The-Differences is an interesting puzzle game. You need to seek the differe
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boy, Boys, Brain, Difference, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: 2D, Boy, Boys, Brain, Difference, educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

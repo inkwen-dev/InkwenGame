@@ -19,6 +19,6 @@ WE BARE BEARS: HOW TO DRAW GRIZZLY GAME · PLAY ONLINE FOR FREE We Bare Bears: H
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Arcade, Color, Coloring, Draw, Drawing, HTML5, Online, Punch
+- Tags: .io Games, Arcade, Color, Coloring, Draw, drawing, HTML5, Online, Punch

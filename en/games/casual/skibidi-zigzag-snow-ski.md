@@ -21,4 +21,4 @@ Set out on an electrifying mountain expedition with Skibidi ZigZag Snow Ski &nda
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Click, HTML5, Hypercasual, iPad, iPhone, Mentolatux, Mobile, Ski, Skibidi, Skibidi Toilet, Snow
+- Tags: Android, Click, HTML5, Hypercasual, iPad, iPhone, Mentolatux, Mobile, Ski, Skibidi, skibidi-toilet, Snow

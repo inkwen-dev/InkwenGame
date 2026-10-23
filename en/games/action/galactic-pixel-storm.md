@@ -21,4 +21,4 @@ Embark on an exciting cosmic adventure in Galactic Pixel Storm! Immerse yourself
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Alien, Battle, Block, Bomb, demolition, Minecraft
+- Tags: 1 Player, 2D, Action, Alien, battle, block, Bomb, demolition, Minecraft

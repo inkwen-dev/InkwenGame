@@ -19,6 +19,6 @@ Hey Mr. Pumpkin you need to escape from the Chaser! Try to resit the more you ca
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arcade, Halloween, HTML, HTML5, jump, Jumping, Mobile, Monster
+- Tags: 2D, Adventure, Arcade, Halloween, HTML, HTML5, jump, jumping, Mobile, monster

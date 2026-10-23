@@ -19,6 +19,6 @@ Santa Claus Adventures is a kids christmas game. Adventure with Santa. You need 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Christmas, Collecting, Fun, HTML5, Kids, running, Skills, Winter

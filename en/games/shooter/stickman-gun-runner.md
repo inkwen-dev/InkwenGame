@@ -19,6 +19,6 @@ Stickman Gun Runner is an action-packed RPG runner shooter game that combines fa
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Action, Arcade, Best Games, Casual, firefighters, Gun, running, Shooter, Stickman, weapons
+- Tags: 2026 games, Action, Arcade, Best Games, Casual, firefighters, Gun, running, Shooter, stickman, weapons

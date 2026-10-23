@@ -19,6 +19,6 @@ Paper Animals Pair is a matching game where you need to match two same cards. Cl
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Kids, Memory, Mobile, Puzzle
+- Tags: Animal, Kids, memory, Mobile, Puzzle

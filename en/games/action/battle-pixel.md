@@ -21,4 +21,4 @@ Enter this battle, fight and conquer as many victories as you can.
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Battle, Game, Hypercasual, Online, Pixel
+- Tags: Adventure, Arcade, battle, Game, Hypercasual, Online, pixel

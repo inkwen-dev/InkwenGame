@@ -19,6 +19,6 @@ Hurry Ambulance is a fun driving game where you race through traffic in an ambul
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Action, Car, Cars, Driving, free games for your website, Racing, Traffic, unity games for your website, WebGL

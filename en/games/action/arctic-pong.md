@@ -19,6 +19,6 @@ Little seal needs your help! Gather enough coins to free his friends. Be quick a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Animal, endless, Frozen, Game, Games, HTML5, Hypercasual

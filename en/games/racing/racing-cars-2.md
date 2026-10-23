@@ -19,6 +19,6 @@ Racing Cars 2 is a fun driving game where you can play single-player levels or h
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Mobile, Multiplayer, Race, Racing

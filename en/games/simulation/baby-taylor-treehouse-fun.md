@@ -21,4 +21,4 @@ Taylor's tree house is her favorite place, and she likes to sleep in the tree ho
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cooking, Cute, Decorate, Educational, Food, Girl, Girls, Kids, Puzzle, Simulation
+- Tags: Baby, Cooking, Cute, Decorate, educational, Food, Girl, Girls, Kids, Puzzle, Simulation

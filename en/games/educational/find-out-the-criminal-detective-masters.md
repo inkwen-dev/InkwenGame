@@ -21,4 +21,4 @@ If you like to play detective games, you can't miss Find Out The Criminal, an ad
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, Brain, Detective, Educational, Fun, H5, HTML5, Kid, Kids, Puzzle
+- Tags: Boy, Boys, Brain, Detective, educational, Fun, H5, HTML5, Kid, Kids, Puzzle

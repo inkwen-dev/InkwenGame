@@ -25,4 +25,4 @@ Monster Tile Party is a bright, family-friendly triple-tile puzzle game. Pick ti
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Match 3, Matching, Monster, Puzzle
+- Tags: Match 3, Matching, monster, Puzzle

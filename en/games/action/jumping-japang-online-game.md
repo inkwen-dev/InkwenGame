@@ -21,4 +21,4 @@ This is a freely available game of Jump Endless Runner, which was created by som
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: endless, jump, Jumping, run, running
+- Tags: endless, jump, jumping, run, running

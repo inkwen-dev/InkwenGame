@@ -21,4 +21,4 @@ German 4x4 Vehicles Jigsaw is a free online game in the jigsaw puzzle genre. You
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle, Truck
+- Tags: Car, Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle, truck

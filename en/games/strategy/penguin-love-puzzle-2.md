@@ -21,4 +21,4 @@ Penguin Love Puzzle is a fun pixel puzzle game. A couple of penguins are forced 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Animal, Avoid, Boy, H5, HTML5, Kid, Love, Skill, Strategy
+- Tags: Android, Animal, Avoid, Boy, H5, HTML5, Kid, Love, Skill, strategy

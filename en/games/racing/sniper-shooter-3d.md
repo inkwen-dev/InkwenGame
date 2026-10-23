@@ -21,4 +21,4 @@ Step into the role of an elite marksman in Sniper Shooter 3D! Take position on r
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Car, Sniper
+- Tags: 3D, Action, Adventure, Car, sniper

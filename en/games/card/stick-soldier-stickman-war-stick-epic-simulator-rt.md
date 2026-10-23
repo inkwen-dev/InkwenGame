@@ -19,6 +19,6 @@ Stick soldier is Arcade game, Hold your finger on screen to make the stick grow.
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Fight, HTML5, Logic, Simulator, Solitaire, Stickman, War, WebGL
+- Tags: 1 Player, 2D, Action, Adventure, Fight, HTML5, Logic, Simulator, solitaire, stickman, War, WebGL

@@ -19,6 +19,6 @@ In TankHit game you are crashing head on against CPU or against a friend. In thi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arena, Battle, Tank, Tanks, War
+- Tags: Arena, battle, Tank, tanks, War

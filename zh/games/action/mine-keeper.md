@@ -21,4 +21,4 @@ PC 操作 使用 WASD 方向键，左键拖动以移动。移动设备操作 使
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D游戏, 建筑, 收集, 农场, 格斗游戏, 俯视角, Unity3D
+- 标签: 3D, 3D游戏, 建造, 收集, 农场, 格斗, 俯视, Unity3D

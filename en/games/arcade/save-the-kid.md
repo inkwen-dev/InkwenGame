@@ -19,6 +19,6 @@ Welcome to Save the Kid, a new amazing and addictive game. Your mission is to Cu
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Boy, Boys, Casual, Clicker, cut, Hot, Hypercasual, Strategy
+- Tags: Arcade, Best, Boy, Boys, Casual, Clicker, cut, Hot, Hypercasual, strategy

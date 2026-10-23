@@ -21,4 +21,4 @@ In game Primary Math, you are given mainly 40 levels through that you have to go
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Educational, Fun, HTML5, Kids, Math, Mobile, Skill
+- Tags: educational, Fun, HTML5, Kids, math, Mobile, Skill

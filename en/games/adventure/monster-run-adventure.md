@@ -21,4 +21,4 @@ In our magical world lives a little monster - Riki. He like to travel in his wor
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Fun, HTML5, Kids, Mobile, Monster, Puzzle, Skill
+- Tags: Casual, Fun, HTML5, Kids, Mobile, monster, Puzzle, Skill

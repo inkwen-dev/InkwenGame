@@ -21,4 +21,4 @@ Merge tiles with identical numbers by sliding them across the board. When two ti
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2048, blockchain, Classic, Forest, Highscore, html5 games, Mobile, Number, Puzzle, Strategy
+- Tags: 2048, blockchain, Classic, Forest, Highscore, html5 games, Mobile, Number, Puzzle, strategy

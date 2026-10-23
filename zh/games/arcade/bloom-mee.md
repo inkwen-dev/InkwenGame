@@ -21,4 +21,4 @@ Bloom Mee 是一款有趣的色彩宾果游戏。选择正确的答案，让花�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 色彩, 乐趣, 搞笑, 游戏, 游戏, HTML, HTML5
+- 标签: 街机, 颜色, 有趣, 搞笑, 游戏, 网页游戏, HTML, HTML5

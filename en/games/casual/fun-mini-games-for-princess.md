@@ -19,6 +19,6 @@ Welcome to Fun Mini Games For Princess, a collection of mini casual games for ki
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Girls, Princess, Relaxation

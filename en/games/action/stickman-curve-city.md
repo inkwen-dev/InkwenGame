@@ -19,6 +19,6 @@ Curve City Stickman is a 3D stickman running game and your mission is to reach t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Collecting, endless, Mobile, running, Stickman
+- Tags: Avoid, Collecting, endless, Mobile, running, stickman

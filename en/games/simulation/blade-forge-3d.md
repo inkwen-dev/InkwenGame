@@ -19,6 +19,6 @@ Step into the fiery forge of Blade Forge 3D, the ultimate 3D simulation casual g
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Craft, Funny, Simulation, weapons

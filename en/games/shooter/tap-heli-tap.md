@@ -21,4 +21,4 @@ Tap Heli Tap is fun helicopter flying game suitable for all ages. Tap your heli 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Android, Avoid, Boys, Collecting, fly, Helicopter, HTML5, Kids, Skill
+- Tags: Action, Android, Avoid, Boys, Collecting, fly, helicopter, HTML5, Kids, Skill

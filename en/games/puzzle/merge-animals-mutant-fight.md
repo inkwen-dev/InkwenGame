@@ -21,4 +21,4 @@ Come to begin a wonderful battle of beasts in Merge Animals - Mutant Fight! To b
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle
+- Tags: battle

@@ -19,6 +19,6 @@ Crowd Gun 3D is a fast-paced runner where you recruit stickmen along the track t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Best Games, Boys

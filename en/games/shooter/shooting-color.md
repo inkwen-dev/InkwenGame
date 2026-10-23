@@ -19,6 +19,6 @@ Pay attention to the color matching and shape, and then find out their combinati
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Ball, Block, Boys, Bricks, Coloring, Girls, Kids, Launch, Logical, Puzzle, Strategy
+- Tags: 3D, Ball, block, Boys, Bricks, Coloring, Girls, Kids, Launch, Logical, Puzzle, strategy

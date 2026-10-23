@@ -19,6 +19,6 @@ re you looking for an addictive submarine underwater game for Tik Tok? Do you li
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Kid, Kids, Relaxation

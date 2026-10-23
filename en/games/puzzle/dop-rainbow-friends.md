@@ -19,6 +19,6 @@ What do rainbow friends look like? Come into our game and find out! In the game 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Dating, Girl, Girls, Hot, Logic, Logical, Love, Monster, Point And Click, Puzzle
+- Tags: Brain, Dating, Girl, Girls, Hot, Logic, Logical, Love, monster, Point And Click, Puzzle

@@ -19,6 +19,6 @@ Table Tennis is a game which you can play table tennis with cartoon network char
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Ben 10, Cartoon Network, Sports, Tennis
+- Tags: 1 Player, Arcade, Ben 10, Cartoon Network, sports, Tennis

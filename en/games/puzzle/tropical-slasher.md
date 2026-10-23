@@ -19,6 +19,6 @@ In this game Tropical Slasher your task is to cut all the fruits and not to let 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fruit, Fun, HTML5, Kids, Mobile, Puzzle, Skill

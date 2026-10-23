@@ -21,4 +21,4 @@ The full pack of cards is dealt to the card table, into four rows of cards. Each
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Card, Girl, Logic, Puzzle
+- Tags: card, Girl, Logic, Puzzle

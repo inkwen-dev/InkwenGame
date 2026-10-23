@@ -21,4 +21,4 @@ Jump across dangerous platforms and guide a Minecraft creeper through blocky esc
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Escape, Jumping, Minecraft, Platform
+- Tags: Adventure, Escape, jumping, Minecraft, Platform

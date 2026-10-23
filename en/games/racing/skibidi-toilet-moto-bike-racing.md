@@ -19,6 +19,6 @@ Skibidi Toilet Moto Bike Racing with a cool bike racing Skibidi Toilet. Toilet v
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, Boy, buggy, Cartoon, Casual, Motorcycle, Race, Racing, Simulator, Skibidi Toilet, Sport, WebGL
+- Tags: bike, Boy, buggy, Cartoon, Casual, Motorcycle, Race, Racing, Simulator, skibidi-toilet, Sport, WebGL

@@ -19,6 +19,6 @@ Race, mod, and tune dozens of real licensed cars! Start a team, invite your frie
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Action, Adventure, Ballon, Bejeweled, Bike, Boy, Boys, Bubble, Bubble Shooter, bus, Candy, Car, Cars, drift, drifting, Driving, Girls, jump, Jumping, Kid, Kids, Moto, Motorcycle, Puzzle, Sim, Simulation, Simulator, Supercars, Truck
+- Tags: 8 Ball Pool, Action, Adventure, Ballon, Bejeweled, bike, Boy, Boys, Bubble, Bubble Shooter, bus, Candy, Car, Cars, drift, drifting, Driving, Girls, jump, jumping, Kid, Kids, Moto, Motorcycle, Puzzle, Sim, Simulation, Simulator, Supercars, truck

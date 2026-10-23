@@ -21,4 +21,4 @@ Survival Monk - Jumping Monkey Adventure is a Collect banana and survive in this
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, HTML, HTML5, jump, Jumping, Online
+- Tags: Arcade, Best, HTML, HTML5, jump, jumping, Online

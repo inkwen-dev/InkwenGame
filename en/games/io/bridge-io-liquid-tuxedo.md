@@ -19,6 +19,6 @@ Collect water blue from the arena map from the ground and then build your bridge
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, HTML5, iPad, iPhone, Mentolatux, Mobile, run, running

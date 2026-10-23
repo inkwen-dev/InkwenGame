@@ -19,6 +19,6 @@ Join Modern Strikes Online PvP FPS to compete against your friends in a thrillin
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Block, Multiplayer, Shooter, Shooting, Unity3D
+- Tags: 3D Games, block, Multiplayer, Shooter, Shooting, Unity3D

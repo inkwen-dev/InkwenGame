@@ -19,6 +19,6 @@ In this game you are strawberry and need to set the timing correctly so that you
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, HTML5, Kids, Mobile, Puzzle, Skill

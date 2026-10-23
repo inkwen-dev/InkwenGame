@@ -21,4 +21,4 @@ Hey, our little yellow astronaut had a problem with his spaceship and had to lan
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, mapi games, Pixel, Platform, Retro, Shooter, Space
+- Tags: Arcade, mapi games, pixel, Platform, retro, Shooter, Space

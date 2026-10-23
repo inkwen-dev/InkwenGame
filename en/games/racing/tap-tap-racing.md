@@ -19,6 +19,6 @@ Tap Tap Racing &ndash; Retro Three-Lane Arcade Racer! Buckle up and get ready fo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Avoid, Obstacle, Race, Racing, Retro
+- Tags: 1 Player, 2D, Avoid, Obstacle, Race, Racing, retro

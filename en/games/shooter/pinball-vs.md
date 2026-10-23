@@ -19,6 +19,6 @@ PinBall 1V1 battle! [Pretend] Fight with world player 1V1! 6 theme scenes, 20+ p
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Ball, Casual

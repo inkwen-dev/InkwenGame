@@ -19,6 +19,6 @@ Bazooka Boy is a fun shooting breakout casual game. Use the weapons at hand to f
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Boy, Boys, Bubble Shooter, Fun, H5, HTML5, Kid, Kids, Shoot, Shooting

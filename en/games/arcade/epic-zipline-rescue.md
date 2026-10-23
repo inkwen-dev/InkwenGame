@@ -19,6 +19,6 @@ Can you Zipline people and survive in Ultimate challenging puzzle game perfectio
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Arcade, Casual, Fun, Funny, Hot, Hypercasual, jump, Jumping, Rescue, Unity3D
+- Tags: 3D, 3D Games, Action, Arcade, Casual, Fun, Funny, Hot, Hypercasual, jump, jumping, Rescue, Unity3D

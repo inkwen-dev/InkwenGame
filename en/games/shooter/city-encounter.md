@@ -19,6 +19,6 @@ Inspector Vijay is taking the challenge of encountering alone with the terrorist
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Army, assasin, Fire, Gun, Police, Shooter, Shooting, Street Fighting, War
+- Tags: Action, Adventure, Army, assasin, Fire, Gun, police, Shooter, Shooting, Street Fighting, War

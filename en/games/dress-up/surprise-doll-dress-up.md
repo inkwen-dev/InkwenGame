@@ -19,6 +19,6 @@ Attention to all blind box enthusiasts! Have you ever considered indulging in a 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cute, Dress Up, Fashion, Fun, Girls, Hair, HTML5, Jewel, Kids, Mobile

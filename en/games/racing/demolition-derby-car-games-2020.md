@@ -19,6 +19,6 @@ Smash and Bang your way to the lead in this fun and exciting Demolition game ins
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Car, Cars, Game, Games, HTML, HTML5, Race, Racing

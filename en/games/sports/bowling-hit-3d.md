@@ -21,4 +21,4 @@ Play the best bowling game in amazing realistic 3d graphics. Test your bowling s
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boy, Boys, Casual, Cool, HTML5, WebGL
+- Tags: 3D, Boy, Boys, Casual, cool, HTML5, WebGL

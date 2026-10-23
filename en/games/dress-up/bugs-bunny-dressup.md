@@ -19,6 +19,6 @@ Cute cartoon Bugs Bunny loves to eat vegetables. Eats the most carrots. He wears
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Boy, Boys, Cartoon, Dress Up, Fun, Games, Girl, Girls, HTML5, Rabbit

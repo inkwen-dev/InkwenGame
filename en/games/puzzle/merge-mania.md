@@ -24,4 +24,4 @@ Zap those numbers by pitting them against one another! Let's see how much you sc
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Logic, Math, merge, Number, Puzzle
+- Tags: Logic, math, merge, Number, Puzzle

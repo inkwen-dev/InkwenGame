@@ -21,4 +21,4 @@ Zombies are coming but you have only one gun, can you defend your homeland? Try 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Mobile, Monster, Shooter, Vampire, Zombie
+- Tags: Best, Mobile, monster, Shooter, Vampire, Zombie

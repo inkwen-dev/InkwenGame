@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 汽车, 驾驶, 停车, 逼真
+- 标签: 汽车, 驾驶, 停车, 真实

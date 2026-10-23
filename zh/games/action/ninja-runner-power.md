@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 杀人, 怪兽, 忍者, 跑步
+- 标签: 击杀, monster, 忍者, 奔跑

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 3D, 3D 游戏, 船, HTML, HTML5, 多人游戏, 竞速, 赛车, 放松, 运动
+- 标签: .io, .io 游戏, 3D, 3D游戏, 船只, HTML, HTML5, 多人, 比赛, 竞速, 放松, 体育

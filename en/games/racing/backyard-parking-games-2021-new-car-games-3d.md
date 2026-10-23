@@ -21,4 +21,4 @@ Welcome to the brand new car stunt driving games 2021! Get ready to play mega ra
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D, 3D Games, Adventure, Car, Cars, Game, Games, Parking, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D
+- Tags: .io Games, 2 Player Games, 3D, 3D Games, Adventure, Car, Cars, Game, Games, parking, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D

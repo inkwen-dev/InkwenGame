@@ -21,4 +21,4 @@ Racing Horizon 是一款 3D 且无限制的赛车游戏，您将驾驶着超强�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 1人, 3D, 3D游戏, 冒险, 汽车, 驾驶, 竞速, 模拟, 交通, WebGL
+- 标签: 单人, 3D, 3D游戏, 冒险, 汽车, 驾驶, 比赛, 模拟, 交通, WebGL

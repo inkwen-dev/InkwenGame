@@ -21,4 +21,4 @@ This is a game designed for school children from Std. 3-5, who should be able to
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Educational, Kids, Math
+- Tags: Best Games, educational, Kids, math

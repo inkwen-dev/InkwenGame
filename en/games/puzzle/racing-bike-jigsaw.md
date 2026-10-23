@@ -21,4 +21,4 @@ Are you a true admirer of hard jigsaw puzzles but tired of constantly missing pi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Match-3, Puzzle
+- Tags: Match 3, Puzzle

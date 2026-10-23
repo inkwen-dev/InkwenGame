@@ -19,6 +19,6 @@ Princess Sofia likes cute animals, especially she has a good friendship with Clo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Casual, Fantasy, Girl, Girls, H5, HTML5, Jigsaw, Princess, Puzzle

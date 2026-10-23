@@ -21,4 +21,4 @@ Solitaire King reinvents the timeless card game for the digital age. With intuit
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, HTML5, iPad, iPhone, Mobile, Solitaire, Unity3D, WebGL
+- Tags: Android, HTML5, iPad, iPhone, Mobile, solitaire, Unity3D, WebGL

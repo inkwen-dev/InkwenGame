@@ -21,4 +21,4 @@ Beautiful and cute mermaid coloring book for sparkly painting, many beautiful me
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Color, Coloring, Decorate, Decoration, Drawing, Girls, Kids, Mermaid, Princess
+- Tags: Cartoon, Color, Coloring, Decorate, Decoration, drawing, Girls, Kids, Mermaid, Princess

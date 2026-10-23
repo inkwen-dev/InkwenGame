@@ -19,6 +19,6 @@ Piggy Bank Demolish Run is a fun and classic 3D pixel-running arcade game. You h
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Boys, Car, Collecting, Girls, Kids, Pixel
+- Tags: Avoid, Boys, Car, Collecting, Girls, Kids, pixel

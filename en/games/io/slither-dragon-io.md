@@ -21,4 +21,4 @@ Slither Dragon.io is an amazing game. Eat multicolored eggs from other players t
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2D, Action, Arena, Dragon, Slither, Strategy, Worm, Worms
+- Tags: 2 Player, 2D, Action, Arena, Dragon, Slither, strategy, worm, Worms

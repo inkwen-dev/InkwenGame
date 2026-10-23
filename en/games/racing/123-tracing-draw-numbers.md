@@ -19,6 +19,6 @@ Slide with your finger or your mouse to form the number
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Draw, Drawing, Educational, Kids, Letters, Math, Number, School
+- Tags: Baby, Draw, drawing, educational, Kids, Letters, math, Number, School

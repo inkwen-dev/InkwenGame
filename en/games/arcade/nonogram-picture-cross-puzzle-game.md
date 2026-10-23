@@ -21,4 +21,4 @@ Nonogram: Picture Cross Puzzle Game requires your math knowledge and space-imagi
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Boy, Brain, Casual, Kid, Number, Pixel, Point And Click, Puzzle
+- Tags: Arcade, Boy, Brain, Casual, Kid, Number, pixel, Point And Click, Puzzle

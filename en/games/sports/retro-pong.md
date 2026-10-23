@@ -19,6 +19,6 @@ Step into gaming history with Retro Pong, a digital revival of the classic arcad
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2D, Arcade, Arkanoid, Ball, Best, Bounce, free games for your site, Fun, HTML5, Hypercasual, Multiplayer, Retro, Sport
+- Tags: 2 Player, 2D, Arcade, Arkanoid, Ball, Best, Bounce, free games for your site, Fun, HTML5, Hypercasual, Multiplayer, retro, Sport

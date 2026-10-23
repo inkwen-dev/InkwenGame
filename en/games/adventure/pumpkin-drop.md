@@ -19,6 +19,6 @@ Pumpkin Drop is the coolest physics-based puzzle game. Drop the Pumpkin down ont
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Block, Bricks, Halloween, HTML, HTML5, Mobile, Monster, Physics
+- Tags: 1 Player, 2D, Adventure, block, Bricks, Halloween, HTML, HTML5, Mobile, monster, Physics

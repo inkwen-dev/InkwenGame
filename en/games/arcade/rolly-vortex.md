@@ -19,6 +19,6 @@ Vortex Ball Roling, ballz game is a very interesting and addictive casual game t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Boy, Brain, Escape, Kids

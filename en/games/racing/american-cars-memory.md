@@ -21,4 +21,4 @@ American Cars Memory is a free online game from genre of memory and kids games. 
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Car, Cars, Fun, HTML5, Kids, Memory, Mobile, Skill
+- Tags: 1 Player, Car, Cars, Fun, HTML5, Kids, memory, Mobile, Skill

@@ -19,6 +19,6 @@ Jumping Boy is a great infinite adventure game. Help the boy run as far as possi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, jump, Jumping, Obstacle, run
+- Tags: 2D, jump, jumping, Obstacle, run

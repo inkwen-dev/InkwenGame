@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 森林, 闲暇, 岛屿, Mentolatux, 技巧, 生存, 无限制游戏, WebGL
+- 标签: 森林, idle, 岛屿, Mentolatux, 技巧, 生存, 无限制游戏, WebGL

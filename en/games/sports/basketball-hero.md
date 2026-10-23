@@ -21,4 +21,4 @@ Are you a basketball enthusiast? You want to mingle with the dramatic basketball
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baseball, Basketball, Football, Pinball, Sport, Sports, World
+- Tags: baseball, basketball, Football, Pinball, Sport, sports, World

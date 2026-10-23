@@ -19,6 +19,6 @@ Get ready for a crazy zombie war in Crazy Zombie Hunter. Fight against different
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Arcade, Battle, Battlegrounds, Cartoon, Casual, Helicopter, HTML5, Kill, Shooter, Tower Defense, Zombie
+- Tags: 2D, Action, Adventure, Arcade, battle, Battlegrounds, Cartoon, Casual, helicopter, HTML5, Kill, Shooter, Tower Defense, Zombie

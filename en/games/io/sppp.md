@@ -19,6 +19,6 @@ Draw On Sand in that you can write a note or message to someone on your screens 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D Games, Action, Adventure, Arcade, Cake, Casual, drift, Fun, Funny, Hot, Hypercasual, Sandbox, Super, Unity3D

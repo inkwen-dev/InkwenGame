@@ -19,6 +19,6 @@ Welcome, this app is dedicated to fans of the Squid Game series, it's a game whe
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Casual, Hypercasual

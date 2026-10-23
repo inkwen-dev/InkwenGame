@@ -19,6 +19,6 @@ People in the world are in danger! Save people with your rescue rocket. Every pe
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Fun, Funny, Game, HTML5, New, Rocket

@@ -21,4 +21,4 @@ The crew is just waiting for your order to set sail, all ready to go off in sear
 - Plays on: desktop, mobile
 - Game language: en, zh
 - Developer: GameMonetize
-- Tags: Match 3, Ninja, Puzzle
+- Tags: Match 3, ninja, Puzzle
